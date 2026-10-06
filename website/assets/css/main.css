@@ -163,6 +163,23 @@ select, input[type="search"], input[type="text"] { width: 100%; }
   * { transition: none !important; animation: none !important; }
   button:active, .btn:active { transform: none; }
 }
+/* Mobile (<=700px) */
+@media (max-width: 700px) {
+  main { padding: var(--space-4) var(--space-3); }
+  h1 { font-size: 1.35rem; }
+  .nav { flex-direction: column; align-items: stretch; gap: var(--space-2); }
+  .nav-links { margin-left: 0; flex-wrap: nowrap; overflow-x: auto; padding-bottom: var(--space-1); -webkit-overflow-scrolling: touch; }
+  .nav-links a { white-space: nowrap; }
+  .hero { padding: var(--space-4); }
+  .toolbar { flex-direction: column; }
+  .toolbar select, .toolbar input { width: 100%; }
+  table.data { display: block; width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  .modal { padding: var(--space-4); }
+  .btn-row .btn, .btn-row button { flex: 1 1 auto; text-align: center; }
+  #sheet { overflow-x: auto; }
+  .exam-submit { width: 100%; text-align: left; }
+  .exam-submit .btn-lg { width: 100%; }
+}
 /* Lesson detail */
 .lesson-layout { display: grid; gap: var(--space-5); grid-template-columns: minmax(0, 1fr); }
 .lesson-layout > * { min-width: 0; }
