@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bảng tính luyện tập — Excel &amp; Word Lab</title>
+<link rel="stylesheet" href="assets/css/main.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/x-data-spreadsheet@1.1.9/dist/xspreadsheet.css">
+</head>
+<body data-page="bang-tinh">
+<a class="skip-link" href="#main">Bỏ qua tới nội dung</a>
+<header class="site-header">
+  <nav class="nav" aria-label="Điều hướng chính">
+    <a class="brand" href="index.html">Excel &amp; Word Lab</a>
+    <div class="nav-links">
+      <a data-nav="home" href="index.html">Trang chủ</a>
+      <a data-nav="excel" href="excel.html">Excel</a>
+      <a data-nav="word" href="word.html">Word</a>
+      <a data-nav="cong-thuc" href="cong-thuc.html">Công thức</a>
+      <a data-nav="thuc-hanh" href="thuc-hanh.html">Thực hành</a>
+      <a data-nav="bang-tinh" href="bang-tinh.html">Bảng tính</a>
+      <a data-nav="trac-nghiem" href="trac-nghiem.html">Trắc nghiệm</a>
+    </div>
+  </nav>
+</header>
+<main id="main">
+  <h1>Bảng tính luyện tập ngay trên web</h1>
+  <p class="muted">Bảng tính Excel thu nhỏ: gõ số, gõ công thức có dấu <code>=</code>, rồi bấm chấm. Không cần mở app.</p>
+  <div class="toolbar">
+    <select id="mon" aria-label="Chọn môn">
+      <option value="excel">Excel</option>
+      <option value="word">Word</option>
+    </select>
+    <select id="bai" aria-label="Chọn bài"></select>
+    <button id="grade">Chấm toàn bộ</button>
+    <span class="muted" id="score"></span>
+  </div>
+  <div class="lesson-layout">
+    <section aria-label="Bảng tính">
+      <div id="sheet" style="border:1px solid var(--border);border-radius:10px;overflow:hidden"></div>
+      <p class="muted">Mẹo: bấm vào ô cột E (màu vàng) để nhập công thức trả lời.</p>
+    </section>
+    <section aria-label="Bài tập">
+      <h2>Bài tập của bài này</h2>
+      <div id="tasks"></div>
+    </section>
+  </div>
+</main>
+<footer class="site-footer">Excel &amp; Word Lab</footer>
+<script src="https://cdn.jsdelivr.net/npm/x-data-spreadsheet@1.1.9/dist/xspreadsheet.js"></script>
+<script src="assets/js/common.js"></script>
+<script>
+let D = null, xs = null, targets = [];
+const $ = id => document.getElementById(id);
+const norm = s => (s || "").toUpperCase().replace(/\s+/g, "");
+const SAMPLE = [
+  ["Mặt hàng", "Số lượng", "Đơn giá", "", "Trả lời ở cột E"],
+  ["Bút bi", 120, 3500, "", ""],
+  ["Vở kẻ ngang", 85, 12000, "", ""],
+  ["Thước kẻ", 60, 8000, "", ""],
+  ["Compa", 45, 25000, "", ""],
+  ["Tẩy", 200, 4000, "", ""],
+  ["Màu nước", 30, 55000, "", ""],
+  ["Giấy A4", 150, 1200, "", ""],
+  ["Kẹp giấy", 90, 15000, "", ""]
+];
+function cell(r, c, text, style) {
+  const o = { text: String(text) };
+  if (style !== undefined) o.style = style;
+  return o;
+}
+async function loadLesson() {
+  const mon = $("mon").value, vid = $("bai").value;
+  D = await App.load(`lessons/${mon}_${vid}.json`);
+  const rows = {};
+  SAMPLE.forEach((r, ri) => {
+    rows[ri] = { cells: {} };
+    r.forEach((v, ci) => rows[ri].cells[ci] = cell(ri, ci, v, ri === 0 ? 0 : undefined));
+  });
+  targets = [];
+  const fx = (D.practice || []).filter(t => t.loai === "cong_thuc" && t.dap_an);
+  fx.slice(0, 8).forEach((t, i) => {
+    const r = i + 1;
+    if (!rows[r]) rows[r] = { cells: {} };
+    rows[r].cells[4] = cell(r, 4, "");
+    targets.push({ row: r, col: 4, task: t });
+  });
+  const styles = [{ bgcolor: "#fff7d6" }, { bgcolor: "#eef4f1", bold: true }];
+  if (xs) xs.loadData([{ name: "Luyện tập", styles, rows, cols: { len: 6 }, row: { len: 20 } }]);
+  else xs = x_spreadsheet("#sheet", { mode: "edit", showToolbar: true, showGrid: true })
+    .loadData([{ name: "Luyện tập", styles, rows, cols: { len: 6 }, row: { len: 20 } }]);
+  xs.on("cell-edited", () => { $("score").textContent = ""; });
+  renderTasks();
+}
+function renderTasks(done = {}) {
+  $("tasks").innerHTML = targets.map((tg, i) => {
+    const st = done[i];
+    return `<div class="card" style="margin-bottom:0.75rem">
+      <p><strong>E${tg.row + 1}:</strong> ${App.esc(tg.task.yeu_cau)}</p>
+      <p>${st === true ? "<strong>Đúng ✓</strong>" : st === false ? `<strong>Chưa đúng.</strong> Mẫu: <code>${App.esc((tg.task.dap_an || []).join(" | "))}</code>` : `<span class="muted">Gợi ý: <code>${App.esc(tg.task.goi_y || "")}</code></span>`}</p>
+    </div>`;
+  }).join("") || `<div class="empty">Bài này không có bài tập công thức — hãy làm trắc nghiệm.</div>`;
+}
+function grade() {
+  const data = xs.getData()[0];
+  const rows = (data && data.rows) || {};
+  let score = 0;
+  const done = {};
+  targets.forEach((tg, i) => {
+    const c = rows[tg.row] && rows[tg.row].cells && rows[tg.row].cells[tg.col];
+    const v = norm(c && c.text);
+    const ok = v.startsWith("=") && tg.task.dap_an.some(a => norm(a) === v);
+    done[i] = ok;
+    if (ok) score++;
+  });
+  renderTasks(done);
+  $("score").textContent = `Đúng ${score}/${targets.length} ô`;
+}
+async function fillBai(mon) {
+  const lessons = await App.load(mon === "word" ? "word_lessons.json" : "excel_lessons.json");
+  const num = l => { const m = String(l.stt != null ? l.stt : (l.bai || "")).match(/(\d+)/); return m ? +m[1] : 999; };
+  lessons.sort((a, b) => num(a) - num(b));
+  $("bai").innerHTML = lessons.map(l => `<option value="${App.esc(l.video_id)}">${App.esc(l.bai)}</option>`).join("");
+}
+(async () => {
+  await fillBai($("mon").value);
+  $("mon").addEventListener("change", async () => { await fillBai($("mon").value); loadLesson(); });
+  $("bai").addEventListener("change", loadLesson);
+  $("grade").addEventListener("click", grade);
+  await loadLesson();
+})();
+</script>
+</body>
+</html>
