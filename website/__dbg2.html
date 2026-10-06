@@ -26,7 +26,7 @@
     </div>
   </nav>
 </header>
-<main id="main">
+<script>window.__errs=[];window.addEventListener("error",function(e){window.__errs.push("ERR:"+(e.message||e.error))});window.addEventListener("unhandledrejection",function(e){window.__errs.push("REJ:"+((e.reason&&e.reason.stack)||e.reason))});setInterval(function(){var d=document.getElementById("errdump");if(d){d.textContent=window.__errs.join(" ## ")||"NOERR";}},1000);</script><div id="errdump">WAIT</div><main id="main">
   <div class="exam-head">
     <div>
       <h1>Làm bài trên bảng tính</h1>
@@ -78,7 +78,7 @@
 <script src="assets/js/common.js"></script>
 <script>
 let D = null, targets = [];
-const el = id => document.getElementById(id);
+const $ = id => document.getElementById(id);
 const norm = s => (s || "").toUpperCase().replace(/\s+/g, "");
 const SAMPLE = [
   ["Mặt hàng", "Số lượng", "Đơn giá", "", "Trả lời ở cột E"],
@@ -92,12 +92,12 @@ const SAMPLE = [
   ["Kẹp giấy", 90, 15000, "", ""]
 ];
 async function loadLesson() {
-  const mon = el("mon").value, vid = await currentVid();
+  const mon = $("mon").value, vid = await currentVid();
   if (!vid) return;
   D = await App.load(`lessons/${mon}_${vid}.json`);
   const isWord = mon === "word";
-  el("sheetsec").hidden = isWord;
-  el("docsec").hidden = !isWord;
+  $("sheetsec").hidden = isWord;
+  $("docsec").hidden = !isWord;
   if (isWord) { loadDocLesson(); return; }
   targets = [];
   const fx = (D.practice || []).filter(t => t.loai === "cong_thuc" && t.dap_an).slice(0, 8);
@@ -131,7 +131,7 @@ async function loadLesson() {
   renderTasks();
 }
 function renderTasks(done = {}) {
-  el("tasks").innerHTML = targets.map((tg, i) => {
+  $("tasks").innerHTML = targets.map((tg, i) => {
     const st = done[i];
     return `<div class="card" style="margin-bottom:0.75rem">
       <p><strong>E${tg.row + 1}:</strong> ${App.esc(tg.task.yeu_cau)}</p>
@@ -140,7 +140,7 @@ function renderTasks(done = {}) {
   }).join("") || `<div class="empty">Bài này không có bài tập công thức — hãy làm trắc nghiệm.</div>`;
 }
 function grade() {
-  if (el("mon").value === "word") { gradeWord(); return; }
+  if ($("mon").value === "word") { gradeWord(); return; }
   let flow = null;
   try { flow = luckysheet.getSheetData(); } catch (e) { flow = null; }
   let score = 0;
@@ -153,7 +153,7 @@ function grade() {
     if (ok) score++;
   });
   renderTasks(done);
-  el("score").textContent = `Đúng ${score}/${targets.length} ô`;
+  $("score").textContent = `Đúng ${score}/${targets.length} ô`;
   document.querySelector(".exam-grid aside").scrollIntoView({ block: "start" });
 }
 /* ---- Word mode: soạn thảo + chấm định dạng ---- */
@@ -168,9 +168,9 @@ const WORD_DRILLS = [
   { id: "table", label: "Chèn 1 bảng 2×2", hint: "Đặt con trỏ cuối văn bản rồi bấm Bảng 2×2", check: r => !!r.querySelector("table") }
 ];
 function loadDocLesson() {
-  el("docedit").innerHTML = WORD_DOC;
+  $("docedit").innerHTML = WORD_DOC;
   const items = (D.practice || []).filter(t => t.loai !== "cong_thuc").slice(0, 6);
-  el("tasks").innerHTML =
+  $("tasks").innerHTML =
     `<div class="card" style="margin-bottom:.75rem"><p><strong>Kỹ năng tự luyện theo bài.</strong> <span class="muted">Tích vào ô khi bạn đã tự làm được trong khung soạn thảo.</span></p>
     ${items.map(t => `<p><label><input type="checkbox" data-manual> ${App.esc(t.yeu_cau.slice(0, 120))}</label></p>`).join("") || `<p class="muted">Bài này không có bài tập thao tác.</p>`}</div>` +
     WORD_DRILLS.map((d, i) => `
@@ -184,11 +184,11 @@ function loadDocLesson() {
     else if (cmd === "list") document.execCommand("insertUnorderedList");
     else if (cmd === "table") document.execCommand("insertHTML", false, "<table border='1' style='border-collapse:collapse'><tr><td>&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;</td></tr><tr><td>&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;</td></tr></table>");
     else document.execCommand(cmd);
-    el("docedit").focus();
+    $("docedit").focus();
   }));
 }
 function gradeWord() {
-  const root = el("docedit");
+  const root = $("docedit");
   let score = 0;
   WORD_DRILLS.forEach(d => {
     let ok = false;
@@ -198,7 +198,7 @@ function gradeWord() {
     if (card) card.querySelector("[data-wmsg]").innerHTML = ok ? "<strong>Đúng ✓</strong>" : "<strong>Chưa thấy.</strong> " + App.esc("Gợi ý: " + d.hint);
   });
   const manual = document.querySelectorAll("[data-manual]:checked").length;
-  el("score").textContent = `Định dạng đúng ${score}/${WORD_DRILLS.length} · Tự luyện ${manual} mục`;
+  $("score").textContent = `Định dạng đúng ${score}/${WORD_DRILLS.length} · Tự luyện ${manual} mục`;
   document.querySelector(".exam-grid aside").scrollIntoView({ block: "start" });
 }
 async function fillBai(mon) {
@@ -218,9 +218,9 @@ async function fillBai(mon) {
 }
 async function currentVid() { return (App._baiPicker && App._baiPicker.get()) || ""; }
 (async () => {
-  await fillBai(el("mon").value);
-  el("mon").addEventListener("change", async () => { await fillBai(el("mon").value); loadLesson(); });
-  el("grade").addEventListener("click", grade);
+  await fillBai($("mon").value);
+  $("mon").addEventListener("change", async () => { await fillBai($("mon").value); loadLesson(); });
+  $("grade").addEventListener("click", grade);
   await loadLesson();
 })();
 </script>
