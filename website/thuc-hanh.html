@@ -45,7 +45,7 @@
         <option value="excel">Excel</option>
         <option value="word">Word</option>
       </select>
-      <select id="bai" aria-label="Chọn bài"></select>
+      <div id="bai-div" style="flex:3;min-width:240px"></div>
     </div>
     <p>
       <a class="btn secondary" id="dl-file" href="#" download>Tải file bài tập</a>
@@ -73,7 +73,8 @@ const $ = id => document.getElementById(id);
 const norm = s => (s || "").toUpperCase().replace(/\s+/g, "");
 
 async function loadLesson() {
-  const mon = $("mon").value, vid = $("bai").value;
+  const mon = $("mon").value, vid = (App._baiPicker && App._baiPicker.get()) || "";
+  if (!vid) return;
   D = await App.load(`lessons/${mon}_${vid}.json`);
   const ext = mon === "excel" ? "csv" : "doc";
   const url = `files/practice_${vid}.${ext}`;
@@ -189,9 +190,12 @@ async function fillBai(mon) {
   const lessons = await App.load(mon === "word" ? "word_lessons.json" : "excel_lessons.json");
   const num = l => { const m = String(l.stt != null ? l.stt : (l.bai || "")).match(/(\d+)/); return m ? +m[1] : 999; };
   lessons.sort((a, b) => num(a) - num(b));
-  $("bai").innerHTML = lessons.map(l => `<option value="${App.esc(l.video_id)}">${App.esc(l.bai)}</option>`).join("");
-  const p = new URLSearchParams(location.search);
-  if (p.get("bai")) $("bai").value = p.get("bai");
+  App._baiPicker = App.lessonPicker(document.getElementById("bai-div"), {
+    placeholder: "Chọn bài học",
+    options: lessons.map(l => ({ value: l.video_id, label: l.bai, desc: "", meta: "" })),
+    value: new URLSearchParams(location.search).get("bai") || (lessons[0] ? lessons[0].video_id : ""),
+    onChange: loadLesson
+  });
 }
 (async () => {
   FDB = {};
@@ -208,7 +212,6 @@ async function fillBai(mon) {
   if (p.get("mon")) $("mon").value = p.get("mon");
   await fillBai($("mon").value);
   $("mon").addEventListener("change", async () => { await fillBai($("mon").value); loadLesson(); });
-  $("bai").addEventListener("change", loadLesson);
   $("analyze").addEventListener("click", () => {
     const v = $("fx").value.trim();
     if (!v) { $("fx-out").innerHTML = `<p class="muted">Nhập công thức trước.</p>`; return; }

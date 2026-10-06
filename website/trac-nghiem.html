@@ -33,7 +33,7 @@
           <option value="excel">Excel (1.040 câu)</option>
           <option value="word">Word (780 câu)</option>
         </select></label></p>
-        <p><label for="bai">Bài<br><select id="bai"><option value="">Tất cả các bài</option></select></label></p>
+        <p>Bài học<br><div id="bai-picker"></div></p>
       </div>
     </fieldset>
     <fieldset>
@@ -84,13 +84,21 @@ async function loadBank(mon) {
   const lessons = (await App.apiGet(`lessons?mon=${mon}`)) || await App.load(mon === "word" ? "word_lessons.json" : "excel_lessons.json");
   const num = l => { const m = (l.stt != null ? String(l.stt) : (l.bai || "")).match(/(\d+)/); return m ? +m[1] : 999; };
   lessons.sort((a, b) => num(a) - num(b));
-  document.getElementById("bai").innerHTML = `<option value="">Tất cả các bài (${lessons.length} bài)</option>` +
-    lessons.map(l => `<option value="${App.esc(l.video_id)}">${App.esc(l.bai)} (${l.so_cau})</option>`).join("");
-  const p = new URLSearchParams(location.search);
-  if (p.get("bai")) document.getElementById("bai").value = p.get("bai");
+  const isExcel = mon === "excel";
+  S.picker = App.lessonPicker(document.getElementById("bai-picker"), {
+    placeholder: "Tất cả các bài",
+    options: [{ value: "", label: "Tất cả các bài", desc: isExcel ? "1.040 câu toàn khóa" : "780 câu toàn khóa", meta: "" },
+      ...lessons.map(l => ({
+        value: l.video_id, label: l.bai,
+        desc: isExcel ? (l.chu_de || []).slice(0, 3).join(" · ") : "",
+        meta: `${l.so_cau} câu`
+      }))],
+    value: new URLSearchParams(location.search).get("bai") || "",
+    onChange: () => {}
+  });
 }
 async function startQuiz() {
-  const bai = document.getElementById("bai").value;
+  const bai = (S.picker && S.picker.get()) || "";
   const dk = norm(document.getElementById("dokho").value);
   const mon = document.getElementById("mon").value;
   const n = Math.min(+document.getElementById("socau").value, 40);
