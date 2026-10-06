@@ -5,7 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Làm bài trên bảng tính — Excel &amp; Word Lab</title>
 <link rel="stylesheet" href="assets/css/main.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/x-data-spreadsheet@1.1.9/dist/xspreadsheet.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/luckysheet@2.1.13/dist/plugins/css/pluginsCss.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/luckysheet@2.1.13/dist/plugins/plugins.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/luckysheet@2.1.13/dist/css/luckysheet.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/luckysheet@2.1.13/dist/assets/iconfont/iconfont.css">
 </head>
 <body data-page="bang-tinh">
 <a class="skip-link" href="#main">Bỏ qua tới nội dung</a>
@@ -47,8 +50,8 @@
       <div id="tasks"></div>
     </aside>
     <section aria-label="Bảng tính để làm bài" id="sheetsec">
-      <div id="sheet" style="border:1px solid var(--border);border-radius:10px;overflow:hidden"></div>
-      <p class="muted">Mẹo: bấm vào ô cột E (màu vàng) để nhập công thức trả lời.</p>
+      <div id="luckysheet" style="height:520px;border:1px solid var(--border);border-radius:10px;overflow:hidden"></div>
+      <p class="muted">Thanh công cụ đầy đủ: font, màu, kẻ khung, gộp ô, lọc, cố định, hàm… Nhập công thức vào ô vàng cột E.</p>
     </section>
     <section aria-label="Soạn thảo văn bản để làm bài" id="docsec" hidden>
       <div class="toolbar" role="toolbar" aria-label="Thanh định dạng">
@@ -69,10 +72,12 @@
   </div>
 </main>
 <footer class="site-footer">Excel &amp; Word Lab</footer>
-<script src="https://cdn.jsdelivr.net/npm/x-data-spreadsheet@1.1.9/dist/xspreadsheet.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/luckysheet@2.1.13/dist/plugins/js/plugin.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/luckysheet@2.1.13/dist/luckysheet.umd.js"></script>
 <script src="assets/js/common.js"></script>
 <script>
-let D = null, xs = null, targets = [];
+let D = null, targets = [];
 const $ = id => document.getElementById(id);
 const norm = s => (s || "").toUpperCase().replace(/\s+/g, "");
 const SAMPLE = [
@@ -86,11 +91,6 @@ const SAMPLE = [
   ["Giấy A4", 150, 1200, "", ""],
   ["Kẹp giấy", 90, 15000, "", ""]
 ];
-function cell(r, c, text, style) {
-  const o = { text: String(text) };
-  if (style !== undefined) o.style = style;
-  return o;
-}
 async function loadLesson() {
   const mon = $("mon").value, vid = await currentVid();
   if (!vid) return;
@@ -99,24 +99,22 @@ async function loadLesson() {
   $("sheetsec").hidden = isWord;
   $("docsec").hidden = !isWord;
   if (isWord) { loadDocLesson(); return; }
-  const rows = {};
-  SAMPLE.forEach((r, ri) => {
-    rows[ri] = { cells: {} };
-    r.forEach((v, ci) => rows[ri].cells[ci] = cell(ri, ci, v, ri === 0 ? 0 : undefined));
-  });
   targets = [];
-  const fx = (D.practice || []).filter(t => t.loai === "cong_thuc" && t.dap_an);
-  fx.slice(0, 8).forEach((t, i) => {
-    const r = i + 1;
-    if (!rows[r]) rows[r] = { cells: {} };
-    rows[r].cells[4] = cell(r, 4, "");
-    targets.push({ row: r, col: 4, task: t });
+  const fx = (D.practice || []).filter(t => t.loai === "cong_thuc" && t.dap_an).slice(0, 8);
+  fx.forEach((t, i) => targets.push({ row: i + 1, col: 4, task: t }));
+  const celldata = [];
+  SAMPLE.forEach((r, ri) => r.forEach((v, ci) => {
+    const cell = { r: ri, c: ci, v: { v } };
+    if (ri === 0) cell.v.bl = 1;
+    if (ci === 4 && ri > 0) { cell.v.bg = "#fff7d6"; cell.v.v = ""; }
+    celldata.push(cell);
+  }));
+  try { luckysheet.destroy(); } catch (e) {}
+  luckysheet.create({
+    container: "luckysheet", lang: "en", title: D.bai,
+    row: 22, column: 8,
+    data: [{ name: "Luyện tập", color: "", index: "0", status: "1", order: "0", hide: 0, row: 22, column: 8, celldata, config: {} }]
   });
-  const styles = [{ bgcolor: "#fff7d6" }, { bgcolor: "#eef4f1", bold: true }];
-  if (xs) xs.loadData([{ name: "Luyện tập", styles, rows, cols: { len: 6 }, row: { len: 20 } }]);
-  else xs = x_spreadsheet("#sheet", { mode: "edit", showToolbar: true, showGrid: true })
-    .loadData([{ name: "Luyện tập", styles, rows, cols: { len: 6 }, row: { len: 20 } }]);
-  xs.on("cell-edited", () => { $("score").textContent = ""; });
   renderTasks();
 }
 function renderTasks(done = {}) {
@@ -130,14 +128,14 @@ function renderTasks(done = {}) {
 }
 function grade() {
   if ($("mon").value === "word") { gradeWord(); return; }
-  const data = xs.getData()[0];
-  const rows = (data && data.rows) || {};
+  let flow = null;
+  try { flow = luckysheet.getSheetData(); } catch (e) { flow = null; }
   let score = 0;
   const done = {};
   targets.forEach((tg, i) => {
-    const c = rows[tg.row] && rows[tg.row].cells && rows[tg.row].cells[tg.col];
-    const v = norm(c && c.text);
-    const ok = v.startsWith("=") && tg.task.dap_an.some(a => norm(a) === v);
+    const c = flow && flow[tg.row] && flow[tg.row][tg.col];
+    const f = c && c.f ? norm("=" + c.f) : "";
+    const ok = !!f && tg.task.dap_an.some(a => norm(a) === f);
     done[i] = ok;
     if (ok) score++;
   });
