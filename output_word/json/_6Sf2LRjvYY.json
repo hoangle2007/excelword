@@ -1,0 +1,347 @@
+{
+ "bai": 23,
+ "cau_hoi": [
+  {
+   "A": "Nhấn Ctrl + H mở Find and Replace",
+   "B": "Nhấn Ctrl + S",
+   "C": "Nhấn Alt + F4",
+   "D": "Vào File > Print",
+   "cau": "Phím tắt mở hộp Tìm và Thay thế là?",
+   "dap_an": "A",
+   "giai_thich": "Ctrl+H mở Find and Replace.",
+   "id": 1,
+   "muc_do": "de"
+  },
+  {
+   "A": "Ô Find what nhập 2 dấu cách, Replace with nhập 1 dấu cách",
+   "B": "Cả 2 ô nhập 1 cách",
+   "C": "Cả 2 ô để trống",
+   "D": "Nhập bừa",
+   "cau": "Để xóa khoảng trắng thừa (2 cách thành 1) thì nhập thế nào?",
+   "dap_an": "A",
+   "giai_thich": "Find 2 cách, Replace 1 cách.",
+   "id": 2,
+   "muc_do": "de"
+  },
+  {
+   "A": "Replace All",
+   "B": "Find Next",
+   "C": "Cancel",
+   "D": "Close",
+   "cau": "Nút thay thế tất cả trong 1 lần là?",
+   "dap_an": "A",
+   "giai_thich": "Replace All thay toàn bộ kết quả tìm được.",
+   "id": 3,
+   "muc_do": "de"
+  },
+  {
+   "A": "19 chỗ như ví dụ video",
+   "B": "0 chỗ",
+   "C": "1 chỗ",
+   "D": "1000 chỗ",
+   "cau": "Ví dụ video lần 1 thay được bao nhiêu khoảng trắng?",
+   "dap_an": "A",
+   "giai_thich": "Thông báo 19 replacements.",
+   "id": 4,
+   "muc_do": "de"
+  },
+  {
+   "A": "Lặp lại Ctrl+H > Replace All tới khi 0 kết quả",
+   "B": "Làm 1 lần là đủ mọi file",
+   "C": "Không cần lặp",
+   "D": "Tắt máy",
+   "cau": "Vì sao phải Replace All nhiều lần?",
+   "dap_an": "A",
+   "giai_thich": "Chỗ 3-4 cách sau lần 1 còn 2 cách, phải lặp tới hết.",
+   "id": 5,
+   "muc_do": "de"
+  },
+  {
+   "A": "Home > Editing > Replace (hoặc Find)",
+   "B": "Insert > Picture",
+   "C": "Layout > Margins",
+   "D": "View > Ruler",
+   "cau": "Ngoài phím tắt, mở Replace trên Ribbon ở đâu?",
+   "dap_an": "A",
+   "giai_thich": "Home > nhóm Editing > Replace.",
+   "id": 6,
+   "muc_do": "de"
+  },
+  {
+   "A": "OK rồi Close/đóng hộp thoại",
+   "B": "Tắt máy",
+   "C": "Rút điện",
+   "D": "Xóa file",
+   "cau": "Sau khi thay xong thì?",
+   "dap_an": "A",
+   "giai_thich": "OK xác nhận rồi đóng hộp thoại.",
+   "id": 7,
+   "muc_do": "de"
+  },
+  {
+   "A": "Khoảng trắng thừa do gõ 2-3 cách, copy web",
+   "B": "Do hết mực",
+   "C": "Do mất mạng",
+   "D": "Do hết pin",
+   "cau": "Nguyên nhân khoảng trắng thừa thường là?",
+   "dap_an": "A",
+   "giai_thich": "Gõ dư cách hoặc copy từ web帶來.",
+   "id": 8,
+   "muc_do": "de"
+  },
+  {
+   "A": "Văn bản đều, đẹp, không lỗ chỗ cách to",
+   "B": "Văn bản xấu hơn",
+   "C": "Mất chữ",
+   "D": "Mất file",
+   "cau": "Sau khi xóa trắng thừa thì văn bản?",
+   "dap_an": "A",
+   "giai_thich": "Khoảng cách đều, chuyên nghiệp.",
+   "id": 9,
+   "muc_do": "de"
+  },
+  {
+   "A": "Ctrl + H",
+   "B": "Ctrl + S",
+   "C": "Ctrl + A",
+   "D": "Ctrl + O",
+   "cau": "Nhấn gì để lặp lại thao tác tìm-thay lần 2?",
+   "dap_an": "A",
+   "giai_thich": "Lại Ctrl+H rồi Replace All.",
+   "id": 10,
+   "muc_do": "de"
+  },
+  {
+   "A": "Find what và Replace with phải gõ đúng số cách (2 vs 1)",
+   "B": "Gõ sao cũng được",
+   "C": "Để trống cũng được",
+   "D": "Nhập chữ cũng được",
+   "cau": "Lưu ý nhập liệu 2 ô Find/Replace là?",
+   "dap_an": "A",
+   "giai_thich": "Sai số cách sẽ không tìm/thay đúng.",
+   "id": 11,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "3-4 cách cần 2-3 lần Replace All mới hết",
+   "B": "1 lần hết mọi trường hợp",
+   "C": "Không bao giờ hết",
+   "D": "Càng thay càng nhiều",
+   "cau": "Vì sao chỗ 4 dấu cách không hết sau 1 lần?",
+   "dap_an": "A",
+   "giai_thich": "Mỗi lần 2 cách→1, 4 cách còn 2-3 cách, phải lặp.",
+   "id": 12,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Thông báo '... replacements' cho biết số chỗ đã thay",
+   "B": "Không có thông báo",
+   "C": "Thông báo lỗi",
+   "D": "Máy không báo",
+   "cau": "Sau Replace All, Word báo gì?",
+   "dap_an": "A",
+   "giai_thich": "Hộp báo số vị trí đã thay thế.",
+   "id": 13,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Bật Show/Hide (¶) để thấy chấm cách, dễ kiểm tra",
+   "B": "Không cần kiểm tra",
+   "C": "Phải in ra",
+   "D": "Phải đoán",
+   "cau": "Cách kiểm tra còn trắng thừa bằng mắt là?",
+   "dap_an": "A",
+   "giai_thich": "Home > ¶ hiện dấu cách thành chấm.",
+   "id": 14,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Dấu cách hiện thành chấm nhỏ (·) giữa chữ",
+   "B": "Hiện thành sao",
+   "C": "Hiện thành ảnh",
+   "D": "Không hiện",
+   "cau": "Khi bật ¶, dấu cách hiển thị thế nào?",
+   "dap_an": "A",
+   "giai_thich": "Mỗi cách là 1 chấm giữa, thừa sẽ thấy 2-3 chấm.",
+   "id": 15,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Đoạn rỗng (¶ liên tiếp) do Enter thừa, khác trắng thừa trong dòng",
+   "B": "Hai lỗi giống nhau",
+   "C": "Không có Enter thừa",
+   "D": "Enter thừa không xóa được",
+   "cau": "Phân biệt trắng thừa và Enter thừa?",
+   "dap_an": "A",
+   "giai_thich": "Trắng thừa là cách trong dòng; Enter thừa là đoạn rỗng.",
+   "id": 16,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Find ^p^p thay bằng ^p để xóa đoạn rỗng thừa",
+   "B": "Không xóa được",
+   "C": "Phải xóa tay",
+   "D": "Phải tạo file mới",
+   "cau": "Muốn xóa đoạn rỗng (Enter thừa) hàng loạt thì?",
+   "dap_an": "A",
+   "giai_thich": "Find ^p^p, Replace ^p, Replace All nhiều lần.",
+   "id": 17,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Tab thừa (^t) xóa bằng Find ^t thay bằng cách/trống",
+   "B": "Không xóa được Tab",
+   "C": "Tab không phải trắng",
+   "D": "Phải giữ Tab",
+   "cau": "Muốn xóa Tab thừa đầu dòng hàng loạt thì?",
+   "dap_an": "A",
+   "giai_thich": "Find ^t thay bằng trống/cách.",
+   "id": 18,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "More > Use wildcards với {2,} để tìm 2+ cách 1 lần hết",
+   "B": "Không có wildcard",
+   "C": "Wildcard chỉ trang trí",
+   "D": "Phải thay tay",
+   "cau": "Cách nâng cao tìm mọi chỗ 2+ cách 1 lần là?",
+   "dap_an": "A",
+   "giai_thich": "Find ( ){2,}, Replace 1 cách, tích Wildcards.",
+   "id": 19,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Nên sao lưu/Ctrl+Z được nếu thay sai",
+   "B": "Thay sai không cứu được",
+   "C": "Phải thay cẩn thận tuyệt đối",
+   "D": "Không cần sao lưu",
+   "cau": "Replace All có hoàn tác được?",
+   "dap_an": "A",
+   "giai_thich": "Ctrl+Z ngay sau Replace để hoàn tác.",
+   "id": 20,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Chỉ thay trong vùng bôi nếu đã bôi trước (Word hỏi mở rộng)",
+   "B": "Luôn thay cả file",
+   "C": "Không thay vùng được",
+   "D": "Phải thay cả file",
+   "cau": "Muốn chỉ xóa trắng trong 1 đoạn, không đụng chỗ khác thì?",
+   "dap_an": "A",
+   "giai_thich": "Bôi đoạn đó rồi Replace All, chọn No khi hỏi mở rộng.",
+   "id": 21,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Match case/phân biệt hoa thường khi cần thay từ, không cần cho cách",
+   "B": "Luôn phải tích",
+   "C": "Không có tùy chọn",
+   "D": "Tích bừa",
+   "cau": "Tùy chọn Match case khi xóa trắng có cần?",
+   "dap_an": "A",
+   "giai_thich": "Xóa cách không cần; thay từ mới cần.",
+   "id": 22,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Lần 2 còn 1 kết quả như video, lần 3 về 0 là hết",
+   "B": "Lần 2 luôn 0",
+   "C": "Không bao giờ 0",
+   "D": "Số tăng dần",
+   "cau": "Diễn biến số kết quả qua các lần trong video là?",
+   "dap_an": "A",
+   "giai_thich": "19 → 1 → 0, hết trắng thừa.",
+   "id": 23,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Không thay 1 cách thành 0 cách (dính chữ)",
+   "B": "Nên thay 1 thành 0",
+   "C": "Thay sao cũng được",
+   "D": "Xóa hết cách",
+   "cau": "Vì sao không Find 1 cách thay bằng trống?",
+   "dap_an": "A",
+   "giai_thich": "Sẽ dính mọi từ lại, sai hoàn toàn.",
+   "id": 24,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Nonbreaking space (^s) khác space thường, cần thay riêng",
+   "B": "Hai loại giống nhau",
+   "C": "Không có ^s",
+   "D": "^s là Enter",
+   "cau": "Khoảng trắng không ngắt (^s) khác gì cách thường?",
+   "dap_an": "A",
+   "giai_thich": "^s (Ctrl+Shift+Space) không tách dòng; Find riêng.",
+   "id": 25,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Trim đầu-cuối đoạn + gộp giữa là sạch nhất",
+   "B": "Chỉ gộp giữa",
+   "C": "Chỉ trim đầu",
+   "D": "Không cần làm",
+   "cau": "Quy trình sạch trắng toàn diện là?",
+   "dap_an": "A",
+   "giai_thich": "Xóa cách đầu/cuối đoạn + gộp 2+ cách giữa.",
+   "id": 26,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Find (^w) thay cách chuẩn khi lẫn Tab/cách",
+   "B": "Không có ^w",
+   "C": "^w là Enter",
+   "D": "^w là ảnh",
+   "cau": "Mã ^w trong Find nghĩa là?",
+   "dap_an": "A",
+   "giai_thich": "^w = mọi khoảng trắng (cách/Tab) liền nhau.",
+   "id": 27,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Copy web nên Paste Keep Text Only + xóa trắng để sạch",
+   "B": "Paste giữ nguyên là tốt",
+   "C": "Không cần xóa",
+   "D": "Không paste được",
+   "cau": "Mẹo khi copy văn bản từ web về Word là?",
+   "dap_an": "A",
+   "giai_thich": "Paste text only rồi Find/Replace trắng + font lại.",
+   "id": 28,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Khoảng trắng thừa làm Justify lỗi (hở to), căn đều xấu",
+   "B": "Không ảnh hưởng",
+   "C": "Làm đẹp hơn",
+   "D": "Không liên quan",
+   "cau": "Trắng thừa ảnh hưởng căn đều (Justify) thế nào?",
+   "dap_an": "A",
+   "giai_thich": "Cách thừa tạo hố trắng to khi căn đều 2 bên.",
+   "id": 29,
+   "muc_do": "kho"
+  },
+  {
+   "A": "2 bước: Ctrl+H; Find 2 cách - Replace 1 cách - Replace All lặp tới 0",
+   "B": "Chỉ 1 bước",
+   "C": "Có 10 bước",
+   "D": "Không có bước nào",
+   "cau": "Tóm tắt bài xóa trắng thừa là?",
+   "dap_an": "A",
+   "giai_thich": "Ctrl+H, 2→1, Replace All lặp tới hết.",
+   "id": 30,
+   "muc_do": "kho"
+  }
+ ],
+ "ky_nang": [
+  {
+   "duong_dan_menu": "Home > Editing > Replace / Ctrl+H",
+   "giai_thich": "Find 2 cách, Replace 1 cách, Replace All; lặp tới 0 kết quả.",
+   "phim_tat": "Ctrl + H",
+   "ten": "Xóa khoảng trắng thừa",
+   "thao_tac": "Ctrl+H, Find what gõ 2 cách, Replace with gõ 1 cách, Replace All; lặp lại tới khi 0 kết quả, OK, đóng.",
+   "vi_du": "Lần 1 thay 19 chỗ, lần 2 còn 1, lần 3 hết."
+  }
+ ],
+ "url": "https://www.youtube.com/watch?v=_6Sf2LRjvYY",
+ "video_id": "_6Sf2LRjvYY"
+}

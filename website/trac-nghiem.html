@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Trắc nghiệm — Excel &amp; Word Lab</title>
+<link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body data-page="trac-nghiem">
+<a class="skip-link" href="#main">Bỏ qua tới nội dung</a>
+<header class="site-header">
+  <nav class="nav" aria-label="Điều hướng chính">
+    <a class="brand" href="index.html">Excel &amp; Word Lab</a>
+    <div class="nav-links">
+      <a data-nav="home" href="index.html">Trang chủ</a>
+      <a data-nav="excel" href="excel.html">Excel</a>
+      <a data-nav="word" href="word.html">Word</a>
+      <a data-nav="cong-thuc" href="cong-thuc.html">Công thức</a>
+      <a data-nav="trac-nghiem" href="trac-nghiem.html">Trắc nghiệm</a>
+    </div>
+  </nav>
+</header>
+<main id="main">
+  <h1>Trắc nghiệm ABCD</h1>
+  <section class="card" id="setup" aria-label="Thiết lập bài làm">
+    <h2 style="margin-top:0">Thiết lập bài làm</h2>
+    <fieldset>
+      <legend>Phạm vi câu hỏi</legend>
+      <div class="grid cols-2">
+        <p><label for="mon">Môn<br><select id="mon">
+          <option value="excel">Excel (1.040 câu)</option>
+          <option value="word">Word (780 câu)</option>
+        </select></label></p>
+        <p><label for="bai">Bài<br><select id="bai"><option value="">Tất cả các bài</option></select></label></p>
+      </div>
+    </fieldset>
+    <fieldset>
+      <legend>Cấu hình đề</legend>
+      <div class="grid cols-2">
+        <p><label for="dokho">Độ khó<br><select id="dokho">
+          <option value="">Mọi độ khó</option>
+          <option value="de">Dễ</option>
+          <option value="trung_binh">Trung bình</option>
+          <option value="kho">Khó</option>
+        </select></label></p>
+        <p><label for="socau">Số câu<br><select id="socau">
+          <option>10</option><option selected>20</option><option>30</option><option>40</option>
+        </select></label></p>
+      </div>
+      <p><label><input type="checkbox" id="timer" checked> Bấm giờ (1 phút / câu)</label></p>
+    </fieldset>
+    <p><button id="start" class="btn-lg">Bắt đầu làm bài</button></p>
+  </section>
+
+  <section id="run" hidden aria-label="Đang làm bài">
+    <p><strong id="qpos"></strong> <span class="muted" id="clock"></span></p>
+    <div class="progress" aria-hidden="true"><div id="bar"></div></div>
+    <div class="card">
+      <h2 id="qtext" style="margin-top:0"></h2>
+      <div id="opts" role="radiogroup" aria-label="Các đáp án"></div>
+    </div>
+    <p>
+      <button id="prev" class="secondary btn">Câu trước</button>
+      <button id="next">Câu tiếp</button>
+      <button id="submit" class="secondary btn">Nộp bài</button>
+    </p>
+  </section>
+
+  <section id="result" hidden aria-label="Kết quả"></section>
+
+  <h2 id="lich-su">Lịch sử làm bài</h2>
+  <div id="history"></div>
+</main>
+<footer class="site-footer">Excel &amp; Word Lab</footer>
+<script src="assets/js/common.js"></script>
+<script>
+const S = { bank: [], quiz: [], answers: {}, i: 0, t0: 0, timerId: null };
+const norm = s => (s || "").toLowerCase().replace(/_/g, " ").trim();
+function shuffle(a) { for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; }
+async function loadBank(mon) {
+  S.bank = await App.load(mon === "word" ? "word_quiz.json" : "excel_quiz.json");
+  const lessons = (await App.apiGet(`lessons?mon=${mon}`)) || await App.load(mon === "word" ? "word_lessons.json" : "excel_lessons.json");
+  const num = l => { const m = (l.stt != null ? String(l.stt) : (l.bai || "")).match(/(\d+)/); return m ? +m[1] : 999; };
+  lessons.sort((a, b) => num(a) - num(b));
+  document.getElementById("bai").innerHTML = `<option value="">Tất cả các bài (${lessons.length} bài)</option>` +
+    lessons.map(l => `<option value="${App.esc(l.video_id)}">${App.esc(l.bai)} (${l.so_cau})</option>`).join("");
+  const p = new URLSearchParams(location.search);
+  if (p.get("bai")) document.getElementById("bai").value = p.get("bai");
+}
+async function startQuiz() {
+  const bai = document.getElementById("bai").value;
+  const dk = norm(document.getElementById("dokho").value);
+  const mon = document.getElementById("mon").value;
+  const n = Math.min(+document.getElementById("socau").value, 40);
+  let pool = null;
+  if (await App.apiHealth()) {
+    pool = await App.apiGet(`quiz?mon=${mon}&bai=${encodeURIComponent(bai)}&dokho=${encodeURIComponent(dk)}&n=${n}`);
+  }
+  if (!pool || !pool.length) {
+    pool = S.bank.filter(q => (!bai || q.video_id === bai) && (!dk || norm(q.do_kho) === dk));
+    if (!pool.length) { alert("Không có câu hỏi phù hợp. Hãy nới lỏng điều kiện."); return; }
+    pool = shuffle([...pool]).slice(0, Math.min(n, pool.length));
+  }
+  S.pool = pool; S.quizCount = pool.length;
+  S.quiz = pool;
+  S.answers = {}; S.i = 0;
+  document.getElementById("setup").hidden = true;
+  document.getElementById("result").hidden = true;
+  document.getElementById("run").hidden = false;
+  if (document.getElementById("timer").checked) {
+    const total = n * 60;
+    S.t0 = Date.now();
+    clearInterval(S.timerId);
+    S.timerId = setInterval(() => {
+      const left = total - Math.floor((Date.now() - S.t0) / 1000);
+      document.getElementById("clock").textContent = left > 0
+        ? `Còn ${Math.floor(left / 60)}:${String(left % 60).padStart(2, "0")}` : "Hết giờ!";
+      if (left <= 0) { clearInterval(S.timerId); finish(); }
+    }, 1000);
+  } else document.getElementById("clock").textContent = "";
+  renderQ();
+}
+function renderQ() {
+  const q = S.quiz[S.i];
+  document.getElementById("qpos").textContent = `Câu ${S.i + 1}/${S.quiz.length}`;
+  document.getElementById("bar").style.width = ((S.i + 1) / S.quiz.length * 100) + "%";
+  document.getElementById("qtext").textContent = q.cau;
+  document.getElementById("opts").innerHTML = ["A", "B", "C", "D"].map(k => `
+    <label class="quiz-option"><input type="radio" name="opt" value="${k}" ${S.answers[S.i] === k ? "checked" : ""}>
+    <strong>${k}.</strong> ${App.esc(q[k])}</label>`).join("");
+  document.querySelectorAll('input[name="opt"]').forEach(r => r.addEventListener("change", () => {
+    S.answers[S.i] = r.value;
+  }));
+  document.getElementById("prev").disabled = S.i === 0;
+  document.getElementById("next").disabled = S.i === S.quiz.length - 1;
+}
+function finish() {
+  clearInterval(S.timerId);
+  let score = 0;
+  const review = S.quiz.map((q, i) => {
+    const ok = S.answers[i] === q.dap_an;
+    if (ok) score++;
+    return `<div class="card" style="margin-bottom:1rem">
+      <h3>Câu ${i + 1}: ${App.esc(q.cau)} ${ok ? "✓" : "✗"}</h3>
+      ${["A", "B", "C", "D"].map(k => `<label class="quiz-option ${k === q.dap_an ? "correct" : (S.answers[i] === k ? "wrong" : "")}">
+        <strong>${k}.</strong> ${App.esc(q[k])}</label>`).join("")}
+      <p class="muted"><strong>Giải thích:</strong> ${App.esc(q.giai_thich || "")}</p></div>`;
+  }).join("");
+  const mon = document.getElementById("mon").value;
+  const rec = { when: new Date().toISOString().slice(0, 16).replace("T", " "), mon, score, total: S.quiz.length };
+  App.saveResult(rec);
+  App.apiPost("results", rec);
+  document.getElementById("run").hidden = true;
+  const r = document.getElementById("result");
+  r.hidden = false;
+  r.innerHTML = `<div class="card"><h2>Kết quả: ${score}/${S.quiz.length} (${Math.round(score / S.quiz.length * 100)}%)</h2>
+    <p><button id="retry">Làm bài mới</button> <button id="again" class="secondary btn">Đổi đề khác</button></p></div>` + review;
+  document.getElementById("retry").addEventListener("click", () => {
+    r.hidden = true; document.getElementById("setup").hidden = false; renderHistory();
+  });
+  document.getElementById("again").addEventListener("click", () => {
+    S.quiz = shuffle([...S.pool]).slice(0, S.quizCount);
+    S.answers = {}; S.i = 0; r.hidden = true;
+    document.getElementById("run").hidden = false; renderQ();
+  });
+  renderHistory();
+  window.scrollTo(0, 0);
+}
+async function renderHistory() {
+  const h = App.store.get("quizHistory", []);
+  const server = (await App.apiGet("results")) || [];
+  const seen = new Set(h.map(x => x.when + "|" + x.score + "/" + x.total));
+  const merged = [...h];
+  server.forEach(x => { if (!seen.has(x.when + "|" + x.score + "/" + x.total)) merged.push(x); });
+  merged.sort((a, b) => String(b.when || "").localeCompare(String(a.when || "")));
+  const list = merged.slice(0, 30);
+  document.getElementById("history").innerHTML = list.length
+    ? `<table class="data"><thead><tr><th>Thời gian</th><th>Môn</th><th>Điểm</th></tr></thead><tbody>${
+      list.map(x => `<tr><td>${App.esc(x.when)}</td><td>${App.esc(x.mon)}</td><td>${x.score}/${x.total}</td></tr>`).join("")
+    }</tbody></table>` : `<div class="empty">Chưa có bài nào.</div>`;
+}
+(async () => {
+  const p = new URLSearchParams(location.search);
+  if (p.get("mon")) document.getElementById("mon").value = p.get("mon");
+  await loadBank(document.getElementById("mon").value);
+  document.getElementById("mon").addEventListener("change", e => loadBank(e.target.value));
+  document.getElementById("start").addEventListener("click", startQuiz);
+  document.getElementById("prev").addEventListener("click", () => { if (S.i > 0) { S.i--; renderQ(); } });
+  document.getElementById("next").addEventListener("click", () => { if (S.i < S.quiz.length - 1) { S.i++; renderQ(); } });
+  document.getElementById("submit").addEventListener("click", () => { if (confirm("Nộp bài?")) finish(); });
+  renderHistory();
+})();
+</script>
+</body>
+</html>

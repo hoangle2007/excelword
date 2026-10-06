@@ -1,0 +1,409 @@
+{
+ "video_id": "MiiYe2rUBlc",
+ "bai": "3 cách tạo bảng trong Word",
+ "url": "https://www.youtube.com/watch?v=MiiYe2rUBlc",
+ "ky_nang": [
+  {
+   "ten": "Tạo bảng bằng lưới Insert Table",
+   "thao_tac": "Đặt con trỏ > Insert > Table > quét chọn số cột/dòng (ví dụ 4x3) > click",
+   "duong_dan_menu": "Insert > Table",
+   "phim_tat": "",
+   "giai_thich": "Cách nhanh nhất, kéo lưới chọn cột/dòng.",
+   "vi_du": "Insert > Table > chọn 4 cột 3 dòng"
+  },
+  {
+   "ten": "Tạo bảng bằng hộp thoại Insert Table",
+   "thao_tac": "Insert > Table > Insert Table > nhập Number of columns/Rows > OK",
+   "duong_dan_menu": "Insert > Table > Insert Table",
+   "phim_tat": "",
+   "giai_thich": "Nhập chính xác số cột/dòng.",
+   "vi_du": "Columns 4, Rows 3 > OK"
+  },
+  {
+   "ten": "Vẽ bảng Draw Table",
+   "thao_tac": "Insert > Table > Draw Table > kéo vẽ khung, hàng, cột, đường chéo",
+   "duong_dan_menu": "Insert > Table > Draw Table",
+   "phim_tat": "",
+   "giai_thich": "Tự vẽ bảng theo kích thước và ô chéo tùy ý.",
+   "vi_du": "Kéo vẽ khung rồi kẻ thêm cột"
+  },
+  {
+   "ten": "Di chuyển và thêm dòng bằng Tab",
+   "thao_tac": "Tab chuyển ô tiếp theo; Tab ở ô cuối cùng thêm 1 dòng mới",
+   "duong_dan_menu": "",
+   "phim_tat": "Tab",
+   "giai_thich": "Tab là cách nhập liệu nhanh trong bảng.",
+   "vi_du": "Nhấn Tab để sang ô Họ tên"
+  },
+  {
+   "ten": "Định dạng và tô màu bảng",
+   "thao_tac": "Bôi đen > Home định dạng chữ, căn giữa, Shading đổ màu; Table Design > Table Styles",
+   "duong_dan_menu": "Table Design > Table Styles / Home > Shading",
+   "phim_tat": "",
+   "giai_thich": "Làm đẹp tiêu đề và áp style có sẵn.",
+   "vi_du": "Shading màu xanh cho hàng tiêu đề"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "cau": "Muốn tạo bảng vào thẻ nào?",
+   "lua_chon": {
+    "A": "Home",
+    "B": "Insert",
+    "C": "View",
+    "D": "File"
+   },
+   "dap_an": "B",
+   "muc_do": "dễ",
+   "giai_thich": "Insert > Table."
+  },
+  {
+   "cau": "Cách 1 tạo bảng là gì?",
+   "lua_chon": {
+    "A": "Quét lưới Table chọn cột/dòng",
+    "B": "Vẽ tay",
+    "C": "Copy Excel",
+    "D": "Chụp ảnh"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Cách nhanh nhất trong video."
+  },
+  {
+   "cau": "Ví dụ video tạo bảng mấy cột mấy dòng?",
+   "lua_chon": {
+    "A": "4 cột 3 dòng",
+    "B": "3 cột 4 dòng",
+    "C": "2 cột 2 dòng",
+    "D": "10 cột 10 dòng"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Video tạo 4x3."
+  },
+  {
+   "cau": "Phím nào chuyển nhanh giữa các ô?",
+   "lua_chon": {
+    "A": "Enter",
+    "B": "Tab",
+    "C": "Shift",
+    "D": "Alt"
+   },
+   "dap_an": "B",
+   "muc_do": "dễ",
+   "giai_thich": "Nhấn Tab."
+  },
+  {
+   "cau": "Tab ở ô cuối cùng của bảng thì sao?",
+   "lua_chon": {
+    "A": "Thêm 1 dòng mới",
+    "B": "Xóa bảng",
+    "C": "Tắt Word",
+    "D": "Không gì"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Word tự thêm dòng."
+  },
+  {
+   "cau": "Muốn đổ màu tiêu đề dùng lệnh nào?",
+   "lua_chon": {
+    "A": "Shading",
+    "B": "Bold",
+    "C": "Print",
+    "D": "Zoom"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Home/Table Design > Shading."
+  },
+  {
+   "cau": "Muốn áp mẫu bảng có sẵn vào đâu?",
+   "lua_chon": {
+    "A": "Table Design > Table Styles",
+    "B": "File > Save",
+    "C": "View > Zoom",
+    "D": "Review > Comment"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Table Styles nhiều mẫu đẹp."
+  },
+  {
+   "cau": "Muốn đổi độ rộng cột thì làm sao?",
+   "lua_chon": {
+    "A": "Đưa chuột vào đường biên đến khi thành mũi tên 2 chiều rồi kéo",
+    "B": "Xóa cột",
+    "C": "Tắt máy",
+    "D": "In ra kéo giấy"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Kéo biên cột/dòng."
+  },
+  {
+   "cau": "Cách 2 tạo bảng là gì?",
+   "lua_chon": {
+    "A": "Insert Table nhập số cột/dòng > OK",
+    "B": "Vẽ tay",
+    "C": "Gõ chữ",
+    "D": "Chụp màn hình"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Hộp thoại Insert Table."
+  },
+  {
+   "cau": "Cách 3 tạo bảng là gì?",
+   "lua_chon": {
+    "A": "Draw Table tự vẽ",
+    "B": "Gõ phím",
+    "C": "Hát",
+    "D": "Vẽ trong Paint"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Insert > Table > Draw Table."
+  },
+  {
+   "cau": "Trước khi tạo bảng phải làm gì?",
+   "lua_chon": {
+    "A": "Đặt con trỏ tại vị trí cần tạo bảng",
+    "B": "Tắt máy",
+    "C": "Rút điện",
+    "D": "Xóa hết"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Bảng chèn tại vị trí con trỏ."
+  },
+  {
+   "cau": "Trong Insert Table, ô nào nhập số cột?",
+   "lua_chon": {
+    "A": "Number of columns",
+    "B": "Number of rows",
+    "C": "Table size",
+    "D": "Font size"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Columns là cột."
+  },
+  {
+   "cau": "Trong Insert Table, ô nào nhập số dòng?",
+   "lua_chon": {
+    "A": "Number of rows",
+    "B": "Number of columns",
+    "C": "Page number",
+    "D": "Zoom"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Rows là dòng."
+  },
+  {
+   "cau": "Muốn chọn cả bảng nhanh thì click đâu?",
+   "lua_chon": {
+    "A": "Ô vuông có mũi tên 4 chiều góc trên-trái bảng",
+    "B": "Giữa trang",
+    "C": "Ngoài lề",
+    "D": "Thanh taskbar"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Handle chọn toàn bảng."
+  },
+  {
+   "cau": "Muốn căn chữ giữa ô theo chiều dọc dùng nút nào?",
+   "lua_chon": {
+    "A": "Align Center (căn giữa dọc) trong Layout/Table Tools",
+    "B": "Bold",
+    "C": "Italic",
+    "D": "Underline"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Video click Align Center cho đều trên-dưới."
+  },
+  {
+   "cau": "Định dạng chữ trong ô bảng có khác văn bản thường không?",
+   "lua_chon": {
+    "A": "Không, bôi đen rồi dùng Home như bình thường",
+    "B": "Khác hoàn toàn",
+    "C": "Không định dạng được",
+    "D": "Phải dùng Paint"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Bold/căn giữa dùng như thường."
+  },
+  {
+   "cau": "Draw Table phù hợp khi nào?",
+   "lua_chon": {
+    "A": "Khi cần bảng kích thước tự do, ô chéo, mẫu không chuẩn",
+    "B": "Khi cần bảng chuẩn nhanh",
+    "C": "Khi không cần bảng",
+    "D": "Khi in"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Vẽ tay linh hoạt nhất."
+  },
+  {
+   "cau": "Để kẻ thêm 1 cột trong Draw Table thì?",
+   "lua_chon": {
+    "A": "Click-giữ từ điểm trên xuống điểm dưới rồi thả",
+    "B": "Nhấn Enter",
+    "C": "Nhấn Delete",
+    "D": "Tắt Word"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Kéo 1 đường dọc là thêm cột."
+  },
+  {
+   "cau": "Để tạo đường chéo trong ô thì?",
+   "lua_chon": {
+    "A": "Kéo 1 đường chéo trong ô ở chế độ Draw Table",
+    "B": "Gõ dấu /",
+    "C": "Vẽ bằng bút",
+    "D": "Không thể"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Video vẽ đường chéo mẫu."
+  },
+  {
+   "cau": "Muốn thoát chế độ vẽ bảng thì?",
+   "lua_chon": {
+    "A": "Nhấn Esc hoặc click ra ngoài",
+    "B": "Tắt máy",
+    "C": "Xóa bảng",
+    "D": "Rút điện"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Esc thoát Draw Table."
+  },
+  {
+   "cau": "Ưu điểm của Table Styles là?",
+   "lua_chon": {
+    "A": "Tự tô màu xen kẽ, thêm dòng mới vẫn giữ định dạng",
+    "B": "Làm mất bảng",
+    "C": "Xóa chữ",
+    "D": "Tốn giấy"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Video thêm dòng vẫn giữ style."
+  },
+  {
+   "cau": "Nếu không thích style đã áp thì?",
+   "lua_chon": {
+    "A": "Chọn lại style khác trong Table Styles",
+    "B": "Xóa bảng làm lại",
+    "C": "Cài lại Word",
+    "D": "Bỏ Word"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Đổi mẫu 1 click."
+  },
+  {
+   "cau": "Khi nhập liệu nên dùng Tab hay click chuột từng ô?",
+   "lua_chon": {
+    "A": "Tab nhanh hơn, đỡ nhấc tay khỏi bàn phím",
+    "B": "Click nhanh hơn",
+    "C": "Như nhau",
+    "D": "Không nên nhập"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Video khuyên dùng Tab."
+  },
+  {
+   "cau": "Shift+Tab trong bảng có tác dụng gì?",
+   "lua_chon": {
+    "A": "Lùi về ô trước đó",
+    "B": "Xóa ô",
+    "C": "Thêm bảng",
+    "D": "Lưu file"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Ngược với Tab."
+  },
+  {
+   "cau": "Muốn hàng tiêu đề lặp lại khi bảng dài nhiều trang?",
+   "lua_chon": {
+    "A": "Table Properties > Row > Repeat as header row",
+    "B": "Copy tiêu đề mỗi trang",
+    "C": "In riêng",
+    "D": "Không thể"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Tùy chọn lặp hàng tiêu đề."
+  },
+  {
+   "cau": "Muốn gộp 2 ô thành 1 dùng lệnh nào?",
+   "lua_chon": {
+    "A": "Merge Cells",
+    "B": "Split Cells",
+    "C": "Delete",
+    "D": "Copy"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Layout > Merge Cells."
+  },
+  {
+   "cau": "Muốn tách 1 ô thành nhiều ô dùng lệnh nào?",
+   "lua_chon": {
+    "A": "Split Cells",
+    "B": "Merge Cells",
+    "C": "Delete Table",
+    "D": "Save"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Layout > Split Cells."
+  },
+  {
+   "cau": "Kéo biên cột mà cả bảng méo theo là vì?",
+   "lua_chon": {
+    "A": "Đang kéo không giữ phím cố định; muốn đều nên dùng Table Properties đặt Preferred width",
+    "B": "Lỗi Word",
+    "C": "Lỗi chuột",
+    "D": "Lỗi Win"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Đặt số đo chính xác trong Properties ổn định hơn."
+  },
+  {
+   "cau": "So sánh 3 cách tạo bảng?",
+   "lua_chon": {
+    "A": "Cách 1 nhanh trực quan; cách 2 chính xác số; cách 3 tự do hình dạng",
+    "B": "Cả 3 giống nhau",
+    "C": "Chỉ có 1 cách",
+    "D": "Không cách nào đúng"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Đúng tổng kết video."
+  },
+  {
+   "cau": "Quy trình nhập và làm đẹp bảng hoàn chỉnh?",
+   "lua_chon": {
+    "A": "Tạo bảng > nhập liệu bằng Tab > bôi đen định dạng Home > Shading/Table Styles",
+    "B": "Shading trước rồi tạo bảng",
+    "C": "In trước rồi nhập",
+    "D": "Xóa rồi tạo"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Đúng thứ tự video làm."
+  }
+ ]
+}

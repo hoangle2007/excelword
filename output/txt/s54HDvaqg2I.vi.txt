@@ -1,0 +1,581 @@
+[00:01] Xin chào mừng các bạn đến với khóa học excel miễn phí từ cơ bản đến nâng cao
+[00:03] excel miễn phí từ cơ bản đến nâng cao dành cho người mới bắt đầu được thực
+[00:06] dành cho người mới bắt đầu được thực hiện trên kênh YouTube gái Excel bài số
+[00:08] hiện trên kênh YouTube gái Excel bài số 13 các kỹ năng quan trọng khác trước khi
+[00:11] 13 các kỹ năng quan trọng khác trước khi bắt đầu vào bài học ngày hôm nay mình
+[00:13] bắt đầu vào bài học ngày hôm nay mình cùng Giải bài số 12 của hôm trước nhá
+[00:15] cùng Giải bài số 12 của hôm trước nhá đấy các bạn xem ở cái câu hỏi của bài
+[00:17] đấy các bạn xem ở cái câu hỏi của bài Sống 12 lên trong bài số 12 mình sẽ làm
+[00:21] Sống 12 lên trong bài số 12 mình sẽ làm ba cái câu nhỏ đầu tiên là người cách
+[00:24] ba cái câu nhỏ đầu tiên là người cách chuyển text thành số thì trong cái bài
+[00:27] chuyển text thành số thì trong cái bài trước vị mình đã có cái cách mà mình nên
+[00:28] trước vị mình đã có cái cách mà mình nên thấy mùi đúng ạ Bây giờ mình sẽ làm hai
+[00:30] thấy mùi đúng ạ Bây giờ mình sẽ làm hai cái cách khác là mình thêm không Và mình
+[00:32] cái cách khác là mình thêm không Và mình chia cho một đúng không ạ đây ví dụ mình
+[00:33] chia cho một đúng không ạ đây ví dụ mình sẽ điền với số 0 ở ngoài đây là mình sẽ
+[00:36] sẽ điền với số 0 ở ngoài đây là mình sẽ biến với số 1 ở ngoài nữa đây thì cái
+[00:39] biến với số 1 ở ngoài nữa đây thì cái Cách thứ nhất chị mình cho thêm không
+[00:40] Cách thứ nhất chị mình cho thêm không vào cái phần doanh thu này đấy ạ Các bạn
+[00:42] vào cái phần doanh thu này đấy ạ Các bạn sẽ nháy phẳng và cái giá trị không Này
+[00:44] sẽ nháy phẳng và cái giá trị không Này các bạn chọn copy đấy Sau đó các bạn Bôi
+[00:47] các bạn chọn copy đấy Sau đó các bạn Bôi đen Cái vùng dữ liệu mà các bạn muốn
+[00:48] đen Cái vùng dữ liệu mà các bạn muốn chuyển nó thành số nha để gọi xinh nhảy
+[00:51] chuyển nó thành số nha để gọi xinh nhảy cực phẳng Các bạn chọn gì ạ chọn fast
+[00:53] cực phẳng Các bạn chọn gì ạ chọn fast Castle đấy các phím tắt của Pisa là diện
+[00:57] Castle đấy các phím tắt của Pisa là diện các bạn giữ phím An này các bạn 4
+[01:00] các bạn giữ phím An này các bạn 4 ạ sau đó bạn vẫn dự phim anh nhắc các
+[01:02] ạ sau đó bạn vẫn dự phim anh nhắc các bạn bấm thêm phím f đấy thì nó sẽ hiện
+[01:05] bạn bấm thêm phím f đấy thì nó sẽ hiện cái cửa sổ Tuyết cho số lên không ạ lại
+[01:07] cái cửa sổ Tuyết cho số lên không ạ lại các bạn sẽ bấm vào cái phím f này tức là
+[01:09] các bạn sẽ bấm vào cái phím f này tức là rẻ các doanh thu ở đây sẽ thêm cái số
+[01:12] rẻ các doanh thu ở đây sẽ thêm cái số không mà mình khóc cái lúc đấy vào đấy
+[01:14] không mà mình khóc cái lúc đấy vào đấy thì nó sẽ chuyển về dạng số nhé các bạn
+[01:16] thì nó sẽ chuyển về dạng số nhé các bạn bấm ok đấy thì như vậy toàn bộ giá trị
+[01:18] bấm ok đấy thì như vậy toàn bộ giá trị của mình đã được chuyển về dạng số gặp
+[01:20] của mình đã được chuyển về dạng số gặp lại bây giờ mình sẽ ăn dung á Cái Cách
+[01:23] lại bây giờ mình sẽ ăn dung á Cái Cách thứ hai là gì ạ Ngoài thêm không thì các
+[01:25] thứ hai là gì ạ Ngoài thêm không thì các bạn có thể chia cho một cũng được nhá
+[01:26] bạn có thể chia cho một cũng được nhá đấy các bạn sẽ nghe được phải quá copy
+[01:29] đấy các bạn sẽ nghe được phải quá copy cái giá trị ngủ được đây sau đó bạn Bôi
+[01:31] cái giá trị ngủ được đây sau đó bạn Bôi đen Cái vùng dữ liệu mà các bạn muốn
+[01:33] đen Cái vùng dữ liệu mà các bạn muốn chuyển vào số này các bạn giữ phím An
+[01:35] chuyển vào số này các bạn giữ phím An e&amp;s đấy mình sẽ mở cái cửa sổ Pascal số
+[01:38] e&amp;s đấy mình sẽ mở cái cửa sổ Pascal số lên nhé các bạn sẽ bấm phím mẹ các bạn
+[01:41] lên nhé các bạn sẽ bấm phím mẹ các bạn có thể chọn cái diz lại tức là các danh
+[01:43] có thể chọn cái diz lại tức là các danh thủ ở đây mình sẽ chia cho một đấy thì
+[01:45] thủ ở đây mình sẽ chia cho một đấy thì nó sẽ tự động nó sẽ chuyển về kiểu số
+[01:47] nó sẽ tự động nó sẽ chuyển về kiểu số đẹp để các bạn xem bấm ok đấy tiếp theo
+[01:51] đẹp để các bạn xem bấm ok đấy tiếp theo là gì ạ mình sẽ bớt các cái giá trị vào
+[01:53] là gì ạ mình sẽ bớt các cái giá trị vào cái ô đang có Không ạ Ở đây là các giá
+[01:55] cái ô đang có Không ạ Ở đây là các giá trị mà mình cần bớt không ạ Đây mình cần
+[01:57] trị mà mình cần bớt không ạ Đây mình cần bớt doanh thu ví dụ 397 mình sẽ
+[02:00] bớt doanh thu ví dụ 397 mình sẽ có 258 thì chả biết hai trăm đấy để làm
+[02:04] có 258 thì chả biết hai trăm đấy để làm việc này các bạn làm như sau nhé các bạn
+[02:05] việc này các bạn làm như sau nhé các bạn Bôi đen Cái vùng giá trị mà các bạn muốn
+[02:07] Bôi đen Cái vùng giá trị mà các bạn muốn bớt này các bạn nhé bên phải của bạn
+[02:09] bớt này các bạn nhé bên phải của bạn copy đấy sau đó hoặc boral cái vùng dữ
+[02:11] copy đấy sau đó hoặc boral cái vùng dữ liệu mà các bạn muốn - cái phần bớt này
+[02:13] liệu mà các bạn muốn - cái phần bớt này đấy bạn nhé Thì phải các bạn chọn
+[02:15] đấy bạn nhé Thì phải các bạn chọn special Hoặc là các bạn ấn phím tắt là
+[02:18] special Hoặc là các bạn ấn phím tắt là An này EF đây sau đó bạn chọn cả các bạn
+[02:22] An này EF đây sau đó bạn chọn cả các bạn chọn cái xuất xác nhận đây Các bạn bấm
+[02:24] chọn cái xuất xác nhận đây Các bạn bấm ok thì như vậy toàn bộ cái doanh thu này
+[02:27] ok thì như vậy toàn bộ cái doanh thu này nó đã bớt đi cái phần ở bên phải này ạ
+[02:29] nó đã bớt đi cái phần ở bên phải này ạ khá là hai ông ạ tiếp theo là gì ạ mình
+[02:33] khá là hai ông ạ tiếp theo là gì ạ mình sẽ bớt cái phần trăm trong hội cái giá
+[02:35] sẽ bớt cái phần trăm trong hội cái giá trị Ở đây bây giờ giả sử mình có doanh
+[02:37] trị Ở đây bây giờ giả sử mình có doanh thu là từng này nhá bây giờ mình muốn
+[02:39] thu là từng này nhá bây giờ mình muốn bớt 15 phần trăm các giá trị này Đấy cái
+[02:42] bớt 15 phần trăm các giá trị này Đấy cái cách mà đơn giản nhất thì mình sẽ biệt ở
+[02:44] cách mà đơn giản nhất thì mình sẽ biệt ở đây là 85 phần trăm tức là rẽ các bạn
+[02:46] đây là 85 phần trăm tức là rẽ các bạn phải bằng 1
+[02:47] phải bằng 1 3 - cái phần mà mình muốn Bấp ở đây là
+[02:50] 3 - cái phần mà mình muốn Bấp ở đây là mình bớt 15 Phần trăm đúng không thì các
+[02:52] mình bớt 15 Phần trăm đúng không thì các bạn sẽ - 15 phần trăm đấy thì nó sẽ ra
+[02:55] bạn sẽ - 15 phần trăm đấy thì nó sẽ ra là gì 85 phần trăm ạ Các bạn sẽ nhấn
+[02:57] là gì 85 phần trăm ạ Các bạn sẽ nhấn chuột phải vào cái ô 85 phần trăm lại
+[02:59] chuột phải vào cái ô 85 phần trăm lại các bạn chọn copy đấy sau đó bọn Boram
+[03:03] các bạn chọn copy đấy sau đó bọn Boram cái vùng dữ liệu mà các bạn muốn bớt 15
+[03:05] cái vùng dữ liệu mà các bạn muốn bớt 15 phần trăm nhá các bạn nháy chuột phải là
+[03:07] phần trăm nhá các bạn nháy chuột phải là các bạn chọn quyết sao rồi đấy và các
+[03:09] các bạn chọn quyết sao rồi đấy và các bạn chọn con vịt like tức là diện tức là
+[03:12] bạn chọn con vịt like tức là diện tức là các cái răng Thủy ở đây mình sẽ nhấn với
+[03:14] các cái răng Thủy ở đây mình sẽ nhấn với cả 85 phần trăm thì bản chất là nó bớt
+[03:16] cả 85 phần trăm thì bản chất là nó bớt đi 15 Phần trăm đúng không lấy gạo sẽ
+[03:18] đi 15 Phần trăm đúng không lấy gạo sẽ bấm ok thì như vậy toàn bộ cái doanh thu
+[03:20] bấm ok thì như vậy toàn bộ cái doanh thu này đã bữa đi 15 Phần Trăm Khi mà mình
+[03:22] này đã bữa đi 15 Phần Trăm Khi mà mình nhân với cả cái giá trị phần trăm ở đây
+[03:24] nhân với cả cái giá trị phần trăm ở đây thì cái số mặc định nó lại chuyển về
+[03:26] thì cái số mặc định nó lại chuyển về phần trăm đúng không thì các bạn vào thẻ
+[03:27] phần trăm đúng không thì các bạn vào thẻ hôm mày có thích vào cái dấu phẩy này
+[03:29] hôm mày có thích vào cái dấu phẩy này cũng được đấy thì nó sẽ chuyển về cái
+[03:31] cũng được đấy thì nó sẽ chuyển về cái giá trị dẫn số bình thường lại vì sau
+[03:33] giá trị dẫn số bình thường lại vì sau khi bớt đi 15 phần trăm thì các cái giá
+[03:35] khi bớt đi 15 phần trăm thì các cái giá trị doanh thu nó sẽ còn lại từng ngày
+[03:37] trị doanh thu nó sẽ còn lại từng ngày nhé
+[03:37] nhé Ừ Ok như vậy là mình đã kết thúc cái
+[03:40] Ừ Ok như vậy là mình đã kết thúc cái phần câu hỏi của bài số 12 các bạn có
+[03:42] phần câu hỏi của bài số 12 các bạn có thể đóng lại nhá
+[03:44] thể đóng lại nhá ạ Bây giờ mình sẽ vào cái bài số 13 của
+[03:47] ạ Bây giờ mình sẽ vào cái bài số 13 của ngày hôm nay các bạn sẽ mở cái file thực
+[03:50] ngày hôm nay các bạn sẽ mở cái file thực hành của bài số 13 lên các bạn chú ý
+[03:54] hành của bài số 13 lên các bạn chú ý mình sẽ đẻ cái link tải file thực hành
+[03:56] mình sẽ đẻ cái link tải file thực hành trong phần mô tả phía dưới video thì tốt
+[03:58] trong phần mô tả phía dưới video thì tốt nhất là các bạn tải về các bạn mở lên để
+[04:01] nhất là các bạn tải về các bạn mở lên để vừa theo dõi và thực hành cùng mình nhá
+[04:02] vừa theo dõi và thực hành cùng mình nhá Nếu như bạn nào mà không biết cách tải
+[04:05] Nếu như bạn nào mà không biết cách tải về thì các bạn có thể theo dõi Cái bài
+[04:07] về thì các bạn có thể theo dõi Cái bài đầu tiên thì trong bài đấy mình đã hướng
+[04:09] đầu tiên thì trong bài đấy mình đã hướng dẫn rất là chi tiết các cái bước để các
+[04:11] dẫn rất là chi tiết các cái bước để các bạn tải về nhá Thì cái file mà các bạn
+[04:13] bạn tải về nhá Thì cái file mà các bạn tải về sẽ làm một cái file nén các bạn
+[04:16] tải về sẽ làm một cái file nén các bạn sẽ giải nén ra và nó sẽ có 2 file 1 file
+[04:19] sẽ giải nén ra và nó sẽ có 2 file 1 file mà file thực hành và một cái còn lại là
+[04:21] mà file thực hành và một cái còn lại là cái câu hỏi để các bạn làm bài tập về
+[04:23] cái câu hỏi để các bạn làm bài tập về nhà nha Đấy trong bài học ngày hôm nay
+[04:25] nhà nha Đấy trong bài học ngày hôm nay mình sẽ hướng dẫn các bạn bốn cái kỹ
+[04:27] mình sẽ hướng dẫn các bạn bốn cái kỹ năng quan trọng khác là gì ạ Đầu tiên là
+[04:29] năng quan trọng khác là gì ạ Đầu tiên là phân tích nhanh thứ hai là điền nhanh
+[04:31] phân tích nhanh thứ hai là điền nhanh thứ ba là cố định tiêu đề và thứ tư là
+[04:34] thứ ba là cố định tiêu đề và thứ tư là xóa trùng nhau để tên tiếng Anh của nó
+[04:36] xóa trùng nhau để tên tiếng Anh của nó là dịp which allows freshfield fanpage
+[04:39] là dịp which allows freshfield fanpage và rimmel Kate mỗi một kỹ năng ở đây
+[04:42] và rimmel Kate mỗi một kỹ năng ở đây mình đã để một cái xếp tiếng Việt rồi
+[04:43] mình đã để một cái xếp tiếng Việt rồi nhá
+[04:44] nhá đầu tiên mình sẽ làm cái phần phân tích
+[04:46] đầu tiên mình sẽ làm cái phần phân tích nhanh thì giả sử đây là cái vùng dữ liệu
+[04:48] nhanh thì giả sử đây là cái vùng dữ liệu mà các bạn cần phân tích đúng ạ thì các
+[04:51] mà các bạn cần phân tích đúng ạ thì các bạn thấy nhá Ở bên phải mình đã để cái
+[04:53] bạn thấy nhá Ở bên phải mình đã để cái hướng dẫn chi tiết các bước để làm cái
+[04:55] hướng dẫn chi tiết các bước để làm cái việc phân tích nhanh này thì các bạn đặc
+[04:57] việc phân tích nhanh này thì các bạn đặc biệt chú ý cho mình nhá cái công cụ phân
+[04:59] biệt chú ý cho mình nhá cái công cụ phân tích nhanh này nó chỉ có từ Excel 2013
+[05:02] tích nhanh này nó chỉ có từ Excel 2013 trở lên thôi tức là rượu 2013 là 2016 và
+[05:05] trở lên thôi tức là rượu 2013 là 2016 và 2019 thì các bạn có cái công cụ phân
+[05:08] 2019 thì các bạn có cái công cụ phân tích nhanh này có những bạn nào mà cài
+[05:10] tích nhanh này có những bạn nào mà cài các bạn Excel cũ hơn như lái xe 2010
+[05:12] các bạn Excel cũ hơn như lái xe 2010 hoặc 2007 thì nó sẽ không có nhá thì đầu
+[05:15] hoặc 2007 thì nó sẽ không có nhá thì đầu tiên để phân tích nhanh để bạn giữa các
+[05:17] tiên để phân tích nhanh để bạn giữa các bạn Bôi đen toàn bộ cái vùng dữ liệu của
+[05:18] bạn Bôi đen toàn bộ cái vùng dữ liệu của mình đấy sau khi bạn Bôi đen Cái vùng dữ
+[05:21] mình đấy sau khi bạn Bôi đen Cái vùng dữ liệu thì các bạn sẽ nhìn xuống dưới góc
+[05:23] liệu thì các bạn sẽ nhìn xuống dưới góc bên phải lên này để lo sẽ có một cái ô
+[05:25] bên phải lên này để lo sẽ có một cái ô vuông nhỏ đây khi mà các bạn trả chuột
+[05:27] vuông nhỏ đây khi mà các bạn trả chuột vào thì nó sẽ hiện cái chữ request arise
+[05:30] vào thì nó sẽ hiện cái chữ request arise đấy hoặc phím tắt là diện các bạn có thể
+[05:32] đấy hoặc phím tắt là diện các bạn có thể bấm can Dương quy để các bạn xúc xích
+[05:34] bấm can Dương quy để các bạn xúc xích vào đây Thì như vậy là địa một cái cửa
+[05:36] vào đây Thì như vậy là địa một cái cửa sổ phân tích nhanh ra được Hiện ra đúng
+[05:38] sổ phân tích nhanh ra được Hiện ra đúng không nó sẽ có cái thẻ diện đầu tiên là
+[05:41] không nó sẽ có cái thẻ diện đầu tiên là cái trẻ định dạng rất là mình sẽ định
+[05:42] cái trẻ định dạng rất là mình sẽ định dạng nhanh này cái thẻ
+[05:44] dạng nhanh này cái thẻ Ừ để mình sẽ biểu đồ nhanh Đây là cái
+[05:46] Ừ để mình sẽ biểu đồ nhanh Đây là cái công thức để mình tính toán học ví dụ
+[05:48] công thức để mình tính toán học ví dụ tính Cẩm tiếng Trung Bình đây ạ Đây đây
+[05:50] tính Cẩm tiếng Trung Bình đây ạ Đây đây là để tạm thay vụ Còn đây là tạo cái đồ
+[05:53] là để tạm thay vụ Còn đây là tạo cái đồ thị farcry Thế là đồ thị nhanh nhất ví
+[05:56] thị farcry Thế là đồ thị nhanh nhất ví dụ mình bạc với format tinh trước nhé
+[05:57] dụ mình bạc với format tinh trước nhé đây Nếu như các bạn chọn vào cái này K3
+[05:59] đây Nếu như các bạn chọn vào cái này K3 đây thì khi các bạn trò chuyện vào đây
+[06:01] đây thì khi các bạn trò chuyện vào đây thì gọi nhìn Lên xe nhìn trên cái bảng
+[06:04] thì gọi nhìn Lên xe nhìn trên cái bảng dữ liệu của mình thì các cái ô nó đã
+[06:06] dữ liệu của mình thì các cái ô nó đã được tô màu dưới dạng cái đây tao ba để
+[06:08] được tô màu dưới dạng cái đây tao ba để Tức là cái hiện phần trăm tô màu của cái
+[06:11] Tức là cái hiện phần trăm tô màu của cái ô nó sẽ phụ thuộc vào cái giá trị của nó
+[06:13] ô nó sẽ phụ thuộc vào cái giá trị của nó đấy giá trị mà càng lớn thì cái diện
+[06:15] đấy giá trị mà càng lớn thì cái diện tích và nó tô màu sẽ càng nhiều các con
+[06:18] tích và nó tô màu sẽ càng nhiều các con cái karakal là hiện nó cũng tương tự như
+[06:20] cái karakal là hiện nó cũng tương tự như vậy thôi chứ làm nó sẽ tô màu tăng hoặc
+[06:22] vậy thôi chứ làm nó sẽ tô màu tăng hoặc giảm dần theo cái giá trị Ví dụ như các
+[06:25] giảm dần theo cái giá trị Ví dụ như các bạn nhìn cái số thứ tự kể cả nó sẽ tu từ
+[06:28] bạn nhìn cái số thứ tự kể cả nó sẽ tu từ đập xuống à đây hoặc là cái icon sét
+[06:31] đập xuống à đây hoặc là cái icon sét cũng vậy nhá Nó sẽ thể hiện ở mức tăng
+[06:33] cũng vậy nhá Nó sẽ thể hiện ở mức tăng lương giảm hoặc là mức đi nhanh Chắc là
+[06:36] lương giảm hoặc là mức đi nhanh Chắc là cái kiểu format mà mình có sẵn đây nhá
+[06:38] cái kiểu format mà mình có sẵn đây nhá khoảng cách đồ thị cũng vậy đấy các bạn
+[06:40] khoảng cách đồ thị cũng vậy đấy các bạn có thể chú ý Đầy đây là một số cái đồ
+[06:42] có thể chú ý Đầy đây là một số cái đồ thị mà cơ bản nhất
+[06:44] thị mà cơ bản nhất số của cái phân tích nhanh hoặc làm gì ở
+[06:47] số của cái phân tích nhanh hoặc làm gì ở đây là cái tô tờ tức là có thể tính tổng
+[06:49] đây là cái tô tờ tức là có thể tính tổng này tính trung bình này cao này đấy hoặc
+[06:52] này tính trung bình này cao này đấy hoặc là tính hiện phần trăm vô tờ hoặc là
+[06:54] là tính hiện phần trăm vô tờ hoặc là running Total bây giờ ví dụ như tích của
+[06:56] running Total bây giờ ví dụ như tích của xăm đi đấy thì đoạn thấy cho khi gọi
+[06:59] xăm đi đấy thì đoạn thấy cho khi gọi thích là xong thì bạn đấy à Đây là tổng
+[07:01] thích là xong thì bạn đấy à Đây là tổng của các tần số thứ tự đúng không thì
+[07:03] của các tần số thứ tự đúng không thì thông thường với số thứ tự 2 cái giới
+[07:05] thông thường với số thứ tự 2 cái giới tính là mình không cần giải trí ngay lập
+[07:07] tính là mình không cần giải trí ngay lập tức ở đây mình đã có cái phần phân tích
+[07:08] tức ở đây mình đã có cái phần phân tích nhanh rồi nhá lại bây giờ còn xóa đi Ví
+[07:11] nhanh rồi nhá lại bây giờ còn xóa đi Ví dụ Các bạn có thể tạo các phân tích
+[07:13] dụ Các bạn có thể tạo các phân tích nhanh khác lại gọn Bôi đen lại các bạn
+[07:15] nhanh khác lại gọn Bôi đen lại các bạn thích vào đây và các bạn bấm Căn cứ Quy
+[07:17] thích vào đây và các bạn bấm Căn cứ Quy nhé ví dụ mình vẫn khi tắt là Căn cứ Quy
+[07:19] nhé ví dụ mình vẫn khi tắt là Căn cứ Quy đi đấy thì nó sẽ hiện một cái bảng phân
+[07:21] đi đấy thì nó sẽ hiện một cái bảng phân tích nhanh ví dụ mình chọn cái đồ thị đi
+[07:23] tích nhanh ví dụ mình chọn cái đồ thị đi đấy các bạn trỏ và cái phần đồ thị này
+[07:25] đấy các bạn trỏ và cái phần đồ thị này nhá Ví dụ mình thích mở ra đấy thì nó có
+[07:28] nhá Ví dụ mình thích mở ra đấy thì nó có cái đồ thị diện nó có đồ thị về ba cái
+[07:30] cái đồ thị diện nó có đồ thị về ba cái môn học ở lý thuyết thực hành và tổng
+[07:32] môn học ở lý thuyết thực hành và tổng điểm đây là của các nhân viên này đoạn
+[07:35] điểm đây là của các nhân viên này đoạn theo khá là hay ạ thì tùy vào cái mục
+[07:37] theo khá là hay ạ thì tùy vào cái mục đích của các bạn là các bạn chọn cái
+[07:38] đích của các bạn là các bạn chọn cái phần phân tích nhanh nhé Ok xanh chỉ
+[07:43] phần phân tích nhanh nhé Ok xanh chỉ năng thứ hai là cái
+[07:44] năng thứ hai là cái ở trong Excel thì cái này thực sự là rất
+[07:46] ở trong Excel thì cái này thực sự là rất là hay với những các bạn nào mà hay phải
+[07:49] là hay với những các bạn nào mà hay phải sử dụng mà các bạn Chiết xuất số liệu
+[07:50] sử dụng mà các bạn Chiết xuất số liệu các bạn cần Ví dụ như cần tách họ tên
+[07:53] các bạn cần Ví dụ như cần tách họ tên này Hoặc mình cần tắt ngày tháng này
+[07:55] này Hoặc mình cần tắt ngày tháng này hoặc là mình cần tách một cái gì đấy
+[07:57] hoặc là mình cần tách một cái gì đấy trong các chuỗi của mình thì mình sẽ
+[07:59] trong các chuỗi của mình thì mình sẽ dùng cái khác yêu này nhá thì trong cái
+[08:01] dùng cái khác yêu này nhá thì trong cái bài học này mình sẽ hướng dẫn các bạn
+[08:03] bài học này mình sẽ hướng dẫn các bạn lăn cái ví dụ cụ thể của cái flash phim
+[08:05] lăn cái ví dụ cụ thể của cái flash phim ấy thì các bạn thứ nhất các thì nó sẽ có
+[08:08] ấy thì các bạn thứ nhất các thì nó sẽ có từ cái phiên bản Excel 2013 trở về sau
+[08:11] từ cái phiên bản Excel 2013 trở về sau không lấy còn những cái access Cũ Như
+[08:13] không lấy còn những cái access Cũ Như Excel 2010 và 2007 thì nó sẽ không có
+[08:16] Excel 2010 và 2007 thì nó sẽ không có đâu nhá các bạn lưu ý cho mình nó như
+[08:17] đâu nhá các bạn lưu ý cho mình nó như vậy nếu như bạn nào và đang dùng cái
+[08:19] vậy nếu như bạn nào và đang dùng cái Excel 2010 hoặc 2007 hay là có những bạn
+[08:22] Excel 2010 hoặc 2007 hay là có những bạn dùng Excel 2003 thì các bạn cần nâng cấp
+[08:25] dùng Excel 2003 thì các bạn cần nâng cấp lên nhá thì tốt nhất là chọn cả lên
+[08:28] lên nhá thì tốt nhất là chọn cả lên Excel 2016 hoặc 2019 nhé Ok mình sẽ đi
+[08:31] Excel 2016 hoặc 2019 nhé Ok mình sẽ đi vào cái ví dụ đầu tiên của mình có danh
+[08:33] vào cái ví dụ đầu tiên của mình có danh sách Họ tên đầy đủ nha của các bạn này
+[08:35] sách Họ tên đầy đủ nha của các bạn này Bây giờ mình cần tách họ và tách tên thì
+[08:37] Bây giờ mình cần tách họ và tách tên thì mình làm như thế nào ạ Các bạn chỉ cần
+[08:39] mình làm như thế nào ạ Các bạn chỉ cần gõ cái họ của một bạn ở trên này thôi ví
+[08:42] gõ cái họ của một bạn ở trên này thôi ví dụ đây là ca vẫn cố túc
+[08:44] dụ đây là ca vẫn cố túc Em chỉ cần gõ tiếp cao phải gọi enter
+[08:46] Em chỉ cần gõ tiếp cao phải gọi enter thì gì ạ Excel đã sẽ tự hiểu là gì mình
+[08:49] thì gì ạ Excel đã sẽ tự hiểu là gì mình nói sẽ chết sức cái từ đầu tiên của cái
+[08:51] nói sẽ chết sức cái từ đầu tiên của cái trường họ tên ở đây đấy xin để sử dụng
+[08:54] trường họ tên ở đây đấy xin để sử dụng Flash nhá thì làm gì Các bạn có thể bấm
+[08:56] Flash nhá thì làm gì Các bạn có thể bấm kahchan e luôn lại Ví dụ mình bấm trang
+[08:59] kahchan e luôn lại Ví dụ mình bấm trang cho em luôn này Đấy Cậu thấy chưa sau
+[09:00] cho em luôn này Đấy Cậu thấy chưa sau khi các bạn Bống tensione thì nó sẽ tự
+[09:02] khi các bạn Bống tensione thì nó sẽ tự hiểu Cái tên còn lại nó sẽ được tách
+[09:04] hiểu Cái tên còn lại nó sẽ được tách phần Họ đây để rất là hai ạ Cái Phần Tên
+[09:07] phần Họ đây để rất là hai ạ Cái Phần Tên cũng vậy nha ví dụ tên ở đây các bạn chỉ
+[09:09] cũng vậy nha ví dụ tên ở đây các bạn chỉ cần gõ cái tên đầu tiên thôi mình gọi
+[09:11] cần gõ cái tên đầu tiên thôi mình gọi cho cốt ở đây thôi lại gọi enter Bây giờ
+[09:14] cho cốt ở đây thôi lại gọi enter Bây giờ con Bôi đen này sau đó diện các bạn vào
+[09:17] con Bôi đen này sau đó diện các bạn vào thẻ đã ta nhé các bạn chọn cái Classic ở
+[09:20] thẻ đã ta nhé các bạn chọn cái Classic ở đây đấy thì như vậy là điện toàn bộ cái
+[09:22] đây đấy thì như vậy là điện toàn bộ cái vùng dữ liệu tên ở đây đã được viện đã
+[09:24] vùng dữ liệu tên ở đây đã được viện đã được liền nhanh cao thấy không Lúc này
+[09:26] được liền nhanh cao thấy không Lúc này cái việc tách họ tên của mình quá là đơn
+[09:28] cái việc tách họ tên của mình quá là đơn giản hơn đúng ạ Đấy Ok cái ví dụ thứ hai
+[09:31] giản hơn đúng ạ Đấy Ok cái ví dụ thứ hai là diện giả sửa đây mình có tên đầy đủ
+[09:33] là diện giả sửa đây mình có tên đầy đủ nhá bây giờ mình muốn viết tắt thôi Chả
+[09:36] nhá bây giờ mình muốn viết tắt thôi Chả sửa đây mình cần diện mình cần ghép các
+[09:38] sửa đây mình cần diện mình cần ghép các các ký tự đầu tiên của họ này tên đệm và
+[09:41] các ký tự đầu tiên của họ này tên đệm và tên đấy ví dụ Cao Văn cuốn các bạn Quyền
+[09:43] tên đấy ví dụ Cao Văn cuốn các bạn Quyền gõ cv
+[09:44] gõ cv Ừ để con enter để bây giờ có còn vào thẻ
+[09:47] Ừ để con enter để bây giờ có còn vào thẻ data Các bạn chọn flash kêu đấy thì nó
+[09:49] data Các bạn chọn flash kêu đấy thì nó cũng lập tức là nó sẽ tiền nhanh luôn là
+[09:51] cũng lập tức là nó sẽ tiền nhanh luôn là cái tên két sắt ở đây lợi ích sao nó rất
+[09:54] cái tên két sắt ở đây lợi ích sao nó rất là thông minh nó hiểu là diện Long hiểu
+[09:56] là thông minh nó hiểu là diện Long hiểu là các bạn sẽ lấy 3 cái ký tự đầu tiên
+[09:58] là các bạn sẽ lấy 3 cái ký tự đầu tiên của ba cái chữ Cao Văn cốt này cảm thấy
+[10:01] của ba cái chữ Cao Văn cốt này cảm thấy không Đây là Bùi Thị béo là BTV lấy Đỗ
+[10:03] không Đây là Bùi Thị béo là BTV lấy Đỗ Văn Đậu là DVD là khá là hay ạ Con ở đây
+[10:07] Văn Đậu là DVD là khá là hay ạ Con ở đây là dịp mình có họ và tên đệm Đây là cái
+[10:11] là dịp mình có họ và tên đệm Đây là cái phần tên bây giờ mình muốn gộp vào đúng
+[10:13] phần tên bây giờ mình muốn gộp vào đúng ạ Đấy thì con làm dễ các bạn chỉ cần gõ
+[10:15] ạ Đấy thì con làm dễ các bạn chỉ cần gõ tên đầy đủ đây là diện Cao Văn cốt đây
+[10:19] tên đầy đủ đây là diện Cao Văn cốt đây các bạn enter bây giờ các bạn muốn phím
+[10:20] các bạn enter bây giờ các bạn muốn phím tắt là cân dẫn em nhé cảm thấy chưa thì
+[10:23] tắt là cân dẫn em nhé cảm thấy chưa thì nó sẽ tự động điền cái phần điện nó sẽ
+[10:24] nó sẽ tự động điền cái phần điện nó sẽ gồm họ và tên vào thành cái họ tên đầy
+[10:27] gồm họ và tên vào thành cái họ tên đầy đủ đây này rất là hay ạ Tiếp theo là cái
+[10:31] đủ đây này rất là hay ạ Tiếp theo là cái phần giới tí nhá Đấy thì ở đây mình có
+[10:34] phần giới tí nhá Đấy thì ở đây mình có cái chiều thông tin là họ tên và cái
+[10:36] cái chiều thông tin là họ tên và cái phần giới tính thì các bạn thấy nhắc cái
+[10:38] phần giới tính thì các bạn thấy nhắc cái phần giới tính ở đây p Thì nghĩa là con
+[10:40] phần giới tính ở đây p Thì nghĩa là con trai giờ thì là con gái đúng không Đấy
+[10:42] trai giờ thì là con gái đúng không Đấy bây giờ để lấy cái
+[10:44] bây giờ để lấy cái Ừ thì gọi thì gọi Thiết ở đây thôi thấy
+[10:46] Ừ thì gọi thì gọi Thiết ở đây thôi thấy gọi m bây giờ các bạn sẽ dùng cái
+[10:48] gọi m bây giờ các bạn sẽ dùng cái freshview nhá các bạn bốn ca cho me đấy
+[10:51] freshview nhá các bạn bốn ca cho me đấy thì khi mà các bạn muốn căn ke đây nó sẽ
+[10:53] thì khi mà các bạn muốn căn ke đây nó sẽ báo lỗi ngay tại vì sao ạ Tại vì bạn chú
+[10:56] báo lỗi ngay tại vì sao ạ Tại vì bạn chú ý này cái tê ở đây thì nó lại không hiểu
+[10:59] ý này cái tê ở đây thì nó lại không hiểu là cái giới tính tôi là cái chữ t cuối
+[11:00] là cái giới tính tôi là cái chữ t cuối cùng mà nó lại hiểu là cái chữ t đầu
+[11:03] cùng mà nó lại hiểu là cái chữ t đầu tiên à Cho nên cái phần giới tính ở đây
+[11:05] tiên à Cho nên cái phần giới tính ở đây nó lại lấy cái ký tự đầu tiên của cái
+[11:07] nó lại lấy cái ký tự đầu tiên của cái chữ họ của cái phần họ này đấy còn thế
+[11:10] chữ họ của cái phần họ này đấy còn thế không như vậy cái phần flash này các bạn
+[11:12] không như vậy cái phần flash này các bạn hết sức khỏe chuối cho mình nhá Nếu
+[11:14] hết sức khỏe chuối cho mình nhá Nếu nhưng mà cái kết quả đấy nó chưa Đúng
+[11:16] nhưng mà cái kết quả đấy nó chưa Đúng như cái ý của mình thì các bạn sẽ thêm
+[11:18] như cái ý của mình thì các bạn sẽ thêm một cái mẫu nữa đúng không Thì ở đây các
+[11:20] một cái mẫu nữa đúng không Thì ở đây các bạn có thể gõ chứ t tiếp nữa đấy thì khi
+[11:23] bạn có thể gõ chứ t tiếp nữa đấy thì khi vặn gọi tên này thì nó chỉ có duy nhất
+[11:25] vặn gọi tên này thì nó chỉ có duy nhất trước đây ở đây thôi đấy các em tư một
+[11:27] trước đây ở đây thôi đấy các em tư một cái thì toàn bộ cái phần còn lại nó sẽ
+[11:29] cái thì toàn bộ cái phần còn lại nó sẽ tự động nó sẽ được viện thay thế lại tức
+[11:33] tự động nó sẽ được viện thay thế lại tức là sau khi mà các bạn thêm một cái mẫu
+[11:34] là sau khi mà các bạn thêm một cái mẫu thứ hai nữa thì nó mới hiểu là gì ạ nó
+[11:38] thứ hai nữa thì nó mới hiểu là gì ạ nó mới hiểu là bạn lấy cái ký tự cuối cùng
+[11:40] mới hiểu là bạn lấy cái ký tự cuối cùng của cái phần họ tên là đây tức là dễ
+[11:42] của cái phần họ tên là đây tức là dễ tính đấy Thông thường các bạn sẽ
+[11:44] tính đấy Thông thường các bạn sẽ chị xem nào một hai cái trường hợp đầu
+[11:46] chị xem nào một hai cái trường hợp đầu tiên xem nó đã đúng chưa Nếu như nó đúng
+[11:48] tiên xem nó đã đúng chưa Nếu như nó đúng rồi thì các bạn hãy dùng cái flash nhé
+[11:50] rồi thì các bạn hãy dùng cái flash nhé Ok ví dụ cuối cùng của cái flash Fill
+[11:53] Ok ví dụ cuối cùng của cái flash Fill điện mình sẽ lấy 5 và tháng giả sửa đây
+[11:56] điện mình sẽ lấy 5 và tháng giả sửa đây mình có cái trường ngày tháng nhá lại
+[11:59] mình có cái trường ngày tháng nhá lại bây giờ mình muốn lấy 5 và tháng thì
+[12:01] bây giờ mình muốn lấy 5 và tháng thì mình là như thế nào năm ở đấy thì các
+[12:03] mình là như thế nào năm ở đấy thì các bạn sẽ biển là 2005 thôi đấy Gọi enter
+[12:06] bạn sẽ biển là 2005 thôi đấy Gọi enter bây giờ các bạn chỉ cần bấm vào chỗ này
+[12:08] bây giờ các bạn chỉ cần bấm vào chỗ này thôi thì lập tức sao nó sẽ hiểu là nó sẽ
+[12:11] thôi thì lập tức sao nó sẽ hiểu là nó sẽ lấy năm của các ô còn lại rất là hai ạ
+[12:13] lấy năm của các ô còn lại rất là hai ạ Cái tháng cũng vậy nhá thì ở đây là
+[12:16] Cái tháng cũng vậy nhá thì ở đây là tháng 11 đúng không các bạn chui ngã ở
+[12:18] tháng 11 đúng không các bạn chui ngã ở đây mình đã đổi các định dạng là gì ạ
+[12:19] đây mình đã đổi các định dạng là gì ạ Ngày trước Tháng sau và đến năm rồi đó
+[12:21] Ngày trước Tháng sau và đến năm rồi đó đấy thì khi mà các bạn có tháng 11 ở đây
+[12:24] đấy thì khi mà các bạn có tháng 11 ở đây nhá lại các em từ nhà thì ít sao lại
+[12:26] nhá lại các em từ nhà thì ít sao lại hiểu cái 11 ở đây là cái 11 đầu tiên ở
+[12:29] hiểu cái 11 ở đây là cái 11 đầu tiên ở đây tức là lấy ngày chứ không phải thánh
+[12:31] đây tức là lấy ngày chứ không phải thánh vậy cho nên các bạn khi mà con Bống cân
+[12:33] vậy cho nên các bạn khi mà con Bống cân cho em nhé đấy Bạn thấy chứ Tôi bảo nó
+[12:35] cho em nhé đấy Bạn thấy chứ Tôi bảo nó đã lấy ngày chứ ngoài tháng đúng không
+[12:36] đã lấy ngày chứ ngoài tháng đúng không Bây giờ mình sẽ lưu lại đấy thì cho lên
+[12:39] Bây giờ mình sẽ lưu lại đấy thì cho lên ý trong trường hợp này các bạn phải lấy
+[12:41] ý trong trường hợp này các bạn phải lấy thêm một cái mẫu nữa tôi là các bạn phải
+[12:42] thêm một cái mẫu nữa tôi là các bạn phải gọi cho 10 đây nữa
+[12:44] gọi cho 10 đây nữa em nghĩ xem nó mới hiểu là cái ông này
+[12:46] em nghĩ xem nó mới hiểu là cái ông này ông ấy tháng đúng không ạ Bây giờ còn
+[12:48] ông ấy tháng đúng không ạ Bây giờ còn chỉ cần 4kcal thôi đấy thì đã hiểu là
+[12:50] chỉ cần 4kcal thôi đấy thì đã hiểu là các bạn ấy tháng rồi Rất là hay đây là
+[12:52] các bạn ấy tháng rồi Rất là hay đây là tháng 3 này tháng 5 là tháng 5 tháng 5
+[12:55] tháng 3 này tháng 5 là tháng 5 tháng 5 tháng 5 rồi đấy thì như vậy cái
+[12:58] tháng 5 rồi đấy thì như vậy cái Flashtool đó sẽ có hai cái chú ý một là
+[13:00] Flashtool đó sẽ có hai cái chú ý một là gì ạ Cái flash nó chỉ hỗ trợ từ Excel
+[13:03] gì ạ Cái flash nó chỉ hỗ trợ từ Excel 2013 trở lên thôi Và thứ hai là gì ạ nếu
+[13:06] 2013 trở lên thôi Và thứ hai là gì ạ nếu như bạn dùng cái class chứ Thì bạn phải
+[13:08] như bạn dùng cái class chứ Thì bạn phải chú ý cho mình trong một số trường hợp
+[13:09] chú ý cho mình trong một số trường hợp Ví dụ như trường hợp này các bạn phải
+[13:11] Ví dụ như trường hợp này các bạn phải thêm các cái mẫu khác nhau thì nó mới
+[13:13] thêm các cái mẫu khác nhau thì nó mới hiểu đúng Cái ý của bạn đấy có những cái
+[13:16] hiểu đúng Cái ý của bạn đấy có những cái trường hợp nếu như bạn không thêm mỗi
+[13:17] trường hợp nếu như bạn không thêm mỗi thì nó sẽ hiểu sai ý của các bạn ạ Đấy
+[13:20] thì nó sẽ hiểu sai ý của các bạn ạ Đấy Ok xanh cái thứ ba là rẻ mình sẽ cố định
+[13:24] Ok xanh cái thứ ba là rẻ mình sẽ cố định cái vùng tiêu đề thì giả sử kết dữ liệu
+[13:26] cái vùng tiêu đề thì giả sử kết dữ liệu của mình ở đây là liệu mình có cái danh
+[13:28] của mình ở đây là liệu mình có cái danh sách sản phẩm rất là nhiều sản phẩm
+[13:29] sách sản phẩm rất là nhiều sản phẩm không ạ Còn đây là các cách ngày trong
+[13:32] không ạ Còn đây là các cách ngày trong tháng không ạ Giả sử đây là mình đang
+[13:33] tháng không ạ Giả sử đây là mình đang lấy dữ liệu của tháng 3 đúng không để
+[13:35] lấy dữ liệu của tháng 3 đúng không để các bạn xem đây là cái tan iPhone 3 Dọn
+[13:38] các bạn xem đây là cái tan iPhone 3 Dọn sẽ tăng đây thì là gì À cái dữ liệu của
+[13:40] sẽ tăng đây thì là gì À cái dữ liệu của mình nó được Lan sang bên phải này để nó
+[13:42] mình nó được Lan sang bên phải này để nó sẽ đến cái ngày cuối cùng của cái tháng
+[13:43] sẽ đến cái ngày cuối cùng của cái tháng 3 là ban
+[13:44] 3 là ban ạ Bây giờ các bạn lại lăn về đầu ở đây
+[13:46] ạ Bây giờ các bạn lại lăn về đầu ở đây đấy tương tự cái phần sản phẩm của mình
+[13:48] đấy tương tự cái phần sản phẩm của mình có rất là nhiều Đúng không các bạn muốn
+[13:50] có rất là nhiều Đúng không các bạn muốn kiểm tra các sản phẩm cuối cùng thì các
+[13:51] kiểm tra các sản phẩm cuối cùng thì các bạn lại lăn xuống hoặc các bạn kéo cái
+[13:53] bạn lại lăn xuống hoặc các bạn kéo cái con chuột này đấy thì như vậy khi con
+[13:56] con chuột này đấy thì như vậy khi con kéo xuống ấy hoặc các bạn có dám phải
+[13:58] kéo xuống ấy hoặc các bạn có dám phải thì bạn sẽ không nhìn thấy cái phần tiêu
+[14:00] thì bạn sẽ không nhìn thấy cái phần tiêu đề nữa đúng không đấy thì nó sẽ rất khó
+[14:03] đề nữa đúng không đấy thì nó sẽ rất khó cho mình biết là cái dữ liệu nào là của
+[14:04] cho mình biết là cái dữ liệu nào là của ngày nào thì bây giờ mình phải cố định
+[14:06] ngày nào thì bây giờ mình phải cố định cái cùng tiêu đề của mình thì cái vùng
+[14:09] cái cùng tiêu đề của mình thì cái vùng tiêu đề của mình sẽ gồm hai cái tiêu đề
+[14:10] tiêu đề của mình sẽ gồm hai cái tiêu đề là tiêu đề hàng và tiêu đề cột đấy để cố
+[14:14] là tiêu đề hàng và tiêu đề cột đấy để cố định cái phần tiêu đề hàng nha tí là
+[14:16] định cái phần tiêu đề hàng nha tí là mình muốn cố định cái hàng thứ 8 này thì
+[14:19] mình muốn cố định cái hàng thứ 8 này thì các bạn có thích vào cái hàng dưới nó
+[14:20] các bạn có thích vào cái hàng dưới nó Tức là thích vào cái hàng thứ 9 này lại
+[14:22] Tức là thích vào cái hàng thứ 9 này lại sau đó bạn vào cái thẻ diện các bạn vào
+[14:24] sau đó bạn vào cái thẻ diện các bạn vào cái thẻ view để các bạn chọn phim Pain
+[14:27] cái thẻ view để các bạn chọn phim Pain và các bạn chọn cái đầu tiên là cái
+[14:30] và các bạn chọn cái đầu tiên là cái phiên luôn ở đây đấy thì như vậy là
+[14:32] phiên luôn ở đây đấy thì như vậy là Thiện nó sẽ cố định trước cái hàng mà
+[14:35] Thiện nó sẽ cố định trước cái hàng mà mình chọn là thứ 9 thì nó sẽ cố định từ
+[14:37] mình chọn là thứ 9 thì nó sẽ cố định từ cái hành số 8 trở lên để bây giờ các bạn
+[14:39] cái hành số 8 trở lên để bây giờ các bạn lăn cái con chuột để xuống con thấy chưa
+[14:40] lăn cái con chuột để xuống con thấy chưa thì như vậy là cái hành số 8 luôn cố
+[14:43] thì như vậy là cái hành số 8 luôn cố định thì
+[14:44] định thì anh ở đây thì các bạn biết là cái giá
+[14:46] anh ở đây thì các bạn biết là cái giá trị này nó là của cái ngày nào cũng là
+[14:48] trị này nó là của cái ngày nào cũng là con thấy không rất là hai ạ cái tiêu đề
+[14:50] con thấy không rất là hai ạ cái tiêu đề này luôn luôn cố định rồi bây giờ để bỏ
+[14:53] này luôn luôn cố định rồi bây giờ để bỏ cái cố định cái phần tiêu đề là gì ạ rồi
+[14:55] cái cố định cái phần tiêu đề là gì ạ rồi thì các bạn chỉ cần tĩnh lại và cái thẻ
+[14:57] thì các bạn chỉ cần tĩnh lại và cái thẻ ghi này các bạn tích vào cái feel Pain
+[14:59] ghi này các bạn tích vào cái feel Pain và các bạn chọn vào đây là Ân Phi bên
+[15:01] và các bạn chọn vào đây là Ân Phi bên đây tức là trước đã mình đã pin rồi thì
+[15:04] đây tức là trước đã mình đã pin rồi thì bây giờ nó sẽ đổi thành cái Ân phía bên
+[15:06] bây giờ nó sẽ đổi thành cái Ân phía bên này đây lại cậu thích vào đây Thì như
+[15:08] này đây lại cậu thích vào đây Thì như vậy cái phần tiêu đề luôn đã không được
+[15:10] vậy cái phần tiêu đề luôn đã không được cố định nữa đấy gọi thêm rất là hai ạ
+[15:12] cố định nữa đấy gọi thêm rất là hai ạ tương tự bây giờ để cố định cái vùng
+[15:15] tương tự bây giờ để cố định cái vùng tiêu đề cho các phần cột Tức là mình
+[15:17] tiêu đề cho các phần cột Tức là mình muốn cố định cho các phần sản phẩm là
+[15:19] muốn cố định cho các phần sản phẩm là cái cột bên này đúng ạ thì các bạn phải
+[15:21] cái cột bên này đúng ạ thì các bạn phải thích vào cái cột C này Đấy tức là mình
+[15:23] thích vào cái cột C này Đấy tức là mình phải tích sang phải một cột so với cái
+[15:26] phải tích sang phải một cột so với cái cột mà mình muốn cố định đúng không Đấy
+[15:28] cột mà mình muốn cố định đúng không Đấy sau đó còn vào thẻ Miu Các bạn chọn phê
+[15:30] sau đó còn vào thẻ Miu Các bạn chọn phê và các bạn tích tiếp và cái khuôn viên ở
+[15:32] và các bạn tích tiếp và cái khuôn viên ở đây để thì như vậy là cái cột b này đã
+[15:35] đây để thì như vậy là cái cột b này đã được cố định đổi về các bạn lăng cái con
+[15:36] được cố định đổi về các bạn lăng cái con chuột này sang đây còn thấy chưa thì như
+[15:38] chuột này sang đây còn thấy chưa thì như vậy cái cột b này luôn luôn cố định Khi
+[15:41] vậy cái cột b này luôn luôn cố định Khi các bạn tích vào đấy thì bạn biết ngay
+[15:43] các bạn tích vào đấy thì bạn biết ngay nào làm
+[15:44] nào làm A và doanh thu của sản phẩm số bạch đấy
+[15:46] A và doanh thu của sản phẩm số bạch đấy Bạn thấy không rất là hay luôn đấy cái
+[15:48] Bạn thấy không rất là hay luôn đấy cái cột bên này luôn cố định các bạn vào cái
+[15:53] cột bên này luôn cố định các bạn vào cái thẻ view các bạn flipper các bạn bỏ cái
+[15:55] thẻ view các bạn flipper các bạn bỏ cái cố định tiêu đề đây nhá Ok bây giờ trong
+[15:58] cố định tiêu đề đây nhá Ok bây giờ trong trường hợp mà mình muốn cố định nghĩa là
+[15:59] trường hợp mà mình muốn cố định nghĩa là hàng và cả cột thì mình là như thế nào
+[16:01] hàng và cả cột thì mình là như thế nào Okay cùng năm sau đây này Đấy nó không
+[16:03] Okay cùng năm sau đây này Đấy nó không cố định nữa đúng không với các bạn Năm
+[16:05] cố định nữa đúng không với các bạn Năm xuống đây này Đấy nó nó không cố định
+[16:06] xuống đây này Đấy nó nó không cố định nữa Bây giờ mình muốn cố định nghĩa cả
+[16:09] nữa Bây giờ mình muốn cố định nghĩa cả cái hành số 8 này và cả cái cột bên này
+[16:12] cái hành số 8 này và cả cái cột bên này thì mình là như thế nào thì các bạn phải
+[16:14] thì mình là như thế nào thì các bạn phải chọn một cái ô mà nó sẽ hiện nó phải
+[16:17] chọn một cái ô mà nó sẽ hiện nó phải dưới cái hành số 8 và nó ở bên phải cái
+[16:19] dưới cái hành số 8 và nó ở bên phải cái cột mà mình muốn cố định đúng không Tức
+[16:21] cột mà mình muốn cố định đúng không Tức là cái ô C9 đây này lại thì khi các bạn
+[16:24] là cái ô C9 đây này lại thì khi các bạn thích mẫu C9 hãy thì cái hàng tôi chí
+[16:26] thích mẫu C9 hãy thì cái hàng tôi chí này nó sẽ nằm dưới cái thằng số 8 và cái
+[16:29] này nó sẽ nằm dưới cái thằng số 8 và cái cột C này nó sẽ làm ở bên phải cột b này
+[16:31] cột C này nó sẽ làm ở bên phải cột b này đây đấy tôi là mình rất thích vào đấy ạ
+[16:33] đây đấy tôi là mình rất thích vào đấy ạ Các bạn sẽ thích vào cái Ok chí này nhá
+[16:35] Các bạn sẽ thích vào cái Ok chí này nhá sau đó còn bảo thể Milk Các bạn chọn pp
+[16:38] sau đó còn bảo thể Milk Các bạn chọn pp và các bạn thích vào cái bên này luôn
+[16:40] và các bạn thích vào cái bên này luôn đấy khi bạn nắm súng này cảm thấy chưa
+[16:43] đấy khi bạn nắm súng này cảm thấy chưa cái phần tiêu
+[16:44] cái phần tiêu chị đã được cố định và khi bạn 50 phải
+[16:46] chị đã được cố định và khi bạn 50 phải lại đấy thì cái cột b này cũng được cố
+[16:48] lại đấy thì cái cột b này cũng được cố định phải gọi thêm rất là hai cái này là
+[16:51] định phải gọi thêm rất là hai cái này là mình sẽ cố định cả hàng và cả cột nhá Ok
+[16:54] mình sẽ cố định cả hàng và cả cột nhá Ok sang kỹ năng thứ tư là mình xóa trùng
+[16:56] sang kỹ năng thứ tư là mình xóa trùng nhau cái này cũng rất là nhiều bạn hay
+[16:58] nhau cái này cũng rất là nhiều bạn hay dùng đấy thì giả sử mình có thông tin ở
+[17:00] dùng đấy thì giả sử mình có thông tin ở đây là gì ạ Cái khu vực này năm sản phẩm
+[17:03] đây là gì ạ Cái khu vực này năm sản phẩm và doanh thu đấy thì con Thúy nha các
+[17:06] và doanh thu đấy thì con Thúy nha các khu vực ở đây Thực ra nó chỉ có 3 khu
+[17:08] khu vực ở đây Thực ra nó chỉ có 3 khu vực thôi và các sản phẩm ở đây Thực ra
+[17:10] vực thôi và các sản phẩm ở đây Thực ra nó cũng chỉ có 3 sản phẩm thôi nhưng mà
+[17:12] nó cũng chỉ có 3 sản phẩm thôi nhưng mà diện nó kết hợp của khu vực năm và sản
+[17:14] diện nó kết hợp của khu vực năm và sản phẩm đâm ra nó có rất là nhiều cái
+[17:16] phẩm đâm ra nó có rất là nhiều cái trường bây giờ giả sử mình muốn lọc
+[17:18] trường bây giờ giả sử mình muốn lọc nghiện các khu vực duy nhất thì mình làm
+[17:20] nghiện các khu vực duy nhất thì mình làm như thế nào thì để lọc các cách khu vực
+[17:22] như thế nào thì để lọc các cách khu vực thứ nhất thì gọi sẽ poland cái cột khu
+[17:24] thứ nhất thì gọi sẽ poland cái cột khu vực này này các bạn nháy chuột phải các
+[17:26] vực này này các bạn nháy chuột phải các bạn copy đấy ví dụ mình copy ra một cái
+[17:29] bạn copy đấy ví dụ mình copy ra một cái cột ca này chẳng á thì cậu thích vào
+[17:31] cột ca này chẳng á thì cậu thích vào cuộc ta gọi lấy được phải gắn kết với đã
+[17:32] cuộc ta gọi lấy được phải gắn kết với đã đấy thì như vậy cái cục ga này hiện nó
+[17:35] đấy thì như vậy cái cục ga này hiện nó sẽ copy toàn bộ cái khu vực ở cột bên
+[17:37] sẽ copy toàn bộ cái khu vực ở cột bên này đúng không các bạn xuất tinh bằng
+[17:39] này đúng không các bạn xuất tinh bằng cái Coca này nhá Đấy sau đó bọn vào thẻ
+[17:41] cái Coca này nhá Đấy sau đó bọn vào thẻ data là các bạn chọn remove Plus liên
+[17:43] data là các bạn chọn remove Plus liên kết
+[17:44] kết Ừ thì một cái cửa sổ đi mua bút mới kết
+[17:47] Ừ thì một cái cửa sổ đi mua bút mới kết hiện ra đúng không đấy thì ở đây nó chỉ
+[17:49] hiện ra đúng không đấy thì ở đây nó chỉ có một cột là cột ca thôi đúng không Thì
+[17:50] có một cột là cột ca thôi đúng không Thì nó ở đây nó thích và cụ tra thì gọi cho
+[17:53] nó ở đây nó thích và cụ tra thì gọi cho bấm ok thì như vậy là gì ạ Nó sẽ hiện
+[17:55] bấm ok thì như vậy là gì ạ Nó sẽ hiện của cái cửa sổ thông báo là việc 15 cái
+[17:57] của cái cửa sổ thông báo là việc 15 cái giá trị là trùng nhau được tìm thấy và
+[17:59] giá trị là trùng nhau được tìm thấy và nó sẽ Gmobile và nó chỉ bớt lại ba cái
+[18:02] nó sẽ Gmobile và nó chỉ bớt lại ba cái giá trị duy nhất thôi Các bạn bấm ok thì
+[18:04] giá trị duy nhất thôi Các bạn bấm ok thì như vậy Ba cái giá trị duy nhất ở đây là
+[18:06] như vậy Ba cái giá trị duy nhất ở đây là gì Bắc Trung Nam để gặp thêm rất là hai
+[18:08] gì Bắc Trung Nam để gặp thêm rất là hai ạ bây giờ ví dụ bị xóa đi nhá thì ok Giả
+[18:12] ạ bây giờ ví dụ bị xóa đi nhá thì ok Giả sử mình sẽ dùng cái Limo đúc kết cho cái
+[18:14] sử mình sẽ dùng cái Limo đúc kết cho cái vùng giá trị này đi bây giờ mình muốn
+[18:16] vùng giá trị này đi bây giờ mình muốn bớt lại rẻ mình cũng bớt lại cái khu vực
+[18:18] bớt lại rẻ mình cũng bớt lại cái khu vực và sản phẩm đúng ạ Tức là miền Nam thì
+[18:20] và sản phẩm đúng ạ Tức là miền Nam thì có bao nhiêu sản phẩm Miền Trung thì bao
+[18:22] có bao nhiêu sản phẩm Miền Trung thì bao nhiêu sản phẩm và miền Bắc thì bao nhiêu
+[18:23] nhiêu sản phẩm và miền Bắc thì bao nhiêu sản phẩm mình không quan tâm với trường
+[18:25] sản phẩm mình không quan tâm với trường năm và trường doanh thu thì mình làm như
+[18:27] năm và trường doanh thu thì mình làm như thế nào thì ok Giả sử mình chất tích và
+[18:29] thế nào thì ok Giả sử mình chất tích và mô bất kỳ trong cây vùng dữ liệu này nhá
+[18:31] mô bất kỳ trong cây vùng dữ liệu này nhá Sau đó các bạn gọi thì ra ta Các bạn
+[18:33] Sau đó các bạn gọi thì ra ta Các bạn chọn remove đúc kết này đấy thì một cái
+[18:36] chọn remove đúc kết này đấy thì một cái cửa sổ ghi mô đúc kết hiện ra đúng không
+[18:39] cửa sổ ghi mô đúc kết hiện ra đúng không Thì bạn chú ý cho mình nhá Ở đây làm gì
+[18:41] Thì bạn chú ý cho mình nhá Ở đây làm gì mình có bốn cái cột là khu vực 5 sản
+[18:44] mình có bốn cái cột là khu vực 5 sản Ừ thì nó sẽ tương ứng là 40k lần khu vực
+[18:47] Ừ thì nó sẽ tương ứng là 40k lần khu vực sản phẩm và doanh thu đúng ạ Đấy thì mặc
+[18:49] sản phẩm và doanh thu đúng ạ Đấy thì mặc định là gì nó sẽ tích và bốn cái ô này
+[18:52] định là gì nó sẽ tích và bốn cái ô này nghĩa là gì khi các bạn tích vào 40 ôn
+[18:54] nghĩa là gì khi các bạn tích vào 40 ôn này thì nó sẽ dùng nhom hết thì nó mới
+[18:56] này thì nó sẽ dùng nhom hết thì nó mới xóa đây nhá Bây giờ giả sử Minh tích và
+[18:58] xóa đây nhá Bây giờ giả sử Minh tích và 4 ô này con thích Ok Đấy nó sẽ báo là
+[19:01] 4 ô này con thích Ok Đấy nó sẽ báo là Thiện không có cái giá trị nào trùng
+[19:03] Thiện không có cái giá trị nào trùng nhau cả Tức là không có cái giá trị là
+[19:05] nhau cả Tức là không có cái giá trị là trùng nhau cả về khu vực cả về năm cả về
+[19:08] trùng nhau cả về khu vực cả về năm cả về sản phẩm và cả về doanh thu đấy Bây giờ
+[19:12] sản phẩm và cả về doanh thu đấy Bây giờ các bạn hãy thích lại mà ông bất kỳ Các
+[19:13] các bạn hãy thích lại mà ông bất kỳ Các bạn chọn với mua đúc kết nhá Bây giờ giả
+[19:15] bạn chọn với mua đúc kết nhá Bây giờ giả sử mình chỉ chọn cái khu vực và sản phẩm
+[19:18] sử mình chỉ chọn cái khu vực và sản phẩm thôi đúng không các bạn sẽ thích cái
+[19:19] thôi đúng không các bạn sẽ thích cái inspection này này thì nó sẽ bỏ chọn tất
+[19:22] inspection này này thì nó sẽ bỏ chọn tất cả đi Sau đó mình sẽ chọn khu vực và sản
+[19:25] cả đi Sau đó mình sẽ chọn khu vực và sản phẩm thôi chứ cả Thiện nó chỉ quan tâm
+[19:27] phẩm thôi chứ cả Thiện nó chỉ quan tâm đến khu vực và sản phẩm trùng nhau thì
+[19:28] đến khu vực và sản phẩm trùng nhau thì nó sẽ xóa nó sẽ không quan tâm đến năm
+[19:31] nó sẽ xóa nó sẽ không quan tâm đến năm và doanh thu năm bao nhiêu hay là kênh
+[19:33] và doanh thu năm bao nhiêu hay là kênh Thu bao nhiêu thì nó cũng không quan tâm
+[19:34] Thu bao nhiêu thì nó cũng không quan tâm mà nó chỉ quan tâm và khu vực và sản
+[19:36] mà nó chỉ quan tâm và khu vực và sản phẩm cứ trùng nhau thì nó sẽ xóa các bạn
+[19:38] phẩm cứ trùng nhau thì nó sẽ xóa các bạn sẽ bấm ok để các bạn Ok thì như vậy là
+[19:41] sẽ bấm ok để các bạn Ok thì như vậy là gì ạ Nó chỉ còn bớt lại ở đây là gì ạ
+[19:44] gì ạ Nó chỉ còn bớt lại ở đây là gì ạ ở những cái giá trị thôi như vậy mỗi khu
+[19:46] ở những cái giá trị thôi như vậy mỗi khu vực sẽ có 3 sản phẩm đúng không Vậy Nam
+[19:48] vực sẽ có 3 sản phẩm đúng không Vậy Nam Trung Bắc là sản phẩm Một này Nam Trung
+[19:50] Trung Bắc là sản phẩm Một này Nam Trung Bắc là sản phẩm hay và nam Trung Bắc là
+[19:52] Bắc là sản phẩm hay và nam Trung Bắc là sản phẩm ba đấy thì như vậy là liệu mỗi
+[19:54] sản phẩm ba đấy thì như vậy là liệu mỗi một khu vực nó sẽ có 3 sản phẩm thì nó
+[19:56] một khu vực nó sẽ có 3 sản phẩm thì nó sẽ tẩm còn lại là diện nó sẽ còn lại 9
+[19:59] sẽ tẩm còn lại là diện nó sẽ còn lại 9 cái hàng dữ liệu ở đây giả sử các bạn
+[20:01] cái hàng dữ liệu ở đây giả sử các bạn aloo lại nhá lại các bạn sẽ chọn lại mua
+[20:04] aloo lại nhá lại các bạn sẽ chọn lại mua nút liên kết Nếu như mà các bạn ăn
+[20:07] nút liên kết Nếu như mà các bạn ăn silicone này mà các bạn chỉ chọn cái sản
+[20:09] silicone này mà các bạn chỉ chọn cái sản phẩm Thôi thì là gì ở nó chỉ quan tâm
+[20:11] phẩm Thôi thì là gì ở nó chỉ quan tâm sản phẩm trùng nhau thì bác xóa vào nó
+[20:12] sản phẩm trùng nhau thì bác xóa vào nó sẽ không quan tâm đến khu vực thuê hàng
+[20:14] sẽ không quan tâm đến khu vực thuê hàng năm hay là Doanh thu là thế nào nha các
+[20:16] năm hay là Doanh thu là thế nào nha các bạn cũng ok thì như vậy Ở đây là gì Ok
+[20:18] bạn cũng ok thì như vậy Ở đây là gì Ok Như Vậy chỉ còn ba cái sản phẩm là sản
+[20:21] Như Vậy chỉ còn ba cái sản phẩm là sản phẩm một sản phẩm hay và sản phẩm ba
+[20:22] phẩm một sản phẩm hay và sản phẩm ba thôi Đấy mình sẽ ăn đi nhé có chửi nhé
+[20:26] thôi Đấy mình sẽ ăn đi nhé có chửi nhé nó đi mu như thế nào thì tức là gì ạ Giả
+[20:28] nó đi mu như thế nào thì tức là gì ạ Giả sử Lúc nãy mình đi mua cho sản phẩm nha
+[20:30] sử Lúc nãy mình đi mua cho sản phẩm nha đây Các bạn chọn cái vung bút ký kết này
+[20:32] đây Các bạn chọn cái vung bút ký kết này các bạn ăn silicone mình chọn sản phẩm
+[20:34] các bạn ăn silicone mình chọn sản phẩm nhé đấy thì là gì ạ Nó sẽ xem xét sản
+[20:38] nhé đấy thì là gì ạ Nó sẽ xem xét sản phẩm từ trên xuống dưới cứ sản phẩm là
+[20:41] phẩm từ trên xuống dưới cứ sản phẩm là một mà trùng nhau thì nó sẽ xóa cái sản
+[20:43] một mà trùng nhau thì nó sẽ xóa cái sản phẩm dưới này
+[20:44] phẩm dưới này a bít lại cái sản phẩm một đầu tiên đấy
+[20:46] a bít lại cái sản phẩm một đầu tiên đấy Tức là cái sản phẩm 01 đầu tiên nhé thì
+[20:48] Tức là cái sản phẩm 01 đầu tiên nhé thì nợ là khu vực phía Nam đúng không Thì nó
+[20:50] nợ là khu vực phía Nam đúng không Thì nó sẽ bớt ra cái hàng đầu tiên này để tiếp
+[20:52] sẽ bớt ra cái hàng đầu tiên này để tiếp theo là cái sản phẩm 02 nha thì nó sẽ
+[20:54] theo là cái sản phẩm 02 nha thì nó sẽ bớt lại cái sản phẩm 02 đầu tiên ở đây
+[20:55] bớt lại cái sản phẩm 02 đầu tiên ở đây rất là rẻ khu vực miền Trung và sản phẩm
+[20:58] rất là rẻ khu vực miền Trung và sản phẩm 02 còn các sản phẩm 03 là phía Nam đầu
+[21:02] 02 còn các sản phẩm 03 là phía Nam đầu tiên thì nó sẽ bớt đại diện phía Nam và
+[21:04] tiên thì nó sẽ bớt đại diện phía Nam và giải 103 thấy gặp phân tích Ok bạn sẽ
+[21:06] giải 103 thấy gặp phân tích Ok bạn sẽ thấy là đấy Bạn thấy chưa Nam Trung Nam
+[21:09] thấy là đấy Bạn thấy chưa Nam Trung Nam đấy thì nó sẽ giữ lại cái hàng đầu tiên
+[21:11] đấy thì nó sẽ giữ lại cái hàng đầu tiên đấy còn thấy ông khá là hay ạ thì như
+[21:13] đấy còn thấy ông khá là hay ạ thì như vậy mình đã kết thúc cái bài học của
+[21:15] vậy mình đã kết thúc cái bài học của ngày hôm nay bây giờ mình sẽ xem cái
+[21:17] ngày hôm nay bây giờ mình sẽ xem cái phần câu hỏi của phần bài tập về nhà nhá
+[21:27] lấy đoạn mở cái phần tôi hỏi lên chạy thì câu hỏi của mình là rẻ Mình chỉ cần
+[21:29] thì câu hỏi của mình là rẻ Mình chỉ cần dùng cái flash chưa Thôi thì để các bạn
+[21:31] dùng cái flash chưa Thôi thì để các bạn luyện cho các bạn quen lại đấy các bạn
+[21:33] luyện cho các bạn quen lại đấy các bạn sẽ Tách cái họ tên ở đây và các bạn xem
+[21:35] sẽ Tách cái họ tên ở đây và các bạn xem cách chọn năm vào tháng ở đây nhá đấy
+[21:37] cách chọn năm vào tháng ở đây nhá đấy thì cái bài tập về nhà để qua luyện cái
+[21:40] thì cái bài tập về nhà để qua luyện cái Flashtool này bởi vì cái lắc như là khá
+[21:42] Flashtool này bởi vì cái lắc như là khá là hay đấy bây giờ
+[21:44] là hay đấy bây giờ Ừ Ok như vậy là mình đã kết thúc bài học
+[21:48] Ừ Ok như vậy là mình đã kết thúc bài học ngày hôm nay ở đây cảm ơn các bạn đã
+[21:50] ngày hôm nay ở đây cảm ơn các bạn đã theo dõi các bạn nhớ đăng ký Kênh để cập
+[21:52] theo dõi các bạn nhớ đăng ký Kênh để cập nhật video mới nhất của gà cũng như chia
+[21:55] nhật video mới nhất của gà cũng như chia sẻ để giúp mọi người cùng học Excel nhé
+[21:57] sẻ để giúp mọi người cùng học Excel nhé Xin chào và hẹn gặp lại ở

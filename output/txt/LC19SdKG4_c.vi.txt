@@ -1,0 +1,199 @@
+[00:02] Xin chào mừng các bạn đến với khóa học excel miễn phí từ cơ bản đến nâng cao
+[00:04] excel miễn phí từ cơ bản đến nâng cao dành cho người mới bắt đầu được thực
+[00:06] dành cho người mới bắt đầu được thực hiện trên kênh YouTube và Excel khóa học
+[00:09] hiện trên kênh YouTube và Excel khóa học miễn phí này dành cho những ai mới bắt
+[00:10] miễn phí này dành cho những ai mới bắt đầu học Excel hoặc những người chưa
+[00:12] đầu học Excel hoặc những người chưa thành thạo cần hệ thống lại kiến thức
+[00:14] thành thạo cần hệ thống lại kiến thức của mình Trước tiên mình cùng tìm hiểu
+[00:16] của mình Trước tiên mình cùng tìm hiểu các nội dung sẽ có trong khóa học này
+[00:19] các nội dung sẽ có trong khóa học này hóa học gồm 26 video được thiết kế chi
+[00:22] hóa học gồm 26 video được thiết kế chi tiết từ cơ bản nhất đến nâng cao nhất để
+[00:25] tiết từ cơ bản nhất đến nâng cao nhất để ai cũng có thể hiểu và thực hành được
+[00:26] ai cũng có thể hiểu và thực hành được nội dung gồm bài mở đầu Excel là gì Tại
+[00:29] nội dung gồm bài mở đầu Excel là gì Tại sao lại là Excel tiếp theo là bài số 1
+[00:32] sao lại là Excel tiếp theo là bài số 1 mình sẽ làm quen với các thao tác với
+[00:34] mình sẽ làm quen với các thao tác với file Excel Bài số 2 mình sẽ đi vào một
+[00:37] file Excel Bài số 2 mình sẽ đi vào một ví dụ cụ thể là nhập liệu để cùng làm
+[00:39] ví dụ cụ thể là nhập liệu để cùng làm quen với các thành phần của Excel từ bài
+[00:42] quen với các thành phần của Excel từ bài số 3 đến bài số 8 mình sẽ tìm hiểu các
+[00:44] số 3 đến bài số 8 mình sẽ tìm hiểu các hàm Excel quan trọng nhất như là hàm
+[00:46] hàm Excel quan trọng nhất như là hàm Vlookup hlookup hành điều kiện ít hàng
+[00:50] Vlookup hlookup hành điều kiện ít hàng tính cổng hành đếm vân vân từ video thứ
+[00:53] tính cổng hành đếm vân vân từ video thứ 9 đến video thứ 13 là các cái kỹ năng
+[00:55] 9 đến video thứ 13 là các cái kỹ năng Excel quan trọng nhất như kỹ năng về
+[00:58] Excel quan trọng nhất như kỹ năng về định dạng theo định dạng có điều kiện
+[01:00] định dạng theo định dạng có điều kiện a castle kỹ năng lọc và sắp xếp hay các
+[01:03] a castle kỹ năng lọc và sắp xếp hay các tính năng khác từ bài số 14 biến bài số
+[01:06] tính năng khác từ bài số 14 biến bài số 17 mình sẽ cùng tìm hiểu về các thủ
+[01:08] 17 mình sẽ cùng tìm hiểu về các thủ thuật Excel hay và Hữu Dũng nhấn nhá và
+[01:11] thuật Excel hay và Hữu Dũng nhấn nhá và số 18 là vẽ biểu đồ bài số 19 là in ấn
+[01:16] số 18 là vẽ biểu đồ bài số 19 là in ấn bài số 20 là Vios thấy bồ bài số 21 là
+[01:20] bài số 20 là Vios thấy bồ bài số 21 là công thức mảng bài số 22 tạo báo cáo
+[01:22] công thức mảng bài số 22 tạo báo cáo động dashboard bài số 23 mình sẽ tìm
+[01:25] động dashboard bài số 23 mình sẽ tìm hiểu các phím tắt thích sao thông dụng
+[01:27] hiểu các phím tắt thích sao thông dụng giúp cải thiện cái năng suất làm việc
+[01:29] giúp cải thiện cái năng suất làm việc của các bạn bài Số 24 là warner bros và
+[01:33] của các bạn bài Số 24 là warner bros và bài số 2 năm là bài cuối cùng mình sẽ
+[01:35] bài số 2 năm là bài cuối cùng mình sẽ tìm hiểu về lập trình vba trong Excel
+[01:37] tìm hiểu về lập trình vba trong Excel Vậy thì ít ra là gì Tại sao lại là Excel
+[01:40] Vậy thì ít ra là gì Tại sao lại là Excel Bill Gates tỷ phú giàu nhất thế giới
+[01:43] Bill Gates tỷ phú giàu nhất thế giới chia sẻ trong một buổi gặp gỡ toàn thể
+[01:45] chia sẻ trong một buổi gặp gỡ toàn thể nhân viên của Microsoft
+[01:47] nhân viên của Microsoft a85 phần trăm nhân viên giỏi là những
+[01:49] a85 phần trăm nhân viên giỏi là những người thành thạo Excel và các công cụ
+[01:51] người thành thạo Excel và các công cụ tin học văn phòng khác các nhà quản lý
+[01:54] tin học văn phòng khác các nhà quản lý sẽ không đánh giá bạn qua Tấm bằng đại
+[01:55] sẽ không đánh giá bạn qua Tấm bằng đại học mà qua các chứng chỉ tin học và
+[01:58] học mà qua các chứng chỉ tin học và ngoại ngữ bạn sẽ kiếm được không dưới
+[02:00] ngoại ngữ bạn sẽ kiếm được không dưới 1.000 đô nếu bạn chỉ cần 5 phút để làm
+[02:02] 1.000 đô nếu bạn chỉ cần 5 phút để làm báo cáo tài chính trên Excel Ngoài ra có
+[02:05] báo cáo tài chính trên Excel Ngoài ra có một câu chuyện vui thế này có một anh
+[02:07] một câu chuyện vui thế này có một anh chàng chuyên Dạy Excel khuyên mọi người
+[02:09] chàng chuyên Dạy Excel khuyên mọi người rằng nếu bạn giỏi Excel đừng khoe với ai
+[02:11] rằng nếu bạn giỏi Excel đừng khoe với ai không thì khổ lắm đơn giản bởi vì rất
+[02:14] không thì khổ lắm đơn giản bởi vì rất nhiều người đã hỏi anh ta các vấn đề
+[02:16] nhiều người đã hỏi anh ta các vấn đề liên quan đến Excel nhiều đến nỗi Anh ta
+[02:19] liên quan đến Excel nhiều đến nỗi Anh ta không có thời gian và tập trung được vào
+[02:21] không có thời gian và tập trung được vào công việc của mình nữa vậy thì ít sau là
+[02:23] công việc của mình nữa vậy thì ít sau là gì Excel hay còn gọi là Microsoft Excel
+[02:27] gì Excel hay còn gọi là Microsoft Excel là một chương trình xử lý bảng tính của
+[02:29] là một chương trình xử lý bảng tính của Microsoft để giúp ghi lại Trình bày các
+[02:32] Microsoft để giúp ghi lại Trình bày các thông tin xử lý dưới dạng bảng thực hiện
+[02:34] thông tin xử lý dưới dạng bảng thực hiện tính toán và xây dựng các số liệu thống
+[02:36] tính toán và xây dựng các số liệu thống kê trực quan có trong bảng từ Excel bảng
+[02:40] kê trực quan có trong bảng từ Excel bảng tính của Excel bao gồm nhiều ô được tạo
+[02:42] tính của Excel bao gồm nhiều ô được tạo bởi các dòng và cột với nhiều tính năng
+[02:44] bởi các dòng và cột với nhiều tính năng ưu việt và có giao diện rất
+[02:47] ưu việt và có giao diện rất ở với người dùng Vậy thì tại sao lại cần
+[02:49] ở với người dùng Vậy thì tại sao lại cần học Excel 90 phần trăm các nhà quản lý
+[02:52] học Excel 90 phần trăm các nhà quản lý giỏi trên thế giới dùng Excel để quản
+[02:54] giỏi trên thế giới dùng Excel để quản trị càng ở những công ty lớn phần mềm
+[02:56] trị càng ở những công ty lớn phần mềm Pixel càng được ứng dụng nhiều từ lập
+[02:59] Pixel càng được ứng dụng nhiều từ lập báo cáo thống kê Phân tích số liệu lọc
+[03:01] báo cáo thống kê Phân tích số liệu lọc dữ liệu chuyển đổi dữ liệu tính toán vân
+[03:04] dữ liệu chuyển đổi dữ liệu tính toán vân vân Excel ứng dụng cho nhân viên văn
+[03:06] vân Excel ứng dụng cho nhân viên văn phòng kế toán xây dựng hành chính nhân
+[03:09] phòng kế toán xây dựng hành chính nhân sự xuất nhập khẩu Logistic kỹ sư vân vân
+[03:12] sự xuất nhập khẩu Logistic kỹ sư vân vân tất cả nhiều bộ phận nhiều ngành nghề
+[03:15] tất cả nhiều bộ phận nhiều ngành nghề khác nhau đều dùng Excel Theo thống kê
+[03:18] khác nhau đều dùng Excel Theo thống kê trên kênh YouTube và Excel thì Excel
+[03:20] trên kênh YouTube và Excel thì Excel được học ở mọi độ tuổi không tính trẻ em
+[03:22] được học ở mọi độ tuổi không tính trẻ em học nhiều nhất là những người đang đi
+[03:24] học nhiều nhất là những người đang đi làm thứ hai là sinh viên hoặc sinh viên
+[03:27] làm thứ hai là sinh viên hoặc sinh viên mới ra trường và người đi làm lâu năm
+[03:29] mới ra trường và người đi làm lâu năm ngoài ra thì có rất nhiều các chú các
+[03:32] ngoài ra thì có rất nhiều các chú các bác mà trên 65 tuổi cũng học Excel số
+[03:35] bác mà trên 65 tuổi cũng học Excel số lượng này chiếm gần một phần trăm thống
+[03:38] lượng này chiếm gần một phần trăm thống kê này để các bạn thấy rằng Excel rất là
+[03:40] kê này để các bạn thấy rằng Excel rất là quan trọng và hầu như mọi lứa tuổi mọi
+[03:42] quan trọng và hầu như mọi lứa tuổi mọi ngành nghề Kể cả bạn làm cho công ty hay
+[03:44] ngành nghề Kể cả bạn làm cho công ty hay các bạn làm tự do các bạn đều phải dùng
+[03:46] các bạn làm tự do các bạn đều phải dùng Excel
+[03:47] Excel ở một số lưu ý giúp bạn học Excel hiệu
+[03:49] ở một số lưu ý giúp bạn học Excel hiệu quả hơn thứ nhất là các bạn nên chọn cái
+[03:52] quả hơn thứ nhất là các bạn nên chọn cái độ phân giải HD khi xem các bạn sẽ tích
+[03:55] độ phân giải HD khi xem các bạn sẽ tích và cái hình bánh răng ở góc phải dưới
+[03:57] và cái hình bánh răng ở góc phải dưới video nhá Sau đó các bạn vào cái phần
+[03:59] video nhá Sau đó các bạn vào cái phần quay live rồi các bạn sẽ chọn cho mình
+[04:01] quay live rồi các bạn sẽ chọn cho mình là 720p hoặc là 1080 p Đây là cái chất
+[04:05] là 720p hoặc là 1080 p Đây là cái chất lượng HD thì giúp bạn xem được cái video
+[04:07] lượng HD thì giúp bạn xem được cái video với chất lượng tốt nhất thứ hai bạn có
+[04:10] với chất lượng tốt nhất thứ hai bạn có thể điều chỉnh tốc độ để phù hợp với nhu
+[04:11] thể điều chỉnh tốc độ để phù hợp với nhu cầu của bạn thì các bạn sẽ vào cái hình
+[04:14] cầu của bạn thì các bạn sẽ vào cái hình bánh răng rồi các bạn sẽ chọn cái
+[04:16] bánh răng rồi các bạn sẽ chọn cái libexpat các bạn có thể điều chỉnh tốc
+[04:19] libexpat các bạn có thể điều chỉnh tốc độ Nga mặc định nó ở chế độ Noel Tức là
+[04:22] độ Nga mặc định nó ở chế độ Noel Tức là cái chế độ mà các bạn đang nghe này các
+[04:24] cái chế độ mà các bạn đang nghe này các bạn có thể điều chỉnh tăng lên bằng cách
+[04:26] bạn có thể điều chỉnh tăng lên bằng cách là tăng 1.25 1.5 hoặc 1.75 và tối đa là
+[04:29] là tăng 1.25 1.5 hoặc 1.75 và tối đa là tăng lên hai lần hoặc các bạn có thể
+[04:31] tăng lên hai lần hoặc các bạn có thể giảm tốc độ bằng cách các bạn sẽ chọn
+[04:33] giảm tốc độ bằng cách các bạn sẽ chọn vào 0.7 50.520 chống 25 nhá Đấy cái thứ
+[04:38] vào 0.7 50.520 chống 25 nhá Đấy cái thứ ba là các bạn cần cài đặt bộ gõ tiếng
+[04:41] ba là các bạn cần cài đặt bộ gõ tiếng Việt Thì mình khuyên các bạn nên dùng
+[04:42] Việt Thì mình khuyên các bạn nên dùng cái bộ gõ unikey nhá lại các bạn sẽ vào
+[04:45] cái bộ gõ unikey nhá lại các bạn sẽ vào cái trình duyệt này các bạn
+[04:47] cái trình duyệt này các bạn Ừ ok
+[04:49] Ừ ok hai.vn lại sau đó các bạn tích vào cái
+[04:53] hai.vn lại sau đó các bạn tích vào cái mục Download Unikey Vì vào cái phiên bản
+[04:56] mục Download Unikey Vì vào cái phiên bản Windows của các bạn để các bạn tải về
+[04:57] Windows của các bạn để các bạn tải về nhá thì ở đây là Windows 10 Windows 7
+[05:00] nhá thì ở đây là Windows 10 Windows 7 Windows XP 32 bit Windows 10 Windows 7
+[05:03] Windows XP 32 bit Windows 10 Windows 7 XP 64 bit thì thông thường Bây giờ các
+[05:06] XP 64 bit thì thông thường Bây giờ các máy tính hay cài lại Windows 10 64 bit
+[05:08] máy tính hay cài lại Windows 10 64 bit thì các bạn sẽ thích bởi Đây là các bạn
+[05:10] thì các bạn sẽ thích bởi Đây là các bạn tải về nhá sau khi các bạn tải về các
+[05:12] tải về nhá sau khi các bạn tải về các bạn cài đặt để có thể sử dụng được
+[05:13] bạn cài đặt để có thể sử dụng được Unikey nhá thì ở đây mình đang sử dụng
+[05:16] Unikey nhá thì ở đây mình đang sử dụng cái như kia rồi lại các bạn chửi nha các
+[05:19] cái như kia rồi lại các bạn chửi nha các bạn tích vào đây nếu như bạn thích mà
+[05:21] bạn tích vào đây nếu như bạn thích mà một lần nữa thì nó sẽ có chữ E là tiếng
+[05:23] một lần nữa thì nó sẽ có chữ E là tiếng Anh các bạn thích và một lần nữa là có
+[05:25] Anh các bạn thích và một lần nữa là có chữ v tiếng Việt thì nếu như mà muốn gõ
+[05:27] chữ v tiếng Việt thì nếu như mà muốn gõ tiếng Việt thì các bạn sẽ tích vẫn đây
+[05:29] tiếng Việt thì các bạn sẽ tích vẫn đây khi nào mới hiện chữ v ở đây thì nghĩa
+[05:31] khi nào mới hiện chữ v ở đây thì nghĩa là các bạn có thể gọi là tiếng Việt nhá
+[05:33] là các bạn có thể gọi là tiếng Việt nhá ngoài ra ấy tốt nhất là các bạn sẽ cài
+[05:36] ngoài ra ấy tốt nhất là các bạn sẽ cài cái phiên bản Excel mới nhất là Excel
+[05:37] cái phiên bản Excel mới nhất là Excel 2019 hoặc tối thiểu là Excel 2016 nhá
+[05:41] 2019 hoặc tối thiểu là Excel 2016 nhá thì những cái bảng excel mới thì nó sẽ
+[05:43] thì những cái bảng excel mới thì nó sẽ có các bạn nhiều tính năng hơn nếu như
+[05:45] có các bạn nhiều tính năng hơn nếu như các bạn không thể cài được thì còn cũng
+[05:47] các bạn không thể cài được thì còn cũng không ảnh hưởng nhiều đâu
+[05:48] không ảnh hưởng nhiều đâu Lê Thị trong cái loạt video này mình sẽ
+[05:50] Lê Thị trong cái loạt video này mình sẽ hướng dẫn các bạn trên cái phiên bản
+[05:51] hướng dẫn các bạn trên cái phiên bản Excel 2019 nhé Nếu như các bạn không thể
+[05:54] Excel 2019 nhé Nếu như các bạn không thể nâng cấp được thì các bạn cũng đừng quá
+[05:56] nâng cấp được thì các bạn cũng đừng quá lo lắng Bởi vì trong cái loạt bài này ấy
+[05:58] lo lắng Bởi vì trong cái loạt bài này ấy thì các kiến thức cơ bản là giống nhau
+[06:00] thì các kiến thức cơ bản là giống nhau các bạn bè có thể áp dụng được lưu ý
+[06:02] các bạn bè có thể áp dụng được lưu ý tiếp theo là các bạn cần tại cái file
+[06:04] tiếp theo là các bạn cần tại cái file thực hành và làm bài tập hoặc là các câu
+[06:07] thực hành và làm bài tập hoặc là các câu hỏi trong phần mô tả phía dưới video nhá
+[06:09] hỏi trong phần mô tả phía dưới video nhá thì các bạn chú ý nhá Ở dưới video các
+[06:11] thì các bạn chú ý nhá Ở dưới video các bạn sẽ thấy cái mục xem thêm ở đây này
+[06:13] bạn sẽ thấy cái mục xem thêm ở đây này các bạn sẽ thích vào cái sâu nho thì
+[06:15] các bạn sẽ thích vào cái sâu nho thì thông thường thì cái link tải file thực
+[06:17] thông thường thì cái link tải file thực hành mình sẽ để ở dưới đây các bạn sẽ
+[06:19] hành mình sẽ để ở dưới đây các bạn sẽ tích vào cái link bên cạnh để các bạn có
+[06:21] tích vào cái link bên cạnh để các bạn có thể tải về nhá
+[06:22] thể tải về nhá ạ sau đó các bạn sẽ thích vào cái biểu
+[06:24] ạ sau đó các bạn sẽ thích vào cái biểu tượng download ở đây để các bạn tải về
+[06:26] tượng download ở đây để các bạn tải về nhá
+[06:27] nhá Tôi lấy ví dụ ở đây mình sẽ là sẽ file
+[06:31] Tôi lấy ví dụ ở đây mình sẽ là sẽ file cái file mà mình đính kèm cho các bạn sẽ
+[06:34] cái file mà mình đính kèm cho các bạn sẽ thường là cái file nén nhá Giả sử đây là
+[06:36] thường là cái file nén nhá Giả sử đây là cái file mà sau khi các bạn tải về các
+[06:37] cái file mà sau khi các bạn tải về các bạn sinh nhá được phải các bạn sẽ chọn
+[06:39] bạn sinh nhá được phải các bạn sẽ chọn access đấy thì đây là cái folder của cái
+[06:43] access đấy thì đây là cái folder của cái file mà các bạn tải về với một bài học
+[06:46] file mà các bạn tải về với một bài học thì mình sẽ gửi đính kèm cho các bạn cái
+[06:48] thì mình sẽ gửi đính kèm cho các bạn cái link tải file nhá sau khi các bạn tải về
+[06:50] link tải file nhá sau khi các bạn tải về các bạn sẽ tích vào các bài học tương
+[06:52] các bạn sẽ tích vào các bài học tương ứng nhá thông thường trong cái bài học
+[06:54] ứng nhá thông thường trong cái bài học tương ứng mình sẽ có một cái file thực
+[06:55] tương ứng mình sẽ có một cái file thực hành và một cái hoa là câu hỏi thì các
+[06:58] hành và một cái hoa là câu hỏi thì các bạn phải tích vào cái câu hỏi để các bạn
+[07:00] bạn phải tích vào cái câu hỏi để các bạn trả lời các bạn làm bài tập về nhà nhá
+[07:03] trả lời các bạn làm bài tập về nhà nhá Ngoài ra thì trước cái link tải file
+[07:06] Ngoài ra thì trước cái link tải file thực hành mình sẽ để cái link các file
+[07:08] thực hành mình sẽ để cái link các file trong cái loạt bài này nhá các bạn chú ý
+[07:10] trong cái loạt bài này nhá các bạn chú ý trong khóa học này mình sẽ có 26 video
+[07:13] trong khóa học này mình sẽ có 26 video Tức là trong cái phần này mình sẽ để
+[07:15] Tức là trong cái phần này mình sẽ để tương ứng là 26 cái link của các video
+[07:18] tương ứng là 26 cái link của các video Nếu như các bạn cần vào cái video nào
+[07:20] Nếu như các bạn cần vào cái video nào thì các bạn chỉ cần kích chọn vào đây
+[07:21] thì các bạn chỉ cần kích chọn vào đây thôi là được nhé
+[07:22] thôi là được nhé và cuối cùng là nếu như các bạn chưa
+[07:25] và cuối cùng là nếu như các bạn chưa đăng ký Kênh Tức là cái nút sub like
+[07:26] đăng ký Kênh Tức là cái nút sub like hoặc cái 1 đăng ký mà nó màu đỏ thì các
+[07:29] hoặc cái 1 đăng ký mà nó màu đỏ thì các bạn sẽ tích và các nút subcribe để các
+[07:31] bạn sẽ tích và các nút subcribe để các bạn có thể cập nhật được video mới nhất
+[07:33] bạn có thể cập nhật được video mới nhất và đặc biệt là các bạn tích vào cái
+[07:35] và đặc biệt là các bạn tích vào cái subcribe để quạt ủng hộ gái Excel giúp
+[07:37] subcribe để quạt ủng hộ gái Excel giúp gái xe có động lực làm các video tiếp
+[07:39] gái xe có động lực làm các video tiếp theo nhé Ok như vậy là mình đã kết thúc
+[07:43] theo nhé Ok như vậy là mình đã kết thúc bài giới thiệu ở đây hẹn gặp lại các bạn
+[07:45] bài giới thiệu ở đây hẹn gặp lại các bạn ở bài tiếp theo là bài số 1 các thao tác
+[07:47] ở bài tiếp theo là bài số 1 các thao tác cơ bản với file Excel Xin chào và hẹn
+[07:50] cơ bản với file Excel Xin chào và hẹn gặp lại à

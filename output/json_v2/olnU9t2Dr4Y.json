@@ -1,0 +1,921 @@
+{
+  "video_id": "olnU9t2Dr4Y",
+  "bai": "Bài 06 18 hàm xử lý chuỗi",
+  "url": "https://www.youtube.com/watch?v=olnU9t2Dr4Y",
+  "cong_thuc": [
+    {
+      "ten": "TRIM",
+      "cu_phap_chuan": "=TRIM(text)",
+      "tham_so": [
+        {
+          "ten": "text",
+          "mo_ta": "Chuỗi cần gọt"
+        }
+      ],
+      "giai_thich": "Gọt khoảng trắng thừa đầu/cuối, giữa chỉ giữ 1 dấu cách.",
+      "vi_du_chay_duoc": "=TRIM(\"  Nguyễn   Văn An \")",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Tưởng TRIM xóa hết cách giữa (chỉ giữ 1)",
+      "timestamp": "[00:01]"
+    },
+    {
+      "ten": "PROPER",
+      "cu_phap_chuan": "=PROPER(text)",
+      "tham_so": [
+        {
+          "ten": "text",
+          "mo_ta": "Chuỗi"
+        }
+      ],
+      "giai_thich": "Viết hoa chữ đầu mỗi từ, còn lại thường.",
+      "vi_du_chay_duoc": "=PROPER(\"nguyễn văn an\")",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "PROPER hạ thấp các chữ còn lại",
+      "timestamp": "[01:37]"
+    },
+    {
+      "ten": "UPPER",
+      "cu_phap_chuan": "=UPPER(text)",
+      "tham_so": [
+        {
+          "ten": "text",
+          "mo_ta": "Chuỗi"
+        }
+      ],
+      "giai_thich": "Viết hoa toàn bộ chuỗi.",
+      "vi_du_chay_duoc": "=UPPER(\"Nguyễn Văn An\")",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Mất dấu tiếng Việt nếu font lỗi (không phải lỗi hàm)",
+      "timestamp": "[03:03]"
+    },
+    {
+      "ten": "LOWER",
+      "cu_phap_chuan": "=LOWER(text)",
+      "tham_so": [
+        {
+          "ten": "text",
+          "mo_ta": "Chuỗi"
+        }
+      ],
+      "giai_thich": "Viết thường toàn bộ chuỗi.",
+      "vi_du_chay_duoc": "=LOWER(\"NGUYỄN VĂN AN\")",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Quên chuyển lại PROPER sau khi chuẩn hóa",
+      "timestamp": "[04:37]"
+    },
+    {
+      "ten": "LEN",
+      "cu_phap_chuan": "=LEN(text)",
+      "tham_so": [
+        {
+          "ten": "text",
+          "mo_ta": "Chuỗi"
+        }
+      ],
+      "giai_thich": "Đếm độ dài ký tự kể cả dấu cách.",
+      "vi_du_chay_duoc": "=LEN(B3)",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Quên LEN đếm cả dấu cách",
+      "timestamp": "[06:09]"
+    },
+    {
+      "ten": "LEFT",
+      "cu_phap_chuan": "=LEFT(text,[num_chars])",
+      "tham_so": [
+        {
+          "ten": "text",
+          "mo_ta": "Chuỗi"
+        },
+        {
+          "ten": "num_chars",
+          "mo_ta": "Số ký tự từ trái, mặc định 1"
+        }
+      ],
+      "giai_thich": "Lấy N ký tự từ bên trái.",
+      "vi_du_chay_duoc": "=LEFT(\"Gà Excel 2020\",2)",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Gõ số cứng thay vì lồng FIND nên sai với tên dài/ngắn",
+      "timestamp": "[07:35]"
+    },
+    {
+      "ten": "RIGHT",
+      "cu_phap_chuan": "=RIGHT(text,[num_chars])",
+      "tham_so": [
+        {
+          "ten": "text",
+          "mo_ta": "Chuỗi"
+        },
+        {
+          "ten": "num_chars",
+          "mo_ta": "Số ký tự từ phải"
+        }
+      ],
+      "giai_thich": "Lấy N ký tự từ bên phải.",
+      "vi_du_chay_duoc": "=RIGHT(\"Gà Excel 2020\",4)",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "RIGHT trả text, quên VALUE để thành số",
+      "timestamp": "[09:01]"
+    },
+    {
+      "ten": "MID",
+      "cu_phap_chuan": "=MID(text,start_num,num_chars)",
+      "tham_so": [
+        {
+          "ten": "text",
+          "mo_ta": "Chuỗi"
+        },
+        {
+          "ten": "start_num",
+          "mo_ta": "Vị trí bắt đầu (1-based)"
+        },
+        {
+          "ten": "num_chars",
+          "mo_ta": "Số ký tự"
+        }
+      ],
+      "giai_thich": "Tách N ký tự ở giữa từ vị trí bắt đầu.",
+      "vi_du_chay_duoc": "=MID(\"Gà Excel 2020\",4,5)",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Nhầm start_num 0-based; sai vị trí 1 đơn vị",
+      "timestamp": "[10:21]"
+    },
+    {
+      "ten": "REPLACE",
+      "cu_phap_chuan": "=REPLACE(old_text,start_num,num_chars,new_text)",
+      "tham_so": [
+        {
+          "ten": "old_text",
+          "mo_ta": "Chuỗi gốc"
+        },
+        {
+          "ten": "start_num",
+          "mo_ta": "Vị trí"
+        },
+        {
+          "ten": "num_chars",
+          "mo_ta": "Số ký tự thay"
+        },
+        {
+          "ten": "new_text",
+          "mo_ta": "Chuỗi mới"
+        }
+      ],
+      "giai_thich": "Thay thế theo VỊ TRÍ: từ vị trí start, thay num ký tự bằng chuỗi mới.",
+      "vi_du_chay_duoc": "=REPLACE(\"Gà Excel 2020\",4,5,\"Word\")",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Nhầm REPLACE (theo vị trí) với SUBSTITUTE (theo nội dung)",
+      "timestamp": "[11:46]"
+    },
+    {
+      "ten": "REPT",
+      "cu_phap_chuan": "=REPT(text,number_times)",
+      "tham_so": [
+        {
+          "ten": "text",
+          "mo_ta": "Chuỗi lặp"
+        },
+        {
+          "ten": "number_times",
+          "mo_ta": "Số lần"
+        }
+      ],
+      "giai_thich": "Lặp chuỗi N lần. Dùng nhân dấu cách, tạo số 0.",
+      "vi_du_chay_duoc": "=REPT(\" \",100)",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "REPT số 0 quá dài gây tràn ô",
+      "timestamp": "[13:15]"
+    },
+    {
+      "ten": "FIND",
+      "cu_phap_chuan": "=FIND(find_text,within_text,[start_num])",
+      "tham_so": [
+        {
+          "ten": "find_text",
+          "mo_ta": "Chuỗi tìm"
+        },
+        {
+          "ten": "within_text",
+          "mo_ta": "Chuỗi chứa"
+        },
+        {
+          "ten": "start_num",
+          "mo_ta": "Vị trí bắt đầu"
+        }
+      ],
+      "giai_thich": "Tìm vị trí chuỗi con, CÓ phân biệt hoa/thường. Không thấy báo #VALUE!.",
+      "vi_du_chay_duoc": "=FIND(\"Excel\",\"Gà Excel 2020\",1)",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "FIND phân biệt hoa/thường; sai start_num gây #VALUE!",
+      "timestamp": "[14:42]"
+    },
+    {
+      "ten": "SEARCH",
+      "cu_phap_chuan": "=SEARCH(find_text,within_text,[start_num])",
+      "tham_so": [
+        {
+          "ten": "find_text",
+          "mo_ta": "Chuỗi tìm"
+        },
+        {
+          "ten": "within_text",
+          "mo_ta": "Chuỗi chứa"
+        },
+        {
+          "ten": "start_num",
+          "mo_ta": "Vị trí"
+        }
+      ],
+      "giai_thich": "Giống FIND nhưng KHÔNG phân biệt hoa/thường.",
+      "vi_du_chay_duoc": "=SEARCH(\"excel\",\"Gà Excel 2020\",1)",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "SEARCH không phân biệt hoa/thường; hỗ trợ wildcard",
+      "timestamp": "[16:09]"
+    },
+    {
+      "ten": "SUBSTITUTE",
+      "cu_phap_chuan": "=SUBSTITUTE(text,old_text,new_text,[instance_num])",
+      "tham_so": [
+        {
+          "ten": "text",
+          "mo_ta": "Chuỗi"
+        },
+        {
+          "ten": "old_text",
+          "mo_ta": "Chuỗi cũ"
+        },
+        {
+          "ten": "new_text",
+          "mo_ta": "Chuỗi mới"
+        },
+        {
+          "ten": "instance_num",
+          "mo_ta": "Thứ tự cần thay, bỏ qua = thay hết"
+        }
+      ],
+      "giai_thich": "Thay thế theo NỘI DUNG. Bỏ trống instance thay hết; ghi số để chỉ thay lần thứ N. Video khuyên dùng hơn REPLACE.",
+      "vi_du_chay_duoc": "=SUBSTITUTE(\"Gà Excel 2020\",\"Excel\",\"Word\")",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Quên instance_num nên thay hết thay vì 1 chỗ",
+      "timestamp": "[17:32]"
+    },
+    {
+      "ten": "TEXT",
+      "cu_phap_chuan": "=TEXT(value,format_text)",
+      "tham_so": [
+        {
+          "ten": "value",
+          "mo_ta": "Số/ngày"
+        },
+        {
+          "ten": "format_text",
+          "mo_ta": "Mã định dạng, vd \"0.00%\",\"ddd\""
+        }
+      ],
+      "giai_thich": "Đổi số thành chuỗi theo định dạng.",
+      "vi_du_chay_duoc": "=TEXT(0.95,\"0.00%\")",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Sai mã format; TEXT trả chuỗi không tính toán được",
+      "timestamp": "[19:09]"
+    },
+    {
+      "ten": "VALUE",
+      "cu_phap_chuan": "=VALUE(text)",
+      "tham_so": [
+        {
+          "ten": "text",
+          "mo_ta": "Chuỗi số"
+        }
+      ],
+      "giai_thich": "Chuyển chuỗi số thành số thật (canh phải) để tính toán.",
+      "vi_du_chay_duoc": "=VALUE(RIGHT(\"Gà Excel 2020\",4)",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "VALUE lỗi #VALUE! nếu chuỗi có chữ/ký tự lạ",
+      "timestamp": "[20:38]"
+    },
+    {
+      "ten": "EXACT",
+      "cu_phap_chuan": "=EXACT(text1,text2)",
+      "tham_so": [
+        {
+          "ten": "text1",
+          "mo_ta": "Chuỗi 1"
+        },
+        {
+          "ten": "text2",
+          "mo_ta": "Chuỗi 2"
+        }
+      ],
+      "giai_thich": "So sánh 2 chuỗi, TRUE chỉ khi giống hệt kể cả hoa/thường.",
+      "vi_du_chay_duoc": "=EXACT(\"Gà Excel\",\"Gà Excel\")",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Tưởng = so sánh phân biệt hoa/thường (không)",
+      "timestamp": "[22:09]"
+    },
+    {
+      "ten": "CHAR",
+      "cu_phap_chuan": "=CHAR(number)",
+      "tham_so": [
+        {
+          "ten": "number",
+          "mo_ta": "Mã 1-255"
+        }
+      ],
+      "giai_thich": "Trả về ký tự từ mã 1-255. CHAR(10) là xuống dòng.",
+      "vi_du_chay_duoc": "=CHAR(65)",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Nhầm mã CHAR(10) xuống dòng chỉ hiện khi Wrap Text",
+      "timestamp": "[23:46]"
+    },
+    {
+      "ten": "CONCATENATE",
+      "cu_phap_chuan": "=CONCATENATE(text1,...)",
+      "tham_so": [
+        {
+          "ten": "text1",
+          "mo_ta": "Chuỗi 1"
+        }
+      ],
+      "giai_thich": "Nối nhiều chuỗi. Toán tử & tiện hơn.",
+      "vi_du_chay_duoc": "=CONCATENATE(\"Gà\",\" \",\"2020\")",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Quên dấu cách \" \" khi nối; nên dùng &",
+      "timestamp": "[25:44]"
+    }
+  ],
+  "thuat_toan_quy_trinh": [
+    {
+      "buoc": 1,
+      "thao_tac": "Bước 1: Gọn dữ liệu thô bằng TRIM, chuẩn hóa hoa/thường bằng PROPER/UPPER/LOWER.",
+      "phim_tat": "",
+      "luu_y": ""
+    },
+    {
+      "buoc": 2,
+      "thao_tac": "Bước 2: Dùng LEN kiểm tra độ dài trước/sau để biết đã gọt bao nhiêu ký tự.",
+      "phim_tat": "",
+      "luu_y": ""
+    },
+    {
+      "buoc": 3,
+      "thao_tac": "Bước 3: Tách trái/phải/giữa bằng LEFT/RIGHT/MID (đếm vị trí + số ký tự).",
+      "phim_tat": "",
+      "luu_y": ""
+    },
+    {
+      "buoc": 4,
+      "thao_tac": "Bước 4: Tìm vị trí bằng FIND (phân biệt hoa/thường) hoặc SEARCH (không phân biệt).",
+      "phim_tat": "",
+      "luu_y": ""
+    },
+    {
+      "buoc": 5,
+      "thao_tac": "Bước 5: Thay thế: biết vị trí dùng REPLACE; biết nội dung dùng SUBSTITUTE (có instance_num).",
+      "phim_tat": "",
+      "luu_y": ""
+    },
+    {
+      "buoc": 6,
+      "thao_tac": "Bước 6: Nhân chuỗi bằng REPT; nối chuỗi bằng &/CONCATENATE; xuống dòng bằng CHAR(10).",
+      "phim_tat": "",
+      "luu_y": ""
+    },
+    {
+      "buoc": 7,
+      "thao_tac": "Bước 7: Chuyển đổi kiểu: TEXT (số->chuỗi định dạng), VALUE (chuỗi số->số), EXACT (so sánh chuẩn).",
+      "phim_tat": "",
+      "luu_y": ""
+    },
+    {
+      "buoc": 8,
+      "thao_tac": "Bước 8: Bài tập: tách Họ =LEFT + FIND(dấu cách)-1; tách Tên =TRIM(RIGHT(SUBSTITUTE(...,REPT...),100)).",
+      "phim_tat": "",
+      "luu_y": ""
+    }
+  ],
+  "cau_hoi": [
+    {
+      "id": 1,
+      "chu_de": "TRIM",
+      "do_kho": "de",
+      "cau": "Hàm TRIM dùng để làm gì?",
+      "A": "Xóa khoảng trắng thừa, chỉ giữ 1 dấu cách giữa các từ",
+      "B": "Viết hoa toàn bộ",
+      "C": "Đếm ký tự",
+      "D": "Tìm vị trí chuỗi",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "TRIM xóa trắng đầu/cuối và rút gọn trắng giữa còn 1 dấu cách. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[00:01]"
+    },
+    {
+      "id": 2,
+      "chu_de": "Họ tên thừa dấu cách ở B3, c...",
+      "do_kho": "de",
+      "cau": "Họ tên thừa dấu cách ở B3, công thức gọn đúng?",
+      "A": "=TRIM(B3)",
+      "B": "=SUM(B3)",
+      "C": "=TRIMB3",
+      "D": "=TRIM(B3,C3)",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "TRIM chỉ cần 1 tham số là ô cần gọn. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[00:46]"
+    },
+    {
+      "id": 3,
+      "chu_de": "Muốn viết hoa chữ cái đầu mỗ...",
+      "do_kho": "de",
+      "cau": "Muốn viết hoa chữ cái đầu mỗi từ (Nguyen Van An -> Nguyen Van An chuẩn hoa đầu), dùng hàm nào?",
+      "A": "PROPER",
+      "B": "UPPER",
+      "C": "LOWER",
+      "D": "TRIM",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "PROPER viết hoa ký tự đầu mỗi từ, còn lại viết thường. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[01:25]"
+    },
+    {
+      "id": 4,
+      "chu_de": "PROPER",
+      "do_kho": "de",
+      "cau": "Công thức PROPER đúng cú pháp?",
+      "A": "=PROPER(C3)",
+      "B": "=PROPER()",
+      "C": "=PROPER(C3,D3)",
+      "D": "=PROPER\"C3\"",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "PROPER(text): 1 tham số chuỗi/ô. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[02:02]"
+    },
+    {
+      "id": 5,
+      "chu_de": "Muốn NGUYỄN VĂN AN (hoa hết)...",
+      "do_kho": "de",
+      "cau": "Muốn NGUYỄN VĂN AN (hoa hết), dùng hàm nào?",
+      "A": "UPPER",
+      "B": "LOWER",
+      "C": "PROPER",
+      "D": "LEN",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "UPPER chuyển toàn bộ thành chữ hoa. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[02:39]"
+    },
+    {
+      "id": 6,
+      "chu_de": "Muốn chuyển về chữ thường hế...",
+      "do_kho": "de",
+      "cau": "Muốn chuyển về chữ thường hết, dùng hàm nào?",
+      "A": "LOWER",
+      "B": "UPPER",
+      "C": "PROPER",
+      "D": "TRIM",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "LOWER chuyển toàn bộ thành chữ thường. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[03:20]"
+    },
+    {
+      "id": 7,
+      "chu_de": "Muốn biết chuỗi B3 dài bao n...",
+      "do_kho": "de",
+      "cau": "Muốn biết chuỗi B3 dài bao nhiêu ký tự (kể cả dấu cách), dùng hàm nào?",
+      "A": "LEN",
+      "B": "LEFT",
+      "C": "RIGHT",
+      "D": "MID",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "LEN(text) đếm độ dài. Video so B3=20, C3=14 để thấy TRIM gọt 6 ký tự. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[03:58]"
+    },
+    {
+      "id": 8,
+      "chu_de": "Công thức đếm ký tự đúng?...",
+      "do_kho": "de",
+      "cau": "Công thức đếm ký tự đúng?",
+      "A": "=LEN(B3)",
+      "B": "=LEN()",
+      "C": "=LENGTH(B3)",
+      "D": "=COUNT(B3)",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "LEN chỉ cần 1 tham số. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[04:41]"
+    },
+    {
+      "id": 9,
+      "chu_de": "Muốn tách chữ Gà từ Gà Excel...",
+      "do_kho": "de",
+      "cau": "Muốn tách chữ Gà từ Gà Excel 2020 (lấy bên trái), dùng hàm nào?",
+      "A": "LEFT",
+      "B": "RIGHT",
+      "C": "MID",
+      "D": "LEN",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "LEFT lấy N ký tự từ trái. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[05:20]"
+    },
+    {
+      "id": 10,
+      "chu_de": "Lấy 2 ký tự đầu (Gà), công t...",
+      "do_kho": "de",
+      "cau": "Lấy 2 ký tự đầu (Gà), công thức đúng?",
+      "A": "=LEFT(B10,2)",
+      "B": "=LEFT(B10)",
+      "C": "=LEFT(2,B10)",
+      "D": "=LEFT(B10,\"2\")",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "LEFT(text,num_chars). Gà gồm 2 ký tự. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[06:01]"
+    },
+    {
+      "id": 11,
+      "chu_de": "Muốn tách năm 2020 (lấy bên ...",
+      "do_kho": "trung_binh",
+      "cau": "Muốn tách năm 2020 (lấy bên phải), dùng hàm nào?",
+      "A": "RIGHT",
+      "B": "LEFT",
+      "C": "MID",
+      "D": "TRIM",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "RIGHT lấy N ký tự từ phải. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[06:42]"
+    },
+    {
+      "id": 12,
+      "chu_de": "Lấy 4 ký tự cuối (2020), côn...",
+      "do_kho": "trung_binh",
+      "cau": "Lấy 4 ký tự cuối (2020), công thức đúng?",
+      "A": "=RIGHT(B10,4)",
+      "B": "=RIGHT(B10)",
+      "C": "=RIGHT(4,B10)",
+      "D": "=RIGHT(B10,\"bốn\")",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "RIGHT(text,4) lấy 4 ký tự phải. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[07:16]"
+    },
+    {
+      "id": 13,
+      "chu_de": "Muốn tách ở GIỮA (ví dụ chữ ...",
+      "do_kho": "trung_binh",
+      "cau": "Muốn tách ở GIỮA (ví dụ chữ Excel bắt đầu từ vị trí 4, dài 5), dùng hàm nào?",
+      "A": "MID",
+      "B": "LEFT",
+      "C": "RIGHT",
+      "D": "LEN",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "MID(text,start_num,num_chars) tách giữa. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[07:56]"
+    },
+    {
+      "id": 14,
+      "chu_de": "Tách chữ Excel (vị trí 4, 5 ...",
+      "do_kho": "trung_binh",
+      "cau": "Tách chữ Excel (vị trí 4, 5 ký tự), công thức đúng?",
+      "A": "=MID(B10,4,5)",
+      "B": "=MID(B10,5,4)",
+      "C": "=MID(4,5,B10)",
+      "D": "=MID(B10)",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Gà(2)+cách(1)=3, nên E là ký tự 4, Excel dài 5. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[08:36]"
+    },
+    {
+      "id": 15,
+      "chu_de": "MID",
+      "do_kho": "trung_binh",
+      "cau": "Hàm MID cần những tham số nào?",
+      "A": "Vị trí bắt đầu (start_num)",
+      "B": "Số ký tự (num_chars)",
+      "C": "Chuỗi gốc (text)",
+      "D": "Cả 3 tham số",
+      "dap_an": "D",
+      "giai_thich_chi_tiet": "MID cần chuỗi, vị trí bắt đầu, số ký tự. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[09:09]"
+    },
+    {
+      "id": 16,
+      "chu_de": "or",
+      "do_kho": "trung_binh",
+      "cau": "Muốn THAY 5 ký tự từ vị trí 4 bằng chữ Word (dựa vị trí), dùng hàm nào?",
+      "A": "REPLACE",
+      "B": "SUBSTITUTE",
+      "C": "MID",
+      "D": "FIND",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "REPLACE(old,start,num,new) thay theo vị trí/số ký tự. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[09:46]"
+    },
+    {
+      "id": 17,
+      "chu_de": "REPLACE",
+      "do_kho": "trung_binh",
+      "cau": "Công thức REPLACE đúng?",
+      "A": "=REPLACE(B10,4,5,\"Word\")",
+      "B": "=REPLACE(B10,\"Excel\",\"Word\")",
+      "C": "=REPLACE(4,5,B10)",
+      "D": "=REPLACE(B10)",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "REPLACE(chuỗi,4,5,\"Word\") thay Excel thành Word. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[10:19]"
+    },
+    {
+      "id": 18,
+      "chu_de": "Muốn lặp chuỗi (dấu cách x10...",
+      "do_kho": "trung_binh",
+      "cau": "Muốn lặp chuỗi (dấu cách x100, số 0 x9) dùng hàm nào?",
+      "A": "REPT",
+      "B": "REPEAT",
+      "C": "MID",
+      "D": "LEN",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "REPT(text,number_times) lặp chuỗi. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[10:55]"
+    },
+    {
+      "id": 19,
+      "chu_de": "Nhân dấu cách lên 100 lần, c...",
+      "do_kho": "trung_binh",
+      "cau": "Nhân dấu cách lên 100 lần, công thức đúng?",
+      "A": "=REPT(\" \",100)",
+      "B": "=REPT(100,\" \")",
+      "C": "=REPT(\" \")",
+      "D": "=REPEAT(\" \",100)",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Tham số 1 là chuỗi, tham số 2 là số lần. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[11:33]"
+    },
+    {
+      "id": 20,
+      "chu_de": "REPT",
+      "do_kho": "trung_binh",
+      "cau": "Tạo số 1 tỷ (1 + 9 số 0) bằng REPT?",
+      "A": "=REPT(\"0\",9)",
+      "B": "=REPT(9,\"0\")",
+      "C": "=\"1\"&REPT(\"0\",9) ra 1 tỷ",
+      "D": "Cả A và C đúng",
+      "dap_an": "C",
+      "giai_thich_chi_tiet": "REPT(\"0\",9) chỉ ra 9 số 0; phải nối \"1\"&REPT(\"0\",9) mới ra 1000000000. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[12:09]"
+    },
+    {
+      "id": 21,
+      "chu_de": "Muốn tìm vị trí chữ Excel tr...",
+      "do_kho": "trung_binh",
+      "cau": "Muốn tìm vị trí chữ Excel trong chuỗi và PHÂN BIỆT hoa/thường, dùng hàm nào?",
+      "A": "FIND",
+      "B": "SEARCH",
+      "C": "MID",
+      "D": "LEN",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "FIND phân biệt hoa/thường; SEARCH không phân biệt. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[12:48]"
+    },
+    {
+      "id": 22,
+      "chu_de": "FIND",
+      "do_kho": "trung_binh",
+      "cau": "Công thức FIND đúng cú pháp?",
+      "A": "=FIND(\"Excel\",B10,1)",
+      "B": "=FIND(B10,\"Excel\",1)",
+      "C": "=FIND(\"Excel\")",
+      "D": "=FINDB10",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "FIND(find_text,within_text,[start_num]). Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[13:25]"
+    },
+    {
+      "id": 23,
+      "chu_de": "FIND",
+      "do_kho": "trung_binh",
+      "cau": "FIND(\"Excel\",\"Gà Excel 2020\",1) trả về mấy?",
+      "A": "4",
+      "B": "1",
+      "C": "8",
+      "D": "#VALUE!",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Video cho biết vị trí E là 4. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[14:04]"
+    },
+    {
+      "id": 24,
+      "chu_de": "Muốn tìm không phân biệt hoa...",
+      "do_kho": "trung_binh",
+      "cau": "Muốn tìm không phân biệt hoa/thường (excel thường vẫn thấy Excel hoa), dùng hàm nào?",
+      "A": "SEARCH",
+      "B": "FIND",
+      "C": "MID",
+      "D": "REPLACE",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "SEARCH giống FIND nhưng không phân biệt hoa/thường. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[14:45]"
+    },
+    {
+      "id": 25,
+      "chu_de": "SEARCH",
+      "do_kho": "trung_binh",
+      "cau": "Điểm khác SEARCH vs FIND thể hiện ở đâu?",
+      "A": "=SEARCH(\"excel\",B10,1) vẫn ra 4",
+      "B": "=SEARCH(\"excel\",B10,1) báo lỗi",
+      "C": "=SEARCH không tìm được",
+      "D": "=SEARCH chỉ tìm số",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "SEARCH gõ thường vẫn tìm thấy Excel hoa; FIND thì báo #VALUE!. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[15:21]"
+    },
+    {
+      "id": 26,
+      "chu_de": "SEARCH",
+      "do_kho": "trung_binh",
+      "cau": "Vì sao SEARCH(\"Excel\",chuỗi,5) báo lỗi?",
+      "A": "Tìm từ vị trí 5 sẽ báo #VALUE! vì chữ Excel nằm ở vị trí 4",
+      "B": "Tìm từ vị trí 5 vẫn ra 4",
+      "C": "start_num không ảnh hưởng",
+      "D": "SEARCH không có start_num",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Bắt đầu tìm từ ký tự 5 (sau E) nên không còn thấy Excel. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[15:59]"
+    },
+    {
+      "id": 27,
+      "chu_de": "or",
+      "do_kho": "trung_binh",
+      "cau": "Muốn thay THEO NỘI DUNG (thấy Excel thì thay bằng Word, không cần biết vị trí), dùng hàm nào? (video khuyên dùng)",
+      "A": "SUBSTITUTE",
+      "B": "REPLACE",
+      "C": "MID",
+      "D": "FIND",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "SUBSTITUTE(text,old,new,[instance]) thay theo chuỗi, tiện hơn REPLACE. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[16:36]"
+    },
+    {
+      "id": 28,
+      "chu_de": "SUBSTITUTE",
+      "do_kho": "trung_binh",
+      "cau": "Công thức SUBSTITUTE thay toàn bộ Excel thành Word đúng?",
+      "A": "=SUBSTITUTE(B10,\"Excel\",\"Word\")",
+      "B": "=SUBSTITUTE(B10,4,5,\"Word\")",
+      "C": "=SUBSTITUTE(\"Excel\",\"Word\",B10)",
+      "D": "=SUBSTITUTE(B10)",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Bỏ trống instance thì thay hết. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[17:12]"
+    },
+    {
+      "id": 29,
+      "chu_de": "SUBSTITUTE",
+      "do_kho": "trung_binh",
+      "cau": "Tham số thứ 4 của SUBSTITUTE (instance_num) nghĩa là gì?",
+      "A": "instance_num: thay chữ Excel thứ mấy (1,2,...; bỏ trống = thay hết)",
+      "B": "instance_num là vị trí bắt đầu",
+      "C": "instance_num là số ký tự",
+      "D": "instance_num là chuỗi mới",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "=SUBSTITUTE(chuỗi,\"Excel\",\"Word\",2) chỉ thay Excel thứ 2. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[17:51]"
+    },
+    {
+      "id": 30,
+      "chu_de": "Muốn đổi số 0.95 thành 95% (...",
+      "do_kho": "trung_binh",
+      "cau": "Muốn đổi số 0.95 thành 95% (định dạng phần trăm), dùng hàm nào?",
+      "A": "TEXT",
+      "B": "VALUE",
+      "C": "LEN",
+      "D": "MID",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "TEXT(value,format_text) đổi định dạng số thành chuỗi. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[18:40]"
+    },
+    {
+      "id": 31,
+      "chu_de": "TEXT",
+      "do_kho": "kho",
+      "cau": "Công thức TEXT ra phần trăm đúng?",
+      "A": "=TEXT(0.95,\"0.00%\")",
+      "B": "=TEXT(\"0.00%\",0.95)",
+      "C": "=TEXT(0.95)",
+      "D": "=TEX(0.95)",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Tham số 2 là mã định dạng trong ngoặc kép. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[19:16]"
+    },
+    {
+      "id": 32,
+      "chu_de": "RIGHT",
+      "do_kho": "kho",
+      "cau": "Tách RIGHT ra 2020 nhưng nằm bên TRÁI (dạng text), muốn chuyển thành SỐ thật để tính toán, dùng hàm nào?",
+      "A": "VALUE",
+      "B": "TEXT",
+      "C": "LEN",
+      "D": "UPPER",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "VALUE(text) chuyển chuỗi số thành số (nhảy sang phải). Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[19:55]"
+    },
+    {
+      "id": 33,
+      "chu_de": "text",
+      "do_kho": "kho",
+      "cau": "Công thức chuyển 2020 text thành số đúng?",
+      "A": "=VALUE(RIGHT(B10,4))",
+      "B": "=VALUE()",
+      "C": "=TEXT(RIGHT(B10,4))",
+      "D": "=LEN(RIGHT(B10,4))",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Bọc RIGHT trong VALUE. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[20:34]"
+    },
+    {
+      "id": 34,
+      "chu_de": "Muốn so sánh 2 chuỗi có phân...",
+      "do_kho": "kho",
+      "cau": "Muốn so sánh 2 chuỗi có phân biệt hoa/thường (Gà vs GÀ là khác), dùng hàm nào? (dấu = thì không phân biệt)",
+      "A": "EXACT",
+      "B": "=",
+      "C": "FIND",
+      "D": "SEARCH",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "EXACT(text1,text2) TRUE chỉ khi giống hệt kể cả hoa/thường. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[21:12]"
+    },
+    {
+      "id": 35,
+      "chu_de": "EXACT",
+      "do_kho": "kho",
+      "cau": "Kết quả EXACT nào đúng?",
+      "A": "=EXACT(\"Gà Excel\",\"Gà Excel\") ra TRUE; =EXACT(\"Gà\",\"gà\") ra FALSE",
+      "B": "=EXACT luôn ra TRUE",
+      "C": "=EXACT luôn ra FALSE",
+      "D": "=EXACT không so sánh được",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Giống hệt thì TRUE, khác hoa/thường thì FALSE. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[21:50]"
+    },
+    {
+      "id": 36,
+      "chu_de": "Muốn lấy ký tự từ mã số (65 ...",
+      "do_kho": "kho",
+      "cau": "Muốn lấy ký tự từ mã số (65 -> A, 10 -> xuống dòng), dùng hàm nào?",
+      "A": "CHAR",
+      "B": "CODE",
+      "C": "TEXT",
+      "D": "VALUE",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "CHAR(number 1-255) trả về ký tự tương ứng. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[22:33]"
+    },
+    {
+      "id": 37,
+      "chu_de": "CHAR",
+      "do_kho": "kho",
+      "cau": "Ứng dụng CHAR nào đúng?",
+      "A": "=CHAR(65) ra A; =\"Gà\"&CHAR(10)&\"Excel\" để xuống dòng trong ô",
+      "B": "=CHAR(\"A\") ra 65",
+      "C": "=CHAR() ra A",
+      "D": "=CHAR(65,66) ra AB",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "CHAR(10) là ký tự xuống dòng, nối bằng &. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[23:20]"
+    },
+    {
+      "id": 38,
+      "chu_de": "Muốn nối chuỗi (Gà + cách + ...",
+      "do_kho": "kho",
+      "cau": "Muốn nối chuỗi (Gà + cách + 2020), dùng hàm/toán tử nào?",
+      "A": "CONCATENATE / toán tử &",
+      "B": "SUM",
+      "C": "AVERAGE",
+      "D": "COUNT",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "CONCATENATE(text1,text2...) hoặc dùng &; video dùng &. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[24:01]"
+    },
+    {
+      "id": 39,
+      "chu_de": "Công thức nối chuỗi có dấu c...",
+      "do_kho": "kho",
+      "cau": "Công thức nối chuỗi có dấu cách đúng?",
+      "A": "=CONCATENATE(B10,\" \",C10) hoặc =B10&\" \"&C10",
+      "B": "=SUM(B10,C10)",
+      "C": "=B10+C10",
+      "D": "=CONCAT(B10)",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Phải thêm \" \" làm chuỗi phân cách. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[24:47]"
+    },
+    {
+      "id": 40,
+      "chu_de": "Bài tập về nhà: tách TÊN từ ...",
+      "do_kho": "kho",
+      "cau": "Bài tập về nhà: tách TÊN từ họ tên đầy đủ, tư duy gợi ý nào đúng? (video bài 07 chữa)",
+      "A": "=TRIM(RIGHT(SUBSTITUTE(B4,\" \",REPT(\" \",100)),100)) (kết hợp TRIM+RIGHT+SUBSTITUTE+REPT)",
+      "B": "=LEFT(B4,3)",
+      "C": "=SUM(B4)",
+      "D": "=VLOOKUP(B4)",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Nhân dấu cách x100 rồi RIGHT 100 ký tự rồi TRIM — công thức ngắn video dạy. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[25:44]"
+    }
+  ],
+  "kiem_chung": {
+    "nguon": "transcript+frames",
+    "ghi_chu": "Đối chiếu olnU9t2Dr4Y: cu_phap_chuan theo Microsoft EN + dấu phẩy; ví dụ copy từ video; timestamp lấy từ transcript 649 mốc."
+  }
+}

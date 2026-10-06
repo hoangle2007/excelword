@@ -1,0 +1,404 @@
+[00:01] Xin chào mừng các bạn đến với khoa học cách SEO miễn phí từ cơ bản đến nâng cao
+[00:04] cách SEO miễn phí từ cơ bản đến nâng cao dành cho người mới bắt đầu được thực
+[00:06] dành cho người mới bắt đầu được thực hiện trên kênh YouTube và Excel bài số
+[00:09] hiện trên kênh YouTube và Excel bài số 17 các thủ thuật Excel 2 phần 4/4 đây là
+[00:12] 17 các thủ thuật Excel 2 phần 4/4 đây là kế hoạch cuối cùng trong bốn cái bài về
+[00:14] kế hoạch cuối cùng trong bốn cái bài về thủ thuật Excel nhá trước khi bắt đầu
+[00:16] thủ thuật Excel nhá trước khi bắt đầu bài học ngày hôm nay mình sẽ giải đáp
+[00:18] bài học ngày hôm nay mình sẽ giải đáp các câu hỏi của bài số 16 hôm trước các
+[00:21] các câu hỏi của bài số 16 hôm trước các bạn mở cái file câu hỏi lên đấy thì cái
+[00:25] bạn mở cái file câu hỏi lên đấy thì cái câu hỏi của mình là gì mình sẽ yêu cầu
+[00:26] câu hỏi của mình là gì mình sẽ yêu cầu kiểm soát cái việc nhập số liệu ví dụ cá
+[00:29] kiểm soát cái việc nhập số liệu ví dụ cá yêu cầu về số 4 nhá phải là kiểu số và
+[00:32] yêu cầu về số 4 nhá phải là kiểu số và yêu cầu về mã công ty thì nó sẽ thỏa mãn
+[00:34] yêu cầu về mã công ty thì nó sẽ thỏa mãn là diện nó sẽ phải có 4 ký tự và một ký
+[00:37] là diện nó sẽ phải có 4 ký tự và một ký tự đầu là Tết và 3 cái kết luận sau là
+[00:40] tự đầu là Tết và 3 cái kết luận sau là số đấy thì đầu tiên mình sẽ làm với phần
+[00:43] số đấy thì đầu tiên mình sẽ làm với phần số 4 trước nhắc nó dễ hơn đúng ạ thì bạn
+[00:45] số 4 trước nhắc nó dễ hơn đúng ạ thì bạn sẽ Bôi đen Cái vùng dữ liệu mà các bạn
+[00:47] sẽ Bôi đen Cái vùng dữ liệu mà các bạn muốn kiểm soát lại Ví dụ mình Bôi đen dự
+[00:49] muốn kiểm soát lại Ví dụ mình Bôi đen dự phòng này đi sau đó còn và kẻ đa ta các
+[00:52] phòng này đi sau đó còn và kẻ đa ta các bạn vào data validation ở cái mục có lâu
+[00:55] bạn vào data validation ở cái mục có lâu đấy các bạn sẽ chọn cho mình nhận diện
+[00:56] đấy các bạn sẽ chọn cho mình nhận diện các bạn sẽ chọn cho mình hâu Lang bờ đấy
+[00:59] các bạn sẽ chọn cho mình hâu Lang bờ đấy à
+[01:00] à ở trong các phần đây ta nhá Bạn thích
+[01:02] ở trong các phần đây ta nhá Bạn thích vào đây các bạn sẽ chọn cho mình là diện
+[01:03] vào đây các bạn sẽ chọn cho mình là diện nó sẽ có một số Bình Thuận à Ví dụ mình
+[01:06] nó sẽ có một số Bình Thuận à Ví dụ mình chọn là diện glitter gian hoặc Bà Rịa
+[01:08] chọn là diện glitter gian hoặc Bà Rịa hoặc là glister thoại của Tu Đúng đấy
+[01:12] hoặc là glister thoại của Tu Đúng đấy cậu sẽ chọn ở đây đi đấy mày xem minimem
+[01:14] cậu sẽ chọn ở đây đi đấy mày xem minimem là mình sẽ bằng không Đấy tức là diện
+[01:17] là mình sẽ bằng không Đấy tức là diện tối thiểu cái số 4 phải lớn họ Bằng
+[01:19] tối thiểu cái số 4 phải lớn họ Bằng không nó sẽ không là số âm và nó không
+[01:21] không nó sẽ không là số âm và nó không thể là kiểu tách được đấy thì các bạn sẽ
+[01:23] thể là kiểu tách được đấy thì các bạn sẽ thích ok lại Bây giờ bạn có thể nhập số
+[01:27] thích ok lại Bây giờ bạn có thể nhập số 41 nói nhắc ví dụ là một lại thì ok này
+[01:30] 41 nói nhắc ví dụ là một lại thì ok này ví dụ các bạn Nhập -1 tại thì nó sẽ báo
+[01:32] ví dụ các bạn Nhập -1 tại thì nó sẽ báo lỗi ngay đấy hoặc là gì Các bạn sinh
+[01:35] lỗi ngay đấy hoặc là gì Các bạn sinh nhập -12 âm bao nhiêu họ có 20 nó báo
+[01:37] nhập -12 âm bao nhiêu họ có 20 nó báo lỗi ngay đấy hoặc các bạn sẽ nhập cái
+[01:40] lỗi ngay đấy hoặc các bạn sẽ nhập cái Tech vào đây nó cũng báo lỗi Ví dụ mình
+[01:41] Tech vào đây nó cũng báo lỗi Ví dụ mình nhận là gái xem đấy còn thấy nó báo lỗi
+[01:44] nhận là gái xem đấy còn thấy nó báo lỗi và nó chỉ cho phép các bạn Nhập cái giá
+[01:46] và nó chỉ cho phép các bạn Nhập cái giá chuyện số thôi lại Nhập số thì OK đúng ạ
+[01:49] chuyện số thôi lại Nhập số thì OK đúng ạ Bây giờ mày xóa đi thì như vậy mình đã
+[01:51] Bây giờ mày xóa đi thì như vậy mình đã xong cái phần số vốn rồi nhá tiếp theo
+[01:54] xong cái phần số vốn rồi nhá tiếp theo mình sẽ làm cái phần mã công ty thì cái
+[01:56] mình sẽ làm cái phần mã công ty thì cái này hơi phức tạp một tí thì giả sử mình
+[01:59] này hơi phức tạp một tí thì giả sử mình sẽ nhập cái mã công
+[02:00] sẽ nhập cái mã công eg1 23 tháng thì nhé Đấy thì mình sẽ xét
+[02:03] eg1 23 tháng thì nhé Đấy thì mình sẽ xét gì ạ Ở đây bản chất là nó sẽ có ba cái
+[02:05] gì ạ Ở đây bản chất là nó sẽ có ba cái điều kiện thì điều kiện một đại diện
+[02:07] điều kiện thì điều kiện một đại diện điều kiện một Nó là diện một cái thứ tự
+[02:10] điều kiện một Nó là diện một cái thứ tự nó phải là tách đúng Điều kiện thứ hai
+[02:12] nó phải là tách đúng Điều kiện thứ hai là việc 3 thứ tự sau là số và các điều
+[02:14] là việc 3 thứ tự sau là số và các điều kiện chứ ba là nó phải là mình sẽ lấy
+[02:17] kiện chứ ba là nó phải là mình sẽ lấy cái độ dài của nó phải bán bún thôi tư
+[02:19] cái độ dài của nó phải bán bún thôi tư mà mình chỉ khống chế cho nó là bốn cái
+[02:21] mà mình chỉ khống chế cho nó là bốn cái thứ tự đúng không bắt buộc là 4 ký tự
+[02:23] thứ tự đúng không bắt buộc là 4 ký tự điều kiện một này điều kiện hay này Đây
+[02:27] điều kiện một này điều kiện hay này Đây là điều kiện ban đầu tiên mình sẽ làm
+[02:29] là điều kiện ban đầu tiên mình sẽ làm cái điều kiện một chút nhá các ký tự ban
+[02:32] cái điều kiện một chút nhá các ký tự ban đầu nó phải là tách đúng không đấy thì
+[02:34] đầu nó phải là tách đúng không đấy thì toàn sẽ bằng này để lấy được một chút sự
+[02:36] toàn sẽ bằng này để lấy được một chút sự ban đầu qua sử dụng máy hàn mép nha
+[02:38] ban đầu qua sử dụng máy hàn mép nha khoán Tấn Phát ra cách ở đây chính là
+[02:40] khoán Tấn Phát ra cách ở đây chính là cái ô mà các bạn cần lấy này phải số ký
+[02:43] cái ô mà các bạn cần lấy này phải số ký tự mà các bạn cần lấy là thiệt là một
+[02:44] tự mà các bạn cần lấy là thiệt là một cái tự họ xem đóng ngoặc lại cao enter
+[02:46] cái tự họ xem đóng ngoặc lại cao enter thì nó được cái tự do rồi đúng không Bây
+[02:49] thì nó được cái tự do rồi đúng không Bây giờ mình sẽ xem các ký tự này có phải là
+[02:51] giờ mình sẽ xem các ký tự này có phải là cách đây không các bạn tiếp nước vào đây
+[02:52] cách đây không các bạn tiếp nước vào đây mình sẽ sửa mình sẽ thêm cái hàng vali
+[02:54] mình sẽ sửa mình sẽ thêm cái hàng vali trước cái hành ghép lại các bạn ấn top
+[02:56] trước cái hành ghép lại các bạn ấn top này đấy các bạn xuống cuối các bạn xem
+[02:59] này đấy các bạn xuống cuối các bạn xem đóng ngoặc đơn lại các
+[03:00] đóng ngoặc đơn lại các ở đây thì nó sẽ báo là rẻ lót bao lưu
+[03:02] ở đây thì nó sẽ báo là rẻ lót bao lưu tại vì sao ạ Tại vì kẻ nét ở đây mình
+[03:05] tại vì sao ạ Tại vì kẻ nét ở đây mình lấy một ký tự thì nó là là chuỗi rồi nó
+[03:07] lấy một ký tự thì nó là là chuỗi rồi nó không phải là số thì nó sẽ báo loa vali
+[03:09] không phải là số thì nó sẽ báo loa vali các bạn tiếp lúc vào đây mình sẽ thêm
+[03:11] các bạn tiếp lúc vào đây mình sẽ thêm một cái hàng là y sinh năm bờ vào đây
+[03:12] một cái hàng là y sinh năm bờ vào đây nữa các bạn đánh tác nhé các bạn có thể
+[03:16] nữa các bạn đánh tác nhé các bạn có thể enter thì ở đây nó hiện cái thông báo là
+[03:18] enter thì ở đây nó hiện cái thông báo là bạn thiếu một cái đóng các đơn cho ạ Các
+[03:20] bạn thiếu một cái đóng các đơn cho ạ Các bạn tưởng biết đi đấy thì nó sẽ báo về
+[03:22] bạn tưởng biết đi đấy thì nó sẽ báo về khô bây giờ các bạn lại thích đúng tiếp
+[03:25] khô bây giờ các bạn lại thích đúng tiếp mình sẽ thêm một một cái Hàn trước cái
+[03:27] mình sẽ thêm một một cái Hàn trước cái hàng năm vào này là cái thằng lót nhá
+[03:29] hàng năm vào này là cái thằng lót nhá các bạn đang pháp rồi các bạn enter Các
+[03:32] các bạn đang pháp rồi các bạn enter Các bạn cứ bấm nhất đi Vậy thì như vậy đây
+[03:35] bạn cứ bấm nhất đi Vậy thì như vậy đây nó trả về kết quả là Chu rồi bây giờ ví
+[03:38] nó trả về kết quả là Chu rồi bây giờ ví dụ bây g123 mà các bạn xâm nhập vào định
+[03:40] dụ bây g123 mà các bạn xâm nhập vào định 1234 Các bạn thấy nó sẽ Bảo Lạc khô
+[03:42] 1234 Các bạn thấy nó sẽ Bảo Lạc khô người sẽ lưu lại nhé Thì như vậy TG 123
+[03:45] người sẽ lưu lại nhé Thì như vậy TG 123 đây thì nó đúng là gì ạ các ký tự đầu nó
+[03:48] đây thì nó đúng là gì ạ các ký tự đầu nó sẽ là Chu là đúng rồi nhá bây giờ cái
+[03:51] sẽ là Chu là đúng rồi nhá bây giờ cái hàng này có để cho mình nha mình sẽ dùng
+[03:52] hàng này có để cho mình nha mình sẽ dùng tất cả bốn hàng thằng nhóc này hàm y
+[03:55] tất cả bốn hàng thằng nhóc này hàm y Đang bờ hàng vali và mép đấy Cái Điều
+[03:59] Đang bờ hàng vali và mép đấy Cái Điều kiện thứ 2 là diện là
+[04:00] kiện thứ 2 là diện là các ký tự bên phải này rất là ba cái chữ
+[04:03] các ký tự bên phải này rất là ba cái chữ sau nó là số đó cậu sẽ bằng cái hàng
+[04:05] sau nó là số đó cậu sẽ bằng cái hàng like các bạn đang tát nhá các bạn xúc
+[04:08] like các bạn đang tát nhá các bạn xúc xích và cái ô mà có cần tách này phải
+[04:10] xích và cái ô mà có cần tách này phải mình cách ba cái tự nó còn nó hoặc đơn
+[04:12] mình cách ba cái tự nó còn nó hoặc đơn lại đọc enter tại thì nó sẽ ra là 123
+[04:14] lại đọc enter tại thì nó sẽ ra là 123 các bạn tiếp nước vào đây mình sẽ thêm
+[04:16] các bạn tiếp nước vào đây mình sẽ thêm cái hàng vali trước Hà Android là các
+[04:18] cái hàng vali trước Hà Android là các bạn tát nhá lại các bạn m mình sẽ biết
+[04:21] bạn tát nhá lại các bạn m mình sẽ biết đi lại còn tiếp bước vào đây mình lại
+[04:24] đi lại còn tiếp bước vào đây mình lại thêm một cách hàm là hàm isnumber nữa
+[04:26] thêm một cách hàm là hàm isnumber nữa phải gọi đánh tát nhá gặp enter mình
+[04:30] phải gọi đánh tát nhá gặp enter mình biết đi đấy thì như vậy cái điều khiển
+[04:32] biết đi đấy thì như vậy cái điều khiển thứ hai ở đây nó là Chu rồi Tức là ba
+[04:34] thứ hai ở đây nó là Chu rồi Tức là ba cái thứ tự này thì ba cái thứ tự sau là
+[04:36] cái thứ tự này thì ba cái thứ tự sau là số rồi Tiếp theo cái điều khiển bốn thì
+[04:38] số rồi Tiếp theo cái điều khiển bốn thì rất đơn giản các bạn bằng này led led
+[04:41] rất đơn giản các bạn bằng này led led của ông này các bạn đóng hoặc lại và
+[04:44] của ông này các bạn đóng hoặc lại và bằng 4 đấy thì như vậy Ở đây mình có tất
+[04:46] bằng 4 đấy thì như vậy Ở đây mình có tất cả là ba điều kiện này bằng chu là đúng
+[04:48] cả là ba điều kiện này bằng chu là đúng này bây giờ ví dụ mình nhập 1234 đấy Bạn
+[04:51] này bây giờ ví dụ mình nhập 1234 đấy Bạn thấy chứ Thì cái 1234 này cái điều kiện
+[04:54] thấy chứ Thì cái 1234 này cái điều kiện đầu tiên nó vi phạm này nó không phải là
+[04:56] đầu tiên nó vi phạm này nó không phải là cách đấy còn hai cái điều kiện này là
+[04:59] cách đấy còn hai cái điều kiện này là thỏa mãn
+[05:00] thỏa mãn Ừ thế như vậy là gì ạ mình phải dùng một
+[05:02] Ừ thế như vậy là gì ạ mình phải dùng một cái hàm nào để mình ba cái điều kiện này
+[05:04] cái hàm nào để mình ba cái điều kiện này nó phải trả về kết quả là chua cơ lại
+[05:06] nó phải trả về kết quả là chua cơ lại bây giờ ví dụ mình là nhờ này a b c hạn
+[05:11] bây giờ ví dụ mình là nhờ này a b c hạn thế nó báo lỗi này lỗi ở cái điều kiện
+[05:13] thế nó báo lỗi này lỗi ở cái điều kiện thứ 2 thìa nên vẫn là 4 chữ tự vẫn là ký
+[05:16] thứ 2 thìa nên vẫn là 4 chữ tự vẫn là ký tự đầu tiên là gì Là Tết nhưng ba cái
+[05:18] tự đầu tiên là gì Là Tết nhưng ba cái thứ sau cũng gọi là số đấy Bạn thấy ví
+[05:20] thứ sau cũng gọi là số đấy Bạn thấy ví dụ mình nhập là gì ạ Ví dụ mình nhập là
+[05:22] dụ mình nhập là gì ạ Ví dụ mình nhập là g 12345 đấy thì là gì ạ thì cái điều
+[05:27] g 12345 đấy thì là gì ạ thì cái điều kiện 3 này nó lại không thỏa mãn Tại vì
+[05:29] kiện 3 này nó lại không thỏa mãn Tại vì gì ạ Cái mã này nó lớn 4 ký tự đấy thì
+[05:32] gì ạ Cái mã này nó lớn 4 ký tự đấy thì như vậy mình phải dùng một cái hàm để
+[05:34] như vậy mình phải dùng một cái hàm để mình thỏa mãn ba cái điều khiển này tức
+[05:36] mình thỏa mãn ba cái điều khiển này tức là mình sử dụng cái làm quen nhé em à Ba
+[05:38] là mình sử dụng cái làm quen nhé em à Ba cái điều kiện này bằng chu thì mình mới
+[05:40] cái điều kiện này bằng chu thì mình mới chọn cho diện cho phép nhập ở đây là
+[05:42] chọn cho diện cho phép nhập ở đây là g123 đây đấy thì các bạn sẽ mình chân
+[05:46] g123 đây đấy thì các bạn sẽ mình chân thích cái dấu nháy đơn ở trên này để
+[05:49] thích cái dấu nháy đơn ở trên này để mình diện mình sẽ làm cái hàm các bạn
+[05:51] mình diện mình sẽ làm cái hàm các bạn bạn với hàm em cho mình các bạn mặc Đơn
+[05:52] bạn với hàm em cho mình các bạn mặc Đơn giản bây giờ các bạn em tôi nhá cái dấu
+[05:55] giản bây giờ các bạn em tôi nhá cái dấu nháy đơn ở đây là gì là các bạn Gõ cái
+[05:57] nháy đơn ở đây là gì là các bạn Gõ cái kiểu thích thì để các bạn Nhập cái dấu
+[05:59] kiểu thích thì để các bạn Nhập cái dấu bằng ấy thôi
+[06:00] bằng ấy thôi ạ Bây giờ các bạn nên các điều kiện một
+[06:02] ạ Bây giờ các bạn nên các điều kiện một các bạn thích và cái điều kiện một này
+[06:03] các bạn thích và cái điều kiện một này các bạn lên cái Thanh pho mua 3 đoạn
+[06:05] các bạn lên cái Thanh pho mua 3 đoạn copy công thức các bạn copy công thức
+[06:07] copy công thức các bạn copy công thức tôi nhá các bạn đừng quá tivi dấu bằng
+[06:08] tôi nhá các bạn đừng quá tivi dấu bằng mình sẽ nháy được phản copy đấy các bạn
+[06:11] mình sẽ nháy được phản copy đấy các bạn biết Bây giờ các bạn tích vào Cái ô này
+[06:14] biết Bây giờ các bạn tích vào Cái ô này so với hàm em nhé cậu thích lúc vào đây
+[06:15] so với hàm em nhé cậu thích lúc vào đây các bạn gái thì phải chọn tên đi đấy các
+[06:19] các bạn gái thì phải chọn tên đi đấy các bạn phải bây giờ các bạn ạ Em Tơ Đi bây
+[06:21] bạn phải bây giờ các bạn ạ Em Tơ Đi bây giờ mình sẽ copy cái điều kiện thứ Hai
+[06:23] giờ mình sẽ copy cái điều kiện thứ Hai nhé để gọn thích vào cái ô Điều kiện thứ
+[06:25] nhé để gọn thích vào cái ô Điều kiện thứ hai ở đây này các bạn Bôi đen các bạn
+[06:27] hai ở đây này các bạn Bôi đen các bạn nhấn phải copy Các bạn có biết kiếp nhá
+[06:30] nhấn phải copy Các bạn có biết kiếp nhá chọn tích vào cái ôm này Bây giờ bọn
+[06:33] chọn tích vào cái ôm này Bây giờ bọn kính ốp này sau cái dấu phẩy thì bạn
+[06:35] kính ốp này sau cái dấu phẩy thì bạn nháy được phải cà phê vào đây đấy các
+[06:37] nháy được phải cà phê vào đây đấy các bạn hãy phải tiếp để mình nhập cái điều
+[06:39] bạn hãy phải tiếp để mình nhập cái điều kiện thứ ma mà các bạn enter đi các bạn
+[06:42] kiện thứ ma mà các bạn enter đi các bạn tích vào cái ô Điều kiện thứ 3 lại toàn
+[06:43] tích vào cái ô Điều kiện thứ 3 lại toàn bộ đen để gọn nhé được phải copy bạn
+[06:49] bộ đen để gọn nhé được phải copy bạn thích độ và cái Owen này các bạn xuống
+[06:50] thích độ và cái Owen này các bạn xuống dưới này các anh ấy phải cam kết vào đây
+[06:52] dưới này các anh ấy phải cam kết vào đây đấy các bạn thấy đóng lại thì như vậy là
+[06:56] đấy các bạn thấy đóng lại thì như vậy là gì mình đã xong được 3 cái điều kiện này
+[06:58] gì mình đã xong được 3 cái điều kiện này ở trong hàm em rồi đúng không đ
+[06:59] ở trong hàm em rồi đúng không đ ạ Bây giờ bạn tích vào đây các bạn sẽ
+[07:02] ạ Bây giờ bạn tích vào đây các bạn sẽ copy cho mình từ cái dấu bằng nhá đầy
+[07:06] copy cho mình từ cái dấu bằng nhá đầy cát đừng copy cái dấu nháy lên nhá cái
+[07:08] cát đừng copy cái dấu nháy lên nhá cái rồi nhanh đơn thực ra là gì ạ Để mình gõ
+[07:10] rồi nhanh đơn thực ra là gì ạ Để mình gõ cái công thức này cho bạn hiểu thôi Bây
+[07:12] cái công thức này cho bạn hiểu thôi Bây giờ bạn sẽ copy từ cái dấu bằng các bạn
+[07:14] giờ bạn sẽ copy từ cái dấu bằng các bạn nhớ thì phải copy Chúc các bạn muốn biết
+[07:17] nhớ thì phải copy Chúc các bạn muốn biết kiếp đi bây giờ quan có thể xóa hết cái
+[07:20] kiếp đi bây giờ quan có thể xóa hết cái này cũng được ạ Bây giờ thì mình sẽ mô
+[07:23] này cũng được ạ Bây giờ thì mình sẽ mô đen các cái vùng mà con để nhập các cái
+[07:25] đen các cái vùng mà con để nhập các cái điều kiện nhá nào lại không tin nó thỏa
+[07:27] điều kiện nhá nào lại không tin nó thỏa mãn ở trên này đúng không các bạn Bôi
+[07:29] mãn ở trên này đúng không các bạn Bôi đen trước này sau đó còn vào thẻ data
+[07:31] đen trước này sau đó còn vào thẻ data các bạn bảo diện data-validation đấy thì
+[07:35] các bạn bảo diện data-validation đấy thì trong cái thẻ sẽ tin nhá mục Alo các bạn
+[07:37] trong cái thẻ sẽ tin nhá mục Alo các bạn sẽ chọn cho mình là cá tôm đấy mình sẽ
+[07:39] sẽ chọn cho mình là cá tôm đấy mình sẽ biết công thức vừa xong mình copy lại
+[07:41] biết công thức vừa xong mình copy lại gọn trái đất phải các bạn sẽ công thức
+[07:43] gọn trái đất phải các bạn sẽ công thức của xong ở đây để chọn sẽ bấm ok để bạn
+[07:46] của xong ở đây để chọn sẽ bấm ok để bạn thấy bây giờ ở đây các bạn Nhập nha ví
+[07:47] thấy bây giờ ở đây các bạn Nhập nha ví dụ bạn Nhập 1234 là các enter để nó sẽ
+[07:50] dụ bạn Nhập 1234 là các enter để nó sẽ báo luôn ngay đấy ví dụ nhập định 123456
+[07:53] báo luôn ngay đấy ví dụ nhập định 123456 hạ thế nó cũng báo lỗi ngay để ví dụ các
+[07:56] hạ thế nó cũng báo lỗi ngay để ví dụ các bạn Nhập là gà
+[07:57] bạn Nhập là gà a12 ạ Nó cũng báo lỗi ngay đấy cảm thấy
+[08:01] a12 ạ Nó cũng báo lỗi ngay đấy cảm thấy rất là hai ạ nếu như bạn Nhập b345 Mình
+[08:04] rất là hai ạ nếu như bạn Nhập b345 Mình hãy nhá tại thì lại Ok c213 Thế Đấy đấy
+[08:08] hãy nhá tại thì lại Ok c213 Thế Đấy đấy là ok nhé Bạn cũng rất là hai ạ Ok như
+[08:12] là ok nhé Bạn cũng rất là hai ạ Ok như vậy là mình đã xong cái câu hỏi của bài
+[08:13] vậy là mình đã xong cái câu hỏi của bài số 16 nha các bạn đóng lại mình sẽ vào
+[08:17] số 16 nha các bạn đóng lại mình sẽ vào bài số 17 của ngày hôm nay các bạn chú ý
+[08:23] bài số 17 của ngày hôm nay các bạn chú ý nhé mình sẽ để cái link tải file thực
+[08:24] nhé mình sẽ để cái link tải file thực hành trong phần mô tả thế giới video tốt
+[08:27] hành trong phần mô tả thế giới video tốt nhất là các bạn tải về các bạn vừa theo
+[08:29] nhất là các bạn tải về các bạn vừa theo dõi và thực hành của mình nhá Nếu bạn
+[08:31] dõi và thực hành của mình nhá Nếu bạn nào cũng biết cách tải thì các bạn có
+[08:33] nào cũng biết cách tải thì các bạn có thể hiện các bạn có thể xem cái bài đầu
+[08:35] thể hiện các bạn có thể xem cái bài đầu tiên thì trong ngoài đấy mình đã hướng
+[08:37] tiên thì trong ngoài đấy mình đã hướng dẫn các bạn chi tiết cách để các bạn tải
+[08:39] dẫn các bạn chi tiết cách để các bạn tải về rồi ạ cái file tải về sẽ là một cái
+[08:42] về rồi ạ cái file tải về sẽ là một cái file nén sẽ gồm wifi nhá Đấy là cái file
+[08:45] file nén sẽ gồm wifi nhá Đấy là cái file thực hành và một cái file câu hỏi trong
+[08:48] thực hành và một cái file câu hỏi trong bài học ngày hôm nay mình sẽ hướng dẫn
+[08:49] bài học ngày hôm nay mình sẽ hướng dẫn các bạn cách để bảo vệ dữ liệu thì sẽ
+[08:51] các bạn cách để bảo vệ dữ liệu thì sẽ gồm 3 cái mục đầu tiên là diện bảo vệ
+[08:53] gồm 3 cái mục đầu tiên là diện bảo vệ file bảo vệ xít và bảo vệ cái nhóm Excel
+[08:56] file bảo vệ xít và bảo vệ cái nhóm Excel đấy ạ
+[08:57] đấy ạ thì mình đã hướng dẫn các bạn toàn bộ
+[08:59] thì mình đã hướng dẫn các bạn toàn bộ cái cách mà các bạn có thể bảo vệ file
+[09:01] cái cách mà các bạn có thể bảo vệ file mà bạn mong muốn đúng không ạ thì đầu
+[09:02] mà bạn mong muốn đúng không ạ thì đầu tiên là diện mình sẽ hướng dẫn các bạn
+[09:04] tiên là diện mình sẽ hướng dẫn các bạn bảo vệ cái file này thì mình sẽ được bảo
+[09:06] bảo vệ cái file này thì mình sẽ được bảo vệ bằng việc bằng cách mình sẽ đặt mật
+[09:07] vệ bằng việc bằng cách mình sẽ đặt mật khẩu chỉ có ai có mật khẩu mới mở được
+[09:09] khẩu chỉ có ai có mật khẩu mới mở được cái chai này thôi đúng ạ thì để làm việc
+[09:11] cái chai này thôi đúng ạ thì để làm việc này các bạn làm như sau nhá các bạn sẽ
+[09:13] này các bạn làm như sau nhá các bạn sẽ vào cái kẹp file này các bạn sẽ vào cái
+[09:16] vào cái kẹp file này các bạn sẽ vào cái info các bạn sẽ chọn gì protect workbook
+[09:18] info các bạn sẽ chọn gì protect workbook này đấy các bạn sẽ chọn cho mình à dễ
+[09:21] này đấy các bạn sẽ chọn cho mình à dễ entry Switch password cả thích ở đây lại
+[09:24] entry Switch password cả thích ở đây lại thêm một cái cửa sổ để các bạn Nhập cái
+[09:26] thêm một cái cửa sổ để các bạn Nhập cái password mà các bạn muốn bảo vệ nha ví
+[09:27] password mà các bạn muốn bảo vệ nha ví dụ mình nhập là diện 123 nhập mẫu Thôi
+[09:30] dụ mình nhập là diện 123 nhập mẫu Thôi thì các bạn nha Các bạn lên nhà cái mật
+[09:32] thì các bạn nha Các bạn lên nhà cái mật khẩu nó khó một chút nhé các bạn đừng
+[09:33] khẩu nó khó một chút nhé các bạn đừng nhập 123 thì phải đơn giản quá thì ở đây
+[09:36] nhập 123 thì phải đơn giản quá thì ở đây mình làm ví dụ thì mình nhận được 123
+[09:37] mình làm ví dụ thì mình nhận được 123 thôi Các bạn bấm ok thì nó yêu cầu các
+[09:41] thôi Các bạn bấm ok thì nó yêu cầu các bạn xác nhận lại thôi các bạn đăng nhập
+[09:42] bạn xác nhận lại thôi các bạn đăng nhập lại mật khẩu mà các bạn đặt đúng đấy này
+[09:44] lại mật khẩu mà các bạn đặt đúng đấy này Các bạn bấm ok đấy Vậy còn đóng lại nhá
+[09:48] Các bạn bấm ok đấy Vậy còn đóng lại nhá lại các bạn sếp đi bây giờ bạn mở cái
+[09:53] lại các bạn sếp đi bây giờ bạn mở cái file này lên nhá Đấy bạn thấy nó sẽ yêu
+[09:56] file này lên nhá Đấy bạn thấy nó sẽ yêu cầu có
+[09:57] cầu có á khẩu mới mở được file này Đấy như vậy
+[10:00] á khẩu mới mở được file này Đấy như vậy Mình nhắc bảo vệ được file rồi đó mình
+[10:01] Mình nhắc bảo vệ được file rồi đó mình sẽ cho cái file này cho ai đấy Nhưng mà
+[10:03] sẽ cho cái file này cho ai đấy Nhưng mà nếu như người ta không biết mật khẩu thì
+[10:05] nếu như người ta không biết mật khẩu thì người ta cũng không thể mở được là các
+[10:06] người ta cũng không thể mở được là các bạn sẽ nhập mật khẩu đúng của các bạn
+[10:08] bạn sẽ nhập mật khẩu đúng của các bạn bạn Nếu như các bạn nhân vật của sai nhé
+[10:10] bạn Nếu như các bạn nhân vật của sai nhé Ok nó sẽ báo lỗi nhanh và cũng nó sẽ
+[10:13] Ok nó sẽ báo lỗi nhanh và cũng nó sẽ đóng cái pha đến nó chỉ còn phải ứng
+[10:15] đóng cái pha đến nó chỉ còn phải ứng dụng excel không Bây giờ mình lại Mở cái
+[10:18] dụng excel không Bây giờ mình lại Mở cái file lên đấy Nó lại yêu cầu mật khẩu
+[10:20] file lên đấy Nó lại yêu cầu mật khẩu đúng không Mình sẽ nhập với cậu đúng Các
+[10:22] đúng không Mình sẽ nhập với cậu đúng Các bạn bấm ok rồi Tiếp theo mình sẽ hướng
+[10:26] bạn bấm ok rồi Tiếp theo mình sẽ hướng dẫn các bạn là bảo vệ sheet Đấy giả sử
+[10:28] dẫn các bạn là bảo vệ sheet Đấy giả sử mình muốn bảo vệ cái ship tổng hợp này
+[10:30] mình muốn bảo vệ cái ship tổng hợp này nhá thì mình làm như thế nào thì cứ rất
+[10:32] nhá thì mình làm như thế nào thì cứ rất đơn giản gọn sẽ vào cái thẻ review này
+[10:33] đơn giản gọn sẽ vào cái thẻ review này các bạn sẽ chọn gì protect sheet đấy thì
+[10:37] các bạn sẽ chọn gì protect sheet đấy thì nó sẽ hiện một cái cửa sổ với taxi lên
+[10:39] nó sẽ hiện một cái cửa sổ với taxi lên để các bạn sẽ nhập mật khẩu nhà Ví dụ
+[10:40] để các bạn sẽ nhập mật khẩu nhà Ví dụ mình đặt mật khẩu điện 123 Thế nhá Đấy
+[10:44] mình đặt mật khẩu điện 123 Thế nhá Đấy đoạn bằng Ok để lại yêu cầu quan sát
+[10:46] đoạn bằng Ok để lại yêu cầu quan sát nhập lại nhé 123 gọn bằng Ok thì như vậy
+[10:50] nhập lại nhé 123 gọn bằng Ok thì như vậy cái sít này đã được bảo vệ rồi các bạn
+[10:51] cái sít này đã được bảo vệ rồi các bạn tiếp vào đây nó sẽ không cho bạn làm gì
+[10:53] tiếp vào đây nó sẽ không cho bạn làm gì đó đây vẫn kỳ vô nào nó cũng không cho
+[10:55] đó đây vẫn kỳ vô nào nó cũng không cho các bạn làm gì cả cái như vậy
+[10:57] các bạn làm gì cả cái như vậy Anh bảo vệ rồi đúng không ạ rất là hai ạ
+[11:00] Anh bảo vệ rồi đúng không ạ rất là hai ạ Bây giờ mình muốn bỏ cái bảo vệ đấy thì
+[11:02] Bây giờ mình muốn bỏ cái bảo vệ đấy thì mình làm như thế nào thì các bạn lại
+[11:03] mình làm như thế nào thì các bạn lại phải vào cái review cả các bạn chọn
+[11:05] phải vào cái review cả các bạn chọn inforus thôi và buộc các bạn phải nhập
+[11:08] inforus thôi và buộc các bạn phải nhập đúng bán thuốc thì các bạn mới sửa được
+[11:09] đúng bán thuốc thì các bạn mới sửa được đúng ạ 123 Không phải mình đặt 1 2 3 mà
+[11:12] đúng ạ 123 Không phải mình đặt 1 2 3 mà lại Ok Bây giờ bạn có thể sửa được lại
+[11:15] lại Ok Bây giờ bạn có thể sửa được lại còn có thể thay đổi được nhá tiếp theo
+[11:17] còn có thể thay đổi được nhá tiếp theo mình sẽ hướng dẫn các bạn là cách để bảo
+[11:19] mình sẽ hướng dẫn các bạn là cách để bảo vệ nhóm các xe đúng ạ thì giả sử cái
+[11:22] vệ nhóm các xe đúng ạ thì giả sử cái phần đơn vị đơn giá và cái thành tiền là
+[11:24] phần đơn vị đơn giá và cái thành tiền là cái phần quan trọng mà mình muốn bảo vệ
+[11:25] cái phần quan trọng mà mình muốn bảo vệ đúng không ạ Đấy tức là cái đơn vị đơn
+[11:28] đúng không ạ Đấy tức là cái đơn vị đơn giá thành tiền mình sẽ biết lúc cấp từ
+[11:30] giá thành tiền mình sẽ biết lúc cấp từ cái Theme đơn giản này Đấy cái sự đơn
+[11:32] cái Theme đơn giản này Đấy cái sự đơn giản nó sẽ có cái sản phẩm đơn vị và đơn
+[11:34] giản nó sẽ có cái sản phẩm đơn vị và đơn giá đây lấy ví dụ như số lượng đây mình
+[11:36] giá đây lấy ví dụ như số lượng đây mình sẽ nhập bất kỳ đi 23453 lại cái đơn vị
+[11:41] sẽ nhập bất kỳ đi 23453 lại cái đơn vị và đơn giá thì mình sẽ đúc kết lại các
+[11:43] và đơn giá thì mình sẽ đúc kết lại các bạn bằng với lúc cấp này các bạn sẽ
+[11:45] bạn bằng với lúc cấp này các bạn sẽ thích vào cái ô sản phẩm ở đây Đúng là
+[11:46] thích vào cái ô sản phẩm ở đây Đúng là có phải là các bạn xanh ấy xin đừng dán
+[11:49] có phải là các bạn xanh ấy xin đừng dán lại cạn Model cải cột b và cột D đúng
+[11:51] lại cạn Model cải cột b và cột D đúng không đơn vị sẽ là cuộc số 20 phẩy hai
+[11:53] không đơn vị sẽ là cuộc số 20 phẩy hai phẩy không có bạn enter đấy các bạn
+[11:56] phẩy không có bạn enter đấy các bạn thích là Cái ô này có
+[11:57] thích là Cái ô này có số liên kết anh Phong Lưu Các bạn nhớ
+[11:59] số liên kết anh Phong Lưu Các bạn nhớ phải các bạn copy họ sẽ tích và hiểu đơn
+[12:02] phải các bạn copy họ sẽ tích và hiểu đơn giản này gọn nhẹ cho phải gắn kết vào
+[12:03] giản này gọn nhẹ cho phải gắn kết vào đây Đấy thì mình sẽ sửa số hàng thứ 3 để
+[12:07] đây Đấy thì mình sẽ sửa số hàng thứ 3 để mình lười gõ công thức mà chạy thì như
+[12:09] mình lười gõ công thức mà chạy thì như vậy Mình có đơn vị và đơn giản rồi đó
+[12:11] vậy Mình có đơn vị và đơn giản rồi đó các bạn Bôi đen toàn thích nó vào đây
+[12:12] các bạn Bôi đen toàn thích nó vào đây lại hai cái này mình sẽ xóa đi bây giờ
+[12:15] lại hai cái này mình sẽ xóa đi bây giờ cái thằng tiền các bằng bằng cái số
+[12:17] cái thằng tiền các bằng bằng cái số lượng này các bạn Nhân Thiện Nhân với cả
+[12:19] lượng này các bạn Nhân Thiện Nhân với cả đơn giá đã các bạn ăn cơm rồi các bạn bộ
+[12:23] đơn giá đã các bạn ăn cơm rồi các bạn bộ đèn này các bạn có thể bấm Thanh Sơn đi
+[12:24] đèn này các bạn có thể bấm Thanh Sơn đi nhá cách tổng thể bạn sẽ bấm ăn mặn thì
+[12:28] nhá cách tổng thể bạn sẽ bấm ăn mặn thì nó là phím tắt của hàng xong mà đấy thì
+[12:31] nó là phím tắt của hàng xong mà đấy thì như vậy Giả sử cái phần diện ba cái phần
+[12:33] như vậy Giả sử cái phần diện ba cái phần này là cái phần quan trọng mình muốn bảo
+[12:35] này là cái phần quan trọng mình muốn bảo vệ đúng không Mình không cho ai chỉnh
+[12:37] vệ đúng không Mình không cho ai chỉnh sửa cả đấy thì mình làm như thế nào thì
+[12:39] sửa cả đấy thì mình làm như thế nào thì đầu tiên nhá các bạn phải tích cả tất cả
+[12:43] đầu tiên nhá các bạn phải tích cả tất cả cái vùng dữ liệu của các sếp này các bạn
+[12:45] cái vùng dữ liệu của các sếp này các bạn nhé về phải các bạn chọn format Cell đấy
+[12:50] nhé về phải các bạn chọn format Cell đấy Sau đó các bạn vào cái phần footaction
+[12:52] Sau đó các bạn vào cái phần footaction đây này Đấy thì bạn Thúy Nga vì mặc định
+[12:55] đây này Đấy thì bạn Thúy Nga vì mặc định toàn bộ cái ô nó đang thích chọn là cái
+[12:56] toàn bộ cái ô nó đang thích chọn là cái nắp này
+[12:57] nắp này ạ Bây giờ mình phải bỏ chọn đi như vậy
+[12:59] ạ Bây giờ mình phải bỏ chọn đi như vậy toàn bộ các cô này đã không còn ôn nào
+[13:01] toàn bộ các cô này đã không còn ôn nào và gấp nữa Các bạn bấm Ok thì bây giờ
+[13:03] và gấp nữa Các bạn bấm Ok thì bây giờ chỉ những cái ô dữ liệu mà các bạn muốn
+[13:05] chỉ những cái ô dữ liệu mà các bạn muốn bảo vệ thì các bạn mới lắp thôi đúng
+[13:07] bảo vệ thì các bạn mới lắp thôi đúng không ạ Bây giờ bạn sẽ Bôi đen Cái ô mà
+[13:10] không ạ Bây giờ bạn sẽ Bôi đen Cái ô mà bạn muốn bảo vệ đúng không để các bạn
+[13:11] bạn muốn bảo vệ đúng không để các bạn giữ cần chôn các bạn thích cả ô tính
+[13:13] giữ cần chôn các bạn thích cả ô tính cảnh này nữa đấy Bây giờ có bạn nháy
+[13:15] cảnh này nữa đấy Bây giờ có bạn nháy được phải này các bạn sẽ chọn gì ạ Các
+[13:17] được phải này các bạn sẽ chọn gì ạ Các bạn sẽ chọn cái phòng Excel lại các bạn
+[13:21] bạn sẽ chọn cái phòng Excel lại các bạn vào cái thẻ tôi taxin Các bạn chọn lọc
+[13:23] vào cái thẻ tôi taxin Các bạn chọn lọc bạn bằng Ok đi Dậy thì như vậy cái ôm
+[13:27] bạn bằng Ok đi Dậy thì như vậy cái ôm này đã lắp rồi nhá bây giờ rất đơn giản
+[13:28] này đã lắp rồi nhá bây giờ rất đơn giản các bạn chỉ cần vào cái review Các bạn
+[13:31] các bạn chỉ cần vào cái review Các bạn chọn cái vụ Taxi mà lại hoặc là các bạn
+[13:33] chọn cái vụ Taxi mà lại hoặc là các bạn nhớ phải vào đây Các bạn chọn với taxi
+[13:36] nhớ phải vào đây Các bạn chọn với taxi cũng được đấy là hai cách nhé và các bạn
+[13:38] cũng được đấy là hai cách nhé và các bạn sẽ nhập mật khẩu Ví dụ mình nhập là diện
+[13:40] sẽ nhập mật khẩu Ví dụ mình nhập là diện ví dụ nhập gái sao đi để các bạn bốn Ok
+[13:44] ví dụ nhập gái sao đi để các bạn bốn Ok thì nó Yêu cầu xác nhận lại rồi đúng
+[13:46] thì nó Yêu cầu xác nhận lại rồi đúng không các bạn gái xem thì tùy các bạn
+[13:48] không các bạn gái xem thì tùy các bạn nha các bạn Nhập mật khẩu Nào các bạn
+[13:50] nha các bạn Nhập mật khẩu Nào các bạn phải nhớ lại các bạn cũng ok đấy thì như
+[13:52] phải nhớ lại các bạn cũng ok đấy thì như vậy Cái ô này các bạn thấy cọ xích đu
+[13:54] vậy Cái ô này các bạn thấy cọ xích đu này nó sẽ không cho sửa đợi đến đây là
+[13:57] này nó sẽ không cho sửa đợi đến đây là à mà nó sẽ không cho bạn sửa nhé Còn ví
+[13:59] à mà nó sẽ không cho bạn sửa nhé Còn ví dụ kiểu này bạn sẽ có thể sửa ba thành
+[14:01] dụ kiểu này bạn sẽ có thể sửa ba thành bốn rồi đấy Bạn thấy chứ Thì như vậy đó
+[14:03] bốn rồi đấy Bạn thấy chứ Thì như vậy đó đảm bảo là gì cái phần đơn giá cái đơn
+[14:05] đảm bảo là gì cái phần đơn giá cái đơn vị và thành tiền nó sẽ không bị các bạn
+[14:07] vị và thành tiền nó sẽ không bị các bạn sửa và nó sẽ tự động cập nhật đấy lại
+[14:09] sửa và nó sẽ tự động cập nhật đấy lại mình sẽ sợ ai thay đổi công thức của
+[14:11] mình sẽ sợ ai thay đổi công thức của mình mà lại có thể thay đổi cái số lượng
+[14:13] mình mà lại có thể thay đổi cái số lượng bất kỳ vậy thì việc các công thức ở đây
+[14:16] bất kỳ vậy thì việc các công thức ở đây nó sẽ tự cập nhật thôi lại cho enter lại
+[14:20] nó sẽ tự cập nhật thôi lại cho enter lại còn riêng cái vùng mà lúc đấy mình bảo
+[14:22] còn riêng cái vùng mà lúc đấy mình bảo vệ thì các bạn không sửa được nha bây
+[14:25] vệ thì các bạn không sửa được nha bây giờ chắc Tóm tắt lại các bước để các bạn
+[14:27] giờ chắc Tóm tắt lại các bước để các bạn bảo vệ cái xe nhé thì đầu tiên các bạn
+[14:29] bảo vệ cái xe nhé thì đầu tiên các bạn phải lựa chọn toàn bộ vùng dữ liệu sau
+[14:31] phải lựa chọn toàn bộ vùng dữ liệu sau đó là bỏ chọn lọc xe lên sau đó thì các
+[14:33] đó là bỏ chọn lọc xe lên sau đó thì các bạn lại làm ngược lại là những cái ô nào
+[14:35] bạn lại làm ngược lại là những cái ô nào mà các bạn cần bảo vệ thì các bạn mới
+[14:37] mà các bạn cần bảo vệ thì các bạn mới lắp thôi Sau đó các bạn lại làm các bước
+[14:40] lắp thôi Sau đó các bạn lại làm các bước như là bảo vệ xếp bình thường đấy Ok bây
+[14:43] như là bảo vệ xếp bình thường đấy Ok bây giờ mà để sửa cái này thì cứ rất là đơn
+[14:45] giờ mà để sửa cái này thì cứ rất là đơn giản các bạn chỉ cần enboost axit là
+[14:47] giản các bạn chỉ cần enboost axit là thôi lại và các bạn Nhập cái password
+[14:48] thôi lại và các bạn Nhập cái password của các bạn ấy thì bây giờ các bạn lại
+[14:52] của các bạn ấy thì bây giờ các bạn lại có thể sửa rồi những cái cô này rất là
+[14:54] có thể sửa rồi những cái cô này rất là hay ok như vậy là mình đã
+[14:57] hay ok như vậy là mình đã hình ảnh của ngày hôm nay nhá mình sẽ
+[14:59] hình ảnh của ngày hôm nay nhá mình sẽ xem cái câu hỏi về nhà OK câu hỏi của
+[15:05] xem cái câu hỏi về nhà OK câu hỏi của bài tập về nhà là Thiện yêu cầu là khóa
+[15:07] bài tập về nhà là Thiện yêu cầu là khóa toàn bộ các ô chứa công thức Ví dụ ở đây
+[15:10] toàn bộ các ô chứa công thức Ví dụ ở đây là cái ô chứa Công thức này ô này là ông
+[15:12] là cái ô chứa Công thức này ô này là ông công thức đợi thịt bất cứ cái ô nào mà
+[15:15] công thức đợi thịt bất cứ cái ô nào mà chứa công thức thì nó sẽ khóa lại có
+[15:17] chứa công thức thì nó sẽ khóa lại có những cái ô là ví dụ ô này không chứa
+[15:18] những cái ô là ví dụ ô này không chứa công thức thì nó sẽ không quá nhá Đấy nó
+[15:21] công thức thì nó sẽ không quá nhá Đấy nó khác với cái phần bảo vệ dữ liệu ở cái
+[15:23] khác với cái phần bảo vệ dữ liệu ở cái phần trước là gì ạ Cái phần trước là
+[15:24] phần trước là gì ạ Cái phần trước là mình sẽ lựa chọn cái ô bằng tay thì bây
+[15:27] mình sẽ lựa chọn cái ô bằng tay thì bây giờ yêu cầu là diện nó sẽ khóa toàn bộ
+[15:29] giờ yêu cầu là diện nó sẽ khóa toàn bộ các ô mà chứa công thức bài tập về nhà
+[15:32] các ô mà chứa công thức bài tập về nhà cho các bạn nhé Ok như vậy là mình đã
+[15:36] cho các bạn nhé Ok như vậy là mình đã kết thúc bài học ngày hôm nay ở đây cảm
+[15:38] kết thúc bài học ngày hôm nay ở đây cảm ơn các bạn đã theo dõi các bạn nhớ đăng
+[15:40] ơn các bạn đã theo dõi các bạn nhớ đăng ký Kênh để cập nhật video mới nhất của
+[15:42] ký Kênh để cập nhật video mới nhất của gà cũng như chia sẻ để giúp mọi người
+[15:44] gà cũng như chia sẻ để giúp mọi người cùng học Excel nhé Xin chào và hẹn gặp
+[15:47] cùng học Excel nhé Xin chào và hẹn gặp lại à
+[15:57] lại à ừ ừ

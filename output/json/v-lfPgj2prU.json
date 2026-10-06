@@ -1,0 +1,481 @@
+{
+  "video_id": "v-lfPgj2prU",
+  "bai": "Bài 11 Conditional Formatting (Định dạng có điều kiện)",
+  "url": "https://www.youtube.com/watch?v=v-lfPgj2prU",
+  "cong_thuc": [
+    {
+      "ham": "COUNTIF(vùng_cũ, ô_mới)",
+      "giai_thich": "Đếm số lần xuất hiện; =0 là khách hàng mới, >0 là khách cũ",
+      "vi_du": "=COUNTIF($A$6:$A$15,H6)=0 thì H6 là khách mới"
+    },
+    {
+      "ham": "WEEKDAY(ngày)",
+      "giai_thich": "Trả 1=Chủ nhật .. 7=Thứ bảy (kiểu mặc định)",
+      "vi_du": "=WEEKDAY(A5)=7 là Thứ bảy"
+    },
+    {
+      "ham": "YEAR(ngày)",
+      "giai_thich": "Lấy năm để so sánh khoảng",
+      "vi_du": "=YEAR(C4)>=2016"
+    },
+    {
+      "ham": "AND(đk1,đk2)",
+      "giai_thich": "Đúng khi mọi điều kiện đúng; dùng cho khoảng (từ-đến)",
+      "vi_du": "=AND(K5>=0,K5<=50%)"
+    },
+    {
+      "ham": "OR(đk1,đk2)",
+      "giai_thich": "Đúng khi ít nhất 1 điều kiện đúng; dùng T7 HOẶC CN",
+      "vi_du": "=OR(WEEKDAY(A5)=7,WEEKDAY(A5)=1)"
+    },
+    {
+      "ham": "TODAY() / ô Ngày hôm nay",
+      "giai_thich": "Ngày hiện tại để so sánh hết hạn; video dùng ô $H$2 chứa TODAY",
+      "vi_du": "=C6<$H$2 là đã hết hạn"
+    },
+    {
+      "ham": "Thực hiện/Kế hoạch",
+      "giai_thich": "Tính % hoàn thành",
+      "vi_du": "=D5/C5 định dạng %"
+    },
+    {
+      "ham": "1 - %hoàn thành",
+      "giai_thich": "% chưa hoàn thành để vẽ Data Bar ngược (phần trắng)",
+      "vi_du": "=1-K5"
+    },
+    {
+      "ham": "=C5=\"Miền Bắc\"",
+      "giai_thich": "Chuỗi phải trong ngoặc kép; C5 tương đối (F4 3 lần) để chạy xuống; mỗi miền 1 rule 1 màu",
+      "vi_du": "Miền Bắc tô xanh"
+    },
+    {
+      "ham": "=C5=\"Miền Trung\"",
+      "giai_thich": "Rule thứ 2 cho miền Trung",
+      "vi_du": "Miền Trung tô vàng-cam"
+    },
+    {
+      "ham": "=C5=\"Miền Nam\"",
+      "giai_thich": "Rule thứ 3 cho miền Nam",
+      "vi_du": "Miền Nam tô xám"
+    }
+  ],
+  "thuat_toan_quy_trinh": [
+    "Tô 1 cột theo giá trị cố định: bôi cột Doanh số > Home > Conditional Formatting > Highlight Cells Rules > Less Than > nhập 3000 > chọn màu > OK (hoặc New Rule > Format only cells).",
+    "Tô 1 cột theo ô điều kiện B6: bôi cột > New Rule > Use a formula: =$S$6<=... dạng =S6<=$B$6 (B6 tuyệt đối $B$6, S6 tương đối) > Format > Fill/Font > OK.",
+    "Tô cả hàng theo 1 cột: bôi cả vùng (Tháng:Doanh số) > New Rule > công thức =$L6<=3000 (cố định cột $L, thả dòng 6: nhấn F4 2 lần) > Format.",
+    "Tô cả hàng theo ô ngoài: =$H6<=$B$6 (cố định cột H, B6 tuyệt đối) > Format.",
+    "Xóa định dạng: bôi vùng > Home > Conditional Formatting > Clear Rules > Clear Rules from Selected Cells.",
+    "Tìm khách hàng mới: bôi khách 2020 > New Rule > =COUNTIF(vùng_2019_cố_định, ô_đầu_tương_đối)=0 > Format đậm/màu; khách cũ đổi =0 thành >0.",
+    "Tô cả hàng khách mới: bôi cả Khách+Doanh thu > =COUNTIF(vùng_cũ, $H6)=0 với $H (cố định cột H vì doanh thu ăn theo cột H).",
+    "Tô cuối tuần: bôi cột Ngày > New Rule > =OR(WEEKDAY(A5)=7,WEEKDAY(A5)=1) (A5 tương đối: F4 3 lần) > Format; tô cả hàng thì cố định cột ngày =$E5.",
+    "Tách T7/CN 2 màu: làm 2 rule riêng =WEEKDAY($H5)=1 (xanh) và =WEEKDAY($H5)=7 (vàng-đỏ).",
+    "Tô năm 2016-2018: bôi vùng ngày > =AND(YEAR(C4)>=2016,YEAR(C4)<=2018) > Format.",
+    "Tô ngày trong khoảng Từ (B4) Đến (C4): =AND(A4>=$B$4,A4<=$C$4) — B4,C4 tuyệt đối (B4 là Từ ngày, C4 là Đến ngày); Clear Rules cũ trước khi làm.",
+    "Tô hàng hết hạn: bôi cột Sản phẩm > =C6<$H$2 (C6 tương đối, H2 tuyệt đối ngày hôm nay) ; tô cả hàng: =$E6<$H$2.",
+    "Data Bar % hoàn thành: tính % =Thực hiện/Kế hoạch, cột phụ =1-% > bôi cột phụ > Conditional Formatting > Data Bars > chọn màu; vào Manage Rules > Edit > Minimum=Number 0, Maximum=Number 1, Fill trắng, Bar Direction Right-to-Left, Show Bar Only.",
+    "Tô 3 mức % (0-50 xanh, 50-80 vàng, >80 xám): 3 rule AND cho 2 khoảng đầu, rule đơn K5>80% cho khoảng cuối.",
+    "Tô theo khu vực Bắc/Trung/Nam (bài tập): bôi cột Khu vực > 3 rule riêng =C5=\"Miền Bắc\" (F4 3 lần thành tương đối) > Format xanh; =C5=\"Miền Trung\" vàng-cam; =C5=\"Miền Nam\" xám."
+  ],
+  "cau_hoi": [
+    {
+      "id": 1,
+      "cau": "Conditional Formatting nằm ở thẻ nào?",
+      "A": "Home",
+      "B": "Insert",
+      "C": "Data",
+      "D": "View",
+      "dap_an": "A",
+      "giai_thich": "Mọi thao tác bài 11 đều từ Home > Conditional Formatting."
+    },
+    {
+      "id": 2,
+      "cau": "Tô ô <3000 nhanh nhất dùng nhóm nào?",
+      "A": "Data Bars",
+      "B": "Highlight Cells Rules > Less Than",
+      "C": "Color Scales",
+      "D": "Icon Sets",
+      "dap_an": "B",
+      "giai_thich": "Giá trị cố định dùng Highlight Cells Rules."
+    },
+    {
+      "id": 3,
+      "cau": "Tô theo công thức tùy biến phải chọn loại rule nào?",
+      "A": "Data Bar",
+      "B": "Format only cells",
+      "C": "Use a formula to determine which cells to format",
+      "D": "Top/Bottom",
+      "dap_an": "C",
+      "giai_thich": "Luôn chọn dòng cuối (Use a formula)."
+    },
+    {
+      "id": 4,
+      "cau": "Công thức tô cả hàng theo cột L phải cố định gì?",
+      "A": "Không cố định",
+      "B": "Dòng (L$6)",
+      "C": "Cả ô ($L$6)",
+      "D": "Cột ($L6)",
+      "dap_an": "D",
+      "giai_thich": "Cố định cột để các cột khác ăn theo cột L; dòng thả để chạy xuống (F4 2 lần)."
+    },
+    {
+      "id": 5,
+      "cau": "Tham chiếu ô điều kiện B6 trong công thức phải để dạng nào?",
+      "A": "$B$6 tuyệt đối",
+      "B": "B6 tương đối",
+      "C": "B$6",
+      "D": "$B6",
+      "dap_an": "A",
+      "giai_thich": "B6 là ngưỡng chung nên phải tuyệt đối, không cho chạy."
+    },
+    {
+      "id": 6,
+      "cau": "Để được $L6 từ $L$6 (mặc định khi click chọn ô) ta nhấn F4 mấy lần?",
+      "A": "1 lần",
+      "B": "2 lần",
+      "C": "3 lần",
+      "D": "4 lần",
+      "dap_an": "B",
+      "giai_thich": "Từ $L$6: F4 lần 1 thành L$6, lần 2 thành $L6 (cố định cột) — đúng nhu cầu tô hàng."
+    },
+    {
+      "id": 7,
+      "cau": "Để bỏ hết $ thành tương đối ta nhấn F4 mấy lần?",
+      "A": "2 lần",
+      "B": "1 lần",
+      "C": "3 lần",
+      "D": "Không được",
+      "dap_an": "C",
+      "giai_thich": "F4 3 lần từ $B$6 thành B6 (bài khu vực C5)."
+    },
+    {
+      "id": 8,
+      "cau": "Xóa Conditional Formatting của vùng chọn ta vào?",
+      "A": "Unformat",
+      "B": "Delete",
+      "C": "Clear All",
+      "D": "Clear Rules > Clear Rules from Selected Cells",
+      "dap_an": "D",
+      "giai_thich": "Đúng đường dẫn video dùng khi làm lại."
+    },
+    {
+      "id": 9,
+      "cau": "Hàm nào dùng để phát hiện khách hàng mới?",
+      "A": "COUNTIF",
+      "B": "SUM",
+      "C": "VLOOKUP",
+      "D": "IF",
+      "dap_an": "A",
+      "giai_thich": "COUNTIF(vùng cũ, khách mới)=0 nghĩa là không xuất hiện = mới."
+    },
+    {
+      "id": 10,
+      "cau": "COUNTIF=0 nghĩa là gì trong bài khách hàng?",
+      "A": "Khách cũ",
+      "B": "Khách hàng mới",
+      "C": "Lỗi",
+      "D": "Trùng",
+      "dap_an": "B",
+      "giai_thich": "Không đếm thấy trong tập 2019 nên là mới."
+    },
+    {
+      "id": 11,
+      "cau": "Muốn tô khách cũ thay vì mới thì đổi công thức thế nào?",
+      "A": "Xóa hàm",
+      "B": "=0 thành =1",
+      "C": "=0 thành >0",
+      "D": "Đổi màu",
+      "dap_an": "C",
+      "giai_thich": "Bài tập về nhà: cũ nghĩa là đếm thấy (>0)."
+    },
+    {
+      "id": 12,
+      "cau": "Tô cả hàng theo cột H thì cột H trong COUNTIF phải?",
+      "A": "Xóa",
+      "B": "Tương đối (H6)",
+      "C": "Cố định dòng",
+      "D": "Cố định cột ($H6)",
+      "dap_an": "D",
+      "giai_thich": "Cột I doanh thu phải ăn theo H nên $H."
+    },
+    {
+      "id": 13,
+      "cau": "WEEKDAY mặc định trả mấy cho Chủ nhật?",
+      "A": "1",
+      "B": "7",
+      "C": "0",
+      "D": "2",
+      "dap_an": "A",
+      "giai_thich": "1=CN, 7=T7; video nhắc kỹ quy ước này."
+    },
+    {
+      "id": 14,
+      "cau": "WEEKDAY=7 là thứ mấy?",
+      "A": "Chủ nhật",
+      "B": "Thứ Bảy",
+      "C": "Thứ Hai",
+      "D": "Thứ Sáu",
+      "dap_an": "B",
+      "giai_thich": "Theo quy ước trên."
+    },
+    {
+      "id": 15,
+      "cau": "Tô ngày cuối tuần (T7 hoặc CN) phải dùng hàm nào?",
+      "A": "NOT",
+      "B": "AND",
+      "C": "OR",
+      "D": "XOR",
+      "dap_an": "C",
+      "giai_thich": "Một ngày không thể vừa T7 vừa CN nên phải OR; AND không bao giờ đúng."
+    },
+    {
+      "id": 16,
+      "cau": "Công thức tô cuối tuần đúng là?",
+      "A": "=WEEKDAY(A5)",
+      "B": "=AND(WEEKDAY(A5)=7,WEEKDAY(A5)=1)",
+      "C": "=WEEKDAY(A5)=7=1",
+      "D": "=OR(WEEKDAY(A5)=7,WEEKDAY(A5)=1)",
+      "dap_an": "D",
+      "giai_thich": "OR của 2 điều kiện T7/CN."
+    },
+    {
+      "id": 17,
+      "cau": "Tách T7 một màu, CN một màu ta làm thế nào?",
+      "A": "2 rule riêng: =7 và =1",
+      "B": "1 rule OR",
+      "C": "Không tách được",
+      "D": "Dùng Data Bar",
+      "dap_an": "A",
+      "giai_thich": "Video làm 2 lần New Rule cho 2 màu."
+    },
+    {
+      "id": 18,
+      "cau": "% hoàn thành được tính bằng?",
+      "A": "Kế hoạch/Thực hiện",
+      "B": "Thực hiện/Kế hoạch",
+      "C": "Thực hiện-Kế hoạch",
+      "D": "Thực hiện+Kế hoạch",
+      "dap_an": "B",
+      "giai_thich": "Định dạng % sau khi chia."
+    },
+    {
+      "id": 19,
+      "cau": "Vì sao video tạo cột phụ =1-%hoàn thành khi vẽ Data Bar?",
+      "A": "Bắt buộc",
+      "B": "Cho đẹp",
+      "C": "Phần trắng = % chưa hoàn thành",
+      "D": "Lỗi",
+      "dap_an": "C",
+      "giai_thich": "Tô màu trắng theo giá trị ngược để phần trắng thể hiện phần chưa làm."
+    },
+    {
+      "id": 20,
+      "cau": "Data Bar trong Conditional Formatting nằm ở?",
+      "A": "Manage Rules",
+      "B": "Highlight Cells",
+      "C": "Clear Rules",
+      "D": "New Rule > Format all cells based on their values > Data Bar",
+      "dap_an": "D",
+      "giai_thich": "Bài % hoàn thành dùng Data Bar."
+    },
+    {
+      "id": 21,
+      "cau": "Minimum/Maximum của Data Bar % nên để kiểu nào?",
+      "A": "Number 0 và 1",
+      "B": "Percent",
+      "C": "Auto",
+      "D": "Text",
+      "dap_an": "A",
+      "giai_thich": "Vì % hoàn thành từ 0-100% tức 0-1."
+    },
+    {
+      "id": 22,
+      "cau": "Muốn chỉ thấy thanh màu, ẩn số % ta tích gì?",
+      "A": "Show Value",
+      "B": "Show Bar Only",
+      "C": "Hide Bar",
+      "D": "Bold",
+      "dap_an": "B",
+      "giai_thich": "Video tích Show Bar Only."
+    },
+    {
+      "id": 23,
+      "cau": "Muốn thanh chạy từ phải qua trái ta chọn?",
+      "A": "Context",
+      "B": "Left-to-Right",
+      "C": "Bar Direction Right-to-Left",
+      "D": "Hide",
+      "dap_an": "C",
+      "giai_thich": "Video chọn Right-to-Left cho đẹp."
+    },
+    {
+      "id": 24,
+      "cau": "Tô 0-50% xanh dùng công thức nào?",
+      "A": "=K5=50%",
+      "B": "=K5>50%",
+      "C": "=OR(K5)",
+      "D": "=AND(K5>=0,K5<=50%)",
+      "dap_an": "D",
+      "giai_thich": "Khoảng 2 đầu phải AND."
+    },
+    {
+      "id": 25,
+      "cau": "Khoảng >80% cần AND không?",
+      "A": "Không, chỉ K5>80%",
+      "B": "Có",
+      "C": "Bắt buộc",
+      "D": "Tùy",
+      "dap_an": "A",
+      "giai_thich": "Một điều kiện đơn là đủ."
+    },
+    {
+      "id": 26,
+      "cau": "Tô theo khu vực Bắc/Trung/Nam cần mấy rule?",
+      "A": "1",
+      "B": "3",
+      "C": "2",
+      "D": "0",
+      "dap_an": "B",
+      "giai_thich": "Mỗi miền một màu: xanh/vàng/xám."
+    },
+    {
+      "id": 27,
+      "cau": "Công thức tô miền Bắc đúng là?",
+      "A": "=Bắc",
+      "B": "=C5=Miền Bắc",
+      "C": "=C5=\"Miền Bắc\" (C5 tương đối)",
+      "D": "=Miền Bắc",
+      "dap_an": "C",
+      "giai_thich": "Chữ phải trong ngoặc kép, ô tương đối để chạy xuống."
+    },
+    {
+      "id": 28,
+      "cau": "Lấy năm từ ngày tháng dùng hàm nào?",
+      "A": "DATE",
+      "B": "MONTH",
+      "C": "DAY",
+      "D": "YEAR",
+      "dap_an": "D",
+      "giai_thich": "YEAR để lọc 2016-2018."
+    },
+    {
+      "id": 29,
+      "cau": "Công thức tô năm 2016-2018 là?",
+      "A": "=AND(YEAR(C4)>=2016,YEAR(C4)<=2018)",
+      "B": "=YEAR(C4)=2017",
+      "C": "=C4=2016",
+      "D": "=OR(YEAR)",
+      "dap_an": "A",
+      "giai_thich": "AND kẹp khoảng năm."
+    },
+    {
+      "id": 30,
+      "cau": "Tô ngày nằm trong khoảng Từ (B4) Đến (C4) thì B4,C4 phải?",
+      "A": "Tương đối",
+      "B": "Tuyệt đối $B$4,$C$4",
+      "C": "Xóa",
+      "D": "Ẩn",
+      "dap_an": "B",
+      "giai_thich": "Ngưỡng ngoài cố định cho mọi ô."
+    },
+    {
+      "id": 31,
+      "cau": "Ô chứa ngày hôm nay trong bài hết hạn là ô nào?",
+      "A": "A1",
+      "B": "C6",
+      "C": "H2 (chứa TODAY)",
+      "D": "B6",
+      "dap_an": "C",
+      "giai_thich": "Video đặt ngày hôm nay ở H2 để so sánh."
+    },
+    {
+      "id": 32,
+      "cau": "Sản phẩm hết hạn nghĩa là?",
+      "A": "Không liên quan",
+      "B": "Ngày hết hạn > hôm nay",
+      "C": "Bằng nhau",
+      "D": "Ngày hết hạn < ngày hôm nay",
+      "dap_an": "D",
+      "giai_thich": "Nhỏ hơn H2 là đã qua hạn."
+    },
+    {
+      "id": 33,
+      "cau": "Công thức tô cột Sản phẩm theo hết hạn là?",
+      "A": "=C6<$H$2",
+      "B": "=C6>$H$2",
+      "C": "=C6=$H$2",
+      "D": "=H2",
+      "dap_an": "A",
+      "giai_thich": "C6 tương đối chạy, H2 tuyệt đối."
+    },
+    {
+      "id": 34,
+      "cau": "Tô cả hàng (Sản phẩm + Hạn) thì công thức là?",
+      "A": "=E6<H2",
+      "B": "=$E6<$H$2",
+      "C": "=H2",
+      "D": "=E6",
+      "dap_an": "B",
+      "giai_thich": "Cố định cột E để cả hàng ăn theo ngày hết hạn."
+    },
+    {
+      "id": 35,
+      "cau": "Nút Format trong New Rule để làm gì?",
+      "A": "Chọn vùng",
+      "B": "Nhập công thức",
+      "C": "Chọn Fill/Font khi điều kiện đúng",
+      "D": "Xóa rule",
+      "dap_an": "C",
+      "giai_thich": "Fill tô nền, Font tô đậm/đổi màu chữ."
+    },
+    {
+      "id": 36,
+      "cau": "Trong video, thẻ Fill và Font dùng để?",
+      "A": "In",
+      "B": "Chèn ảnh",
+      "C": "Kẻ bảng",
+      "D": "Tô nền vàng/xanh + chữ đậm/đỏ",
+      "dap_an": "D",
+      "giai_thich": "Hai thẻ hay dùng nhất."
+    },
+    {
+      "id": 37,
+      "cau": "Sửa rule Data Bar đã tạo ta vào đâu?",
+      "A": "Manage Rules > Edit Rule",
+      "B": "New Rule",
+      "C": "Xóa",
+      "D": "Copy",
+      "dap_an": "A",
+      "giai_thich": "Video vào Manage Rules để giải thích Minimum/Maximum."
+    },
+    {
+      "id": 38,
+      "cau": "Vì sao AND sai khi tô T7+CN chung một ô?",
+      "A": "AND nhanh hơn",
+      "B": "Một ngày không thể vừa T7 vừa CN",
+      "C": "OR lỗi",
+      "D": "Excel cấm",
+      "dap_an": "B",
+      "giai_thich": "Video nhấn mạnh lỗi hay gặp này."
+    },
+    {
+      "id": 39,
+      "cau": "Khi copy vùng đã có Conditional Formatting sang chỗ mới nên?",
+      "A": "Xóa sheet",
+      "B": "Giữ nguyên",
+      "C": "Paste Special > Values rồi làm lại / Clear Rules cũ",
+      "D": "Không copy",
+      "dap_an": "C",
+      "giai_thich": "Video copy Values và Clear Rules trước khi làm ví dụ mới."
+    },
+    {
+      "id": 40,
+      "cau": "Ý chính bài 11 là gì?",
+      "A": "Freeze Panes",
+      "B": "Paste Special",
+      "C": "Flash Fill",
+      "D": "8 ví dụ Conditional Formatting: 1 cột, cả hàng, theo ô, COUNTIF, WEEKDAY, YEAR, khoảng ngày, hết hạn, Data Bar",
+      "dap_an": "D",
+      "giai_thich": "Bao quát toàn bộ ví dụ bài 11."
+    }
+  ]
+}

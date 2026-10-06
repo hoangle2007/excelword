@@ -1,0 +1,518 @@
+{
+  "video_id": "clQeM5k0XP0",
+  "bai": "Bài 10 Format Cells (Định dạng Cell - Custom Number Format)",
+  "url": "https://www.youtube.com/watch?v=clQeM5k0XP0",
+  "cong_thuc": [
+    {
+      "ham": "#,##0.00\"K\"",
+      "giai_thich": "Định dạng hàng ngàn: giữ 2 số thập phân, thêm chữ K; dấu phẩy phân cách hàng ngàn",
+      "vi_du": "10.940.326 hiển thị 10,940.33 K"
+    },
+    {
+      "ham": "#,##0.00,,\"M\"",
+      "giai_thich": "Định dạng hàng triệu: 2 dấu phẩy lùi 6 số (ngàn rồi triệu), thêm chữ M",
+      "vi_du": "10.940.326 hiển thị 10.94 M"
+    },
+    {
+      "ham": "#,##0.00,,\"triệu\"",
+      "giai_thich": "Như trên nhưng ghi chữ 'triệu' cho tường minh",
+      "vi_du": "10.940.326 hiển thị 10.94 triệu"
+    },
+    {
+      "ham": "0000",
+      "giai_thich": "Luôn hiển thị tối thiểu 4 chữ số, thiếu thì chèn 0 phía trước; lớn hơn giữ nguyên",
+      "vi_du": "123 thành 0123; 12345 giữ 12345"
+    },
+    {
+      "ham": "00000",
+      "giai_thich": "Bài tập về nhà: mã vùng tối thiểu 5 chữ số",
+      "vi_du": "1 thành 00001"
+    },
+    {
+      "ham": "0000 000 000",
+      "giai_thich": "Định dạng số điện thoại 10 số kiểu 4-3-3",
+      "vi_du": "912345678 thành dạng nhóm 4-3-3"
+    },
+    {
+      "ham": "0000-000-000",
+      "giai_thich": "Biến thể SĐT dùng dấu gạch ngang",
+      "vi_du": "0987654321 hiển thị 0987-654-321"
+    },
+    {
+      "ham": "\"Mã tỉnh \"000",
+      "giai_thich": "Ghép chữ cố định trong ngoặc kép với 3 số 0 đệm",
+      "vi_du": "1 thành Mã tỉnh 001; 34 thành Mã tỉnh 034"
+    },
+    {
+      "ham": "mmm-yy",
+      "giai_thich": "3 chữ m = tên tháng viết tắt tiếng Anh, 2 chữ y = năm 2 số",
+      "vi_du": "17/04/2020 hiển thị Apr-20"
+    },
+    {
+      "ham": "dd-mmm-yyyy",
+      "giai_thich": "Ngày 2 số - tháng tắt - năm 4 số",
+      "vi_du": "17-Apr-2020"
+    },
+    {
+      "ham": "[h]:mm",
+      "giai_thich": "H trong ngoặc vuông = tổng giờ lũy tiến, không reset sau 24h",
+      "vi_du": "25 giờ hiển thị 25:00 thay vì 1:00"
+    },
+    {
+      "ham": "[m] và [s]",
+      "giai_thich": "Tổng phút / tổng giây lũy tiến",
+      "vi_du": "4:20:23 quy về 260 phút hoặc 15623 giây"
+    },
+    {
+      "ham": ";;;",
+      "giai_thich": "3 dấu chấm phẩy = ẩn toàn bộ giá trị ô",
+      "vi_du": "Mọi số/chữ đều biến mất khỏi hiển thị"
+    },
+    {
+      "ham": "#;#;",
+      "giai_thich": "Ẩn giá trị 0 trên nhãn biểu đồ (phần thứ 3 rỗng)",
+      "vi_du": "Nhãn 0 biến mất, số khác giữ nguyên"
+    },
+    {
+      "ham": "[Blue]#,##0;[Red]-#,##0",
+      "giai_thich": "Số dương màu xanh, số âm màu đỏ trong Custom Format",
+      "vi_du": "Tăng trưởng dương xanh, âm đỏ"
+    },
+    {
+      "ham": "[Color5] / Color32..37",
+      "giai_thich": "Mã màu theo số (Color1-56) thay vì tên màu",
+      "vi_du": "[Color5]#,##0 cho màu xanh dương"
+    },
+    {
+      "ham": "*- và @*.",
+      "giai_thich": "Sao + ký tự = lặp đầy phần trống; @ là vị trí chữ",
+      "vi_du": "@*- tạo dòng gạch dưới chữ ký; @*.: điền dấu chấm còn lại"
+    },
+    {
+      "ham": "*.@",
+      "giai_thich": "Sao-chấm đứng trước @: lặp dấu chấm đầy phần trống phía trước nội dung (mục lục Trang ...3)",
+      "vi_du": "Trang ...3: kéo rộng bao nhiêu chấm cũng đầy"
+    }
+  ],
+  "thuat_toan_quy_trinh": [
+    "Bước 1: Bôi đen vùng cần định dạng, nhấn Ctrl+1 (hoặc chuột phải > Format Cells) để mở hộp thoại.",
+    "Bước 2: Vào thẻ Number > Category = Custom, xóa mẫu cũ trong ô Type rồi gõ mã mới, xem trước ở Sample rồi OK.",
+    "Hàng ngàn: gõ #,##0.00\"K\" (có dấu cách trước K cho đẹp); muốn phân cách ngàn dùng #,###.",
+    "Hàng triệu: gõ #,##0.00,,\"M\" — bắt buộc 2 dấu phẩy (ngàn + triệu), có thể thay M bằng chữ triệu.",
+    "Giữ nguyên độ rộng cột: copy 1 ô của cột mẫu > chuột phải vào vùng đích > Paste Special > Column widths > OK.",
+    "Đệm số 0: Custom gõ 0000 (4 số) hoặc 00000 (5 số, bài tập mã vùng); nhập thiếu tự chèn 0.",
+    "SĐT 10 số: Custom gõ 0000 000 000 (cách) hoặc 0000-000-000; nhập 1234567890 kiểm tra.",
+    "Mã tỉnh: Custom gõ \"Mã tỉnh \"000; nhập 1 ra Mã tỉnh 001.",
+    "Ngày tháng: dùng Date có sẵn hoặc Custom (mmm-yy, dd-mmm-yyyy); tháng tắt tiếng Anh Apr.",
+    "Căn giữa nhiều ô không Merge: bôi 4 ô > Ctrl+1 > Alignment > Horizontal = Center Across Selection.",
+    "Xuống dòng trong ô: gõ xong một dòng nhấn Alt+Enter rồi gõ dòng tiếp.",
+    "Gộp nhanh nhiều hàng (mỗi 2 ô gộp 1): bôi toàn vùng > Home > Merge & Center > Merge Across.",
+    "Ẩn giá trị: Custom gõ ;;; (3 chấm phẩy). Ẩn số 0 trên chart-label: Format Data Labels > Number > Custom #;#;.",
+    "Giờ lũy tiến: Custom [h]:mm (tổng giờ), [m] (tổng phút); h không ngoặc chỉ lấy giờ dư sau khi trừ ngày.",
+    "Nhập số >15 chữ số: phải chuyển ô về Text trước (Home > Number = Text) rồi mới nhập, nếu không các số sau số 15 thành 0.",
+    "Tô màu bằng Custom: [Blue] cho dương;[Red] cho âm; điều kiện số: [Red][<5000]#,##0;[Color5][>=5000]#,##0.",
+    "Đường kẻ lặp: chữ ký @*- (gạch dưới), ngày @*. (chấm), mục lục *.@ (sao-chấm trước @)."
+  ],
+  "cau_hoi": [
+    {
+      "id": 1,
+      "cau": "Phím tắt mở hộp thoại Format Cells là gì?",
+      "A": "Ctrl+1",
+      "B": "Ctrl+F",
+      "C": "Ctrl+H",
+      "D": "Ctrl+K",
+      "dap_an": "A",
+      "giai_thich": "Video dùng Ctrl+1 (Ctrl+Shift+1 nhầm) để mở Format Cells."
+    },
+    {
+      "id": 2,
+      "cau": "Muốn hiển thị 10.940.326 thành 10,940.33 K ta dùng mã nào?",
+      "A": "0.00K",
+      "B": "#,##0.00\"K\"",
+      "C": "#,K",
+      "D": "K#,##0",
+      "dap_an": "B",
+      "giai_thich": "Mã hàng ngàn chuẩn trong video là #,##0.00\"K\"."
+    },
+    {
+      "id": 3,
+      "cau": "Trong mã hàng triệu #,##0.00,,\"M\", hai dấu phẩy có ý nghĩa gì?",
+      "A": "Ngăn cách thập phân",
+      "B": "Trang trí",
+      "C": "Dấu 1 lùi hàng ngàn, dấu 2 lùi tiếp hàng triệu",
+      "D": "Báo lỗi",
+      "dap_an": "C",
+      "giai_thich": "Mỗi dấu phẩy lùi 3 số 0; 2 dấu phẩy = chia 1 triệu."
+    },
+    {
+      "id": 4,
+      "cau": "Muốn chữ triệu thay vì M ta làm gì?",
+      "A": "Thêm cột",
+      "B": "Không làm được",
+      "C": "Đổi font",
+      "D": "Gõ #,##0.00,,\"triệu\"",
+      "dap_an": "D",
+      "giai_thich": "Chỉ cần thay chữ trong ngoặc kép."
+    },
+    {
+      "id": 5,
+      "cau": "Copy mà chỉ lấy độ rộng cột thì dùng Paste Special nào?",
+      "A": "Column widths",
+      "B": "Values",
+      "C": "Formats",
+      "D": "Formulas",
+      "dap_an": "A",
+      "giai_thich": "Video bài 10 dùng Column widths để cột Thực tế rộng bằng Kế hoạch."
+    },
+    {
+      "id": 6,
+      "cau": "Custom 0000 với giá trị 123 cho kết quả gì?",
+      "A": "1230",
+      "B": "0123",
+      "C": "000123",
+      "D": "123",
+      "dap_an": "B",
+      "giai_thich": "Thiếu 1 số nên chèn 1 số 0 phía trước cho đủ 4."
+    },
+    {
+      "id": 7,
+      "cau": "Custom 0000 với 12345 cho kết quả gì?",
+      "A": "1234",
+      "B": "012345",
+      "C": "12345",
+      "D": "2345",
+      "dap_an": "C",
+      "giai_thich": "Lớn hơn 4 số thì giữ nguyên, không cắt."
+    },
+    {
+      "id": 8,
+      "cau": "Bài tập về nhà mã vùng 5 số, nhập 1 hiển thị gì (Custom 00000)?",
+      "A": "1",
+      "B": "10000",
+      "C": "0001",
+      "D": "00001",
+      "dap_an": "D",
+      "giai_thich": "Đệm 4 số 0 phía trước."
+    },
+    {
+      "id": 9,
+      "cau": "Định dạng SĐT 10 số kiểu 4-3-3 trong video là?",
+      "A": "0000 000 000",
+      "B": "000-000-0000",
+      "C": "###-###",
+      "D": "Phone",
+      "dap_an": "A",
+      "giai_thich": "4 số đầu, cách, 3 số, cách, 3 số."
+    },
+    {
+      "id": 10,
+      "cau": "Muốn 1 thành Mã tỉnh 001 ta gõ mã nào?",
+      "A": "Mã tỉnh 000",
+      "B": "\"Mã tỉnh \"000",
+      "C": "000 Mã tỉnh",
+      "D": "Tỉnh 001",
+      "dap_an": "B",
+      "giai_thich": "Chữ trong ngoặc kép + 3 số 0."
+    },
+    {
+      "id": 11,
+      "cau": "Nhập 34 với mã \"Mã tỉnh \"000 ra gì?",
+      "A": "Mã 34",
+      "B": "Mã tỉnh 34",
+      "C": "Mã tỉnh 034",
+      "D": "034",
+      "dap_an": "C",
+      "giai_thich": "Đệm 1 số 0 cho đủ 3 số."
+    },
+    {
+      "id": 12,
+      "cau": "Mã mmm trong định dạng ngày có nghĩa gì?",
+      "A": "Năm",
+      "B": "Phút",
+      "C": "Giây",
+      "D": "Tháng viết tắt (Apr)",
+      "dap_an": "D",
+      "giai_thich": "mmm = Apr; mm = 04; mmmm = April."
+    },
+    {
+      "id": 13,
+      "cau": "Muốn Apr-20 từ 17/04/2020 ta gõ?",
+      "A": "mmm-yy",
+      "B": "dd-mm-yy",
+      "C": "yyyy-mm",
+      "D": "mm-dd",
+      "dap_an": "A",
+      "giai_thich": "3 chữ m + gạch + 2 chữ y."
+    },
+    {
+      "id": 14,
+      "cau": "Thay vì Merge 4 ô tiêu đề Quý, cách an toàn cho Filter là?",
+      "A": "Merge & Center",
+      "B": "Center Across Selection",
+      "C": "Merge Cells",
+      "D": "Unmerge",
+      "dap_an": "B",
+      "giai_thich": "Center Across Selection vẫn giữ 4 ô riêng, Merge gây lỗi lọc."
+    },
+    {
+      "id": 15,
+      "cau": "Center Across Selection nằm ở đâu?",
+      "A": "Insert > Header",
+      "B": "Home > Font",
+      "C": "Format Cells > Alignment > Horizontal",
+      "D": "View > Grid",
+      "dap_an": "C",
+      "giai_thich": "Đúng đường dẫn trong video."
+    },
+    {
+      "id": 16,
+      "cau": "Xuống dòng trong cùng một ô dùng phím nào?",
+      "A": "Enter",
+      "B": "Ctrl+Enter",
+      "C": "Shift+Enter",
+      "D": "Alt+Enter",
+      "dap_an": "D",
+      "giai_thich": "Alt+Enter tạo dòng mới trong ô (danh mục cần mua)."
+    },
+    {
+      "id": 17,
+      "cau": "Gộp nhanh mỗi 2 ô thành 1 cho cả vùng dùng lệnh nào?",
+      "A": "Merge Across",
+      "B": "Merge Cells",
+      "C": "Merge & Center từng cặp",
+      "D": "Unmerge",
+      "dap_an": "A",
+      "giai_thich": "Merge Across gộp theo từng hàng riêng, rất nhanh."
+    },
+    {
+      "id": 18,
+      "cau": "Muốn ẩn toàn bộ giá trị ô mà vẫn giữ dữ liệu ta gõ?",
+      "A": "Ẩn cột",
+      "B": ";;;",
+      "C": "Xóa",
+      "D": "Màu trắng",
+      "dap_an": "B",
+      "giai_thich": "3 chấm phẩy = 4 phần đều rỗng nên không hiển thị gì."
+    },
+    {
+      "id": 19,
+      "cau": "Ẩn số 0 trên nhãn biểu đồ (giữ số khác) dùng mã nào?",
+      "A": "0;0",
+      "B": ";;;",
+      "C": "#;#;",
+      "D": "Xóa nhãn",
+      "dap_an": "C",
+      "giai_thich": "Phần 1 dương, phần 2 âm, phần 3 (số 0) rỗng nên ẩn."
+    },
+    {
+      "id": 20,
+      "cau": "25 giờ hiển thị 1:00 là do định dạng nào?",
+      "A": "Lỗi Excel",
+      "B": "[h]:mm",
+      "C": "Sai dữ liệu",
+      "D": "h:mm (không ngoặc)",
+      "dap_an": "D",
+      "giai_thich": "h thường reset sau mỗi 24h (1 ngày) nên 25h còn 1h dư."
+    },
+    {
+      "id": 21,
+      "cau": "Muốn 25 giờ hiển thị đúng 25:00 ta dùng?",
+      "A": "h:mm",
+      "B": "[h]:mm",
+      "C": "hh:mm",
+      "D": "mm:hh",
+      "dap_an": "B",
+      "giai_thich": "Ngoặc vuông = cộng dồn tổng giờ."
+    },
+    {
+      "id": 22,
+      "cau": "Muốn quy 4:20:23 về tổng phút ta dùng?",
+      "A": "m",
+      "B": "[m]",
+      "C": "mm",
+      "D": "h:m",
+      "dap_an": "B",
+      "giai_thich": "m trong ngoặc = tổng phút lũy tiến (260 phút)."
+    },
+    {
+      "id": 23,
+      "cau": "Excel xử lý tối đa bao nhiêu chữ số cho kiểu Number?",
+      "A": "20",
+      "B": "10",
+      "C": "15",
+      "D": "Không giới hạn",
+      "dap_an": "C",
+      "giai_thich": "Từ số thứ 16 trở đi tự thành 0 ở kiểu Number."
+    },
+    {
+      "id": 24,
+      "cau": "Nhập CCCD/dãy >15 số không bị thành 0 ta phải?",
+      "A": "Chia cột",
+      "B": "Nhập rồi định dạng",
+      "C": "Thêm dấu phẩy",
+      "D": "Định dạng Text trước rồi nhập",
+      "dap_an": "D",
+      "giai_thich": "Phải chuyển Home > Number = Text trước khi nhập."
+    },
+    {
+      "id": 25,
+      "cau": "Cách mở Format Cells bằng chuột phải là?",
+      "A": "Chuột phải > Format Cells",
+      "B": "Chuột phải > Insert",
+      "C": "Chuột phải > Delete",
+      "D": "Chuột phải > Filter",
+      "dap_an": "A",
+      "giai_thich": "Đúng thao tác trong video."
+    },
+    {
+      "id": 26,
+      "cau": "Mã màu xanh dương bằng tên trong Custom là?",
+      "A": "Blue",
+      "B": "[Blue]",
+      "C": "=Blue",
+      "D": "{Blue}",
+      "dap_an": "B",
+      "giai_thich": "Tên màu đặt trong ngoặc vuông."
+    },
+    {
+      "id": 27,
+      "cau": "Mã màu đỏ trong Custom là?",
+      "A": "-Red-",
+      "B": "Red?",
+      "C": "[Red]",
+      "D": "Màu 3",
+      "dap_an": "C",
+      "giai_thich": "Cặp với [Blue] cho tăng trưởng âm."
+    },
+    {
+      "id": 28,
+      "cau": "Ngoài tên màu, có thể dùng gì để tô màu Custom?",
+      "A": "Mã hàng",
+      "B": "Mã HTML",
+      "C": "Tên font",
+      "D": "Mã Color1-56 như [Color5], Color32",
+      "dap_an": "D",
+      "giai_thich": "Video đổi Blue thành Color32/36/37."
+    },
+    {
+      "id": 29,
+      "cau": "Điều kiện <5000 màu đỏ trong Custom viết thế nào?",
+      "A": "[Red][<5000]#,##0",
+      "B": "IF(<5000,Red)",
+      "C": "<5000 Red",
+      "D": "Red=5000",
+      "dap_an": "A",
+      "giai_thich": "Cú pháp [Màu][Điều kiện]mã số."
+    },
+    {
+      "id": 30,
+      "cau": "Phần sau dấu ; thứ nhất trong a;b;c nghĩa là?",
+      "A": "Số 0",
+      "B": "Số âm",
+      "C": "Chữ",
+      "D": "Màu",
+      "dap_an": "B",
+      "giai_thich": "Cấu trúc Dương;Âm;Không;Chữ."
+    },
+    {
+      "id": 31,
+      "cau": "Để tạo dòng gạch dưới chữ ký co giãn theo ô ta dùng?",
+      "A": "Border",
+      "B": "___ cố định",
+      "C": "@*-",
+      "D": "Underline",
+      "dap_an": "C",
+      "giai_thich": "Sao + gạch = lặp gạch đầy phần trống."
+    },
+    {
+      "id": 32,
+      "cau": "@ trong mã @*- có nghĩa gì?",
+      "A": "Không có nghĩa",
+      "B": "Email",
+      "C": "Lỗi",
+      "D": "Vị trí nội dung chữ",
+      "dap_an": "D",
+      "giai_thich": "@ giữ chỗ cho chữ đã nhập, *- lặp sau nó."
+    },
+    {
+      "id": 33,
+      "cau": "Muốn điền dấu chấm vào phần trống còn lại của ô ngày ta dùng?",
+      "A": "@*.",
+      "B": "...",
+      "C": "Chấm thủ công",
+      "D": "Tăng cột",
+      "dap_an": "A",
+      "giai_thich": "@ rồi *. lặp dấu chấm."
+    },
+    {
+      "id": 34,
+      "cau": "Mục lục kiểu Trang ...3 (chấm trước số) thì sao đứng trước?",
+      "A": "@ đứng trước *",
+      "B": "Dấu * đứng trước @",
+      "C": "Không làm được",
+      "D": "Dùng Tab",
+      "dap_an": "B",
+      "giai_thich": "Vị trí sao quyết định chấm lặp ở trước nội dung."
+    },
+    {
+      "id": 35,
+      "cau": "Xem trước kết quả mã Custom ở đâu?",
+      "A": "Status bar",
+      "B": "Trên sheet",
+      "C": "Khung Sample trong Format Cells",
+      "D": "Không xem được",
+      "dap_an": "C",
+      "giai_thich": "Video luôn chỉ nhìn Sample trước khi OK."
+    },
+    {
+      "id": 36,
+      "cau": "Muốn xóa mẫu Custom đã gõ để nhập mới ta làm gì?",
+      "A": "Xóa sheet",
+      "B": "Không xóa được",
+      "C": "Đóng hộp thoại",
+      "D": "Bôi đen ô Type rồi xóa",
+      "dap_an": "D",
+      "giai_thich": "Video xóa mẫu cũ rồi gõ mã mới."
+    },
+    {
+      "id": 37,
+      "cau": "Vì sao không nên Merge ô tiêu đề khi cần Filter?",
+      "A": "Dễ lỗi lọc/sắp xếp",
+      "B": "Đẹp hơn",
+      "C": "Nhanh hơn",
+      "D": "Không sao",
+      "dap_an": "A",
+      "giai_thich": "Video khuyên dùng Center Across Selection."
+    },
+    {
+      "id": 38,
+      "cau": "Format Data Labels > Show Data Labels dùng để?",
+      "A": "Ẩn biểu đồ",
+      "B": "Hiện giá trị lên biểu đồ",
+      "C": "Xóa số 0 nguồn",
+      "D": "Đổi màu cột",
+      "dap_an": "B",
+      "giai_thich": "Sau khi chèn chart, bật nhãn rồi mới ẩn số 0 bằng Custom."
+    },
+    {
+      "id": 39,
+      "cau": "Số 123456789 (9 số) nhập mã 0000-000-000 ra dạng nào?",
+      "A": "123456789",
+      "B": "Lỗi",
+      "C": "123-456-789 với 0 đệm nếu thiếu",
+      "D": "Ẩn",
+      "dap_an": "C",
+      "giai_thich": "Nhóm 4-3-3, thiếu thì đệm 0 đầu."
+    },
+    {
+      "id": 40,
+      "cau": "Ý chính của bài 10 là gì?",
+      "A": "VBA",
+      "B": "Hàm VLOOKUP",
+      "C": "PivotTable",
+      "D": "13 ví dụ Custom Number Format trong Format Cells",
+      "dap_an": "D",
+      "giai_thich": "Bài 10 xoay quanh định dạng số/ngày/giờ/màu/ký tự lặp."
+    }
+  ]
+}

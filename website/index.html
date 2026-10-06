@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Học Excel &amp; Word từ cơ bản đến nâng cao</title>
+<link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body data-page="home">
+<a class="skip-link" href="#main">Bỏ qua tới nội dung</a>
+<header class="site-header">
+  <nav class="nav" aria-label="Điều hướng chính">
+    <a class="brand" href="index.html">Excel &amp; Word Lab</a>
+    <div class="nav-links">
+      <a data-nav="home" href="index.html">Trang chủ</a>
+      <a data-nav="excel" href="excel.html">Excel</a>
+      <a data-nav="word" href="word.html">Word</a>
+      <a data-nav="cong-thuc" href="cong-thuc.html">Công thức</a>
+      <a data-nav="trac-nghiem" href="trac-nghiem.html">Trắc nghiệm</a>
+    </div>
+  </nav>
+</header>
+<main id="main">
+  <div class="hero">
+    <h1>Học Excel &amp; Word từ cơ bản đến nâng cao</h1>
+    <p>Học theo video bài giảng, tra cứu công thức, luyện trắc nghiệm ABCD có giải thích chi tiết. Tiến độ của bạn được lưu ngay trên trình duyệt này.</p>
+    <p class="btn-row"><a class="btn" href="excel.html">Học Excel</a><a class="btn secondary" href="trac-nghiem.html">Trắc nghiệm</a></p>
+  </div>
+
+  <div class="grid cols-3" id="stats" aria-label="Thống kê nội dung"></div>
+
+  <h2>Lộ trình học</h2>
+  <div class="grid cols-2">
+    <div class="card">
+      <h3>1. Excel cơ bản → nâng cao</h3>
+      <p class="muted">25 bài video: thao tác, hàm SUM/IF/VLOOKUP, PivotTable, Array, Dashboard, Macro &amp; VBA.</p>
+      <a class="btn" href="excel.html">Vào học Excel</a>
+    </div>
+    <div class="card">
+      <h3>2. Word cơ bản → nâng cao</h3>
+      <p class="muted">26 bài video: định dạng, bảng biểu, ảnh, mục lục, Mail Merge, in ấn.</p>
+      <a class="btn" href="word.html">Vào học Word</a>
+    </div>
+    <div class="card">
+      <h3>3. Tra cứu công thức</h3>
+      <p class="muted">391 công thức Excel có cú pháp chuẩn, ví dụ chạy được và lỗi thường gặp.</p>
+      <a class="btn" href="cong-thuc.html">Tra cứu ngay</a>
+    </div>
+    <div class="card">
+      <h3>4. Luyện trắc nghiệm</h3>
+      <p class="muted">1.820 câu ABCD theo bài, chủ đề, độ khó. Có bấm giờ và xem lại đáp án.</p>
+      <a class="btn" href="trac-nghiem.html">Làm bài ngay</a>
+    </div>
+  </div>
+
+  <h2>Tiến độ của bạn</h2>
+  <div class="card" id="my-progress"></div>
+</main>
+<footer class="site-footer">Dữ liệu từ playlist video + 7 trang tài liệu. Học offline hoàn toàn sau khi tải trang.</footer>
+<script src="assets/js/common.js"></script>
+<script>
+(async () => {
+  try {
+    const [f, eq, wq] = await Promise.all([
+      App.load("excel_formulas.json"), App.load("excel_quiz.json"), App.load("word_quiz.json")
+    ]);
+    const done = App.doneLessons();
+    const stats = [
+      ["391", "công thức Excel"],
+      [(eq.length + wq.length).toLocaleString("vi-VN"), "câu trắc nghiệm"],
+      [Object.keys(done).length + " / 51", "bài đã hoàn thành"],
+      [f.filter(x => (x.nguon || []).some(n => n !== "video")).length, "công thức mở rộng từ web"]
+    ];
+    document.getElementById("stats").innerHTML = stats.map(([n, l]) =>
+      `<div class="card"><div class="stat-num">${n}</div><div class="muted">${l}</div></div>`).join("");
+    const hist = App.store.get("quizHistory", []);
+    document.getElementById("my-progress").innerHTML = hist.length
+      ? `<p>Đã làm <strong>${hist.length}</strong> bài trắc nghiệm. Điểm cao nhất: <strong>${Math.max(...hist.map(h => h.score))}/${Math.max(...hist.map(h => h.total))}</strong>.</p><p><a href="trac-nghiem.html#lich-su">Xem lịch sử</a></p>`
+      : `<p class="muted">Chưa có hoạt động nào. Hãy bắt đầu với một <a href="trac-nghiem.html">bài trắc nghiệm</a>.</p>`;
+  } catch (e) {
+    document.getElementById("stats").innerHTML = `<div class="card"><p>Mở website qua local server để tải dữ liệu (ví dụ: <code>python -m http.server</code> trong thư mục website).</p></div>`;
+  }
+})();
+</script>
+</body>
+</html>

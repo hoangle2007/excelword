@@ -1,0 +1,409 @@
+{
+ "video_id": "8AdaaIKlbAo",
+ "bai": "Chia cột văn bản trong Word (Columns)",
+ "url": "https://www.youtube.com/watch?v=8AdaaIKlbAo",
+ "ky_nang": [
+  {
+   "ten": "Chia nhanh 2-3 cột",
+   "thao_tac": "Bôi đen văn bản > Layout > Columns > chọn Two/Three/Left/Right",
+   "duong_dan_menu": "Layout > Columns",
+   "phim_tat": "",
+   "giai_thich": "Chia nhanh thành 2-3 cột hoặc lệch trái/phải.",
+   "vi_du": "Columns > Two"
+  },
+  {
+   "ten": "Chia nhiều cột tùy ý",
+   "thao_tac": "Layout > Columns > More Columns > nhập Number of columns > OK",
+   "duong_dan_menu": "Layout > Columns > More Columns",
+   "phim_tat": "",
+   "giai_thich": "Nhập số cột bất kỳ như 4 cột.",
+   "vi_du": "Number of columns = 4 > OK"
+  },
+  {
+   "ten": "Kẻ đường giữa các cột",
+   "thao_tac": "Trong Columns dialog tick Line between > OK",
+   "duong_dan_menu": "Layout > Columns > More Columns > Line between",
+   "phim_tat": "",
+   "giai_thich": "Tạo đường kẻ dọc phân cách cột.",
+   "vi_du": "Tick Line between"
+  },
+  {
+   "ten": "Chỉnh khoảng cách cột",
+   "thao_tac": "Trong Columns dialog chỉnh Spacing (ví dụ 1cm) > OK",
+   "duong_dan_menu": "Layout > Columns > More Columns > Spacing",
+   "phim_tat": "",
+   "giai_thich": "Spacing càng nhỏ cột càng sát nhau.",
+   "vi_du": "Spacing 1cm"
+  },
+  {
+   "ten": "Ngắt sang cột tiếp theo",
+   "thao_tac": "Đặt con trỏ > Layout > Breaks > Column",
+   "duong_dan_menu": "Layout > Breaks > Column",
+   "phim_tat": "",
+   "giai_thich": "Đẩy nội dung từ vị trí con trỏ sang cột bên phải.",
+   "vi_du": "Breaks > Column"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "cau": "Muốn chia cột phải bôi đen văn bản trước đúng không?",
+   "lua_chon": {
+    "A": "Đúng",
+    "B": "Sai",
+    "C": "Tùy",
+    "D": "Không bao giờ"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Video bôi đen nội dung cần chia trước."
+  },
+  {
+   "cau": "Lệnh chia cột nằm ở thẻ nào?",
+   "lua_chon": {
+    "A": "Home",
+    "B": "Layout",
+    "C": "Insert",
+    "D": "View"
+   },
+   "dap_an": "B",
+   "muc_do": "dễ",
+   "giai_thich": "Layout > Columns."
+  },
+  {
+   "cau": "Muốn chia 2 cột chọn gì?",
+   "lua_chon": {
+    "A": "Two",
+    "B": "Three",
+    "C": "One",
+    "D": "Four"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Two là 2 cột."
+  },
+  {
+   "cau": "Muốn chia 3 cột chọn gì?",
+   "lua_chon": {
+    "A": "Two",
+    "B": "One",
+    "C": "Three",
+    "D": "Left"
+   },
+   "dap_an": "C",
+   "muc_do": "dễ",
+   "giai_thich": "Three là 3 cột."
+  },
+  {
+   "cau": "Muốn chia 4 cột thì làm sao?",
+   "lua_chon": {
+    "A": "More Columns > nhập 4 > OK",
+    "B": "Không chia được",
+    "C": "Nhấn Enter 4 lần",
+    "D": "Copy 4 lần"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Nhập Number of columns = 4."
+  },
+  {
+   "cau": "Ô nhập số cột tên gì?",
+   "lua_chon": {
+    "A": "Number of columns",
+    "B": "Spacing",
+    "C": "Line between",
+    "D": "Width"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Đúng tên ô."
+  },
+  {
+   "cau": "Muốn có đường kẻ giữa các cột tick gì?",
+   "lua_chon": {
+    "A": "Line between",
+    "B": "Equal width",
+    "C": "Spacing",
+    "D": "OK"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Line between tạo kẻ dọc."
+  },
+  {
+   "cau": "Muốn chỉnh khoảng cách cột chỉnh ở đâu?",
+   "lua_chon": {
+    "A": "Spacing",
+    "B": "Line between",
+    "C": "Number",
+    "D": "OK"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Width and spacing > Spacing."
+  },
+  {
+   "cau": "Muốn đẩy chữ sang cột bên phải dùng gì?",
+   "lua_chon": {
+    "A": "Breaks > Column",
+    "B": "Enter",
+    "C": "Tab",
+    "D": "Space"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Layout > Breaks > Column."
+  },
+  {
+   "cau": "Trước khi ngắt cột phải làm gì?",
+   "lua_chon": {
+    "A": "Đặt con trỏ đúng vị trí muốn ngắt",
+    "B": "Bôi đen cả bài",
+    "C": "Xóa bài",
+    "D": "Tắt máy"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Break chèn tại con trỏ."
+  },
+  {
+   "cau": "Left trong Columns nghĩa là?",
+   "lua_chon": {
+    "A": "Cột trái hẹp hơn cột phải",
+    "B": "Cột trái rộng hơn",
+    "C": "2 cột bằng nhau",
+    "D": "1 cột"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Left = narrow left."
+  },
+  {
+   "cau": "Right trong Columns nghĩa là?",
+   "lua_chon": {
+    "A": "Cột phải hẹp hơn cột trái",
+    "B": "Cột phải rộng hơn",
+    "C": "2 cột bằng nhau",
+    "D": "1 cột"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Right = narrow right."
+  },
+  {
+   "cau": "More Columns dùng khi nào?",
+   "lua_chon": {
+    "A": "Khi cần trên 3 cột hoặc chỉnh line/spacing chi tiết",
+    "B": "Khi chia 2 cột",
+    "C": "Khi xóa cột",
+    "D": "Khi in"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Hộp thoại chi tiết."
+  },
+  {
+   "cau": "Video giảm spacing xuống bao nhiêu?",
+   "lua_chon": {
+    "A": "1cm",
+    "B": "5cm",
+    "C": "10cm",
+    "D": "0cm"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Video giảm xuống 1cm cho khít."
+  },
+  {
+   "cau": "Spacing lớn thì cột thế nào?",
+   "lua_chon": {
+    "A": "Xa nhau, mỗi cột hẹp lại",
+    "B": "Sát nhau",
+    "C": "Mất cột",
+    "D": "Tăng số cột"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Khoảng trắng giữa cột tăng."
+  },
+  {
+   "cau": "Muốn về 1 cột bình thường chọn gì?",
+   "lua_chon": {
+    "A": "One",
+    "B": "Two",
+    "C": "Three",
+    "D": "Four"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "One gỡ chia cột."
+  },
+  {
+   "cau": "Nếu không bôi đen mà chia cột thì?",
+   "lua_chon": {
+    "A": "Áp dụng cho toàn section/file hiện tại",
+    "B": "Không gì xảy ra",
+    "C": "Máy hỏng",
+    "D": "Mất chữ"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Word áp dụng phạm vi con trỏ/section."
+  },
+  {
+   "cau": "Line between là đường nào?",
+   "lua_chon": {
+    "A": "Đường kẻ dọc giữa các cột",
+    "B": "Đường viền trang",
+    "C": "Gạch chân chữ",
+    "D": "Khung ảnh"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Đúng mô tả."
+  },
+  {
+   "cau": "Column break khác Page break ở điểm nào?",
+   "lua_chon": {
+    "A": "Column nhảy sang cột kế; Page nhảy sang trang mới",
+    "B": "Giống nhau",
+    "C": "Column xóa trang",
+    "D": "Page xóa cột"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Phạm vi nhảy khác nhau."
+  },
+  {
+   "cau": "Muốn cột rộng không bằng nhau thì?",
+   "lua_chon": {
+    "A": "Bỏ tick Equal column width rồi nhập Width từng cột",
+    "B": "Không thể",
+    "C": "Phải vẽ tay",
+    "D": "Đổi khổ giấy"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Bỏ Equal width mới chỉnh riêng."
+  },
+  {
+   "cau": "Sau khi chia 2 cột, thêm chữ thì chữ chảy thế nào?",
+   "lua_chon": {
+    "A": "Đầy cột trái rồi tự chảy sang cột phải",
+    "B": "Tràn ra ngoài",
+    "C": "Mất chữ",
+    "D": "Xuống trang mới"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Luồng cột tự động."
+  },
+  {
+   "cau": "Muốn xóa Column break thì?",
+   "lua_chon": {
+    "A": "Bật dấu ¶ (Show/Hide) rồi xóa ký tự Column Break",
+    "B": "Không xóa được",
+    "C": "Xóa cả bài",
+    "D": "Cài lại Word"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Break là ký tự ẩn, xóa như chữ."
+  },
+  {
+   "cau": "Chia cột báo/tạp chí thường dùng mấy cột?",
+   "lua_chon": {
+    "A": "2-3 cột kèm Line between",
+    "B": "100 cột",
+    "C": "1 cột",
+    "D": "0 cột"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Bố cục báo phổ biến."
+  },
+  {
+   "cau": "Vì sao phải bôi đen đoạn nhân bản cho dài trước khi demo?",
+   "lua_chon": {
+    "A": "Để thấy rõ hiệu ứng chia cột và chữ chảy",
+    "B": "Để tốn giấy",
+    "C": "Để máy chậm",
+    "D": "Không lý do"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Đoạn ngắn khó thấy chia cột."
+  },
+  {
+   "cau": "Equal column width nghĩa là?",
+   "lua_chon": {
+    "A": "Các cột rộng bằng nhau",
+    "B": "Các cột khác nhau",
+    "C": "Xóa cột",
+    "D": "Thêm cột"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Tick mặc định cột đều nhau."
+  },
+  {
+   "cau": "Đơn vị Spacing trong video là?",
+   "lua_chon": {
+    "A": "cm (đã đổi đơn vị đo)",
+    "B": "inch",
+    "C": "pixel",
+    "D": "kg"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Video nhập 1cm."
+  },
+  {
+   "cau": "Muốn áp chia cột cho 1 đoạn giữa trang thì?",
+   "lua_chon": {
+    "A": "Bôi đen đúng đoạn đó rồi chia; Word tự chèn section break",
+    "B": "Không thể",
+    "C": "Phải chia cả file",
+    "D": "Xóa đoạn khác"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Word chèn Continuous break bao quanh."
+  },
+  {
+   "cau": "Section break liên quan gì đến Columns?",
+   "lua_chon": {
+    "A": "Mỗi section có thiết lập cột riêng; chia 1 đoạn tạo section mới",
+    "B": "Không liên quan",
+    "C": "Xóa section",
+    "D": "Section là cột"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Columns là thuộc tính section."
+  },
+  {
+   "cau": "Muốn đường kẻ + spacing 1cm + ngắt cột đúng chỗ thì thứ tự?",
+   "lua_chon": {
+    "A": "Chia cột > More Columns tick Line between + Spacing 1cm > đặt trỏ Breaks Column",
+    "B": "Break trước rồi chia",
+    "C": "In trước rồi chia",
+    "D": "Xóa rồi chia"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Đúng quy trình video."
+  },
+  {
+   "cau": "Tổng kết video gồm mấy nội dung?",
+   "lua_chon": {
+    "A": "Cách chia 2/nhiều cột + line between + spacing + column break",
+    "B": "Chỉ chia 2 cột",
+    "C": "Chỉ in",
+    "D": "Chỉ gõ chữ"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Đủ 2 phần video nêu."
+  }
+ ]
+}

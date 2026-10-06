@@ -1,0 +1,984 @@
+[00:02] Chào mừng các bạn đến với khóa học Excel miễn phí từ cơ bản đến nâng cao dành cho
+[00:04] miễn phí từ cơ bản đến nâng cao dành cho người mới bắt đầu được thực hiện trên
+[00:06] người mới bắt đầu được thực hiện trên kênh YouTube Gái Excel bài số 18 vẽ biểu
+[00:10] kênh YouTube Gái Excel bài số 18 vẽ biểu đồ trong Excel
+[00:11] đồ trong Excel trước khi bắt đầu vào bài học số 18 mình
+[00:13] trước khi bắt đầu vào bài học số 18 mình cùng giải bài tập số 17 của hôm trước
+[00:15] cùng giải bài tập số 17 của hôm trước nhá các bạn mở câu hỏi của bài số 17 lên
+[00:24] câu hỏi số 17 mình sẽ khóa toàn bộ các cái ô mà chứa công thức đúng không ạ thì
+[00:26] cái ô mà chứa công thức đúng không ạ thì đầu tiên mình phải bỏ unlock của toàn bộ
+[00:29] đầu tiên mình phải bỏ unlock của toàn bộ cái sheet dữ liệu này nhá các bạn sẽ lên
+[00:31] cái sheet dữ liệu này nhá các bạn sẽ lên góc trên cùng ở bên trái này đấy các bạn
+[00:33] góc trên cùng ở bên trái này đấy các bạn sẽ tích vào đây để các bạn lựa chọn toàn
+[00:36] sẽ tích vào đây để các bạn lựa chọn toàn bộ cái sheet này nhá sau đó các bạn nháy
+[00:38] bộ cái sheet này nhá sau đó các bạn nháy chuột phải các bạn chọn format cell
+[00:42] chuột phải các bạn chọn format cell đấy các bạn sẽ vào cái thẻ protection
+[00:44] đấy các bạn sẽ vào cái thẻ protection này
+[00:44] này các bạn bỏ chọn lock đi
+[00:46] các bạn bỏ chọn lock đi đấy các bạn sẽ bấm ok
+[00:49] đấy các bạn sẽ bấm ok tiếp theo mình sẽ lựa chọn toàn bộ các
+[00:51] tiếp theo mình sẽ lựa chọn toàn bộ các cái ô mà chứa công thức đúng không ạ thì
+[00:53] cái ô mà chứa công thức đúng không ạ thì đầu tiên các bạn sẽ tích vào góc trên
+[00:54] đầu tiên các bạn sẽ tích vào góc trên bên trái này để các bạn lựa chọn toàn bộ
+[00:56] bên trái này để các bạn lựa chọn toàn bộ cái sheet này nhá
+[00:57] cái sheet này nhá sau đó các bạn bấm Ctrl G để các bạn sẽ
+[01:00] sau đó các bạn bấm Ctrl G để các bạn sẽ vào cái cửa sổ go to này
+[01:02] vào cái cửa sổ go to này các bạn sẽ chọn special
+[01:04] các bạn sẽ chọn special đấy và các bạn sẽ chọn cái gì ạ các bạn
+[01:05] đấy và các bạn sẽ chọn cái gì ạ các bạn sẽ chọn cái formula này
+[01:07] sẽ chọn cái formula này các bạn sẽ bấm ok
+[01:09] các bạn sẽ bấm ok thì như vậy toàn bộ các ô mà chứa công
+[01:11] thì như vậy toàn bộ các ô mà chứa công thức nó đã được lựa chọn rồi đúng không
+[01:12] thức nó đã được lựa chọn rồi đúng không ạ đây
+[01:13] ạ đây đây này các cái ô mà đã được tô đậm này
+[01:15] đây này các cái ô mà đã được tô đậm này là những ô chứa công thức này và cả ô
+[01:17] là những ô chứa công thức này và cả ô này nữa đấy
+[01:19] này nữa đấy bây giờ các bạn sẽ nháy chuột phải vào
+[01:21] bây giờ các bạn sẽ nháy chuột phải vào một ô chứa công thức bất kỳ nhá các bạn
+[01:22] một ô chứa công thức bất kỳ nhá các bạn sẽ chọn format cell
+[01:24] sẽ chọn format cell đấy các bạn vẫn vào thẻ protection
+[01:27] đấy các bạn vẫn vào thẻ protection các bạn chọn lock
+[01:28] các bạn chọn lock đấy các bạn sẽ bấm ok
+[01:30] đấy các bạn sẽ bấm ok đấy
+[01:32] đấy bước thứ ba mình sẽ gì ạ mình sẽ khóa
+[01:34] bước thứ ba mình sẽ gì ạ mình sẽ khóa cái sheet này nhá các bạn sẽ vào cái thẻ
+[01:35] cái sheet này nhá các bạn sẽ vào cái thẻ review các bạn sẽ chọn cái protect sheet
+[01:38] review các bạn sẽ chọn cái protect sheet này
+[01:39] này đấy và các bạn sẽ nhập password nhá ví
+[01:41] đấy và các bạn sẽ nhập password nhá ví dụ các bạn nhập password là gì ạ 4 5 6
+[01:43] dụ các bạn nhập password là gì ạ 4 5 6 đấy các bạn sẽ bấm ok
+[01:45] đấy các bạn sẽ bấm ok đây nó bắt mình xác nhận lại đúng không
+[01:47] đây nó bắt mình xác nhận lại đúng không ạ các bạn nhập 4 5 6 các bạn bấm ok đấy
+[01:52] ạ các bạn nhập 4 5 6 các bạn bấm ok đấy thì như vậy là gì ạ toàn bộ các ô mà
+[01:54] thì như vậy là gì ạ toàn bộ các ô mà chứa công thức đã được bảo vệ này bây
+[01:55] chứa công thức đã được bảo vệ này bây giờ ví dụ mình tích vào đây đấy nó sẽ
+[01:57] giờ ví dụ mình tích vào đây đấy nó sẽ không cho mình nhập dữ liệu này. Mình
+[01:59] không cho mình nhập dữ liệu này. Mình tích vào đây, nó sẽ không cho mình nhập
+[02:00] tích vào đây, nó sẽ không cho mình nhập dữ liệu. Còn các bạn tích vào cái ô khác
+[02:02] dữ liệu. Còn các bạn tích vào cái ô khác thì lại ok. Đấy, các bạn có thể sửa được
+[02:04] thì lại ok. Đấy, các bạn có thể sửa được ở những cái ô này.
+[02:05] ở những cái ô này. Đấy, các bạn bấm Esc. Thì chỉ có những
+[02:07] Đấy, các bạn bấm Esc. Thì chỉ có những cái ô chứa công thức ấy thì nó mới không
+[02:09] cái ô chứa công thức ấy thì nó mới không cho các bạn sửa thôi, đúng không ạ? Đấy.
+[02:12] cho các bạn sửa thôi, đúng không ạ? Đấy. Bây giờ mình muốn ẩn các ô mà chứa công
+[02:14] Bây giờ mình muốn ẩn các ô mà chứa công thức thì mình làm như thế nào? Tức là gì
+[02:16] thức thì mình làm như thế nào? Tức là gì ạ? Khi các bạn tích vào đây này, nó vẫn
+[02:17] ạ? Khi các bạn tích vào đây này, nó vẫn hiện công thức này.
+[02:19] hiện công thức này. Bây giờ mình muốn là gì ạ? Khi mình tích
+[02:20] Bây giờ mình muốn là gì ạ? Khi mình tích vào đây ấy thì nó không hiện cả cái công
+[02:22] vào đây ấy thì nó không hiện cả cái công thức này, thì mình làm như thế nào, đúng
+[02:24] thức này, thì mình làm như thế nào, đúng không ạ?
+[02:25] không ạ? Thì đầu tiên mình phải bỏ cái Protect
+[02:27] Thì đầu tiên mình phải bỏ cái Protect Sheet trước nhá. Vẫn là thẻ Preview này.
+[02:29] Sheet trước nhá. Vẫn là thẻ Preview này. Các bạn chọn gì ạ? Unprotect Sheet.
+[02:31] Các bạn chọn gì ạ? Unprotect Sheet. Đấy, các bạn sẽ nhập password vào.
+[02:33] Đấy, các bạn sẽ nhập password vào. Ví dụ lúc nãy mình nhập là gì ạ? 4 5 6.
+[02:35] Ví dụ lúc nãy mình nhập là gì ạ? 4 5 6. Các bạn sẽ bấm ok. Đấy. Bây giờ mình sẽ
+[02:38] Các bạn sẽ bấm ok. Đấy. Bây giờ mình sẽ làm lại nhá. Các bạn sẽ lựa chọn lại các
+[02:40] làm lại nhá. Các bạn sẽ lựa chọn lại các cái
+[02:41] cái cell mà gì ạ? Mà chứa công thức, đúng
+[02:43] cell mà gì ạ? Mà chứa công thức, đúng không ạ? Các bạn sẽ vào đây này. Các bạn
+[02:44] không ạ? Các bạn sẽ vào đây này. Các bạn bấm Ctrl G.
+[02:46] bấm Ctrl G. Đấy, các bạn sẽ chọn gì ạ? Các bạn chọn
+[02:47] Đấy, các bạn sẽ chọn gì ạ? Các bạn chọn Special.
+[02:50] Special. Và các bạn chọn Formula. Các bạn sẽ bấm
+[02:52] Và các bạn chọn Formula. Các bạn sẽ bấm ok.
+[02:53] ok. Thì như vậy là gì ạ? Toàn bộ cái ô chứa
+[02:54] Thì như vậy là gì ạ? Toàn bộ cái ô chứa công thức đã được lựa chọn này. Các bạn
+[02:56] công thức đã được lựa chọn này. Các bạn nháy chuột phải. Các bạn chọn Format
+[02:58] nháy chuột phải. Các bạn chọn Format Cells. Đấy, hoặc phím tắt là gì ạ? Các
+[02:59] Cells. Đấy, hoặc phím tắt là gì ạ? Các bạn có thể bấm phím tắt là Ctrl 1.
+[03:02] bạn có thể bấm phím tắt là Ctrl 1. Đấy. Thì trong cái phần Protection này
+[03:05] Đấy. Thì trong cái phần Protection này này thì các bạn sẽ tích thêm vào cái
+[03:06] này thì các bạn sẽ tích thêm vào cái Hidden ở đây. Đấy. Sau đó các bạn sẽ bấm
+[03:09] Hidden ở đây. Đấy. Sau đó các bạn sẽ bấm ok.
+[03:10] ok. Đấy, bước tiếp theo là các bạn sẽ gì ạ?
+[03:12] Đấy, bước tiếp theo là các bạn sẽ gì ạ? Các bạn sẽ vào cái Protect Sheet này.
+[03:14] Các bạn sẽ vào cái Protect Sheet này. Các bạn sẽ nhập password để bảo vệ nhá.
+[03:16] Các bạn sẽ nhập password để bảo vệ nhá. Ví dụ mình đánh là gì ạ? 1 2 3.
+[03:18] Ví dụ mình đánh là gì ạ? 1 2 3. Các bạn bấm ok.
+[03:20] Các bạn bấm ok. Ở đây xác nhận lại gì ạ? 1 2 3. Các bạn
+[03:22] Ở đây xác nhận lại gì ạ? 1 2 3. Các bạn sẽ bấm ok. Đấy.
+[03:24] sẽ bấm ok. Đấy. Thì như vậy các cái ô này các bạn thấy
+[03:26] Thì như vậy các cái ô này các bạn thấy chưa? Ngoài cái việc là gì ạ? Nó không
+[03:27] chưa? Ngoài cái việc là gì ạ? Nó không cho các bạn chỉnh sửa ấy thì các bạn lên
+[03:29] cho các bạn chỉnh sửa ấy thì các bạn lên cái thanh Formula Bar này, các bạn sẽ
+[03:31] cái thanh Formula Bar này, các bạn sẽ không nhìn thấy công thức nữa. Các bạn
+[03:32] không nhìn thấy công thức nữa. Các bạn thấy không ạ? Đấy, rất là hay ạ.
+[03:34] thấy không ạ? Đấy, rất là hay ạ. Còn những cái ô này ấy thì nó sẽ vẫn
+[03:35] Còn những cái ô này ấy thì nó sẽ vẫn hiện
+[03:36] hiện số liệu thông thường. Còn những cái ô mà
+[03:38] số liệu thông thường. Còn những cái ô mà chứa công thức mình khóa lúc nãy ấy thì
+[03:40] chứa công thức mình khóa lúc nãy ấy thì nó sẽ không hiện công thức lên đây. Đấy,
+[03:42] nó sẽ không hiện công thức lên đây. Đấy, rất là hay luôn.
+[03:44] rất là hay luôn. Ok, như vậy là mình đã kết thúc cái câu
+[03:46] Ok, như vậy là mình đã kết thúc cái câu hỏi của bài số 17 hôm trước nhá. Mình sẽ
+[03:48] hỏi của bài số 17 hôm trước nhá. Mình sẽ đóng lại này.
+[03:53] Bây giờ mình sẽ vào cái bài số 18 hôm nay là vẽ biểu đồ trong Excel. Các bạn
+[03:55] nay là vẽ biểu đồ trong Excel. Các bạn sẽ mở cái file mẫu của bài số 18 lên.
+[03:58] sẽ mở cái file mẫu của bài số 18 lên. Các bạn chú ý, mình sẽ để cái link tải
+[04:00] Các bạn chú ý, mình sẽ để cái link tải file thực hành trong phần mô tả phía
+[04:02] file thực hành trong phần mô tả phía dưới video. Thì tốt nhất ấy là các bạn
+[04:04] dưới video. Thì tốt nhất ấy là các bạn tải về, các bạn vừa theo dõi và thực
+[04:06] tải về, các bạn vừa theo dõi và thực hành cùng mình nhá.
+[04:07] hành cùng mình nhá. Nếu bạn nào không biết cách tải về ấy
+[04:09] Nếu bạn nào không biết cách tải về ấy thì các bạn có thể theo dõi cái bài đầu
+[04:10] thì các bạn có thể theo dõi cái bài đầu tiên.
+[04:11] tiên. Trong bài đấy mình đã hướng dẫn các bạn
+[04:13] Trong bài đấy mình đã hướng dẫn các bạn là cách chi tiết để các bạn có thể tải
+[04:15] là cách chi tiết để các bạn có thể tải về.
+[04:16] về. Thì trong bài học ngày hôm nay mình sẽ
+[04:18] Thì trong bài học ngày hôm nay mình sẽ hướng dẫn các bạn cách vẽ biểu đồ trong
+[04:20] hướng dẫn các bạn cách vẽ biểu đồ trong Excel rất là đơn giản và nhanh chóng
+[04:22] Excel rất là đơn giản và nhanh chóng nhá. Thì mình sẽ làm cho các bạn ba cái
+[04:23] nhá. Thì mình sẽ làm cho các bạn ba cái ví dụ mẫu. Đấy. Thì cái biểu đồ là gì?
+[04:27] ví dụ mẫu. Đấy. Thì cái biểu đồ là gì? Biểu đồ là cái mà các bạn muốn biểu diễn
+[04:29] Biểu đồ là cái mà các bạn muốn biểu diễn các cái giá trị
+[04:31] các cái giá trị hay là các con số dưới dạng biểu đồ.
+[04:33] hay là các con số dưới dạng biểu đồ. Đấy. Thì cái biểu đồ là một cái rất là
+[04:35] Đấy. Thì cái biểu đồ là một cái rất là quan trọng. Nhưng mà hầu như các bạn
+[04:37] quan trọng. Nhưng mà hầu như các bạn không quan tâm đến biểu đồ lắm nhá.
+[04:39] không quan tâm đến biểu đồ lắm nhá. Mà các bạn lại hay quan tâm đến các việc
+[04:41] Mà các bạn lại hay quan tâm đến các việc sử dụng hàm hoặc là các cái công thức.
+[04:43] sử dụng hàm hoặc là các cái công thức. Nhưng mà ấy, khi mà các bạn ra quyết
+[04:45] Nhưng mà ấy, khi mà các bạn ra quyết định ấy hoặc là các sếp ấy thì người ta
+[04:48] định ấy hoặc là các sếp ấy thì người ta hay quan tâm nhất là biểu đồ.
+[04:49] hay quan tâm nhất là biểu đồ. Bởi vì người ta sẽ dựa vào cái biểu đồ
+[04:51] Bởi vì người ta sẽ dựa vào cái biểu đồ để người ta hiểu được cái con số đấy nó
+[04:53] để người ta hiểu được cái con số đấy nó có ý nghĩa như thế nào. Và là đơn giản
+[04:55] có ý nghĩa như thế nào. Và là đơn giản hơn để họ ra được cái quyết định. Hoặc
+[04:58] hơn để họ ra được cái quyết định. Hoặc là người ta có thể nắm được cái xu thế.
+[05:00] là người ta có thể nắm được cái xu thế. Và người ta sẽ dự báo được là tương lai
+[05:02] Và người ta sẽ dự báo được là tương lai nó sẽ như thế nào.
+[05:03] nó sẽ như thế nào. Đấy là cái hay của biểu đồ nhá.
+[05:05] Đấy là cái hay của biểu đồ nhá. Thì hôm nay mình sẽ hướng dẫn các bạn
+[05:06] Thì hôm nay mình sẽ hướng dẫn các bạn các cái cách để vẽ biểu đồ một cách đơn
+[05:08] các cái cách để vẽ biểu đồ một cách đơn giản và nhanh chóng.
+[05:10] giản và nhanh chóng. Thì ở ví dụ một, giả sử ở đây mình có là
+[05:12] Thì ở ví dụ một, giả sử ở đây mình có là danh sách là tên các cái gì ạ? Các cái
+[05:14] danh sách là tên các cái gì ạ? Các cái nhân viên.
+[05:15] nhân viên. Và đây là doanh thu. Đấy, bây giờ mình
+[05:17] Và đây là doanh thu. Đấy, bây giờ mình cần vẽ biểu đồ thì mình làm như thế nào?
+[05:19] cần vẽ biểu đồ thì mình làm như thế nào? Thì cái cách thông thường mà mọi người
+[05:20] Thì cái cách thông thường mà mọi người hay vẽ biểu đồ nhất ấy là gì ạ? Các bạn
+[05:22] hay vẽ biểu đồ nhất ấy là gì ạ? Các bạn sẽ bôi đen cái vùng dữ liệu này.
+[05:24] sẽ bôi đen cái vùng dữ liệu này. Đấy. Sau đó các bạn vào thẻ Insert.
+[05:27] Đấy. Sau đó các bạn vào thẻ Insert. Đấy, các bạn sẽ nhìn sang ở đây, các bạn
+[05:29] Đấy, các bạn sẽ nhìn sang ở đây, các bạn sẽ thấy này. Đây là các cái loại biểu
+[05:30] sẽ thấy này. Đây là các cái loại biểu đồ.
+[05:32] đồ. Thì thông thường người ta hay chọn là gì
+[05:33] Thì thông thường người ta hay chọn là gì ạ? Đây là cái biểu đồ hình cột này. Đây
+[05:35] ạ? Đây là cái biểu đồ hình cột này. Đây là biểu đồ hình line là đường thẳng này.
+[05:38] là biểu đồ hình line là đường thẳng này. Đây là biểu đồ hình gì ạ? Hình pie tức
+[05:40] Đây là biểu đồ hình gì ạ? Hình pie tức là các cái hình tròn. Đấy. Còn các cái
+[05:42] là các cái hình tròn. Đấy. Còn các cái biểu đồ này ấy thì
+[05:44] biểu đồ này ấy thì ít được sử dụng hơn nhá. Đấy. Thì trong
+[05:46] ít được sử dụng hơn nhá. Đấy. Thì trong bài học ngày hôm nay mình sẽ hướng dẫn
+[05:47] bài học ngày hôm nay mình sẽ hướng dẫn các bạn là các cái biểu đồ mà thông dụng
+[05:49] các bạn là các cái biểu đồ mà thông dụng thôi.
+[05:50] thôi. Còn nếu như mà các bạn không biết dùng
+[05:52] Còn nếu như mà các bạn không biết dùng biểu đồ gì, thì các bạn sẽ chọn vào cái
+[05:54] biểu đồ gì, thì các bạn sẽ chọn vào cái mục recommend, đấy. Thì cái này là gì ạ?
+[05:57] mục recommend, đấy. Thì cái này là gì ạ? Tức là nó sẽ dựa vào cái dữ liệu của các
+[05:58] Tức là nó sẽ dựa vào cái dữ liệu của các bạn nhá, thì họ sẽ đề xuất vào đây. Ví
+[06:01] bạn nhá, thì họ sẽ đề xuất vào đây. Ví dụ mình tích vào đây đi, đấy.
+[06:03] dụ mình tích vào đây đi, đấy. Thì khi các bạn tích vào đây ý, thì nó
+[06:04] Thì khi các bạn tích vào đây ý, thì nó cũng hiện một cái danh sách là gì ạ?
+[06:06] cũng hiện một cái danh sách là gì ạ? Những cái biểu đồ thông dụng nhất mà cho
+[06:08] Những cái biểu đồ thông dụng nhất mà cho cái dữ liệu kiểu như thế này.
+[06:10] cái dữ liệu kiểu như thế này. Đây là biểu đồ hình cột này. Đây là gì
+[06:12] Đây là biểu đồ hình cột này. Đây là gì ạ? Hình line này. Đây là hình pie này,
+[06:14] ạ? Hình line này. Đây là hình pie này, đấy.
+[06:15] đấy. Hoặc là gì ạ? Đây là hình cột nhưng mà
+[06:16] Hoặc là gì ạ? Đây là hình cột nhưng mà nó sẽ nằm ngang, đấy.
+[06:19] nó sẽ nằm ngang, đấy. Hoặc là gì ạ? Các bạn sẽ vào cái thẻ all
+[06:20] Hoặc là gì ạ? Các bạn sẽ vào cái thẻ all chart, đấy.
+[06:22] chart, đấy. Ở đây nó sẽ liệt kê cho các bạn tất cả
+[06:24] Ở đây nó sẽ liệt kê cho các bạn tất cả các cái kiểu đồ thị nhá, đấy.
+[06:26] các cái kiểu đồ thị nhá, đấy. Nó cũng giống như vậy thôi.
+[06:27] Nó cũng giống như vậy thôi. Đấy.
+[06:28] Đấy. Các bạn có thể tích chọn vào đây để các
+[06:30] Các bạn có thể tích chọn vào đây để các bạn xem là cái đồ thị nào mà nó phù hợp
+[06:32] bạn xem là cái đồ thị nào mà nó phù hợp với các bạn nhá, đấy.
+[06:34] với các bạn nhá, đấy. Thì ví dụ mình tích vào cái hình cột này
+[06:36] Thì ví dụ mình tích vào cái hình cột này đi, đấy, cái đầu tiên của hình cột này
+[06:37] đi, đấy, cái đầu tiên của hình cột này nhá. Hoặc các bạn vào cái phần recommend
+[06:40] nhá. Hoặc các bạn vào cái phần recommend đây này, đấy. Mình thấy cái phần
+[06:41] đây này, đấy. Mình thấy cái phần recommend cũng khá là hay rồi. Thông
+[06:43] recommend cũng khá là hay rồi. Thông thường người ta sẽ chọn cái mục
+[06:44] thường người ta sẽ chọn cái mục recommend. Các bạn có thể tích vào bất
+[06:46] recommend. Các bạn có thể tích vào bất kỳ cái kiểu đồ thị nào mà các bạn mong
+[06:48] kỳ cái kiểu đồ thị nào mà các bạn mong muốn nhá. Ví dụ mình tích vào đồ thị
+[06:49] muốn nhá. Ví dụ mình tích vào đồ thị hình cột nhưng mà nó sẽ nằm ngang này.
+[06:51] hình cột nhưng mà nó sẽ nằm ngang này. Các bạn sẽ bấm ok. Đấy, thì như vậy là
+[06:54] Các bạn sẽ bấm ok. Đấy, thì như vậy là mình đã được cái đồ thị
+[06:56] mình đã được cái đồ thị biểu diễn gì ạ? Doanh thu của các bạn
+[06:57] biểu diễn gì ạ? Doanh thu của các bạn nhân viên từ cái Excel 1 đến cái Excel
+[06:59] nhân viên từ cái Excel 1 đến cái Excel 5, các bạn thấy không? Đấy.
+[07:01] 5, các bạn thấy không? Đấy. Rất là hay ạ.
+[07:02] Rất là hay ạ. Mình sẽ giới thiệu một số cái thành phần
+[07:04] Mình sẽ giới thiệu một số cái thành phần nhá. Thì đầu tiên cái doanh thu ở đây ý
+[07:06] nhá. Thì đầu tiên cái doanh thu ở đây ý là cái tiêu đề, đấy. Các bạn có thể sửa
+[07:08] là cái tiêu đề, đấy. Các bạn có thể sửa cái tiêu đề này bằng cách gì ạ? Các bạn
+[07:09] cái tiêu đề này bằng cách gì ạ? Các bạn tích vào đây. Sau đó các bạn bôi đen vào
+[07:11] tích vào đây. Sau đó các bạn bôi đen vào các bạn sửa nhá. Đây ví dụ mình có thể
+[07:13] các bạn sửa nhá. Đây ví dụ mình có thể ghi là gì ạ? Doanh thu.
+[07:15] ghi là gì ạ? Doanh thu. Doanh thu nhân viên chẳng hạn thế nhá,
+[07:17] Doanh thu nhân viên chẳng hạn thế nhá, đấy, tùy các bạn. Các bạn có thể sửa
+[07:18] đấy, tùy các bạn. Các bạn có thể sửa nhá.
+[07:19] nhá. Hoặc là gì ạ? Các bạn có thể để công
+[07:22] Hoặc là gì ạ? Các bạn có thể để công thức cho cái phần tiêu đề. Các bạn sẽ
+[07:24] thức cho cái phần tiêu đề. Các bạn sẽ tích vào cái phần tiêu đề này này, sau
+[07:25] tích vào cái phần tiêu đề này này, sau đó các bạn lên cái thanh formula 3, các
+[07:27] đó các bạn lên cái thanh formula 3, các bạn sẽ gán bằng.
+[07:29] bạn sẽ gán bằng. Và các bạn có thể gán đến một cái ô nào
+[07:31] Và các bạn có thể gán đến một cái ô nào đấy. Ví dụ mình tích vào cái ô này đi,
+[07:33] đấy. Ví dụ mình tích vào cái ô này đi, là cái ô C5, đấy, các bạn enter.
+[07:35] là cái ô C5, đấy, các bạn enter. Thì như vậy là gì ạ?
+[07:36] Thì như vậy là gì ạ? Cái tiêu đề của cái đồ thị này nó sẽ lấy
+[07:39] Cái tiêu đề của cái đồ thị này nó sẽ lấy ở cái ô C5 này. Bây giờ ví dụ mình ghi ở
+[07:41] ở cái ô C5 này. Bây giờ ví dụ mình ghi ở đây là gì ạ?
+[07:42] đây là gì ạ? Đây là lợi nhuận chẳng hạn thế nhá. Ví
+[07:44] Đây là lợi nhuận chẳng hạn thế nhá. Ví dụ thôi.
+[07:46] dụ thôi. Các bạn enter.
+[07:47] Các bạn enter. Thì như vậy cái tiêu đề nó sẽ đổi thành
+[07:49] Thì như vậy cái tiêu đề nó sẽ đổi thành cái gì ạ? Lợi nhuận. Đấy, ví dụ mình
+[07:50] cái gì ạ? Lợi nhuận. Đấy, ví dụ mình undo đi.
+[07:53] undo đi. Tiếp theo là đây là cái trục dữ liệu của
+[07:54] Tiếp theo là đây là cái trục dữ liệu của mình nhá.
+[07:55] mình nhá. Thì đây là tên của các cái nhân viên.
+[07:58] Thì đây là tên của các cái nhân viên. Đấy, nó lại làm ngược lại, tức là từ cái
+[08:00] Đấy, nó lại làm ngược lại, tức là từ cái bạn cuối cùng đến cái bạn trên này. Bây
+[08:02] bạn cuối cùng đến cái bạn trên này. Bây giờ mình muốn đổi cái thứ tự này thì
+[08:04] giờ mình muốn đổi cái thứ tự này thì mình làm như thế nào?
+[08:05] mình làm như thế nào? Thì các bạn có thể tích đúp vào cái phần
+[08:07] Thì các bạn có thể tích đúp vào cái phần tên của các cái nhân viên này này.
+[08:09] tên của các cái nhân viên này này. Đấy. Các bạn có thể đóng lại. Hoặc là gì
+[08:11] Đấy. Các bạn có thể đóng lại. Hoặc là gì ạ? Các bạn sẽ tích vào tên các nhân viên
+[08:13] ạ? Các bạn sẽ tích vào tên các nhân viên và các bạn ấn phím tắt là Ctrl 1. Đấy,
+[08:16] và các bạn ấn phím tắt là Ctrl 1. Đấy, đấy là cái cách để mình hiện cái cửa sổ
+[08:18] đấy là cái cách để mình hiện cái cửa sổ format của cái vùng gì ạ? Vùng tên ở
+[08:21] format của cái vùng gì ạ? Vùng tên ở đây.
+[08:21] đây. Sau đó các bạn sẽ tích vào đây là cái gì
+[08:24] Sau đó các bạn sẽ tích vào đây là cái gì ạ? Axis Option đây này. Các bạn lăn
+[08:26] ạ? Axis Option đây này. Các bạn lăn xuống dưới nhá.
+[08:27] xuống dưới nhá. Đấy.
+[08:28] Đấy. Các bạn sẽ chọn cái phần gì ạ? Category
+[08:30] Các bạn sẽ chọn cái phần gì ạ? Category in reverse order. Đấy, các bạn tích vào
+[08:32] in reverse order. Đấy, các bạn tích vào đây. Đấy, các bạn thấy chưa? Thì lúc này
+[08:34] đây. Đấy, các bạn thấy chưa? Thì lúc này nó sẽ sắp xếp ngược lại từ gái sale 1
+[08:36] nó sẽ sắp xếp ngược lại từ gái sale 1 đến gì ạ? Đến gái sale 5. Đấy, các bạn
+[08:38] đến gì ạ? Đến gái sale 5. Đấy, các bạn thấy không? Rất là hay ạ.
+[08:39] thấy không? Rất là hay ạ. Đấy, mình có thể đóng cái này lại.
+[08:41] Đấy, mình có thể đóng cái này lại. Tiếp theo là gì ạ? Đây là các cái
+[08:44] Tiếp theo là gì ạ? Đây là các cái giá trị doanh thu của các bạn đây, đúng
+[08:46] giá trị doanh thu của các bạn đây, đúng không ạ? Nếu như các bạn tích vào một ô
+[08:48] không ạ? Nếu như các bạn tích vào một ô như lúc nãy ạ, các bạn tích vào đây ý
+[08:50] như lúc nãy ạ, các bạn tích vào đây ý thì nó sẽ lựa chọn toàn bộ gì ạ? Toàn bộ
+[08:52] thì nó sẽ lựa chọn toàn bộ gì ạ? Toàn bộ doanh thu của các bạn. Nếu các bạn tích
+[08:53] doanh thu của các bạn. Nếu các bạn tích thêm một lần nữa ấy thì nó sẽ lựa chọn
+[08:56] thêm một lần nữa ấy thì nó sẽ lựa chọn cái doanh thu của một cái bạn cụ thể ở
+[08:58] cái doanh thu của một cái bạn cụ thể ở đây. Đấy. Bây giờ ví dụ mình muốn tích
+[09:00] đây. Đấy. Bây giờ ví dụ mình muốn tích cái doanh thu của bạn gái sale 3 nhá.
+[09:01] cái doanh thu của bạn gái sale 3 nhá. Bây giờ mình sẽ sẽ thoát ra ngoài này.
+[09:03] Bây giờ mình sẽ sẽ thoát ra ngoài này. Nếu như các bạn muốn lựa chọn doanh thu
+[09:05] Nếu như các bạn muốn lựa chọn doanh thu của bạn gái sale 3, các bạn sẽ tích vào
+[09:06] của bạn gái sale 3, các bạn sẽ tích vào đây.
+[09:07] đây. Thì khi các bạn tích một lần ý thì nó sẽ
+[09:09] Thì khi các bạn tích một lần ý thì nó sẽ lựa chọn toàn bộ doanh thu của các cái
+[09:11] lựa chọn toàn bộ doanh thu của các cái nhân viên ở đây. Các bạn phải tích thêm
+[09:13] nhân viên ở đây. Các bạn phải tích thêm một lần nữa thì nó mới lựa chọn doanh
+[09:14] một lần nữa thì nó mới lựa chọn doanh thu của cái bạn gái sale 3 này. Đấy, đấy
+[09:17] thu của cái bạn gái sale 3 này. Đấy, đấy là cái cách mà mình sẽ lựa chọn. Nếu như
+[09:19] là cái cách mà mình sẽ lựa chọn. Nếu như các bạn muốn hiện cái giá trị của bạn
+[09:21] các bạn muốn hiện cái giá trị của bạn gái sale 3 nhá, các bạn có thể nháy
+[09:22] gái sale 3 nhá, các bạn có thể nháy chuột phải này. Các bạn sẽ chọn là Add
+[09:24] chuột phải này. Các bạn sẽ chọn là Add Data Label ở đây.
+[09:26] Data Label ở đây. Và các bạn chọn gì ạ? Add Data Label.
+[09:29] Và các bạn chọn gì ạ? Add Data Label. Đấy, thì như vậy là gì ạ? Nó sẽ hiện cái
+[09:31] Đấy, thì như vậy là gì ạ? Nó sẽ hiện cái giá trị của cái bạn gái sale 3 này.
+[09:34] giá trị của cái bạn gái sale 3 này. Ok, bây giờ giả sử mình muốn xóa cái gì
+[09:36] Ok, bây giờ giả sử mình muốn xóa cái gì ạ? Mình muốn xóa cái data label của cái
+[09:38] ạ? Mình muốn xóa cái data label của cái bạn gái sale 3 nhá. Thì các bạn chỉ cần
+[09:40] bạn gái sale 3 nhá. Thì các bạn chỉ cần tích vào đây này. Đấy, nó sẽ lựa chọn
+[09:42] tích vào đây này. Đấy, nó sẽ lựa chọn cái giá trị 24 ở đây chính là cái doanh
+[09:44] cái giá trị 24 ở đây chính là cái doanh thu của bạn gái sale 3 nhá. Các bạn sẽ
+[09:45] thu của bạn gái sale 3 nhá. Các bạn sẽ bấm delete đi. Đấy. Bây giờ giả sử mình
+[09:48] bấm delete đi. Đấy. Bây giờ giả sử mình muốn hiện doanh thu của toàn bộ các bạn
+[09:50] muốn hiện doanh thu của toàn bộ các bạn gái sale ở đây nhá. Thì các bạn sẽ tích
+[09:52] gái sale ở đây nhá. Thì các bạn sẽ tích vào doanh thu của một cái bạn bất kỳ.
+[09:54] vào doanh thu của một cái bạn bất kỳ. Đấy. Các bạn chỉ cần tích một lần thôi
+[09:56] Đấy. Các bạn chỉ cần tích một lần thôi thì nó sẽ lựa chọn toàn bộ doanh thu của
+[09:58] thì nó sẽ lựa chọn toàn bộ doanh thu của năm bạn gái sale ở đây. Các bạn sẽ nháy
+[10:00] năm bạn gái sale ở đây. Các bạn sẽ nháy chuột phải này. Các bạn sẽ chọn là add
+[10:02] chuột phải này. Các bạn sẽ chọn là add data label ở đây. Các bạn sẽ trỏ vào cái
+[10:04] data label ở đây. Các bạn sẽ trỏ vào cái nút tam giác này. Các bạn sẽ chọn gì ạ?
+[10:06] nút tam giác này. Các bạn sẽ chọn gì ạ? Add data label. Đấy. Thì như vậy là gì
+[10:08] Add data label. Đấy. Thì như vậy là gì ạ? Các cái doanh thu của bạn gái sale
+[10:11] ạ? Các cái doanh thu của bạn gái sale này nó sẽ add vào đây. Các bạn thấy
+[10:12] này nó sẽ add vào đây. Các bạn thấy không? Rất là hay ạ.
+[10:13] không? Rất là hay ạ. Các bạn sẽ tích vào doanh thu của một
+[10:15] Các bạn sẽ tích vào doanh thu của một bạn bất kỳ nhá. Thì nó sẽ lựa chọn doanh
+[10:16] bạn bất kỳ nhá. Thì nó sẽ lựa chọn doanh thu của toàn bộ các bạn. Các bạn tích
+[10:19] thu của toàn bộ các bạn. Các bạn tích thêm một lần nữa thì nó sẽ lựa chọn một
+[10:21] thêm một lần nữa thì nó sẽ lựa chọn một cái doanh thu cụ thể. Đấy. Đấy là cái
+[10:22] cái doanh thu cụ thể. Đấy. Đấy là cái các cái cách để mình sẽ lựa chọn nhá.
+[10:26] các cái cách để mình sẽ lựa chọn nhá. Bây giờ ví dụ mình tích vào doanh thu ở
+[10:27] Bây giờ ví dụ mình tích vào doanh thu ở đây. Sau đó các bạn nháy chuột phải này.
+[10:29] đây. Sau đó các bạn nháy chuột phải này. Các bạn sẽ chọn là format data label.
+[10:31] Các bạn sẽ chọn là format data label. Hoặc các bạn có thể gì ạ? Ấn phím tắt là
+[10:33] Hoặc các bạn có thể gì ạ? Ấn phím tắt là Ctrl 1 nhá.
+[10:35] Ctrl 1 nhá. Ví dụ mình bấm phím tắt là Ctrl 1 đi.
+[10:37] Ví dụ mình bấm phím tắt là Ctrl 1 đi. Đấy.
+[10:38] Đấy. Ở đây nhá, nó sẽ có một số cái tùy chọn
+[10:40] Ở đây nhá, nó sẽ có một số cái tùy chọn cho cái vị trí mà mình hiển thị cái giá
+[10:42] cho cái vị trí mà mình hiển thị cái giá trị ở đây. Đây là center này. Đấy, các
+[10:44] trị ở đây. Đây là center này. Đấy, các bạn sẽ tích vào các bạn nhìn thấy này.
+[10:45] bạn sẽ tích vào các bạn nhìn thấy này. Center là
+[10:47] Center là thì nó sẽ nằm ở giữa cái phần doanh thu
+[10:48] thì nó sẽ nằm ở giữa cái phần doanh thu này.
+[10:49] này. Inside end này. Đấy. Inside base tức là
+[10:52] Inside end này. Đấy. Inside base tức là sẽ gì ạ? Góc bên trái ở đây. Đấy. Thì
+[10:54] sẽ gì ạ? Góc bên trái ở đây. Đấy. Thì thông thường người ta hay chọn là inside
+[10:56] thông thường người ta hay chọn là inside base hoặc là gì ạ? Outside end. Đấy.
+[10:58] base hoặc là gì ạ? Outside end. Đấy. Các bạn có thể cho màu nhá. Ví dụ mình
+[11:00] Các bạn có thể cho màu nhá. Ví dụ mình sẽ chọn là gì ạ? Inside base. Đấy, mình
+[11:02] sẽ chọn là gì ạ? Inside base. Đấy, mình sẽ cho là gì ạ? Mình sẽ cho nó màu trắng
+[11:04] sẽ cho là gì ạ? Mình sẽ cho nó màu trắng đi.
+[11:05] đi. Mình sẽ tô đậm đi. Đấy.
+[11:07] Mình sẽ tô đậm đi. Đấy. Thì như vậy là gì ạ? Đây là các giá trị
+[11:09] Thì như vậy là gì ạ? Đây là các giá trị doanh thu của các bạn ở đây.
+[11:11] doanh thu của các bạn ở đây. Những cái đồ thị line này nhá là nó sẽ
+[11:13] Những cái đồ thị line này nhá là nó sẽ biểu diễn các cái gì ạ? Các cái đơn vị
+[11:15] biểu diễn các cái gì ạ? Các cái đơn vị cho các bạn dễ nhìn thôi. Đấy.
+[11:17] cho các bạn dễ nhìn thôi. Đấy. Bây giờ mình sẽ tích vào đây. Và các bạn
+[11:19] Bây giờ mình sẽ tích vào đây. Và các bạn bấm delete đi. Tức là mình sẽ xóa cái
+[11:21] bấm delete đi. Tức là mình sẽ xóa cái thanh dọc này đi. Mình thấy nhìn nó sẽ
+[11:22] thanh dọc này đi. Mình thấy nhìn nó sẽ đẹp hơn đấy.
+[11:24] đẹp hơn đấy. Ok. Tiếp theo là gì ạ? Các bạn sẽ nhìn
+[11:26] Ok. Tiếp theo là gì ạ? Các bạn sẽ nhìn vào cái dấu cộng này này. Nó sẽ có một
+[11:28] vào cái dấu cộng này này. Nó sẽ có một số cái tùy chọn cho các bạn. Đây là gì
+[11:30] số cái tùy chọn cho các bạn. Đây là gì ạ? Các bạn sẽ add thêm cái gì ạ? Cái
+[11:33] ạ? Các bạn sẽ add thêm cái gì ạ? Cái tiêu đề. Nếu như các bạn tích vào đây
+[11:35] tiêu đề. Nếu như các bạn tích vào đây thì các bạn sẽ tiêu đề cho cái vùng dữ
+[11:36] thì các bạn sẽ tiêu đề cho cái vùng dữ liệu ở đây này. Đấy, thì mình có thể
+[11:38] liệu ở đây này. Đấy, thì mình có thể đánh vào đây là gì ạ? Đấy, thì tùy các
+[11:40] đánh vào đây là gì ạ? Đấy, thì tùy các bạn nhá. Cái này mình nghĩ là không cần
+[11:42] bạn nhá. Cái này mình nghĩ là không cần thiết thì các bạn bỏ đi. Đấy.
+[11:44] thiết thì các bạn bỏ đi. Đấy. Đây là cái hiện data table. Khi các bạn
+[11:47] Đây là cái hiện data table. Khi các bạn trỏ vào ấy thì các bạn sẽ nhìn sang cái
+[11:49] trỏ vào ấy thì các bạn sẽ nhìn sang cái phần đồ thị nó sẽ có tương ứng để các
+[11:51] phần đồ thị nó sẽ có tương ứng để các bạn chọn nhá. Nếu như mình bỏ qua thì
+[11:52] bạn chọn nhá. Nếu như mình bỏ qua thì các bạn lại di chuột ra chỗ khác thôi.
+[11:54] các bạn lại di chuột ra chỗ khác thôi. Đấy. Đây là cái cách mà các bạn muốn
+[11:56] Đấy. Đây là cái cách mà các bạn muốn hiển thị. Đây là cái gridline lúc nãy
+[11:58] hiển thị. Đây là cái gridline lúc nãy mình xóa đi này. Nếu như các bạn muốn
+[11:59] mình xóa đi này. Nếu như các bạn muốn chọn lại nhá thì các bạn tích vào đây.
+[12:01] chọn lại nhá thì các bạn tích vào đây. Đấy, thì nó lại hiện lại cái gridline ở
+[12:03] Đấy, thì nó lại hiện lại cái gridline ở đây thôi ạ. Đấy. Đây là cái gì ạ? Cái
+[12:05] đây thôi ạ. Đấy. Đây là cái gì ạ? Cái legend, tức là cái doanh thu ở đây này.
+[12:07] legend, tức là cái doanh thu ở đây này. Mình cũng không cần thiết cái thì các
+[12:09] Mình cũng không cần thiết cái thì các bạn bỏ đi. Đấy.
+[12:10] bạn bỏ đi. Đấy. Đây là cái trend thôi.
+[12:12] Đây là cái trend thôi. Ok.
+[12:14] Ok. Các bạn sẽ đóng cái cửa sổ format này
+[12:15] Các bạn sẽ đóng cái cửa sổ format này lại nhá.
+[12:17] lại nhá. Bây giờ để xóa cái biểu đồ này thì các
+[12:19] Bây giờ để xóa cái biểu đồ này thì các bạn làm như thế nào? Các bạn sẽ nháy
+[12:20] bạn làm như thế nào? Các bạn sẽ nháy chuột phải vào biểu đồ. Các bạn chọn cắt
+[12:22] chuột phải vào biểu đồ. Các bạn chọn cắt đi là được. Đấy.
+[12:24] đi là được. Đấy. Cách thứ hai để mình vẽ biểu đồ nhá thì
+[12:26] Cách thứ hai để mình vẽ biểu đồ nhá thì các bạn có thể tích vào một ô bất kỳ
+[12:27] các bạn có thể tích vào một ô bất kỳ cũng được. Đấy, sau đó các bạn vào thẻ
+[12:29] cũng được. Đấy, sau đó các bạn vào thẻ insert. Và các bạn chọn một cái loại
+[12:31] insert. Và các bạn chọn một cái loại biểu đồ thôi. Đấy, ví dụ mình chọn cái
+[12:33] biểu đồ thôi. Đấy, ví dụ mình chọn cái biểu đồ hình cột này đi. Chọn cái đầu
+[12:35] biểu đồ hình cột này đi. Chọn cái đầu tiên này nhá. Đấy, các bạn thấy chưa?
+[12:37] tiên này nhá. Đấy, các bạn thấy chưa? Thì vì là gì ạ? Cái biểu đồ này mình vẽ
+[12:39] Thì vì là gì ạ? Cái biểu đồ này mình vẽ ở một cái ô trống đúng không? Thì nó sẽ
+[12:41] ở một cái ô trống đúng không? Thì nó sẽ không có cái dữ liệu gì cả, đúng không?
+[12:42] không có cái dữ liệu gì cả, đúng không? Đấy. Thì khi mà cái biểu đồ nó hiện ra
+[12:45] Đấy. Thì khi mà cái biểu đồ nó hiện ra đây ấy mà các bạn tích vào cái biểu đồ
+[12:47] đây ấy mà các bạn tích vào cái biểu đồ ấy thì các bạn sẽ thấy ở đây nó sẽ có
+[12:49] ấy thì các bạn sẽ thấy ở đây nó sẽ có thêm hai cái thẻ là thẻ design và thẻ
+[12:51] thêm hai cái thẻ là thẻ design và thẻ format. Bây giờ các bạn sẽ tích ra
+[12:53] format. Bây giờ các bạn sẽ tích ra ngoài. Đấy, các bạn thấy chưa? Không còn
+[12:55] ngoài. Đấy, các bạn thấy chưa? Không còn cái thẻ design và thẻ format nữa. Khi
+[12:57] cái thẻ design và thẻ format nữa. Khi các bạn tích vào cái phần biểu đồ ấy thì
+[12:59] các bạn tích vào cái phần biểu đồ ấy thì các bạn mới thấy được cái thẻ design và
+[13:00] các bạn mới thấy được cái thẻ design và thẻ format nhá. Đấy. Bây giờ các bạn sẽ
+[13:03] thẻ format nhá. Đấy. Bây giờ các bạn sẽ vào cái thẻ design này. Các bạn sẽ chọn
+[13:05] vào cái thẻ design này. Các bạn sẽ chọn là cái select data.
+[13:07] là cái select data. Hoặc các bạn sẽ nháy chuột phải và các
+[13:08] Hoặc các bạn sẽ nháy chuột phải và các bạn chọn là gì ạ? Chọn select data. Đấy.
+[13:11] bạn chọn là gì ạ? Chọn select data. Đấy. Thì một cái cửa sổ select data đã hiện
+[13:13] Thì một cái cửa sổ select data đã hiện ra, đúng không?
+[13:15] ra, đúng không? Các bạn có thể chọn cái add ở đây.
+[13:17] Các bạn có thể chọn cái add ở đây. Đấy, thì khi các bạn chọn add ở đây ấy
+[13:19] Đấy, thì khi các bạn chọn add ở đây ấy thì nó yêu cầu là gì ạ? Cái series name.
+[13:22] thì nó yêu cầu là gì ạ? Cái series name. Thì ví dụ mình chọn là cái doanh thu đi.
+[13:24] Thì ví dụ mình chọn là cái doanh thu đi. Đấy. Và cái giá trị của doanh thu bây
+[13:26] Đấy. Và cái giá trị của doanh thu bây giờ các bạn tích xuống dưới các bạn xóa
+[13:28] giờ các bạn tích xuống dưới các bạn xóa cái này đi.
+[13:29] cái này đi. Và các bạn sẽ chọn là cái vùng doanh thu
+[13:30] Và các bạn sẽ chọn là cái vùng doanh thu của các bạn. Đấy, các bạn sẽ bấm ok.
+[13:33] của các bạn. Đấy, các bạn sẽ bấm ok. Thì như vậy các bạn nhìn thấy là gì ạ?
+[13:35] Thì như vậy các bạn nhìn thấy là gì ạ? Đây cái phần đồ thị đây này.
+[13:37] Đây cái phần đồ thị đây này. Đây này, doanh thu đây này. Đấy. Bây giờ
+[13:39] Đây này, doanh thu đây này. Đấy. Bây giờ mình sẽ sửa nhá. Các bạn sẽ tích vào cái
+[13:41] mình sẽ sửa nhá. Các bạn sẽ tích vào cái phần edit ở đây là gì ạ? Thay vì mình
+[13:43] phần edit ở đây là gì ạ? Thay vì mình hiện các cái số từ 1 đến 5 này thì mình
+[13:45] hiện các cái số từ 1 đến 5 này thì mình sẽ hiện tên của các cái nhân viên tương
+[13:48] sẽ hiện tên của các cái nhân viên tương ứng đúng không? Các bạn sẽ tích vào edit
+[13:49] ứng đúng không? Các bạn sẽ tích vào edit ở đây.
+[13:50] ở đây. Đấy, nó sẽ hiện một cái cửa sổ là axis
+[13:52] Đấy, nó sẽ hiện một cái cửa sổ là axis label đúng không? Các bạn sẽ tích vào
+[13:54] label đúng không? Các bạn sẽ tích vào đây và các bạn sẽ bôi đen
+[13:55] đây và các bạn sẽ bôi đen danh sách nhân viên. Đấy, các bạn sẽ bấm
+[13:57] danh sách nhân viên. Đấy, các bạn sẽ bấm ok.
+[13:58] ok. Đấy, các bạn thấy chưa? Như vậy là gì ạ?
+[14:00] Đấy, các bạn thấy chưa? Như vậy là gì ạ? Nó đã hiện doanh thu của các cái nhân
+[14:02] Nó đã hiện doanh thu của các cái nhân viên này.
+[14:03] viên này. Đấy, rất là hay ạ.
+[14:04] Đấy, rất là hay ạ. Các bạn sẽ bấm ok.
+[14:06] Các bạn sẽ bấm ok. Đấy là cái cách nhá. Hoặc cách thứ hai
+[14:07] Đấy là cái cách nhá. Hoặc cách thứ hai là gì ạ? Các bạn có thể nháy chuột phải
+[14:08] là gì ạ? Các bạn có thể nháy chuột phải này. Các bạn chọn là select data.
+[14:11] này. Các bạn chọn là select data. Và các bạn lên cái phần chart data range
+[14:13] Và các bạn lên cái phần chart data range này. Nếu như các bạn xóa đi nhá.
+[14:19] Đấy, và các bạn có thể chọn toàn bộ cái vùng này.
+[14:20] vùng này. Các bạn bấm ok cũng được. Đấy là một cái
+[14:22] Các bạn bấm ok cũng được. Đấy là một cái cách khác nhá. Nó sẽ nhanh hơn.
+[14:25] cách khác nhá. Nó sẽ nhanh hơn. Ok, bây giờ giả sử mình muốn thêm một
+[14:27] Ok, bây giờ giả sử mình muốn thêm một cái dữ liệu khác là gì ạ? Bây giờ ví dụ
+[14:29] cái dữ liệu khác là gì ạ? Bây giờ ví dụ mình có một cái dữ liệu khác là kế hoạch
+[14:31] mình có một cái dữ liệu khác là kế hoạch chẳng hạn đi nhá.
+[14:32] chẳng hạn đi nhá. Đấy, đây là cái doanh thu mà đạt được
+[14:35] Đấy, đây là cái doanh thu mà đạt được còn đây là cái kế hoạch. Ví dụ, bạn này
+[14:37] còn đây là cái kế hoạch. Ví dụ, bạn này là 12 này. Bạn này là 35 này. Đấy, bạn
+[14:39] là 12 này. Bạn này là 35 này. Đấy, bạn này là 29 này.
+[14:41] này là 29 này. Thì tùy cái mục tiêu nhá. Ví dụ, bạn này
+[14:43] Thì tùy cái mục tiêu nhá. Ví dụ, bạn này là 15. Đấy, bạn này là 20 cơ. Đấy, bây
+[14:46] là 15. Đấy, bạn này là 20 cơ. Đấy, bây giờ mình muốn vẽ thêm cái đồ thị của cái
+[14:48] giờ mình muốn vẽ thêm cái đồ thị của cái phần kế hoạch thì các bạn làm như thế
+[14:50] phần kế hoạch thì các bạn làm như thế nào?
+[14:50] nào? Một cách rất đơn giản là cái gì ạ? Các
+[14:52] Một cách rất đơn giản là cái gì ạ? Các bạn sẽ tích vào cái phần biểu đồ ở đây.
+[14:54] bạn sẽ tích vào cái phần biểu đồ ở đây. Đấy. Khi các bạn tích vào cái phần biểu
+[14:56] Đấy. Khi các bạn tích vào cái phần biểu đồ đây này
+[14:57] đồ đây này thì các bạn thấy chưa? Cái vùng dữ liệu
+[14:58] thì các bạn thấy chưa? Cái vùng dữ liệu của mình nó được gì ạ? Được tô đậm này.
+[15:00] của mình nó được gì ạ? Được tô đậm này. Bây giờ các bạn chỉ cần di chuột vào
+[15:02] Bây giờ các bạn chỉ cần di chuột vào đây.
+[15:02] đây. Đấy, khi mà nó hiện cái gì ạ? Cái mũi
+[15:04] Đấy, khi mà nó hiện cái gì ạ? Cái mũi tên mà nó sẽ hơi chéo ra một tí này. Các
+[15:07] tên mà nó sẽ hơi chéo ra một tí này. Các bạn giữ chuột trái và các bạn kéo sang
+[15:08] bạn giữ chuột trái và các bạn kéo sang đây.
+[15:09] đây. Các bạn sẽ kéo sang phải để nó sẽ lựa
+[15:11] Các bạn sẽ kéo sang phải để nó sẽ lựa chọn thêm cái phần kế hoạch đây này.
+[15:12] chọn thêm cái phần kế hoạch đây này. Đấy, các bạn thấy chưa? Thì như vậy nó
+[15:14] Đấy, các bạn thấy chưa? Thì như vậy nó sẽ có hai cái dữ liệu. Cái xanh này là
+[15:17] sẽ có hai cái dữ liệu. Cái xanh này là doanh thu và cái vàng này là kế hoạch.
+[15:18] doanh thu và cái vàng này là kế hoạch. Đấy. Các bạn có thể tích vào cái dấu
+[15:20] Đấy. Các bạn có thể tích vào cái dấu cộng này nhá.
+[15:22] cộng này nhá. Đây này, các bạn sẽ chọn cái Legend ở
+[15:24] Đây này, các bạn sẽ chọn cái Legend ở đây. Đấy, các bạn sẽ tích vào đây thì
+[15:26] đây. Đấy, các bạn sẽ tích vào đây thì các bạn sẽ hiểu là gì ạ?
+[15:27] các bạn sẽ hiểu là gì ạ? Cái màu xanh là gì và màu vàng là gì?
+[15:29] Cái màu xanh là gì và màu vàng là gì? Các bạn sẽ tích vào cái Legend, các bạn
+[15:31] Các bạn sẽ tích vào cái Legend, các bạn tích vào cái tam giác đây này.
+[15:32] tích vào cái tam giác đây này. Các bạn muốn cái vị trí của cái Legend
+[15:34] Các bạn muốn cái vị trí của cái Legend này nó hiển thị, đây ví dụ mình cho là
+[15:36] này nó hiển thị, đây ví dụ mình cho là top đi. Đấy.
+[15:38] top đi. Đấy. Các bạn sẽ tích vào đây, các bạn có thể
+[15:39] Các bạn sẽ tích vào đây, các bạn có thể kéo sang một cái góc khác cũng được.
+[15:41] kéo sang một cái góc khác cũng được. Đấy. Nhìn nó sẽ đẹp hơn đúng không?
+[15:43] Đấy. Nhìn nó sẽ đẹp hơn đúng không? Thì như vậy các bạn sẽ biết được là gì
+[15:45] Thì như vậy các bạn sẽ biết được là gì ạ? Màu xanh là doanh thu và cái màu vàng
+[15:47] ạ? Màu xanh là doanh thu và cái màu vàng là kế hoạch. Đấy.
+[15:49] là kế hoạch. Đấy. Hoặc cái cách thứ hai là gì ạ? Bây giờ
+[15:50] Hoặc cái cách thứ hai là gì ạ? Bây giờ ví dụ mình ấn undo đi.
+[15:52] ví dụ mình ấn undo đi. Undo lại nhá.
+[15:54] Undo lại nhá. Đấy. Bây giờ mình muốn lựa chọn thêm cái
+[15:55] Đấy. Bây giờ mình muốn lựa chọn thêm cái vùng dữ liệu của cái kế hoạch nhá. Các
+[15:57] vùng dữ liệu của cái kế hoạch nhá. Các bạn có thể nháy chuột phải vào đây. Các
+[15:59] bạn có thể nháy chuột phải vào đây. Các bạn chọn gì ạ? Chọn
+[16:01] bạn chọn gì ạ? Chọn Select data. Đấy. Và các bạn gì ạ? Các
+[16:03] Select data. Đấy. Và các bạn gì ạ? Các bạn chỉ cần bấm thêm cái phím add này
+[16:05] bạn chỉ cần bấm thêm cái phím add này này. Đấy.
+[16:06] này. Đấy. Thì nó sẽ hiện một cái cửa sổ là edit
+[16:08] Thì nó sẽ hiện một cái cửa sổ là edit series nhá. Các bạn sẽ tích thêm vào cái
+[16:10] series nhá. Các bạn sẽ tích thêm vào cái mục gì ạ? Mình muốn hiển thị cái phần kế
+[16:12] mục gì ạ? Mình muốn hiển thị cái phần kế hoạch này.
+[16:13] hoạch này. Cái phần value các bạn xóa đi và các bạn
+[16:15] Cái phần value các bạn xóa đi và các bạn sẽ lựa chọn toàn bộ lại cái phần kế
+[16:16] sẽ lựa chọn toàn bộ lại cái phần kế hoạch ở đây. Các bạn sẽ bấm ok.
+[16:19] hoạch ở đây. Các bạn sẽ bấm ok. Đấy, các bạn thấy chưa?
+[16:20] Đấy, các bạn thấy chưa? Đây, nó sẽ cũng ra cái kết quả tương tự.
+[16:22] Đây, nó sẽ cũng ra cái kết quả tương tự. Đấy, rất là hay ạ.
+[16:24] Đấy, rất là hay ạ. Mình sẽ tích vào đây, các bạn sẽ tích
+[16:26] Mình sẽ tích vào đây, các bạn sẽ tích thêm cái Legend ở đây.
+[16:27] thêm cái Legend ở đây. Các bạn sẽ tích vào cái tam giác này
+[16:28] Các bạn sẽ tích vào cái tam giác này nhá. Mình sẽ chọn ở top đi. Hoặc là
+[16:31] nhá. Mình sẽ chọn ở top đi. Hoặc là bottom ở dưới đi. Đấy.
+[16:33] bottom ở dưới đi. Đấy. Thì tùy các bạn muốn hiện cái
+[16:36] Thì tùy các bạn muốn hiện cái tên của các cái biểu đồ này. Doanh thu
+[16:37] tên của các cái biểu đồ này. Doanh thu là màu xanh và gì ạ? Màu cam là kế
+[16:39] là màu xanh và gì ạ? Màu cam là kế hoạch. Đấy, các bạn có thể tích vào cái
+[16:41] hoạch. Đấy, các bạn có thể tích vào cái phần kế hoạch này nhá. Các bạn có thể
+[16:43] phần kế hoạch này nhá. Các bạn có thể đổi cái màu cho nó cũng được nhá. Đấy.
+[16:46] đổi cái màu cho nó cũng được nhá. Đấy. Có nhiều cách để đổi màu, ví dụ thông
+[16:47] Có nhiều cách để đổi màu, ví dụ thông thường các bạn sẽ tích vào đây và các
+[16:48] thường các bạn sẽ tích vào đây và các bạn sẽ chọn luôn cái fill là màu gì.
+[16:51] bạn sẽ chọn luôn cái fill là màu gì. Đấy, thì tùy các bạn nhá. Nếu như mà các
+[16:52] Đấy, thì tùy các bạn nhá. Nếu như mà các bạn không thích cái màu này thì các bạn
+[16:54] bạn không thích cái màu này thì các bạn sẽ đổi sang màu khác. Đấy.
+[16:56] sẽ đổi sang màu khác. Đấy. Ví dụ mình cho là màu à này đi.
+[16:59] Ví dụ mình cho là màu à này đi. Đấy, đấy là cái cách để các bạn đổi màu
+[17:01] Đấy, đấy là cái cách để các bạn đổi màu nhá.
+[17:02] nhá. Bây giờ các bạn sẽ tích vào cái đồ thị
+[17:03] Bây giờ các bạn sẽ tích vào cái đồ thị này. Đấy, các bạn sẽ vào cái thẻ design.
+[17:06] này. Đấy, các bạn sẽ vào cái thẻ design. Trong này nó sẽ có một số cái kiểu chart
+[17:08] Trong này nó sẽ có một số cái kiểu chart title nhá.
+[17:09] title nhá. Thì các bạn xem cái phần gì ạ? Các bạn
+[17:11] Thì các bạn xem cái phần gì ạ? Các bạn nhìn cái phần nào mà các bạn muốn. Đấy.
+[17:14] nhìn cái phần nào mà các bạn muốn. Đấy. Nó sẽ có một số cái mẫu hoặc các bạn
+[17:15] Nó sẽ có một số cái mẫu hoặc các bạn tích vào đây thì nó sẽ có nhiều mẫu cho
+[17:17] tích vào đây thì nó sẽ có nhiều mẫu cho các bạn. Và các bạn nhìn cái đồ thị nào
+[17:19] các bạn. Và các bạn nhìn cái đồ thị nào mà các bạn thấy hợp ấy, thì các bạn chọn
+[17:21] mà các bạn thấy hợp ấy, thì các bạn chọn nhá. Đây ví dụ mình thấy cái này cũng
+[17:23] nhá. Đây ví dụ mình thấy cái này cũng khá là hay, thì các bạn sẽ tích vào đây.
+[17:25] khá là hay, thì các bạn sẽ tích vào đây. Đấy, thì tùy các bạn nhá.
+[17:27] Đấy, thì tùy các bạn nhá. Các bạn sẽ tích đúp vào cái phần đồ thị
+[17:28] Các bạn sẽ tích đúp vào cái phần đồ thị này.
+[17:30] này. Đấy, thì nó sẽ hiện một cái cửa sổ
+[17:31] Đấy, thì nó sẽ hiện một cái cửa sổ format chart area.
+[17:33] format chart area. Thì các bạn chú ý nhá, mình sẽ giới
+[17:34] Thì các bạn chú ý nhá, mình sẽ giới thiệu qua về cái format này. Thì đầu
+[17:37] thiệu qua về cái format này. Thì đầu tiên là cái chart option nhá, các bạn sẽ
+[17:38] tiên là cái chart option nhá, các bạn sẽ tích vào đây.
+[17:39] tích vào đây. Thì trong cái chart option này ấy, nhiều
+[17:41] Thì trong cái chart option này ấy, nhiều bạn không biết đâu, là gì ạ? Các bạn có
+[17:43] bạn không biết đâu, là gì ạ? Các bạn có thể lựa chọn các cái thành phần
+[17:45] thể lựa chọn các cái thành phần của cái phần biểu đồ. Ví dụ mình chọn
+[17:47] của cái phần biểu đồ. Ví dụ mình chọn vào cái này đi. Đấy, các bạn thấy chưa?
+[17:49] vào cái này đi. Đấy, các bạn thấy chưa? Thì nó là gì ạ? Nó sẽ bôi đen các cái
+[17:50] Thì nó là gì ạ? Nó sẽ bôi đen các cái tên này.
+[17:51] tên này. Hoặc là các bạn tích vào đây, các bạn
+[17:53] Hoặc là các bạn tích vào đây, các bạn muốn lựa chọn ví dụ cái legend ở đây,
+[17:55] muốn lựa chọn ví dụ cái legend ở đây, chính là gì ạ? Chính là cái
+[17:57] chính là gì ạ? Chính là cái tên này, doanh thu và kế hoạch ở đây.
+[17:59] tên này, doanh thu và kế hoạch ở đây. Đấy, đây đây là cái cách để các bạn có
+[18:00] Đấy, đây đây là cái cách để các bạn có thể lựa chọn. Ví dụ mình chọn toàn bộ
+[18:02] thể lựa chọn. Ví dụ mình chọn toàn bộ cái phần doanh thu nhá. Đấy, các bạn
+[18:03] cái phần doanh thu nhá. Đấy, các bạn thấy chưa? Như vậy cái biểu đồ doanh thu
+[18:05] thấy chưa? Như vậy cái biểu đồ doanh thu đã được lựa chọn này. Đấy, đây là cái
+[18:07] đã được lựa chọn này. Đấy, đây là cái cách để mình sẽ lựa chọn các cái thành
+[18:08] cách để mình sẽ lựa chọn các cái thành phần của cái biểu đồ.
+[18:10] phần của cái biểu đồ. Bây giờ ví dụ mình lựa chọn là cái kế
+[18:11] Bây giờ ví dụ mình lựa chọn là cái kế hoạch đi. Đấy, các bạn thấy chưa? Cái kế
+[18:13] hoạch đi. Đấy, các bạn thấy chưa? Cái kế hoạch này.
+[18:20] Cái phần gap width ở đây này, các bạn có thể
+[18:21] thể thu nhỏ lại là gì ạ? Nó sẽ co nhỏ cái độ
+[18:23] thu nhỏ lại là gì ạ? Nó sẽ co nhỏ cái độ rộng gì ạ? Giữa hai cái khoảng trống của
+[18:25] rộng gì ạ? Giữa hai cái khoảng trống của các cái nhân viên ở đây. Đấy, nếu như
+[18:27] các cái nhân viên ở đây. Đấy, nếu như các bạn về nhỏ nhất là 0 ấy, thì nó sẽ
+[18:29] các bạn về nhỏ nhất là 0 ấy, thì nó sẽ dính chặt vào nhau. Thì nó khá là xấu
+[18:31] dính chặt vào nhau. Thì nó khá là xấu đúng không? Mình sẽ để nó một khoảng
+[18:33] đúng không? Mình sẽ để nó một khoảng rộng nhất định. Đấy, thì tùy các bạn
+[18:35] rộng nhất định. Đấy, thì tùy các bạn nhá. Các bạn thích cái khoảng rộng giữa
+[18:37] nhá. Các bạn thích cái khoảng rộng giữa hai cái vạch, thì mình sẽ co giãn cái
+[18:39] hai cái vạch, thì mình sẽ co giãn cái gap width này nhá.
+[18:41] gap width này nhá. Ok, bây giờ mình có thể thay đổi cái
+[18:43] Ok, bây giờ mình có thể thay đổi cái kiểu đồ thị nhá. Đấy, thì mình đã lựa
+[18:46] kiểu đồ thị nhá. Đấy, thì mình đã lựa chọn cái cột kế hoạch ở đây. Đấy, bây
+[18:49] chọn cái cột kế hoạch ở đây. Đấy, bây giờ mình muốn biểu diễn lại cái kiểu đồ
+[18:51] giờ mình muốn biểu diễn lại cái kiểu đồ thị của cái phần kế hoạch này nhá. Các
+[18:52] thị của cái phần kế hoạch này nhá. Các bạn sẽ nháy chuột phải vào một cái cột
+[18:54] bạn sẽ nháy chuột phải vào một cái cột kế hoạch bất kỳ này.
+[18:55] kế hoạch bất kỳ này. Các bạn sẽ chọn gì ạ? Các bạn sẽ chọn
+[18:56] Các bạn sẽ chọn gì ạ? Các bạn sẽ chọn cái change series chart type.
+[18:59] cái change series chart type. Đấy, tức là mình sẽ thay đổi cái kiểu đồ
+[19:00] Đấy, tức là mình sẽ thay đổi cái kiểu đồ thị của cái phần kế hoạch thôi đúng
+[19:02] thị của cái phần kế hoạch thôi đúng không?
+[19:03] không? Thì nó sẽ vào cái phần combo đây, tức là
+[19:04] Thì nó sẽ vào cái phần combo đây, tức là nó sẽ kết hợp đúng không? Các bạn sẽ
+[19:06] nó sẽ kết hợp đúng không? Các bạn sẽ tích vào cái kế hoạch ở đây. Đấy.
+[19:09] tích vào cái kế hoạch ở đây. Đấy. Thì đây các bạn chú ý nhá, cái phần này
+[19:10] Thì đây các bạn chú ý nhá, cái phần này ấy, nó chỉ có từ cái Excel 2016 trở về
+[19:13] ấy, nó chỉ có từ cái Excel 2016 trở về sau thôi, tức là 2016 hoặc 2019 thôi,
+[19:15] sau thôi, tức là 2016 hoặc 2019 thôi, hoặc Office 365 nhá. Còn nếu như các bạn
+[19:18] hoặc Office 365 nhá. Còn nếu như các bạn dùng 2013 ấy thì nó sẽ không có cái này.
+[19:20] dùng 2013 ấy thì nó sẽ không có cái này. Thì các bạn phải dùng các cái cách khác
+[19:21] Thì các bạn phải dùng các cái cách khác nhá.
+[19:22] nhá. Đấy, thì các bạn sẽ thay đổi này, ví dụ
+[19:24] Đấy, thì các bạn sẽ thay đổi này, ví dụ mình sẽ chọn vào đây. Các bạn sẽ chọn
+[19:26] mình sẽ chọn vào đây. Các bạn sẽ chọn cái kiểu đồ thị, ví dụ mình chọn là line
+[19:28] cái kiểu đồ thị, ví dụ mình chọn là line đi.
+[19:29] đi. Đấy. Thì các bạn thấy chưa? Như vậy là
+[19:31] Đấy. Thì các bạn thấy chưa? Như vậy là cái gì ạ? Cái thực hiện là cái hộ đồ thị
+[19:33] cái gì ạ? Cái thực hiện là cái hộ đồ thị cột, còn cái kế hoạch là cái hình line
+[19:35] cột, còn cái kế hoạch là cái hình line này. Đấy, các bạn sẽ bấm ok.
+[19:38] này. Đấy, các bạn sẽ bấm ok. Đấy. Bây giờ các bạn sẽ tích vào gì ạ?
+[19:40] Đấy. Bây giờ các bạn sẽ tích vào gì ạ? Bây giờ mình sẽ tích vào cái line này
+[19:41] Bây giờ mình sẽ tích vào cái line này nhá. Đấy.
+[19:43] nhá. Đấy. Các bạn sẽ vào cái phần gì ạ? Đây là
+[19:45] Các bạn sẽ vào cái phần gì ạ? Đây là fill and line này.
+[19:47] fill and line này. Bây giờ là các bạn sẽ tích vào cái gì ạ?
+[19:48] Bây giờ là các bạn sẽ tích vào cái gì ạ? Bây giờ mình không muốn hiện cái line
+[19:49] Bây giờ mình không muốn hiện cái line đâu nhá, các bạn sẽ tích vào cái no
+[19:51] đâu nhá, các bạn sẽ tích vào cái no line.
+[19:51] line. Và các bạn sẽ chọn cái marker, tức là
+[19:53] Và các bạn sẽ chọn cái marker, tức là mình sẽ biểu diễn.
+[19:55] mình sẽ biểu diễn. Đây, các bạn sẽ tích vào cái marker
+[19:56] Đây, các bạn sẽ tích vào cái marker option này.
+[19:58] option này. Bây giờ mình sẽ gì ạ? Build in này. Đây,
+[20:00] Bây giờ mình sẽ gì ạ? Build in này. Đây, bây giờ mình sẽ chọn, ví dụ mình chọn
+[20:02] bây giờ mình sẽ chọn, ví dụ mình chọn cái gạch ngang này đi.
+[20:07] Mình cho cái size nó lớn lên một tí, cỡ 10 chẳng hạn thế nhá. Đây, các bạn thấy
+[20:08] 10 chẳng hạn thế nhá. Đây, các bạn thấy chưa? Khá là hay rồi đúng không? Đấy.
+[20:11] chưa? Khá là hay rồi đúng không? Đấy. Bây giờ mình sẽ đóng cái này lại.
+[20:13] Bây giờ mình sẽ đóng cái này lại. Như vậy cái phần thực hiện là cái phần
+[20:15] Như vậy cái phần thực hiện là cái phần cột này, còn cái doanh thu là cái gạch
+[20:16] cột này, còn cái doanh thu là cái gạch ngang này. Các bạn nhìn thấy không? Rất
+[20:17] ngang này. Các bạn nhìn thấy không? Rất là đẹp. Bây giờ các bạn sẽ tích vào cái
+[20:19] là đẹp. Bây giờ các bạn sẽ tích vào cái value của cái phần kế hoạch nhá. Các bạn
+[20:21] value của cái phần kế hoạch nhá. Các bạn chỉ cần tích vào một cái thôi thì nó sẽ
+[20:23] chỉ cần tích vào một cái thôi thì nó sẽ gì ạ? Lựa chọn toàn bộ ở đây. Đấy. Các
+[20:25] gì ạ? Lựa chọn toàn bộ ở đây. Đấy. Các bạn sẽ nháy chuột phải này, các bạn chọn
+[20:27] bạn sẽ nháy chuột phải này, các bạn chọn gì ạ? Format data label. Đấy. Bây giờ
+[20:30] gì ạ? Format data label. Đấy. Bây giờ mình sẽ vào cái vị trí, ví dụ mình cho
+[20:32] mình sẽ vào cái vị trí, ví dụ mình cho cái above đi.
+[20:33] cái above đi. Đấy.
+[20:34] Đấy. Bây giờ mình sẽ không để màu trắng nữa
+[20:36] Bây giờ mình sẽ không để màu trắng nữa nhá. Mình sẽ lại cho, mình sẽ cho về nó
+[20:38] nhá. Mình sẽ lại cho, mình sẽ cho về nó về màu đen đi. Các bạn sẽ vào cái thẻ
+[20:39] về màu đen đi. Các bạn sẽ vào cái thẻ home.
+[20:40] home. Mình sẽ cho nó là màu đen đi, automatic
+[20:42] Mình sẽ cho nó là màu đen đi, automatic này. Đấy. Bây giờ lại, các bạn lại tích
+[20:44] này. Đấy. Bây giờ lại, các bạn lại tích vào cái value của cái phần doanh thu ở
+[20:46] vào cái value của cái phần doanh thu ở đây.
+[20:47] đây. Đấy, các bạn sẽ gì ạ? Các bạn sẽ lăn
+[20:49] Đấy, các bạn sẽ gì ạ? Các bạn sẽ lăn xuống này. Các bạn sẽ cho ở cái chỗ là
+[20:51] xuống này. Các bạn sẽ cho ở cái chỗ là gì ạ?
+[20:52] gì ạ? Inside bar đi. Đấy.
+[20:54] Inside bar đi. Đấy. Các bạn sẽ close này lại. Đấy. Các bạn
+[20:56] Các bạn sẽ close này lại. Đấy. Các bạn nhìn thấy không? Khá là hay ạ.
+[20:58] nhìn thấy không? Khá là hay ạ. Thì như vậy là gì ạ? Doanh thu thực hiện
+[21:00] Thì như vậy là gì ạ? Doanh thu thực hiện nó sẽ nằm ở dưới này. Đây là cái kế
+[21:02] nó sẽ nằm ở dưới này. Đây là cái kế hoạch.
+[21:03] hoạch. Đấy, nhìn nó rất là đẹp rồi đúng không?
+[21:04] Đấy, nhìn nó rất là đẹp rồi đúng không? Đấy. Đây Đây là một số cái cách thông
+[21:07] Đấy. Đây Đây là một số cái cách thông thường để mình vẽ biểu đồ nhá.
+[21:09] thường để mình vẽ biểu đồ nhá. Sang cái ví dụ thứ hai, bây giờ mình sẽ
+[21:11] Sang cái ví dụ thứ hai, bây giờ mình sẽ đóng cái này lại. Các bạn nhớ chuột phải
+[21:12] đóng cái này lại. Các bạn nhớ chuột phải các bạn cắt đi.
+[21:14] các bạn cắt đi. Bây giờ sang ví dụ thứ hai là gì ạ? Mình
+[21:15] Bây giờ sang ví dụ thứ hai là gì ạ? Mình sẽ vẽ biểu đồ là gì? Đây là theo năm
+[21:17] sẽ vẽ biểu đồ là gì? Đây là theo năm này.
+[21:18] này. Đấy, đây là theo quý và đây là kế hoạch,
+[21:20] Đấy, đây là theo quý và đây là kế hoạch, đây là đã thực hiện nhá.
+[21:22] đây là đã thực hiện nhá. Thì các bạn cũng rất là đơn giản, các
+[21:23] Thì các bạn cũng rất là đơn giản, các bạn bôi đen toàn bộ cái vùng dữ liệu.
+[21:25] bạn bôi đen toàn bộ cái vùng dữ liệu. Đấy, các bạn vào thẻ insert. Và các bạn
+[21:27] Đấy, các bạn vào thẻ insert. Và các bạn chọn một số cái kiểu đồ thị mà các bạn
+[21:29] chọn một số cái kiểu đồ thị mà các bạn mong muốn nhá. Thì tốt nhất ấy là các
+[21:31] mong muốn nhá. Thì tốt nhất ấy là các bạn chưa thành thạo ấy thì các bạn sẽ
+[21:33] bạn chưa thành thạo ấy thì các bạn sẽ tích vào cái phần recommend ở đây.
+[21:35] tích vào cái phần recommend ở đây. Đấy.
+[21:36] Đấy. Thì nó sẽ có một số cái kiểu đồ thị mẫu
+[21:38] Thì nó sẽ có một số cái kiểu đồ thị mẫu để các bạn chọn.
+[21:39] để các bạn chọn. Đấy, cái nào phù hợp thì các bạn chọn
+[21:40] Đấy, cái nào phù hợp thì các bạn chọn nhá. Đây, ví dụ mình chọn vào cái này
+[21:42] nhá. Đây, ví dụ mình chọn vào cái này đi, mình thấy khá là đẹp này. Các bạn sẽ
+[21:44] đi, mình thấy khá là đẹp này. Các bạn sẽ bấm ok.
+[21:45] bấm ok. Đấy.
+[21:47] Đấy. Thì đây, các bạn thấy chưa? Đây nó sẽ
+[21:49] Thì đây, các bạn thấy chưa? Đây nó sẽ chia thành các cái ngăn. Ví dụ năm 2018
+[21:51] chia thành các cái ngăn. Ví dụ năm 2018 là một ngăn này, 2019 là một ngăn và
+[21:55] là một ngăn này, 2019 là một ngăn và đây là đây là 2020 chứ ạ? Mình sẽ sửa
+[21:57] đây là đây là 2020 chứ ạ? Mình sẽ sửa lại này.
+[21:58] lại này. Đấy, thì 2020 là một ngăn. Đấy, các bạn
+[22:00] Đấy, thì 2020 là một ngăn. Đấy, các bạn thấy không? Rất là đẹp luôn.
+[22:02] thấy không? Rất là đẹp luôn. Bây giờ các bạn sẽ nhấp tích vào một cái
+[22:04] Bây giờ các bạn sẽ nhấp tích vào một cái cột bất kỳ ở đây nhá, mình sẽ co cái
+[22:06] cột bất kỳ ở đây nhá, mình sẽ co cái phần độ rộng này lại. Nhìn nó sẽ đẹp hơn
+[22:08] phần độ rộng này lại. Nhìn nó sẽ đẹp hơn này. Đấy. Các bạn sẽ tích đúp nhá hoặc
+[22:11] này. Đấy. Các bạn sẽ tích đúp nhá hoặc các bạn ấn Ctrl 1 cũng được. Thì bây giờ
+[22:13] các bạn ấn Ctrl 1 cũng được. Thì bây giờ ví dụ mình ấn Ctrl 1 nhá. Đấy, thì nó sẽ
+[22:15] ví dụ mình ấn Ctrl 1 nhá. Đấy, thì nó sẽ hiện cái cửa sổ format lên và các bạn gì
+[22:17] hiện cái cửa sổ format lên và các bạn gì ạ?
+[22:17] ạ? Các bạn giảm cái này đi để nó gì ạ? Nó
+[22:20] Các bạn giảm cái này đi để nó gì ạ? Nó cái độ rộng của cái cột này nó sẽ to ra,
+[22:22] cái độ rộng của cái cột này nó sẽ to ra, tức là cái khoảng cách gì ạ? Giữa các
+[22:23] tức là cái khoảng cách gì ạ? Giữa các giá trị nó sẽ co lại. Đấy.
+[22:26] giá trị nó sẽ co lại. Đấy. Mình sẽ giảm cái này đi.
+[22:28] Mình sẽ giảm cái này đi. Đấy, các bạn sẽ chỉnh đến một cái giá
+[22:30] Đấy, các bạn sẽ chỉnh đến một cái giá trị mà các bạn thấy hợp lý là được. Đấy.
+[22:32] trị mà các bạn thấy hợp lý là được. Đấy. Các bạn thấy không? Nó khá là hay rồi ạ.
+[22:34] Các bạn thấy không? Nó khá là hay rồi ạ. Đấy, và các bạn sẽ chỉnh. Ví dụ các bạn
+[22:36] Đấy, và các bạn sẽ chỉnh. Ví dụ các bạn có thể add thêm value hoặc các bạn sẽ
+[22:37] có thể add thêm value hoặc các bạn sẽ đổi cái tiêu đề. Ví dụ mình tích vào đây
+[22:39] đổi cái tiêu đề. Ví dụ mình tích vào đây mình sửa tiêu đề là gì ạ?
+[22:40] mình sửa tiêu đề là gì ạ? Đây là doanh thu
+[22:42] Đây là doanh thu theo năm chẳng hạn thế nhá.
+[22:43] theo năm chẳng hạn thế nhá. Đấy, ví dụ thôi ạ.
+[22:46] Đấy, ví dụ thôi ạ. Cái phần này các bạn có thể di ra đâu
+[22:48] Cái phần này các bạn có thể di ra đâu cũng được ạ. Đấy, các bạn có thể di sang
+[22:49] cũng được ạ. Đấy, các bạn có thể di sang góc này. Thì tùy các bạn nhá.
+[22:52] góc này. Thì tùy các bạn nhá. Bây giờ giả sử mình có thêm một cái dữ
+[22:54] Bây giờ giả sử mình có thêm một cái dữ liệu mới nhá là cái gì ạ? Cái phần trăm
+[22:56] liệu mới nhá là cái gì ạ? Cái phần trăm hoàn thành đi. Đấy, phần trăm hoàn
+[22:57] hoàn thành đi. Đấy, phần trăm hoàn thành. Đấy, phần trăm hoàn thành sẽ bằng
+[23:00] thành. Đấy, phần trăm hoàn thành sẽ bằng gì? Bằng cái thực hiện này, các bạn chia
+[23:03] gì? Bằng cái thực hiện này, các bạn chia cho gì? Chia cho kế hoạch. Các bạn
+[23:04] cho gì? Chia cho kế hoạch. Các bạn enter.
+[23:05] enter. Đấy. Các bạn tích vào đây, sau đó các
+[23:06] Đấy. Các bạn tích vào đây, sau đó các bạn tích đúp này.
+[23:08] bạn tích đúp này. Mình sẽ gì ạ? Mình sẽ vào thẻ home, mình
+[23:10] Mình sẽ gì ạ? Mình sẽ vào thẻ home, mình để dưới dạng phần trăm đi.
+[23:11] để dưới dạng phần trăm đi. Bây giờ mình muốn dữ liệu của cái phần
+[23:13] Bây giờ mình muốn dữ liệu của cái phần trăm hoàn thành mình sẽ add thêm vào cái
+[23:15] trăm hoàn thành mình sẽ add thêm vào cái biểu đồ này thì mình làm như thế nào?
+[23:16] biểu đồ này thì mình làm như thế nào? Đấy. Thì cũng rất là đơn giản thôi. Các
+[23:18] Đấy. Thì cũng rất là đơn giản thôi. Các bạn có thể nháy chuột phải này.
+[23:20] bạn có thể nháy chuột phải này. Đấy, các bạn có thể chọn select data
+[23:21] Đấy, các bạn có thể chọn select data hoặc gì ạ? Các bạn sẽ tích vào cái biểu
+[23:23] hoặc gì ạ? Các bạn sẽ tích vào cái biểu đồ này. Và các bạn kéo sang đây thôi.
+[23:25] đồ này. Và các bạn kéo sang đây thôi. Đấy. Thì như vậy các bạn chú ý nhá. Vì
+[23:27] Đấy. Thì như vậy các bạn chú ý nhá. Vì cái hoàn thành của mình ở đây rất là nhỏ
+[23:29] cái hoàn thành của mình ở đây rất là nhỏ đúng không? So với cả cái giá trị mà kế
+[23:31] đúng không? So với cả cái giá trị mà kế hoạch và đã thực hiện. Thì cái hoàn
+[23:33] hoạch và đã thực hiện. Thì cái hoàn thành nó đều là nhỏ hơn một chẳng hạn
+[23:34] thành nó đều là nhỏ hơn một chẳng hạn thế nhá. Thì nó sẽ tít ở dưới này cơ.
+[23:36] thế nhá. Thì nó sẽ tít ở dưới này cơ. Các bạn thấy chưa? Đấy. Bây giờ làm sao
+[23:38] Các bạn thấy chưa? Đấy. Bây giờ làm sao để lựa chọn được cái gì ạ? Cái hoàn
+[23:39] để lựa chọn được cái gì ạ? Cái hoàn thành ở đây rất là khó lựa chọn đúng
+[23:41] thành ở đây rất là khó lựa chọn đúng không?
+[23:41] không? Thì các bạn sẽ tích đúp vào cái biểu đồ
+[23:43] Thì các bạn sẽ tích đúp vào cái biểu đồ này. Và các bạn sẽ chọn cái chart option
+[23:45] này. Và các bạn sẽ chọn cái chart option ở đây. Và các bạn sẽ chọn cái phần trăm
+[23:47] ở đây. Và các bạn sẽ chọn cái phần trăm hoàn thành ở đây này. Đấy. Thì như vậy
+[23:49] hoàn thành ở đây này. Đấy. Thì như vậy tất cả cái phần trăm hoàn thành đã được
+[23:50] tất cả cái phần trăm hoàn thành đã được gì ạ? Lựa chọn rồi.
+[23:52] gì ạ? Lựa chọn rồi. Bây giờ mình sẽ biểu diễn cái phần trăm
+[23:53] Bây giờ mình sẽ biểu diễn cái phần trăm hoàn thành dưới dạng cái cột phụ. Các
+[23:55] hoàn thành dưới dạng cái cột phụ. Các bạn hiểu không ạ? Tức là gì ạ? Mình sẽ
+[23:57] bạn hiểu không ạ? Tức là gì ạ? Mình sẽ lựa chọn nó. Để biểu diễn ở một cái trục
+[24:00] lựa chọn nó. Để biểu diễn ở một cái trục khác nhá. Trục phụ đấy.
+[24:01] khác nhá. Trục phụ đấy. Đấy. Bây giờ mình sẽ vào lại này. Các
+[24:03] Đấy. Bây giờ mình sẽ vào lại này. Các bạn chọn gì? Phần trăm hoàn thành. Đấy.
+[24:05] bạn chọn gì? Phần trăm hoàn thành. Đấy. Các bạn sẽ tích vào đây là gì ạ? Series
+[24:07] Các bạn sẽ tích vào đây là gì ạ? Series option này. Đấy, các bạn thấy chưa? Mình
+[24:10] option này. Đấy, các bạn thấy chưa? Mình sẽ lựa chọn cái trục phụ ở đây. Là cái
+[24:12] sẽ lựa chọn cái trục phụ ở đây. Là cái trục thứ hai này. Và gì ạ? Các bạn thấy
+[24:13] trục thứ hai này. Và gì ạ? Các bạn thấy chưa? Cái phần trăm hoàn thành nó đang
+[24:15] chưa? Cái phần trăm hoàn thành nó đang là màu bạc đúng không? Bây giờ mình sẽ
+[24:16] là màu bạc đúng không? Bây giờ mình sẽ đổi
+[24:17] đổi cái kiểu đồ thị nhá. Các bạn nháy chuột
+[24:18] cái kiểu đồ thị nhá. Các bạn nháy chuột phải này.
+[24:19] phải này. Các bạn chọn gì ạ?
+[24:21] Các bạn chọn gì ạ? Change series chart type.
+[24:23] Change series chart type. Đấy, các bạn sẽ tích vào cái phần trăm
+[24:24] Đấy, các bạn sẽ tích vào cái phần trăm hoàn thành ở đây.
+[24:25] hoàn thành ở đây. Mình sẽ đổi nó là cái line này đi.
+[24:28] Mình sẽ đổi nó là cái line này đi. Đấy. Các bạn thấy không? Lúc này nó khá
+[24:30] Đấy. Các bạn thấy không? Lúc này nó khá là hay ạ.
+[24:31] là hay ạ. Các bạn sẽ bấm ok. Thì như vậy là gì ạ?
+[24:34] Các bạn sẽ bấm ok. Thì như vậy là gì ạ? Cái line này là phần trăm hoàn thành là
+[24:35] Cái line này là phần trăm hoàn thành là cái trục phụ ở bên phải này. Còn hai cái
+[24:38] cái trục phụ ở bên phải này. Còn hai cái là gì ạ? Cái kế hoạch và cái đã thực
+[24:39] là gì ạ? Cái kế hoạch và cái đã thực hiện nó sẽ là gì ạ? Giá trị ở cái trục
+[24:41] hiện nó sẽ là gì ạ? Giá trị ở cái trục chính là trục bên trái này.
+[24:43] chính là trục bên trái này. Đấy.
+[24:44] Đấy. Mình sẽ đóng lại nhá. Đấy. Cái này cũng
+[24:46] Mình sẽ đóng lại nhá. Đấy. Cái này cũng khá là hay đúng không?
+[24:47] khá là hay đúng không? Các bạn có thể add value nhá. Các bạn
+[24:49] Các bạn có thể add value nhá. Các bạn tích vào đây, sau đó là gì ạ? Các bạn
+[24:50] tích vào đây, sau đó là gì ạ? Các bạn nháy chuột phải. Các bạn chọn add data
+[24:52] nháy chuột phải. Các bạn chọn add data label. Đấy, các bạn tích vào cái phần
+[24:54] label. Đấy, các bạn tích vào cái phần tam giác này.
+[24:55] tam giác này. Add data label. Đấy.
+[24:57] Add data label. Đấy. Các bạn sẽ tích vào cái
+[24:59] Các bạn sẽ tích vào cái label này đấy các bạn sẽ nháy chuột phải
+[25:01] label này đấy các bạn sẽ nháy chuột phải các bạn sẽ chọn format data label. Ví dụ
+[25:04] các bạn sẽ chọn format data label. Ví dụ mình cho là
+[25:06] mình cho là mình không nên để bên phải nha mình cho
+[25:07] mình không nên để bên phải nha mình cho là above đi.
+[25:09] là above đi. Các bạn có thể để format nha nếu như các
+[25:10] Các bạn có thể để format nha nếu như các bạn muốn hiện là gì ạ? Không phải là làm
+[25:12] bạn muốn hiện là gì ạ? Không phải là làm tròn là 67% mà gì các bạn tích vào
+[25:15] tròn là 67% mà gì các bạn tích vào number đây này. Các bạn sẽ chọn một số
+[25:17] number đây này. Các bạn sẽ chọn một số format đây ví dụ cái format ở đây các
+[25:19] format đây ví dụ cái format ở đây các bạn sẽ ghi là gì ạ?
+[25:20] bạn sẽ ghi là gì ạ? Thăng chấm 00 đấy xong phần trăm.
+[25:25] Thăng chấm 00 đấy xong phần trăm. Các bạn sẽ bấm add. Đấy như vậy là gì ạ?
+[25:27] Các bạn sẽ bấm add. Đấy như vậy là gì ạ? Nó sẽ hiện là gì ạ?
+[25:28] Nó sẽ hiện là gì ạ? Hai cái số thập phân sau cái phần trăm
+[25:30] Hai cái số thập phân sau cái phần trăm đấy. Nhưng mà nhìn cái này cũng khá là
+[25:31] đấy. Nhưng mà nhìn cái này cũng khá là xấu đúng không? Các bạn sẽ tích vào đây.
+[25:33] xấu đúng không? Các bạn sẽ tích vào đây. Đấy các bạn sẽ làm lại nha.
+[25:35] Đấy các bạn sẽ làm lại nha. Các bạn sẽ chọn vào cái number. Đấy mình
+[25:37] Các bạn sẽ chọn vào cái number. Đấy mình sẽ đổi là gì ạ?
+[25:39] sẽ đổi là gì ạ? Mình sẽ là thăng phần trăm thôi đấy nhìn
+[25:41] Mình sẽ là thăng phần trăm thôi đấy nhìn nó sẽ đẹp hơn thôi. Tức là mình sẽ không
+[25:43] nó sẽ đẹp hơn thôi. Tức là mình sẽ không để cái phần thập phân nha. Đấy là mình
+[25:45] để cái phần thập phân nha. Đấy là mình biểu diễn cho các bạn hiểu thôi ạ.
+[25:47] biểu diễn cho các bạn hiểu thôi ạ. Ok mình sẽ đóng lại.
+[25:49] Ok mình sẽ đóng lại. Đấy là cái cách để mình sẽ thêm cái trục
+[25:50] Đấy là cái cách để mình sẽ thêm cái trục phụ ở đây này đấy là cái phần trăm hoàn
+[25:53] phụ ở đây này đấy là cái phần trăm hoàn thành chẳng hạn thế nha. Tức là hai cái
+[25:54] thành chẳng hạn thế nha. Tức là hai cái giá trị khác nhau một cái là biểu diễn
+[25:56] giá trị khác nhau một cái là biểu diễn dưới dạng số một cái là biểu diễn dưới
+[25:58] dưới dạng số một cái là biểu diễn dưới dạng phần trăm.
+[25:59] dạng phần trăm. Ok sang ví dụ thứ ba là gì ạ? Đây là
+[26:01] Ok sang ví dụ thứ ba là gì ạ? Đây là mình có gì ạ? Doanh thu của các quý nha.
+[26:03] mình có gì ạ? Doanh thu của các quý nha. Ví dụ là quý một quý hai quý ba quý bốn
+[26:05] Ví dụ là quý một quý hai quý ba quý bốn chẳng hạn của năm cái bạn nhân viên này.
+[26:08] chẳng hạn của năm cái bạn nhân viên này. Thì mình sẽ vẽ biểu đồ cái
+[26:09] Thì mình sẽ vẽ biểu đồ cái kiểu khác đi đấy các bạn sẽ bôi đen cái
+[26:11] kiểu khác đi đấy các bạn sẽ bôi đen cái vùng dữ liệu này. Các bạn vào thẻ insert
+[26:13] vùng dữ liệu này. Các bạn vào thẻ insert này các bạn sẽ vào cái biểu đồ hình cột
+[26:15] này các bạn sẽ vào cái biểu đồ hình cột đi. Đấy mình sẽ chọn cái hình cột này
+[26:17] đi. Đấy mình sẽ chọn cái hình cột này đi.
+[26:18] đi. Đấy màu xanh là của quý một này màu cam
+[26:21] Đấy màu xanh là của quý một này màu cam là quý hai này màu xám là quý ba và màu
+[26:24] là quý hai này màu xám là quý ba và màu gì ạ? Đây là màu nghệ này là quý bốn.
+[26:26] gì ạ? Đây là màu nghệ này là quý bốn. Đấy các bạn thấy chưa? Bốn cái màu này
+[26:27] Đấy các bạn thấy chưa? Bốn cái màu này rất là đẹp và nó sẽ gì ạ? Nó sẽ chồng
+[26:29] rất là đẹp và nó sẽ gì ạ? Nó sẽ chồng lên nhau để các bạn thấy được là cái
+[26:31] lên nhau để các bạn thấy được là cái doanh thu tổng đây các bạn thấy không?
+[26:33] doanh thu tổng đây các bạn thấy không? Rất là hay ạ.
+[26:34] Rất là hay ạ. Bây giờ ví dụ mình muốn biểu diễn cái
+[26:35] Bây giờ ví dụ mình muốn biểu diễn cái tổng nữa nha các bạn tích vào đây các
+[26:37] tổng nữa nha các bạn tích vào đây các bạn sẽ ghi là gì ạ?
+[26:38] bạn sẽ ghi là gì ạ? Ví dụ mình ghi là total chẳng hạn thế
+[26:39] Ví dụ mình ghi là total chẳng hạn thế nha. Các bạn sẽ bằng này.
+[26:41] nha. Các bạn sẽ bằng này. Các bạn sẽ tích vào cái tên này nha. Đấy
+[26:43] Các bạn sẽ tích vào cái tên này nha. Đấy sau đó các bạn và với gì? Đây mình sẽ
+[26:45] sau đó các bạn và với gì? Đây mình sẽ giải thích cho các bạn sau nha các bạn
+[26:46] giải thích cho các bạn sau nha các bạn sẽ mở ngoặc kép ra. Các bạn sẽ thêm cái
+[26:49] sẽ mở ngoặc kép ra. Các bạn sẽ thêm cái dấu gì ạ? Mở ngoặc đơn này các bạn đóng
+[26:51] dấu gì ạ? Mở ngoặc đơn này các bạn đóng ngoặc kép lại các bạn và với gì? Và với
+[26:53] ngoặc kép lại các bạn và với gì? Và với cái hàm sum này. Các bạn ấn tab nhé. Sum
+[26:56] cái hàm sum này. Các bạn ấn tab nhé. Sum của bốn quý này nhé. Đấy, các bạn sẽ
+[26:58] của bốn quý này nhé. Đấy, các bạn sẽ đóng ngoặc đơn lại. Sau đó các bạn và
+[27:00] đóng ngoặc đơn lại. Sau đó các bạn và với gì ạ? Và cái mở ngoặc kép.
+[27:02] với gì ạ? Và cái mở ngoặc kép. Đóng ngoặc đơn các bạn. Đóng ngoặc kép
+[27:04] Đóng ngoặc đơn các bạn. Đóng ngoặc kép lại. Đấy, các bạn enter.
+[27:06] lại. Đấy, các bạn enter. Bây giờ các bạn sẽ kéo xuống, các bạn
+[27:07] Bây giờ các bạn sẽ kéo xuống, các bạn tích đúp này. Đấy.
+[27:09] tích đúp này. Đấy. Bây giờ các bạn sẽ nháy chuột phải vào
+[27:10] Bây giờ các bạn sẽ nháy chuột phải vào đây nhé. Các bạn chọn gì ạ? Các bạn sẽ
+[27:12] đây nhé. Các bạn chọn gì ạ? Các bạn sẽ chọn cái select data. Đấy. Thì các bạn
+[27:15] chọn cái select data. Đấy. Thì các bạn sẽ tích vào cái edit ở đây, tức là mình
+[27:16] sẽ tích vào cái edit ở đây, tức là mình sẽ edit cái tên dưới này này, là
+[27:18] sẽ edit cái tên dưới này này, là horizontal đây này. Đấy. Các bạn sẽ tích
+[27:20] horizontal đây này. Đấy. Các bạn sẽ tích vào đây này, edit này. Và gì ạ? Các bạn
+[27:22] vào đây này, edit này. Và gì ạ? Các bạn sẽ xóa cái này đi. Và các bạn sẽ lựa
+[27:24] sẽ xóa cái này đi. Và các bạn sẽ lựa chọn cái mới này.
+[27:26] chọn cái mới này. Đấy, các bạn sẽ bấm ok. Các bạn sẽ bấm
+[27:28] Đấy, các bạn sẽ bấm ok. Các bạn sẽ bấm ok. Thì như vậy là gì ạ? Cái phần tên ở
+[27:31] ok. Thì như vậy là gì ạ? Cái phần tên ở đây này, và nó sẽ hiện cái doanh thu
+[27:32] đây này, và nó sẽ hiện cái doanh thu tổng ở đây là 57 này. Đấy, bạn gái Excel
+[27:34] tổng ở đây là 57 này. Đấy, bạn gái Excel 2 tổng là 163. Đấy, các bạn thấy chưa?
+[27:37] 2 tổng là 163. Đấy, các bạn thấy chưa? Tổng này. Đấy, còn đây là tổng của các
+[27:39] Tổng này. Đấy, còn đây là tổng của các cái quý riêng biệt.
+[27:41] cái quý riêng biệt. Bây giờ giả sử mình muốn hiện cái 163
+[27:43] Bây giờ giả sử mình muốn hiện cái 163 này gì ạ? Ở dưới này cơ. Thì các bạn sẽ
+[27:45] này gì ạ? Ở dưới này cơ. Thì các bạn sẽ tích vào cái công thức này nhé. Đấy, các
+[27:47] tích vào cái công thức này nhé. Đấy, các bạn sẽ gì ạ? Các bạn sẽ tích đúp này. Để
+[27:50] bạn sẽ gì ạ? Các bạn sẽ tích đúp này. Để mình sửa công thức nhé. Thì sau cái B31
+[27:52] mình sửa công thức nhé. Thì sau cái B31 này các bạn và với gì ạ? Các bạn có thể
+[27:53] này các bạn và với gì ạ? Các bạn có thể và với cái hàm char(10). Char(10) chính
+[27:56] và với cái hàm char(10). Char(10) chính là cái
+[27:57] là cái hàm để lấy cái ký tự enter đấy. Đấy, các
+[27:59] hàm để lấy cái ký tự enter đấy. Đấy, các bạn enter đi. Đấy. Sau đó các bạn tích
+[28:01] bạn enter đi. Đấy. Sau đó các bạn tích đúp vào đây. Đấy, các bạn thấy chưa? Thì
+[28:03] đúp vào đây. Đấy, các bạn thấy chưa? Thì như vậy, giá trị của tổng ở đây này,
+[28:05] như vậy, giá trị của tổng ở đây này, đấy, nó sẽ nằm ở cái bên dưới này. Các
+[28:08] đấy, nó sẽ nằm ở cái bên dưới này. Các bạn thấy không? Dùng cái này rất là hay
+[28:09] bạn thấy không? Dùng cái này rất là hay luôn.
+[28:10] luôn. Thì như vậy mình đã hiểu được cái ông
+[28:11] Thì như vậy mình đã hiểu được cái ông gái Excel 1 này doanh thu là 57 đúng
+[28:13] gái Excel 1 này doanh thu là 57 đúng không? Ông gái Excel 2 là doanh thu là
+[28:15] không? Ông gái Excel 2 là doanh thu là 163. Còn nếu như mình muốn hiện doanh
+[28:17] 163. Còn nếu như mình muốn hiện doanh thu của từng quý, ví dụ mình muốn hiện
+[28:19] thu của từng quý, ví dụ mình muốn hiện cái quý 4 này chẳng hạn nhé, thì các bạn
+[28:20] cái quý 4 này chẳng hạn nhé, thì các bạn sẽ tích vào cái quý 4 này, các bạn nháy
+[28:22] sẽ tích vào cái quý 4 này, các bạn nháy chuột phải. Các bạn chọn add data label.
+[28:25] chuột phải. Các bạn chọn add data label. Đấy, các bạn sẽ chọn vào đây.
+[28:27] Đấy, các bạn sẽ chọn vào đây. Thì nó sẽ hiện giá trị tương ứng. Đấy,
+[28:29] Thì nó sẽ hiện giá trị tương ứng. Đấy, chẳng hạn quý 1 nhé, các bạn tích vào
+[28:30] chẳng hạn quý 1 nhé, các bạn tích vào một cái quý 1 bất kỳ này. Các bạn nháy
+[28:32] một cái quý 1 bất kỳ này. Các bạn nháy chuột phải, các bạn add.
+[28:34] chuột phải, các bạn add. Các bạn trỏ vào cái tam giác này, các
+[28:35] Các bạn trỏ vào cái tam giác này, các bạn chọn gì ạ? Add data label. Đấy, các
+[28:37] bạn chọn gì ạ? Add data label. Đấy, các bạn thấy không? Rất là hay luôn.
+[28:39] bạn thấy không? Rất là hay luôn. Ví dụ, cái cái đường gridline này mình
+[28:42] Ví dụ, cái cái đường gridline này mình không cần thì các bạn có thể bỏ đi nhé.
+[28:43] không cần thì các bạn có thể bỏ đi nhé. Các bạn tích vào cái dấu cộng này, các
+[28:44] Các bạn tích vào cái dấu cộng này, các Các sẽ bỏ cái gridline này đi. Tại mình
+[28:46] Các sẽ bỏ cái gridline này đi. Tại mình thấy nó không được đẹp lắm.
+[28:48] thấy nó không được đẹp lắm. Ok, cái chart title các bạn tích vào
+[28:50] Ok, cái chart title các bạn tích vào đây.
+[28:51] đây. Mình sẽ ghi là doanh thu.
+[28:56] Cả năm chẳng hạn thế nhá, đấy tùy các bạn, các bạn muốn đặt tiêu đề là gì cũng
+[28:58] bạn, các bạn muốn đặt tiêu đề là gì cũng được. Đấy các bạn thấy không, rất là hay
+[28:59] được. Đấy các bạn thấy không, rất là hay luôn.
+[29:00] luôn. Đây là cái cách để mình sẽ biểu diễn là
+[29:02] Đây là cái cách để mình sẽ biểu diễn là gì ạ? Mình sẽ chồng các cái giá trị lên
+[29:03] gì ạ? Mình sẽ chồng các cái giá trị lên nhau. Thì nhìn mình biết là gì ạ? Mình
+[29:06] nhau. Thì nhìn mình biết là gì ạ? Mình vừa biết được là giá trị của từng cái
+[29:07] vừa biết được là giá trị của từng cái quý riêng và mình sẽ biết là tổng giá
+[29:09] quý riêng và mình sẽ biết là tổng giá trị nó sẽ tỷ lệ như thế nào. Đấy các bạn
+[29:11] trị nó sẽ tỷ lệ như thế nào. Đấy các bạn thấy chưa? Thì dựa vào cái biểu đồ ấy
+[29:13] thấy chưa? Thì dựa vào cái biểu đồ ấy thì các bạn rất là đơn giản các bạn sẽ
+[29:15] thì các bạn rất là đơn giản các bạn sẽ biết được là gì ạ? Cái ông nào đang là
+[29:17] biết được là gì ạ? Cái ông nào đang là doanh thu lớn nhất, đấy, và nó sẽ có cái
+[29:19] doanh thu lớn nhất, đấy, và nó sẽ có cái trực quan hơn.
+[29:20] trực quan hơn. Ông gái sale 2 là doanh thu lớn nhất này
+[29:22] Ông gái sale 2 là doanh thu lớn nhất này và ông gái sale 4 này là doanh thu nhỏ
+[29:24] và ông gái sale 4 này là doanh thu nhỏ nhất, đấy.
+[29:26] nhất, đấy. Và thì ok, như vậy là mình hướng dẫn
+[29:28] Và thì ok, như vậy là mình hướng dẫn xong cho các bạn cái phần biểu đồ nhá.
+[29:30] xong cho các bạn cái phần biểu đồ nhá. Bây giờ mình sẽ xem cái câu hỏi của bài
+[29:31] Bây giờ mình sẽ xem cái câu hỏi của bài tập về nhà.
+[29:40] Ok, câu hỏi của mình là gì ạ? Giả sử đây là cái vùng dữ liệu của mình nhá. Bây
+[29:42] là cái vùng dữ liệu của mình nhá. Bây giờ yêu cầu của mình là gì ạ? Các bạn sẽ
+[29:43] giờ yêu cầu của mình là gì ạ? Các bạn sẽ hiện cho mình một cái biểu đồ doanh thu
+[29:46] hiện cho mình một cái biểu đồ doanh thu tương tác như thế này.
+[29:47] tương tác như thế này. Nhưng mà ở đây là gì ạ? Mình sẽ lựa chọn
+[29:49] Nhưng mà ở đây là gì ạ? Mình sẽ lựa chọn được các cái quý. Ví dụ mình tích vào
+[29:51] được các cái quý. Ví dụ mình tích vào đây mình chọn là quý 1 chẳng hạn thế
+[29:52] đây mình chọn là quý 1 chẳng hạn thế nhá. Thì ở đây nó lập tức nó sẽ hiểu là
+[29:54] nhá. Thì ở đây nó lập tức nó sẽ hiểu là gì ạ? Cái doanh thu, cái phần tiêu đề nó
+[29:56] gì ạ? Cái doanh thu, cái phần tiêu đề nó phải là gì ạ? Doanh thu quý 1.
+[29:58] phải là gì ạ? Doanh thu quý 1. Cái biểu đồ ở đây nó chỉ là cho quý 1
+[30:00] Cái biểu đồ ở đây nó chỉ là cho quý 1 thôi, đấy. Và gì ạ? Cái giá trị tổng nó
+[30:02] thôi, đấy. Và gì ạ? Cái giá trị tổng nó cũng thay đổi theo quý 1 thôi. Ví dụ gái
+[30:05] cũng thay đổi theo quý 1 thôi. Ví dụ gái sale 1 này của quý 1 là 79 đúng không?
+[30:07] sale 1 này của quý 1 là 79 đúng không? Gái sale 2 quý 1 là 70, đấy.
+[30:09] Gái sale 2 quý 1 là 70, đấy. Các bạn thấy chưa? Ví dụ mình chọn cái
+[30:11] Các bạn thấy chưa? Ví dụ mình chọn cái quý 2 chẳng hạn thế nhá. Thì như vậy đây
+[30:12] quý 2 chẳng hạn thế nhá. Thì như vậy đây là cái biểu đồ doanh thu của quý 2. Nó
+[30:14] là cái biểu đồ doanh thu của quý 2. Nó cũng thay đổi cái giá trị này và cái
+[30:16] cũng thay đổi cái giá trị này và cái tiêu đề nó cũng thay đổi là quý 2, đấy.
+[30:19] tiêu đề nó cũng thay đổi là quý 2, đấy. Đây là bài tập về nhà cho các bạn nhá.
+[30:21] Đây là bài tập về nhà cho các bạn nhá. Còn nếu như các bạn chọn all nhá, thì nó
+[30:22] Còn nếu như các bạn chọn all nhá, thì nó sẽ biểu diễn là gì ạ? Tổng 4 quý ở đây.
+[30:24] sẽ biểu diễn là gì ạ? Tổng 4 quý ở đây. Đấy các bạn thấy không, rất là đẹp luôn.
+[30:26] Đấy các bạn thấy không, rất là đẹp luôn. Tổng 4 quý của các các ông này. 287,
+[30:28] Tổng 4 quý của các các ông này. 287, 271, đấy.
+[30:29] 271, đấy. Đây là cái biểu đồ tương tác nhá, các
+[30:31] Đây là cái biểu đồ tương tác nhá, các bạn sẽ làm cho mình nhá.
+[30:32] bạn sẽ làm cho mình nhá. Đây là sau khi mình làm rồi đấy, còn cái
+[30:34] Đây là sau khi mình làm rồi đấy, còn cái file mà mình đính kèm cho các bạn để các
+[30:36] file mà mình đính kèm cho các bạn để các bạn luyện tập ấy, nó chỉ là cái vùng dữ
+[30:37] bạn luyện tập ấy, nó chỉ là cái vùng dữ liệu này thôi nhá.
+[30:44] Ok, như vậy là mình đã kết thúc bài học ngày hôm nay ở đây. Cảm ơn các bạn đã
+[30:46] ngày hôm nay ở đây. Cảm ơn các bạn đã theo dõi. Các bạn nhớ đăng ký kênh để
+[30:49] theo dõi. Các bạn nhớ đăng ký kênh để cập nhật video mới nhất của Gà, cũng như
+[30:51] cập nhật video mới nhất của Gà, cũng như chia sẻ để giúp mọi người cùng học Excel
+[30:53] chia sẻ để giúp mọi người cùng học Excel nhé.
+[30:54] nhé. Xin chào và hẹn gặp lại.

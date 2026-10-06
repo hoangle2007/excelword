@@ -1,0 +1,504 @@
+[00:01] Xin chào mừng các bạn đến với khoa học excel miễn phí từ cơ bản đến nâng cao
+[00:03] excel miễn phí từ cơ bản đến nâng cao dành cho người mới bắt đầu được thực
+[00:06] dành cho người mới bắt đầu được thực hiện trên kênh Nhiêu thuốc và Excel bài
+[00:08] hiện trên kênh Nhiêu thuốc và Excel bài số 3 nhóm các hàm tính tổng trước khi
+[00:11] số 3 nhóm các hàm tính tổng trước khi bắt đầu bài học số 3 hãy thì mình sẽ
+[00:12] bắt đầu bài học số 3 hãy thì mình sẽ cùng giải đáp câu hỏi của bài tập số 2
+[00:14] cùng giải đáp câu hỏi của bài tập số 2 nhá Đấy thì bạn xem ở cái câu hỏi của
+[00:17] nhá Đấy thì bạn xem ở cái câu hỏi của bài tập số hai lên các bạn chú ý nếu như
+[00:19] bài tập số hai lên các bạn chú ý nếu như bạn nào mà không biết cách tải file thực
+[00:21] bạn nào mà không biết cách tải file thực hành cũng như file Câu hỏi thì các bạn
+[00:22] hành cũng như file Câu hỏi thì các bạn xem video đầu tiên là cái video mở đầu
+[00:25] xem video đầu tiên là cái video mở đầu của cái loạt Bài học này nhá câu hỏi số
+[00:27] của cái loạt Bài học này nhá câu hỏi số 1 Có thể thêm các công cụ khác vào thanh
+[00:30] 1 Có thể thêm các công cụ khác vào thanh truy cập nhanh các tầng Mai Quick access
+[00:32] truy cập nhanh các tầng Mai Quick access toolbar hay không thì câu trả lời là có
+[00:34] toolbar hay không thì câu trả lời là có nhá Bây giờ mình sẽ mở cái file Excel
+[00:36] nhá Bây giờ mình sẽ mở cái file Excel lên mình dẫn các bạn ạ phải gọi vào
+[00:38] lên mình dẫn các bạn ạ phải gọi vào start chọn gói Xem Gọi enter nhá Mình sẽ
+[00:43] start chọn gói Xem Gọi enter nhá Mình sẽ chọn bọn anh gốc đi đấy thì cái Quick
+[00:45] chọn bọn anh gốc đi đấy thì cái Quick access toolbar Ở đây bây giờ các bạn sẽ
+[00:47] access toolbar Ở đây bây giờ các bạn sẽ tích và cái tam giác sau xuống đây này
+[00:50] tích và cái tam giác sau xuống đây này thích hình biểu tượng Nhỏ đây này chọn
+[00:52] thích hình biểu tượng Nhỏ đây này chọn tích vào đây các bạn sẽ chọn thì các bạn
+[00:54] tích vào đây các bạn sẽ chọn thì các bạn sẽ chọn cái mo farah bây giờ trong cái
+[00:57] sẽ chọn cái mo farah bây giờ trong cái phần Fortuner Hormon này các bạn có thể
+[00:59] phần Fortuner Hormon này các bạn có thể chọn Ôn
+[01:00] chọn Ôn I come as lại thì như vậy toàn bộ toàn
+[01:03] I come as lại thì như vậy toàn bộ toàn bộ các chức năng ở bên lành nó sẽ có đây
+[01:06] bộ các chức năng ở bên lành nó sẽ có đây thì lớn như các bạn cần cái chức năng
+[01:08] thì lớn như các bạn cần cái chức năng nào mà có bạn hay dùng đấy thì họ sẽ đẩy
+[01:10] nào mà có bạn hay dùng đấy thì họ sẽ đẩy sang cái cuốc setool3 bây giờ ví dụ mình
+[01:13] sang cái cuốc setool3 bây giờ ví dụ mình làm xuống nhá Nếu như mình chọn cái mất
+[01:17] làm xuống nhá Nếu như mình chọn cái mất đúng không còn sự tích đấy các bạn gọi
+[01:18] đúng không còn sự tích đấy các bạn gọi chị m này nó sẽ nhảy xuống cái tên mà
+[01:20] chị m này nó sẽ nhảy xuống cái tên mà bắt đầu bằng chữ m đây machine Center
+[01:23] bắt đầu bằng chữ m đây machine Center mình hay dùng là chẳng hạn thế nào biết
+[01:25] mình hay dùng là chẳng hạn thế nào biết tôi thật sự thích ở đây các bạn sẽ bấm
+[01:27] tôi thật sự thích ở đây các bạn sẽ bấm tích và cái mất Exciter này mà mình hay
+[01:29] tích và cái mất Exciter này mà mình hay dùng hạt đấy nha cọ sẽ 4S thì các bạn
+[01:31] dùng hạt đấy nha cọ sẽ 4S thì các bạn thấy cho cái bước Exciter nó sẽ sang đây
+[01:33] thấy cho cái bước Exciter nó sẽ sang đây rồi nhá đấy hoặc các bạn tìm thêm một
+[01:36] rồi nhá đấy hoặc các bạn tìm thêm một cái nữa đi cái nào mà có ăn hay dùng thì
+[01:38] cái nữa đi cái nào mà có ăn hay dùng thì bạn ấy nhá nên về namie filename đây ví
+[01:42] bạn ấy nhá nên về namie filename đây ví dụ khi Format là number format Nhắc gọi
+[01:44] dụ khi Format là number format Nhắc gọi E và đã đây mình làm mẫu Thôi vậy Các
+[01:46] E và đã đây mình làm mẫu Thôi vậy Các bạn bấm ok còn thấy cho nó thêm cái gì
+[01:49] bạn bấm ok còn thấy cho nó thêm cái gì đây Cái phần trăm này và cái mất Center
+[01:52] đây Cái phần trăm này và cái mất Center bây giờ giả sử Mình đang ở cái thẻ data
+[01:54] bây giờ giả sử Mình đang ở cái thẻ data đi rồi bây giờ mình có bốn hiểu mình hộp
+[01:56] đi rồi bây giờ mình có bốn hiểu mình hộp 4 Cái ô này ạ Bên mình muốn mua xe
+[01:58] 4 Cái ô này ạ Bên mình muốn mua xe Exciter đúng không ạ
+[02:00] Exciter đúng không ạ có thể hôm ấy thì bạn tích khuôn vào cái
+[02:02] có thể hôm ấy thì bạn tích khuôn vào cái ta này lại mốc Exciter gọn thấy cho nó
+[02:04] ta này lại mốc Exciter gọn thấy cho nó sẽ đổ và luôn và ko thích nước vào đây
+[02:06] sẽ đổ và luôn và ko thích nước vào đây Đấy nó sẽ nằm ở giữa đây là quan nhập dữ
+[02:08] Đấy nó sẽ nằm ở giữa đây là quan nhập dữ liệu ấy Còn nếu không rất là hay các bạn
+[02:11] liệu ấy Còn nếu không rất là hay các bạn có thể mất cứ ở cái thẻ nào Thế bạn chỉ
+[02:13] có thể mất cứ ở cái thẻ nào Thế bạn chỉ diện tích với đây thôi là sẽ nó mốt lại
+[02:15] diện tích với đây thôi là sẽ nó mốt lại Đấy bây giờ để xóa đi thì mình làm thế
+[02:17] Đấy bây giờ để xóa đi thì mình làm thế nào cũng các bạn cũng làm ngược lại thôi
+[02:18] nào cũng các bạn cũng làm ngược lại thôi các bạn tích vào đây Các bạn chọn mo
+[02:20] các bạn tích vào đây Các bạn chọn mo farah đợi ví dụ cái này mình không cần
+[02:23] farah đợi ví dụ cái này mình không cần dùng nhiều nữa nhé các bạn sẽ thích bộ
+[02:25] dùng nhiều nữa nhé các bạn sẽ thích bộ đây các bạn sẽ remove Tức là mình thấy
+[02:27] đây các bạn sẽ remove Tức là mình thấy bảy về bên này mất Center cũng thế Mình
+[02:29] bảy về bên này mất Center cũng thế Mình Limo để mình sẽ ok thì như vậy hai cái
+[02:32] Limo để mình sẽ ok thì như vậy hai cái công vụ kia nó sẽ không nằm ở trên cái
+[02:34] công vụ kia nó sẽ không nằm ở trên cái cuốc setool3 này nữa nhá câu hỏi xuống
+[02:39] cuốc setool3 này nữa nhá câu hỏi xuống hay là có thể thay thế Phone và cỡ chữ
+[02:42] hay là có thể thay thế Phone và cỡ chữ mặc định khi tạo một file mới hay không
+[02:43] mặc định khi tạo một file mới hay không thì cái này là có nhá bằng cách nhận đây
+[02:46] thì cái này là có nhá bằng cách nhận đây mình sẽ vào thì hôm rồi Đây là cái file
+[02:48] mình sẽ vào thì hôm rồi Đây là cái file mới vừa xong tạo ra đúng không Các bạn
+[02:49] mới vừa xong tạo ra đúng không Các bạn thấy cái mặc định carazy cỡ chữ là 11
+[02:52] thấy cái mặc định carazy cỡ chữ là 11 đúng không Bây giờ mình muốn thay đổi
+[02:54] đúng không Bây giờ mình muốn thay đổi khi mình phải tạo một file mới thì cái
+[02:56] khi mình phải tạo một file mới thì cái cỡ chữ và cái Phong sẽ thay đổi đúng
+[02:58] cỡ chữ và cái Phong sẽ thay đổi đúng không Thì gọi cho vào cái file này
+[03:00] không Thì gọi cho vào cái file này cho các bạn xem vào more mình sẽ vào
+[03:01] cho các bạn xem vào more mình sẽ vào option đấy các bạn sẽ vào với Giroud ấy
+[03:04] option đấy các bạn sẽ vào với Giroud ấy nhé các bạn thấy chưa nó sẽ có cái mũ
+[03:07] nhé các bạn thấy chưa nó sẽ có cái mũ của đây là quan creating new work book
+[03:09] của đây là quan creating new work book tức là khi các bạn tạo một Facebook lại
+[03:11] tức là khi các bạn tạo một Facebook lại thịt cái miệng cái đi photo chứng là cái
+[03:14] thịt cái miệng cái đi photo chứng là cái Phong mặc định là ba Bphone 2 Ví dụ mình
+[03:16] Phong mặc định là ba Bphone 2 Ví dụ mình đổ này nhá các bạn có thể đổi bất kỳ cái
+[03:18] đổ này nhá các bạn có thể đổi bất kỳ cái phone nào Ví dụ lại Arirang à thế này
+[03:20] phone nào Ví dụ lại Arirang à thế này cưới chứ là 13 giản thế nhé khoảng 14 đi
+[03:23] cưới chứ là 13 giản thế nhé khoảng 14 đi lấy những học sinh 14 thì bạn có thể gọi
+[03:25] lấy những học sinh 14 thì bạn có thể gọi trực tiếp vào đây là 13 học được ví dụ
+[03:27] trực tiếp vào đây là 13 học được ví dụ mình để lên 13 để gọi m đấy thì nó sẽ
+[03:30] mình để lên 13 để gọi m đấy thì nó sẽ hiện của cái thông báo là mình phải đóng
+[03:33] hiện của cái thông báo là mình phải đóng cái file lại và mình khởi động lại Excel
+[03:34] cái file lại và mình khởi động lại Excel thì nó mới có tác dụng nha các bạn muốn
+[03:36] thì nó mới có tác dụng nha các bạn muốn Ok Bây giờ mình sẽ sóng wifi đến các đội
+[03:39] Ok Bây giờ mình sẽ sóng wifi đến các đội xếp đi bây giờ mình sẽ mở Excel lên nhá
+[03:41] xếp đi bây giờ mình sẽ mở Excel lên nhá Nó sẽ có phải là Phong Arirang và cỡ chữ
+[03:43] Nó sẽ có phải là Phong Arirang và cỡ chữ 10 mai không thích xe này enter các bạn
+[03:48] 10 mai không thích xe này enter các bạn Blanc mốc này đấy gọi thế chứ Đây là cái
+[03:51] Blanc mốc này đấy gọi thế chứ Đây là cái không Arirang và cỡ chữ được 13 rất là
+[03:53] không Arirang và cỡ chữ được 13 rất là hai ạ Bây giờ mình bắt lại nha các bạn
+[03:55] hai ạ Bây giờ mình bắt lại nha các bạn vào file more options lại còn
+[04:00] vào file more options lại còn anh cái thẻ Zalo đây đây mình không phải
+[04:02] anh cái thẻ Zalo đây đây mình không phải Arirang nữa mình quay về cái lại bắt đầu
+[04:04] Arirang nữa mình quay về cái lại bắt đầu đi làm borofone đây là cái cái cái chữ
+[04:09] đi làm borofone đây là cái cái cái chữ đồng 11 thôi nhé Hãy gọi thêm Ok Ok mình
+[04:14] đồng 11 thôi nhé Hãy gọi thêm Ok Ok mình sẽ đóng cái file này okay tiếp theo mình
+[04:16] sẽ đóng cái file này okay tiếp theo mình sẽ vào với bài 3 nhá các bạn chú ý các
+[04:18] sẽ vào với bài 3 nhá các bạn chú ý các bạn cần tại cái folder của bài 3 này về
+[04:20] bạn cần tại cái folder của bài 3 này về nhắc sau đó bạn mở cái folder này lên
+[04:22] nhắc sau đó bạn mở cái folder này lên lại mình sẽ vào cái file thực hành của
+[04:25] lại mình sẽ vào cái file thực hành của cái bài số 3 của bạn tích lũy vào đây
+[04:28] cái bài số 3 của bạn tích lũy vào đây nhóm các hàm tính tổng Gọi Thúy hôm nay
+[04:31] nhóm các hàm tính tổng Gọi Thúy hôm nay mình sẽ hướng dẫn các bạn ba cái hàm
+[04:32] mình sẽ hướng dẫn các bạn ba cái hàm tính tổng làm song song ít và sau mép
+[04:35] tính tổng làm song song ít và sau mép nhé thì đầu tiên nên là mình đã hướng
+[04:37] nhé thì đầu tiên nên là mình đã hướng dẫn các bạn thấy cú pháp rồi thì làm
+[04:39] dẫn các bạn thấy cú pháp rồi thì làm xong thì cú pháp là lìa xăm bạn 5m 15 m2
+[04:42] xong thì cú pháp là lìa xăm bạn 5m 15 m2 đấy 5 bộ là các số nhá và các cô và các
+[04:45] đấy 5 bộ là các số nhá và các cô và các vùng sạm ít là tính tổng có điều kiện và
+[04:49] vùng sạm ít là tính tổng có điều kiện và sulfat là tính tổng có nhiều điều kiện
+[04:51] sulfat là tính tổng có nhiều điều kiện rất là ví dụ mình tính tổng có hai hoặc
+[04:53] rất là ví dụ mình tính tổng có hai hoặc ba điều kiện thì mình không thể dùng để
+[04:55] ba điều kiện thì mình không thể dùng để làm xong ít được mà mình phải dùng cái
+[04:56] làm xong ít được mà mình phải dùng cái hàng sau phép Ok đầu tiên mình sẽ giới
+[05:00] hàng sau phép Ok đầu tiên mình sẽ giới ở đây về hình xăm ở đây là xong chứ
+[05:02] ở đây về hình xăm ở đây là xong chứ không phải sao biết sao mà mình sẽ giới
+[05:05] không phải sao biết sao mà mình sẽ giới thiệu qua về cách để mình nhập hàm nhá
+[05:08] thiệu qua về cách để mình nhập hàm nhá để nhập hàng trong Excel ấy thì các bạn
+[05:10] để nhập hàng trong Excel ấy thì các bạn có thể bấm dấu cộng rồi các bạn gõ là
+[05:12] có thể bấm dấu cộng rồi các bạn gõ là cái hàm tương ứng và ví dụ xăm đây lại
+[05:15] cái hàm tương ứng và ví dụ xăm đây lại hoặc gì ạ Các bạn sẽ có tấm bằng thì
+[05:17] hoặc gì ạ Các bạn sẽ có tấm bằng thì thông thường người ta hay gọi dâu bằng
+[05:18] thông thường người ta hay gọi dâu bằng chứ không có dấu cộng các bạn sẽ bằng
+[05:20] chứ không có dấu cộng các bạn sẽ bằng nhá Sau đó bạn sẽ nhập với tên hàng thì
+[05:23] nhá Sau đó bạn sẽ nhập với tên hàng thì ở đây mình đăng nhập cái hình xăm còn gõ
+[05:25] ở đây mình đăng nhập cái hình xăm còn gõ chữ s này thịt khi các bạn gõ chữ s xong
+[05:27] chữ s này thịt khi các bạn gõ chữ s xong thì ít xe nó sẽ tự động nó gợi nhắc này
+[05:29] thì ít xe nó sẽ tự động nó gợi nhắc này tất cả các hàng mà sẽ bắt đầu bằng chữ s
+[05:32] tất cả các hàng mà sẽ bắt đầu bằng chữ s đấy gọn năng số này tất cả các hàng mà
+[05:34] đấy gọn năng số này tất cả các hàng mà bắt đầu bằng chữ s ví dụ Các bạn có thêm
+[05:36] bắt đầu bằng chữ s ví dụ Các bạn có thêm chữ nữa đấy thì nó sẽ tất cả các hàng mà
+[05:39] chữ nữa đấy thì nó sẽ tất cả các hàng mà bắt đầu bằng chữ Fu thì có hàm xuất
+[05:41] bắt đầu bằng chữ Fu thì có hàm xuất huyết tiêu này sắp tôi thờ thả thế Đây
+[05:44] huyết tiêu này sắp tôi thờ thả thế Đây là hình xong thì có 2 cách nhập hàng
+[05:46] là hình xong thì có 2 cách nhập hàng xong các bạn gõ thêm chị m hoặc các bạn
+[05:48] xong các bạn gõ thêm chị m hoặc các bạn tích đúng và làm xong nào đấy ví dụ mình
+[05:51] tích đúng và làm xong nào đấy ví dụ mình xóa đi nhé đấy hoặc các bạn gõ cho chữ m
+[05:52] xóa đi nhé đấy hoặc các bạn gõ cho chữ m nữa thì tùy các bạn nhá ở đây ví dụ minh
+[05:55] nữa thì tùy các bạn nhá ở đây ví dụ minh tích lũy và làm xong rồi đi thì thành
+[05:57] tích lũy và làm xong rồi đi thì thành phần của làm xong rồi điện 5m 153
+[06:00] phần của làm xong rồi điện 5m 153 Khi xăm mình muốn tính tổng của ba này
+[06:02] Khi xăm mình muốn tính tổng của ba này phẩy 7,6 phẩy 8 phẩy 9 hệ 4 vé số này
+[06:06] phẩy 7,6 phẩy 8 phẩy 9 hệ 4 vé số này nha các bạn enter đấy thì nó sẽ ra là 33
+[06:08] nha các bạn enter đấy thì nó sẽ ra là 33 đúng không còn tức lúc để sửa công thức
+[06:11] đúng không còn tức lúc để sửa công thức nhé hoặc phím tắt là các bạn xem bấm F2
+[06:12] nhé hoặc phím tắt là các bạn xem bấm F2 để các bạn sửa cái công thức là ví dụ
+[06:15] để các bạn sửa cái công thức là ví dụ còn phải là ngoài 40 số này thì bạn muốn
+[06:18] còn phải là ngoài 40 số này thì bạn muốn Bôi đen một số vùng ở đây nữa Tức là đêm
+[06:21] Bôi đen một số vùng ở đây nữa Tức là đêm 47 này phải nữa hoặc là cái vùng thêm
+[06:24] 47 này phải nữa hoặc là cái vùng thêm cái vùng này nữa Từ D15 đến đêm 17 nữa
+[06:26] cái vùng này nữa Từ D15 đến đêm 17 nữa lại các bạn enter đấy Bạn thấy chứ lúc
+[06:28] lại các bạn enter đấy Bạn thấy chứ lúc này nó ra là chín triệu đấy là cái cách
+[06:31] này nó ra là chín triệu đấy là cái cách sử dụng hàm xong thì trong bài tập hôm
+[06:34] sử dụng hàm xong thì trong bài tập hôm nay mình sẽ tính tổng doanh thu nhá thì
+[06:36] nay mình sẽ tính tổng doanh thu nhá thì còn chửi nhà ở đây mình có ba cái thông
+[06:38] còn chửi nhà ở đây mình có ba cái thông tin là khu vực này sản phẩm là và doanh
+[06:41] tin là khu vực này sản phẩm là và doanh thu đấy thì mỗi khu vực nó sẽ có ở đây
+[06:43] thu đấy thì mỗi khu vực nó sẽ có ở đây tất cả là 5 sản phẩm đúng không ạ và khu
+[06:45] tất cả là 5 sản phẩm đúng không ạ và khu vực ở đây mình sẽ có 3 khu vực Bắc Trung
+[06:47] vực ở đây mình sẽ có 3 khu vực Bắc Trung Nam bây giờ mình sẽ tự tính tổng doanh
+[06:49] Nam bây giờ mình sẽ tự tính tổng doanh thu với vùng này nhá Đấy bây giờ các bạn
+[06:51] thu với vùng này nhá Đấy bây giờ các bạn sẽ thích vào cái OVA 4 để các bạn Nhập
+[06:53] sẽ thích vào cái OVA 4 để các bạn Nhập công thức tính tổng nhá các bạn sẽ bằng
+[06:55] công thức tính tổng nhá các bạn sẽ bằng này em là xong đúng không Các bạn có thể
+[06:58] này em là xong đúng không Các bạn có thể ấn top này hoặc các bạn mở ngoặc
+[06:59] ấn top này hoặc các bạn mở ngoặc Ừ thì bây giờ để lựa chọn toàn bộ cái
+[07:02] Ừ thì bây giờ để lựa chọn toàn bộ cái vùng doanh thu thì có 2 cách nhá thì đầu
+[07:04] vùng doanh thu thì có 2 cách nhá thì đầu tiên các bạn sẽ tích vào ô đầu tiên của
+[07:06] tiên các bạn sẽ tích vào ô đầu tiên của cái vùng Doanh thu là cái ô gì od4 sau
+[07:09] cái vùng Doanh thu là cái ô gì od4 sau đó bạn giữ thật trái và các bạn kéo
+[07:10] đó bạn giữ thật trái và các bạn kéo xuống đấy mình rất kéo từ cái od4 đến
+[07:13] xuống đấy mình rất kéo từ cái od4 đến bd18 này sau đó còn bỏ tiền trái ra để
+[07:17] bd18 này sau đó còn bỏ tiền trái ra để gọi enter thì nó sẽ ra tổng doanh thu là
+[07:19] gọi enter thì nó sẽ ra tổng doanh thu là 16 triệu tám trăm đúng không Bây giờ các
+[07:21] 16 triệu tám trăm đúng không Bây giờ các bạn thích đúng để các bạn sửa này hoặc
+[07:23] bạn thích đúng để các bạn sửa này hoặc các bạn Nhập lại nha khoa có thể bằng
+[07:24] các bạn Nhập lại nha khoa có thể bằng xong để gọi nhập lại là thì Cách thứ hai
+[07:27] xong để gọi nhập lại là thì Cách thứ hai là gì có sự tích bằng ô đầu tiên của cái
+[07:29] là gì có sự tích bằng ô đầu tiên của cái vùng dữ liệu này sau đó bạn giữ cần
+[07:31] vùng dữ liệu này sau đó bạn giữ cần thương ship và ấn mũi tên xuống đây thì
+[07:33] thương ship và ấn mũi tên xuống đây thì nó sẽ lựa chọn toàn bộ cái vùng dữ liệu
+[07:35] nó sẽ lựa chọn toàn bộ cái vùng dữ liệu ở đây các bạn em Thơ đấy chỉ 2 cách để
+[07:38] ở đây các bạn em Thơ đấy chỉ 2 cách để mình lựa chọn cái vùng dữ liệu nhá thì
+[07:40] mình lựa chọn cái vùng dữ liệu nhá thì thông thường nếu như cái vùng dữ liệu mà
+[07:42] thông thường nếu như cái vùng dữ liệu mà một ít thì các bạn sẽ dùng cách một là
+[07:44] một ít thì các bạn sẽ dùng cách một là còn giữ được trái và các bạn Bôi đen còn
+[07:46] còn giữ được trái và các bạn Bôi đen còn nếu như cái vùng dữ liệu của bạn dài Ví
+[07:48] nếu như cái vùng dữ liệu của bạn dài Ví dụ nó hàng trăm nghìn thì bạn phải giữ
+[07:51] dụ nó hàng trăm nghìn thì bạn phải giữ tiền lương trí của mũi Yên xuống nó sẽ
+[07:52] tiền lương trí của mũi Yên xuống nó sẽ nhanh hơn là bạn sẽ Di chuột nhé Đây là
+[07:54] nhanh hơn là bạn sẽ Di chuột nhé Đây là hai cái cách là mình Bôi đen Cái vùng dữ
+[07:56] hai cái cách là mình Bôi đen Cái vùng dữ liệu tính tổng đúng không tiếp theo là
+[08:00] liệu tính tổng đúng không tiếp theo là hỗ trợ các bạn cái hàm sao biết thì cái
+[08:02] hỗ trợ các bạn cái hàm sao biết thì cái hành xe buýt nó khác gì mới làm xong
+[08:04] hành xe buýt nó khác gì mới làm xong xong ít thì nó sẽ kết hợp của cái hàng
+[08:06] xong ít thì nó sẽ kết hợp của cái hàng xong và cái Hà mít cái ý bị trong tiếng
+[08:09] xong và cái Hà mít cái ý bị trong tiếng Anh nó là cái Nếu tức là có điều kiện
+[08:11] Anh nó là cái Nếu tức là có điều kiện thì ở đây bản chất là tính tổng có điều
+[08:14] thì ở đây bản chất là tính tổng có điều kiện đúng không Thì cái điều kiện ở
+[08:16] kiện đúng không Thì cái điều kiện ở trong cái ví dụ Thứ hai này là tính tổng
+[08:18] trong cái ví dụ Thứ hai này là tính tổng theo khu vực thì trong cái ví dụ đầu
+[08:21] theo khu vực thì trong cái ví dụ đầu tiên mình tính tổng là mình tính tổng
+[08:23] tiên mình tính tổng là mình tính tổng toàn bộ ba khu vực và toàn bộ các sản
+[08:25] toàn bộ ba khu vực và toàn bộ các sản phẩm đây nhưng mà trong cái ví dụ Thứ
+[08:27] phẩm đây nhưng mà trong cái ví dụ Thứ hai này mình tính tổng theo khu vực tức
+[08:30] hai này mình tính tổng theo khu vực tức là doanh thu của Việt Bắc là một số
+[08:32] là doanh thu của Việt Bắc là một số doanh thu của Việt Nam là một số và
+[08:34] doanh thu của Việt Nam là một số và doanh thu về miền Trung là một số đúng
+[08:35] doanh thu về miền Trung là một số đúng không thì các bạn phải tính tổng có điều
+[08:37] không thì các bạn phải tính tổng có điều kiện thì mình có thể dùng làm sạch tiếp
+[08:39] kiện thì mình có thể dùng làm sạch tiếp nhé các bạn bằng xe buýt các bạn có thể
+[08:42] nhé các bạn bằng xe buýt các bạn có thể tắt này đấy thì đầu tiên là cái duyên
+[08:45] tắt này đấy thì đầu tiên là cái duyên Tức là cái vùng điều kiện nhá Thì cái
+[08:48] Tức là cái vùng điều kiện nhá Thì cái vùng điều kiện của mình đang làm gì Mình
+[08:49] vùng điều kiện của mình đang làm gì Mình đang tính tổng theo khu vực đúng không
+[08:51] đang tính tổng theo khu vực đúng không Thì cái vùng điều kiện phải là cái vùng
+[08:52] Thì cái vùng điều kiện phải là cái vùng khu vực ở đây thì có bôi đen toàn bộ váy
+[08:55] khu vực ở đây thì có bôi đen toàn bộ váy phần khu vực Ở đây chỉ có 2 cách để
+[08:57] phần khu vực Ở đây chỉ có 2 cách để Model Lúc nãy mình nói rồi đúng không
+[08:58] Model Lúc nãy mình nói rồi đúng không Đấy còn có thể giữa
+[09:00] Đấy còn có thể giữa ơ hoặc các bạn thích bởi đầu tiên bạn
+[09:03] ơ hoặc các bạn thích bởi đầu tiên bạn giữ gần chân suýt nữa lên xuống đây là
+[09:04] giữ gần chân suýt nữa lên xuống đây là hai cách để mình đen vùng dữ liệu đúng
+[09:06] hai cách để mình đen vùng dữ liệu đúng không phải tiếp theo là cái điều kiện
+[09:08] không phải tiếp theo là cái điều kiện đúng không cái điều kiện chính là cái ô
+[09:10] đúng không cái điều kiện chính là cái ô ô F9 ở đây này để họ phân tích bằng iOS
+[09:13] ô F9 ở đây này để họ phân tích bằng iOS 9 chính là cái điều kiện đấy phải cái
+[09:16] 9 chính là cái điều kiện đấy phải cái thành phần thứ ba này Các bạn nhìn thấy
+[09:17] thành phần thứ ba này Các bạn nhìn thấy nó tô đậm lên ở đây là xong lên Tức là
+[09:20] nó tô đậm lên ở đây là xong lên Tức là khi và đã thỏa mãn với điều kiện là khu
+[09:22] khi và đã thỏa mãn với điều kiện là khu vực phía Bắc rồi thì mình sẽ tính tâm
+[09:24] vực phía Bắc rồi thì mình sẽ tính tâm cái gì mình sẽ tính tổng theo doanh thu
+[09:25] cái gì mình sẽ tính tổng theo doanh thu đó Bôi đen toàn bộ cái vùng Doanh thu là
+[09:27] đó Bôi đen toàn bộ cái vùng Doanh thu là c4d 18 đấy các bạn xem đó ngược lại Để
+[09:31] c4d 18 đấy các bạn xem đó ngược lại Để sau này các bạn em tơ đấy thì như vậy
+[09:34] sau này các bạn em tơ đấy thì như vậy tổng doanh thu của khu vực phía Bắc là
+[09:36] tổng doanh thu của khu vực phía Bắc là từng này các bạn sẽ tích và cái order
+[09:37] từng này các bạn sẽ tích và cái order chí này các bạn vào thẻ hô để mình rất
+[09:40] chí này các bạn vào thẻ hô để mình rất thích vào cái dấu phẩy đây này để mình
+[09:42] thích vào cái dấu phẩy đây này để mình ngăn cách các khách hàng nghìn với nhau
+[09:43] ngăn cách các khách hàng nghìn với nhau nhìn nó sẽ dễ hơn đúng không Mình nhìn
+[09:45] nhìn nó sẽ dễ hơn đúng không Mình nhìn một phát thì biết ngay là gì hơn 6 triệu
+[09:47] một phát thì biết ngay là gì hơn 6 triệu đấy bây giờ để áp dụng công thức của cái
+[09:51] đấy bây giờ để áp dụng công thức của cái tính tổng của khu vực phía Bắc cho miền
+[09:53] tính tổng của khu vực phía Bắc cho miền Trung và miền Nam thì mình là như thế
+[09:55] Trung và miền Nam thì mình là như thế nào thì các bạn giữ được trái và cái góc
+[09:57] nào thì các bạn giữ được trái và cái góc dưới ở bên phải thế này khi nào mà nó
+[09:59] dưới ở bên phải thế này khi nào mà nó hiện
+[10:00] hiện Ừ thì có thức lúc nhé để cậu tính lui
+[10:02] Ừ thì có thức lúc nhé để cậu tính lui vào đây đấy Bạn thấy thì như vậy Excel
+[10:05] vào đây đấy Bạn thấy thì như vậy Excel nó rất là thông minh đã sẽ tính tổng lực
+[10:07] nó rất là thông minh đã sẽ tính tổng lực là miền Trung và miền Nam lại nhưng mà
+[10:10] là miền Trung và miền Nam lại nhưng mà đây chưa Đúng không các bạn chú ý nhé
+[10:12] đây chưa Đúng không các bạn chú ý nhé Bây giờ chọn sẽ tích mà cái miền Trung
+[10:13] Bây giờ chọn sẽ tích mà cái miền Trung đây này thì bạn thấy cho cái vùng dữ
+[10:16] đây này thì bạn thấy cho cái vùng dữ liệu của mình nó lại bị dịch một ô đấy
+[10:18] liệu của mình nó lại bị dịch một ô đấy Lúc nãy mình tính tổng một bát thì nó là
+[10:20] Lúc nãy mình tính tổng một bát thì nó là từ cái hàng thứ Tư này Bây giờ mình tính
+[10:23] từ cái hàng thứ Tư này Bây giờ mình tính thẩm miền Trung nó lại từ hàng thứ 5 từ
+[10:25] thẩm miền Trung nó lại từ hàng thứ 5 từ B5 Và đây là từ đêm năm có bạn thấy đấy
+[10:27] B5 Và đây là từ đêm năm có bạn thấy đấy Bạn thấy cái vùng mà nó tô màu lên đây
+[10:30] Bạn thấy cái vùng mà nó tô màu lên đây này thì như vậy nó chưa thực sự chính
+[10:32] này thì như vậy nó chưa thực sự chính xác đúng không lại để sửa cái này mình
+[10:34] xác đúng không lại để sửa cái này mình làm như thế nào các bạn đồng ý tiếp nhé
+[10:36] làm như thế nào các bạn đồng ý tiếp nhé mình sẽ thích vào cái mũi tên này ăn đu
+[10:38] mình sẽ thích vào cái mũi tên này ăn đu lại Bây giờ mình xuất xưởng với công
+[10:40] lại Bây giờ mình xuất xưởng với công thức này các bạn thích đúng vậy đó Bây
+[10:42] thức này các bạn thích đúng vậy đó Bây giờ con sẽ Bôi đen Cái B1 jb18 đây này
+[10:44] giờ con sẽ Bôi đen Cái B1 jb18 đây này Đấy ta sẽ nhấn F4 nhá
+[10:46] Đấy ta sẽ nhấn F4 nhá bí ẩn F4 là diện Tức là mình sẽ thêm cái
+[10:50] bí ẩn F4 là diện Tức là mình sẽ thêm cái đôla chiếc hàng và chiếc cổ đây còn thấy
+[10:52] đôla chiếc hàng và chiếc cổ đây còn thấy chưa đô la trước b là đô la trước số 4
+[10:54] chưa đô la trước b là đô la trước số 4 đôla trước B và Đôla trước 18 tiếp tục
+[10:57] đôla trước B và Đôla trước 18 tiếp tục các bạn Model d4dd 18 là các bạn sẽ nhấn
+[11:00] các bạn Model d4dd 18 là các bạn sẽ nhấn F4 thì các bạn Thúy Nga một số bạn mà ấn
+[11:03] F4 thì các bạn Thúy Nga một số bạn mà ấn F4 không được thì các bạn có thể giữ
+[11:05] F4 không được thì các bạn có thể giữ thêm những nút tăng sừng và ở nét 4 nhá
+[11:07] thêm những nút tăng sừng và ở nét 4 nhá Đấy là tùy cái máy tính chế độ Bố bạn
+[11:09] Đấy là tùy cái máy tính chế độ Bố bạn Tại vì thông thường những cái phím F4
+[11:11] Tại vì thông thường những cái phím F4 của bạn nó sẽ có 2 chức năng đúng không
+[11:13] của bạn nó sẽ có 2 chức năng đúng không Thì có thể các bạn đang chọn cái mặc
+[11:15] Thì có thể các bạn đang chọn cái mặc định không phải là chức năng F4 cho nên
+[11:17] định không phải là chức năng F4 cho nên các bạn phải giữ phân xưởng F4 Còn nếu
+[11:19] các bạn phải giữ phân xưởng F4 Còn nếu như các bạn chọn chức năng mặc định lẽ
+[11:20] như các bạn chọn chức năng mặc định lẽ bốn thì gọi không cần giữ nút tăng sức
+[11:22] bốn thì gọi không cần giữ nút tăng sức nữa nhé đấy là cái cách một số bạn hãy
+[11:24] nữa nhé đấy là cái cách một số bạn hãy hỏi lại bây giờ cạn em tâm đấy thì kết
+[11:27] hỏi lại bây giờ cạn em tâm đấy thì kết quả đây vẫn là giống nhau về bạn thích
+[11:29] quả đây vẫn là giống nhau về bạn thích nụ cười đây này Đấy còn thấy được kết
+[11:31] nụ cười đây này Đấy còn thấy được kết quả khác nhau với cả lúc trước bây giờ
+[11:33] quả khác nhau với cả lúc trước bây giờ mình sẽ kích đúp vào cái công thức của
+[11:34] mình sẽ kích đúp vào cái công thức của mình chung cậu ở đây cho cái vùng dữ
+[11:36] mình chung cậu ở đây cho cái vùng dữ liệu của mình Lúc nãy nó sẽ không dịch
+[11:37] liệu của mình Lúc nãy nó sẽ không dịch nữa đấy Tại vì sao Bởi vì mình cố định
+[11:40] nữa đấy Tại vì sao Bởi vì mình cố định rồi cái đôla đây là cố định tức là khi
+[11:43] rồi cái đôla đây là cố định tức là khi các bạn áp dụng với công thức này cho
+[11:44] các bạn áp dụng với công thức này cho các cái phần dưới này ạ thì cái vùng dữ
+[11:46] các cái phần dưới này ạ thì cái vùng dữ liệu
+[11:46] liệu các bạn có đôla thì nó sẽ không bị dịch
+[11:49] các bạn có đôla thì nó sẽ không bị dịch chuyển đấy gọn hiểu yếu ạ thì lúc đấy mà
+[11:52] chuyển đấy gọn hiểu yếu ạ thì lúc đấy mà chưa có lại thì cái này nó sẽ dịch
+[11:53] chưa có lại thì cái này nó sẽ dịch chuyển giới hành trước năm và cái này sẽ
+[11:55] chuyển giới hành trước năm và cái này sẽ được chuyển cho rằng số 6 nhưng mà có
+[11:57] được chuyển cho rằng số 6 nhưng mà có đôla bọn đấy chứ nó vẫn ở hành số 4 rồi
+[11:59] đôla bọn đấy chứ nó vẫn ở hành số 4 rồi Đây là cái cái vùng dữ liệu bạn không
+[12:00] Đây là cái cái vùng dữ liệu bạn không được đấy là cái cách mà các bạn cố định
+[12:03] được đấy là cái cách mà các bạn cố định nhé Ok Đấy là mình hướng dẫn các bạn là
+[12:05] nhé Ok Đấy là mình hướng dẫn các bạn là hướng dẫn là để các bạn hiểu là tại sao
+[12:08] hướng dẫn là để các bạn hiểu là tại sao lại cố định thôi bây giờ ví dụ mình xóa
+[12:09] lại cố định thôi bây giờ ví dụ mình xóa đi Thông thường mình sẽ nhập mình sẽ làm
+[12:11] đi Thông thường mình sẽ nhập mình sẽ làm như sau này các bạn sẽ bằng xe buýt lấy
+[12:14] như sau này các bạn sẽ bằng xe buýt lấy còn đứng tác đây đầu tiên là cái cùng
+[12:15] còn đứng tác đây đầu tiên là cái cùng điều kiện đúng không để gọi sẽ Bôi đen
+[12:17] điều kiện đúng không để gọi sẽ Bôi đen cái khu vực ở đây và các bạn F4 luôn đấy
+[12:20] cái khu vực ở đây và các bạn F4 luôn đấy thì lúc này các bạn không phải bôi lên
+[12:22] thì lúc này các bạn không phải bôi lên nữa mà khi các bạn chọn vùng xong thì
+[12:24] nữa mà khi các bạn chọn vùng xong thì các bạn ấy mét bốn luôn thì nó sẽ cố
+[12:26] các bạn ấy mét bốn luôn thì nó sẽ cố định đúng không phải theo cái điều kiện
+[12:27] định đúng không phải theo cái điều kiện ở đây phải cái vùng tính tổng là diện là
+[12:31] ở đây phải cái vùng tính tổng là diện là cái B4 đến diện B18 mà đấy các bạn cũng
+[12:34] cái B4 đến diện B18 mà đấy các bạn cũng F4 luôn đấy thì lúc này thì nó sẽ cố
+[12:36] F4 luôn đấy thì lúc này thì nó sẽ cố định toàn bộ vùng nó bạn chọn Đây này
+[12:38] định toàn bộ vùng nó bạn chọn Đây này cái còn đóng mặc lại Rồi enter đây thì
+[12:41] cái còn đóng mặc lại Rồi enter đây thì nó sẽ ra là sáu triệu Thế còn đều rất là
+[12:44] nó sẽ ra là sáu triệu Thế còn đều rất là hai ạ Đây là cái xe buýt nhé à
+[12:46] hai ạ Đây là cái xe buýt nhé à trực tiếp theo mình sẽ hướng dẫn các bạn
+[12:48] trực tiếp theo mình sẽ hướng dẫn các bạn cách hàng sau ghép thì sao biết nó khác
+[12:51] cách hàng sau ghép thì sao biết nó khác gì với cả các clip ở đây mình sẽ có hai
+[12:52] gì với cả các clip ở đây mình sẽ có hai cái điều kiện điều kiện thứ nhất là tính
+[12:54] cái điều kiện điều kiện thứ nhất là tính tổng doanh thu theo khu vực phía Bắc này
+[12:57] tổng doanh thu theo khu vực phía Bắc này việt-trung này ở miền Nam nhưng mà diện
+[13:00] việt-trung này ở miền Nam nhưng mà diện cho các sản phẩm 01 Thôi thì như vậy Ở
+[13:02] cho các sản phẩm 01 Thôi thì như vậy Ở đây là có hai điều kiện theo cái sản
+[13:04] đây là có hai điều kiện theo cái sản phẩm và theo khu vực Đúng thế đoạn không
+[13:07] phẩm và theo khu vực Đúng thế đoạn không thể dùng làm sao biết được bởi vì sắp ít
+[13:08] thể dùng làm sao biết được bởi vì sắp ít là tính tổng có một điều kiện thôi đấy
+[13:11] là tính tổng có một điều kiện thôi đấy thì các bạn sẽ ở đây mình sẽ bằng cm này
+[13:15] thì các bạn sẽ ở đây mình sẽ bằng cm này còn mở ngoặc thì thành phần đầu tiên của
+[13:18] còn mở ngoặc thì thành phần đầu tiên của cái hàm cm là cái xong lên thì ăn chuối
+[13:20] cái hàm cm là cái xong lên thì ăn chuối nha Cái Sulli pet này nó khác với cả sắp
+[13:22] nha Cái Sulli pet này nó khác với cả sắp ít tại vì cái xong ít thì cái xong rên
+[13:25] ít tại vì cái xong ít thì cái xong rên nó lại là cái cuối cùng cơ trong khi cái
+[13:27] nó lại là cái cuối cùng cơ trong khi cái hàng sau ghép thì xong lên đó lại là ở
+[13:29] hàng sau ghép thì xong lên đó lại là ở cái vùng đầu tiên để cho nên cái vùng
+[13:31] cái vùng đầu tiên để cho nên cái vùng đầu tiên của mình phải mua đem toàn bộ
+[13:33] đầu tiên của mình phải mua đem toàn bộ doanh thu này đúng ạ và các bạn hãy nhớ
+[13:35] doanh thu này đúng ạ và các bạn hãy nhớ lại F4 Tại sao lại phải là F4 ạ tại vì
+[13:38] lại F4 Tại sao lại phải là F4 ạ tại vì mình sẽ áp dụng công thức này cho các ở
+[13:41] mình sẽ áp dụng công thức này cho các ở dưới này tức là cho miền Trung và miền
+[13:42] dưới này tức là cho miền Trung và miền Nam đúng không Thì mình phải bấm F4 để
+[13:45] Nam đúng không Thì mình phải bấm F4 để cái vùng này nó sẽ không bị dịch chuyển
+[13:46] cái vùng này nó sẽ không bị dịch chuyển ở vùng tổng doanh thu này nó sẽ không bị
+[13:48] ở vùng tổng doanh thu này nó sẽ không bị dịch chuyển đấy phải tiếp theo là cái
+[13:51] dịch chuyển đấy phải tiếp theo là cái vùng điều kiện thứ nhất giả sử cái điều
+[13:53] vùng điều kiện thứ nhất giả sử cái điều kiện thứ nhất là mình theo khu vực đúng
+[13:54] kiện thứ nhất là mình theo khu vực đúng không thì các bạn xem đem đến khu vực ở
+[13:56] không thì các bạn xem đem đến khu vực ở bên trái này các bạn sẽ nhấn F4 này cố
+[13:58] bên trái này các bạn sẽ nhấn F4 này cố định cái cùng điều kiện này ạ phải để
+[14:01] định cái cùng điều kiện này ạ phải để cái điều kiện là theo khu vực chính là
+[14:03] cái điều kiện là theo khu vực chính là cái ô F16 làm ạ Đấy phẩm tiếp theo là
+[14:06] cái ô F16 làm ạ Đấy phẩm tiếp theo là cái vùng điều kiện thứ Hai điều kiện thứ
+[14:08] cái vùng điều kiện thứ Hai điều kiện thứ hai là cho sản phẩm Đúng không các bạn
+[14:09] hai là cho sản phẩm Đúng không các bạn lại Bôi đen Cái cục C nhà ngã tư từ c4d
+[14:13] lại Bôi đen Cái cục C nhà ngã tư từ c4d 18 các bạn sẽ nhấn F4 để cố định đấy
+[14:16] 18 các bạn sẽ nhấn F4 để cố định đấy phần theo điều kiện sản phẩm ở trên này
+[14:17] phần theo điều kiện sản phẩm ở trên này là cái ô g14 nhưng mà còn chúng á Cái ô
+[14:21] là cái ô g14 nhưng mà còn chúng á Cái ô g14 này các bạn sẽ nhấn F4 để cố định
+[14:23] g14 này các bạn sẽ nhấn F4 để cố định tại vì sao lại phải cố định cái g14 Tại
+[14:26] tại vì sao lại phải cố định cái g14 Tại vì khi các bạn áp dụng với công thức cho
+[14:28] vì khi các bạn áp dụng với công thức cho cá tôm dưới này thì bây giờ mày bố nó sẽ
+[14:29] cá tôm dưới này thì bây giờ mày bố nó sẽ không bị dịch chuyển nó vẫn là Theo các
+[14:31] không bị dịch chuyển nó vẫn là Theo các điều kiện sản phẩm 01 ở đây thôi đúng
+[14:33] điều kiện sản phẩm 01 ở đây thôi đúng không ạ Đấy bạn enter thì nó sẽ ra là
+[14:37] không ạ Đấy bạn enter thì nó sẽ ra là tổng đây còn thích đút vào đây mình sẽ
+[14:40] tổng đây còn thích đút vào đây mình sẽ chọn cái dấu phẩy là ngắn ngăn cách hàng
+[14:42] chọn cái dấu phẩy là ngắn ngăn cách hàng nghìn cho dễ hiểu bây giờ quên sẽ kích
+[14:44] nghìn cho dễ hiểu bây giờ quên sẽ kích đúp vào cái công thức ở miền Nam cuối
+[14:45] đúp vào cái công thức ở miền Nam cuối cùng để quan kiểm tra gọi lại cho
+[14:46] cùng để quan kiểm tra gọi lại cho sự kiện này nó không bị dịch chuyển lại
+[14:49] sự kiện này nó không bị dịch chuyển lại Tại vì lúc đấy Mình đã cố định Kyo gồm
+[14:50] Tại vì lúc đấy Mình đã cố định Kyo gồm 14 rồi đấy trong khi ở đây cái khu vực
+[14:53] 14 rồi đấy trong khi ở đây cái khu vực thì nó sẽ dịch chuyển theo đúng không ạ
+[14:55] thì nó sẽ dịch chuyển theo đúng không ạ rất là hai ạ Bây giờ mình Đố các bạn nhé
+[14:59] rất là hai ạ Bây giờ mình Đố các bạn nhé Mình có thể dùng cái hàng xong mới biết
+[15:00] Mình có thể dùng cái hàng xong mới biết cho cái hàng xóm ít này không cho cái ví
+[15:02] cho cái hàng xóm ít này không cho cái ví dụ Thứ hai này không hoàn toàn có thể
+[15:04] dụ Thứ hai này không hoàn toàn có thể nhá đây tại vì làm xong ít là cho nhiều
+[15:06] nhá đây tại vì làm xong ít là cho nhiều điều kiện mà một điều kiện để lại thừa
+[15:08] điều kiện mà một điều kiện để lại thừa sức Mời gọi sẽ bằng này sao hết đấy thì
+[15:13] sức Mời gọi sẽ bằng này sao hết đấy thì thành phần đầu tiên nó khác với cái xe
+[15:15] thành phần đầu tiên nó khác với cái xe buýt là gì Cái Thành Phần đầu tiên là
+[15:16] buýt là gì Cái Thành Phần đầu tiên là cái vùng tính tổng thì bạn Bôi đen Cái
+[15:18] cái vùng tính tổng thì bạn Bôi đen Cái vùng viện vùng doanh thu đấy thôi các
+[15:20] vùng viện vùng doanh thu đấy thôi các bạn nhấn F4 này cố định phẩy tiếp theo
+[15:22] bạn nhấn F4 này cố định phẩy tiếp theo là tính điều kiện cho khu vực đúng không
+[15:24] là tính điều kiện cho khu vực đúng không là cái vùng điều kiện thì bạn Bun I cái
+[15:25] là cái vùng điều kiện thì bạn Bun I cái vùng khu vực ở đây để chọn sẽ nhấn F4 để
+[15:28] vùng khu vực ở đây để chọn sẽ nhấn F4 để cố định phải theo điều kiện là khu vực ở
+[15:31] cố định phải theo điều kiện là khu vực ở đây đấy vì ở đây chỉ có một điều kiện
+[15:33] đây đấy vì ở đây chỉ có một điều kiện cho đúng không Con sẽ đóng mọc luôn các
+[15:34] cho đúng không Con sẽ đóng mọc luôn các bạn enter đây các bạn Facebook vào đây
+[15:37] bạn enter đây các bạn Facebook vào đây phải gọi ông rất là 2 à Thì mình khuyên
+[15:40] phải gọi ông rất là 2 à Thì mình khuyên các bạn nhé Nếu như mà các bạn dùng cái
+[15:43] các bạn nhé Nếu như mà các bạn dùng cái hòm xong mà có một điều kiện thì các bạn
+[15:45] hòm xong mà có một điều kiện thì các bạn cũng nên dùng làm sao Z đ
+[15:46] cũng nên dùng làm sao Z đ Vì sao tình hai cái cú pháp này nó khác
+[15:49] Vì sao tình hai cái cú pháp này nó khác nhau cho nên nếu các bạn dùng cả hai thì
+[15:51] nhau cho nên nếu các bạn dùng cả hai thì nhiều khi các bạn sẽ bị lẫn này Thế gọi
+[15:53] nhiều khi các bạn sẽ bị lẫn này Thế gọi nhầm thì tốt nhất là các bạn dùng cái
+[15:55] nhầm thì tốt nhất là các bạn dùng cái hàm cm các bạn có thể dùng trong một
+[15:57] hàm cm các bạn có thể dùng trong một điều kiện còn nhiều điều kiện đều được
+[15:58] điều kiện còn nhiều điều kiện đều được vào cái cú pháp Các bạn dùng quen thì nó
+[16:01] vào cái cú pháp Các bạn dùng quen thì nó sẽ không bị nhầm nhé Đây là cách cạnh mà
+[16:03] sẽ không bị nhầm nhé Đây là cách cạnh mà mình khuyên các bạn là như vậy Ok như
+[16:06] mình khuyên các bạn là như vậy Ok như vậy Mình chất tổng kết lại cái bài học
+[16:09] vậy Mình chất tổng kết lại cái bài học số 3 ngày hôm nay nhé các bạn chú ý nhá
+[16:11] số 3 ngày hôm nay nhé các bạn chú ý nhá Cái làm xong các bạn có thể xong một ô
+[16:13] Cái làm xong các bạn có thể xong một ô nhiều ô hoặc các bạn nhiều vùng các bạn
+[16:16] nhiều ô hoặc các bạn nhiều vùng các bạn thêm số đều được nhé Còn cái hàng xăng
+[16:18] thêm số đều được nhé Còn cái hàng xăng ít và làm sao biết đấy thì cái quan
+[16:21] ít và làm sao biết đấy thì cái quan trọng nhất là gì Thông thường các cái
+[16:23] trọng nhất là gì Thông thường các cái vùng điều kiện và cái vùng tính tổng là
+[16:25] vùng điều kiện và cái vùng tính tổng là các bạn phải cố định đấy hầu như là mình
+[16:28] các bạn phải cố định đấy hầu như là mình phải cố định chưa bao giờ mình gặp là
+[16:30] phải cố định chưa bao giờ mình gặp là không cố định cả Tại vì khi mình áp dụng
+[16:32] không cố định cả Tại vì khi mình áp dụng công thức cho các cô sau thì cái vùng
+[16:35] công thức cho các cô sau thì cái vùng điều kiện và cái vùng tính tổng nó sẽ
+[16:37] điều kiện và cái vùng tính tổng nó sẽ không bị dịch chuyển Đấy đấy là cái chú
+[16:39] không bị dịch chuyển Đấy đấy là cái chú ý thứ nhất cách chú ý Thứ hai là mình
+[16:42] ý thứ nhất cách chú ý Thứ hai là mình thấy lên dùng hàm xanh mét với cả một
+[16:44] thấy lên dùng hàm xanh mét với cả một điều kiện thì mình cũng nên dùng làm sao
+[16:45] điều kiện thì mình cũng nên dùng làm sao mép để ạ
+[16:46] mép để ạ em của xóm xs và sắp được khác nhau để
+[16:50] em của xóm xs và sắp được khác nhau để tránh nhầm lẫn thì mình lên dùng một cái
+[16:52] tránh nhầm lẫn thì mình lên dùng một cái Hà thôi Làm sao biết ghét nhé và các bạn
+[16:54] Hà thôi Làm sao biết ghét nhé và các bạn thứ nhất để cố định thì bạn sẽ dùng cái
+[16:56] thứ nhất để cố định thì bạn sẽ dùng cái phím F4 hoặc là phân xưởng F4 nhưng mà
+[16:59] phím F4 hoặc là phân xưởng F4 nhưng mà trong trường hợp mà gì ạ Mà cái phím F4
+[17:01] trong trường hợp mà gì ạ Mà cái phím F4 của bạn hỏng đấy hoặc sáng sớm F4 của
+[17:03] của bạn hỏng đấy hoặc sáng sớm F4 của bạn học Thế bạn làm như thế nào Okay Giả
+[17:05] bạn học Thế bạn làm như thế nào Okay Giả sử cái kính nhỏ nhau mình sẽ hướng dẫn
+[17:06] sử cái kính nhỏ nhau mình sẽ hướng dẫn các bạn này các bạn cứ sao biết đi thấy
+[17:09] các bạn này các bạn cứ sao biết đi thấy thì đầu tiên ở vùng tính cổng đúng không
+[17:10] thì đầu tiên ở vùng tính cổng đúng không Bây giờ xử lý kính F4 lòng không làm
+[17:12] Bây giờ xử lý kính F4 lòng không làm được có cắm cứ phải đi tiếp theo là vùng
+[17:14] được có cắm cứ phải đi tiếp theo là vùng điều kiện của các bạn Bôi đen những vùng
+[17:15] điều kiện của các bạn Bôi đen những vùng điều kiện này với bạn phải là Theo các
+[17:18] điều kiện này với bạn phải là Theo các điều kiện thì bác là đấy các bạn diện
+[17:20] điều kiện thì bác là đấy các bạn diện tích chuột vào cái trước đê này các bạn
+[17:21] tích chuột vào cái trước đê này các bạn các bạn gõ kinh đô la Thôi bằng cách các
+[17:24] các bạn gõ kinh đô la Thôi bằng cách các bạn giữ VSIP và bạn Nhím đôla thôi Tại
+[17:26] bạn giữ VSIP và bạn Nhím đôla thôi Tại Donna SO4 này đợt tức là thay vì nếu như
+[17:29] Donna SO4 này đợt tức là thay vì nếu như phím F4 bị hỏng thì còn phải chịu khó
+[17:31] phím F4 bị hỏng thì còn phải chịu khó nhập tay không nhận đấy lại cách mà mình
+[17:35] nhập tay không nhận đấy lại cách mà mình hướng dẫn các bạn này nếu như phím F4
+[17:37] hướng dẫn các bạn này nếu như phím F4 hội vẫn học thì cái này buộc các bạn
+[17:40] hội vẫn học thì cái này buộc các bạn phải dùng tay cái này mình không quen
+[17:41] phải dùng tay cái này mình không quen lắm lại sau đó còn enter đi bây
+[17:46] lắm lại sau đó còn enter đi bây ở lại rất là hay thì trước khi kết thúc
+[17:51] ở lại rất là hay thì trước khi kết thúc bài học ngày hôm nay thì mình sẽ ra các
+[17:52] bài học ngày hôm nay thì mình sẽ ra các bạn bài tập về nhà nhá Đấy còn quả
+[17:56] bạn bài tập về nhà nhá Đấy còn quả folder của bài số 3 này đây gọi sẽ tích
+[17:59] folder của bài số 3 này đây gọi sẽ tích và cái câu hỏi đây Đây là cái file câu
+[18:01] và cái câu hỏi đây Đây là cái file câu hỏi nhá Thì các câu hỏi của mình sẽ
+[18:03] hỏi nhá Thì các câu hỏi của mình sẽ Luyện tập là gì mình tiếp tục luyện tập
+[18:05] Luyện tập là gì mình tiếp tục luyện tập cái hàm cfs Thì cái này nó sẽ ngược với
+[18:08] cái hàm cfs Thì cái này nó sẽ ngược với cái ví dụ 3 ở trên là gì mình sẽ tính
+[18:10] cái ví dụ 3 ở trên là gì mình sẽ tính tổng theo cái sản phẩm đây và cái khu
+[18:12] tổng theo cái sản phẩm đây và cái khu vực nó lại nằm ở phía trên này có đây
+[18:14] vực nó lại nằm ở phía trên này có đây thì về nhà cũng xuất hiện ở đây nhá Để
+[18:15] thì về nhà cũng xuất hiện ở đây nhá Để vào sau khi các bạn nhỏ công suất người
+[18:17] vào sau khi các bạn nhỏ công suất người các bạn sẽ đổi ra Ví dụ khu vực phía Bắc
+[18:19] các bạn sẽ đổi ra Ví dụ khu vực phía Bắc các bạn đổi thành miền Trung và miền Nam
+[18:20] các bạn đổi thành miền Trung và miền Nam thì gọi xem cái kết quả nó có thay đổi
+[18:22] thì gọi xem cái kết quả nó có thay đổi không nhá và cái bài số 2 trong cái bài
+[18:25] không nhá và cái bài số 2 trong cái bài tập về nhà là diện sai ghép ở đây là ba
+[18:27] tập về nhà là diện sai ghép ở đây là ba điều kiện cho Tức là mình sẽ vẫn tính
+[18:29] điều kiện cho Tức là mình sẽ vẫn tính tổng theo khu vực và theo các sản phẩm
+[18:31] tổng theo khu vực và theo các sản phẩm vào đây nhưng mà mình chỉ tính tổng cho
+[18:33] vào đây nhưng mà mình chỉ tính tổng cho các sản phẩm và có doanh thu lớn hơn
+[18:35] các sản phẩm và có doanh thu lớn hơn 800.000 Thôi để gọn hiểu ví dụ cái sản
+[18:38] 800.000 Thôi để gọn hiểu ví dụ cái sản phẩm và doanh thu 719 thì mình sẽ không
+[18:39] phẩm và doanh thu 719 thì mình sẽ không tính vào đấy lại thì mình làm như thế
+[18:42] tính vào đấy lại thì mình làm như thế nào đây là ba điều kiện thực ra các bạn
+[18:44] nào đây là ba điều kiện thực ra các bạn có thể dùng nhiều điều kiện đều được thì
+[18:46] có thể dùng nhiều điều kiện đều được thì mình sẽ làm
+[18:46] mình sẽ làm 13 điều kiện rồi nhá bay về nhà cho các
+[18:50] 13 điều kiện rồi nhá bay về nhà cho các bạn nhé Ok như vậy là mình đã kết thúc
+[18:53] bạn nhé Ok như vậy là mình đã kết thúc bài học ngày hôm nay ở đây cảm ơn các
+[18:55] bài học ngày hôm nay ở đây cảm ơn các bạn đã theo dõi các bạn nhớ đăng ký Kênh
+[18:56] bạn đã theo dõi các bạn nhớ đăng ký Kênh để cập nhật video mới nhất của gà cũng
+[18:59] để cập nhật video mới nhất của gà cũng như chia sẻ để giúp mọi người cùng hoặc
+[19:01] như chia sẻ để giúp mọi người cùng hoặc xem nhé Xin chào và hẹn gặp lại ở

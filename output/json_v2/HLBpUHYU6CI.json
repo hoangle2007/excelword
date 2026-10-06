@@ -1,0 +1,805 @@
+{
+  "video_id": "HLBpUHYU6CI",
+  "bai": "Bai 22 Bao cao dong Dashboard: PivotTable, PivotChart, Slicer, Report Connections, Top Filter",
+  "url": "https://www.youtube.com/watch?v=HLBpUHYU6CI",
+  "luong": "C_truc_quan_bao_cao",
+  "cong_thuc": [
+    {
+      "ten": "MIN loai thang nghi (=0) bang mang: MIN(IF)",
+      "cong_thuc": "{=MIN(IF(vung>0,vung))} + Ctrl+Shift+Enter (CSE). Excel 365: =MINIFS(vung,vung,\">0\")",
+      "giai_thich": "Thang nghi doanh thu =0 lam MIN(0) sai; IF>0 loc lay so duong roi MIN. CSE cho Excel cu; 365 dung MINIFS gon.",
+      "vi_du": "Doanh thu T1-T12 co 0 thang nghi: =MIN(IF(B2:B13>0,B2:B13)) + CSE ra min that (vd 15) thay vi 0.",
+      "loi_hay_gap": "Quen CSE tren Excel cu nen ra 0/#VALUE!. Vung co text/rong lam IF loi; quen khoa vung khi copy."
+    },
+    {
+      "ten": "Chuan bi Table dong (Ctrl+T) lam nguon Dashboard",
+      "cong_thuc": "Chon 1 o trong vung > Ctrl+T (Insert > Table) > tich My table has headers > dat ten 'Du lieu'",
+      "giai_thich": "Table tu mo rong ~5000 dong khi them thang moi; moi Pivot lay ten Table lam nguon nen Refresh la nap, khong sua Source.",
+      "vi_du": "Vung A1:F5000 thanh Table Du lieu; them thang 13 vao dong cuoi tu nam vao Table.",
+      "loi_hay_gap": "Khong tich Headers nen tieu de thanh data. Ten space/dau tieng Viet gay loi Source."
+    },
+    {
+      "ten": "Tao Pivot tu Table + keo Nam/Thang > Rows, Doanh thu > Values",
+      "cong_thuc": "Click trong Table > Insert > PivotTable > New Worksheet > keo Nam/Thang vao Rows (Axis), Doanh thu vao Values (Sum)",
+      "giai_thich": "Moi Pivot 1 sheet rieng cho gon; Rows liet ke thoi gian, Values tong tien. Sau dinh dang Tabular, tat Subtotal/Grand thua.",
+      "vi_du": "Pivot1: Rows=Nam/Thang, Values=Sum Doanh thu theo thang de ve Line theo thoi gian.",
+      "loi_hay_gap": "Keo Nam vao Values/Text vao Values ra Count vo nghia. De pivot de len nhau lam mat Fields."
+    },
+    {
+      "ten": "Report Layout Tabular + tat Grand/Subtotal thua",
+      "cong_thuc": "Click pivot > Design > Report Layout > Show in Tabular Form; Subtotals/Grand Totals > Off khi khong can",
+      "giai_thich": "Tabular tach moi field 1 cot ro hon Compact; tat tong thua cho chart Top/Bottom gon, chi giu tong khi can.",
+      "vi_du": "Pivot Top SP: Tabular + Grand Off de chi thay Top 3 sach.",
+      "loi_hay_gap": "Tat Grand nhung chart % can tong nen sai ty trong. De Compact 2 cap don 1 cot kho doc."
+    },
+    {
+      "ten": "PivotChart dau tien (Column/Line/Pie) + Change Type",
+      "cong_thuc": "Click pivot > Insert > PivotChart > chon Column/Line/Pie > OK. Doi sau: chuot phai chart > Change Chart Type",
+      "giai_thich": "PivotChart gan pivot nen loc/slicer tu nhay. Column so sanh, Line xu huong, Pie ty trong. Copy chart cu doi kieu nhanh hon ve moi.",
+      "vi_du": "PivotChart Column doanh thu theo thang; copy sang lam Pie % Khu vuc bang Change Type.",
+      "loi_hay_gap": "Ve Chart thuong thay vi PivotChart nen slicer khong dieu khien. Pie nhieu hon 6 lat cat nat kho doc."
+    },
+    {
+      "ten": "Nhan ban PivotChart: Ctrl keo sheet + Ctrl keo chart",
+      "cong_thuc": "Nhan ban sheet: giu Ctrl + keo tab sheet sang phai. Nhan ban chart: giu Ctrl + keo chart trong sheet",
+      "giai_thich": "Nhan sheet de co pivot+chart moi doc lap; nhan chart trong cung sheet de doi truong Legend/Axis thanh chart moi (Khu vuc -> NPP).",
+      "vi_du": "Ctrl-keo sheet chart Top 3 thanh sheet Bottom 3 roi doi Top sang Bottom. Ctrl-keo chart Khu vuc thanh chart NPP.",
+      "loi_hay_gap": "Nhan sheet nhung quen doi filter/field nen 2 chart giong het. Keo khong giu Ctrl thanh di chuyen mat ban goc."
+    },
+    {
+      "ten": "Top 3 / Bottom 3 bang Value Filter Top 10",
+      "cong_thuc": "Click mui ten Row Labels > Value Filters > Top 10 > Show Top 3 by Sum of Doanh thu (Bottom cho te nhat)",
+      "giai_thich": "Loc theo gia tri tong chu khong phai ten. Doi 10 thanh 3; Bottom cho 3 SP te nhat. Ket hop sort giam dan + reverse axis cho Top 1 len tren.",
+      "vi_du": "Row=San pham > Top 3 by Sum Doanh thu -> SP07, SP03, SP01 cao nhat. Doi Bottom 3 -> 3 SP thap nhat.",
+      "loi_hay_gap": "Loc Top theo Count thay vi Sum nen top sai. Quen sort nen Top 1 nam duoi cung."
+    },
+    {
+      "ten": "Dao truc cho Top 1 len tren (Reverse)",
+      "cong_thuc": "Chuot phai truc Category > Format Axis > tich Categories in reverse order",
+      "giai_thich": "Chart cot ngang sort lon->be nhung Top 1 lai nam duoi; reverse dua Top 1 len tren cung de doc tu tren xuong.",
+      "vi_du": "Top 3 sort giam dan nhung SP1 o duoi > Reverse -> SP1 len tren.",
+      "loi_hay_gap": "Reverse nham truc Value lam thang do dao. Reverse ca 2 truc gay roi."
+    },
+    {
+      "ten": "Data Labels: Add + Category Name + Value + #,##0 + %",
+      "cong_thuc": "Chuot phai series > Add Data Labels. Format (Ctrl+1): tich Category Name + Value (+Percentage cho Pie); Number Custom #,##0",
+      "giai_thich": "Cot hien so tien; Pie hien ten mien + tien (+%). #,##0 tach nghin (333333->333,333). Vi tri Outside End/Auto cho khoi de.",
+      "vi_du": "Pie Khu vuc: tick Name+Value -> 'Mien Nam 40% 1,234,567'. Column: Outside End + #,##0.",
+      "loi_hay_gap": "Bat ca Name+Value+% +Leader lines lam Pie roi. De so dang General 1234567 kho doc."
+    },
+    {
+      "ten": "Trang tri Series: Border + Smooth line",
+      "cong_thuc": "Chon series > Ctrl+1 > Fill & Line > Border Solid line mau cam Width 2-3pt. Line chart: tich Smoothed line",
+      "giai_thich": "Vien cot tron dep, day 2-3pt mau thuong hieu; Smooth lam line cong mem thay vi goc canh.",
+      "vi_du": "Cot vien cam 3pt; Line doanh thu tick Smooth de mem.",
+      "loi_hay_gap": "Vien qua day (>5pt) at cot; Smooth cho du lieu dot bien gay hieu lam xu huong."
+    },
+    {
+      "ten": "Chart Title + Legend + resize bo cuc Dashboard",
+      "cong_thuc": "Click Title go ten (Top 3, Bottom 3, % Khu vuc...). Chart Elements (+) > Legend Top/Bottom. Keo goc resize + snap bo cuc 2x2/3x2",
+      "giai_thich": "Title ro muc dich tung chart; Legend chu thich mau; resize can doi de 4-5 chart vua 1 man hinh khong cuon.",
+      "vi_du": "Title 'Doanh thu Top 3 SP', Legend Bottom, resize 4 chart vua sheet Dashboard.",
+      "loi_hay_gap": "De title mac dinh 'Chart 1' khong biet chart gi. Keo chart che slicer/nut loc."
+    },
+    {
+      "ten": "Doi truong chart: Khu vuc -> Nha phan phoi",
+      "cong_thuc": "Click chart > PivotChart Fields > bo Khu vuc khoi Legend/Axis > keo Nha phan phoi vao thay",
+      "giai_thich": "Tan dung chart cu doi chieu phan tich ma khong ve moi: thay field Legend/Axis giu nguyen kieu Pie/Column.",
+      "vi_du": "Tu Pie % Khu vuc: bo Khu vuc, keo NPP vao -> Pie % NPP (FPT 30%...).",
+      "loi_hay_gap": "Keo them ma khong bo cu nen chart 2 chieu vo nghia. Doi field nhung quen doi Title gay sai ten."
+    },
+    {
+      "ten": "Slicer Nam/Thang/Khu vuc/NPP (4 nut loc)",
+      "cong_thuc": "Chon Pivot > PivotTable Analyze > Insert Slicer > tich Nam, Thang, Khu vuc, Nha phan phoi > OK. Sap xep 4 slicer quanh Dashboard.",
+      "giai_thich": "4 slicer dieu khien toan dashboard: Nam/Thang thoi gian, Khu vuc/NPP khong gian kenh. Copy slicer cu dung lai nhanh.",
+      "vi_du": "4 slicer tren dau Dashboard: Nam (2019/2020), Thang (1-12), Khu vuc, NPP.",
+      "loi_hay_gap": "Chen slicer tu 1 pivot rieng le nen chua noi cac pivot khac. De slicer qua nho bam kho."
+    },
+    {
+      "ten": "Report Connections: 1 slicer dieu khien all chart",
+      "cong_thuc": "Chuot phai moi Slicer > Report Connections (PivotTable Connections) > tich TAT CA PivotTable cua dashboard > OK",
+      "giai_thich": "Buoc song con cua dashboard: noi moi slicer toi moi pivot/chart. Thieu 1 tick la chart do dung yen khi loc -> lech. Test 2020 xem all nhay.",
+      "vi_du": "Slicer Nam tick Pivot1..Pivot5; bam 2020 ca 5 chart deu doi theo 2020.",
+      "loi_hay_gap": "Loi pho bien nhat: quen tick 1 pivot (chart lech). Them pivot moi sau ma quen noi lai slicer."
+    },
+    {
+      "ten": "Slicer Multi-select + Clear Filter",
+      "cong_thuc": "Slicer header: bieu tuong Multi-select (3 o) de chon nhieu; bieu tuong Clear (loc X) de xoa loc",
+      "giai_thich": "Multi chon nhieu nam/thang de so sanh; Clear tra ve all de test dong bo sau moi lan loc.",
+      "vi_du": "Bat Multi chon 2019+2020 so sanh; Clear de ve trang thai all truoc khi gui sep.",
+      "loi_hay_gap": "Khong bat Multi nen mat chon cu. Quen Clear truoc khi gui nen sep mo thay dashboard dang loc do."
+    },
+    {
+      "ten": "Refresh + an sheet phu + test + luu file song",
+      "cong_thuc": "Them thang moi vao Table > moi pivot Right-click > Refresh (Refresh All). Chon nhieu sheet phu > Hide. Test tung slicer. Luu XLSX (giu Pivot+Slicer song)",
+      "giai_thich": "Table mo rong + Refresh nap thang moi. Hide sheet trung gian chi giu Dashboard sach. Gui file song de sep tu bam slicer, khong gui anh chet/PDF tinh.",
+      "vi_du": "Them T13 > Refresh All > test Nam 2020, Thang 3, Khu vuc Nam -> all chart nhay dung > Hide sheets phu > luu Dashboard.xlsx gui.",
+      "loi_hay_gap": "Them data ngoai Table + khong Refresh nen dashboard cu. Gui PDF/anh lam mat tuong tac slicer. Quen Hide sheet rac gay roi."
+    }
+  ],
+  "thuat_toan_quy_trinh": [
+    {
+      "ten": "Table nguon + Pivot nen",
+      "cac_buoc": [
+        {
+          "buoc": 1,
+          "thao_tac": "Chon 1 o trong vung > Ctrl+T, tich headers, dat ten 'Du lieu'",
+          "phim_tat": "Ctrl+T",
+          "luu_y": "Ten lien nhau, tich headers"
+        },
+        {
+          "buoc": 2,
+          "thao_tac": "Insert > PivotTable tu Table, New Worksheet; keo Nam/Thang > Rows, Doanh thu > Values",
+          "phim_tat": "",
+          "luu_y": "Moi pivot 1 sheet cho gon"
+        },
+        {
+          "buoc": 3,
+          "thao_tac": "Design Tabular, tat Grand/Subtotal thua; Insert PivotChart dau tien",
+          "phim_tat": "",
+          "luu_y": "Tabular ro hon Compact"
+        }
+      ]
+    },
+    {
+      "ten": "Nhan ban + Top/Bottom + dinh dang chart",
+      "cac_buoc": [
+        {
+          "buoc": 1,
+          "thao_tac": "Ctrl-keo tab sheet de nhan pivot/chart; Ctrl-keo chart trong sheet de nhan chart",
+          "phim_tat": "",
+          "luu_y": "Giu Ctrl keo, khong keo chay"
+        },
+        {
+          "buoc": 2,
+          "thao_tac": "Moi chart: Change Type Column/Line/Pie; Value Filter Top 10 doi 3 / Bottom 3",
+          "phim_tat": "",
+          "luu_y": "Loc theo Sum Doanh thu"
+        },
+        {
+          "buoc": 3,
+          "thao_tac": "Sort + Reverse axis cho Top1 len tren; Add Data Labels Name+Value #,##0",
+          "phim_tat": "Ctrl+1",
+          "luu_y": "Reverse Category, khong nham Value"
+        },
+        {
+          "buoc": 4,
+          "thao_tac": "Border Solid 2-3pt + Smooth line; Title + Legend + resize bo cuc",
+          "phim_tat": "",
+          "luu_y": "Vien mong, title ro nghia"
+        }
+      ]
+    },
+    {
+      "ten": "Slicer + Connections + hoan thien Dashboard",
+      "cac_buoc": [
+        {
+          "buoc": 1,
+          "thao_tac": "Tao sheet Dashboard moi, copy cac chart ve sap xep bo cuc",
+          "phim_tat": "",
+          "luu_y": "Title ro: Top3/Bottom3/%..."
+        },
+        {
+          "buoc": 2,
+          "thao_tac": "Chen 4 Slicer Nam/Thang/Khu vuc/NPP tu pivot",
+          "phim_tat": "Analyze > Insert Slicer",
+          "luu_y": "Sap xep quanh dashboard"
+        },
+        {
+          "buoc": 3,
+          "thao_tac": "Moi Slicer: Report Connections tick TAT CA pivot",
+          "phim_tat": "Chuot phai > Connections",
+          "luu_y": "Quen 1 tick la lech - loi so 1"
+        },
+        {
+          "buoc": 4,
+          "thao_tac": "Doi field Khu vuc->NPP khi can bang PivotChart Fields",
+          "phim_tat": "",
+          "luu_y": "Nho doi lai Title"
+        },
+        {
+          "buoc": 5,
+          "thao_tac": "An sheet phu (chon nhieu > Hide), Refresh All, test tung slicer, luu XLSX song",
+          "phim_tat": "",
+          "luu_y": "Gui file song, khong gui anh chet"
+        }
+      ]
+    }
+  ],
+  "quy_trinh": [
+    {
+      "ten": "Table nguon + Pivot nen",
+      "cac_buoc": [
+        "Chon 1 o trong vung > Ctrl+T, tich headers, dat ten 'Du lieu' (Ctrl+T)",
+        "Insert > PivotTable tu Table, New Worksheet; keo Nam/Thang > Rows, Doanh thu > Values",
+        "Design Tabular, tat Grand/Subtotal thua; Insert PivotChart dau tien"
+      ]
+    },
+    {
+      "ten": "Nhan ban + Top/Bottom + dinh dang chart",
+      "cac_buoc": [
+        "Ctrl-keo tab sheet de nhan pivot/chart; Ctrl-keo chart trong sheet de nhan chart",
+        "Moi chart: Change Type Column/Line/Pie; Value Filter Top 10 doi 3 / Bottom 3",
+        "Sort + Reverse axis cho Top1 len tren; Add Data Labels Name+Value #,##0 (Ctrl+1)",
+        "Border Solid 2-3pt + Smooth line; Title + Legend + resize bo cuc"
+      ]
+    },
+    {
+      "ten": "Slicer + Connections + hoan thien Dashboard",
+      "cac_buoc": [
+        "Tao sheet Dashboard moi, copy cac chart ve sap xep bo cuc",
+        "Chen 4 Slicer Nam/Thang/Khu vuc/NPP tu pivot (Analyze > Insert Slicer)",
+        "Moi Slicer: Report Connections tick TAT CA pivot (Chuot phai > Connections)",
+        "Doi field Khu vuc->NPP khi can bang PivotChart Fields",
+        "An sheet phu (chon nhieu > Hide), Refresh All, test tung slicer, luu XLSX song"
+      ]
+    }
+  ],
+  "cau_hoi": [
+    {
+      "id": 1,
+      "cau": "Vi sao phai doi vung thanh Table truoc dashboard?",
+      "A": "De tu mo rong khi them dong, Pivot tu cap nhat",
+      "B": "De khoa file",
+      "C": "De xoa trung",
+      "D": "De tang mau",
+      "dap_an": "A",
+      "giai_thich": "Table nap dong moi vao Pivot qua Refresh.",
+      "chu_de": "Nguon",
+      "do_kho": "de",
+      "timestamp": "01:30"
+    },
+    {
+      "id": 2,
+      "cau": "Phim tat tao Table la gi?",
+      "A": "Alt + T",
+      "B": "Ctrl + T",
+      "C": "Ctrl + G",
+      "D": "Shift + T",
+      "dap_an": "B",
+      "giai_thich": "Ctrl+T mo Create Table.",
+      "chu_de": "Nguon",
+      "do_kho": "de",
+      "timestamp": "01:40"
+    },
+    {
+      "id": 3,
+      "cau": "Khi tao Table can tick gi?",
+      "A": "Total row",
+      "B": "Last column",
+      "C": "My table has headers",
+      "D": "First column",
+      "dap_an": "C",
+      "giai_thich": "Bao dong dau la tieu de.",
+      "chu_de": "Nguon",
+      "do_kho": "de",
+      "timestamp": "01:50"
+    },
+    {
+      "id": 4,
+      "cau": "Pivot tao tu nguon nao?",
+      "A": "Notepad",
+      "B": "File Word",
+      "C": "Vung thuong A1:Z100",
+      "D": "Table 'Du lieu'",
+      "dap_an": "D",
+      "giai_thich": "Dat ten Table roi lay lam Source dong.",
+      "chu_de": "Nguon",
+      "do_kho": "de",
+      "timestamp": "02:10"
+    },
+    {
+      "id": 5,
+      "cau": "Nen dat Pivot moi o dau?",
+      "A": "New Worksheet (moi pivot 1 sheet)",
+      "B": "De len data goc",
+      "C": "Ghi ra giay",
+      "D": "Khong dat",
+      "dap_an": "A",
+      "giai_thich": "Sheet rieng gon, sau copy ve Dashboard.",
+      "chu_de": "Nguon",
+      "do_kho": "de",
+      "timestamp": "02:30"
+    },
+    {
+      "id": 6,
+      "cau": "Keo Nam/Thang vao dau? Doanh thu vao dau?",
+      "A": "Ca 2 vao Filters",
+      "B": "Nam/Thang > Rows; Doanh thu > Values",
+      "C": "Khong keo",
+      "D": "Ca 2 vao Columns",
+      "dap_an": "B",
+      "giai_thich": "Rows liet ke, Values tinh tong.",
+      "chu_de": "Fields",
+      "do_kho": "de",
+      "timestamp": "03:00"
+    },
+    {
+      "id": 7,
+      "cau": "Tabular Form de lam gi?",
+      "A": "In nhanh",
+      "B": "Khoa file",
+      "C": "Hien dang bang tach cot ro",
+      "D": "Xoa du lieu",
+      "dap_an": "C",
+      "giai_thich": "Ro hon Compact khi nhieu cap.",
+      "chu_de": "Layout",
+      "do_kho": "trung_binh",
+      "timestamp": "03:30"
+    },
+    {
+      "id": 8,
+      "cau": "Grand/Subtotal thua thi lam gi?",
+      "A": "Khoa lai",
+      "B": "To do",
+      "C": "De nguyen",
+      "D": "Tat/bot cho gon (Design > Off)",
+      "dap_an": "D",
+      "giai_thich": "Gon chart Top/Bottom.",
+      "chu_de": "Layout",
+      "do_kho": "de",
+      "timestamp": "03:50"
+    },
+    {
+      "id": 9,
+      "cau": "Ve bieu do tu Pivot dung lenh nao?",
+      "A": "Insert > PivotChart",
+      "B": "Insert > Picture",
+      "C": "Insert > WordArt",
+      "D": "Ve tay",
+      "dap_an": "A",
+      "giai_thich": "PivotChart gan pivot, nhay theo loc.",
+      "chu_de": "Chart",
+      "do_kho": "de",
+      "timestamp": "04:20"
+    },
+    {
+      "id": 10,
+      "cau": "Nhan ban sheet chart nhanh bang gi?",
+      "A": "Chup anh",
+      "B": "Giu Ctrl + keo tab sheet",
+      "C": "Xoa di",
+      "D": "Viet lai",
+      "dap_an": "B",
+      "giai_thich": "Nhan ban de lam chart bien the.",
+      "chu_de": "Chart",
+      "do_kho": "de",
+      "timestamp": "05:00"
+    },
+    {
+      "id": 11,
+      "cau": "Nhan ban chart trong cung sheet bang gi?",
+      "A": "Nhan Cut",
+      "B": "Nhan Hide",
+      "C": "Giu Ctrl + keo chart",
+      "D": "Nhan Delete",
+      "dap_an": "C",
+      "giai_thich": "Ctrl+drag copy chart roi doi field.",
+      "chu_de": "Chart",
+      "do_kho": "de",
+      "timestamp": "05:15"
+    },
+    {
+      "id": 12,
+      "cau": "Loc Top 3 SP cao nhat dung gi?",
+      "A": "Khong loc",
+      "B": "Doan mo",
+      "C": "Xoa 7 SP",
+      "D": "Row Labels > Value Filter > Top 10 doi 10 thanh 3",
+      "dap_an": "D",
+      "giai_thich": "Top theo Sum Doanh thu.",
+      "chu_de": "Top filter",
+      "do_kho": "trung_binh",
+      "timestamp": "10:57"
+    },
+    {
+      "id": 13,
+      "cau": "Xem 3 SP te nhat thi chon gi?",
+      "A": "Top 10 > chon Bottom, nhap 3",
+      "B": "Khong loc",
+      "C": "Xoa het",
+      "D": "Ve lai",
+      "dap_an": "A",
+      "giai_thich": "Bottom cho thap nhat.",
+      "chu_de": "Top filter",
+      "do_kho": "trung_binh",
+      "timestamp": "13:07"
+    },
+    {
+      "id": 14,
+      "cau": "Top 1 lai nam duoi cung sau sort thi sua sao?",
+      "A": "Ke no",
+      "B": "Format Axis > Categories in reverse order",
+      "C": "Ve tay",
+      "D": "Xoa chart",
+      "dap_an": "B",
+      "giai_thich": "Dao truc dua lon len tren.",
+      "chu_de": "Top filter",
+      "do_kho": "trung_binh",
+      "timestamp": "13:40"
+    },
+    {
+      "id": 15,
+      "cau": "Hien so tien tren cot dung gi?",
+      "A": "In ra viet tay",
+      "B": "Khong hien",
+      "C": "Add Data Labels",
+      "D": "Tang am luong",
+      "dap_an": "C",
+      "giai_thich": "Right-click series > Add.",
+      "chu_de": "Nhan",
+      "do_kho": "de",
+      "timestamp": "14:00"
+    },
+    {
+      "id": 16,
+      "cau": "Pie muon hien ca ten mien + tien thi tick gi?",
+      "A": "Xoa het",
+      "B": "Khong hien",
+      "C": "Chi %",
+      "D": "Format Data Labels > Category Name + Value",
+      "dap_an": "D",
+      "giai_thich": "Tick ca ten + gia tri.",
+      "chu_de": "Nhan",
+      "do_kho": "trung_binh",
+      "timestamp": "14:20"
+    },
+    {
+      "id": 17,
+      "cau": "333333 thanh 333,333 thi format gi?",
+      "A": "#,##0",
+      "B": "General",
+      "C": "Text",
+      "D": "@",
+      "dap_an": "A",
+      "giai_thich": "Custom tach nghin.",
+      "chu_de": "Nhan",
+      "do_kho": "de",
+      "timestamp": "14:40"
+    },
+    {
+      "id": 18,
+      "cau": "Them % canh so tien tren Pie thi tick gi?",
+      "A": "Xoa so",
+      "B": "Percentage trong Format Data Labels",
+      "C": "Bo qua",
+      "D": "Ve tay",
+      "dap_an": "B",
+      "giai_thich": "Tick Percentage them ty trong.",
+      "chu_de": "Nhan",
+      "do_kho": "trung_binh",
+      "timestamp": "15:00"
+    },
+    {
+      "id": 19,
+      "cau": "Line goc canh muon mem thi tick gi?",
+      "A": "Bo qua",
+      "B": "Xoa line",
+      "C": "Smoothed line",
+      "D": "Ve tay",
+      "dap_an": "C",
+      "giai_thich": "Format Series > Smooth.",
+      "chu_de": "Trang tri",
+      "do_kho": "trung_binh",
+      "timestamp": "15:20"
+    },
+    {
+      "id": 20,
+      "cau": "Vien cot cam day 3pt chinh o dau?",
+      "A": "Print",
+      "B": "Save As",
+      "C": "Page Setup",
+      "D": "Format Data Series > Border Solid line Width 3pt",
+      "dap_an": "D",
+      "giai_thich": "Chon mau + do rong vien.",
+      "chu_de": "Trang tri",
+      "do_kho": "trung_binh",
+      "timestamp": "15:40"
+    },
+    {
+      "id": 21,
+      "cau": "Ten Top 3, Bottom 3 dat o dau?",
+      "A": "Chart Title (sua thanh Doanh thu Top 3...)",
+      "B": "Ten file",
+      "C": "Ten sheet",
+      "D": "Ten may",
+      "dap_an": "A",
+      "giai_thich": "Title ro muc dich chart.",
+      "chu_de": "Bo cuc",
+      "do_kho": "de",
+      "timestamp": "16:00"
+    },
+    {
+      "id": 22,
+      "cau": "Them chu thich mau bang gi?",
+      "A": "Tang sang",
+      "B": "Chart Elements (+) > Legend",
+      "C": "Khoa",
+      "D": "Xoa",
+      "dap_an": "B",
+      "giai_thich": "Tick Legend keo vi tri hop.",
+      "chu_de": "Bo cuc",
+      "do_kho": "de",
+      "timestamp": "16:15"
+    },
+    {
+      "id": 23,
+      "cau": "Tu Pie Khu vuc muon thanh Pie NPP thi lam gi?",
+      "A": "Khong doi duoc",
+      "B": "Xin file khac",
+      "C": "Bo Khu vuc khoi Legend, keo NPP vao (PivotChart Fields)",
+      "D": "Tao lai tu dau",
+      "dap_an": "C",
+      "giai_thich": "Doi truong Legend/Axis.",
+      "chu_de": "Bo cuc",
+      "do_kho": "trung_binh",
+      "timestamp": "16:30"
+    },
+    {
+      "id": 24,
+      "cau": "Chart qua to/nho thi lam gi?",
+      "A": "In ra cat",
+      "B": "Xoa",
+      "C": "De nguyen",
+      "D": "Keo goc resize cho vua bo cuc Dashboard",
+      "dap_an": "D",
+      "giai_thich": "Snap 2x2/3x2 can doi.",
+      "chu_de": "Bo cuc",
+      "do_kho": "de",
+      "timestamp": "16:45"
+    },
+    {
+      "id": 25,
+      "cau": "Slicer de lam gi?",
+      "A": "Nut loc truc quan Nam/Thang/Khu vuc/NPP",
+      "B": "Trang tri",
+      "C": "Tang am",
+      "D": "Ghi macro",
+      "dap_an": "A",
+      "giai_thich": "Bam loc dong loat.",
+      "chu_de": "Slicer",
+      "do_kho": "de",
+      "timestamp": "01:52"
+    },
+    {
+      "id": 26,
+      "cau": "Chen Slicer bang cach nao?",
+      "A": "Ve tay",
+      "B": "Chon Pivot > Analyze > Insert Slicer (chon 4 truong)",
+      "C": "Copy anh",
+      "D": "Khong chen duoc",
+      "dap_an": "B",
+      "giai_thich": "4 truong Nam/Thang/Khu vuc/NPP.",
+      "chu_de": "Slicer",
+      "do_kho": "de",
+      "timestamp": "06:00"
+    },
+    {
+      "id": 27,
+      "cau": "Lam sao 1 Slicer loc TAT CA chart?",
+      "A": "Xoa slicer",
+      "B": "Mua them",
+      "C": "Right-click Slicer > Report Connections > tick het pivot",
+      "D": "Khong the",
+      "dap_an": "C",
+      "giai_thich": "Noi slicer toi moi PivotTable.",
+      "chu_de": "Connections",
+      "do_kho": "trung_binh",
+      "timestamp": "17:49"
+    },
+    {
+      "id": 28,
+      "cau": "Quen tick 1 pivot trong Connections thi sao?",
+      "A": "Khong sao",
+      "B": "Mat file",
+      "C": "May treo",
+      "D": "Chart do dung yen, lech so lieu",
+      "dap_an": "D",
+      "giai_thich": "Phai tick het de dong bo.",
+      "chu_de": "Connections",
+      "do_kho": "trung_binh",
+      "timestamp": "18:00"
+    },
+    {
+      "id": 29,
+      "cau": "Bam 2020 ma 1 chart khong doi thi kiem tra gi?",
+      "A": "Report Connections cua moi slicer",
+      "B": "Gio he thong",
+      "C": "Pin laptop",
+      "D": "Ten file",
+      "dap_an": "A",
+      "giai_thich": "Chart chua noi slicer.",
+      "chu_de": "Connections",
+      "do_kho": "kho",
+      "timestamp": "18:10"
+    },
+    {
+      "id": 30,
+      "cau": "Bam nam 2020 thi thao tac nao dung?",
+      "A": "Tat may",
+      "B": "Bam nut 2020 tren slicer Nam",
+      "C": "Xoa sheet",
+      "D": "Doi ten file",
+      "dap_an": "B",
+      "giai_thich": "Slicer loc 1 gia tri.",
+      "chu_de": "Slicer",
+      "do_kho": "de",
+      "timestamp": "07:00"
+    },
+    {
+      "id": 31,
+      "cau": "Chon nhieu nam/thang de so sanh thi dung gi?",
+      "A": "Nut Luu",
+      "B": "Khong co",
+      "C": "Nut Multi-select (3 o) tren slicer",
+      "D": "Nut Xoa",
+      "dap_an": "C",
+      "giai_thich": "Tick nhieu muc.",
+      "chu_de": "Slicer",
+      "do_kho": "de",
+      "timestamp": "07:20"
+    },
+    {
+      "id": 32,
+      "cau": "Xoa loc slicer de ve all thi bam gi?",
+      "A": "Khoi dong lai",
+      "B": "Tat Excel",
+      "C": "Xoa slicer",
+      "D": "Clear Filter (bieu tuong loc X) tren slicer",
+      "dap_an": "D",
+      "giai_thich": "Clear tra ve all de test.",
+      "chu_de": "Slicer",
+      "do_kho": "de",
+      "timestamp": "07:35"
+    },
+    {
+      "id": 33,
+      "cau": "An sheet phu chi giu Dashboard bang gi?",
+      "A": "Chon nhieu sheet > Right-click > Hide",
+      "B": "Xoa het",
+      "C": "Tat may",
+      "D": "An man hinh",
+      "dap_an": "A",
+      "giai_thich": "Shift chon roi Hide cho sach.",
+      "chu_de": "Hoan thien",
+      "do_kho": "de",
+      "timestamp": "19:00"
+    },
+    {
+      "id": 34,
+      "cau": "Them thang moi vao Table roi pivot chua thay thi lam gi?",
+      "A": "Cai lai Excel",
+      "B": "Right-click Pivot > Refresh / Refresh All",
+      "C": "Bo qua",
+      "D": "Mua may moi",
+      "dap_an": "B",
+      "giai_thich": "Table mo rong, Refresh nap.",
+      "chu_de": "Refresh",
+      "do_kho": "de",
+      "timestamp": "19:30"
+    },
+    {
+      "id": 35,
+      "cau": "Cong thuc MIN loai thang nghi 0 la gi?",
+      "A": "=MAX(vung)",
+      "B": "=SUM(vung)",
+      "C": "=MIN(IF(vung>0,vung)) + CSE (365: =MINIFS)",
+      "D": "=MIN(vung)",
+      "dap_an": "C",
+      "giai_thich": "Loc >0 roi MIN, bo qua 0 nghi.",
+      "chu_de": "Cong thuc",
+      "do_kho": "kho",
+      "timestamp": "00:40"
+    },
+    {
+      "id": 36,
+      "cau": "Nguon ~5000 dong thi luu y gi?",
+      "A": "Chia nho file",
+      "B": "Xoa bot",
+      "C": "Ve tay",
+      "D": "Dung Table+Pivot tu dong, tranh cong thuc mang nang",
+      "dap_an": "D",
+      "giai_thich": "Pivot xu ly nghin dong nhanh.",
+      "chu_de": "Hieu nang",
+      "do_kho": "trung_binh",
+      "timestamp": "20:00"
+    },
+    {
+      "id": 37,
+      "cau": "Muc dich cuoi dashboard la gi?",
+      "A": "Theo doi doanh thu nam/thang, top/bottom SP, ty trong vung/NPP 1 man hinh",
+      "B": "Choi game",
+      "C": "Luu anh",
+      "D": "Nghe nhac",
+      "dap_an": "A",
+      "giai_thich": "Mot man hinh thay moi goc kinh doanh.",
+      "chu_de": "Tong hop",
+      "do_kho": "de",
+      "timestamp": "20:30"
+    },
+    {
+      "id": 38,
+      "cau": "Hoan thien gui sep can test gi cuoi?",
+      "A": "Gui ngay",
+      "B": "Bam tung slicer xem all chart nhay dung + Refresh + Hide sheet phu roi luu",
+      "C": "Goi dien",
+      "D": "Xoa het",
+      "dap_an": "B",
+      "giai_thich": "Kiem tra dong bo roi gui file song.",
+      "chu_de": "Hoan thien",
+      "do_kho": "trung_binh",
+      "timestamp": "20:50"
+    },
+    {
+      "id": 39,
+      "cau": "Gui dashboard cho sep nen gui dang nao?",
+      "A": "Giay viet tay",
+      "B": "File khoa",
+      "C": "Excel XLSX giu Pivot+Slicer song de sep tu loc",
+      "D": "Anh mo",
+      "dap_an": "C",
+      "giai_thich": "Giu tuong tac, khong gui anh chet/PDF tinh.",
+      "chu_de": "Hoan thien",
+      "do_kho": "trung_binh",
+      "timestamp": "21:00"
+    },
+    {
+      "id": 40,
+      "cau": "Keo chart che mat slicer thi xu ly the nao?",
+      "A": "Xoa chart",
+      "B": "Xoa slicer",
+      "C": "De nguyen",
+      "D": "Resize + keo chart/slicer lai cho khong de, snap bo cuc",
+      "dap_an": "D",
+      "giai_thich": "Bo cuc thoang moi bam duoc.",
+      "chu_de": "Bo cuc",
+      "do_kho": "de",
+      "timestamp": "16:55"
+    }
+  ],
+  "thong_ke": {
+    "tong_cau_hoi": 40,
+    "de": 24,
+    "trung_binh": 14,
+    "kho": 2
+  },
+  "thuat_ngu_chuan": [
+    {
+      "thuat_ngu": "Bao cao dong",
+      "tieng_anh": "Dashboard",
+      "giai_thich": "Mot man hinh tong hop nhieu chart + slicer."
+    },
+    {
+      "thuat_ngu": "Nut loc",
+      "tieng_anh": "Slicer",
+      "giai_thich": "Nut loc Nam/Thang/Khu vuc/NPP."
+    },
+    {
+      "thuat_ngu": "Ket noi bao cao",
+      "tieng_anh": "Report Connections",
+      "giai_thich": "Noi 1 slicer toi moi PivotTable."
+    },
+    {
+      "thuat_ngu": "Loc Top",
+      "tieng_anh": "Value Filter Top 10",
+      "giai_thich": "Loc Top/Bottom N theo tong gia tri."
+    },
+    {
+      "thuat_ngu": "Nhan du lieu",
+      "tieng_anh": "Data Labels",
+      "giai_thich": "Ten + so tien tren chart."
+    },
+    {
+      "thuat_ngu": "Lam moi",
+      "tieng_anh": "Refresh",
+      "giai_thich": "Nap thang moi tu Table vao Pivot."
+    }
+  ],
+  "kiem_chung": {
+    "nguon": [
+      "E:\\webexcel\\output\\json\\HLBpUHYU6CI.json",
+      "E:\\webexcel\\output\\txt\\HLBpUHYU6CI.vi.txt"
+    ],
+    "ghi_chu": "Deep-verify Bai 22: doi chieu transcript + JSON goc; chuan hoa cong_thuc co vi_du + loi_hay_gap; sua dap_an sai/cau trung lap; bo sung chu_de/do_kho/timestamp; JSON hop le."
+  }
+}

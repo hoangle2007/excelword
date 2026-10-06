@@ -1,0 +1,432 @@
+{
+  "video_id": "z2IW7FrpVLs",
+  "bai": "Bài 14 Thủ thuật Excel 1/4 (Đánh STT, Di chuyển, Xóa ô trống, Autofit cột)",
+  "url": "https://www.youtube.com/watch?v=z2IW7FrpVLs",
+  "cong_thuc": [
+    {
+      "ham": "=Ô_trên+1",
+      "giai_thich": "Đánh STT tự động cho dữ liệu dài: ô dưới bằng ô trên cộng 1 rồi copy xuống cuối",
+      "vi_du": "=A2+1 tại A3, copy xuống tới hàng cuối, rồi Paste Values"
+    }
+  ],
+  "thuat_toan_quy_trinh": [
+    "STT cách 1 (kéo 1-2): nhập 1, 2 vào 2 ô đầu > bôi cả 2 > kéo dấu cộng góc dưới-phải xuống hết.",
+    "STT cách 2 (Fill Series): nhập 1 > Enter > kéo xuống > click biểu tượng Auto Fill Options > chọn Fill Series.",
+    "STT cách 3 (Ctrl+drag): nhập 1 > kéo xuống đồng thời giữ Ctrl > thả chuột rồi thả Ctrl.",
+    "STT cách 4 (dữ liệu dài hàng nghìn/triệu): nhập 1, ô dưới =ô trên+1 (vd =A2+1) > Enter > copy ô công thức > Ctrl+Shift+↓/ đi tới hàng cuối (giữ Shift+↑) > Enter (hoặc Ctrl+V) > copy cột STT > Paste Special > Values để chốt số.",
+    "Di chuyển hàng: bôi tiêu đề hàng (vd hàng 5-6) > di chuột vào cạnh tới mũi tên 4 hướng > giữ trái kéo tới vị trí mới > thả.",
+    "Di chuyển cột: bôi tiêu đề cột > tương tự kéo sang vị trí mới.",
+    "Di chuyển vùng: bôi vùng > giữ trái kéo tới chỗ mới.",
+    "Đổi chỗ chèn (không đè): bôi dòng cần đổi (vd Trương Tăng Sinh, không bôi STT) > giữ trái kéo + giữ Shift (hiện vạch đậm ngang) tới trước hàng 6 > thả chuột rồi thả Shift; xuống cuối tương tự.",
+    "Copy nhanh vùng: bôi vùng > giữ trái kéo + giữ Ctrl (con trỏ có dấu +) tới chỗ mới > thả chuột rồi thả Ctrl.",
+    "Xóa ô trống cách chuẩn: bôi toàn vùng (hoặc click 1 ô + Ctrl+A) > Home > Find & Select > Go To Special > Blanks > OK (ô trống được bôi) > chuột phải vào 1 ô trống > Delete > chọn Shift cells left (đẩy từ phải sang) > OK.",
+    "Phím tắt Go To: Ctrl+G (Go To) rồi chọn Special > Blanks; Undo bằng Ctrl+Z để thử lại.",
+    "Tùy Delete: Shift cells left (đẩy sang trái) hoặc Shift cells up (đẩy lên trên) tùy bố cục.",
+    "Autofit 1 cột: di chuột vào ranh giới tiêu đề cột (vd B-C) tới mũi tên 2 chiều > double-click (cột B co/giãn vừa dữ liệu dài nhất như Nguyễn Văn Cam).",
+    "Autofit nhiều cột: giữ Ctrl click các tiêu đề cột (C,E,G) > double-click ranh giới bất kỳ cột nào trong nhóm.",
+    "Autofit toàn bảng: bôi đen toàn bộ tiêu đề cột của vùng > double-click ranh giới.",
+    "Bài tập về nhà: thay ô trống bằng chữ thiếu dữ liệu + tô vàng: Go To Special > Blanks > gõ thiếu dữ liệu > Ctrl+Enter (điền hết ô trống) > tô vàng."
+  ],
+  "cau_hoi": [
+    {
+      "id": 1,
+      "cau": "Bài 14 gồm mấy thủ thuật?",
+      "A": "4",
+      "B": "3",
+      "C": "5",
+      "D": "2",
+      "dap_an": "A",
+      "giai_thich": "Đánh STT, di chuyển, xóa ô trống, autofit cột."
+    },
+    {
+      "id": 2,
+      "cau": "Cách 1 đánh STT là?",
+      "A": "Nhập 1 rồi Fill Series",
+      "B": "Nhập 1,2 rồi kéo fill",
+      "C": "Giữ Ctrl kéo",
+      "D": "Công thức +1",
+      "dap_an": "B",
+      "giai_thich": "Bôi 2 ô đầu rồi kéo cộng."
+    },
+    {
+      "id": 3,
+      "cau": "Cách 2 đánh STT (nhập 1 rồi kéo) thì chọn gì ở Auto Fill?",
+      "A": "Fill Formatting",
+      "B": "Copy Cells",
+      "C": "Fill Series",
+      "D": "Flash Fill",
+      "dap_an": "C",
+      "giai_thich": "Mục 2 Fill Series mới ra 1,2,3..."
+    },
+    {
+      "id": 4,
+      "cau": "Cách 3 đánh STT giữ phím gì khi kéo?",
+      "A": "Tab",
+      "B": "Shift",
+      "C": "Alt",
+      "D": "Ctrl",
+      "dap_an": "D",
+      "giai_thich": "Giữ Ctrl kéo từ số 1."
+    },
+    {
+      "id": 5,
+      "cau": "Dữ liệu hàng nghìn dòng nên đánh STT bằng?",
+      "A": "Công thức =trên+1 rồi copy xuống cuối",
+      "B": "Kéo chuột",
+      "C": "Gõ tay",
+      "D": "Fill Series kéo",
+      "dap_an": "A",
+      "giai_thich": "Kéo chuột rất chậm với dữ liệu dài."
+    },
+    {
+      "id": 6,
+      "cau": "Công thức STT tự động trong video là?",
+      "A": "=A2*2",
+      "B": "=A2+1 (ô trên +1)",
+      "C": "=SUM(A2)",
+      "D": "=A2",
+      "dap_an": "B",
+      "giai_thich": "Ô dưới bằng ô trên cộng 1."
+    },
+    {
+      "id": 7,
+      "cau": "Đi nhanh tới hàng cuối vùng dài ta dùng?",
+      "A": "Lăn chuột",
+      "B": "Kéo chuột",
+      "C": "Giữ Shift + mũi tên / Ctrl+Shift+↓",
+      "D": "F5",
+      "dap_an": "C",
+      "giai_thich": "Video giữ Shift+↑ từ cuối lên."
+    },
+    {
+      "id": 8,
+      "cau": "Sau khi STT bằng công thức nên làm gì?",
+      "A": "Ẩn",
+      "B": "Để nguyên",
+      "C": "Xóa",
+      "D": "Paste Values để chốt số",
+      "dap_an": "D",
+      "giai_thich": "Tránh công thức nhảy; liên quan bài 12."
+    },
+    {
+      "id": 9,
+      "cau": "Di chuyển hàng 5-6 ta bôi gì?",
+      "A": "Tiêu đề hàng 5 rồi kéo xuống 6",
+      "B": "1 ô",
+      "C": "Cả sheet",
+      "D": "Cột",
+      "dap_an": "A",
+      "giai_thich": "Bôi số hàng bên trái."
+    },
+    {
+      "id": 10,
+      "cau": "Dấu hiệu có thể kéo di chuyển là?",
+      "A": "Dấu +",
+      "B": "Mũi tên 4 hướng ở cạnh vùng",
+      "C": "Con trỏ chữ",
+      "D": "Màu đỏ",
+      "dap_an": "B",
+      "giai_thich": "Di chuột vào cạnh tới 4 hướng rồi giữ trái kéo."
+    },
+    {
+      "id": 11,
+      "cau": "Muốn đổi chỗ 2 hàng mà không đè mất phải giữ phím?",
+      "A": "Alt",
+      "B": "Ctrl",
+      "C": "Shift",
+      "D": "Tab",
+      "dap_an": "C",
+      "giai_thich": "Giữ Shift hiện vạch đậm chèn."
+    },
+    {
+      "id": 12,
+      "cau": "Vạch đậm ngang khi giữ Shift có nghĩa?",
+      "A": "Copy",
+      "B": "Lỗi",
+      "C": "Xóa",
+      "D": "Vị trí chèn hàng mới",
+      "dap_an": "D",
+      "giai_thich": "Thả vào vạch đó để chèn."
+    },
+    {
+      "id": 13,
+      "cau": "Khi đổi chỗ có bôi cột STT không?",
+      "A": "Không, để STT giữ nguyên",
+      "B": "Có",
+      "C": "Tùy",
+      "D": "Bôi hết",
+      "dap_an": "A",
+      "giai_thich": "Video dặn không bôi STT."
+    },
+    {
+      "id": 14,
+      "cau": "Copy (không phải di chuyển) vùng sang chỗ mới giữ phím?",
+      "A": "Shift",
+      "B": "Ctrl (con trỏ có +)",
+      "C": "Alt",
+      "D": "Không giữ",
+      "dap_an": "B",
+      "giai_thich": "Ctrl+drag = copy."
+    },
+    {
+      "id": 15,
+      "cau": "Dấu + ở con trỏ khi kéo nghĩa là?",
+      "A": "Xóa",
+      "B": "Move",
+      "C": "Copy",
+      "D": "Lỗi",
+      "dap_an": "C",
+      "giai_thich": "Giữ Ctrl thấy + là copy."
+    },
+    {
+      "id": 16,
+      "cau": "Xóa ô trống bước 1 là?",
+      "A": "Lọc",
+      "B": "Xóa tay",
+      "C": "Ẩn cột",
+      "D": "Chọn toàn vùng (Ctrl+A)",
+      "dap_an": "D",
+      "giai_thich": "Bôi vùng hoặc click 1 ô + Ctrl+A."
+    },
+    {
+      "id": 17,
+      "cau": "Tìm ô trống hàng loạt vào đâu?",
+      "A": "Home > Find & Select > Go To Special > Blanks",
+      "B": "Insert",
+      "C": "Data Validation",
+      "D": "Conditional Formatting",
+      "dap_an": "A",
+      "giai_thich": "Đúng đường dẫn."
+    },
+    {
+      "id": 18,
+      "cau": "Phím tắt Go To là?",
+      "A": "Ctrl+Q",
+      "B": "Ctrl+G",
+      "C": "Ctrl+E",
+      "D": "Ctrl+A",
+      "dap_an": "B",
+      "giai_thich": "Video: Ctrl+G rồi Special."
+    },
+    {
+      "id": 19,
+      "cau": "Sau khi Blanks bôi đen ô trống, xóa bằng?",
+      "A": "Xóa cột",
+      "B": "Delete phím",
+      "C": "Chuột phải > Delete",
+      "D": "Ẩn",
+      "dap_an": "C",
+      "giai_thich": "Chuột phải vào ô trống > Delete."
+    },
+    {
+      "id": 20,
+      "cau": "Muốn dữ liệu bên phải dồn sang trái ta chọn?",
+      "A": "Entire column",
+      "B": "Shift cells up",
+      "C": "Entire row",
+      "D": "Shift cells left",
+      "dap_an": "D",
+      "giai_thich": "Đẩy từ phải qua trái."
+    },
+    {
+      "id": 21,
+      "cau": "Hoàn tác sau khi Delete sai ta bấm?",
+      "A": "Ctrl+Z (Undo)",
+      "B": "Ctrl+Y",
+      "C": "Esc",
+      "D": "F4",
+      "dap_an": "A",
+      "giai_thich": "Video undo để demo lại."
+    },
+    {
+      "id": 22,
+      "cau": "Autofit 1 cột bằng cách nào?",
+      "A": "Kéo tay",
+      "B": "Double-click ranh giới tiêu đề cột",
+      "C": "Ẩn cột",
+      "D": "Xóa cột",
+      "dap_an": "B",
+      "giai_thich": "Mũi tên 2 chiều rồi đúp."
+    },
+    {
+      "id": 23,
+      "cau": "Autofit nhiều cột rời nhau (C,E,G) ta?",
+      "A": "Không làm được",
+      "B": "Đúp từng cột",
+      "C": "Giữ Ctrl chọn các cột rồi đúp ranh giới 1 cột",
+      "D": "Merge",
+      "dap_an": "C",
+      "giai_thich": "Video giữ Ctrl click C,E,G."
+    },
+    {
+      "id": 24,
+      "cau": "Độ rộng autofit dựa vào?",
+      "A": "Ngẫu nhiên",
+      "B": "Ô đầu",
+      "C": "Ô cuối",
+      "D": "Dữ liệu dài nhất cột",
+      "dap_an": "D",
+      "giai_thich": "Vd vừa bạn Nguyễn Văn Cam."
+    },
+    {
+      "id": 25,
+      "cau": "Autofit toàn bảng ta?",
+      "A": "Bôi đen toàn bộ tiêu đề cột vùng rồi đúp",
+      "B": "1 cột",
+      "C": "1 ô",
+      "D": "Ẩn",
+      "dap_an": "A",
+      "giai_thich": "Video bôi hết rồi đúp."
+    },
+    {
+      "id": 26,
+      "cau": "Cột STT quá rộng sau autofit sẽ?",
+      "A": "Giãn ra",
+      "B": "Co lại vừa số",
+      "C": "Mất",
+      "D": "Lỗi",
+      "dap_an": "B",
+      "giai_thich": "Không cần thiết rộng nên co lại."
+    },
+    {
+      "id": 27,
+      "cau": "Cột Họ tên quá hẹp sau autofit sẽ?",
+      "A": "Mất",
+      "B": "Co lại",
+      "C": "Giãn vừa tên dài nhất",
+      "D": "Ẩn",
+      "dap_an": "C",
+      "giai_thich": "Giãn vừa Nguyễn Văn Cam."
+    },
+    {
+      "id": 28,
+      "cau": "Bài tập về nhà bài 14 là?",
+      "A": "Di chuyển",
+      "B": "Đánh STT",
+      "C": "Autofit",
+      "D": "Ô trống gõ thiếu dữ liệu + tô vàng",
+      "dap_an": "D",
+      "giai_thich": "Video chốt cuối bài."
+    },
+    {
+      "id": 29,
+      "cau": "Điền thiếu dữ liệu vào mọi ô trống cùng lúc bằng?",
+      "A": "Gõ chữ + Ctrl+Enter",
+      "B": "Enter",
+      "C": "Copy",
+      "D": "Fill",
+      "dap_an": "A",
+      "giai_thich": "Ctrl+Enter điền hết ô đang chọn (Blanks)."
+    },
+    {
+      "id": 30,
+      "cau": "Trước khi Ctrl+Enter phải làm gì?",
+      "A": "Enter",
+      "B": "Go To Special > Blanks để chọn hết ô trống",
+      "C": "Xóa",
+      "D": "Ẩn",
+      "dap_an": "B",
+      "giai_thich": "Chọn trống trước rồi gõ + Ctrl+Enter."
+    },
+    {
+      "id": 31,
+      "cau": "File thực hành tải ở đâu?",
+      "A": "Không có",
+      "B": "Email",
+      "C": "Mô tả dưới video (link tải)",
+      "D": "Mua",
+      "dap_an": "C",
+      "giai_thich": "Video nhắc mọi bài."
+    },
+    {
+      "id": 32,
+      "cau": "File tải về là định dạng gì?",
+      "A": "Ảnh",
+      "B": "1 file",
+      "C": "Video",
+      "D": "File nén, giải nén ra 2 file (thực hành + câu hỏi)",
+      "dap_an": "D",
+      "giai_thich": "Video dặn giải nén."
+    },
+    {
+      "id": 33,
+      "cau": "Nếu diệt virus chặn tải file thì?",
+      "A": "Tắt/tạm cho phép rồi tải, xong bật lại",
+      "B": "Bỏ học",
+      "C": "Đổi máy",
+      "D": "Không tải",
+      "dap_an": "A",
+      "giai_thich": "Video dặn đầu bài 14."
+    },
+    {
+      "id": 34,
+      "cau": "Di chuyển cột giống di chuyển hàng ở điểm nào?",
+      "A": "Khác hẳn",
+      "B": "Cùng giữ trái kéo khi có 4 hướng",
+      "C": "Không di chuyển được cột",
+      "D": "Chỉ copy",
+      "dap_an": "B",
+      "giai_thich": "Thao tác tương tự."
+    },
+    {
+      "id": 35,
+      "cau": "Muốn đưa Bùi Thị Béo xuống cuối ta?",
+      "A": "Xóa",
+      "B": "Kéo thường",
+      "C": "Bôi + giữ Shift kéo xuống cuối",
+      "D": "Copy",
+      "dap_an": "C",
+      "giai_thich": "Giữ Shift để chèn cuối."
+    },
+    {
+      "id": 36,
+      "cau": "Muốn Trương Tăng Sinh lên trước Đỗ Văn Đậu ta thả vạch ở?",
+      "A": "Ngoài sheet",
+      "B": "Cuối bảng",
+      "C": "Đầu bảng",
+      "D": "Giữa Đậu và Béo (trước hàng 6)",
+      "dap_an": "D",
+      "giai_thich": "Vạch giữa 2 hàng đó."
+    },
+    {
+      "id": 37,
+      "cau": "Thứ tự thả chuột/phím khi Shift-drag là?",
+      "A": "Thả chuột trước, thả Shift sau",
+      "B": "Thả Shift trước",
+      "C": "Cùng lúc",
+      "D": "Tùy",
+      "dap_an": "A",
+      "giai_thich": "Video dặn thả trái rồi mới thả Shift."
+    },
+    {
+      "id": 38,
+      "cau": "Thứ tự thả khi Ctrl-copy là?",
+      "A": "Thả Ctrl trước",
+      "B": "Thả chuột trước, thả Ctrl sau",
+      "C": "Cùng lúc",
+      "D": "Tùy",
+      "dap_an": "B",
+      "giai_thich": "Tương tự Shift."
+    },
+    {
+      "id": 39,
+      "cau": "Vì sao STT cách 4 tốt cho dữ liệu triệu dòng?",
+      "A": "Ít lỗi font",
+      "B": "Đẹp hơn",
+      "C": "Không kéo chuột, copy công thức xuống cuối tức thì",
+      "D": "Nhanh máy",
+      "dap_an": "C",
+      "giai_thich": "Kéo chuột triệu dòng rất chậm."
+    },
+    {
+      "id": 40,
+      "cau": "Ý chính bài 14 phần 1/4 là?",
+      "A": "Pivot",
+      "B": "Format Cells",
+      "C": "Conditional Formatting",
+      "D": "4 thủ thuật: STT tự động, di chuyển, xóa ô trống, autofit cột",
+      "dap_an": "D",
+      "giai_thich": "Đúng 4 thủ thuật video dạy."
+    }
+  ]
+}

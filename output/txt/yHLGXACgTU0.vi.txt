@@ -1,0 +1,268 @@
+[00:01] Xin chào mừng các bạn đến với khóa học excel miễn phí từ cơ bản đến nâng cao
+[00:03] excel miễn phí từ cơ bản đến nâng cao dành cho người mới bắt đầu được thực
+[00:05] dành cho người mới bắt đầu được thực hiện trên kênh YouTube và Excel bài số 4
+[00:08] hiện trên kênh YouTube và Excel bài số 4 nhóm các hàm đếm Thì trước khi bắt đầu
+[00:11] nhóm các hàm đếm Thì trước khi bắt đầu vào học số 4 mình sẽ giải các bài tập
+[00:13] vào học số 4 mình sẽ giải các bài tập của cái bài số 3 hôm trước nhá đây các
+[00:15] của cái bài số 3 hôm trước nhá đây các bạn sẽ thích bảo cái bài Bà đây các bạn
+[00:17] bạn sẽ thích bảo cái bài Bà đây các bạn sẽ thích và câu hỏi các bạn chú ý nhất
+[00:19] sẽ thích và câu hỏi các bạn chú ý nhất link tải pha thực hành của mỗi bài mình
+[00:21] link tải pha thực hành của mỗi bài mình đã để ở dưới video thì tốt nhất là các
+[00:23] đã để ở dưới video thì tốt nhất là các bạn tải về các bạn vừa theo dõi và thực
+[00:25] bạn tải về các bạn vừa theo dõi và thực hành cùng mình nếu như bạn nào không
+[00:27] hành cùng mình nếu như bạn nào không biết cách tải về thì các bạn sẽ xem cái
+[00:29] biết cách tải về thì các bạn sẽ xem cái bài đầu tiên là cái bài giới thiệu về
+[00:30] bài đầu tiên là cái bài giới thiệu về excel của khóa học này nhá lại các bạn
+[00:32] excel của khóa học này nhá lại các bạn rất thích đụng vào cái file câu hỏi là
+[00:34] rất thích đụng vào cái file câu hỏi là đấy câu hỏi của mình là gì mình sẽ dùng
+[00:37] đấy câu hỏi của mình là gì mình sẽ dùng cái làm xong mấy mét để mình tính tổng
+[00:38] cái làm xong mấy mét để mình tính tổng doanh thu theo sản phẩm và theo cái khu
+[00:41] doanh thu theo sản phẩm và theo cái khu vực ở trên này đúng ạ ơi các bạn sẽ tích
+[00:43] vực ở trên này đúng ạ ơi các bạn sẽ tích vào cái ô G6 để mình làm công thức các
+[00:45] vào cái ô G6 để mình làm công thức các bạn bằng xong ít e đúng ạ Các bạn Hiến
+[00:49] bạn bằng xong ít e đúng ạ Các bạn Hiến pháp đầu tiên là xong lên là cái vùng
+[00:51] pháp đầu tiên là xong lên là cái vùng tính tổng của các bạn sẽ vẫn là Model
+[00:53] tính tổng của các bạn sẽ vẫn là Model với doanh thu này Đấy gọn sẽ nhấn F4 để
+[00:55] với doanh thu này Đấy gọn sẽ nhấn F4 để cố định toàn bộ các phần tham chiếu nhất
+[00:57] cố định toàn bộ các phần tham chiếu nhất thì các bạn phải cố định cho mình là các
+[00:58] thì các bạn phải cố định cho mình là các bạn sẽ nhấn F4
+[01:00] bạn sẽ nhấn F4 Ừ vậy Tiếp theo là cái vùng điều kiện
+[01:01] Ừ vậy Tiếp theo là cái vùng điều kiện thứ nhất là theo sản phẩm nên chọn bộ
+[01:03] thứ nhất là theo sản phẩm nên chọn bộ derby vùng sản phẩm vào đây các bạn nhấn
+[01:05] derby vùng sản phẩm vào đây các bạn nhấn F4 để cố định phải theo điều kiện sản
+[01:08] F4 để cố định phải theo điều kiện sản phẩm ở đây đúng không phải cái vùng điều
+[01:10] phẩm ở đây đúng không phải cái vùng điều kiện thứ 2 là diện theo khu vực bạn
+[01:13] kiện thứ 2 là diện theo khu vực bạn Model khu vực gần đây các bạn F4 để cố
+[01:15] Model khu vực gần đây các bạn F4 để cố định phải theo cái khu vực ở đây thì cái
+[01:18] định phải theo cái khu vực ở đây thì cái OVA 4 này các bạn cần phải cố định tại
+[01:20] OVA 4 này các bạn cần phải cố định tại vì cái công thức này mình sẽ áp dụng cho
+[01:21] vì cái công thức này mình sẽ áp dụng cho các khách hàng dưới này để cho nên cái ô
+[01:24] các khách hàng dưới này để cho nên cái ô G41 đấy phải cố định các bạn sẽ nhấn F4
+[01:26] G41 đấy phải cố định các bạn sẽ nhấn F4 đấy các bạn xem nó ngoác lại các bạn
+[01:29] đấy các bạn xem nó ngoác lại các bạn enter lại thì nó sẽ ra tầm thường này
+[01:30] enter lại thì nó sẽ ra tầm thường này còn tích tụ ở đâu đấy Mình cho vào cái
+[01:34] còn tích tụ ở đâu đấy Mình cho vào cái hôm các bạn sẽ thích vào đây nè Mình
+[01:36] hôm các bạn sẽ thích vào đây nè Mình đang khách hàng nghìn cho nó dễ
+[01:38] đang khách hàng nghìn cho nó dễ Ok Bây giờ mình sẽ nổi bác Thành điện Ví
+[01:40] Ok Bây giờ mình sẽ nổi bác Thành điện Ví dụ mình đổi thành miền Trung các enter
+[01:42] dụ mình đổi thành miền Trung các enter Gái Gọi thế cho cái kết quả nó sẽ tự
+[01:43] Gái Gọi thế cho cái kết quả nó sẽ tự động thay đổi theo đây ví dụ là miền Nam
+[01:45] động thay đổi theo đây ví dụ là miền Nam đấy các bạn theo rất là hay
+[01:48] đấy các bạn theo rất là hay a tiếp theo là gì mình rất làm cái ví dụ
+[01:51] a tiếp theo là gì mình rất làm cái ví dụ thứ ba là tính tổng có ba điều kiện nhé
+[01:53] thứ ba là tính tổng có ba điều kiện nhé thì nó cũng tương tự như vậy thôi các
+[01:55] thì nó cũng tương tự như vậy thôi các bạn sẽ bằng các bạn sẽ bằng Sam FS các
+[01:59] bạn sẽ bằng các bạn sẽ bằng Sam FS các bạn đánh tát nhé đầu tiên xong lên vẫn
+[02:01] bạn đánh tát nhé đầu tiên xong lên vẫn là cái vùng doanh thu này các bạn F4 này
+[02:03] là cái vùng doanh thu này các bạn F4 này cố định phải cái vùng điều kiện thứ nhất
+[02:05] cố định phải cái vùng điều kiện thứ nhất là theo khu vực đó các bạn sẽ Bôi đen
+[02:07] là theo khu vực đó các bạn sẽ Bôi đen khu vực S4 phẩm theo cái khu vực ở đây
+[02:11] khu vực S4 phẩm theo cái khu vực ở đây là F16 đúng không còn phải vùng điều
+[02:14] là F16 đúng không còn phải vùng điều kiện thứ hai là điện là sản phẩm vào đây
+[02:16] kiện thứ hai là điện là sản phẩm vào đây các bạn F4 để cố định phải theo cái sản
+[02:19] các bạn F4 để cố định phải theo cái sản phẩm về trên này các bạn sẽ nhấn F4 của
+[02:21] phẩm về trên này các bạn sẽ nhấn F4 của các sản phẩm Ova 14 này nhá phải tiếp
+[02:24] các sản phẩm Ova 14 này nhá phải tiếp theo là cái điều kiện thứ ba đúng không
+[02:25] theo là cái điều kiện thứ ba đúng không cái điều kiện thứ 3 là địa chỉ những cái
+[02:28] cái điều kiện thứ 3 là địa chỉ những cái doanh thu mà lớn hơn 800.000 rồi đúng
+[02:29] doanh thu mà lớn hơn 800.000 rồi đúng không Thì cái điều kiện vẫn lại chính là
+[02:31] không Thì cái điều kiện vẫn lại chính là cái phần doanh thu ở đây tại vì mình chỉ
+[02:34] cái phần doanh thu ở đây tại vì mình chỉ tính tổng cái doanh thu và lớn 8.000
+[02:35] tính tổng cái doanh thu và lớn 8.000 đúng không để cậu sẽ nhấn F4 để cố định
+[02:37] đúng không để cậu sẽ nhấn F4 để cố định cái vùng doanh thu này phải tiếp theo là
+[02:40] cái vùng doanh thu này phải tiếp theo là lớn hơn 800.000 nhóm nào lấy gọi cho mở
+[02:42] lớn hơn 800.000 nhóm nào lấy gọi cho mở ngoặc kép là gọi sẽ ghi là điện lớn hơn
+[02:44] ngoặc kép là gọi sẽ ghi là điện lớn hơn 800.000 đấy một hai ba ngày qua sân đóng
+[02:48] 800.000 đấy một hai ba ngày qua sân đóng ngoặc ở các đơn này hãy gọi M2 còn thấy
+[02:51] ngoặc ở các đơn này hãy gọi M2 còn thấy chứ không thì đưa vào đây
+[02:54] chứ không thì đưa vào đây Đấy thì nó sẽ ra nha Bây giờ mình sẽ
+[02:58] Đấy thì nó sẽ ra nha Bây giờ mình sẽ kiểm tra các bạn xem nhé
+[02:59] kiểm tra các bạn xem nhé bây giờ ví dụ mình sẽ boleyn sản phẩm
+[03:02] bây giờ ví dụ mình sẽ boleyn sản phẩm cũng hay đi đấy sản phẩm không ai sao
+[03:05] cũng hay đi đấy sản phẩm không ai sao lại bằng không hết thế này
+[03:07] lại bằng không hết thế này I sản phẩm không ai Tại vì không có cái
+[03:09] I sản phẩm không ai Tại vì không có cái doanh thu nào lớn hơn 800.000 đ ví dụ về
+[03:12] doanh thu nào lớn hơn 800.000 đ ví dụ về tích vào đây sản phẩm + body đã sản phẩm
+[03:15] tích vào đây sản phẩm + body đã sản phẩm ba thì OK nhé Để như vậy mình đã làm
+[03:17] ba thì OK nhé Để như vậy mình đã làm xong với hiện tính làm sao ghép với ba
+[03:19] xong với hiện tính làm sao ghép với ba điều kiện rồi nhé
+[03:22] điều kiện rồi nhé Ok hôm nay mình sẽ làm bài số 4 nhé là
+[03:25] Ok hôm nay mình sẽ làm bài số 4 nhé là nhóm các cái hàm đếm các bạn sẽ thích
+[03:26] nhóm các cái hàm đếm các bạn sẽ thích đút vào đây là cái file thực hành nhé á
+[03:30] đút vào đây là cái file thực hành nhé á ở đây thì đầu tiên là gì ạ Đây Giả sử
+[03:33] ở đây thì đầu tiên là gì ạ Đây Giả sử đây là cái vùng dữ liệu của mình ở đây
+[03:35] đây là cái vùng dữ liệu của mình ở đây mình đã Liệt kê các cái cú pháp của các
+[03:38] mình đã Liệt kê các cái cú pháp của các hàm đến rồi nhá đầu tiên là cái hàm cao
+[03:40] hàm đến rồi nhá đầu tiên là cái hàm cao cái hàm cao là điện đến các ô chữ số
+[03:43] cái hàm cao là điện đến các ô chữ số thôi tức là cái ô mà chữ số thì nhắc ví
+[03:45] thôi tức là cái ô mà chữ số thì nhắc ví dụ cái ô mà các Baron đấy Mà không chứa
+[03:47] dụ cái ô mà các Baron đấy Mà không chứa xấu thì nó sẽ không đến còn cái cao
+[03:50] xấu thì nó sẽ không đến còn cái cao blang là đến các cái ô rỗng Tức là ví dụ
+[03:53] blang là đến các cái ô rỗng Tức là ví dụ mình Bôi đen hay ô này lâu giống đúng
+[03:54] mình Bôi đen hay ô này lâu giống đúng không nữa cao lanh nó sẽ bằng 2a
+[03:57] không nữa cao lanh nó sẽ bằng 2a khi còn bé cao AH là gì nó sẽ đến tất cả
+[03:59] khi còn bé cao AH là gì nó sẽ đến tất cả các ô chứa ký tự từ nhà chứa cả số cả
+[04:02] các ô chứa ký tự từ nhà chứa cả số cả chữ cái cả dấu cách cái gì đấy nó đều
+[04:05] chữ cái cả dấu cách cái gì đấy nó đều tính nhá Còn cái hàm cao ít là đếm mà có
+[04:09] tính nhá Còn cái hàm cao ít là đếm mà có điều kiện mà đến có một điều kiện đây
+[04:12] điều kiện mà đến có một điều kiện đây nhá lại còn tương tự cái hàm cao ghét
+[04:14] nhá lại còn tương tự cái hàm cao ghét thì nó đến sẽ nghĩ nhiều điều kiện thì
+[04:16] thì nó đến sẽ nghĩ nhiều điều kiện thì cái hàng Café tôi thì nó lại giống hệt
+[04:19] cái hàng Café tôi thì nó lại giống hệt cú pháp của cam ít nhưng mà nó sẽ lặp
+[04:21] cú pháp của cam ít nhưng mà nó sẽ lặp lại các cái vùng điều kiện và điều kiện
+[04:23] lại các cái vùng điều kiện và điều kiện này
+[04:24] này Ok mình sẽ thực hành nhá đầu tiên là
+[04:27] Ok mình sẽ thực hành nhá đầu tiên là riêng mình sẽ dùng cái hàm cao ở đây là
+[04:30] riêng mình sẽ dùng cái hàm cao ở đây là cái vùng dữ liệu của mình nhá thịt câu
+[04:32] cái vùng dữ liệu của mình nhá thịt câu hỏi số 1 là riêng mình sẽ đến các cô mà
+[04:34] hỏi số 1 là riêng mình sẽ đến các cô mà chứa giá trị số đúng không ở đây là các
+[04:36] chứa giá trị số đúng không ở đây là các bạn chú nhắc cái giá trị số Tức là mình
+[04:38] bạn chú nhắc cái giá trị số Tức là mình phải dùng để làm cao bình thường rồi
+[04:39] phải dùng để làm cao bình thường rồi đúng không để đoạn tích bằng cái ô K1 để
+[04:41] đúng không để đoạn tích bằng cái ô K1 để các bạn làm không rất lại bằng các bạn
+[04:43] các bạn làm không rất lại bằng các bạn gõ chữ cam đấy bọn chúng á nếu như cái
+[04:46] gõ chữ cam đấy bọn chúng á nếu như cái chữ cao đầu tiên ở đây rồi con có thể ấm
+[04:48] chữ cao đầu tiên ở đây rồi con có thể ấm áp luôn để tao không cần phải gõ đầy đủ
+[04:50] áp luôn để tao không cần phải gõ đầy đủ luôn lại thì bạn sẽ Bôi đen toàn bộ cái
+[04:52] luôn lại thì bạn sẽ Bôi đen toàn bộ cái vùng dữ liệu đây là gì ạ từ 32 đến S8
+[04:55] vùng dữ liệu đây là gì ạ từ 32 đến S8 này đấy Gọi sự đóng ngoặc bạn Ừ thì như
+[04:58] này đấy Gọi sự đóng ngoặc bạn Ừ thì như vậy Ở đây tất cả là có 24 Ô mà chứa giá
+[05:01] vậy Ở đây tất cả là có 24 Ô mà chứa giá trị số này tức là ví dụ các CD là không
+[05:04] trị số này tức là ví dụ các CD là không tính được nhá bê này là tách trứng ngoài
+[05:05] tính được nhá bê này là tách trứng ngoài là xấu là chuỗi trong màn số Ampe này là
+[05:08] là xấu là chuỗi trong màn số Ampe này là chuỗi không mà xấu nhá đây ví dụ 14 28
+[05:11] chuỗi không mà xấu nhá đây ví dụ 14 28 thì được D hoặc ô trống thì không tính
+[05:13] thì được D hoặc ô trống thì không tính nhá
+[05:15] nhá Câu thứ hai đếm các ô mà có cả số và chữ
+[05:19] Câu thứ hai đếm các ô mà có cả số và chữ thì tức là mình phải dùng cái hàm cao
+[05:21] thì tức là mình phải dùng cái hàm cao dồi cho nó ra đếm hết đúng không ạ bằng
+[05:23] dồi cho nó ra đếm hết đúng không ạ bằng cao a gọi ấn mỗi cái xuống này cái cao
+[05:26] cao a gọi ấn mỗi cái xuống này cái cao gót tô đậm rồi đúng không các bạn sẽ
+[05:28] gót tô đậm rồi đúng không các bạn sẽ giúp tác thì cái hòm cao AH đây này họ
+[05:30] giúp tác thì cái hòm cao AH đây này họ sẽ Bôi đen toàn bộ cái vùng dữ liệu nữa
+[05:31] sẽ Bôi đen toàn bộ cái vùng dữ liệu nữa còn sẽ đóng bác là enter thì như vậy là
+[05:35] còn sẽ đóng bác là enter thì như vậy là cái vùng dữ liệu của mình ở đây là gì 32
+[05:37] cái vùng dữ liệu của mình ở đây là gì 32 Ô mà có chứa ký tự còn chú ngựa đây là
+[05:40] Ô mà có chứa ký tự còn chú ngựa đây là mình có tất cả là mấy mấy hàng ở đây có
+[05:43] mình có tất cả là mấy mấy hàng ở đây có tất cả các cao là nó bậy hàng đúng không
+[05:44] tất cả các cao là nó bậy hàng đúng không Mình xem bao nhiêu phút Đây là năm cụt
+[05:47] Mình xem bao nhiêu phút Đây là năm cụt như vậy là 75 35 tất cả mình sẽ có 35 ôm
+[05:50] như vậy là 75 35 tất cả mình sẽ có 35 ôm đúng không Để như vậy Ở đây là đến cái ô
+[05:52] đúng không Để như vậy Ở đây là đến cái ô mà có ký tự số và chữ là 32 đúng không
+[05:55] mà có ký tự số và chữ là 32 đúng không như vậy là có bao không chứ số
+[05:58] như vậy là có bao không chứ số 104 anh này hay Black 3 Black đây 32 ô
+[06:02] 104 anh này hay Black 3 Black đây 32 ô này là một like đấy còn gì nhỉ Đúng rồi
+[06:04] này là một like đấy còn gì nhỉ Đúng rồi nhá
+[06:05] nhá a tiếp theo là đến các cô và rỗng Thế là
+[06:08] a tiếp theo là đến các cô và rỗng Thế là không có gì đâu anh thì mình dùng cao
+[06:10] không có gì đâu anh thì mình dùng cao còn anh không gọi cao là để cậu sẽ nhấn
+[06:12] còn anh không gọi cao là để cậu sẽ nhấn mũi tên xuống nhấn mũi tên xuống khi nào
+[06:14] mũi tên xuống nhấn mũi tên xuống khi nào mà cái cam lang này nó được tô đậm thì
+[06:16] mà cái cam lang này nó được tô đậm thì các bạn tác đấy các bạn cũng bôi đen
+[06:18] các bạn tác đấy các bạn cũng bôi đen toàn bộ cái vùng dữ liệu Thôi để đã xem
+[06:20] toàn bộ cái vùng dữ liệu Thôi để đã xem enter nó sẽ bằng ba bây giờ xử với ông
+[06:22] enter nó sẽ bằng ba bây giờ xử với ông này đang giống như mình sẽ gõ ra Excel
+[06:24] này đang giống như mình sẽ gõ ra Excel này
+[06:25] này lại cảm thấy chứ Cái này nó sẽ giảm thứ
+[06:27] lại cảm thấy chứ Cái này nó sẽ giảm thứ hai và cái này tăng lên 1 tháng 3 3 và
+[06:29] hai và cái này tăng lên 1 tháng 3 3 và cái này không tăng Với cả tại vì cái gái
+[06:31] cái này không tăng Với cả tại vì cái gái sau đó là nó là chuỗi chứ không phải là
+[06:33] sau đó là nó là chuỗi chứ không phải là số mày Ví dụ mình sẽ thay gái xe bằng 1
+[06:35] số mày Ví dụ mình sẽ thay gái xe bằng 1 các bạn m lại cái này nó sẽ tăng lên
+[06:38] các bạn m lại cái này nó sẽ tăng lên thành 2 năm bây giờ Mày xóa đi Đấy thì
+[06:40] thành 2 năm bây giờ Mày xóa đi Đấy thì nó lại trở về ban đầu là 33224 nhé
+[06:44] nó lại trở về ban đầu là 33224 nhé tiếp theo là gì mình sẽ đến các ô mà bắt
+[06:47] tiếp theo là gì mình sẽ đến các ô mà bắt đầu bằng chữ con lại bắt đầu chỉ con
+[06:50] đầu bằng chữ con lại bắt đầu chỉ con nhắc ví dụ này diện không ăn này
+[06:52] nhắc ví dụ này diện không ăn này ta đi không phải xong không phải campell
+[06:55] ta đi không phải xong không phải campell vào computer tức là có bao bắt đầu trẻ
+[06:57] vào computer tức là có bao bắt đầu trẻ con đúng không lại thì các bạn phải dùng
+[06:59] con đúng không lại thì các bạn phải dùng hàm cao ít ở đây nó chỉ đến một điều
+[07:01] hàm cao ít ở đây nó chỉ đến một điều kiện thôi Vậy thì thôi mình cứ dùng hàng
+[07:03] kiện thôi Vậy thì thôi mình cứ dùng hàng K bít trước nhé bằng cao ít này à
+[07:05] K bít trước nhé bằng cao ít này à anh phải gọi điện áp chỉ đầu tiên là dán
+[07:08] anh phải gọi điện áp chỉ đầu tiên là dán cái vùng điều kiện toàn bộ cái vùng dữ
+[07:10] cái vùng điều kiện toàn bộ cái vùng dữ liệu này đúng không để bạn phải điều
+[07:12] liệu này đúng không để bạn phải điều kiện là gì Các bạn mở khóa két ra là chỉ
+[07:14] kiện là gì Các bạn mở khóa két ra là chỉ con chọn đóng ngoặc kép lại các bạn đó
+[07:16] con chọn đóng ngoặc kép lại các bạn đó ngoặc đơn ạ Nếu như các bạn dùng cái làm
+[07:18] ngoặc đơn ạ Nếu như các bạn dùng cái làm này thì nó sẽ trả được không Tại vì sao
+[07:20] này thì nó sẽ trả được không Tại vì sao ạ Tại vì nó sẽ so sánh với chữ con không
+[07:23] ạ Tại vì nó sẽ so sánh với chữ con không tôi không mang đến nó khác với con mà
+[07:25] tôi không mang đến nó khác với con mà không về khác với con với cậu enter Xem
+[07:27] không về khác với con với cậu enter Xem đấy Đã xem ảnh không Bây giờ con có kích
+[07:29] đấy Đã xem ảnh không Bây giờ con có kích nút đây vào đây được sửa nhé Vậy làm thế
+[07:32] nút đây vào đây được sửa nhé Vậy làm thế nào để nó hiểu là bắt đầu chứ con ấy thì
+[07:34] nào để nó hiểu là bắt đầu chứ con ấy thì gọi rất đơn giản với gọi thêm các ký tự
+[07:36] gọi rất đơn giản với gọi thêm các ký tự sau và sau với chứ Con này tức là mình
+[07:39] sau và sau với chứ Con này tức là mình chỉ quan tâm 3 thì ký tự đầu là con thôi
+[07:41] chỉ quan tâm 3 thì ký tự đầu là con thôi còn sau này nó sẽ đại diện cho bất kỳ
+[07:44] còn sau này nó sẽ đại diện cho bất kỳ cái chuỗi ký tự nào sau nó mình sẽ không
+[07:46] cái chuỗi ký tự nào sau nó mình sẽ không quan tâm sau đó là gì cả thấy gọi enter
+[07:48] quan tâm sau đó là gì cả thấy gọi enter đấy nó sẽ trả về ba đúng ạ Đấy đấy ví dụ
+[07:51] đấy nó sẽ trả về ba đúng ạ Đấy đấy ví dụ các bạn nếu mà thêm một cái ký tự trước
+[07:53] các bạn nếu mà thêm một cái ký tự trước con mới được các bạn sự thêm chữ t chiếc
+[07:55] con mới được các bạn sự thêm chữ t chiếc compa đây ạ còn thấy nó sẽ gắn 12 rồi
+[07:58] compa đây ạ còn thấy nó sẽ gắn 12 rồi Bây giờ làm thế nào Ví dụ mình muốn câu
+[08:00] Bây giờ làm thế nào Ví dụ mình muốn câu hỏi của mình là điện đến các cô mà Chứ
+[08:02] hỏi của mình là điện đến các cô mà Chứ chứ con thôi tức là mình sẽ không quan
+[08:05] chứ con thôi tức là mình sẽ không quan tâm hai lần cuối lợn thì nó chỉ cần đơn
+[08:07] tâm hai lần cuối lợn thì nó chỉ cần đơn giản bạn thêm với sao ở trước con vậy
+[08:08] giản bạn thêm với sao ở trước con vậy thôi tức là mình diện Mình chỉ quan tâm
+[08:10] thôi tức là mình diện Mình chỉ quan tâm với chuỗi đấy đâu có chứa con cá con
+[08:12] với chuỗi đấy đâu có chứa con cá con enter nó sẽ bằng 3 ngay Đấy đấy là cái
+[08:15] enter nó sẽ bằng 3 ngay Đấy đấy là cái cách mà mình sử dụng cái sao nhé Và bây
+[08:17] cách mà mình sử dụng cái sao nhé Và bây giờ mình sẽ xóa đi mình sẽ trở về đúng
+[08:19] giờ mình sẽ xóa đi mình sẽ trở về đúng với yêu cầu của bài toán đi đây cái cắt
+[08:22] với yêu cầu của bài toán đi đây cái cắt ra mình sẽ xóa chữ t đi nhá này Rồi
+[08:24] ra mình sẽ xóa chữ t đi nhá này Rồi enter để nó sẽ bằng 3 tiếp theo là việc
+[08:27] enter để nó sẽ bằng 3 tiếp theo là việc mình sẽ đến các cô mà lớn hơn 50 và nhỏ
+[08:30] mình sẽ đến các cô mà lớn hơn 50 và nhỏ hơn 60 thì như vậy Ở đây là gì đây là
+[08:33] hơn 60 thì như vậy Ở đây là gì đây là nhiều điều kiện rồi đúng không Điều kiện
+[08:34] nhiều điều kiện rồi đúng không Điều kiện thứ nhất là lớn hơn 50 và điều kiện thứ
+[08:37] thứ nhất là lớn hơn 50 và điều kiện thứ hai là nhỏ 60 đợi thì cho nên mình phải
+[08:39] hai là nhỏ 60 đợi thì cho nên mình phải dùng hàm countif bằng k bit là các bạn
+[08:42] dùng hàm countif bằng k bit là các bạn ấn mũi tên xuống này các bạn tác Ờ thì
+[08:46] ấn mũi tên xuống này các bạn tác Ờ thì đầu tiên là gì ạ Cái vùng điều kiện thứ
+[08:47] đầu tiên là gì ạ Cái vùng điều kiện thứ nhất Đúng là các nguyên nhân vẫn là toàn
+[08:49] nhất Đúng là các nguyên nhân vẫn là toàn bộ cái vùng dữ liệu này sẽ gặp phải gọn
+[08:51] bộ cái vùng dữ liệu này sẽ gặp phải gọn Mở của kem ra gọn ghi là diện lớn hơn 50
+[08:53] Mở của kem ra gọn ghi là diện lớn hơn 50 cho nó khép lại phải tiếp theo là vùng
+[08:57] cho nó khép lại phải tiếp theo là vùng điều kiện thứ hai đúng không vẫn là cái
+[08:58] điều kiện thứ hai đúng không vẫn là cái vùng này thấy cần phải Điều kiện thứ hai
+[09:01] vùng này thấy cần phải Điều kiện thứ hai là nhiệt độ mở của kem còn nhỏ hơn 60
+[09:03] là nhiệt độ mở của kem còn nhỏ hơn 60 tạo sẽ đóng ngoặc kép lại còn sẽ đóng
+[09:05] tạo sẽ đóng ngoặc kép lại còn sẽ đóng ngoặc đơn đấy cho enter thì như vậy là
+[09:08] ngoặc đơn đấy cho enter thì như vậy là diện có 5 ô và lớn hơn 50 và 60 đây mình
+[09:12] diện có 5 ô và lớn hơn 50 và 60 đây mình sẽ kiểm tra nhé đầu tiên là 57 cả giữ
+[09:15] sẽ kiểm tra nhé đầu tiên là 57 cả giữ gần chôn này năm sáu này 53 này
+[09:19] gần chôn này năm sáu này 53 này số 51 52 đã đoạn Thấy chưa nhẹ như vậy
+[09:24] số 51 52 đã đoạn Thấy chưa nhẹ như vậy là nam mô mà lớn hơn 50 và cho 60
+[09:27] là nam mô mà lớn hơn 50 và cho 60 ạ bây giờ quay lại cái ví dụ thứ 4 nhá
+[09:29] ạ bây giờ quay lại cái ví dụ thứ 4 nhá thì mình hoàn toàn có thể dùng các hàm
+[09:31] thì mình hoàn toàn có thể dùng các hàm cao huyết áp thai hàng K bit có túc ở đó
+[09:33] cao huyết áp thai hàng K bit có túc ở đó các bạn chỉ cần thêm chữ s thôi tại vì
+[09:35] các bạn chỉ cần thêm chữ s thôi tại vì cái cú pháp của cao ít và cái vs đó là
+[09:37] cái cú pháp của cao ít và cái vs đó là giống nhau đó chỉ tăng thêm với số vùng
+[09:39] giống nhau đó chỉ tăng thêm với số vùng điều kiện và điều kiện cho các bạn xem
+[09:41] điều kiện và điều kiện cho các bạn xem tôi cũng được đấy nó không khác gì nhau
+[09:43] tôi cũng được đấy nó không khác gì nhau cả cái cú pháp của nó là giống nhau khác
+[09:45] cả cái cú pháp của nó là giống nhau khác với cả xong rồi sau mới biết là như vậy
+[09:47] với cả xong rồi sau mới biết là như vậy nhé Bây giờ mình sẽ xem cái bài tập về
+[09:50] nhé Bây giờ mình sẽ xem cái bài tập về nhà của cái phần các cái hành đến đây
+[09:52] nhà của cái phần các cái hành đến đây nhá
+[10:00] này các bạn sẽ tích và wi-fi câu hỏi ở lại câu hỏi là đại diện ở đây mình có
+[10:04] ở lại câu hỏi là đại diện ở đây mình có cái kết quả thi cuối khóa ở đây là yêu
+[10:06] cái kết quả thi cuối khóa ở đây là yêu cầu gì số thí sinh động tức là điểm
+[10:08] cầu gì số thí sinh động tức là điểm trung bình lớn bằng 6 đây các bạn phải
+[10:10] trung bình lớn bằng 6 đây các bạn phải tính cái cột điện trung bình là bao
+[10:12] tính cái cột điện trung bình là bao nhiêu thí sinh dưới 16 là số thi rớt này
+[10:13] nhiêu thí sinh dưới 16 là số thi rớt này trung bình lớn 8 lại họ sẽ làm với bài
+[10:16] trung bình lớn 8 lại họ sẽ làm với bài tập này nhé
+[10:18] tập này nhé Ok như vậy là mình đã kết thúc bài học
+[10:20] Ok như vậy là mình đã kết thúc bài học ngày hôm nay ở đây cảm ơn các bạn đã
+[10:22] ngày hôm nay ở đây cảm ơn các bạn đã theo dõi các bạn nhớ đăng ký Kênh để cập
+[10:24] theo dõi các bạn nhớ đăng ký Kênh để cập nhật video mới nhất của gà cũng như chia
+[10:26] nhật video mới nhất của gà cũng như chia sẻ để giúp mọi người có học Excel nhé
+[10:28] sẻ để giúp mọi người có học Excel nhé Xin chào và hẹn gặp lại à
+[10:32] Xin chào và hẹn gặp lại à [âm nhạc]

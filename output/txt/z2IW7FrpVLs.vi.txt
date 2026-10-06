@@ -1,0 +1,343 @@
+[00:01] Xin chào mừng các bạn đến với khoa học ích theo miễn phí từ cơ bản đến nâng cao
+[00:04] ích theo miễn phí từ cơ bản đến nâng cao dành cho người mới bắt đầu được thực
+[00:06] dành cho người mới bắt đầu được thực hiện trên kênh YouTube và Excel bài số
+[00:09] hiện trên kênh YouTube và Excel bài số 14 các thủ thuật Excel 2 phần 1 trên 4
+[00:12] 14 các thủ thuật Excel 2 phần 1 trên 4 trước khi bắt đầu bài học ngày hôm nay
+[00:14] trước khi bắt đầu bài học ngày hôm nay mình sẽ giải đáp câu hỏi của bài số 13
+[00:16] mình sẽ giải đáp câu hỏi của bài số 13 hôm trước nhé để các bạn xem ở cái câu
+[00:19] hôm trước nhé để các bạn xem ở cái câu hỏi của bài 13 lên ok câu hỏi bài 13 là
+[00:24] hỏi của bài 13 lên ok câu hỏi bài 13 là mình sẽ sử dụng cái Flashtool để mình
+[00:26] mình sẽ sử dụng cái Flashtool để mình phát họ tách tên và sách kĩ năng và
+[00:28] phát họ tách tên và sách kĩ năng và thánh của ngài tuyển dụng ở đây không ạ
+[00:30] thánh của ngài tuyển dụng ở đây không ạ thì đầu tiên để tách họ thì bạn chỉ cần
+[00:33] thì đầu tiên để tách họ thì bạn chỉ cần nhập về tên họ của các bạn đầu tiên ở
+[00:35] nhập về tên họ của các bạn đầu tiên ở đây thì đoạn thì gọi cao đấy ạ Đấy sau
+[00:37] đây thì đoạn thì gọi cao đấy ạ Đấy sau đó bạn bấm xanh cho nghe thì lập tức
+[00:39] đó bạn bấm xanh cho nghe thì lập tức toàn bộ họ của các cách mạng này đã được
+[00:42] toàn bộ họ của các cách mạng này đã được điền vào đây lại rất là nhanh ạ tên cũng
+[00:45] điền vào đây lại rất là nhanh ạ tên cũng vậy nhé Thì bạn chỉ cần nhập tên là ví
+[00:47] vậy nhé Thì bạn chỉ cần nhập tên là ví dụ đây mình nhập là cô này các bạn sẽ
+[00:49] dụ đây mình nhập là cô này các bạn sẽ bấm tensione lại đây là cái kiếm sắc của
+[00:51] bấm tensione lại đây là cái kiếm sắc của cái class kênh nhé tương tự thì để lấy
+[00:55] cái class kênh nhé tương tự thì để lấy năm của ngài tuyển dụng ở đây Các chỉ
+[00:56] năm của ngài tuyển dụng ở đây Các chỉ cần nhập năm vào đây rồi đấy Sau đó các
+[00:59] cần nhập năm vào đây rồi đấy Sau đó các bạn muốn các Chanel
+[01:00] bạn muốn các Chanel anh Thắng cũng vậy nha con sẽ nhập 11
+[01:02] anh Thắng cũng vậy nha con sẽ nhập 11 vào đây đấy Gọi chú nhé khi các bạn Nhập
+[01:05] vào đây đấy Gọi chú nhé khi các bạn Nhập 11 vào đây thể Excel nó sẽ lấy cái 11
+[01:07] 11 vào đây thể Excel nó sẽ lấy cái 11 đầu tiên ở bên này sẽ là nó sẽ hiểu là
+[01:08] đầu tiên ở bên này sẽ là nó sẽ hiểu là ngày cho nên nếu như mà để lấy tháng chứ
+[01:11] ngày cho nên nếu như mà để lấy tháng chứ không phải nhập thêm một cái mẫu nữa thì
+[01:13] không phải nhập thêm một cái mẫu nữa thì ở đây là cái tháng 10 nhé Thì bạn sinh
+[01:15] ở đây là cái tháng 10 nhé Thì bạn sinh nhật chú về rồi đây Thì như vậy sao cái
+[01:17] nhật chú về rồi đây Thì như vậy sao cái mẫu Thứ hai này tức là cái tháng 10 của
+[01:19] mẫu Thứ hai này tức là cái tháng 10 của cái dữ liệu thứ hai ở đây này thì nó mới
+[01:21] cái dữ liệu thứ hai ở đây này thì nó mới sử dụng lắng khi được nha các bạn thứ 4
+[01:23] sử dụng lắng khi được nha các bạn thứ 4 KCF Đấy Tình Như vậy là nó sẽ điền tháng
+[01:25] KCF Đấy Tình Như vậy là nó sẽ điền tháng rồi đấy Ok như vậy là mình xong cái câu
+[01:28] rồi đấy Ok như vậy là mình xong cái câu hỏi của bài số 13 nhá các bạn đóng lại
+[01:31] hỏi của bài số 13 nhá các bạn đóng lại cho mình Bây giờ mình sẽ vào bài 14
+[01:42] trong bài 14 ngày hôm nay mình sẽ làm 4 thủ thuật thứ nhất là đánh số thứ tự
+[01:44] thủ thuật thứ nhất là đánh số thứ tự động thứ hai là di chuyển dữ liệu từ
+[01:47] động thứ hai là di chuyển dữ liệu từ mang là sáo trống và thứ tư là tự can độ
+[01:50] mang là sáo trống và thứ tư là tự can độ rộng của cột ở mỗi thủ thuật bị mình sẽ
+[01:53] rộng của cột ở mỗi thủ thuật bị mình sẽ để ở một cái xếp riêng biệt để các bạn
+[01:55] để ở một cái xếp riêng biệt để các bạn có thể tiện theo dõi nhé mình sẽ để cái
+[01:58] có thể tiện theo dõi nhé mình sẽ để cái link tải file thực hành trong phần mô tả
+[02:00] link tải file thực hành trong phần mô tả em heo thì tốt nhất là các bạn tải về
+[02:02] em heo thì tốt nhất là các bạn tải về các bạn vừa theo dõi và thực hành cùng
+[02:04] các bạn vừa theo dõi và thực hành cùng mình nhá Nếu bạn nào không biết cách tải
+[02:06] mình nhá Nếu bạn nào không biết cách tải về thì các bạn có thể xem cái bài học
+[02:08] về thì các bạn có thể xem cái bài học đầu tiên thì trong bài đấy mình không
+[02:10] đầu tiên thì trong bài đấy mình không dẫn các bạn chi tiết cách để các bạn tải
+[02:13] dẫn các bạn chi tiết cách để các bạn tải về thì thông thường những cái file tải
+[02:15] về thì thông thường những cái file tải về sẽ là cái thai nghén bạn sẽ giải nén
+[02:17] về sẽ là cái thai nghén bạn sẽ giải nén ra nó sẽ có 2 file một là phải thực hành
+[02:20] ra nó sẽ có 2 file một là phải thực hành và thứ hai là cái file câu hỏi để các
+[02:23] và thứ hai là cái file câu hỏi để các bạn làm bài tập về nhà nhá một số bạn có
+[02:25] bạn làm bài tập về nhà nhá một số bạn có cần men trong người nhện là khi các bạn
+[02:27] cần men trong người nhện là khi các bạn tải về các bạn không giải nén được thì
+[02:29] tải về các bạn không giải nén được thì thông thường máy tính của bạn nó có phần
+[02:31] thông thường máy tính của bạn nó có phần mềm diệt vi rút đi thì nó hiểu cái file
+[02:33] mềm diệt vi rút đi thì nó hiểu cái file đấy là cái file mà chứa virus thì trước
+[02:36] đấy là cái file mà chứa virus thì trước khi tải về thì tốt nhất là các bạn sẽ
+[02:38] khi tải về thì tốt nhất là các bạn sẽ tắt hoặc các bạn Apple cái phần mềm diệt
+[02:41] tắt hoặc các bạn Apple cái phần mềm diệt virus đi nhé để các bạn tải về đấy thì
+[02:44] virus đi nhé để các bạn tải về đấy thì sau khi các bạn tải về các bạn giải nén
+[02:46] sau khi các bạn tải về các bạn giải nén lên và các bạn thân bật lại cái tính
+[02:47] lên và các bạn thân bật lại cái tính năng diệt ví dụ của các bạn nhé Ok mình
+[02:51] năng diệt ví dụ của các bạn nhé Ok mình sẽ vào cái thủ thuật đầu tiên là đánh số
+[02:53] sẽ vào cái thủ thuật đầu tiên là đánh số thứ tự động cái việc đánh số thứ tự này
+[02:55] thứ tự động cái việc đánh số thứ tự này các bạn rất là hay dùng này thì giả sử ở
+[02:58] các bạn rất là hay dùng này thì giả sử ở đây mình có thông tin của các bạn
+[03:00] đây mình có thông tin của các bạn ạ Bây giờ mình cần điền số thứ tự thì sẽ
+[03:03] ạ Bây giờ mình cần điền số thứ tự thì sẽ có một số cách cơ bản nhất để điền số
+[03:05] có một số cách cơ bản nhất để điền số thứ tự Cách thứ nhất là gì mình sẽ nhập
+[03:08] thứ tự Cách thứ nhất là gì mình sẽ nhập hay các bạn đầu tiên ví dụ là một này
+[03:09] hay các bạn đầu tiên ví dụ là một này các bạn Thứ hai bạn sẽ nhập số 2 Đấy sau
+[03:12] các bạn Thứ hai bạn sẽ nhập số 2 Đấy sau đó bạn Bôi đen hai cái dữ liệu này để
+[03:14] đó bạn Bôi đen hai cái dữ liệu này để các bạn sẽ trỏ chuột vào cái góc dưới
+[03:16] các bạn sẽ trỏ chuột vào cái góc dưới bên phải của với bạn Thứ hai này khi nó
+[03:18] bên phải của với bạn Thứ hai này khi nó hiện lên dấu cộng thì gọi sẽ kết thúc
+[03:20] hiện lên dấu cộng thì gọi sẽ kết thúc vào đây đấy thì như vậy nó sẽ tự động nó
+[03:23] vào đây đấy thì như vậy nó sẽ tự động nó liền cho tất cả các bạn học sinh còn lại
+[03:24] liền cho tất cả các bạn học sinh còn lại để rất là nhanh ạ lấy là cách 2 dùng hết
+[03:28] để rất là nhanh ạ lấy là cách 2 dùng hết nhá Cách thứ hai là gì ạ Các bạn chỉ cần
+[03:31] nhá Cách thứ hai là gì ạ Các bạn chỉ cần nhập số 1 vào cái ô đầu tiên đấy Thôi để
+[03:33] nhập số 1 vào cái ô đầu tiên đấy Thôi để các enter sau đó rẻ các bạn kéo cái số
+[03:36] các enter sau đó rẻ các bạn kéo cái số một này các bạn kéo xuống dưới đấy khi
+[03:39] một này các bạn kéo xuống dưới đấy khi bạn kéo xuống dưới thì nó sẽ hiện một
+[03:41] bạn kéo xuống dưới thì nó sẽ hiện một cái ô Nhỏ đây đấy thì họ sẽ thích vào
+[03:43] cái ô Nhỏ đây đấy thì họ sẽ thích vào cái phần này nó gọi là auto pin option
+[03:45] cái phần này nó gọi là auto pin option có thích ở đây sau đó có thích và cái
+[03:48] có thích ở đây sau đó có thích và cái mục thứ hai là phim Siri là đấy thì ngay
+[03:51] mục thứ hai là phim Siri là đấy thì ngay lập tức sẽ miền cái số thứ tự động còn
+[03:53] lập tức sẽ miền cái số thứ tự động còn lại đây rất là hai ạ
+[03:55] lại đây rất là hai ạ 3 Cách thứ ba là địa các bạn có thể điểm
+[03:58] 3 Cách thứ ba là địa các bạn có thể điểm số 1 của Đây nhá đầy sau đó thì các bạn
+[04:00] số 1 của Đây nhá đầy sau đó thì các bạn Kéo xuống và các bạn giữ cái phím
+[04:02] Kéo xuống và các bạn giữ cái phím Control đây này đây sau đó các bạn bỏ
+[04:05] Control đây này đây sau đó các bạn bỏ trái ra và các bạn bỏ thím cần sơn ra
+[04:07] trái ra và các bạn bỏ thím cần sơn ra đây là cách thứ ba nhé Ngoài ra thì có
+[04:10] đây là cách thứ ba nhé Ngoài ra thì có một cách cách thứ tư nó cũng khá là ngay
+[04:12] một cách cách thứ tư nó cũng khá là ngay với cái trường hợp mà dữ liệu của các
+[04:14] với cái trường hợp mà dữ liệu của các bạn giải ví dụ nó có hàng nghìn hoặc
+[04:16] bạn giải ví dụ nó có hàng nghìn hoặc hàng chục nghìn hoặc thậm chí là đến
+[04:18] hàng chục nghìn hoặc thậm chí là đến hàng triệu dữ liệu thì các bạn không thể
+[04:21] hàng triệu dữ liệu thì các bạn không thể kéo chuột được đúng khi còn kéo như thế
+[04:22] kéo chuột được đúng khi còn kéo như thế này nó sẽ rất là chậm với cái trường hợp
+[04:24] này nó sẽ rất là chậm với cái trường hợp mà dữ liệu của bạn nhiều thì cái cách mà
+[04:27] mà dữ liệu của bạn nhiều thì cái cách mà người ta hay dùng trong trường hợp có
+[04:29] người ta hay dùng trong trường hợp có nhiều dữ liệu thì bạn chỉ cần nhập cái
+[04:31] nhiều dữ liệu thì bạn chỉ cần nhập cái thứ tự đầu tiên này sướng cái thứ hai
+[04:33] thứ tự đầu tiên này sướng cái thứ hai các bạn sẽ bằng các bạn lấy cái hàng
+[04:34] các bạn sẽ bằng các bạn lấy cái hàng trên này các bạn cộng một đấy enter thì
+[04:39] trên này các bạn cộng một đấy enter thì sau đó bạn chỉ cần copy các dữ liệu mà
+[04:41] sau đó bạn chỉ cần copy các dữ liệu mà có cái chứa công thức các bạn tăng lên
+[04:43] có cái chứa công thức các bạn tăng lên một đây này để các bạn copy và các bạn
+[04:45] một đây này để các bạn copy và các bạn xuống cuối nhá Đây thì chả sửa đây là
+[04:48] xuống cuối nhá Đây thì chả sửa đây là cái cuối dữ liệu rồi các bạn giữ tiền
+[04:49] cái cuối dữ liệu rồi các bạn giữ tiền ship vào mũi tên lên đấy Sau đó bạn bấm
+[04:52] ship vào mũi tên lên đấy Sau đó bạn bấm enter hoặc các bạn có thể bấm cân survey
+[04:54] enter hoặc các bạn có thể bấm cân survey Ví dụ mình em tơ đi
+[04:55] Ví dụ mình em tơ đi có cách cách ngày nó sẽ áp dụng cho các
+[04:58] có cách cách ngày nó sẽ áp dụng cho các trường hợp mà dữ liệu của bạn rất là dài
+[05:00] trường hợp mà dữ liệu của bạn rất là dài đúng không Thì sau khi mà các bạn có
+[05:02] đúng không Thì sau khi mà các bạn có được cái số thứ tự rồi thì các bạn lên
+[05:03] được cái số thứ tự rồi thì các bạn lên page nó thành vali để cậu sẽ tích vào
+[05:06] page nó thành vali để cậu sẽ tích vào cái cột bên này con nhé hiệp phải các
+[05:08] cái cột bên này con nhé hiệp phải các bạn copy cái gọn nhớ thì phải tiếp các
+[05:10] bạn copy cái gọn nhớ thì phải tiếp các bạn vessel các bạn kết 3 live Các bạn
+[05:13] bạn vessel các bạn kết 3 live Các bạn bấm ok nhá Đấy thì như vậy dữ liệu ở đây
+[05:16] bấm ok nhá Đấy thì như vậy dữ liệu ở đây đó chuyển thành số rồi đấy ạ Ok tranh
+[05:20] đó chuyển thành số rồi đấy ạ Ok tranh thủ thuật thứ hai là việc di chuyển vùng
+[05:21] thủ thuật thứ hai là việc di chuyển vùng dữ liệu thì các bạn thuế nhé với mỗi thủ
+[05:24] dữ liệu thì các bạn thuế nhé với mỗi thủ thuật điện mình để hướng dẫn ở bên phải
+[05:25] thuật điện mình để hướng dẫn ở bên phải lại rồi để các bạn có thể tiện theo dõi
+[05:27] lại rồi để các bạn có thể tiện theo dõi và các bạn ghi nhớ Nó thuận lợi hơn nhá
+[05:29] và các bạn ghi nhớ Nó thuận lợi hơn nhá Đấy thì trong cái phần di chuyển này
+[05:32] Đấy thì trong cái phần di chuyển này mình sẽ hướng dẫn cho các bạn một số các
+[05:34] mình sẽ hướng dẫn cho các bạn một số các thủ thuật sau đầu tiên là các bạn di
+[05:36] thủ thuật sau đầu tiên là các bạn di chuyển hàng chính hãng nhá thì các bạn
+[05:37] chuyển hàng chính hãng nhá thì các bạn sẽ Model khác cái Hàn mà các bạn cần di
+[05:39] sẽ Model khác cái Hàn mà các bạn cần di chuyển này Ví dụ mình cần di chuyển cái
+[05:41] chuyển này Ví dụ mình cần di chuyển cái hàng thứ năm và thứ sáu nhé thì các bạn
+[05:43] hàng thứ năm và thứ sáu nhé thì các bạn thấy cực trái vào cái hành số 5 Này các
+[05:45] thấy cực trái vào cái hành số 5 Này các bạn kéo xuống dưới lại như vậy mình đã
+[05:47] bạn kéo xuống dưới lại như vậy mình đã lựa chọn hai cái hàng là hàng thứ 5 là
+[05:49] lựa chọn hai cái hàng là hàng thứ 5 là thứ sáu rồi đúng không ạ Các bạn sẽ Di
+[05:51] thứ sáu rồi đúng không ạ Các bạn sẽ Di chuột vào một cách bất kỳ của khách hàng
+[05:52] chuột vào một cách bất kỳ của khách hàng thứ năm và thứ sáu này đấy Khi mà nó
+[05:55] thứ năm và thứ sáu này đấy Khi mà nó hiện Kim
+[05:55] hiện Kim em chỉ ra 4 hướng thì các bạn giữ được
+[05:58] em chỉ ra 4 hướng thì các bạn giữ được trái và ngăn kéo đây các bạn kéo xuống
+[06:00] trái và ngăn kéo đây các bạn kéo xuống ngân hàng mà các bạn mong muốn nhé ví dụ
+[06:02] ngân hàng mà các bạn mong muốn nhé ví dụ mình kéo rồi lấy hàng này đi đấy thì như
+[06:04] mình kéo rồi lấy hàng này đi đấy thì như vậy là dữ liệu của hàng thứ năm và thứ
+[06:06] vậy là dữ liệu của hàng thứ năm và thứ sáu là được hôm đây để bây giờ các bạn
+[06:08] sáu là được hôm đây để bây giờ các bạn có thể kéo về nhá lại ví dụ phân tích về
+[06:09] có thể kéo về nhá lại ví dụ phân tích về đây có kéo về để cạn dưới chạy và các
+[06:12] đây có kéo về để cạn dưới chạy và các bạn kéo nhá Đấy đã cạn bảo vệ trái ra Ok
+[06:16] bạn kéo nhá Đấy đã cạn bảo vệ trái ra Ok bây giờ để di chuyển cục nhá thì bạn là
+[06:19] bây giờ để di chuyển cục nhá thì bạn là diện các bạn sẽ lựa chọn các cái cột mà
+[06:21] diện các bạn sẽ lựa chọn các cái cột mà các bạn cần di chuyển lại để bạn giữ
+[06:23] các bạn cần di chuyển lại để bạn giữ chuột trái và bạn Bôi đen bay cùng này
+[06:25] chuột trái và bạn Bôi đen bay cùng này sau đó bạn Di chuột đến một cái cạnh bất
+[06:28] sau đó bạn Di chuột đến một cái cạnh bất kỳ này khi nó hiện mũi tên ra bốn hướng
+[06:29] kỳ này khi nó hiện mũi tên ra bốn hướng này các bạn giữ được trái và các bạn kéo
+[06:31] này các bạn giữ được trái và các bạn kéo đấy các bạn kéo ra cái vị trí mà bạn
+[06:34] đấy các bạn kéo ra cái vị trí mà bạn mong muốn nhá Đấy bây giờ để kéo về các
+[06:36] mong muốn nhá Đấy bây giờ để kéo về các bạn cũng Di chuột trái và kéo sang đây
+[06:38] bạn cũng Di chuột trái và kéo sang đây thôi đấy để di chuyển một cái vùng dữ
+[06:41] thôi đấy để di chuyển một cái vùng dữ liệu Giả sử mình di chuyển cái vùng dữ
+[06:43] liệu Giả sử mình di chuyển cái vùng dữ liệu này đi đấy các bạn muốn em cái vùng
+[06:45] liệu này đi đấy các bạn muốn em cái vùng dữ liệu mà các bạn cần di chuyển nhé sau
+[06:47] dữ liệu mà các bạn cần di chuyển nhé sau đó bạn giữ được trái và các bạn kéo ra
+[06:49] đó bạn giữ được trái và các bạn kéo ra một cái vị trí mới đây Bây giờ các bạn
+[06:51] một cái vị trí mới đây Bây giờ các bạn có thể kéo về lại rất là hai ạ bây
+[06:55] có thể kéo về lại rất là hai ạ bây ý mình muốn lại mình muốn đổi các bạn
+[06:58] ý mình muốn lại mình muốn đổi các bạn Trương tăng sinh này lên trước Thế bạn
+[07:01] Trương tăng sinh này lên trước Thế bạn Đỗ Văn Đậu thì mình là như thế nào thì
+[07:03] Đỗ Văn Đậu thì mình là như thế nào thì bạn sẽ Bôi đen Cái bạn chương trình này
+[07:05] bạn sẽ Bôi đen Cái bạn chương trình này các bạn không mua cái phần số thứ tự nhé
+[07:07] các bạn không mua cái phần số thứ tự nhé Tại vì mình muốn cái số thứ tự nó sẽ rẽ
+[07:09] Tại vì mình muốn cái số thứ tự nó sẽ rẽ nó vẫn là như thế này đấy thì các bạn
+[07:11] nó vẫn là như thế này đấy thì các bạn chỉ cần bôi từ cái phần họ tên đến cái
+[07:13] chỉ cần bôi từ cái phần họ tên đến cái phần tổng điểm thôi nhá sau đó còn giữ
+[07:15] phần tổng điểm thôi nhá sau đó còn giữ được trái và các bạn kéo lên cái vị trí
+[07:17] được trái và các bạn kéo lên cái vị trí mà các bạn muốn và các bạn phải giữ cái
+[07:19] mà các bạn muốn và các bạn phải giữ cái phí ship cho mình đây thì sau khi mà các
+[07:21] phí ship cho mình đây thì sau khi mà các bạn giữ phím shift thì nó sẽ hiện một
+[07:23] bạn giữ phím shift thì nó sẽ hiện một cái điện một cái đường kẻ đậm mà nó sẽ
+[07:26] cái điện một cái đường kẻ đậm mà nó sẽ gạch ngang vào cái hàng mà các bạn muốn
+[07:28] gạch ngang vào cái hàng mà các bạn muốn di chuyển đây các bạn sẽ di chuyển và
+[07:30] di chuyển đây các bạn sẽ di chuyển và các vị trí và các bạn muốn nhé các bạn
+[07:32] các vị trí và các bạn muốn nhé các bạn nhớ là các bạn phải giữ vững ship cho
+[07:33] nhớ là các bạn phải giữ vững ship cho mình nhá Đấy thì nếu như mình muốn gì ạ
+[07:36] mình nhá Đấy thì nếu như mình muốn gì ạ một mình muốn các bạn chương trình này
+[07:37] một mình muốn các bạn chương trình này lên trước các bạn đủ vận động nhá Đợi
+[07:40] lên trước các bạn đủ vận động nhá Đợi tức là diện trước cái hàng Thứ 6 này đấy
+[07:43] tức là diện trước cái hàng Thứ 6 này đấy thì bạn sẽ di chuyển nên giữa bạn Đỗ Văn
+[07:45] thì bạn sẽ di chuyển nên giữa bạn Đỗ Văn Đậu và bạn Bùi Thị béo ở đây đấy Sau đó
+[07:47] Đậu và bạn Bùi Thị béo ở đây đấy Sau đó bạn bảo tuyệt trái ra đấy và các bạn bỏ
+[07:50] bạn bảo tuyệt trái ra đấy và các bạn bỏ các phím sim ra đấy thì như vậy các bạn
+[07:52] các phím sim ra đấy thì như vậy các bạn chương trình đã gì lên trước các bạn Đỗ
+[07:54] chương trình đã gì lên trước các bạn Đỗ Văn Đậu là rồi lại các bạn
+[07:55] Văn Đậu là rồi lại các bạn chị Hai ạ Bây giờ giả sử việc các bạn
+[07:58] chị Hai ạ Bây giờ giả sử việc các bạn Bùi Thị béo này nhé Mình muốn di chuyển
+[08:00] Bùi Thị béo này nhé Mình muốn di chuyển nó xuống Cuối cùng thì các bạn Bôi đen
+[08:02] nó xuống Cuối cùng thì các bạn Bôi đen các bạn Bùi Thị béo này và bạn di chuyển
+[08:04] các bạn Bùi Thị béo này và bạn di chuyển xuống dưới và các bạn phải giữ vững trí
+[08:06] xuống dưới và các bạn phải giữ vững trí cho mình đấy các bạn bỏ chuyện trái ra
+[08:10] cho mình đấy các bạn bỏ chuyện trái ra và sau đó có mấy bảo hiểm ship đấy Bạn
+[08:12] và sau đó có mấy bảo hiểm ship đấy Bạn thấy hồng rất là hai ạ bây giờ trong
+[08:14] thấy hồng rất là hai ạ bây giờ trong trường hợp mà mình muốn copy cả cái bảng
+[08:16] trường hợp mà mình muốn copy cả cái bảng dữ liệu này ra một cái vùng khác thì làn
+[08:19] dữ liệu này ra một cái vùng khác thì làn rẽ các bạn sẽ Bôi đen Cái vùng dữ liệu
+[08:20] rẽ các bạn sẽ Bôi đen Cái vùng dữ liệu mà các bạn cần copy nhá sau đó bạn giữ
+[08:23] mà các bạn cần copy nhá sau đó bạn giữ trái và quan kéo đấy nếu như mà bạn muốn
+[08:26] trái và quan kéo đấy nếu như mà bạn muốn copy thì các bạn phải giữ thêm cái phím
+[08:28] copy thì các bạn phải giữ thêm cái phím cần trôi đây khi mà các bạn giữ phím cần
+[08:31] cần trôi đây khi mà các bạn giữ phím cần trôi thì các bạn nhìn thấy cái dấu cộng
+[08:32] trôi thì các bạn nhìn thấy cái dấu cộng ở các vị trí của con chuột nhá đây tức
+[08:35] ở các vị trí của con chuột nhá đây tức là cái dấu cộng này nó hiểu Nghĩa là
+[08:37] là cái dấu cộng này nó hiểu Nghĩa là copy đấy Bây giờ các bạn sẽ bỏ từ trái
+[08:39] copy đấy Bây giờ các bạn sẽ bỏ từ trái ra thì sau đó các bạn ơi bọn phím cần
+[08:41] ra thì sau đó các bạn ơi bọn phím cần chôn ra thì như vậy mình đã copy bảng dữ
+[08:44] chôn ra thì như vậy mình đã copy bảng dữ liệu này rất là nhanh chóng ạ xanh thủ
+[08:49] liệu này rất là nhanh chóng ạ xanh thủ thuật thứ ba là mình sẽ xóa các ô trống
+[08:50] thuật thứ ba là mình sẽ xóa các ô trống nhá thì cạn chuối nhá ở đây giả sử mình
+[08:53] nhá thì cạn chuối nhá ở đây giả sử mình có danh sách là họ tên của các sinh viên
+[08:55] có danh sách là họ tên của các sinh viên này
+[08:55] này ưu điểm của các môn nhá ở đây bạn thấy
+[08:58] ưu điểm của các môn nhá ở đây bạn thấy không có những cái ô mà nó sẽ có trống
+[09:00] không có những cái ô mà nó sẽ có trống nhá Bây giờ làm sao để mình xóa những
+[09:02] nhá Bây giờ làm sao để mình xóa những cái ô trống này đi thì Cách thứ nhất các
+[09:04] cái ô trống này đi thì Cách thứ nhất các bạn Thúy lại ở đây mình đã nói rồi bước
+[09:05] bạn Thúy lại ở đây mình đã nói rồi bước thứ nhất mình chọn Toàn bộ người cùng dữ
+[09:07] thứ nhất mình chọn Toàn bộ người cùng dữ liệu thì các bạn sẽ được trái và các bạn
+[09:09] liệu thì các bạn sẽ được trái và các bạn Bôi đen toàn bộ cái vùng dữ liệu này
+[09:10] Bôi đen toàn bộ cái vùng dữ liệu này trong trường hợp mà dữ liệu của các bạn
+[09:13] trong trường hợp mà dữ liệu của các bạn vẫn dài các bạn không thể mua chuột trái
+[09:15] vẫn dài các bạn không thể mua chuột trái ngang được thì các bạn chỉ diện tích và
+[09:16] ngang được thì các bạn chỉ diện tích và mô bất kỳ sau đó bạn bấm tăng chân a
+[09:18] mô bất kỳ sau đó bạn bấm tăng chân a cũng được đấy thì nó sẽ tự động nó vui
+[09:20] cũng được đấy thì nó sẽ tự động nó vui toàn bộ vùng dữ liệu cho mình nhé Để sau
+[09:22] toàn bộ vùng dữ liệu cho mình nhé Để sau đó bạn vào thẻ hôm này hãy chọn vào file
+[09:26] đó bạn vào thẻ hôm này hãy chọn vào file and select đã Cậu thích ở đây firex và
+[09:29] and select đã Cậu thích ở đây firex và các bạn chọn thì các bạn chọn goto
+[09:30] các bạn chọn thì các bạn chọn goto special đấy và các bạn chọn cái một like
+[09:34] special đấy và các bạn chọn cái một like nghĩa là gì Tức là những cái ôm mà ô
+[09:37] nghĩa là gì Tức là những cái ôm mà ô trống ở đây này ông rỗng ấy thì nó sẽ
+[09:39] trống ở đây này ông rỗng ấy thì nó sẽ Bôi đen cho các bạn nhé họ sẽ thích ok
+[09:41] Bôi đen cho các bạn nhé họ sẽ thích ok đấy như vậy các cái ô trống đây này Nó
+[09:44] đấy như vậy các cái ô trống đây này Nó đã được Bôi đen rồi nhá bây giờ để xóa
+[09:46] đã được Bôi đen rồi nhá bây giờ để xóa các ô trống này các bạn rất đơn giản các
+[09:48] các ô trống này các bạn rất đơn giản các bạn sẽ nháy chuột phải vào một ô trống
+[09:50] bạn sẽ nháy chuột phải vào một ô trống bất kỳ Ví dụ mình nhá được phải vào ô
+[09:51] bất kỳ Ví dụ mình nhá được phải vào ô trống F4 anh nhé để cậu nhớ phải các bạn
+[09:54] trống F4 anh nhé để cậu nhớ phải các bạn chọn thì các bạn chọn đi
+[09:55] chọn thì các bạn chọn đi Ừ thì nó sẽ hiện một cái cửa sổ để mình
+[09:59] Ừ thì nó sẽ hiện một cái cửa sổ để mình chọn cái tùy chọn Delete nhé ví dụ mình
+[10:02] chọn cái tùy chọn Delete nhé ví dụ mình chọn hiện dịch chuyển từ trái sang tức
+[10:04] chọn hiện dịch chuyển từ trái sang tức là địa các ô nó ở đây thì nó sẽ dịch
+[10:06] là địa các ô nó ở đây thì nó sẽ dịch chuyển sang bên trái tức là diện từ phải
+[10:08] chuyển sang bên trái tức là diện từ phải qua trái Đấy thì nó sẽ dịch ở bên trái
+[10:10] qua trái Đấy thì nó sẽ dịch ở bên trái có diện tích Ok Để thì như vậy toàn bộ
+[10:13] có diện tích Ok Để thì như vậy toàn bộ dữ liệu nó đang được miệng nó sẽ được
+[10:14] dữ liệu nó đang được miệng nó sẽ được đẩy sang trái rồi bây giờ có thể undo
+[10:17] đẩy sang trái rồi bây giờ có thể undo nhá Cái phím tắt để mình mở cái cửa sổ
+[10:21] nhá Cái phím tắt để mình mở cái cửa sổ ghoshal vừa xanh Nhã ví dụ tích vào đây
+[10:24] ghoshal vừa xanh Nhã ví dụ tích vào đây đi để mình thoát cái phần lựa chọn nhé
+[10:25] đi để mình thoát cái phần lựa chọn nhé thì các bạn có thể bấm phím tắt là căn
+[10:27] thì các bạn có thể bấm phím tắt là căn chung giờ đây thì nó sẽ vào cái phần Go
+[10:30] chung giờ đây thì nó sẽ vào cái phần Go tù ở đây và các bạn chọn cancel đấy thì
+[10:32] tù ở đây và các bạn chọn cancel đấy thì nó giống như các bạn vào thẻ hôm này các
+[10:34] nó giống như các bạn vào thẻ hôm này các bạn vào file save và các bạn chọn gotos
+[10:36] bạn vào file save và các bạn chọn gotos theo rồi Thôi thì các phím tắt là các
+[10:38] theo rồi Thôi thì các phím tắt là các tên g nhá sau đó qua chọn bảo anh ạ Đấy
+[10:41] tên g nhá sau đó qua chọn bảo anh ạ Đấy đấy là các phím tắt nhá Ok xanh cái tủ
+[10:47] đấy là các phím tắt nhá Ok xanh cái tủ thuật cuối cùng là mình sẽ tự căng độ
+[10:50] thuật cuối cùng là mình sẽ tự căng độ rộng cột đấy thì chả sửa đây nhá mình có
+[10:52] rộng cột đấy thì chả sửa đây nhá mình có dữ liệu là các cái thông tin của họ vào
+[10:55] dữ liệu là các cái thông tin của họ vào em ạ Bây giờ mình sẽ tự động cắt cái độ
+[10:59] em ạ Bây giờ mình sẽ tự động cắt cái độ rộng cột thì cảm thấy nhé ví dụ cái số
+[11:01] rộng cột thì cảm thấy nhé ví dụ cái số thứ tự này cái độ rộng cột để nó lại quá
+[11:03] thứ tự này cái độ rộng cột để nó lại quá rộng Nó không cần thiết thì nhìn nó rất
+[11:05] rộng Nó không cần thiết thì nhìn nó rất là xấu đúng không Trong khi họ tên này
+[11:07] là xấu đúng không Trong khi họ tên này thì cái cột này nó lại quá làm bé đấy
+[11:09] thì cái cột này nó lại quá làm bé đấy bây giờ để nó căng cái độ rộng cột tự
+[11:12] bây giờ để nó căng cái độ rộng cột tự động thì các bạn làm như thế nào giả sử
+[11:14] động thì các bạn làm như thế nào giả sử bây giờ mình muốn căng cái độ rộng cột b
+[11:16] bây giờ mình muốn căng cái độ rộng cột b này nhá thì bạn sẽ vào đấy các bạn xem
+[11:18] này nhá thì bạn sẽ vào đấy các bạn xem vào giữa cái cột b và cột C đây này khi
+[11:20] vào giữa cái cột b và cột C đây này khi nó hiện cái mũi tên mà nó vẽ hai bên đấy
+[11:22] nó hiện cái mũi tên mà nó vẽ hai bên đấy thì các bạn sẽ thích lúc nhé để thích
+[11:25] thì các bạn sẽ thích lúc nhé để thích đút vào đây này thì các bạn sẽ nhìn thấy
+[11:26] đút vào đây này thì các bạn sẽ nhìn thấy cột b nó sẽ con ạ Các bạn thích nó đi
+[11:28] cột b nó sẽ con ạ Các bạn thích nó đi đấy thì cần thấy em cái cột bên này đã
+[11:31] đấy thì cần thấy em cái cột bên này đã con lại trong trường hợp với mà bạn muốn
+[11:33] con lại trong trường hợp với mà bạn muốn mod nhiều cái nhiều cái cột Ví dụ mình
+[11:37] mod nhiều cái nhiều cái cột Ví dụ mình cần cột C này Đấy cột e và cột g đi
+[11:41] cần cột C này Đấy cột e và cột g đi chẳng ạ Đấy thì các bạn sẽ thích vào cột
+[11:43] chẳng ạ Đấy thì các bạn sẽ thích vào cột C các bạn giữ gần chôn các bạn tích của
+[11:44] C các bạn giữ gần chôn các bạn tích của e các bạn giữ từng chôn có mặt tích của
+[11:46] e các bạn giữ từng chôn có mặt tích của g đấy nhá Thì các bạn xem vào một cái
+[11:48] g đấy nhá Thì các bạn xem vào một cái cột bất kỳ Ví dụ mình và cái của em đấy
+[11:50] cột bất kỳ Ví dụ mình và cái của em đấy nhá Thì họ sẽ Di chuột giữa cái cột a và
+[11:53] nhá Thì họ sẽ Di chuột giữa cái cột a và cột f này khi nó hiện mũi tên ra hai bên
+[11:55] cột f này khi nó hiện mũi tên ra hai bên các bạn sẽ thích nước vào đây đấy thì
+[11:58] các bạn sẽ thích nước vào đây đấy thì như vậy ba cái cột C của E của f đã được
+[12:00] như vậy ba cái cột C của E của f đã được viện nó sẽ được tự động căn cái độ rộng
+[12:02] viện nó sẽ được tự động căn cái độ rộng cột thì cái độ rộng cột này nó rộng như
+[12:05] cột thì cái độ rộng cột này nó rộng như thế nào thì nó sẽ dựa vào cái dữ liệu mà
+[12:07] thế nào thì nó sẽ dựa vào cái dữ liệu mà có cái độ rộng lớn nhất để nó sẽ căng
+[12:09] có cái độ rộng lớn nhất để nó sẽ căng vừa cái ôm đấy thì ví dụ như cái họ tên
+[12:11] vừa cái ôm đấy thì ví dụ như cái họ tên nhé thì cảm thấy là cái bạn Nguyễn Văn
+[12:13] nhé thì cảm thấy là cái bạn Nguyễn Văn Cam này nó sẽ có cái độ rộng lớn nhất
+[12:15] Cam này nó sẽ có cái độ rộng lớn nhất thì nó sẽ căng cái độ rộng của các cột C
+[12:17] thì nó sẽ căng cái độ rộng của các cột C này để vừa cái bạn Nguyễn Văn Cam này
+[12:19] này để vừa cái bạn Nguyễn Văn Cam này Đấy đấy là cái nguyên lý của cái đối
+[12:22] Đấy đấy là cái nguyên lý của cái đối rộng cột nhé Ok Bây giờ bạn có thể ăn
+[12:25] rộng cột nhé Ok Bây giờ bạn có thể ăn lưu lại trong trường hợp mà bạn muốn sẽ
+[12:28] lưu lại trong trường hợp mà bạn muốn sẽ tăng cái độ rộng cột của toàn bộ cái
+[12:30] tăng cái độ rộng cột của toàn bộ cái bảng này thì các bạn sẽ Bôi đen toàn bộ
+[12:32] bảng này thì các bạn sẽ Bôi đen toàn bộ các cái cột của cái vùng dưới nghiệm này
+[12:33] các cái cột của cái vùng dưới nghiệm này để sau đó còn Facebook vào đây đấy Bạn
+[12:36] để sau đó còn Facebook vào đây đấy Bạn thấy không đấy là cái cách mà mình sẽ
+[12:38] thấy không đấy là cái cách mà mình sẽ tăng độ rộng của nhiều cột Ok như vậy là
+[12:41] tăng độ rộng của nhiều cột Ok như vậy là mình đã xong bốn cái thủ thuật của bài
+[12:43] mình đã xong bốn cái thủ thuật của bài học ngày hôm nay bây giờ mình sẽ xem cái
+[12:45] học ngày hôm nay bây giờ mình sẽ xem cái câu hỏi của bài tập về nhà nhé Ok bài
+[12:51] câu hỏi của bài tập về nhà nhé Ok bài tập về nhà là gì ạ thay cái ô trống bằng
+[12:53] tập về nhà là gì ạ thay cái ô trống bằng cái đoạn trích là thiếu dữ liệu
+[12:55] cái đoạn trích là thiếu dữ liệu ô tô màu vàng tức là cách ô trống đây
+[12:58] ô tô màu vàng tức là cách ô trống đây này các bạn phải gõ cái chữ thiếu dữ
+[12:59] này các bạn phải gõ cái chữ thiếu dữ liệu và các bạn phải tôi với màu vàng
+[13:01] liệu và các bạn phải tôi với màu vàng lên đấy đấy là cái bài tập về nhà nhé Ok
+[13:09] lên đấy đấy là cái bài tập về nhà nhé Ok như vậy là mình đã kết thúc bài học ngày
+[13:10] như vậy là mình đã kết thúc bài học ngày hôm nay ở đây cảm ơn các bạn đã theo dõi
+[13:12] hôm nay ở đây cảm ơn các bạn đã theo dõi các bạn nhớ đăng ký Kênh để cập nhật
+[13:15] các bạn nhớ đăng ký Kênh để cập nhật video mới nhất của gà cũng như chia sẻ
+[13:17] video mới nhất của gà cũng như chia sẻ để giúp mọi người cùng học ít xem nhé
+[13:18] để giúp mọi người cùng học ít xem nhé Xin chào và hẹn gặp lại ở

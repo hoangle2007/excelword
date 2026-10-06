@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bài học Word — Excel &amp; Word Lab</title>
+<link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body data-page="word">
+<a class="skip-link" href="#main">Bỏ qua tới nội dung</a>
+<header class="site-header">
+  <nav class="nav" aria-label="Điều hướng chính">
+    <a class="brand" href="index.html">Excel &amp; Word Lab</a>
+    <div class="nav-links">
+      <a data-nav="home" href="index.html">Trang chủ</a>
+      <a data-nav="excel" href="excel.html">Excel</a>
+      <a data-nav="word" href="word.html">Word</a>
+      <a data-nav="cong-thuc" href="cong-thuc.html">Công thức</a>
+      <a data-nav="trac-nghiem" href="trac-nghiem.html">Trắc nghiệm</a>
+    </div>
+  </nav>
+</header>
+<main id="main">
+  <h1>Bài học Word</h1>
+  <p class="muted">26 bài video + 213 kỹ năng từ giáo trình Word 2013.</p>
+  <div class="toolbar">
+    <input type="search" id="q" placeholder="Tìm bài học Word…" aria-label="Tìm bài học Word">
+  </div>
+  <h2>Bài giảng video</h2>
+  <div class="grid cols-2" id="list" role="list"></div>
+  <div class="empty" id="empty" hidden>Không tìm thấy bài học phù hợp.</div>
+  <h2>Kỹ năng tra cứu</h2>
+  <div class="toolbar">
+    <input type="search" id="qs" placeholder="Tìm kỹ năng (ví dụ: mục lục, Mail Merge)…" aria-label="Tìm kỹ năng Word">
+  </div>
+  <div id="skills"></div>
+</main>
+<footer class="site-footer">Excel &amp; Word Lab</footer>
+<script src="assets/js/common.js"></script>
+<script>
+let lessons = [], skills = [];
+function watchBadge(vid) {
+  const p = (App.store.get("watchProgress", {}))[vid];
+  if (!p) return "";
+  if (p.done) return ' <span class="badge">Đã xem ✓</span>';
+  if (p.sec > 10) return ` <span class="badge warn">Đang xem ${p.dur ? Math.min(99, Math.round(p.sec / p.dur * 100)) : 0}%</span>`;
+  return "";
+}
+function renderLessons() {
+  const q = document.getElementById("q").value.toLowerCase();
+  const done = App.doneLessons();
+  const items = lessons.filter(l => !q || l.bai.toLowerCase().includes(q));
+  document.getElementById("empty").hidden = items.length > 0;
+  document.getElementById("list").innerHTML = items.map(l => `
+    <article class="card" role="listitem">
+      <h3><a class="card-link" href="bai-hoc.html?mon=word&bai=${App.esc(l.video_id)}">${App.esc(l.bai)}</a></h3>
+      <p><span class="badge">${l.so_ky_nang} kỹ năng</span>
+      <span class="badge">${l.so_cau} câu hỏi</span>
+      ${done[l.video_id] ? '<span class="badge">Đã học ✓</span>' : ""}${watchBadge(l.video_id)}</p>
+      <p><label><input type="checkbox" data-done="${App.esc(l.video_id)}" ${done[l.video_id] ? "checked" : ""}> Đã học</label></p>
+      <p class="btn-row"><a class="btn" href="bai-hoc.html?mon=word&bai=${App.esc(l.video_id)}">Học ngay</a>
+      <a class="btn secondary" href="${App.esc(l.url)}" target="_blank" rel="noopener">YouTube</a></p>
+    </article>`).join("");
+  document.querySelectorAll("#list [data-done]").forEach(cb => cb.addEventListener("change", () => {
+    App.toggleLesson(cb.dataset.done); renderLessons();
+  }));
+}
+function renderSkills() {
+  const q = document.getElementById("qs").value.toLowerCase();
+  const items = skills.filter(s => !q || ((s.ten || "") + " " + (s.thao_tac || "") + " " + (s.giai_thich || "")).toLowerCase().includes(q)).slice(0, 60);
+  document.getElementById("skills").innerHTML = items.length ? `<table class="data">
+    <thead><tr><th>Kỹ năng</th><th>Thao tác / Menu</th><th>Phím tắt</th></tr></thead>
+    <tbody>${items.map(s => `<tr><td><strong>${App.esc(s.ten)}</strong><br><span class="muted">${App.esc(s.giai_thich || "")}</span></td>
+      <td>${App.esc(s.thao_tac || "")}<br><span class="muted">${App.esc(s.menu || "")}</span></td>
+      <td>${s.phim_tat ? `<code>${App.esc(s.phim_tat)}</code>` : ""}</td></tr>`).join("")}</tbody></table>
+    <p class="muted">Hiển thị ${items.length} kết quả đầu tiên. Gõ thêm để lọc.</p>`
+    : `<div class="empty">Nhập từ khóa để tra cứu ${skills.length} kỹ năng.</div>`;
+}
+(async () => {
+  [lessons, skills] = await Promise.all([
+    App.apiGet("lessons?mon=word").then(v => v || App.load("word_lessons.json")),
+    App.load("word_skills.json")
+  ]);
+  document.getElementById("q").addEventListener("input", App.debounce(renderLessons, 200));
+  document.getElementById("qs").addEventListener("input", App.debounce(renderSkills, 200));
+  renderLessons(); renderSkills();
+})();
+</script>
+</body>
+</html>

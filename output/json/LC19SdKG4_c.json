@@ -1,0 +1,417 @@
+{
+  "bai": "Bai 00 Excel la gi - Gioi thieu khoa hoc",
+  "cau_hoi": [
+    {
+      "A": "Microsoft Excel",
+      "B": "Mot trinh duyet web",
+      "C": "Mot bo go tieng Viet",
+      "D": "Mot he dieu hanh",
+      "cau": "Excel hay Microsoft Excel la gi?",
+      "dap_an": "A",
+      "giai_thich": "Excel la chuong trinh xu ly bang tinh cua Microsoft.",
+      "id": 1
+    },
+    {
+      "A": "De choi game",
+      "B": "Ghi lai, trinh bay thong tin dang bang, tinh toan va thong ke truc quan",
+      "C": "De xem phim",
+      "D": "De lap trinh web",
+      "cau": "Muc dich chinh cua Excel la gi?",
+      "dap_an": "B",
+      "giai_thich": "Video neu Excel giup ghi lai, trinh bay, tinh toan va thong ke.",
+      "id": 2
+    },
+    {
+      "A": "Chi gom van ban",
+      "B": "Chi gom mot o duy nhat",
+      "C": "Do cac dong va cot tao thanh nhieu o",
+      "D": "Khong co o nao",
+      "cau": "Bang tinh Excel duoc cau tao nhu the nao?",
+      "dap_an": "C",
+      "giai_thich": "Bang tinh gom nhieu o tao boi dong va cot.",
+      "id": 3
+    },
+    {
+      "A": "10%",
+      "B": "50%",
+      "C": "85%",
+      "D": "90% nha quan ly gioi dung Excel de quan tri",
+      "cau": "Theo video, bao nhieu phan tram nha quan ly gioi dung Excel?",
+      "dap_an": "D",
+      "giai_thich": "Video noi 90% nha quan ly gioi dung Excel.",
+      "id": 4
+    },
+    {
+      "A": "85% nhan vien gioi thanh thao Excel va tin hoc van phong",
+      "B": "Nhan vien gioi khong can Excel",
+      "C": "Chi can bang dai hoc",
+      "D": "Chi can ngoai ngu",
+      "cau": "Bill Gates chia se dieu gi ve nhan vien gioi?",
+      "dap_an": "A",
+      "giai_thich": "85% nhan vien gioi thanh thao Excel theo loi Bill Gates.",
+      "id": 5
+    },
+    {
+      "A": "Danh gia qua tam bang dai hoc",
+      "B": "Chi danh gia qua tuoi",
+      "C": "Khong danh gia gi",
+      "D": "Danh gia qua chung chi tin hoc va ngoai ngu",
+      "cau": "Theo video, nha quan ly danh gia ban qua gi?",
+      "dap_an": "D",
+      "giai_thich": "Quan ly danh gia qua chung chi tin hoc va ngoai ngu.",
+      "id": 6
+    },
+    {
+      "A": "Chi de nghe nhac",
+      "B": "Chi de ve tranh",
+      "C": "Bao cao, thong ke, phan tich so lieu, loc va chuyen doi du lieu, tinh toan",
+      "D": "Chi de gui email",
+      "cau": "Excel duoc ung dung lam nhung viec nao?",
+      "dap_an": "C",
+      "giai_thich": "Video liet ke bao cao, thong ke, phan tich, loc du lieu.",
+      "id": 7
+    },
+    {
+      "A": "Chi ke toan",
+      "B": "Van phong, ke toan, xay dung, hanh chinh, nhan su, XNK, logistic, ky su",
+      "C": "Chi ky su",
+      "D": "Khong nganh nao dung",
+      "cau": "Nhung doi tuong nao dung Excel?",
+      "dap_an": "B",
+      "giai_thich": "Rat nhieu nganh nghe deu dung Excel.",
+      "id": 8
+    },
+    {
+      "A": "Nguoi dang di lam hoc nhieu nhat",
+      "B": "Tre em hoc nhieu nhat",
+      "C": "Khong ai hoc Excel",
+      "D": "Chi nguoi tren 65 tuoi hoc",
+      "cau": "Theo thong ke kenh, ai hoc Excel nhieu nhat?",
+      "dap_an": "A",
+      "giai_thich": "Nguoi dang di lam hoc nhieu nhat, sau la sinh vien.",
+      "id": 9
+    },
+    {
+      "A": "Gan 50%",
+      "B": "Gan 1% la nguoi tren 65 tuoi van hoc Excel",
+      "C": "Gan 90%",
+      "D": "0%",
+      "cau": "Ty le nguoi tren 65 tuoi hoc Excel chiem bao nhieu?",
+      "dap_an": "B",
+      "giai_thich": "Video noi nhom tren 65 tuoi chiem gan 1%.",
+      "id": 10
+    },
+    {
+      "A": "Chi co 1 video",
+      "B": "Chi day VBA",
+      "C": "Khoa hoc gom 26 video tu co ban den nang cao",
+      "D": "Khoa hoc khong co noi dung",
+      "cau": "Khoa hoc nay gom bao nhieu video?",
+      "dap_an": "C",
+      "giai_thich": "Khoa hoc gom 26 video.",
+      "id": 11
+    },
+    {
+      "A": "Bai 3-8 hoc ve tranh",
+      "B": "Bai 3-8 hoc nau an",
+      "C": "Bai 3-8 hoc in an",
+      "D": "Bai 3-8 hoc ham quan trong nhu VLOOKUP, HLOOKUP, IF, SUM, COUNT",
+      "cau": "Tu bai 3 den bai 8 hoc noi dung gi?",
+      "dap_an": "D",
+      "giai_thich": "Bai 3-8 hoc cac ham quan trong nhat.",
+      "id": 12
+    },
+    {
+      "A": "Bai 9-13: dinh dang, dinh dang co dieu kien, loc, sap xep",
+      "B": "Bai 9-13: hoc lap trinh game",
+      "C": "Bai 9-13: nghi giai lao",
+      "D": "Bai 9-13: chi hoc in an",
+      "cau": "Tu video 9 den 13 hoc ky nang gi?",
+      "dap_an": "A",
+      "giai_thich": "Hoc dinh dang, loc, sap xep.",
+      "id": 13
+    },
+    {
+      "A": "Bai 14-17: hoc tieng Anh",
+      "B": "Bai 14-17: thu thuat Excel hay va huu dung",
+      "C": "Bai 14-17: hoc toan cao cap",
+      "D": "Bai 14-17: khong hoc gi",
+      "cau": "Bai 14 den 17 hoc noi dung gi?",
+      "dap_an": "B",
+      "giai_thich": "Bai 14-17 la thu thuat Excel.",
+      "id": 14
+    },
+    {
+      "A": "Bai 18 nau com",
+      "B": "Bai 18,19,20 deu nghi",
+      "C": "Bai 18 ve bieu do, bai 19 in an, bai 20 PivotTable",
+      "D": "Bai 18 xoa file",
+      "cau": "Bai 18, 19, 20 hoc gi?",
+      "dap_an": "C",
+      "giai_thich": "Bai 18 ve bieu do, 19 in an, 20 PivotTable.",
+      "id": 15
+    },
+    {
+      "A": "Bai 21-23 hoc hat",
+      "B": "Bai 21-23 hoc mua",
+      "C": "Bai 21-23 khong co",
+      "D": "Bai 21 cong thuc mang, bai 22 Dashboard, bai 23 phim tat",
+      "cau": "Bai 21, 22, 23 hoc gi?",
+      "dap_an": "D",
+      "giai_thich": "Cong thuc mang, dashboard, phim tat.",
+      "id": 16
+    },
+    {
+      "A": "Bai 24 Power Query (Power BI) va bai 25 VBA",
+      "B": "Bai 24-25 hoc boi",
+      "C": "Bai 24-25 hoc lai xe",
+      "D": "Bai 24-25 thi cuoi khoa",
+      "cau": "Hai bai cuoi khoa hoc gi?",
+      "dap_an": "A",
+      "giai_thich": "Bai 24 Power Query, bai 25 VBA.",
+      "id": 17
+    },
+    {
+      "A": "Xem o 144p cho mo",
+      "B": "Chon do phan giai HD 720p hoac 1080p qua bieu tuong banh rang",
+      "C": "Khong can chinh gi",
+      "D": "Tat tieng video",
+      "cau": "Nen chon chat luong xem video the nao?",
+      "dap_an": "B",
+      "giai_thich": "Nen chon HD 720p hoac 1080p.",
+      "id": 18
+    },
+    {
+      "A": "Khong the chinh toc do",
+      "B": "Chi xem toc do 1x",
+      "C": "Chinh qua banh rang: tang 1.25/1.5/1.75/2x hoac giam 0.75/0.5/0.25",
+      "D": "Phai tai phan mem khac",
+      "cau": "Cach dieu chinh toc do phat video?",
+      "dap_an": "C",
+      "giai_thich": "Chinh toc do qua bieu tuong banh rang.",
+      "id": 19
+    },
+    {
+      "A": "Khong can bo go tieng Viet",
+      "B": "Dung Word de go",
+      "C": "Go khong dau",
+      "D": "Cai Unikey, chuyen sang chu V de go tieng Viet",
+      "cau": "De go tieng Viet nen lam gi?",
+      "dap_an": "D",
+      "giai_thich": "Cai Unikey va bat che do V.",
+      "id": 20
+    },
+    {
+      "A": "Tai Unikey tai unikey.vn, chon ban Windows 32-bit hoac 64-bit",
+      "B": "Tai Unikey tai cho ung dung dien thoai",
+      "C": "Mua dia CD ngoai cho",
+      "D": "Khong can tai",
+      "cau": "Tai Unikey o dau va chon ban nao?",
+      "dap_an": "A",
+      "giai_thich": "Vao unikey.vn chon ban phu hop Windows.",
+      "id": 21
+    },
+    {
+      "A": "Chu E la tieng Viet",
+      "B": "Chu V la tieng Viet, chu E la tieng Anh",
+      "C": "Chu E va V giong nhau",
+      "D": "Khong co bieu tuong nao",
+      "cau": "Phan biet che do go tren Unikey the nao?",
+      "dap_an": "B",
+      "giai_thich": "Hien V la go tieng Viet, E la tieng Anh.",
+      "id": 22
+    },
+    {
+      "A": "Excel 2003 la moi nhat",
+      "B": "Khong can cai Excel",
+      "C": "Nen cai Excel 2019 hoac toi thieu Excel 2016",
+      "D": "Chi dung Excel tren giay",
+      "cau": "Nen cai phien ban Excel nao?",
+      "dap_an": "C",
+      "giai_thich": "Nen cai Excel 2019 hoac toi thieu 2016.",
+      "id": 23
+    },
+    {
+      "A": "Phien ban cu khong dung duoc gi",
+      "B": "Bat buoc phai mua may moi",
+      "C": "Phai bo hoc neu khong co Excel 2019",
+      "D": "Kien thuc co ban cac phien ban giong nhau nen khong qua lo neu chua nang cap",
+      "cau": "Neu khong nang cap duoc Excel thi sao?",
+      "dap_an": "D",
+      "giai_thich": "Kien thuc co ban giong nhau, van ap dung duoc.",
+      "id": 24
+    },
+    {
+      "A": "Link tai o phan mo ta duoi video, muc Xem them",
+      "B": "Link tai o tren TV",
+      "C": "Khong co file thuc hanh",
+      "D": "Phai xin qua dien thoai",
+      "cau": "File thuc hanh va cau hoi lay o dau?",
+      "dap_an": "A",
+      "giai_thich": "Link tai o phan mo ta duoi video.",
+      "id": 25
+    },
+    {
+      "A": "File dinh kem la video ca nhac",
+      "B": "File dinh kem thuong la file nen, giai nen roi mo thu muc bai hoc",
+      "C": "File dinh kem khong mo duoc",
+      "D": "File dinh kem tu chay",
+      "cau": "File dinh kem thuong co dang gi?",
+      "dap_an": "B",
+      "giai_thich": "File thuong la file nen, giai nen ra.",
+      "id": 26
+    },
+    {
+      "A": "Moi bai khong co bai tap",
+      "B": "Chi xem khong can thuc hanh",
+      "C": "Moi bai co file thuc hanh va file cau hoi de lam bai tap ve nha",
+      "D": "Bai tap chi danh cho giao vien",
+      "cau": "Trong moi bai hoc co nhung file gi?",
+      "dap_an": "C",
+      "giai_thich": "Moi bai co file thuc hanh va file cau hoi.",
+      "id": 27
+    },
+    {
+      "A": "Khong co danh sach phat",
+      "B": "Chi co 1 link duy nhat",
+      "C": "Link hong het",
+      "D": "Co 26 link video tuong ung trong phan mo ta de chuyen nhanh",
+      "cau": "Cach chuyen nhanh giua cac video trong khoa hoc?",
+      "dap_an": "D",
+      "giai_thich": "Co 26 link tuong ung cac video.",
+      "id": 28
+    },
+    {
+      "A": "Nhan Subscribe va chuong de cap nhat video moi va ung ho kenh",
+      "B": "Khong can dang ky kenh",
+      "C": "Huy dang ky kenh",
+      "D": "Chan kenh",
+      "cau": "Vi sao nen nhan Subscribe?",
+      "dap_an": "A",
+      "giai_thich": "De cap nhat video moi va ung ho kenh.",
+      "id": 29
+    },
+    {
+      "A": "Gioi Excel nen giau nghe mai mai",
+      "B": "Gioi Excel dung khoe voi ai vi nhieu nguoi se nho giup",
+      "C": "Gioi Excel la kho vi phai hoc tiep",
+      "D": "Gioi Excel khong co loi gi",
+      "cau": "Cau chuyen vui ve nguoi gioi Excel noi gi?",
+      "dap_an": "B",
+      "giai_thich": "Anh chang day Excel khuyen dung khoe vi nhieu nguoi hoi.",
+      "id": 30
+    },
+    {
+      "A": "Excel khong giup kiem tien",
+      "B": "Bao cao lam bang tay nhanh hon",
+      "C": "Chi 5 phut lam bao cao tai chinh co the kiem khong duoi 1000 do",
+      "D": "Khong ai thue lam Excel",
+      "cau": "Video noi gi ve gia tri cua ky nang Excel?",
+      "dap_an": "C",
+      "giai_thich": "5 phut lam bao cao co the kiem khong duoi 1000 do.",
+      "id": 31
+    },
+    {
+      "A": "Chi lam cong ty moi dung Excel",
+      "B": "Lam tu do khong can Excel",
+      "C": "Sinh vien khong can Excel",
+      "D": "Ke ca lam cong ty hay lam tu do deu phai dung Excel",
+      "cau": "Ai can dung Excel theo video?",
+      "dap_an": "D",
+      "giai_thich": "Lam cong ty hay tu do deu phai dung.",
+      "id": 32
+    },
+    {
+      "A": "Bai mo dau: Excel la gi, tai sao lai la Excel",
+      "B": "Bai mo dau: day VBA luon",
+      "C": "Bai mo dau: thi cuoi khoa",
+      "D": "Bai mo dau: khong co noi dung",
+      "cau": "Noi dung bai mo dau la gi?",
+      "dap_an": "A",
+      "giai_thich": "Bai mo dau tim hieu Excel la gi va tai sao.",
+      "id": 33
+    },
+    {
+      "A": "Bai 1 hoc lap trinh",
+      "B": "Bai 1 lam quen thao tac voi file Excel",
+      "C": "Bai 1 hoc ve bieu do",
+      "D": "Bai 1 thi hoc ky",
+      "cau": "Bai so 1 hoc noi dung gi?",
+      "dap_an": "B",
+      "giai_thich": "Bai 1 lam quen thao tac voi file Excel.",
+      "id": 34
+    },
+    {
+      "A": "Bai so 2 hoc in an",
+      "B": "Bai so 2 hoc VBA",
+      "C": "Bai so 2 nhap lieu va lam quen thanh phan Excel",
+      "D": "Bai so 2 nghi",
+      "cau": "Bai so 2 hoc noi dung gi?",
+      "dap_an": "C",
+      "giai_thich": "Bai 2 nhap lieu va lam quen thanh phan Excel.",
+      "id": 35
+    },
+    {
+      "A": "Giao dien Excel rat kho dung",
+      "B": "Excel khong co giao dien",
+      "C": "Excel chi dung lenh code",
+      "D": "Giao dien Excel rat than thien voi nguoi dung",
+      "cau": "Giao dien Excel duoc danh gia the nao?",
+      "dap_an": "D",
+      "giai_thich": "Excel co nhieu tinh nang uu viet, giao dien than thien.",
+      "id": 36
+    },
+    {
+      "A": "Hoc Excel hieu qua can xem HD, chinh toc do phu hop, cai Unikey va Excel moi, tai file thuc hanh",
+      "B": "Hoc Excel chi can xem qua khong can thuc hanh",
+      "C": "Hoc Excel khong can may tinh",
+      "D": "Hoc Excel chi can doc ly thuyet",
+      "cau": "Muon hoc Excel hieu qua can luu y gi?",
+      "dap_an": "A",
+      "giai_thich": "Tong hop cac luu y trong video.",
+      "id": 37
+    },
+    {
+      "A": "Khoa hoc ket thuc o video nay",
+      "B": "Video tiep theo la bai so 1 cac thao tac co ban voi file Excel",
+      "C": "Video tiep theo hoc nau an",
+      "D": "Video tiep theo la bai 25 VBA",
+      "cau": "Cuoi video, giang vien hen gap o bai nao?",
+      "dap_an": "B",
+      "giai_thich": "Hen gap o bai so 1 thao tac voi file Excel.",
+      "id": 38
+    },
+    {
+      "A": "Excel chi danh cho ke toan",
+      "B": "Excel da loi thoi",
+      "C": "Excel la chuong trinh bang tinh, quan trong cho moi nganh nghe va moi lua tuoi",
+      "D": "Excel chi danh cho nguoi gia",
+      "cau": "Ket luan chinh cua bai mo dau la gi?",
+      "dap_an": "C",
+      "giai_thich": "Excel quan trong, moi lua tuoi nganh nghe deu dung.",
+      "id": 39
+    },
+    {
+      "A": "Chi chuyen gia moi hoc duoc",
+      "B": "Nguoi moi khong nen hoc Excel",
+      "C": "Khoa hoc chi danh cho tien si",
+      "D": "Nguoi moi bat dau hoac chua thanh thao can he thong kien thuc",
+      "cau": "Khoa hoc mien phi nay danh cho ai?",
+      "dap_an": "D",
+      "giai_thich": "Danh cho nguoi moi bat dau hoac chua thanh thao.",
+      "id": 40
+    }
+  ],
+  "cong_thuc": [],
+  "thuat_toan_quy_trinh": [
+    "Buoc 1: Hieu Excel la chuong trinh bang tinh cua Microsoft gom cac o tao boi dong va cot, dung de ghi, trinh bay, tinh toan va thong ke.",
+    "Buoc 2: Nhan thuc tam quan trong: 90% nha quan ly gioi dung Excel, 85% nhan vien gioi thanh thao tin hoc van phong, moi nganh nghe va lua tuoi deu dung.",
+    "Buoc 3: Nam lo trinh 26 video: mo dau, thao tac file (bai 1), nhap lieu (bai 2), ham (bai 3-8), dinh dang/loc (bai 9-13), thu thuat (14-17), bieu do/in an/Pivot (18-20), mang/Dashboard/phim tat/Power Query/VBA (21-25).",
+    "Buoc 4: Chuan bi hoc: chon do phan giai HD 720p/1080p qua bieu tuong banh rang, chinh toc do phat phu hop.",
+    "Buoc 5: Cai Unikey tu unikey.vn dung ban 32/64-bit, bat che do V de go tieng Viet; cai Excel 2019 hoac toi thieu 2016.",
+    "Buoc 6: Tai file thuc hanh va cau hoi o phan mo ta duoi video (muc Xem them), giai nen va mo dung thu muc bai hoc.",
+    "Buoc 7: Nhan Subscribe va chuong de cap nhat video moi va ung ho kenh Ga Excel."
+  ],
+  "url": "https://www.youtube.com/watch?v=LC19SdKG4_c",
+  "video_id": "LC19SdKG4_c"
+}

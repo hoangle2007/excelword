@@ -1,0 +1,301 @@
+[00:01] Xin chào mừng các bạn đến với khóa học Ếch Xanh miễn phí từ cơ bản đến nâng cao
+[00:03] Ếch Xanh miễn phí từ cơ bản đến nâng cao dành cho người mới bắt đầu được thực
+[00:06] dành cho người mới bắt đầu được thực hiện trên kênh YouTube và Excel bài số
+[00:08] hiện trên kênh YouTube và Excel bài số 15 các thủ thuật sau hai phần 2/4 trước
+[00:12] 15 các thủ thuật sau hai phần 2/4 trước khi bắt đầu vào bài học ngày hôm nay
+[00:14] khi bắt đầu vào bài học ngày hôm nay mình sẽ giải đáp với câu hỏi của bài tập
+[00:16] mình sẽ giải đáp với câu hỏi của bài tập số 14 hôm trước nhé các bạn xem ở cái
+[00:19] số 14 hôm trước nhé các bạn xem ở cái câu hỏi của bài số 14 lên ok câu hỏi của
+[00:23] câu hỏi của bài số 14 lên ok câu hỏi của mình là gì ạ Mình sẽ thay cái ô trống
+[00:25] mình là gì ạ Mình sẽ thay cái ô trống bằng cái đoạn Tech là thiếu dữ liệu và
+[00:27] bằng cái đoạn Tech là thiếu dữ liệu và mình sẽ tô màu vàng cả ô đấy cũng ạ bước
+[00:30] mình sẽ tô màu vàng cả ô đấy cũng ạ bước thứ nhất là phải chọn được cái ô trống
+[00:32] thứ nhất là phải chọn được cái ô trống đúng không đấy thì đầu tiên mình sẽ Bôi
+[00:34] đúng không đấy thì đầu tiên mình sẽ Bôi đen toàn bộ vùng dữ liệu nhé các bạn sẽ
+[00:36] đen toàn bộ vùng dữ liệu nhé các bạn sẽ thích bằng ô bất kỳ này các bạn sẽ bấm
+[00:37] thích bằng ô bất kỳ này các bạn sẽ bấm cân A đấy hoặc là gì hoặc là các bạn giữ
+[00:40] cân A đấy hoặc là gì hoặc là các bạn giữ được trái và các bạn kéo thôi Đấy tức là
+[00:42] được trái và các bạn kéo thôi Đấy tức là mình sẽ lựa chọn toàn bộ cái vùng dữ
+[00:44] mình sẽ lựa chọn toàn bộ cái vùng dữ liệu này đúng không Bây giờ mình sẽ mở
+[00:46] liệu này đúng không Bây giờ mình sẽ mở cái cửa sổ go to xổ lên nhá Thì cái phím
+[00:48] cái cửa sổ go to xổ lên nhá Thì cái phím tắt là các bạn sẽ bấm Corolla đấy thì nó
+[00:51] tắt là các bạn sẽ bấm Corolla đấy thì nó sẽ hiện của cái cửa sổ totu nhá và các
+[00:53] sẽ hiện của cái cửa sổ totu nhá và các bạn thích chọn cái do tổ đây Thì như vậy
+[00:56] bạn thích chọn cái do tổ đây Thì như vậy cái cửa sổ dos cao thủ đã hiện ra đúng
+[00:58] cái cửa sổ dos cao thủ đã hiện ra đúng không Bây giờ con sẽ thích chọn
+[01:00] không Bây giờ con sẽ thích chọn Ừ rồi con sẽ bấm ok thì như vậy là dị
+[01:03] Ừ rồi con sẽ bấm ok thì như vậy là dị toàn bộ cái ô trống đây này Nó đã được
+[01:05] toàn bộ cái ô trống đây này Nó đã được lựa chọn rồi Các bạn thấy em nó sẽ có
+[01:08] lựa chọn rồi Các bạn thấy em nó sẽ có cái màu đen ở đây này Bây giờ mình sẽ
+[01:10] cái màu đen ở đây này Bây giờ mình sẽ viết cái chữ thiếu dữ liệu và mình tô
+[01:12] viết cái chữ thiếu dữ liệu và mình tô màu vàng nhé đấy thì đầu tiên mình có
+[01:15] màu vàng nhé đấy thì đầu tiên mình có thể tô với màu vàng trước đây các bạn sẽ
+[01:16] thể tô với màu vàng trước đây các bạn sẽ vào với cả hôm này các bạn sẽ thích cái
+[01:19] vào với cả hôm này các bạn sẽ thích cái màu ở đây lại ví dụ Các bạn chọn là cái
+[01:21] màu ở đây lại ví dụ Các bạn chọn là cái màu vàng nhá hoặc là màu là thì tùy các
+[01:23] màu vàng nhá hoặc là màu là thì tùy các bạn thì ở đây lỡ yêu cầu lòng màu vàng
+[01:25] bạn thì ở đây lỡ yêu cầu lòng màu vàng đúng không phải gọi sẽ tích vào đây là
+[01:27] đúng không phải gọi sẽ tích vào đây là màu vàng tiếp theo mình sẽ ghi là thiếu
+[01:30] màu vàng tiếp theo mình sẽ ghi là thiếu dữ liệu nhá thì bạn gọi luôn là diện
+[01:32] dữ liệu nhá thì bạn gọi luôn là diện thiếu dữ liệu nhá Đấy sau khi còn gõ
+[01:36] thiếu dữ liệu nhá Đấy sau khi còn gõ xong thì con phải giữ phím cần chôn rồi
+[01:38] xong thì con phải giữ phím cần chôn rồi Các bạn ơi bấm enter nhá các bạn Nhớ nha
+[01:40] Các bạn ơi bấm enter nhá các bạn Nhớ nha các bạn giữ phím quyền chung và các bạn
+[01:41] các bạn giữ phím quyền chung và các bạn muốn enter đấy thì như vậy là diệt toàn
+[01:44] muốn enter đấy thì như vậy là diệt toàn bộ cái ô mà rẽ ô trống đây nó đã được
+[01:46] bộ cái ô mà rẽ ô trống đây nó đã được chị ạ Nó đã đường võ cái chữ người thiếu
+[01:48] chị ạ Nó đã đường võ cái chữ người thiếu dữ liệu rồi đấy cá có thể tô đậm lên
+[01:50] dữ liệu rồi đấy cá có thể tô đậm lên cũng được để mình có thể cho màu đậm lên
+[01:51] cũng được để mình có thể cho màu đậm lên đấy thì tùy các bạn nhé Bây giờ chọn sẽ
+[01:54] đấy thì tùy các bạn nhé Bây giờ chọn sẽ thích bằng ô bất kỳ để mình thoát trong
+[01:56] thích bằng ô bất kỳ để mình thoát trong việc lựa chọn các kiểu này để bạn sẽ rất
+[01:58] việc lựa chọn các kiểu này để bạn sẽ rất là hai ạ
+[02:00] là hai ạ Ừ như vậy là mình đã xong cái câu hỏi
+[02:01] Ừ như vậy là mình đã xong cái câu hỏi cho cái bài tập về nhà nhá các bạn đóng
+[02:03] cho cái bài tập về nhà nhá các bạn đóng lại mình sẽ đi vào cái bài số 15 hôm nay
+[02:13] các bạn thấy nhé mình sẽ để cái link tải file thực hành trong phần mô tả thế giới
+[02:15] file thực hành trong phần mô tả thế giới video thì tốt nhất là các bạn tải về các
+[02:18] video thì tốt nhất là các bạn tải về các bạn buổi theo dõi và thực hành cùng mình
+[02:19] bạn buổi theo dõi và thực hành cùng mình nhá Nếu như bạn nào cũng biết cách tải
+[02:21] nhá Nếu như bạn nào cũng biết cách tải về thì các bạn có thể theo dõi Cái bài
+[02:23] về thì các bạn có thể theo dõi Cái bài đầu tiên trong bài đấy mình đã hướng dẫn
+[02:25] đầu tiên trong bài đấy mình đã hướng dẫn các bạn Chi tiết cái cách để các bạn tải
+[02:27] các bạn Chi tiết cái cách để các bạn tải về thì cái file mà tải về thì nó sẽ làm
+[02:30] về thì cái file mà tải về thì nó sẽ làm một cái quay lén các bạn sẽ giải nén ra
+[02:32] một cái quay lén các bạn sẽ giải nén ra nhé và các bạn sẽ thấy nó sẽ có 2 file
+[02:34] nhé và các bạn sẽ thấy nó sẽ có 2 file một một cái là file thực hành này và một
+[02:37] một một cái là file thực hành này và một cái file là câu hỏi cho cái bài tập về
+[02:39] cái file là câu hỏi cho cái bài tập về nhà trong Bài học này Hôm nay mình sẽ
+[02:41] nhà trong Bài học này Hôm nay mình sẽ hướng dẫn các bạn ba cái thủ thuật thứ
+[02:43] hướng dẫn các bạn ba cái thủ thuật thứ nhất là tạm cái danh sách xổ xuống hay
+[02:46] nhất là tạm cái danh sách xổ xuống hay còn gọi là nước Dallas Thứ hai là mình
+[02:48] còn gọi là nước Dallas Thứ hai là mình sẽ chọn cái xe nâng cam và thứ ba là
+[02:50] sẽ chọn cái xe nâng cam và thứ ba là mình sẽ giới thiệu qua với các bạn về
+[02:52] mình sẽ giới thiệu qua với các bạn về cái thanh trạng thái say goodbye ấy thì
+[02:55] cái thanh trạng thái say goodbye ấy thì cái thủ thuật thứ nhất là tạo với danh
+[02:56] cái thủ thuật thứ nhất là tạo với danh sách xổ xuống dropdownlist nhé Đây mình
+[02:59] sách xổ xuống dropdownlist nhé Đây mình sẽ vào với
+[03:00] sẽ vào với ý là cái thủ thuật đầu tiên là tạo danh
+[03:02] ý là cái thủ thuật đầu tiên là tạo danh sách xổ xuống đúng không ạ Đấy thì bạn
+[03:05] sách xổ xuống đúng không ạ Đấy thì bạn Thúy Nga ở bên phải là mình đã hướng dẫn
+[03:06] Thúy Nga ở bên phải là mình đã hướng dẫn các bạn là các bước để tạo danh sách xổ
+[03:08] các bạn là các bước để tạo danh sách xổ xuống rồi bạn chỉ cần làm theo thế này
+[03:11] xuống rồi bạn chỉ cần làm theo thế này thôi nhé bây giờ giả sử cái giới tính
+[03:13] thôi nhé bây giờ giả sử cái giới tính mình muốn nhập cái danh sách xổ xuống
+[03:14] mình muốn nhập cái danh sách xổ xuống nhá mình sẽ xóa cái này nên để bạn chọn
+[03:17] nhá mình sẽ xóa cái này nên để bạn chọn mới lại thì cái danh sách xổ xuống là gì
+[03:20] mới lại thì cái danh sách xổ xuống là gì Chắc là khi bạn tích vào một cái ông này
+[03:22] Chắc là khi bạn tích vào một cái ông này thì nó sẽ có các tùy chọn để các bạn
+[03:24] thì nó sẽ có các tùy chọn để các bạn thích và thôi các bạn không phải gõ tay
+[03:26] thích và thôi các bạn không phải gõ tay nữa để anh thì bây giờ giả sử mình có ba
+[03:28] nữa để anh thì bây giờ giả sử mình có ba cái kiểu giới tính là nam nữ và khác
+[03:30] cái kiểu giới tính là nam nữ và khác đúng ạ Đấy thì mình sẽ hướng dẫn các bạn
+[03:33] đúng ạ Đấy thì mình sẽ hướng dẫn các bạn một số cách cách để các bạn dễ các bạn
+[03:34] một số cách cách để các bạn dễ các bạn tạm với danh sách xổ xuống ở đây lại thì
+[03:37] tạm với danh sách xổ xuống ở đây lại thì đầu tiên các bạn sẽ Bôi đen Cái vùng dữ
+[03:39] đầu tiên các bạn sẽ Bôi đen Cái vùng dữ liệu mà các bạn muốn tạo danh sách xổ
+[03:40] liệu mà các bạn muốn tạo danh sách xổ xuống nhé sau đó thì các bạn xem vào cái
+[03:43] xuống nhé sau đó thì các bạn xem vào cái thẻ ra ta Các bạn chọn data validation ở
+[03:46] thẻ ra ta Các bạn chọn data validation ở đây đấy thì một cái cửa sổ
+[03:48] đây đấy thì một cái cửa sổ data-validation ở hiện ra nhá các bạn sẽ
+[03:51] data-validation ở hiện ra nhá các bạn sẽ thích vào cái thẻ setting thế này một Ô
+[03:54] thích vào cái thẻ setting thế này một Ô lâu các bạn sẽ chọn cho mình là dễ là
+[03:55] lâu các bạn sẽ chọn cho mình là dễ là Lead cái phần short nhắc họ sẽ gõ cho
+[03:58] Lead cái phần short nhắc họ sẽ gõ cho mình các cái kiểu giới tính ví
+[04:00] mình các cái kiểu giới tính ví ở huyện Nam này Phải nữ phải khác Đấy
+[04:04] ở huyện Nam này Phải nữ phải khác Đấy tức là mình có ba cái kiểu giới tính này
+[04:06] tức là mình có ba cái kiểu giới tính này các bạn sẽ bấm ok thì như vậy toàn thấy
+[04:08] các bạn sẽ bấm ok thì như vậy toàn thấy chưa khi các bạn tạo xong thì nó sẽ có
+[04:10] chưa khi các bạn tạo xong thì nó sẽ có một cái ô nhỏ này lại để con chọn giới
+[04:12] một cái ô nhỏ này lại để con chọn giới tính Ví dụ mình chọn hàng nhanh lại cái
+[04:14] tính Ví dụ mình chọn hàng nhanh lại cái ôm thứ hai cũng vậy nhé ví dụ bạn Bùi
+[04:16] ôm thứ hai cũng vậy nhé ví dụ bạn Bùi Viện Bùi Thị béo này có thích bài này
+[04:18] Viện Bùi Thị béo này có thích bài này các bạn sẽ chọn cái tính là nữ đấy các
+[04:20] các bạn sẽ chọn cái tính là nữ đấy các bạn Bún Đậu đây ví dụ mình cho giới tính
+[04:21] bạn Bún Đậu đây ví dụ mình cho giới tính Nhật khác đây thì lúc này các bạn chỉ
+[04:23] Nhật khác đây thì lúc này các bạn chỉ cần kích chọn thôi các bạn không phải gõ
+[04:25] cần kích chọn thôi các bạn không phải gõ nữa Cái này cũng rất là ngay nó sẽ đảm
+[04:28] nữa Cái này cũng rất là ngay nó sẽ đảm bảo cho các bạn là không bị nhầm nhá Đấy
+[04:30] bảo cho các bạn là không bị nhầm nhá Đấy để xóa cái danh sách xổ xuống này thì
+[04:32] để xóa cái danh sách xổ xuống này thì các bạn làm như thế nào thì gọi sẽ Bôi
+[04:34] các bạn làm như thế nào thì gọi sẽ Bôi đen trong vùng danh sách mà lúc nãy Các
+[04:36] đen trong vùng danh sách mà lúc nãy Các Bạn tạo cái thiện cái tạo danh sách chọn
+[04:38] Bạn tạo cái thiện cái tạo danh sách chọn xuống nhá hay còn gọi là nửa lít thì có
+[04:41] xuống nhá hay còn gọi là nửa lít thì có những bạn gọi là danh sách xổ xuống thì
+[04:42] những bạn gọi là danh sách xổ xuống thì tùy các bạn nhé thì đầu tiên mình sẽ Bôi
+[04:44] tùy các bạn nhé thì đầu tiên mình sẽ Bôi đen các cái ô mà mình tạo cái danh sách
+[04:47] đen các cái ô mà mình tạo cái danh sách chọn xuống rồi bây giờ các bạn lại vào
+[04:49] chọn xuống rồi bây giờ các bạn lại vào thẻ data Các bạn chọn điện
+[04:51] thẻ data Các bạn chọn điện data-validation đấy Sau đó các bạn tích
+[04:53] data-validation đấy Sau đó các bạn tích cái cleoli để tạo sẽ bấm ok thì như vậy
+[04:57] cái cleoli để tạo sẽ bấm ok thì như vậy Ở đây đánh mất cái danh sách xổ xuống ạ
+[04:58] Ở đây đánh mất cái danh sách xổ xuống ạ đấy là cái cách mà
+[05:00] đấy là cái cách mà Nghe danh sách xổ xuống nhá Bây giờ mình
+[05:01] Nghe danh sách xổ xuống nhá Bây giờ mình xóa đi cái Cách thứ 2 để miêu tả cái
+[05:05] xóa đi cái Cách thứ 2 để miêu tả cái danh sách xổ số là gì ạ Mình sẽ Liệt kê
+[05:07] danh sách xổ số là gì ạ Mình sẽ Liệt kê các cái giới tính ở đây thì đầu tiên các
+[05:10] các cái giới tính ở đây thì đầu tiên các bạn sẽ Bôi đen Cái vùng dữ liệu mà các
+[05:12] bạn sẽ Bôi đen Cái vùng dữ liệu mà các bạn muốn tạo cái danh sách xổ xuống nhá
+[05:13] bạn muốn tạo cái danh sách xổ xuống nhá đấy các bạn vào thẻ đa tăng Các bạn chọn
+[05:16] đấy các bạn vào thẻ đa tăng Các bạn chọn data validation thì vẫn là trong cái thẻ
+[05:19] data validation thì vẫn là trong cái thẻ setting này cái nhục câu lâu các bạn sẽ
+[05:21] setting này cái nhục câu lâu các bạn sẽ chọn cho mình là gì là Lead đấy ở cái
+[05:24] chọn cho mình là gì là Lead đấy ở cái phần short nhá các bạn sẽ tích vào ô trò
+[05:25] phần short nhá các bạn sẽ tích vào ô trò này sau đó bạn sẽ Bôi đen Cái ô mà mình
+[05:30] này sau đó bạn sẽ Bôi đen Cái ô mà mình muốn tạo danh sách xổ xuống đây ví dụ ba
+[05:31] muốn tạo danh sách xổ xuống đây ví dụ ba cái ô này đây thì lúc này các bạn không
+[05:34] cái ô này đây thì lúc này các bạn không phải gõ nữa mà cái phần sọt này nó sẽ
+[05:36] phải gõ nữa mà cái phần sọt này nó sẽ thay bằng một cái ô tham chiếu ở đây là
+[05:38] thay bằng một cái ô tham chiếu ở đây là từ viện từ g14 đến giờ 16 để bạn sẽ bấm
+[05:41] từ viện từ g14 đến giờ 16 để bạn sẽ bấm ok thì như vậy Ở đây nó cũng có cái danh
+[05:43] ok thì như vậy Ở đây nó cũng có cái danh sách xổ xuống rồi để con chọn lấy cảm
+[05:45] sách xổ xuống rồi để con chọn lấy cảm thấy rất là hai ạ Nếu như các bạn gõ vào
+[05:50] thấy rất là hai ạ Nếu như các bạn gõ vào đây nhá các bạn gõ một cái giới tính ví
+[05:52] đây nhá các bạn gõ một cái giới tính ví dụ giới tính là gì là gà thì hạn thì Nhé
+[05:53] dụ giới tính là gì là gà thì hạn thì Nhé thì nó sẽ báo lỗi này nó sẽ không cho
+[05:56] thì nó sẽ báo lỗi này nó sẽ không cho bạn gõ đấy cái cách này rất là ngay nó
+[05:58] bạn gõ đấy cái cách này rất là ngay nó chỉ cho các bạn Nhập thôi
+[06:00] chỉ cho các bạn Nhập thôi A gọi là nữ chẳng hạn thì lại Ok nếu như
+[06:02] A gọi là nữ chẳng hạn thì lại Ok nếu như cái phần mà các bạn gọi nó lằng một
+[06:05] cái phần mà các bạn gọi nó lằng một trong các phần ở danh sách xổ xuống đây
+[06:07] trong các phần ở danh sách xổ xuống đây thì ok Còn nếu như các bạn có một cái
+[06:08] thì ok Còn nếu như các bạn có một cái giới tính khác ví dụ như là gì ạ Ví dụ
+[06:11] giới tính khác ví dụ như là gì ạ Ví dụ nhà trai ở lại nhé thì nó sẽ không cho
+[06:13] nhà trai ở lại nhé thì nó sẽ không cho bạn gõ đâu đấy ok xanh thủ thuật thứ hai
+[06:19] bạn gõ đâu đấy ok xanh thủ thuật thứ hai là thì mình sẽ chọn xe nâng cao thì đầu
+[06:21] là thì mình sẽ chọn xe nâng cao thì đầu tiên được gì Các bạn sẽ vào cái thẻ hôm
+[06:24] tiên được gì Các bạn sẽ vào cái thẻ hôm này để họ sẽ vào điện firestick đợi cách
+[06:28] này để họ sẽ vào điện firestick đợi cách chọn cái file ở đây lấy hoặc phím tắt là
+[06:31] chọn cái file ở đây lấy hoặc phím tắt là điện internet nhé họ sẽ bấm tăng cho
+[06:33] điện internet nhé họ sẽ bấm tăng cho phép thì nó sẽ hiện một cái cửa sổ là
+[06:36] phép thì nó sẽ hiện một cái cửa sổ là file list nhá thì còn chú nhá ở đây nó
+[06:39] file list nhá thì còn chú nhá ở đây nó sẽ có hai cái thẻ là thẻ file vào thẻ
+[06:41] sẽ có hai cái thẻ là thẻ file vào thẻ rơi Tuyết thì trong Bài học này mình sẽ
+[06:43] rơi Tuyết thì trong Bài học này mình sẽ giới thiệu các bạn Thể file Thôi nhá thì
+[06:45] giới thiệu các bạn Thể file Thôi nhá thì bạn sẽ nhập cái ô mà các bạn cần tìm
+[06:47] bạn sẽ nhập cái ô mà các bạn cần tìm kiếm Ví dụ mình muốn tìm cái sản phẩm 01
+[06:51] kiếm Ví dụ mình muốn tìm cái sản phẩm 01 đi nhé tại thì họ sẽ ghi là sp ạ Còn
+[06:54] đi nhé tại thì họ sẽ ghi là sp ạ Còn cách ra là không một đấy Nãy sao nó có
+[06:59] cách ra là không một đấy Nãy sao nó có diện tích bằng
+[06:59] diện tích bằng Anh ở các bạn sử nhất ở đây mình hướng
+[07:02] Anh ở các bạn sử nhất ở đây mình hướng dẫn là chưa đầy đủ Cái này là nhập vào
+[07:03] dẫn là chưa đầy đủ Cái này là nhập vào từ cần tìm kiếm và các bạn giải thích
+[07:05] từ cần tìm kiếm và các bạn giải thích vào cái chữ file trước đã nhá Đấy thì nó
+[07:08] vào cái chữ file trước đã nhá Đấy thì nó sẽ hiện ra gì nó sẽ hiện ra một cái danh
+[07:10] sẽ hiện ra gì nó sẽ hiện ra một cái danh sách toàn bộ cái kết quả ở dưới này các
+[07:12] sách toàn bộ cái kết quả ở dưới này các bạn thấy rằng rất là hay đây là bộ Kết
+[07:14] bạn thấy rằng rất là hay đây là bộ Kết quả đây thì các bạn sẽ bấm tăng trên a
+[07:16] quả đây thì các bạn sẽ bấm tăng trên a lại cảm thấy chưa thì sau khi các bạn
+[07:19] lại cảm thấy chưa thì sau khi các bạn Bun cao cho ai thì toàn bộ các sản phẩm
+[07:20] Bun cao cho ai thì toàn bộ các sản phẩm 01 ở đây đã được Bôi đen này lại sẵn có
+[07:22] 01 ở đây đã được Bôi đen này lại sẵn có 01 này sạc vào 01 này vào lúc này các
+[07:26] 01 này sạc vào 01 này vào lúc này các bạn có thể tùy chọn nhá Ví dụ như bấm
+[07:27] bạn có thể tùy chọn nhá Ví dụ như bấm lâu đi còn thấy toàn bộ các sản phẩm 01
+[07:30] lâu đi còn thấy toàn bộ các sản phẩm 01 đã được lựa chọn ở đây các bạn có thể
+[07:31] đã được lựa chọn ở đây các bạn có thể hiện các bạn có thể tô màu đỏ hay các
+[07:34] hiện các bạn có thể tô màu đỏ hay các bạn có thể tố đậu lại thì tùy các bạn
+[07:35] bạn có thể tố đậu lại thì tùy các bạn nhá như vậy là diện Đây là cái cách để
+[07:38] nhá như vậy là diện Đây là cái cách để mình chọn cái sản phẩm nâng cao này Ví
+[07:40] mình chọn cái sản phẩm nâng cao này Ví dụ mình chọn là khu vực miền Bắc thời
+[07:41] dụ mình chọn là khu vực miền Bắc thời hạn này nhá thì bạn cũng làm tương tự
+[07:43] hạn này nhá thì bạn cũng làm tương tự thôi các bạn sẽ bấm cho phép này đấy các
+[07:46] thôi các bạn sẽ bấm cho phép này đấy các bạn sài gòn cái chữ bắt vào đây lấy gạo
+[07:48] bạn sài gòn cái chữ bắt vào đây lấy gạo sẽ chọn cái file này và bạn sẽ bấm càng
+[07:51] sẽ chọn cái file này và bạn sẽ bấm càng chỗ Na thì như vậy là dễ toàn bộ cái khu
+[07:54] chỗ Na thì như vậy là dễ toàn bộ cái khu vực phía Bắc đã được lựa chọn ở đây cảm
+[07:56] vực phía Bắc đã được lựa chọn ở đây cảm thấy rất là hay Sẽ Lau đi vào lúc này
+[07:58] thấy rất là hay Sẽ Lau đi vào lúc này các bạn có thể tùy chỉnh nhá ví dụ miền
+[07:59] các bạn có thể tùy chỉnh nhá ví dụ miền Bắc
+[08:00] Bắc ô tô màu đẹp mình sẽ tô màu xanh ngày đi
+[08:02] ô tô màu đẹp mình sẽ tô màu xanh ngày đi chẳng hạn thế đấy còn miền Nam nhé Bây
+[08:06] chẳng hạn thế đấy còn miền Nam nhé Bây giờ mình sẽ thích cả các bạn ạ Bây giờ
+[08:08] giờ mình sẽ thích cả các bạn ạ Bây giờ các bạn lại bấm cho phép Giả sử miền Nam
+[08:10] các bạn lại bấm cho phép Giả sử miền Nam để bạn sẽ chọn điểm các bạn phải ôn và
+[08:12] để bạn sẽ chọn điểm các bạn phải ôn và các bạn bấm càng nhớ ta để miền Nam mình
+[08:14] các bạn bấm càng nhớ ta để miền Nam mình sẽ tô màu gì Các bạn cần lâu đi mình sẽ
+[08:17] sẽ tô màu gì Các bạn cần lâu đi mình sẽ chọn các màu mà bạn mong muốn nhá đại ví
+[08:19] chọn các màu mà bạn mong muốn nhá đại ví dụ Việt Nam mình trong vào ngày lại
+[08:21] dụ Việt Nam mình trong vào ngày lại tương tự miền Trung các bạn thích tô màu
+[08:23] tương tự miền Trung các bạn thích tô màu nào thì các bạn là như vậy nhá Đấy là
+[08:25] nào thì các bạn là như vậy nhá Đấy là cái cách lựa chọn nâng cao đấy khá là
+[08:28] cái cách lựa chọn nâng cao đấy khá là hay đúng không ạ Mình sẽ vào cái thủ tục
+[08:30] hay đúng không ạ Mình sẽ vào cái thủ tục không ba cái thanh trạng thái đấy mình
+[08:33] không ba cái thanh trạng thái đấy mình sẽ thu nhỏ cái cửa sổ này lại người sẽ
+[08:36] sẽ thu nhỏ cái cửa sổ này lại người sẽ kéo cái này lên để cho con thấy là cái
+[08:40] kéo cái này lên để cho con thấy là cái thanh trạng thái nó nằm ở dưới này bạn
+[08:42] thanh trạng thái nó nằm ở dưới này bạn chú ý nhé các thanh trạng thái nằm ở
+[08:43] chú ý nhé các thanh trạng thái nằm ở dưới này Đấy bây giờ cạn sẽ Bôi đen Cái
+[08:47] dưới này Đấy bây giờ cạn sẽ Bôi đen Cái vùng dữ liệu này đấy còn thấy chưa thì
+[08:49] vùng dữ liệu này đấy còn thấy chưa thì khi mà các bạn Bôi đen Cái vùng dữ liệu
+[08:51] khi mà các bạn Bôi đen Cái vùng dữ liệu thì bạn sẽ thấy chứ ở dưới thanh trạng
+[08:53] thì bạn sẽ thấy chứ ở dưới thanh trạng thái này nó sẽ hiện rất là nhiều thông
+[08:55] thái này nó sẽ hiện rất là nhiều thông tin đầu tiên là gì Cái trung bình đây
+[08:59] tin đầu tiên là gì Cái trung bình đây thì nó sẽ lấy biển
+[09:00] thì nó sẽ lấy biển khi chọn chủ nhà những cái phần mà liên
+[09:03] khi chọn chủ nhà những cái phần mà liên quan đến phần tính số liệu ví dụ như là
+[09:04] quan đến phần tính số liệu ví dụ như là tính trung bình tĩnh mắc tính tập thì nó
+[09:08] tính trung bình tĩnh mắc tính tập thì nó sẽ chỉ cậu cái giá trị là số đấy thôi
+[09:10] sẽ chỉ cậu cái giá trị là số đấy thôi còn những cái ô mà rách thì nó sẽ không
+[09:12] còn những cái ô mà rách thì nó sẽ không tính á thì bạn thấy điểm trung bình là
+[09:14] tính á thì bạn thấy điểm trung bình là 94 này mắc là 18 và dị ạ xong ở đây là
+[09:17] 94 này mắc là 18 và dị ạ xong ở đây là 119 đấy Còn cái cao ba ngày đây nghĩa là
+[09:21] 119 đấy Còn cái cao ba ngày đây nghĩa là gì nó sẽ đến toàn bộ các cái ô mà mình
+[09:23] gì nó sẽ đến toàn bộ các cái ô mà mình Bôi đen rồi đây để nó sẽ ra ba ha bây
+[09:26] Bôi đen rồi đây để nó sẽ ra ba ha bây giờ để thêm các thành phần thì còn nháy
+[09:27] giờ để thêm các thành phần thì còn nháy chuột phải vào cái vị trí của status 3
+[09:29] chuột phải vào cái vị trí của status 3 nhá và các bạn sẽ chọn các cái gì cái
+[09:32] nhá và các bạn sẽ chọn các cái gì cái chức năng mà các bạn mong muốn Ví dụ như
+[09:34] chức năng mà các bạn mong muốn Ví dụ như chậm với chức năng này minimart thế nào
+[09:36] chậm với chức năng này minimart thế nào Cái giá trị nhỏ nhất là lấy ví dụ mình
+[09:38] Cái giá trị nhỏ nhất là lấy ví dụ mình chọn thêm là cái diện Mình sẽ chọn thêm
+[09:40] chọn thêm là cái diện Mình sẽ chọn thêm cái 5m Cao đây chắc rằng nó sẽ đến số
+[09:43] cái 5m Cao đây chắc rằng nó sẽ đến số đúng không đấy các bạn sẽ bấm ra ngoài
+[09:45] đúng không đấy các bạn sẽ bấm ra ngoài Để con thoát còn thấy nhớ như vậy là gì
+[09:48] Để con thoát còn thấy nhớ như vậy là gì ạ Kể như mâm chỗ là giá trị nhỏ nhất
+[09:50] ạ Kể như mâm chỗ là giá trị nhỏ nhất trong cái vùng dữ liệu mà mình Bôi đen
+[09:52] trong cái vùng dữ liệu mà mình Bôi đen lúc đấy nó sẽ là bốn này lại còn cái 50
+[09:55] lúc đấy nó sẽ là bốn này lại còn cái 50 khô khao chắc là nó sẽ đến cái ô mà chứa
+[09:58] khô khao chắc là nó sẽ đến cái ô mà chứa giá trị số thôi
+[10:00] giá trị số thôi ở những cái điểm ở đây này và tổng điểm
+[10:01] ở những cái điểm ở đây này và tổng điểm là giá trị số đó sẽ là 21 còn cao đây 32
+[10:05] là giá trị số đó sẽ là 21 còn cao đây 32 chỗ nào nó là nó sẽ đến cả cái chuỗi ký
+[10:07] chỗ nào nó là nó sẽ đến cả cái chuỗi ký tự Ở đây bây giờ để bỏ các thành phần mà
+[10:10] tự Ở đây bây giờ để bỏ các thành phần mà các bạn không muốn hiển thị ở cái tên
+[10:12] các bạn không muốn hiển thị ở cái tên thứ ba này nhá thì đôi khi nó hiển thị
+[10:13] thứ ba này nhá thì đôi khi nó hiển thị nhiều quá mình không muốn đúng không Các
+[10:15] nhiều quá mình không muốn đúng không Các bạn có thể nhớ được phải vào đây các bạn
+[10:17] bạn có thể nhớ được phải vào đây các bạn bỏ chọn các thành phần mà mình không
+[10:19] bỏ chọn các thành phần mà mình không muốn đi Ví dụ nằm chờ tức là đến những
+[10:22] muốn đi Ví dụ nằm chờ tức là đến những cái số này Vinamilk cũng không cần mắc
+[10:24] cái số này Vinamilk cũng không cần mắc sinh năm thì cũng không cần nhận đấy nhá
+[10:25] sinh năm thì cũng không cần nhận đấy nhá các bạn thích ra ngoài bạn đấy chứ lúc
+[10:28] các bạn thích ra ngoài bạn đấy chứ lúc này nó chỉ còn các thành phần ở đây thôi
+[10:29] này nó chỉ còn các thành phần ở đây thôi rất là hai ạ Như vậy là mình đã xong cái
+[10:34] rất là hai ạ Như vậy là mình đã xong cái bài giảng của ngày hôm nay bây giờ mình
+[10:36] bài giảng của ngày hôm nay bây giờ mình sẽ đi vào cái câu hỏi của bài số 15 Ok
+[10:42] sẽ đi vào cái câu hỏi của bài số 15 Ok câu hỏi của số 15 là gì ạ Ở đây mình sẽ
+[10:45] câu hỏi của số 15 là gì ạ Ở đây mình sẽ là diện mình sẽ yêu cầu các bạn tạo cái
+[10:47] là diện mình sẽ yêu cầu các bạn tạo cái danh sách xổ xuống ở đây là gì Cách thứ
+[10:50] danh sách xổ xuống ở đây là gì Cách thứ nhất là mình gọi trực tiếp này Cách thứ
+[10:52] nhất là mình gọi trực tiếp này Cách thứ hai mình sẽ chọn vùng danh sách và cái
+[10:54] hai mình sẽ chọn vùng danh sách và cái cách để tạo của danh sách xổ xuống thông
+[10:56] cách để tạo của danh sách xổ xuống thông minh đấy tức là diện nếu như mà các bạn
+[10:58] minh đấy tức là diện nếu như mà các bạn điền thêm các
+[11:00] điền thêm các Ừ đấy thì cái phần danh sách xổ số máy
+[11:02] Ừ đấy thì cái phần danh sách xổ số máy sẽ tự động cập nhật lại thì sẽ có ba cái
+[11:04] sẽ tự động cập nhật lại thì sẽ có ba cái cách để làm cái phần danh sách xổ xuống
+[11:07] cách để làm cái phần danh sách xổ xuống thông minh nhà thì bạn sẽ tìm hiểu rõ
+[11:09] thông minh nhà thì bạn sẽ tìm hiểu rõ nghiên cứu và các bạn làm nhé thì yêu
+[11:11] nghiên cứu và các bạn làm nhé thì yêu cầu tối thiểu là các bạn phải làm được
+[11:12] cầu tối thiểu là các bạn phải làm được cái phần này lại còn cái phần nâng cao
+[11:14] cái phần này lại còn cái phần nâng cao này chỉ cần có thể nghiên cứu hoặc các
+[11:17] này chỉ cần có thể nghiên cứu hoặc các bạn có thể tìm trên kênh của mình thì
+[11:18] bạn có thể tìm trên kênh của mình thì mình cũng đã có một cái bài về cái phần
+[11:20] mình cũng đã có một cái bài về cái phần này rồi Nếu còn thích thì con thì nên
+[11:22] này rồi Nếu còn thích thì con thì nên kênh và bạn sẽ xem trước nhé Ok như vậy
+[11:26] kênh và bạn sẽ xem trước nhé Ok như vậy là mình đã kết thúc bài học ngày hôm nay
+[11:28] là mình đã kết thúc bài học ngày hôm nay ở đây cảm ơn các bạn đã theo dõi các bạn
+[11:30] ở đây cảm ơn các bạn đã theo dõi các bạn nhớ đăng ký Kênh để cập nhật video mới
+[11:32] nhớ đăng ký Kênh để cập nhật video mới nhất của gà cũng như chia sẻ để giúp mọi
+[11:35] nhất của gà cũng như chia sẻ để giúp mọi người cùng học xem nhé Xin chào và hẹn
+[11:37] người cùng học xem nhé Xin chào và hẹn gặp lại ở

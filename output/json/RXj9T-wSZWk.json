@@ -1,0 +1,466 @@
+{
+  "bai": "Bai 03 nhom ham tinh tong SUM SUMIF SUMIFS",
+  "cau_hoi": [
+    {
+      "A": "=SUM(number1, number2, ...) tinh tong cac so, o, vung",
+      "B": "=SUM de tru",
+      "C": "=SUM de nhan",
+      "D": "=SUM de chia",
+      "cau": "Cu phap ham SUM la gi?",
+      "dap_an": "A",
+      "giai_thich": "SUM tinh tong, vi du =SUM(3,7,6,8,9) = 33.",
+      "id": 1
+    },
+    {
+      "A": "Go = roi go ten ham, Excel goi y; nhap Tab hoac double-click de chon",
+      "B": "Khong goi y",
+      "C": "Phai thuoc long",
+      "D": "Doan mo",
+      "cau": "Cach nhap ham nhanh co goi y trong Excel?",
+      "dap_an": "A",
+      "giai_thich": "Go chu S thi hien cac ham S; go SU thi loc SUM, SUMIF...",
+      "id": 2
+    },
+    {
+      "A": "Co 2 cach nhap: go = hoac go + roi go ten ham",
+      "B": "Chi go = duoc",
+      "C": "Chi go + duoc",
+      "D": "Khong can dau gi",
+      "cau": "De bat dau nhap ham co the dung dau gi?",
+      "dap_an": "A",
+      "giai_thich": "Thuong dung =, cung co the dung +.",
+      "id": 3
+    },
+    {
+      "A": "Nhan F2 de sua cong thuc; F4 de co dinh",
+      "B": "Khong sua duoc",
+      "C": "Phai go lai",
+      "D": "Xoa het lam lai",
+      "cau": "Phim tat sua cong thuc va co dinh tham chieu?",
+      "dap_an": "A",
+      "giai_thich": "F2 sua, F4 them $ co dinh.",
+      "id": 4
+    },
+    {
+      "A": "=SUMIF(range, criteria, [sum_range]) tinh tong 1 dieu kien",
+      "B": "=SUMIF de dem",
+      "C": "=SUMIF de tim",
+      "D": "=SUMIF de sap xep",
+      "cau": "Cu phap ham SUMIF?",
+      "dap_an": "A",
+      "giai_thich": "range la vung dieu kien, criteria la dieu kien, sum_range la vung tinh tong.",
+      "id": 5
+    },
+    {
+      "A": "=SUMIFS(sum_range, criteria_range1, criteria1, ...) tinh tong nhieu dieu kien",
+      "B": "=SUMIFS chi 1 dieu kien",
+      "C": "=SUMIFS de dem",
+      "D": "=SUMIFS de xoa",
+      "cau": "Cu phap ham SUMIFS?",
+      "dap_an": "A",
+      "giai_thich": "SUMIFS vung tong dung dau tien, sau la cac cap vung/dieu kien.",
+      "id": 6
+    },
+    {
+      "A": "SUMIF vung tong o cuoi; SUMIFS vung tong o dau",
+      "B": "Hai ham giong het nhau",
+      "C": "Khong khac gi",
+      "D": "SUMIF nhieu dieu kien hon",
+      "cau": "Diem khac quan trong giua SUMIF va SUMIFS?",
+      "dap_an": "A",
+      "giai_thich": "SUMIF sum_range cuoi, SUMIFS sum_range dau.",
+      "id": 7
+    },
+    {
+      "A": "Boi den tu o dau keo xuong; hoac click o dau roi giu Shift + mui ten xuong",
+      "B": "Chi keo chuot",
+      "C": "Chi dung phim",
+      "D": "Doan",
+      "cau": "2 cach chon vung doanh thu D4:D18?",
+      "dap_an": "A",
+      "giai_thich": "Keo chuot cho vung ngan; Shift+mui ten cho vung dai.",
+      "id": 8
+    },
+    {
+      "A": "Phai tu them dau cham",
+      "B": "Khong dinh dang duoc",
+      "C": "Home > nut phay (,) ngan cach hang nghin cho de doc",
+      "D": "De nguyen so dai",
+      "cau": "Cach hien so 6800000 de doc la 6,800,000?",
+      "dap_an": "C",
+      "giai_thich": "Dung Comma Style trong Home.",
+      "id": 9
+    },
+    {
+      "A": "Keo fill handle goc duoi phai o xuong de copy cong thuc",
+      "B": "Go lai tung o",
+      "C": "Copy bang tay",
+      "D": "Khong copy duoc",
+      "cau": "Cach ap dung cong thuc mien Bac cho mien Trung, Nam?",
+      "dap_an": "A",
+      "giai_thich": "Keo fill handle xuong.",
+      "id": 10
+    },
+    {
+      "A": "Vi tham chieu tuong doi tu dich: B4:B18 thanh B5:B19",
+      "B": "Vi Excel loi",
+      "C": "Vi may hong",
+      "D": "Vi nhap sai ham",
+      "cau": "Tai sao keo cong thuc SUMIF khong co dinh thi vung bi dich?",
+      "dap_an": "A",
+      "giai_thich": "Tham chieu tuong doi tu dich khi copy.",
+      "id": 11
+    },
+    {
+      "A": "Nhan F4 de them $ truoc cot va hang, vi du $B$4:$B$18",
+      "B": "Go $ bang tay khong duoc",
+      "C": "Khong co dinh duoc",
+      "D": "Phai khoa may",
+      "cau": "Cach co dinh vung bang phim F4?",
+      "dap_an": "A",
+      "giai_thich": "Boi den vung roi nhan F4 de them $.",
+      "id": 12
+    },
+    {
+      "A": "Fn+F4 neu F4 co 2 chuc nang tren laptop",
+      "B": "Dap manh ban phim",
+      "C": "Mua ban phim moi",
+      "D": "Bo qua co dinh",
+      "cau": "Neu nhan F4 khong duoc thi lam sao?",
+      "dap_an": "A",
+      "giai_thich": "Giu Fn (Function) + F4.",
+      "id": 13
+    },
+    {
+      "A": "$ co nghia co dinh, khi copy cong thuc vung co $ se khong dich",
+      "B": "$ de trang tri",
+      "C": "$ la tien te",
+      "D": "$ khong co y nghia",
+      "cau": "Dau $ trong $B$4 co y nghia gi?",
+      "dap_an": "A",
+      "giai_thich": "Co dinh tham chieu.",
+      "id": 14
+    },
+    {
+      "A": "Nen F4 ngay sau khi chon vung de khoi quen",
+      "B": "De cuoi moi F4",
+      "C": "Khong can F4",
+      "D": "F4 luc nao cung duoc",
+      "cau": "Thoi diem tot nhat de nhan F4?",
+      "dap_an": "A",
+      "giai_thich": "Chon vung xong nhan F4 luon.",
+      "id": 15
+    },
+    {
+      "A": "Khuyen dung SUMIFS ca khi 1 dieu kien de thong nhat cu phap, tranh nham",
+      "B": "Bat buoc dung SUMIF",
+      "C": "Cam dung SUMIFS",
+      "D": "Dung ham nao cung sai",
+      "cau": "Giang vien khuyen dung ham nao cho ca 1 dieu kien?",
+      "dap_an": "A",
+      "giai_thich": "Nen dung SUMIFS cho ca 1 dieu kien de quen 1 cu phap.",
+      "id": 16
+    },
+    {
+      "A": "Co, vi 1 dieu kien van la nhieu dieu kien dang don gian",
+      "B": "Khong bao gio",
+      "C": "Tuy hung",
+      "D": "Cam tuyet doi",
+      "cau": "Co the dung SUMIFS thay cho SUMIF o vi du tinh theo khu vuc khong?",
+      "dap_an": "A",
+      "giai_thich": "Hoan toan duoc: =SUMIFS(D4:D18,B4:B18,F9).",
+      "id": 17
+    },
+    {
+      "A": "Vung dieu kien va vung tong hau nhu luon phai co dinh $",
+      "B": "Khong bao gio co dinh",
+      "C": "Thi thoang co dinh",
+      "D": "Co dinh lam cham may",
+      "cau": "Luu y quan trong ve vung dieu kien va vung tong?",
+      "dap_an": "A",
+      "giai_thich": "Hau nhu luon phai co dinh de copy khong dich.",
+      "id": 18
+    },
+    {
+      "A": "Neu F4 hong thi go $ thu cong truoc cot va hang",
+      "B": "Bo bai",
+      "C": "Nghi hoc",
+      "D": "Mua may moi",
+      "cau": "Neu phim F4 hong thi co dinh bang cach nao?",
+      "dap_an": "A",
+      "giai_thich": "Go $ thu cong, vi du B4 thanh $B$4.",
+      "id": 19
+    },
+    {
+      "A": "Mo More Commands > chon All Commands > Add Merge & Center, % sang Quick Access",
+      "B": "Khong them duoc",
+      "C": "Thanh nay co dinh",
+      "D": "Phai cai lai Excel",
+      "cau": "Cach them nut vao Quick Access Toolbar?",
+      "dap_an": "A",
+      "giai_thich": "Click mui ten > More Commands > All Commands > Add > OK.",
+      "id": 20
+    },
+    {
+      "A": "Remove de go nut khoi Quick Access Toolbar",
+      "B": "Khong go duoc",
+      "C": "Phai de mai",
+      "D": "Xoa ca Excel",
+      "cau": "Cach go nut khoi Quick Access Toolbar?",
+      "dap_an": "A",
+      "giai_thich": "Vao More Commands > chon nut > Remove.",
+      "id": 21
+    },
+    {
+      "A": "File > More > Options > General > doi font/co chu mac dinh, khoi dong lai Excel",
+      "B": "Khong doi duoc",
+      "C": "Doi trong Home la du",
+      "D": "Phai cai Win moi",
+      "cau": "Cach doi font/co chu mac dinh cho file moi?",
+      "dap_an": "A",
+      "giai_thich": "Vao Options > General, doi roi khoi dong lai.",
+      "id": 22
+    },
+    {
+      "A": "Mac dinh Calibri 11; vi du doi sang Arial 13",
+      "B": "Mac dinh Times 12",
+      "C": "Khong co mac dinh",
+      "D": "Moi lan khac nhau",
+      "cau": "Font/co chu mac dinh ban dau la gi?",
+      "dap_an": "A",
+      "giai_thich": "Calibri 11.",
+      "id": 23
+    },
+    {
+      "A": "SUM co the cong 1 o, nhieu o, nhieu vung, ca so truc tiep",
+      "B": "SUM chi cong 1 o",
+      "C": "SUM khong cong duoc vung",
+      "D": "SUM chi dem",
+      "cau": "Ham SUM co the tinh tong nhung gi?",
+      "dap_an": "A",
+      "giai_thich": "1 o, nhieu o, nhieu vung, so truc tiep.",
+      "id": 24
+    },
+    {
+      "A": "=SUM(3,7,6,8,9) = 33 trong video",
+      "B": "=SUM = 0",
+      "C": "=SUM = 100",
+      "D": "Khong tinh duoc",
+      "cau": "Vi du SUM co ban trong video cho ket qua bao nhieu?",
+      "dap_an": "A",
+      "giai_thich": "=SUM(3,7,6,8,9)=33.",
+      "id": 25
+    },
+    {
+      "A": "=SUM(D15:D17) cong them vung nua sau dau phay",
+      "B": "Khong cong them duoc",
+      "C": "Chi 1 vung",
+      "D": "Phai tach ham",
+      "cau": "Cach cong them vung D15:D17 vao cong thuc SUM san co?",
+      "dap_an": "A",
+      "giai_thich": "Sua cong thuc them ,D15:D17.",
+      "id": 26
+    },
+    {
+      "A": "IF trong tieng Anh la Neu, tuc co dieu kien",
+      "B": "IF la tong",
+      "C": "IF la dem",
+      "D": "IF la xoa",
+      "cau": "Chu IF trong SUMIF co nghia gi?",
+      "dap_an": "A",
+      "giai_thich": "IF = Neu, tuc co dieu kien.",
+      "id": 27
+    },
+    {
+      "A": "=SUMIF($B$4:$B$18,F9,$D$4:$D$18) tinh doanh thu mien Bac",
+      "B": "=SUMIF sai",
+      "C": "Khong tinh duoc",
+      "D": "=SUMIF chi dem",
+      "cau": "Cong thuc tinh doanh thu mien Bac trong video?",
+      "dap_an": "A",
+      "giai_thich": "Vung dieu kien khu vuc, dieu kien F9, vung tong doanh thu.",
+      "id": 28
+    },
+    {
+      "A": "=SUMIFS($D$4:$D$18,$B$4:$B$18,F16,$C$4:$C$18,G14) 2 dieu kien Bac + SP01",
+      "B": "Khong co 2 dieu kien",
+      "C": "Chi 1 dieu kien",
+      "D": "Ham sai",
+      "cau": "Cong thuc 2 dieu kien Bac va SP01?",
+      "dap_an": "A",
+      "giai_thich": "Vung tong truoc, sau la 2 cap vung/dieu kien.",
+      "id": 29
+    },
+    {
+      "A": "O G14 (SP01) cung F4 co dinh vi copy xuong van giu SP01",
+      "B": "Khong can co dinh o dieu kien",
+      "C": "De tu do",
+      "D": "Xoa o dieu kien",
+      "cau": "Tai sao o G14 (SP01) cung phai F4 co dinh?",
+      "dap_an": "A",
+      "giai_thich": "De copy xuong khong bi dich khoi SP01.",
+      "id": 30
+    },
+    {
+      "A": "Dieu kien >800000 viet trong ngoac kep: \">800000\"",
+      "B": "Viet 800000 khong",
+      "C": "Khong viet duoc",
+      "D": "Phai viet bang chu",
+      "cau": "Dieu kien doanh thu lon hon 800000 viet the nao?",
+      "dap_an": "A",
+      "giai_thich": "Dat trong ngoac kep: lon hon 800000.",
+      "id": 31
+    },
+    {
+      "A": "3 dieu kien: khu vuc + san pham + doanh thu >800000",
+      "B": "Chi 1 dieu kien",
+      "C": "Chi 2 dieu kien",
+      "D": "Khong co 3 dieu kien",
+      "cau": "Vi du 3 dieu kien trong bai tap la gi?",
+      "dap_an": "A",
+      "giai_thich": "Them dieu kien doanh thu lon hon 800000.",
+      "id": 32
+    },
+    {
+      "A": "Doi SP02 thanh SP khac thi ket qua tu cap nhat; SP02 khong co doanh thu >800000 nen = 0",
+      "B": "Ket qua co dinh",
+      "C": "Khong doi gi",
+      "D": "Phai tinh lai tay",
+      "cau": "Kiem tra cong thuc 3 dieu kien bang cach nao?",
+      "dap_an": "A",
+      "giai_thich": "Doi san pham thi ket qua tu thay doi.",
+      "id": 33
+    },
+    {
+      "A": "Du lieu co 3 khu vuc Bac Trung Nam, moi khu vuc 5 san pham",
+      "B": "Chi 1 khu vuc",
+      "C": "Khong co san pham",
+      "D": "Du lieu trong",
+      "cau": "Bang du lieu bai 3 co cau truc gi?",
+      "dap_an": "A",
+      "giai_thich": "3 khu vuc Bac Trung Nam, moi khu vuc 5 san pham.",
+      "id": 34
+    },
+    {
+      "A": "Tong doanh thu toan bo la 16,800,000",
+      "B": "Tong = 0",
+      "C": "Tong = 100",
+      "D": "Khong tinh duoc",
+      "cau": "Tong doanh thu =SUM(D4:D18) trong video la bao nhieu?",
+      "dap_an": "A",
+      "giai_thich": "16,800,000.",
+      "id": 35
+    },
+    {
+      "A": "Double-click cong thuc mien Nam de kiem tra vung co dich khong",
+      "B": "Khong can kiem tra",
+      "C": "Tin tuong tuyet doi",
+      "D": "Xoa di lam lai",
+      "cau": "Cach kiem tra cong thuc sau khi copy xuong?",
+      "dap_an": "A",
+      "giai_thich": "Click vao o de xem vung mau co dung khong.",
+      "id": 36
+    },
+    {
+      "A": "Giai bai tap tinh tong theo san pham + khu vuc bang SUMIFS",
+      "B": "Khong co bai tap",
+      "C": "Chi xem",
+      "D": "Nghi hoc",
+      "cau": "Bai tap ve nha cua bai 3 la gi?",
+      "dap_an": "A",
+      "giai_thich": "Dung SUMIFS tinh tong theo san pham va khu vuc.",
+      "id": 37
+    },
+    {
+      "A": "Cau hoi 1: co them cong cu vao Quick Access duoc khong? Cau 2: co doi font mac dinh duoc khong?",
+      "B": "Khong co cau hoi",
+      "C": "Cau hoi ve nau an",
+      "D": "Cau hoi ve game",
+      "cau": "2 cau hoi bai 2 duoc giai dau bai 3 la gi?",
+      "dap_an": "A",
+      "giai_thich": "Them cong cu vao Quick Access va doi font mac dinh.",
+      "id": 38
+    },
+    {
+      "A": "Bai 3 day 3 ham SUM, SUMIF, SUMIFS kem F4 va Quick Access",
+      "B": "Bai 3 day ve tranh",
+      "C": "Bai 3 nghi",
+      "D": "Bai 3 hoc hat",
+      "cau": "Tom tat bai 3 da hoc gi?",
+      "dap_an": "A",
+      "giai_thich": "3 ham tong, F4 co dinh, chon vung, Quick Access, font mac dinh.",
+      "id": 39
+    },
+    {
+      "A": "Luu y: vung phai co dinh, nen dung SUMIFS thong nhat, F4/Fn+F4 hoac go $ tay",
+      "B": "Khong co luu y",
+      "C": "Lam bua cung dung",
+      "D": "Khong can co dinh",
+      "cau": "3 luu y cuoi bai 3 la gi?",
+      "dap_an": "A",
+      "giai_thich": "Co dinh vung, dung SUMIFS thong nhat, cach F4.",
+      "id": 40
+    }
+  ],
+  "cong_thuc": [
+    {
+      "cu_phap": "=SUM(number1, [number2], ...)",
+      "giai_thich": "Tinh tong cac so, o, vung. Co the cong 1 o, nhieu o, nhieu vung.",
+      "ten": "SUM",
+      "vi_du": "=SUM(3,7,6,8,9) = 33; =SUM(D4:D18) = 16800000"
+    },
+    {
+      "cu_phap": "=SUMIF(range, criteria, [sum_range])",
+      "giai_thich": "Tinh tong 1 dieu kien. range la vung dieu kien, criteria la dieu kien (o hoac trong ngoac kep), sum_range la vung tinh tong.",
+      "ten": "SUMIF",
+      "vi_du": "=SUMIF($B$4:$B$18,F9,$D$4:$D$18) tinh doanh thu mien Bac"
+    },
+    {
+      "cu_phap": "=SUMIFS(sum_range, criteria_range1, criteria1, ...)",
+      "giai_thich": "Tinh tong nhieu dieu kien. sum_range dung dau tien, sau la cac cap vung/dieu kien. Dung duoc ca cho 1 dieu kien de thong nhat.",
+      "ten": "SUMIFS",
+      "vi_du": "=SUMIFS($D$4:$D$18,$B$4:$B$18,F16,$C$4:$C$18,G14) mien Bac + SP01; them ($D$4:$D$18,\">800000\") cho 3 dieu kien"
+    },
+    {
+      "cu_phap": "F4 hoac Fn+F4 hoac go $ thu cong",
+      "giai_thich": "Co dinh tham chieu tuyet doi $B$4:$B$18 de copy cong thuc khong bi dich vung. Nen F4 ngay sau khi chon vung.",
+      "ten": "Co dinh tham chieu F4",
+      "vi_du": "Boi den B4:B18 nhan F4 duoc $B$4:$B$18"
+    },
+    {
+      "cu_phap": "Chon vung: keo chuot hoac click o dau + giu Shift + mui ten (vung dai dung Ctrl+Shift+mui ten xuong); keo fill handle de copy; Comma Style ngan cach nghin",
+      "giai_thich": "Ky thuat chon vung nhanh, copy cong thuc va dinh dang so de doc.",
+      "ten": "Chon vung va dinh dang so",
+      "vi_du": "Click D4 giu Ctrl+Shift+mui ten xuong den D18; Home > Comma hien 6,800,000"
+    },
+    {
+      "cu_phap": "Go = hoac + roi go ten ham; go S/SU de loc goi y, Tab hoac double-click de chon; F2 de sua cong thuc",
+      "giai_thich": "Bat dau ham bang = (thong dung) hoac +; dung goi y de chon nhanh; F2 sua truc tiep cong thuc.",
+      "ten": "Nhap ham nhanh va sua cong thuc",
+      "vi_du": "=SUM(3,7,6,8,9) = 33; them ,D15:D17 de cong them vung"
+    },
+    {
+      "cu_phap": "Mui ten xuong tren thanh tieu de > More Commands > All Commands > chon lenh > Add > OK; chon lenh > Remove de go",
+      "giai_thich": "Them nut hay dung (Merge & Center, %) len thanh truy cap nhanh; go bang Remove.",
+      "ten": "Quick Access Toolbar",
+      "vi_du": "Add Merge & Center va % sang Quick Access"
+    },
+    {
+      "cu_phap": "File > More > Options > General > doi font/co chu > OK > dong va mo lai Excel; giu Shift + 4 de go $ thu cong",
+      "giai_thich": "Doi font/co chu mac dinh cho file moi (vi du Arial 13, mac dinh Calibri 11); neu F4 hong thi go $ tay.",
+      "ten": "Font mac dinh va go $ tay",
+      "vi_du": "Doi Calibri 11 thanh Arial 13; B4 thanh $B$4"
+    }
+  ],
+  "thuat_toan_quy_trinh": [
+    "Buoc 1: Tra loi bai cu: them nut vao Quick Access qua More Commands > All Commands > Add; doi font mac dinh qua File > Options > General roi khoi dong lai.",
+    "Buoc 2: Nhap ham: go = hoac + roi go ten ham, dung goi y Tab/double-click; F2 de sua cong thuc.",
+    "Buoc 3: Dung SUM de tinh tong toan bo: =SUM(D4:D18); chon vung bang keo chuot hoac Shift+mui ten; dinh dang Comma.",
+    "Buoc 4: Dung SUMIF cho 1 dieu kien theo khu vuc: vung dieu kien khu vuc, dieu kien o F9, vung tong doanh thu; F4 co dinh ngay.",
+    "Buoc 5: Keo fill handle xuong; neu vung dich thi F4 co dinh $B$4:$B$18, $D$4:$D$18.",
+    "Buoc 6: Dung SUMIFS cho 2-3 dieu kien: vung tong dung dau, sau la cac cap vung/dieu kien; dieu kien so viet trong ngoac kep vi du lon hon 800000.",
+    "Buoc 7: Nen dung SUMIFS thong nhat ca cho 1 dieu kien; neu F4 hong thi go $ tay hoac Fn+F4."
+  ],
+  "url": "https://www.youtube.com/watch?v=RXj9T-wSZWk",
+  "video_id": "RXj9T-wSZWk"
+}

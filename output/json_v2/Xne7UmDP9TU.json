@@ -1,0 +1,883 @@
+{
+  "video_id": "Xne7UmDP9TU",
+  "bai": "Bai 23 - 25 phim tat thong dung",
+  "url": "https://www.youtube.com/watch?v=Xne7UmDP9TU",
+  "cong_thuc": [
+    {
+      "ten": "Copy — Ctrl+C",
+      "cu_phap_chuan": "Ctrl+C",
+      "tham_so": [
+        {
+          "ten": "Boi den",
+          "mo_ta": "Chon vung truoc"
+        },
+        {
+          "ten": "C",
+          "mo_ta": "Giu Ctrl, nhan C"
+        }
+      ],
+      "giai_thich": "Nhan ban vung: vien marching-ants nhap nhay quanh vung copy. Dung khi nhan ban du lieu.",
+      "vi_du_chay_duoc": "Boi den A1:A5 > Ctrl+C (vien nhap nhay) > chon C1 > Ctrl+V",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Dan de len du lieu cu",
+      "timestamp": "[00:01]"
+    },
+    {
+      "ten": "Paste — Ctrl+V",
+      "cu_phap_chuan": "Ctrl+V",
+      "tham_so": [
+        {
+          "ten": "V",
+          "mo_ta": "Giu Ctrl, nhan V"
+        }
+      ],
+      "giai_thich": "Dan vung copy/cut vao vi tri moi. Con tro dat o o tren-trai cua vung dich.",
+      "vi_du_chay_duoc": "Chon C1 > Ctrl+V (du lieu copy xuat hien)",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Quen Esc dan trung",
+      "timestamp": "[00:51]"
+    },
+    {
+      "ten": "Cut — Ctrl+X",
+      "cu_phap_chuan": "Ctrl+X",
+      "tham_so": [
+        {
+          "ten": "X",
+          "mo_ta": "Giu Ctrl, nhan X"
+        }
+      ],
+      "giai_thich": "Cat/di chuyen: vung goc cung nhap nhay nhung se trang sau khi paste. Khac Copy (giu goc).",
+      "vi_du_chay_duoc": "Boi den > Ctrl+X > sang vi tri moi > Ctrl+V (goc trang)",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Cut mat goc neu quen",
+      "timestamp": "[01:37]"
+    },
+    {
+      "ten": "Undo — Ctrl+Z",
+      "cu_phap_chuan": "Ctrl+Z",
+      "tham_so": [
+        {
+          "ten": "Z",
+          "mo_ta": "Giu Ctrl, nhan Z"
+        }
+      ],
+      "giai_thich": "Hoan tac thao tac vua xong; nhan nhieu lan lui nhieu buoc (vd sau Replace All).",
+      "vi_du_chay_duoc": "Ctrl+H > Replace All > Ctrl+Z (hoan tac)",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Undo qua tay",
+      "timestamp": "[02:20]"
+    },
+    {
+      "ten": "Thoat copy — Esc",
+      "cu_phap_chuan": "Esc",
+      "tham_so": [],
+      "giai_thich": "Tat vien nhap nhay sau copy/paste. Khong anh huong du lieu.",
+      "vi_du_chay_duoc": "Ctrl+C > Ctrl+V > Esc (het nhap nhay)",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Tim thieu wildcard",
+      "timestamp": "[03:06]"
+    },
+    {
+      "ten": "Find — Ctrl+F",
+      "cu_phap_chuan": "Ctrl+F",
+      "tham_so": [],
+      "giai_thich": "Mo hop Find (the Find): tim kiem tu khoa trong sheet.",
+      "vi_du_chay_duoc": "Ctrl+F > go 'hang' > Find Next / Find All",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Replace All sai hang loat",
+      "timestamp": "[03:55]"
+    },
+    {
+      "ten": "Replace — Ctrl+H",
+      "cu_phap_chuan": "Ctrl+H",
+      "tham_so": [],
+      "giai_thich": "Mo thang the Replace: thay the noi dung hang loat.",
+      "vi_du_chay_duoc": "Ctrl+H > Find 'du lieu' > Replace 'Excel' > Replace All",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Quen tat filter tuong mat du lieu",
+      "timestamp": "[04:42]"
+    },
+    {
+      "ten": "Find Next / Replace All",
+      "cu_phap_chuan": "Find Next / Find All / Replace / Replace All",
+      "tham_so": [],
+      "giai_thich": "Find Next: tung o; Find All: liet ke; Replace: tung cho; Replace All: tat ca.",
+      "vi_du_chay_duoc": "Find All liet ke 5 o > Replace All thay 5 cho",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "O trong lam nhay dut",
+      "timestamp": "[05:25]"
+    },
+    {
+      "ten": "Filter — Ctrl+Shift+L",
+      "cu_phap_chuan": "Ctrl+Shift+L",
+      "tham_so": [],
+      "giai_thich": "Bat/tat AutoFilter (loc du lieu). Nhan lai de tat.",
+      "vi_du_chay_duoc": "Chon tieu de > Ctrl+Shift+L (mui ten loc hien ra)",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Nham Home voi Ctrl+Home",
+      "timestamp": "[06:17]"
+    },
+    {
+      "ten": "Nhay goc — Ctrl+Mui ten",
+      "cu_phap_chuan": "Ctrl + Phim mui ten",
+      "tham_so": [
+        {
+          "ten": "Ctrl",
+          "mo_ta": "Giu Ctrl"
+        },
+        {
+          "ten": "Mui ten",
+          "mo_ta": "Nhan 1 trong 4 huong"
+        }
+      ],
+      "giai_thich": "Nhay toi bien (dau/cuoi) vung du lieu lien tuc. Rat nhanh voi bang dai.",
+      "vi_du_chay_duoc": "Dung o A1 > Ctrl+Mui ten xuong (toi dong cuoi)",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Vung trong dut doan",
+      "timestamp": "[07:04]"
+    },
+    {
+      "ten": "Ve A1 — Ctrl+Home",
+      "cu_phap_chuan": "Ctrl+Home",
+      "tham_so": [],
+      "giai_thich": "Ve o A1 tu bat ky dau trong sheet.",
+      "vi_du_chay_duoc": "Dang o Z1000 > Ctrl+Home (ve A1)",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Sheet an khong nhay toi",
+      "timestamp": "[07:50]"
+    },
+    {
+      "ten": "Chon nhanh — Ctrl+Shift+Mui ten",
+      "cu_phap_chuan": "Ctrl+Shift + Mui ten",
+      "tham_so": [
+        {
+          "ten": "Shift",
+          "mo_ta": "Them Shift de vua di vua chon"
+        }
+      ],
+      "giai_thich": "Boi den tu o hien tai toi goc vung. Ket hop 2 huong de phu kin vung.",
+      "vi_du_chay_duoc": "O A1 > Ctrl+Shift+Mui ten xuong + sang phai (chon ca vung)",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "% nhan 100 hieu lam",
+      "timestamp": "[08:33]"
+    },
+    {
+      "ten": "Chuyen sheet — Ctrl+PageDown/PageUp",
+      "cu_phap_chuan": "Ctrl+PageDown / Ctrl+PageUp",
+      "tham_so": [],
+      "giai_thich": "Sang sheet ben phai (PgDn) / ben trai (PgUp).",
+      "vi_du_chay_duoc": "Ctrl+PageDown (sang sheet ke tiep)",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "SUM doan sai vung co o trong",
+      "timestamp": "[09:20]"
+    },
+    {
+      "ten": "Dinh dang so — Ctrl+Shift+1..5",
+      "cu_phap_chuan": "Ctrl+Shift+1 / 2 / 3 / 4 / 5",
+      "tham_so": [],
+      "giai_thich": "1:#,##0.00 (nghin+2 le); 2:gio; 3:ngay; 4:tien $; 5:%. Ap cho o dang chon.",
+      "vi_du_chay_duoc": "Nhap 1000000/3 > Ctrl+Shift+1 (333,333.33); > Ctrl+Shift+5 (phan tram)",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Quen Enter sau Alt,H,V,V",
+      "timestamp": "[10:14]"
+    },
+    {
+      "ten": "AutoSum — Alt+= (Alt + dau bang)",
+      "cu_phap_chuan": "Alt + =",
+      "tham_so": [],
+      "giai_thich": "Tu chen =SUM() cho cot/hang ke tren/trai o hien tai; Enter de chot.",
+      "vi_du_chay_duoc": "O duoi cot so > Alt+= (hien =SUM(B2:B10)) > Enter",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Tuong Ctrl+; tu cap nhat",
+      "timestamp": "[11:03]"
+    },
+    {
+      "ten": "Paste Values — Ctrl+C roi Alt,H,V,V",
+      "cu_phap_chuan": "Alt,H,V,V (sau Ctrl+C)",
+      "tham_so": [],
+      "giai_thich": "Dan dac biet dang gia tri: bo cong thuc, chi lay so. Thu tu: Copy > Alt > H > V > V > Enter.",
+      "vi_du_chay_duoc": "Copy cot cong thuc > Alt,H,V,V > Enter (chi con so)",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Ban phim laptop thieu Fn",
+      "timestamp": "[11:50]"
+    },
+    {
+      "ten": "Ngay hien tai — Ctrl+;",
+      "cu_phap_chuan": "Ctrl+; (cham phay)",
+      "tham_so": [],
+      "giai_thich": "Chen NGAY hom nay (gia tri co dinh, khong tu doi nhu TODAY()).",
+      "vi_du_chay_duoc": "Chon o > Ctrl+; (hien ngay hom nay)",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Enter thuong nhay o",
+      "timestamp": "[12:39]"
+    },
+    {
+      "ten": "Gio hien tai — Ctrl+Shift+;",
+      "cu_phap_chuan": "Ctrl+Shift+; ",
+      "tham_so": [],
+      "giai_thich": "Chen GIO hien tai (co dinh). Them Shift so voi lenh ngay.",
+      "vi_du_chay_duoc": "Chon o > Ctrl+Shift+; (hien gio)",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Bam 2 lan chon ca sheet",
+      "timestamp": "[13:23]"
+    },
+    {
+      "ten": "Xuong dong trong o — Alt+Enter",
+      "cu_phap_chuan": "Alt+Enter",
+      "tham_so": [],
+      "giai_thich": "Ngat dong trong cung 1 o (vd liet ke hang hoa). Can Wrap Text de hien dep.",
+      "vi_du_chay_duoc": "Go 'Hang1' > Alt+Enter > 'Hang2' (2 dong 1 o)",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Tieu de lech chart xau",
+      "timestamp": "[14:11]"
+    },
+    {
+      "ten": "Chon vung/sheet — Ctrl+A",
+      "cu_phap_chuan": "Ctrl+A",
+      "tham_so": [],
+      "giai_thich": "Lan 1: chon vung lien tuc quanh o hien tai; lan 2: ca sheet.",
+      "vi_du_chay_duoc": "O trong vung > Ctrl+A (chon vung); lan nua (ca sheet)",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Nham Shift+Space/Ctrl+Space",
+      "timestamp": "[15:00]"
+    },
+    {
+      "ten": "Ve chart — Alt+F1",
+      "cu_phap_chuan": "Alt+F1",
+      "tham_so": [],
+      "giai_thich": "Ve bieu do cot tu dong tu vung dang chon, ngay tren sheet hien tai.",
+      "vi_du_chay_duoc": "Boi den vung so > Alt+F1 (chart hien ra)",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Chen nham vi tri",
+      "timestamp": "[15:45]"
+    },
+    {
+      "ten": "Chon hang/cot — Shift+Space / Ctrl+Space",
+      "cu_phap_chuan": "Shift+Space (hang) / Ctrl+Space (cot)",
+      "tham_so": [],
+      "giai_thich": "Chon ca hang / ca cot cua o hien tai; boi den them de chon nhieu.",
+      "vi_du_chay_duoc": "O B3 > Shift+Space (hang 3); > Ctrl+Space (cot B)",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Xoa nham chua Ctrl+Z",
+      "timestamp": "[16:26]"
+    },
+    {
+      "ten": "Chen hang/cot — Ctrl+Shift+Dau cong (+) roi R/C",
+      "cu_phap_chuan": "Ctrl+Shift++ roi R (hang) / C (cot)",
+      "tham_so": [],
+      "giai_thich": "Mo hop Insert: go R (=Row) chen hang, C (=Column) chen cot. Boi den N o de chen N hang/cot.",
+      "vi_du_chay_duoc": "Boi den 2 o > Ctrl+Shift++ > R > Enter (chen 2 hang)",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Tha Shift truoc tha chuot ghi de",
+      "timestamp": "[17:11]"
+    },
+    {
+      "ten": "Xoa hang/cot — Ctrl+Tru (-) roi R/C",
+      "cu_phap_chuan": "Ctrl+- roi R (hang) / C (cot)",
+      "tham_so": [],
+      "giai_thich": "Mo hop Delete: go R xoa hang, C xoa cot.",
+      "vi_du_chay_duoc": "Chon cot > Ctrl+- > C > Enter (xoa cot)",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Quen Unhide tuong mat",
+      "timestamp": "[17:56]"
+    },
+    {
+      "ten": "Di chuyen chen — Giu Shift + keo chuot",
+      "cu_phap_chuan": "Shift + keo chuot trai",
+      "tham_so": [],
+      "giai_thich": "Di chuyen/chen hang-cot ma khong de len du lieu cu (vach xanh hien vi tri chen).",
+      "vi_du_chay_duoc": "Boi den 2 hang > giu Shift + keo toi vach xanh > tha",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Quen Alt+; copy ca o an",
+      "timestamp": "[18:40]"
+    },
+    {
+      "ten": "An/Hien hang cot — Ctrl+9 / Ctrl+0",
+      "cu_phap_chuan": "Ctrl+9 (an hang) / Ctrl+0 (an cot)",
+      "tham_so": [],
+      "giai_thich": "An hang/cot dang chon; Ctrl+Z hoac Unhide de hien lai. Chon nhieu de an hang loat.",
+      "vi_du_chay_duoc": "Chon hang 5:7 > Ctrl+9 (an 3 hang)",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Mau khong nhat quan Flash Fill sai",
+      "timestamp": "[19:26]"
+    },
+    {
+      "ten": "Chon o nhin thay — Alt+;",
+      "cu_phap_chuan": "Alt+; (cham phay)",
+      "tham_so": [],
+      "giai_thich": "Chon cac o VISIBLE sau khi an/loc, bo qua o an khi copy (tranh copy ca dong an).",
+      "vi_du_chay_duoc": "Loc + an hang > boi den > Alt+; > Ctrl+C > Ctrl+V (chi o thay)",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "",
+      "timestamp": "[20:08]"
+    },
+    {
+      "ten": "Flash Fill — Ctrl+E",
+      "cu_phap_chuan": "Ctrl+E",
+      "tham_so": [],
+      "giai_thich": "Dien nhanh theo mau (tu Excel 2013): go mau 1 o (Nguyen Van An) roi Ctrl+E dien ca cot.",
+      "vi_du_chay_duoc": "Cot Ho + Ten > go mau 'Nguyen Van An' > Ctrl+E (dien ca cot)",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "",
+      "timestamp": "[21:01]"
+    }
+  ],
+  "thuat_toan_quy_trinh": [
+    {
+      "buoc": 1,
+      "thao_tac": "Buoc 1 (Luyen copy-paste-undo): Tai file thuc hanh bai 23 (link mo ta) > Boi den vung mau > Ctrl+C (vien nhap nhay) > chon cho moi > Ctrl+V > Esc thoat nhap nhay; Ctrl+X thu cut; Ctrl+Z undo tung buoc",
+      "phim_tat": "Ctrl+C, Ctrl+V, Ctrl+X",
+      "luu_y": "Kiem tra vung sau paste/fill; Ctrl+Z ngay neu sai"
+    },
+    {
+      "buoc": 2,
+      "thao_tac": "Buoc 2 (Luyen Find-Replace): Ctrl+F tim 'hang' > Find Next / Find All > Ctrl+H thay 'du lieu' thanh 'Excel' > Replace / Replace All > Ctrl+Z undo 1-2 buoc de kiem tra",
+      "phim_tat": "Ctrl+Z, Ctrl+F, Ctrl+H",
+      "luu_y": "Kiem tra vung sau paste/fill; Ctrl+Z ngay neu sai"
+    },
+    {
+      "buoc": 3,
+      "thao_tac": "Buoc 3 (Loc + dieu huong): Ctrl+Shift+L bat AutoFilter > Ctrl+Mui ten nhay goc; Ctrl+Shift+Mui ten boi den; Ctrl+Home ve A1 > Ctrl+PageDown/PageUp chuyen sheet",
+      "phim_tat": "Ctrl+H, Ctrl+Shift+L, Ctrl+Home",
+      "luu_y": ""
+    },
+    {
+      "buoc": 4,
+      "thao_tac": "Buoc 4 (Dinh dang + tong + gia tri): Nhap 1000000/3 roi Ctrl+Shift+1..5 xem 5 kieu > Alt+= tinh tong cot/hang ke tren/trai > Enter > Copy cot cong thuc > Alt,H,V,V dan gia tri",
+      "phim_tat": "Alt+=, Alt,H,V,V, Ctrl+Shift+",
+      "luu_y": ""
+    },
+    {
+      "buoc": 5,
+      "thao_tac": "Buoc 5 (Ngay-gio-xuong dong-chart-insert): Ctrl+; chen ngay; Ctrl+Shift+; chen gio; Alt+Enter xuong dong trong o > Ctrl+A chon vung/sheet; Alt+F1 ve chart > Shift/Ctrl+Space chon hang/cot; Ctrl+Shift++ (R/C) chen; Ctrl+- (R/C) xoa; Shift+keo di chuyen; Ctrl+9/0 an; Alt+; chon hien; Ctrl+E Flash Fill",
+      "phim_tat": "Ctrl+;, Alt+Enter, Ctrl+A",
+      "luu_y": ""
+    }
+  ],
+  "cau_hoi": [
+    {
+      "id": 1,
+      "chu_de": "Copy vung du lieu dung phim ta...",
+      "do_kho": "de",
+      "cau": "Copy vung du lieu dung phim tat nao?",
+      "A": "Ctrl+C",
+      "B": "Ctrl+P",
+      "C": "Alt+C",
+      "D": "Shift+C",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Boi den roi Ctrl+C, vien nhap nhay la duoc. Doi chieu transcript video.",
+      "timestamp": "[00:01]"
+    },
+    {
+      "id": 2,
+      "chu_de": "Ctrl+C",
+      "do_kho": "de",
+      "cau": "Sau khi Ctrl+C thay hien tuong gi?",
+      "A": "=SUM(A1:A10) (tinh tong)",
+      "B": "Vung copy vien nhap nhay",
+      "C": "Tat may",
+      "D": "Mat du lieu",
+      "dap_an": "B",
+      "giai_thich_chi_tiet": "Vien nhap nhay bao vung copy san sang dan. Doi chieu transcript video.",
+      "timestamp": "[00:36]"
+    },
+    {
+      "id": 3,
+      "chu_de": "Dan vung da copy dung phim nao...",
+      "do_kho": "de",
+      "cau": "Dan vung da copy dung phim nao?",
+      "A": "Ctrl+P (in, khong phai copy/dan)",
+      "B": "Ctrl+D",
+      "C": "Ctrl+V",
+      "D": "Shift+V",
+      "dap_an": "C",
+      "giai_thich_chi_tiet": "Chon vi tri moi roi Ctrl+V. Doi chieu transcript video.",
+      "timestamp": "[01:08]"
+    },
+    {
+      "id": 4,
+      "chu_de": "Thoat vien nhap nhay sau copy/...",
+      "do_kho": "de",
+      "cau": "Thoat vien nhap nhay sau copy/paste bang?",
+      "A": "Ctrl+P (in, khong phai copy/dan)",
+      "B": "Enter",
+      "C": "Tab",
+      "D": "Esc",
+      "dap_an": "D",
+      "giai_thich_chi_tiet": "Nhan Esc de tat che do marching ants. Doi chieu transcript video.",
+      "timestamp": "[01:41]"
+    },
+    {
+      "id": 5,
+      "chu_de": "Cut (cat) dung phim nao?...",
+      "do_kho": "de",
+      "cau": "Cut (cat) dung phim nao?",
+      "A": "Ctrl+X",
+      "B": "Ctrl+C",
+      "C": "Ctrl+K",
+      "D": "Alt+X",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Boi den roi Ctrl+X, vung goc cung nhap nhay. Doi chieu transcript video.",
+      "timestamp": "[02:12]"
+    },
+    {
+      "id": 6,
+      "chu_de": "Cut khac Copy o diem nao?...",
+      "do_kho": "de",
+      "cau": "Cut khac Copy o diem nao?",
+      "A": "Giong het",
+      "B": "Cut xoa trang vung goc sau khi paste, Copy giu nguyen",
+      "C": "Cut nhanh hon",
+      "D": "Copy xoa goc",
+      "dap_an": "B",
+      "giai_thich_chi_tiet": "Cut = di chuyen, Copy = nhan ban. Doi chieu transcript video.",
+      "timestamp": "[02:44]"
+    },
+    {
+      "id": 7,
+      "chu_de": "Undo thao tac vua xong dung?...",
+      "do_kho": "de",
+      "cau": "Undo thao tac vua xong dung?",
+      "A": "Ctrl+P (in, khong phai copy/dan)",
+      "B": "Ctrl+Y",
+      "C": "Ctrl+Z",
+      "D": "Alt+Z",
+      "dap_an": "C",
+      "giai_thich_chi_tiet": "Nhan Ctrl+Z, nhan nhieu lan lui nhieu buoc. Doi chieu transcript video.",
+      "timestamp": "[03:15]"
+    },
+    {
+      "id": 8,
+      "chu_de": "Mo hop Find (tim kiem) dung?...",
+      "do_kho": "de",
+      "cau": "Mo hop Find (tim kiem) dung?",
+      "A": "Ctrl+P (in, khong phai copy/dan)",
+      "B": "Ctrl+G",
+      "C": "Alt+F",
+      "D": "Ctrl+F",
+      "dap_an": "D",
+      "giai_thich_chi_tiet": "Ctrl+F mo Find and Replace o the Find. Doi chieu transcript video.",
+      "timestamp": "[03:47]"
+    },
+    {
+      "id": 9,
+      "chu_de": "Mo thang the Replace (thay the...",
+      "do_kho": "de",
+      "cau": "Mo thang the Replace (thay the) dung?",
+      "A": "Ctrl+H",
+      "B": "Ctrl+R",
+      "C": "Alt+H",
+      "D": "Shift+H",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Ctrl+H nhay thang sang the Replace. Doi chieu transcript video.",
+      "timestamp": "[04:23]"
+    },
+    {
+      "id": 10,
+      "chu_de": "Tim o tiep theo chua tu khoa d...",
+      "do_kho": "de",
+      "cau": "Tim o tiep theo chua tu khoa dung nut nao?",
+      "A": "=SUM(A1:A10) (tinh tong)",
+      "B": "Find Next",
+      "C": "Replace",
+      "D": "Close",
+      "dap_an": "B",
+      "giai_thich_chi_tiet": "Find Next nhay tung o; Find All liet ke het. Doi chieu transcript video.",
+      "timestamp": "[04:52]"
+    },
+    {
+      "id": 11,
+      "chu_de": "Thay hang loat moi noi dung nu...",
+      "do_kho": "trung_binh",
+      "cau": "Thay hang loat moi noi dung nut nao?",
+      "A": "Ctrl+P (in, khong phai copy/dan)",
+      "B": "Replace (1 cho)",
+      "C": "Replace All",
+      "D": "Close",
+      "dap_an": "C",
+      "giai_thich_chi_tiet": "Replace thay tung cho, Replace All thay tat ca. Doi chieu transcript video.",
+      "timestamp": "[05:22]"
+    },
+    {
+      "id": 12,
+      "chu_de": "Filter",
+      "do_kho": "trung_binh",
+      "cau": "Bat/tat loc Filter (AutoFilter) dung?",
+      "A": "Ctrl+P (in, khong phai copy/dan)",
+      "B": "Ctrl+L",
+      "C": "Alt+L",
+      "D": "Ctrl+Shift+L",
+      "dap_an": "D",
+      "giai_thich_chi_tiet": "Nhan lai to hop de tat filter. Doi chieu transcript video.",
+      "timestamp": "[05:57]"
+    },
+    {
+      "id": 13,
+      "chu_de": "Nhay nhanh toi goc phai vung d...",
+      "do_kho": "trung_binh",
+      "cau": "Nhay nhanh toi goc phai vung du lieu dung?",
+      "A": "Ctrl + mui ten phai",
+      "B": "Keo chuot",
+      "C": "Lan banh xe",
+      "D": "Tab",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Giu Ctrl + mui ten de nhay toi bien vung. Doi chieu transcript video.",
+      "timestamp": "[06:33]"
+    },
+    {
+      "id": 14,
+      "chu_de": "Tu o bat ky ve o A1 nhanh nhat...",
+      "do_kho": "trung_binh",
+      "cau": "Tu o bat ky ve o A1 nhanh nhat?",
+      "A": "=SUM(A1:A10) (tinh tong)",
+      "B": "Ctrl+Home",
+      "C": "Nhan 10 lan mui ten",
+      "D": "Tat mo lai",
+      "dap_an": "B",
+      "giai_thich_chi_tiet": "Ctrl+Home ve dau sheet tuc thi. Doi chieu transcript video.",
+      "timestamp": "[07:04]"
+    },
+    {
+      "id": 15,
+      "chu_de": "Boi den nhanh tu o hien tai to...",
+      "do_kho": "trung_binh",
+      "cau": "Boi den nhanh tu o hien tai toi cuoi vung dung?",
+      "A": "=SUM(A1:A10) (tinh tong)",
+      "B": "Keo chuot tu tu",
+      "C": "Ctrl+Shift + mui ten",
+      "D": "In ra boi",
+      "dap_an": "C",
+      "giai_thich_chi_tiet": "Them Shift de vua di chuyen vua chon. Doi chieu transcript video.",
+      "timestamp": "[07:36]"
+    },
+    {
+      "id": 16,
+      "chu_de": "Chon toan bo vung du lieu lien...",
+      "do_kho": "trung_binh",
+      "cau": "Chon toan bo vung du lieu lien tuc dung?",
+      "A": "Ctrl+P (in, khong phai copy/dan)",
+      "B": "Chon 1 o",
+      "C": "Xoa",
+      "D": "Ctrl+Shift+mui ten xuong + sang phai",
+      "dap_an": "D",
+      "giai_thich_chi_tiet": "Ket hop 2 huong de phu kin vung. Doi chieu transcript video.",
+      "timestamp": "[08:06]"
+    },
+    {
+      "id": 17,
+      "chu_de": "Chuyen sang sheet ben PHAI dun...",
+      "do_kho": "trung_binh",
+      "cau": "Chuyen sang sheet ben PHAI dung?",
+      "A": "Ctrl+PageDown",
+      "B": "Ctrl+Tab",
+      "C": "Alt+phai",
+      "D": "Shift+phai",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Ctrl+PgDn sang phai, Ctrl+PgUp sang trai. Doi chieu transcript video.",
+      "timestamp": "[08:37]"
+    },
+    {
+      "id": 18,
+      "chu_de": "Dinh dang ngan cach nghin + 2 ...",
+      "do_kho": "trung_binh",
+      "cau": "Dinh dang ngan cach nghin + 2 thap phan dung?",
+      "A": "Ctrl+P (in, khong phai copy/dan)",
+      "B": "Ctrl+Shift+1",
+      "C": "Alt+1",
+      "D": "Shift+1",
+      "dap_an": "B",
+      "giai_thich_chi_tiet": "Vi du 333333.33 -> 333,333.33. Doi chieu transcript video.",
+      "timestamp": "[09:11]"
+    },
+    {
+      "id": 19,
+      "chu_de": "Doi sang dinh dang GIO dung?...",
+      "do_kho": "trung_binh",
+      "cau": "Doi sang dinh dang GIO dung?",
+      "A": "Ctrl+P (in, khong phai copy/dan)",
+      "B": "Ctrl+2",
+      "C": "Ctrl+Shift+2",
+      "D": "Shift+2",
+      "dap_an": "C",
+      "giai_thich_chi_tiet": "So thap phan hien thanh gio. Doi chieu transcript video.",
+      "timestamp": "[09:44]"
+    },
+    {
+      "id": 20,
+      "chu_de": "Doi sang dinh dang NGAY THANG ...",
+      "do_kho": "trung_binh",
+      "cau": "Doi sang dinh dang NGAY THANG dung?",
+      "A": "Ctrl+P (in, khong phai copy/dan)",
+      "B": "Ctrl+3",
+      "C": "Alt+3",
+      "D": "Ctrl+Shift+3",
+      "dap_an": "D",
+      "giai_thich_chi_tiet": "So serial chuyen thanh ngay thang. Doi chieu transcript video.",
+      "timestamp": "[10:25]"
+    },
+    {
+      "id": 21,
+      "chu_de": "Doi sang tien te $ dung?...",
+      "do_kho": "trung_binh",
+      "cau": "Doi sang tien te $ dung?",
+      "A": "Ctrl+Shift+4",
+      "B": "Ctrl+4",
+      "C": "Alt+4",
+      "D": "Shift+4",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Them ky tu $ dang tien My. Doi chieu transcript video.",
+      "timestamp": "[10:57]"
+    },
+    {
+      "id": 22,
+      "chu_de": "Doi sang PHAN TRAM dung?...",
+      "do_kho": "trung_binh",
+      "cau": "Doi sang PHAN TRAM dung?",
+      "A": "=SUM(A1:A10) (tinh tong)",
+      "B": "Ctrl+Shift+5",
+      "C": "Alt+5",
+      "D": "Shift+5",
+      "dap_an": "B",
+      "giai_thich_chi_tiet": "Nhan 100 va them dau %. Doi chieu transcript video.",
+      "timestamp": "[11:28]"
+    },
+    {
+      "id": 23,
+      "chu_de": "SUM",
+      "do_kho": "trung_binh",
+      "cau": "Tu dong chen ham SUM dung?",
+      "A": "Ctrl+P (in, khong phai copy/dan)",
+      "B": "Ctrl+S",
+      "C": "Alt + dau bang (=)",
+      "D": "Shift+S",
+      "dap_an": "C",
+      "giai_thich_chi_tiet": "Alt+= doan vung lien ke roi Enter. Doi chieu transcript video.",
+      "timestamp": "[12:04]"
+    },
+    {
+      "id": 24,
+      "chu_de": "Dan DAC BIET dang gia tri (bo ...",
+      "do_kho": "trung_binh",
+      "cau": "Dan DAC BIET dang gia tri (bo cong thuc) dung?",
+      "A": "Ctrl+P (in, khong phai copy/dan)",
+      "B": "Ctrl+V thuong",
+      "C": "Ctrl+C",
+      "D": "Copy roi Alt+H+V+V (Paste Values)",
+      "dap_an": "D",
+      "giai_thich_chi_tiet": "Paste Values chi lay so, mat cong thuc. Doi chieu transcript video.",
+      "timestamp": "[12:37]"
+    },
+    {
+      "id": 25,
+      "chu_de": "Chen NGAY hien tai vao o dung?...",
+      "do_kho": "trung_binh",
+      "cau": "Chen NGAY hien tai vao o dung?",
+      "A": "Ctrl+; (cham phay)",
+      "B": "Ctrl+D",
+      "C": "Alt+D",
+      "D": "Shift+D",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Ctrl+; ra ngay hom nay dang ngay. Doi chieu transcript video.",
+      "timestamp": "[13:07]"
+    },
+    {
+      "id": 26,
+      "chu_de": "Chen GIO hien tai vao o dung?...",
+      "do_kho": "trung_binh",
+      "cau": "Chen GIO hien tai vao o dung?",
+      "A": "Ctrl+P (in, khong phai copy/dan)",
+      "B": "Ctrl+Shift+;",
+      "C": "Alt+G",
+      "D": "Shift+G",
+      "dap_an": "B",
+      "giai_thich_chi_tiet": "Them Shift so voi lenh ngay de ra gio. Doi chieu transcript video.",
+      "timestamp": "[13:38]"
+    },
+    {
+      "id": 27,
+      "chu_de": "Xuong dong trong cung 1 o dung...",
+      "do_kho": "trung_binh",
+      "cau": "Xuong dong trong cung 1 o dung?",
+      "A": "Ctrl+P (in, khong phai copy/dan)",
+      "B": "Enter",
+      "C": "Alt+Enter",
+      "D": "Ctrl+Enter",
+      "dap_an": "C",
+      "giai_thich_chi_tiet": "Alt+Enter ngat dong ma van o mot o. Doi chieu transcript video.",
+      "timestamp": "[14:11]"
+    },
+    {
+      "id": 28,
+      "chu_de": "Chon nhanh vung du lieu hien t...",
+      "do_kho": "trung_binh",
+      "cau": "Chon nhanh vung du lieu hien tai dung?",
+      "A": "Ctrl+P (in, khong phai copy/dan)",
+      "B": "Ctrl+S",
+      "C": "Alt+A",
+      "D": "Ctrl+A (lan 1)",
+      "dap_an": "D",
+      "giai_thich_chi_tiet": "Lan 1 chon vung lien tuc, lan 2 chon ca sheet. Doi chieu transcript video.",
+      "timestamp": "[14:45]"
+    },
+    {
+      "id": 29,
+      "chu_de": "Ve bieu do tu dong tu vung dan...",
+      "do_kho": "trung_binh",
+      "cau": "Ve bieu do tu dong tu vung dang chon dung?",
+      "A": "Alt+F1",
+      "B": "F1",
+      "C": "Ctrl+F1",
+      "D": "Shift+F1",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Alt+F1 ve chart ngay tren sheet hien tai. Doi chieu transcript video.",
+      "timestamp": "[15:18]"
+    },
+    {
+      "id": 30,
+      "chu_de": "Chon ca HANG hien tai dung?...",
+      "do_kho": "trung_binh",
+      "cau": "Chon ca HANG hien tai dung?",
+      "A": "Ctrl+P (in, khong phai copy/dan)",
+      "B": "Shift+Space",
+      "C": "Alt+Space",
+      "D": "Space",
+      "dap_an": "B",
+      "giai_thich_chi_tiet": "Shift+Space chon hang, boi den them de chon nhieu hang. Doi chieu transcript video.",
+      "timestamp": "[15:48]"
+    },
+    {
+      "id": 31,
+      "chu_de": "Chon ca COT hien tai dung?...",
+      "do_kho": "kho",
+      "cau": "Chon ca COT hien tai dung?",
+      "A": "Ctrl+P (in, khong phai copy/dan)",
+      "B": "Shift+Space",
+      "C": "Ctrl+Space",
+      "D": "Space",
+      "dap_an": "C",
+      "giai_thich_chi_tiet": "Ctrl+Space chon cot, boi den 2 cot de chon 2 cot. Doi chieu transcript video.",
+      "timestamp": "[16:17]"
+    },
+    {
+      "id": 32,
+      "chu_de": "Chen HANG moi dung?...",
+      "do_kho": "kho",
+      "cau": "Chen HANG moi dung?",
+      "A": "Ctrl+P (in, khong phai copy/dan)",
+      "B": "Ctrl+C",
+      "C": "Ctrl+V",
+      "D": "Ctrl+Shift+cong (+) roi R",
+      "dap_an": "D",
+      "giai_thich_chi_tiet": "Hop Insert hien ra, go R (=Row) roi Enter. Doi chieu transcript video.",
+      "timestamp": "[16:49]"
+    },
+    {
+      "id": 33,
+      "chu_de": "Chen COT moi dung? (giong chen...",
+      "do_kho": "kho",
+      "cau": "Chen COT moi dung? (giong chen hang nhung go C)",
+      "A": "Ctrl+Shift+cong (+) roi C (=Column)",
+      "B": "Ctrl+C (copy)",
+      "C": "Ctrl+V (paste)",
+      "D": "Ctrl+X (cut)",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Hop Insert hien ra, go C (=Column) roi Enter; boi den 2 o de chen 2 cot. Doi chieu transcript video.",
+      "timestamp": "[17:19]"
+    },
+    {
+      "id": 34,
+      "chu_de": "Muon chen 2 hang thi lam sao?...",
+      "do_kho": "kho",
+      "cau": "Muon chen 2 hang thi lam sao?",
+      "A": "Ctrl+P (in, khong phai copy/dan)",
+      "B": "Boi den 2 o hang duoi roi Ctrl+Shift++ > R",
+      "C": "Ghi tay",
+      "D": "Khong chen duoc",
+      "dap_an": "B",
+      "giai_thich_chi_tiet": "So o boi den = so hang duoc chen. Doi chieu transcript video.",
+      "timestamp": "[17:51]"
+    },
+    {
+      "id": 35,
+      "chu_de": "Xoa COT dung?...",
+      "do_kho": "kho",
+      "cau": "Xoa COT dung?",
+      "A": "Ctrl+P (in, khong phai copy/dan)",
+      "B": "Delete thuong",
+      "C": "Ctrl + tru (-) roi C",
+      "D": "Alt+C",
+      "dap_an": "C",
+      "giai_thich_chi_tiet": "Hop Delete hien ra, go C de xoa cot. Doi chieu transcript video.",
+      "timestamp": "[18:22]"
+    },
+    {
+      "id": 36,
+      "chu_de": "Xoa HANG dung?...",
+      "do_kho": "kho",
+      "cau": "Xoa HANG dung?",
+      "A": "Ctrl+P (in, khong phai copy/dan)",
+      "B": "Ctrl+X",
+      "C": "Ctrl+V",
+      "D": "Ctrl + tru (-) roi R",
+      "dap_an": "D",
+      "giai_thich_chi_tiet": "Go R de xoa hang trong hop Delete. Doi chieu transcript video.",
+      "timestamp": "[18:52]"
+    },
+    {
+      "id": 37,
+      "chu_de": "Di chuyen 2 hang len vi tri kh...",
+      "do_kho": "kho",
+      "cau": "Di chuyen 2 hang len vi tri khac khong de du lieu dung?",
+      "A": "Giu Shift + keo chuot trai toi vach xanh roi tha",
+      "B": "Cut roi dan de",
+      "C": "Xoa go lai",
+      "D": "Chup anh",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Shift+keo se chen len, khong ghi de. Doi chieu transcript video.",
+      "timestamp": "[19:23]"
+    },
+    {
+      "id": 38,
+      "chu_de": "Doi 2 cot B va C cho nhau dung...",
+      "do_kho": "kho",
+      "cau": "Doi 2 cot B va C cho nhau dung?",
+      "A": "Ctrl+P (in, khong phai copy/dan)",
+      "B": "Boi den cot > Shift+keo sang vi tri moi",
+      "C": "Danh lai",
+      "D": "Tao sheet moi",
+      "dap_an": "B",
+      "giai_thich_chi_tiet": "Shift+drag hoan doi ma khong mat du lieu. Doi chieu transcript video.",
+      "timestamp": "[19:54]"
+    },
+    {
+      "id": 39,
+      "chu_de": "Ctrl+Z",
+      "do_kho": "kho",
+      "cau": "Nhan 2 lan Ctrl+Z sau Replace All thi?",
+      "A": "=SUM(A1:A10) (tinh tong)",
+      "B": "Luu file",
+      "C": "Hoan tac 2 buoc thay the",
+      "D": "In file",
+      "dap_an": "C",
+      "giai_thich_chi_tiet": "Moi lan Ctrl+Z lui 1 thao tac. Doi chieu transcript video.",
+      "timestamp": "[20:22]"
+    },
+    {
+      "id": 40,
+      "chu_de": "De luyen thanh thao 25 phim ta...",
+      "do_kho": "kho",
+      "cau": "De luyen thanh thao 25 phim tat tac gia khuyen gi?",
+      "A": "Ctrl+P (in, khong phai copy/dan)",
+      "B": "Chi xem",
+      "C": "Hoc thuoc long",
+      "D": "Tai file va vua xem vua bam theo",
+      "dap_an": "D",
+      "giai_thich_chi_tiet": "Tai link mo ta, thuc hanh cung video. Doi chieu transcript video.",
+      "timestamp": "[21:01]"
+    }
+  ],
+  "kiem_chung": {
+    "nguon": "transcript+frames",
+    "ghi_chu": "Doi chieu Xne7UmDP9TU: phim tat/macro/VBA theo video + chuan Excel/MS; timestamp tu transcript 547 moc."
+  }
+}

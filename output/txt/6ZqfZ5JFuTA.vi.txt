@@ -1,0 +1,1392 @@
+[00:01] Chào mừng các bạn đến với khoa học excel miễn phí từ cơ bản đến nâng cao cho
+[00:04] miễn phí từ cơ bản đến nâng cao cho người mới bắt đầu được thực hiện trên
+[00:06] người mới bắt đầu được thực hiện trên kênh YouTube và Excel bài số 8 các hàm
+[00:09] kênh YouTube và Excel bài số 8 các hàm quan trọng khác
+[00:10] quan trọng khác trong các bài học trước mình đã làm quen
+[00:13] trong các bài học trước mình đã làm quen với các hàm tính tổng Tính tổng có điều
+[00:15] với các hàm tính tổng Tính tổng có điều kiện tính tổng có nhiều điều kiện nhóm
+[00:17] kiện tính tổng có nhiều điều kiện nhóm các hàm đếm đếm có điều kiện và đếm với
+[00:20] các hàm đếm đếm có điều kiện và đếm với nhiều điều kiện hàm điều kiện ít cũng
+[00:22] nhiều điều kiện hàm điều kiện ít cũng như là các hàm xử lý chuỗi và các hàm
+[00:25] như là các hàm xử lý chuỗi và các hàm Vlookup hát lúc cấp trong bài học hôm
+[00:27] Vlookup hát lúc cấp trong bài học hôm nay mình sẽ học các hàm quan trọng khác
+[00:29] nay mình sẽ học các hàm quan trọng khác là gì hàm somborac các hàm về thời gian
+[00:32] là gì hàm somborac các hàm về thời gian và hàm index + mét trước khi vào bài học
+[00:36] và hàm index + mét trước khi vào bài học số 8 mình cùng giải bài tập hôm trước là
+[00:37] số 8 mình cùng giải bài tập hôm trước là bài tập số 7 nhé đấy các bạn sẽ mở câu
+[00:40] bài tập số 7 nhé đấy các bạn sẽ mở câu hỏi của bài tập số 7 lên
+[00:47] các bạn chú ý nhé khi mà các bạn mở lên mà nó có cái chữ enable editing này thì
+[00:49] mà nó có cái chữ enable editing này thì các bạn phải tích vào đây thì các bạn
+[00:50] các bạn phải tích vào đây thì các bạn mới sửa được nhá Đấy mình sẽ tích vào
+[00:53] mới sửa được nhá Đấy mình sẽ tích vào đây Ok bài tập về nhà của bài số 7 hôm
+[00:56] đây Ok bài tập về nhà của bài số 7 hôm trước mình có hai cái ví dụ ở đây mình
+[00:58] trước mình có hai cái ví dụ ở đây mình có gì ạ đây là gì ạ đơn giá theo tuần và
+[01:02] có gì ạ đây là gì ạ đơn giá theo tuần và đơn giá theo ngày bây giờ mình có loại
+[01:04] đơn giá theo ngày bây giờ mình có loại phòng rồi đúng ạ Mình cần xác định là
+[01:05] phòng rồi đúng ạ Mình cần xác định là đơn giá tuần là bao nhiêu và đơn giá
+[01:07] đơn giá tuần là bao nhiêu và đơn giá ngày là bao nhiêu đúng ạ thì đầu tiên
+[01:09] ngày là bao nhiêu đúng ạ thì đầu tiên mình sẽ làm cái phần đơn giá tuần trước
+[01:10] mình sẽ làm cái phần đơn giá tuần trước nhé các bạn sẽ bằng gì ạ Các bạn chú ý
+[01:13] nhé các bạn sẽ bằng gì ạ Các bạn chú ý nhé vì cái loại phòng ở đây nó đang được
+[01:14] nhé vì cái loại phòng ở đây nó đang được bố trí theo chiều dọc theo cột này thì
+[01:17] bố trí theo chiều dọc theo cột này thì mình sẽ dùng Vlog cấp nhé đấy các bạn sẽ
+[01:19] mình sẽ dùng Vlog cấp nhé đấy các bạn sẽ bằng Vlog cấp các bạn sẽ ấn tag nhé thì
+[01:21] bằng Vlog cấp các bạn sẽ ấn tag nhé thì thành phần đầu tiên của cái hàm Vlookup
+[01:23] thành phần đầu tiên của cái hàm Vlookup là giá trị dò tìm đúng không ạ thì chính
+[01:25] là giá trị dò tìm đúng không ạ thì chính là cái loại phòng ở đây đấy phẩy thành
+[01:28] là cái loại phòng ở đây đấy phẩy thành phần thứ hai là bảng giá trị dò thì các
+[01:29] phần thứ hai là bảng giá trị dò thì các bạn sẽ Bôi đen toàn bộ cái bảng giá trị
+[01:31] bạn sẽ Bôi đen toàn bộ cái bảng giá trị giò ở đây phẩy thành phần thứ ba là gì
+[01:34] giò ở đây phẩy thành phần thứ ba là gì Là cái cột trả về đây là mình cần xác
+[01:36] Là cái cột trả về đây là mình cần xác định đơn giá theo tuần đúng không Thì
+[01:38] định đơn giá theo tuần đúng không Thì cột trả về phải là cột số 2 để loại
+[01:40] cột trả về phải là cột số 2 để loại phòng là cột số 1 này đơn giá tuần là
+[01:42] phòng là cột số 1 này đơn giá tuần là cột số 2 đúng không ạ Đấy phải 2 phẩy ở
+[01:45] cột số 2 đúng không ạ Đấy phải 2 phẩy ở đây mình tìm chính xác sẽ là 0 hoặc
+[01:46] đây mình tìm chính xác sẽ là 0 hoặc false đấy các bạn sẽ không các bạn đóng
+[01:48] false đấy các bạn sẽ không các bạn đóng ngoặc lại
+[01:49] ngoặc lại enter đấy như vậy đơn giá tuần của cái
+[01:51] enter đấy như vậy đơn giá tuần của cái loại phòng l1a ở đây ấy là 260.000 này
+[01:54] loại phòng l1a ở đây ấy là 260.000 này Bây giờ mình sẽ thay cái loại phòng l1a
+[01:56] Bây giờ mình sẽ thay cái loại phòng l1a bằng l1b nhé
+[02:04] nó sẽ ra là 250.000 tương tự với cái đơn giá ngày thì nó khác gì với đơn giá tuần
+[02:05] giá ngày thì nó khác gì với đơn giá tuần thì cái đơn giá ngày thì cái cột trả về
+[02:08] thì cái đơn giá ngày thì cái cột trả về phải là cột số 3 đúng không ạ Nó sẽ
+[02:09] phải là cột số 3 đúng không ạ Nó sẽ giống hệt với cả cái đơn giá tuần ở đây
+[02:11] giống hệt với cả cái đơn giá tuần ở đây các bạn sẽ bằng này Vlog cấp các bạn ấn
+[02:13] các bạn sẽ bằng này Vlog cấp các bạn ấn Tab nhé Thì Thành Phần đầu tiên là cái
+[02:15] Tab nhé Thì Thành Phần đầu tiên là cái loại phòng đúng không ạ thì mình cần tìm
+[02:17] loại phòng đúng không ạ thì mình cần tìm cái loại phòng l2b ở đây chính là cái ô
+[02:19] cái loại phòng l2b ở đây chính là cái ô F6 này phẩy thành phần thứ hai là bảng
+[02:21] F6 này phẩy thành phần thứ hai là bảng giá trị giò thì các bạn sẽ Bôi đen toàn
+[02:23] giá trị giò thì các bạn sẽ Bôi đen toàn bộ cái bảng giá trị giò ở đây nhé Đấy
+[02:25] bộ cái bảng giá trị giò ở đây nhé Đấy phẩy cái cột trả về đây là cột số 3 đúng
+[02:27] phẩy cái cột trả về đây là cột số 3 đúng không ạ Đấy phẩy ở đây mình tìm chính
+[02:30] không ạ Đấy phẩy ở đây mình tìm chính xác là 0 và phôi nhá Ví dụ mình gõ phôi
+[02:31] xác là 0 và phôi nhá Ví dụ mình gõ phôi đi các bạn sẽ đóng ngoặc đơn lại để xong
+[02:33] đi các bạn sẽ đóng ngoặc đơn lại để xong hàng Vlog cấp bây giờ các bạn enter nhé
+[02:35] hàng Vlog cấp bây giờ các bạn enter nhé đấy thì như vậy cái đơn giá tuần ở đây
+[02:37] đấy thì như vậy cái đơn giá tuần ở đây là 30.000 đây Các bạn thấy chưa l2b này
+[02:40] là 30.000 đây Các bạn thấy chưa l2b này đơn giản tuần là 30.000 Ví dụ mình sửa
+[02:42] đơn giản tuần là 30.000 Ví dụ mình sửa thành lập một bên nhé
+[02:43] thành lập một bên nhé các bạn enter đấy l1b là gì ạ 40.000
+[02:48] các bạn enter đấy l1b là gì ạ 40.000 thì tương tự trong cái ví dụ 2 thì mình
+[02:51] thì tương tự trong cái ví dụ 2 thì mình sẽ dùng cái hàm HD tại vì gì cái loại
+[02:53] sẽ dùng cái hàm HD tại vì gì cái loại phòng ở đây của mình được bố trí theo
+[02:55] phòng ở đây của mình được bố trí theo hàng ngang thì mình phải dùng cái gì ạ
+[02:58] hàng ngang thì mình phải dùng cái gì ạ Cái halog cấp này các bạn sẽ bằng hai
+[03:00] Cái halog cấp này các bạn sẽ bằng hai nút cấp các bạn ấn Tab nhé Thì Thành
+[03:02] nút cấp các bạn ấn Tab nhé Thì Thành Phần đầu tiên là cái giá trị dò tìm đúng
+[03:04] Phần đầu tiên là cái giá trị dò tìm đúng không ạ chính là cái loại phòng ở đây
+[03:05] không ạ chính là cái loại phòng ở đây phẩy thành phần thứ hai là bảng giá trị
+[03:07] phẩy thành phần thứ hai là bảng giá trị dò tìm thì các bạn Bôi đen toàn bộ cái
+[03:09] dò tìm thì các bạn Bôi đen toàn bộ cái vùng dữ liệu của cái biểu giá phòng này
+[03:11] vùng dữ liệu của cái biểu giá phòng này phẩy thành phần thứ ba là cái hàng trả
+[03:14] phẩy thành phần thứ ba là cái hàng trả về thì riêng với hai nút cấp thì không
+[03:16] về thì riêng với hai nút cấp thì không phải là cột nữa mà là cái hàng trả về
+[03:18] phải là cột nữa mà là cái hàng trả về đúng không vì mình đang tìm kiếm theo
+[03:19] đúng không vì mình đang tìm kiếm theo hàng mà Thì ở đây là đơn giá tuần đúng
+[03:21] hàng mà Thì ở đây là đơn giá tuần đúng không các bạn sẽ tính từ cái hàng đầu
+[03:22] không các bạn sẽ tính từ cái hàng đầu tiên là hàng loại phòng là một này đơn
+[03:24] tiên là hàng loại phòng là một này đơn giá tuần là hàng thứ hai đúng không Đấy
+[03:26] giá tuần là hàng thứ hai đúng không Đấy phải 2 ở đây phẩy không các bạn đóng
+[03:29] phải 2 ở đây phẩy không các bạn đóng ngoặc lại
+[03:30] ngoặc lại enter đấy thì như vậy nó ra đơn giá tuần
+[03:32] enter đấy thì như vậy nó ra đơn giá tuần đúng không Đơn giá này cũng vậy nhé Nó
+[03:34] đúng không Đơn giá này cũng vậy nhé Nó chỉ khác là cái hàng trả về sẽ là hàng
+[03:35] chỉ khác là cái hàng trả về sẽ là hàng số 3 thôi các bạn sẽ bằng này hát lúc
+[03:37] số 3 thôi các bạn sẽ bằng này hát lúc cấp các bạn ấn Tab nhé Thành Phần đầu
+[03:40] cấp các bạn ấn Tab nhé Thành Phần đầu tiên là loại phòng ở đây này phẩy thành
+[03:42] tiên là loại phòng ở đây này phẩy thành phần thứ hai là bảng giá trị dò ở đây
+[03:43] phần thứ hai là bảng giá trị dò ở đây phẩy cái hàng trả về hàng số 3 đấy phẩy
+[03:47] phẩy cái hàng trả về hàng số 3 đấy phẩy không các bạn sẽ đóng ngoặc lại các bạn
+[03:49] không các bạn sẽ đóng ngoặc lại các bạn enter đấy thì như vậy nó rất như vậy nó
+[03:51] enter đấy thì như vậy nó rất như vậy nó sẽ ra cái loại phòng là gì ạ 30.000 bây
+[03:54] sẽ ra cái loại phòng là gì ạ 30.000 bây giờ các bạn sẽ tích đúp vào đây nhé Bây
+[03:56] giờ các bạn sẽ tích đúp vào đây nhé Bây giờ giả sử cái bảng giá trị dò tìm mình
+[03:58] giờ giả sử cái bảng giá trị dò tìm mình Bôi đen Cái hàng 11 và hàng 12 đúng
+[03:59] Bôi đen Cái hàng 11 và hàng 12 đúng không ạ thì mình sẽ thay cái số 13 này
+[04:01] không ạ thì mình sẽ thay cái số 13 này bằng số 12 thì nó sẽ trả về gì đây Các
+[04:04] bằng số 12 thì nó sẽ trả về gì đây Các bạn thấy chưa cái vùng mà mình cái bảng
+[04:06] bạn thấy chưa cái vùng mà mình cái bảng giá trị giò đây Các bạn thấy nó lùi đỏ
+[04:08] giá trị giò đây Các bạn thấy nó lùi đỏ lên đây này các bạn enter nhé Nó sẽ báo
+[04:10] lên đây này các bạn enter nhé Nó sẽ báo lỗi này Đấy nó sẽ báo lỗi cái repsphant
+[04:12] lỗi này Đấy nó sẽ báo lỗi cái repsphant tức là gì ạ tại vì cái vùng dữ liệu mà
+[04:15] tức là gì ạ tại vì cái vùng dữ liệu mà các bạn tìm kiếm nó chỉ ở hai hàng thôi
+[04:17] các bạn tìm kiếm nó chỉ ở hai hàng thôi mà gì ạ Cái hàng mà các bạn trả về lại
+[04:20] mà gì ạ Cái hàng mà các bạn trả về lại là hàng số 3 Tức là cái hàng trở về nó
+[04:22] là hàng số 3 Tức là cái hàng trở về nó làm ngoài cái vùng các bạn tìm kiếm ở
+[04:23] làm ngoài cái vùng các bạn tìm kiếm ở đây cho nên nó sẽ báo cái lỗi refer ở
+[04:26] đây cho nên nó sẽ báo cái lỗi refer ở đây để các bạn chú ý nhé nếu như bạn nào
+[04:28] đây để các bạn chú ý nhé nếu như bạn nào bị cái lỗi reprant ý Thông thường thì
+[04:30] bị cái lỗi reprant ý Thông thường thì cái vùng dữ liệu của các bạn bôi là nó
+[04:31] cái vùng dữ liệu của các bạn bôi là nó không đủ đúng không ạ Đấy vùng dữ liệu
+[04:33] không đủ đúng không ạ Đấy vùng dữ liệu của mình mình phải bôi từ cái hàng 11
+[04:35] của mình mình phải bôi từ cái hàng 11 đến hàng 13 cơ nhưng mà nếu ở đây là 12
+[04:38] đến hàng 13 cơ nhưng mà nếu ở đây là 12 thì sẽ không đúng ạ đấy cho nên ở đây
+[04:39] thì sẽ không đúng ạ đấy cho nên ở đây phải là 13 Nhưng mà nếu các bạn đánh 16
+[04:41] phải là 13 Nhưng mà nếu các bạn đánh 16 thì có sao không Không sao cả nhá miễn
+[04:44] thì có sao không Không sao cả nhá miễn là nó phải lớn hơn cái hàng mà trả về
+[04:46] là nó phải lớn hơn cái hàng mà trả về Tức là cái hàng trả về hàng số 3 đúng
+[04:48] Tức là cái hàng trả về hàng số 3 đúng không thì các bạn phải bôi đen từ cái
+[04:50] không thì các bạn phải bôi đen từ cái hàng 11 đến tối thiểu là 13 các bạn có
+[04:52] hàng 11 đến tối thiểu là 13 các bạn có thể làm 14 15 16 Tùy các bạn nhé Tại Ví
+[04:55] thể làm 14 15 16 Tùy các bạn nhé Tại Ví dụ mình cho là 16 đi nhé đấy các bạn
+[04:57] dụ mình cho là 16 đi nhé đấy các bạn enter đấy nó sẽ vẫn ra đấy nhưng là nếu
+[05:00] enter đấy nó sẽ vẫn ra đấy nhưng là nếu như mà ở đây là hàng 12 là sẽ không ra
+[05:01] như mà ở đây là hàng 12 là sẽ không ra đâu đấy các bạn lưu ý cho mình nhé tương
+[05:04] đâu đấy các bạn lưu ý cho mình nhé tương tự cái Vlog cấp cũng vậy nhé ví dụ mình
+[05:06] tự cái Vlog cấp cũng vậy nhé ví dụ mình thích đút vào đây Đấy nếu như mà mình
+[05:08] thích đút vào đây Đấy nếu như mà mình cần tìm đơn giá ngày nhé mà mình tìm từ
+[05:10] cần tìm đơn giá ngày nhé mà mình tìm từ Cái ô thì Omega đến đến C7 này chứ không
+[05:14] Cái ô thì Omega đến đến C7 này chứ không phải d7 ví dụ mình thay D bằng C Đấy tức
+[05:16] phải d7 ví dụ mình thay D bằng C Đấy tức là mình sẽ tìm hai cái cột này thôi cột
+[05:18] là mình sẽ tìm hai cái cột này thôi cột bê và cột C thôi trong khi cái cột trả
+[05:20] bê và cột C thôi trong khi cái cột trả về lại là cột D cơ thì nó sẽ báo lỗi rap
+[05:23] về lại là cột D cơ thì nó sẽ báo lỗi rap đấy các bạn enter đấy các bạn thấy chưa
+[05:24] đấy các bạn enter đấy các bạn thấy chưa nó sẽ báo cái lỗi phần Tức là ở đây gì ạ
+[05:27] nó sẽ báo cái lỗi phần Tức là ở đây gì ạ Cái cột trả về với cái hàm Vlookup nhé
+[05:29] Cái cột trả về với cái hàm Vlookup nhé Thì cái vùng dữ liệu của bạn nó phải
+[05:31] Thì cái vùng dữ liệu của bạn nó phải rộng hơn cái cột các bạn cần tìm đấy tối
+[05:36] rộng hơn cái cột các bạn cần tìm đấy tối thiểu đây phải là D các bạn có thể thay
+[05:38] thiểu đây phải là D các bạn có thể thay bằng E = F cũng được nhé đây ví dụ là E
+[05:40] bằng E = F cũng được nhé đây ví dụ là E cho các bạn xem này Đấy tức là nó phải
+[05:42] cho các bạn xem này Đấy tức là nó phải lớn hơn hoặc bằng cái cột d này Đấy thì
+[05:44] lớn hơn hoặc bằng cái cột d này Đấy thì mình bôi đến cái cột E là ok
+[05:46] mình bôi đến cái cột E là ok đấy là cái Lưu ý với cả cái hàm Vlookup
+[05:49] đấy là cái Lưu ý với cả cái hàm Vlookup và hai lúc cấp nhé Ok Bây giờ mình sẽ
+[05:51] và hai lúc cấp nhé Ok Bây giờ mình sẽ đóng lại như vậy mình đã xong cái phần
+[05:53] đóng lại như vậy mình đã xong cái phần câu hỏi của bài tập hôm trước là bài số
+[05:54] câu hỏi của bài tập hôm trước là bài số 7 nhé
+[06:01] Hôm nay mình vào cái bài số 8 là các cái hàm quan trọng khác nhé đấy các bạn sẽ
+[06:04] hàm quan trọng khác nhé đấy các bạn sẽ tích đúp lên
+[06:06] tích đúp lên Ok hôm nay mình sẽ hướng dẫn các bạn là
+[06:09] Ok hôm nay mình sẽ hướng dẫn các bạn là ba cái loại hàm đầu tiên là cái hàm
+[06:11] ba cái loại hàm đầu tiên là cái hàm sumorax Tiếp theo là cái hàm gì ạ các
+[06:14] sumorax Tiếp theo là cái hàm gì ạ các hàm về thời gian và cuối cùng là cái hàm
+[06:16] hàm về thời gian và cuối cùng là cái hàm index và mét nhé đầu tiên mình sẽ làm
+[06:19] index và mét nhé đầu tiên mình sẽ làm cái hàm sumorac trước cho các bạn này ở
+[06:21] cái hàm sumorac trước cho các bạn này ở đây giả sử mình có dữ liệu là 4 ngày của
+[06:23] đây giả sử mình có dữ liệu là 4 ngày của tháng tư đúng không ạ Đây là các cái sản
+[06:24] tháng tư đúng không ạ Đây là các cái sản phẩm Đây là số lượng và đây là đơn giá
+[06:26] phẩm Đây là số lượng và đây là đơn giá bây giờ mình cần tính tổng tiền làm được
+[06:30] bây giờ mình cần tính tổng tiền làm được bao nhiêu đúng ạ thì tổng tiền ấy Thông
+[06:32] bao nhiêu đúng ạ thì tổng tiền ấy Thông thường các bạn sẽ lấy số lượng nhân Đơn
+[06:33] thường các bạn sẽ lấy số lượng nhân Đơn giá này số lượng nhân đơn giá sau đó các
+[06:35] giá này số lượng nhân đơn giá sau đó các bạn sẽ cộng tổng lại đúng không ạ Đấy
+[06:37] bạn sẽ cộng tổng lại đúng không ạ Đấy nếu như mà bình thường các bạn hay làm
+[06:38] nếu như mà bình thường các bạn hay làm như sau nhé các bạn sẽ bằng này các bạn
+[06:40] như sau nhé các bạn sẽ bằng này các bạn lấy số lượng này nhân với cả gì ạ nhân
+[06:42] lấy số lượng này nhân với cả gì ạ nhân với đơn giá đây các bạn enter đấy Ở đây
+[06:45] với đơn giá đây các bạn enter đấy Ở đây các bạn có thể tích đúp nhá đấy các bạn
+[06:48] các bạn có thể tích đúp nhá đấy các bạn vẹt thẻ hôm này trong cái cửa sổ lumper
+[06:51] vẹt thẻ hôm này trong cái cửa sổ lumper format đây các bạn sẽ chọn cái general
+[06:52] format đây các bạn sẽ chọn cái general hoặc các bạn chọn number đều được nhé ví
+[06:54] hoặc các bạn chọn number đều được nhé ví dụ mình chọn general đi đấy các bạn sẽ
+[06:56] dụ mình chọn general đi đấy các bạn sẽ tích đúp vào đây
+[07:02] này đi thì như vậy Ở đây mình có tổng giá của các cái mặt hàng này rồi đúng
+[07:04] giá của các cái mặt hàng này rồi đúng không ạ Ở đây các bạn sẽ bằng xăm nhé
+[07:05] không ạ Ở đây các bạn sẽ bằng xăm nhé các bạn có thể bấm An bằng này Đấy phím
+[07:08] các bạn có thể bấm An bằng này Đấy phím tắt là hàm Sum các bạn enter thì như vậy
+[07:10] tắt là hàm Sum các bạn enter thì như vậy tổng tiền của các sản phẩm bán được là
+[07:13] tổng tiền của các sản phẩm bán được là từng này tức là 38.278 này Bây giờ mình
+[07:17] từng này tức là 38.278 này Bây giờ mình sẽ không dùng cái cách này nhé mình sẽ
+[07:19] sẽ không dùng cái cách này nhé mình sẽ dùng một cái hàm rất đơn giản làm xong
+[07:20] dùng một cái hàm rất đơn giản làm xong các bác nhé đấy các bạn xóa đi
+[07:23] các bác nhé đấy các bạn xóa đi thì để tính tổng tiền của cái các cái
+[07:26] thì để tính tổng tiền của cái các cái sản phẩm này thì mình sẽ dùng cái hàm
+[07:27] sản phẩm này thì mình sẽ dùng cái hàm Sum rác nhá thì ở đây mình sẽ hướng dẫn
+[07:29] Sum rác nhá thì ở đây mình sẽ hướng dẫn các bạn là cái hàm sumorax dùng cơ bản
+[07:32] các bạn là cái hàm sumorax dùng cơ bản này xong rác dùng nâng cao đây là nâng
+[07:35] này xong rác dùng nâng cao đây là nâng cao hơn và đây là còn nâng cao hơn nữa
+[07:36] cao hơn và đây là còn nâng cao hơn nữa nhé thì đầu tiên là mình sẽ hướng dẫn
+[07:39] nhé thì đầu tiên là mình sẽ hướng dẫn các bạn sử dụng cái hàm sumborac cơ bản
+[07:40] các bạn sử dụng cái hàm sumborac cơ bản này thì cái hàm sumbrat thì các bạn sẽ
+[07:43] này thì cái hàm sumbrat thì các bạn sẽ bằng này sang
+[07:49] Project nó được tô đậm đây này các bạn sẽ ấn phím Tab đấy như vậy đây là cái cú
+[07:51] sẽ ấn phím Tab đấy như vậy đây là cái cú pháp của hàm Sum rác thì cái hàm sumorax
+[07:54] pháp của hàm Sum rác thì cái hàm sumorax nó gồm các cái mảng đúng không ạ Đấy các
+[07:57] nó gồm các cái mảng đúng không ạ Đấy các cái mảng Ơ đây một là mảng một này 2
+[07:59] cái mảng Ơ đây một là mảng một này 2 bằng 3 lại cứ như vậy nha các bạn có thể
+[08:01] bằng 3 lại cứ như vậy nha các bạn có thể chọn bao nhiêu mảng cũng được thì ở đây
+[08:03] chọn bao nhiêu mảng cũng được thì ở đây cái mảng một của mình các bạn có thể Bôi
+[08:05] cái mảng một của mình các bạn có thể Bôi đen là cái phần số lượng đúng không ạ
+[08:07] đen là cái phần số lượng đúng không ạ phẩy cái mảng hai là gì chính là cái
+[08:09] phẩy cái mảng hai là gì chính là cái phần đơn giá ở đây đấy các bạn hiểu như
+[08:12] phần đơn giá ở đây đấy các bạn hiểu như thế này Nếu như các bạn Bôi đen như thế
+[08:13] thế này Nếu như các bạn Bôi đen như thế này thì nó sẽ lấy D4 nhân E4 này cộng
+[08:16] này thì nó sẽ lấy D4 nhân E4 này cộng với cả D5 nhân E5 + D6 nhân S6 đấy Cứ
+[08:19] với cả D5 nhân E5 + D6 nhân S6 đấy Cứ như vậy đến diện đến D15 nhân e15 và nó
+[08:22] như vậy đến diện đến D15 nhân e15 và nó sẽ cộng tổng lại nhé đấy các bạn sẽ đóng
+[08:24] sẽ cộng tổng lại nhé đấy các bạn sẽ đóng ngoặc đơn lại để xong cái hàm Sum borax
+[08:26] ngoặc đơn lại để xong cái hàm Sum borax này thì ở đây mình dùng mỗi hai mảng
+[08:28] này thì ở đây mình dùng mỗi hai mảng thôi là mảng số lượng và mạng đơn giá
+[08:30] thôi là mảng số lượng và mạng đơn giá nhé đấy các bạn sẽ enter đấy các bạn
+[08:32] nhé đấy các bạn sẽ enter đấy các bạn thấy chưa Đúng là 38.278 đấy bằng cái
+[08:35] thấy chưa Đúng là 38.278 đấy bằng cái cách mà lúc nãy mình hướng dẫn các bạn
+[08:36] cách mà lúc nãy mình hướng dẫn các bạn đúng không ạ Đấy các bạn có thể ấn vào
+[08:38] đúng không ạ Đấy các bạn có thể ấn vào đây để nó gì ạ nó tạo cái dấu phẩy ngăn
+[08:40] đây để nó gì ạ nó tạo cái dấu phẩy ngăn cách giữa hàng nghìn nhìn nó sẽ rõ hơn
+[08:42] cách giữa hàng nghìn nhìn nó sẽ rõ hơn đúng không ạ Ok Bây giờ các bạn sẽ tích
+[08:44] đúng không ạ Ok Bây giờ các bạn sẽ tích đúp vào đây nhé thì các bạn chú ý nhé
+[08:46] đúp vào đây nhé thì các bạn chú ý nhé Lúc nãy mình Bôi đen là gì ạ Cái cột D
+[08:48] Lúc nãy mình Bôi đen là gì ạ Cái cột D trước Tức là cái phần số lượng trước sau
+[08:50] trước Tức là cái phần số lượng trước sau đó đến phần đơn giá nhé nhưng mà cái
+[08:52] đó đến phần đơn giá nhé nhưng mà cái phần nào trước cũng không quan trọng đâu
+[08:54] phần nào trước cũng không quan trọng đâu các bạn có thể cho cái phần đơn giá
+[08:55] các bạn có thể cho cái phần đơn giá trước này các bạn Xóa đi này Đấy sau đó
+[08:58] trước này các bạn Xóa đi này Đấy sau đó bạn phải là
+[08:59] bạn phải là cái phần số lượng này thì cái phần nào
+[09:01] cái phần số lượng này thì cái phần nào trước cũng được nhé Nó sẽ không ảnh
+[09:02] trước cũng được nhé Nó sẽ không ảnh hưởng đến kết quả của mình nhá đấy các
+[09:04] hưởng đến kết quả của mình nhá đấy các bạn thấy không ạ Ok sang cái cách sử
+[09:06] bạn thấy không ạ Ok sang cái cách sử dụng thứ hai là cái hàm sumorax nâng cao
+[09:08] dụng thứ hai là cái hàm sumorax nâng cao nhé bây giờ Giả sử có hai cái câu hỏi
+[09:11] nhé bây giờ Giả sử có hai cái câu hỏi mình cần tính số lượng của gái xem một
+[09:13] mình cần tính số lượng của gái xem một và thành tiền của cái sản phẩm là gãi
+[09:15] và thành tiền của cái sản phẩm là gãi cho một thôi thì mình làm như thế nào
+[09:16] cho một thôi thì mình làm như thế nào thì đầu tiên là số lượng của gãy trong
+[09:19] thì đầu tiên là số lượng của gãy trong một nhá đúng không ạ đây ví dụ các bạn
+[09:20] một nhá đúng không ạ đây ví dụ các bạn tích vào số lượng của gái theo một của
+[09:22] tích vào số lượng của gái theo một của ngày mùng 1 này các bạn giữ cần troll
+[09:23] ngày mùng 1 này các bạn giữ cần troll nhé Đây gái xem một đây này gái xem một
+[09:27] nhé Đây gái xem một đây này gái xem một gái xem một đấy các bạn giữ cần troll
+[09:28] gái xem một đấy các bạn giữ cần troll này các bạn Bôi đen bốn cái ô này các
+[09:30] này các bạn Bôi đen bốn cái ô này các bạn sẽ xuống dưới cái thanh status bar
+[09:32] bạn sẽ xuống dưới cái thanh status bar này các bạn sẽ thấy chưa tổng của nó là
+[09:34] này các bạn sẽ thấy chưa tổng của nó là gì ạ 634 Thì bây giờ mình làm thế nào để
+[09:37] gì ạ 634 Thì bây giờ mình làm thế nào để mình tính được cái số lượng của các cái
+[09:38] mình tính được cái số lượng của các cái sản phẩm gái theo một mà mình đã bán
+[09:40] sản phẩm gái theo một mà mình đã bán được nhá thì mình làm như thế nào để bây
+[09:42] được nhá thì mình làm như thế nào để bây giờ các bạn sẽ tích vào cái ô gì oh7 để
+[09:44] giờ các bạn sẽ tích vào cái ô gì oh7 để các bạn lập công thức này các bạn sẽ
+[09:45] các bạn lập công thức này các bạn sẽ bằng gì ạ
+[09:52] sau đó các bạn ấn Tab nhé Thì lúc này nó đã có một cái mở ngoặc Sẵn đây rồi đúng
+[09:53] đã có một cái mở ngoặc Sẵn đây rồi đúng không các bạn sẽ ấn thêm một cái mở
+[09:54] không các bạn sẽ ấn thêm một cái mở ngoặc đơn nữa đấy Cái mở ngoặc đơn Thứ
+[09:57] ngoặc đơn nữa đấy Cái mở ngoặc đơn Thứ hai này nó sẽ là cho cái phần mình đặt
+[10:00] hai này nó sẽ là cho cái phần mình đặt điều kiện nhé thì các bạn sẽ Bôi đen Cái
+[10:02] điều kiện nhé thì các bạn sẽ Bôi đen Cái vùng điều kiện ở đây là các cái sản phẩm
+[10:03] vùng điều kiện ở đây là các cái sản phẩm đúng không ạ Các bạn sẽ bằng gì ạ bằng
+[10:05] đúng không ạ Các bạn sẽ bằng gì ạ bằng cái điều kiện là gái theo một ở đây đúng
+[10:07] cái điều kiện là gái theo một ở đây đúng không ạ Các bạn sẽ đóng ngoặc đơn lại để
+[10:09] không ạ Các bạn sẽ đóng ngoặc đơn lại để xong cái phần điều kiện đúng ạ Đấy bây
+[10:11] xong cái phần điều kiện đúng ạ Đấy bây giờ các bạn sẽ phẩy nhá cái phần Ơ đây 2
+[10:13] giờ các bạn sẽ phẩy nhá cái phần Ơ đây 2 là gì ạ chính là cái phần số lượng ở đây
+[10:15] là gì ạ chính là cái phần số lượng ở đây đấy các bạn chú ý nhé Nếu như mà các bạn
+[10:18] đấy các bạn chú ý nhé Nếu như mà các bạn không có cái errary nào nữa thì nó sẽ
+[10:20] không có cái errary nào nữa thì nó sẽ hiểu là cái phần số lượng ở đây nó sẽ
+[10:22] hiểu là cái phần số lượng ở đây nó sẽ nhân với 1 đấy các bạn đóng ngoặc lại để
+[10:23] nhân với 1 đấy các bạn đóng ngoặc lại để xong cái hàm sau thì như vậy cái hàm
+[10:26] xong cái hàm sau thì như vậy cái hàm sumat này nó sẽ làm gì nó sẽ Quét tất cả
+[10:28] sumat này nó sẽ làm gì nó sẽ Quét tất cả các sản phẩm gái theo một ở đây Nếu như
+[10:31] các sản phẩm gái theo một ở đây Nếu như mà bằng H6 ấy thì nó mới thực hiện cái
+[10:34] mà bằng H6 ấy thì nó mới thực hiện cái gì cái ô từ d4d D15 nhân với 1 đúng
+[10:36] gì cái ô từ d4d D15 nhân với 1 đúng không ạ Bây giờ các bạn enter nhé Nhưng
+[10:38] không ạ Bây giờ các bạn enter nhé Nhưng mà nếu các bạn enter theo cái cách này
+[10:39] mà nếu các bạn enter theo cái cách này thì nó sẽ bằng 0 này Đấy ví dụ mình cứ
+[10:42] thì nó sẽ bằng 0 này Đấy ví dụ mình cứ enter đi đấy các bạn thấy chưa nó sẽ
+[10:43] enter đi đấy các bạn thấy chưa nó sẽ bằng 0 ạ Tại vì sao bây giờ các bạn sẽ
+[10:45] bằng 0 ạ Tại vì sao bây giờ các bạn sẽ tích đúp vào đây nhá thì các bạn chú ý
+[10:47] tích đúp vào đây nhá thì các bạn chú ý nhá cái biểu thức gì ạ Cái biểu thức
+[10:49] nhá cái biểu thức gì ạ Cái biểu thức điều kiện này này là cái mở ngoặc đơn
+[10:50] điều kiện này này là cái mở ngoặc đơn của C4 đến C15 bằng H6 đóng ngoặc đơn
+[10:53] của C4 đến C15 bằng H6 đóng ngoặc đơn nhé thì nó sẽ trả về kết quả là Chu và
+[10:55] nhé thì nó sẽ trả về kết quả là Chu và phôi nhá Đấy thì bây giờ để cái biểu
+[10:57] phôi nhá Đấy thì bây giờ để cái biểu thức này nó trả về
+[10:59] thức này nó trả về 11 hoặc không ấy thì bạn làm hai cách
+[11:01] 11 hoặc không ấy thì bạn làm hai cách nhé Cách thứ nhất là các bạn có thể diện
+[11:03] nhé Cách thứ nhất là các bạn có thể diện đấy các bạn có thể trước cái phần mở
+[11:06] đấy các bạn có thể trước cái phần mở ngoặc C4 C15 bằng H6 này các bạn sẽ cho
+[11:08] ngoặc C4 C15 bằng H6 này các bạn sẽ cho hai cái dấu trừ ở đây đấy thì nó sẽ
+[11:10] hai cái dấu trừ ở đây đấy thì nó sẽ chuyển cái phần biểu thức này về thành
+[11:12] chuyển cái phần biểu thức này về thành không hoặc một nha các bạn enter đấy thì
+[11:14] không hoặc một nha các bạn enter đấy thì lúc này nó sẽ trả về là gì ạ 634 này Bây
+[11:17] lúc này nó sẽ trả về là gì ạ 634 này Bây giờ các bạn sẽ tích đúp vào Cái ô này
+[11:18] giờ các bạn sẽ tích đúp vào Cái ô này thì ngoài hai cái dấu trừ này các bạn có
+[11:21] thì ngoài hai cái dấu trừ này các bạn có thể dùng cách hai là gì ạ Các bạn có thể
+[11:22] thể dùng cách hai là gì ạ Các bạn có thể nhân với 1 Tức là mình sẽ chuyển nó về
+[11:24] nhân với 1 Tức là mình sẽ chuyển nó về cái dạng số nhé để mình sẽ chuyển true
+[11:27] cái dạng số nhé để mình sẽ chuyển true về dạng 0 hoặc 1 thì sau cái biểu thức
+[11:29] về dạng 0 hoặc 1 thì sau cái biểu thức mà gì ạ C4 C15 bằng H6 đóng ngoặc đơn
+[11:32] mà gì ạ C4 C15 bằng H6 đóng ngoặc đơn này các bạn sẽ nhân với 1 đấy thì lúc
+[11:34] này các bạn sẽ nhân với 1 đấy thì lúc này nó sẽ trả về kết quả như mình mong
+[11:36] này nó sẽ trả về kết quả như mình mong muốn đấy là 634 thì có hai cách nhé Thì
+[11:39] muốn đấy là 634 thì có hai cách nhé Thì mình sẽ dùng cái cách nhân một này đi
+[11:41] mình sẽ dùng cái cách nhân một này đi đấy Tiếp theo là cái phần thành tiền nhá
+[11:43] đấy Tiếp theo là cái phần thành tiền nhá thành tiền thì nó sẽ giống hệt cái phần
+[11:45] thành tiền thì nó sẽ giống hệt cái phần số lượng nhưng mà gì nó sẽ thêm một cái
+[11:47] số lượng nhưng mà gì nó sẽ thêm một cái mảng nữa là cái phần đơn giá ở đây đấy
+[11:50] mảng nữa là cái phần đơn giá ở đây đấy thì mình sẽ bằng bằng sampled này các
+[11:52] thì mình sẽ bằng bằng sampled này các bạn ấn mũi tên xuống Sau đó các bạn ấn
+[11:55] bạn ấn mũi tên xuống Sau đó các bạn ấn Tab nhé Sau đó các bạn lại thêm một cái
+[11:57] Tab nhé Sau đó các bạn lại thêm một cái mở ngoặc đơn nữa để các bạn làm cái phần
+[11:58] mở ngoặc đơn nữa để các bạn làm cái phần điều kiện đúng các bạn để thì các bạn sẽ
+[12:00] điều kiện đúng các bạn để thì các bạn sẽ Bôi đen cái phần sản phẩm ở đây để các
+[12:02] Bôi đen cái phần sản phẩm ở đây để các bạn sẽ bằng diện bằng cái sản phẩm gái
+[12:05] bạn sẽ bằng diện bằng cái sản phẩm gái theo một này đấy các bạn sẽ đóng ngoặc
+[12:07] theo một này đấy các bạn sẽ đóng ngoặc lại để các bạn xong cái phần điều kiện
+[12:08] lại để các bạn xong cái phần điều kiện nhé các bạn nhân với 1 để chuyển nó về
+[12:11] nhé các bạn nhân với 1 để chuyển nó về dạng số đúng ạ phẩy cái mảng thứ hai
+[12:13] dạng số đúng ạ phẩy cái mảng thứ hai chính là cái mảng số lượng ở đây đấy
+[12:15] chính là cái mảng số lượng ở đây đấy phẩy mảng thứ 3 chính là cái mảng đơn
+[12:17] phẩy mảng thứ 3 chính là cái mảng đơn giá ở đây đấy các bạn sẽ đóng ngoặc đơn
+[12:19] giá ở đây đấy các bạn sẽ đóng ngoặc đơn lại để xong khách hàng xong thì như vậy
+[12:21] lại để xong khách hàng xong thì như vậy là gì ạ Nó sẽ nhân cái phần số lượng
+[12:24] là gì ạ Nó sẽ nhân cái phần số lượng nhân với đơn giá chỉ với cái điều kiện
+[12:26] nhân với đơn giá chỉ với cái điều kiện là gì ạ điều kiện là các cái sản phẩm ở
+[12:28] là gì ạ điều kiện là các cái sản phẩm ở đây bằng gái theo một thôi đấy các bạn
+[12:29] đây bằng gái theo một thôi đấy các bạn sẽ enter Các bạn thấy là đấy nó sẽ ra là
+[12:31] sẽ enter Các bạn thấy là đấy nó sẽ ra là gì 11.978 thì bây giờ ví dụ cái gái xem
+[12:35] gì 11.978 thì bây giờ ví dụ cái gái xem một là mình sửa thành cái CO2 nhé đấy
+[12:37] một là mình sửa thành cái CO2 nhé đấy các bạn enter đấy các bạn thấy chưa cả
+[12:39] các bạn enter đấy các bạn thấy chưa cả cái phần số lượng và cái phần thành tiền
+[12:40] cái phần số lượng và cái phần thành tiền nó đều thay đổi là bây giờ các bạn tích
+[12:42] nó đều thay đổi là bây giờ các bạn tích đuốc vào đây các bạn sửa thành điện lái
+[12:43] đuốc vào đây các bạn sửa thành điện lái xe 3 các bạn enter Đấy thấy chưa Nó sẽ
+[12:46] xe 3 các bạn enter Đấy thấy chưa Nó sẽ thay đổi cả về số lượng và thành tiền
+[12:48] thay đổi cả về số lượng và thành tiền mình sẽ chuyển về gái cho một đi
+[12:51] mình sẽ chuyển về gái cho một đi ok cách dùng tiếp theo của cái hàm Sum
+[12:54] ok cách dùng tiếp theo của cái hàm Sum rác là gì ạ Bây giờ mình muốn tính theo
+[12:56] rác là gì ạ Bây giờ mình muốn tính theo cái điều kiện là gì ạ Bây giờ mình giống
+[12:58] cái điều kiện là gì ạ Bây giờ mình giống như cái phần của cái Cách thứ Hai nhé
+[13:00] như cái phần của cái Cách thứ Hai nhé mình sẽ tính số lượng và thành tiền với
+[13:02] mình sẽ tính số lượng và thành tiền với điều kiện là gì ạ gạch theo một cộng với
+[13:04] điều kiện là gì ạ gạch theo một cộng với cả gái 63 tức là cứ gái theo một và gái
+[13:07] cả gái 63 tức là cứ gái theo một và gái cho ba thì mình sẽ tính nhá đúng không ạ
+[13:08] cho ba thì mình sẽ tính nhá đúng không ạ Tức là mình sẽ không tính cái số 2 Đấy
+[13:11] Tức là mình sẽ không tính cái số 2 Đấy thì các bạn sẽ bằng này các bạn sẽ bằng
+[13:13] thì các bạn sẽ bằng này các bạn sẽ bằng sampled này các bạn ấn mũi tên xuống và
+[13:15] sampled này các bạn ấn mũi tên xuống và các bạn ấn Tab nhé sau đó là gì Các bạn
+[13:17] các bạn ấn Tab nhé sau đó là gì Các bạn sẽ mở ngoặc đơn để các bạn tạo một cái
+[13:19] sẽ mở ngoặc đơn để các bạn tạo một cái vùng điều kiện đúng ạ thì cái vùng điều
+[13:21] vùng điều kiện đúng ạ thì cái vùng điều kiện thứ nhất này các bạn sẽ Bôi đen Cái
+[13:22] kiện thứ nhất này các bạn sẽ Bôi đen Cái vùng điều kiện thứ nhất đấy các bạn sẽ
+[13:24] vùng điều kiện thứ nhất đấy các bạn sẽ bằng gì ạ bằng cái gáy cho một này này
+[13:26] bằng gì ạ bằng cái gáy cho một này này chính là cái Oh 11 nhé đấy các bạn sẽ
+[13:28] chính là cái Oh 11 nhé đấy các bạn sẽ đóng ngoặc đơn này các bạn nhân với 1
+[13:29] đóng ngoặc đơn này các bạn nhân với 1 Đấy mình sẽ chuyển nó về cái dạng số 0
+[13:32] Đấy mình sẽ chuyển nó về cái dạng số 0 và 1 nhé Sau đó các bạn cộng với gì ạ
+[13:34] và 1 nhé Sau đó các bạn cộng với gì ạ Các bạn cộng với mở ngoặc để mình sẽ tạo
+[13:35] Các bạn cộng với mở ngoặc để mình sẽ tạo cái vùng điều kiện thứ hai đúng không
+[13:37] cái vùng điều kiện thứ hai đúng không vẫn là cái điều kiện sản phẩm ở đây đấy
+[13:40] vẫn là cái điều kiện sản phẩm ở đây đấy các bạn bằng diện bằng với gái số 3 đấy
+[13:43] các bạn bằng diện bằng với gái số 3 đấy các bạn sẽ đóng ngoặc đơn lại và các bạn
+[13:44] các bạn sẽ đóng ngoặc đơn lại và các bạn nhân với 1 đấy thì như vậy là mình đã
+[13:47] nhân với 1 đấy thì như vậy là mình đã xong cái vùng điều kiện ở đây nhé là gì
+[13:50] xong cái vùng điều kiện ở đây nhé là gì ạ là xong cái điều kiện là bằng cái theo
+[13:52] ạ là xong cái điều kiện là bằng cái theo một và gái cho Ba rồi đúng không ạ bây
+[13:53] một và gái cho Ba rồi đúng không ạ bây giờ phẩy đến cái mảng ở đây Thứ hai này
+[13:56] giờ phẩy đến cái mảng ở đây Thứ hai này này chính là cái phần số lượng ở đây
+[13:59] này chính là cái phần số lượng ở đây đấy các bạn sẽ đóng ngoặc đơn lại để các
+[14:01] đấy các bạn sẽ đóng ngoặc đơn lại để các bạn xong cái hàm sumod đã các bạn enter
+[14:03] bạn xong cái hàm sumod đã các bạn enter đấy các bạn thấy chưa Như vậy là gì ạ
+[14:05] đấy các bạn thấy chưa Như vậy là gì ạ với gái sau một và gái CO3 là 1286 bây
+[14:08] với gái sau một và gái CO3 là 1286 bây giờ thành tiền cũng vậy nhé thành tiền
+[14:10] giờ thành tiền cũng vậy nhé thành tiền thì nó sẽ giống hệt ở đây và nó thêm cái
+[14:12] thì nó sẽ giống hệt ở đây và nó thêm cái điều kiện đơn giá vào đây thôi Đấy mình
+[14:13] điều kiện đơn giá vào đây thôi Đấy mình sẽ làm luôn nhé các bạn bằng xong Block
+[14:16] sẽ làm luôn nhé các bạn bằng xong Block này các bạn ấn mũi tên xuống ấn Tab nhé
+[14:19] này các bạn ấn mũi tên xuống ấn Tab nhé Sau đó các bạn mở ngoặc đơn nữa để các
+[14:21] Sau đó các bạn mở ngoặc đơn nữa để các bạn tạo cái điều kiện này đầu tiên mình
+[14:22] bạn tạo cái điều kiện này đầu tiên mình sẽ Bôi đen Cái vùng sản phẩm đây đúng
+[14:24] sẽ Bôi đen Cái vùng sản phẩm đây đúng không ạ bằng với diện bằng cái C1 ở đây
+[14:27] không ạ bằng với diện bằng cái C1 ở đây đấy các bạn sẽ đóng ngoặc đơn lại các
+[14:29] đấy các bạn sẽ đóng ngoặc đơn lại các bạn nhân với 1 để chuyển về dạng số đúng
+[14:31] bạn nhân với 1 để chuyển về dạng số đúng không các bạn sẽ cộng với gì ạ cộng gì
+[14:33] không các bạn sẽ cộng với gì ạ cộng gì cộng với mở ngoặc nhé các bạn lại Bôi
+[14:35] cộng với mở ngoặc nhé các bạn lại Bôi đen tiếp vẫn là cái sản phẩm này nhưng
+[14:37] đen tiếp vẫn là cái sản phẩm này nhưng mà ở đây mình sẽ bằng bằng thêm với cả
+[14:39] mà ở đây mình sẽ bằng bằng thêm với cả cái điều kiện gái cho ba ở đây đấy các
+[14:41] cái điều kiện gái cho ba ở đây đấy các bạn sẽ đóng ngoặc lại và các bạn nhân
+[14:42] bạn sẽ đóng ngoặc lại và các bạn nhân với 1 đấy thì như vậy mình đã xong ở đây
+[14:45] với 1 đấy thì như vậy mình đã xong ở đây là hai cái điều kiện là kết hợp của gái
+[14:47] là hai cái điều kiện là kết hợp của gái sau một cùng với cả cái điều kiện gái
+[14:49] sau một cùng với cả cái điều kiện gái cho ba đúng không ạ Các bạn phải này đến
+[14:51] cho ba đúng không ạ Các bạn phải này đến cái nơi thứ hai chính là gì ạ chính là
+[14:53] cái nơi thứ hai chính là gì ạ chính là cái số lượng ở đây
+[14:54] cái số lượng ở đây phẩy đến cái ở đây thứ ba chính là cái
+[14:57] phẩy đến cái ở đây thứ ba chính là cái đơn giá ở đây nhé đấy các bạn sẽ đóng
+[14:59] đơn giá ở đây nhé đấy các bạn sẽ đóng ngoặc đơn này để xong cái hàm sumorax
+[15:01] ngoặc đơn này để xong cái hàm sumorax bây giờ mình sẽ enter đấy các bạn thấy
+[15:03] bây giờ mình sẽ enter đấy các bạn thấy chưa Rất là hay ví dụ gái xem một và gái
+[15:06] chưa Rất là hay ví dụ gái xem một và gái CO2 nhé các bạn tích đúp vào đây các bạn
+[15:07] CO2 nhé các bạn tích đúp vào đây các bạn sửa này
+[15:08] sửa này các bạn enter đấy Bạn thấy chưa số lượng
+[15:11] các bạn enter đấy Bạn thấy chưa số lượng và thành tiền đã thay đổi cuối cùng mình
+[15:14] và thành tiền đã thay đổi cuối cùng mình sẽ hướng dẫn các bạn thêm gì ạ Ngoài cái
+[15:16] sẽ hướng dẫn các bạn thêm gì ạ Ngoài cái phần gái sau một và gái sau 3 mình sẽ
+[15:18] phần gái sau một và gái sau 3 mình sẽ thêm các cái điều kiện ví dụ là mình sẽ
+[15:20] thêm các cái điều kiện ví dụ là mình sẽ tính doanh thu của một cái ngày là ngày
+[15:22] tính doanh thu của một cái ngày là ngày mùng 3 tháng 4 thôi và gì ạ và Những Cái
+[15:24] mùng 3 tháng 4 thôi và gì ạ và Những Cái Ô mà số lượng mà nó lớn hơn 130 Đấy tức
+[15:29] Ô mà số lượng mà nó lớn hơn 130 Đấy tức là ở đây sẽ rất là nhiều điều kiện là
+[15:31] là ở đây sẽ rất là nhiều điều kiện là gái theo một cộng với gái theo ba này
+[15:32] gái theo một cộng với gái theo ba này Điều kiện thứ hai là gì ạ ngày mùng 3
+[15:35] Điều kiện thứ hai là gì ạ ngày mùng 3 tháng 4 và điều kiện thứ ba là chỉ các
+[15:37] tháng 4 và điều kiện thứ ba là chỉ các cái số lượng mà lớn hơn 130 thôi đúng
+[15:39] cái số lượng mà lớn hơn 130 thôi đúng không đấy thì để làm việc này các bạn
+[15:41] không đấy thì để làm việc này các bạn làm như sau nhé các bạn sẽ bằng này xăm
+[15:44] làm như sau nhé các bạn sẽ bằng này xăm product các bạn ấn mũi tên xuống các bạn
+[15:45] product các bạn ấn mũi tên xuống các bạn ấn Tab nhé để các bạn sẽ thêm một cái mở
+[15:48] ấn Tab nhé để các bạn sẽ thêm một cái mở ngoặc nữa là cái mở ngoặc thứ hai đúng
+[15:50] ngoặc nữa là cái mở ngoặc thứ hai đúng không các bạn lại thêm một cái mở ngoặc
+[15:52] không các bạn lại thêm một cái mở ngoặc đơn nữa là cái mở ngoặc thứ ba thì tại
+[15:54] đơn nữa là cái mở ngoặc thứ ba thì tại sao lại nhiều cái ngoặc đơn này mình sẽ
+[15:55] sao lại nhiều cái ngoặc đơn này mình sẽ giải thích nhé đầu tiên các đầu tiên các
+[15:58] giải thích nhé đầu tiên các đầu tiên các bạn vẫn bôi là cái vùng sản phẩm ở đây
+[15:59] bạn vẫn bôi là cái vùng sản phẩm ở đây đấy các bạn bằng với gì ạ bằng cái gáy
+[16:02] đấy các bạn bằng với gì ạ bằng cái gáy theo một này các bạn đóng ngoặc lại để
+[16:05] theo một này các bạn đóng ngoặc lại để xong cái điều kiện là gái cho một nhé
+[16:06] xong cái điều kiện là gái cho một nhé các bạn cộng gì ạ cộng với mở ngoặc đấy
+[16:09] các bạn cộng gì ạ cộng với mở ngoặc đấy các bạn lại Bôi đen cái phần sản phẩm ở
+[16:10] các bạn lại Bôi đen cái phần sản phẩm ở đây
+[16:11] đây các bạn bằng video
+[16:24] nữa Ok Bây giờ các bạn sẽ xuống cuối này như vậy là mình đã xong cái phần điều
+[16:27] như vậy là mình đã xong cái phần điều kiện là gái theo một cùng với gái sau 3
+[16:29] kiện là gái theo một cùng với gái sau 3 nhé các bạn phải đóng ngoặc đơn lại nữa
+[16:30] nhé các bạn phải đóng ngoặc đơn lại nữa đấy thì như vậy Cái đó ngoặc đơn này nó
+[16:32] đấy thì như vậy Cái đó ngoặc đơn này nó đã kết thúc cái việc gì ạ đây kết thúc
+[16:35] đã kết thúc cái việc gì ạ đây kết thúc hai cái phần này rồi đúng không Đấy như
+[16:37] hai cái phần này rồi đúng không Đấy như vậy mình đã xong cái điều kiện thứ nhất
+[16:39] vậy mình đã xong cái điều kiện thứ nhất ở trên này là gái theo một với cái sau 3
+[16:41] ở trên này là gái theo một với cái sau 3 Đúng không các bạn phải nhân với cả mở
+[16:44] Đúng không các bạn phải nhân với cả mở ngoặc đấy Ở đây nhé với nhiều điều kiện
+[16:46] ngoặc đấy Ở đây nhé với nhiều điều kiện mà không liên quan đến nhau nhé Tiếp
+[16:47] mà không liên quan đến nhau nhé Tiếp theo là cái điều kiện ngày tháng đúng
+[16:48] theo là cái điều kiện ngày tháng đúng không thì các bạn sẽ nhân miếng mở ngoặc
+[16:50] không thì các bạn sẽ nhân miếng mở ngoặc để nhân với cái vùng điều kiện tiếp theo
+[16:51] để nhân với cái vùng điều kiện tiếp theo thì điều kiện tiếp theo là gì Các bạn
+[16:53] thì điều kiện tiếp theo là gì Các bạn Bôi đen cái phần ngày tháng ở đây này
+[16:55] Bôi đen cái phần ngày tháng ở đây này Đấy Mà nó bằng gì bằng với cái ngày
+[16:57] Đấy Mà nó bằng gì bằng với cái ngày tháng ở đây
+[16:58] tháng ở đây đấy các bạn có thể đóng ngoặc đơn lại
+[17:01] đấy các bạn có thể đóng ngoặc đơn lại Đấy mình đã xong cái ngày tháng nhé Bây
+[17:03] Đấy mình đã xong cái ngày tháng nhé Bây giờ các bạn nhân tiếp Tức là mình sẽ
+[17:04] giờ các bạn nhân tiếp Tức là mình sẽ nhân thêm cái điều kiện thứ ba Các bạn
+[17:06] nhân thêm cái điều kiện thứ ba Các bạn mở ngoặc đơn ra điều kiện thứ ba là gì ạ
+[17:08] mở ngoặc đơn ra điều kiện thứ ba là gì ạ Cái phần số lượng ở đây phải gì ạ phải
+[17:10] Cái phần số lượng ở đây phải gì ạ phải lớn hơn cái mình đặt ở đây là 130 đúng
+[17:13] lớn hơn cái mình đặt ở đây là 130 đúng không ạ Các bạn sẽ đóng ngoặc đơn lại
+[17:14] không ạ Các bạn sẽ đóng ngoặc đơn lại như vậy Ở đây mình đã xong ba cái điều
+[17:16] như vậy Ở đây mình đã xong ba cái điều kiện nhé bằng ba cái dấu đóng ngoặc đơn
+[17:18] kiện nhé bằng ba cái dấu đóng ngoặc đơn này đấy thì như vậy sau ba cái điều kiện
+[17:21] này đấy thì như vậy sau ba cái điều kiện này nha các bạn chú ý nhé Đây này kết
+[17:23] này nha các bạn chú ý nhé Đây này kết thúc cái điều kiện này nó còn cái mở
+[17:24] thúc cái điều kiện này nó còn cái mở ngoặc đơn ngoài cùng cho cái hàm sumod
+[17:26] ngoặc đơn ngoài cùng cho cái hàm sumod thôi đấy thì ở đây các bạn có thể nhân
+[17:28] thôi đấy thì ở đây các bạn có thể nhân với 1 nữa đấy thì ở đây như vậy hai cái
+[17:30] với 1 nữa đấy thì ở đây như vậy hai cái này các bạn có thể không cần nhân với 1
+[17:31] này các bạn có thể không cần nhân với 1 cũng được đấy hai cái này các bạn có thể
+[17:34] cũng được đấy hai cái này các bạn có thể không cần nhân với 1 nhé vì cái biểu
+[17:36] không cần nhân với 1 nhé vì cái biểu thức Cuối Cùng Ở đây mình đã nhân với 1
+[17:37] thức Cuối Cùng Ở đây mình đã nhân với 1 Để mình chuyển về dạng số rồi nhé đấy
+[17:39] Để mình chuyển về dạng số rồi nhé đấy phẩy Tiếp theo là cái thứ hai lúc này
+[17:41] phẩy Tiếp theo là cái thứ hai lúc này rất là dễ thôi thì các bạn sẽ Bôi đen
+[17:43] rất là dễ thôi thì các bạn sẽ Bôi đen cái phần số lượng ở đây chính là cái ở
+[17:45] cái phần số lượng ở đây chính là cái ở đây thứ Hai nhé các bạn sẽ đóng ngoặc
+[17:46] đây thứ Hai nhé các bạn sẽ đóng ngoặc đơn lại để xong khách hàng samurage các
+[17:48] đơn lại để xong khách hàng samurage các bạn enter đấy như vậy số lượng ở đây là
+[17:50] bạn enter đấy như vậy số lượng ở đây là thành gì 333 bây giờ mình sẽ kiểm tra
+[17:52] thành gì 333 bây giờ mình sẽ kiểm tra cho các bạn nhé thì đầu tiên là gì ạ đầu
+[17:55] cho các bạn nhé thì đầu tiên là gì ạ đầu tiên mình cái điều kiện thứ nhất là ngày
+[17:56] tiên mình cái điều kiện thứ nhất là ngày mùng 3 nhé các bạn vào cái phần ngày này
+[17:58] mùng 3 nhé các bạn vào cái phần ngày này các bạn
+[17:58] các bạn bỏ chặn hết đi các bạn và chọn ngày mùng
+[18:00] bỏ chặn hết đi các bạn và chọn ngày mùng 3 các bạn enter này Đấy tiếp theo là gì
+[18:03] 3 các bạn enter này Đấy tiếp theo là gì ạ là cái gái sau một và gái sau 3 thôi
+[18:05] ạ là cái gái sau một và gái sau 3 thôi đúng không Mình sẽ bỏ cái gáy theo hai
+[18:07] đúng không Mình sẽ bỏ cái gáy theo hai đi đấy vì hai cái số lượng này đều là
+[18:10] đi đấy vì hai cái số lượng này đều là luôn 130 đúng không Thì nó sẽ tính tổng
+[18:12] luôn 130 đúng không Thì nó sẽ tính tổng của hai cái ô này các bạn giữ cần troll
+[18:14] của hai cái ô này các bạn giữ cần troll các bạn Bôi đen đã thấy chưa bằng đúng
+[18:16] các bạn Bôi đen đã thấy chưa bằng đúng 333 luôn đấy bây giờ ví dụ cái điều kiện
+[18:18] 333 luôn đấy bây giờ ví dụ cái điều kiện là 150 nhé Nếu như các bạn Nhập 150 thì
+[18:22] là 150 nhé Nếu như các bạn Nhập 150 thì cái kết quả nó sẽ trả về 184 đúng không
+[18:24] cái kết quả nó sẽ trả về 184 đúng không vì nó sẽ không tính cái trường hợp 149
+[18:27] vì nó sẽ không tính cái trường hợp 149 mà 149 nó nhỏ hơn 150 các bạn enter này
+[18:29] mà 149 nó nhỏ hơn 150 các bạn enter này đấy các bạn thấy chưa nó sẽ trả về 184
+[18:32] đấy các bạn thấy chưa nó sẽ trả về 184 ngay đấy rất là hay bây giờ mình sẽ ấn
+[18:35] ngay đấy rất là hay bây giờ mình sẽ ấn đu đấy như vậy là 333 nhé đấy các bạn sẽ
+[18:38] đu đấy như vậy là 333 nhé đấy các bạn sẽ tích vào đây mình sẽ bỏ phim tươi hết đi
+[18:40] tích vào đây mình sẽ bỏ phim tươi hết đi các bạn sẽ clear sản phẩm này các bạn
+[18:42] các bạn sẽ clear sản phẩm này các bạn kích vào đây các bạn clear cái này đấy
+[18:45] kích vào đây các bạn clear cái này đấy như vậy Ở đây mình đã số lượng là 333
+[18:47] như vậy Ở đây mình đã số lượng là 333 cách thành tiền cũng vậy nhé thành tiền
+[18:49] cách thành tiền cũng vậy nhé thành tiền thì thêm cái thứ ba là cái phần đơn giá
+[18:51] thì thêm cái thứ ba là cái phần đơn giá Thôi thì ở đây mình sẽ làm luôn và mình
+[18:53] Thôi thì ở đây mình sẽ làm luôn và mình không giải thích nhé các bạn bằng xong
+[18:55] không giải thích nhé các bạn bằng xong Bù Đăng này các bạn ấn mũi tên xuống và
+[18:56] Bù Đăng này các bạn ấn mũi tên xuống và các bạn ấn Tab đấy Sau đó các bạn sẽ bấm
+[18:59] các bạn ấn Tab đấy Sau đó các bạn sẽ bấm thêm hai cái mở ngoặc đơn nữa đấy như
+[19:00] thêm hai cái mở ngoặc đơn nữa đấy như vậy tất cả là mình đã có ba cái mở ngoặc
+[19:02] vậy tất cả là mình đã có ba cái mở ngoặc đơn rồi đúng không các bạn sẽ Bôi đen
+[19:04] đơn rồi đúng không các bạn sẽ Bôi đen cái phần Sản phẩm này Đấy bằng gì ạ bằng
+[19:07] cái phần Sản phẩm này Đấy bằng gì ạ bằng cái gáy theo một ở đây các bạn đóng
+[19:09] cái gáy theo một ở đây các bạn đóng ngoặc đơn lại sau đó cộng gì cộng với mở
+[19:12] ngoặc đơn lại sau đó cộng gì cộng với mở ngoặc các bạn tiếp tục bôi đen Cái sản
+[19:14] ngoặc các bạn tiếp tục bôi đen Cái sản phẩm ở đây và bằng bằng cái gạch CO3 này
+[19:16] phẩm ở đây và bằng bằng cái gạch CO3 này các bạn sẽ đóng ngoặc đơn lại để Xong
+[19:19] các bạn sẽ đóng ngoặc đơn lại để Xong rồi Xong cái điều kiện là gái theo một
+[19:21] rồi Xong cái điều kiện là gái theo một và gái sau 3 nhé các bạn đóng ngoặc đơn
+[19:23] và gái sau 3 nhé các bạn đóng ngoặc đơn nữa Để xong cái vùng điều kiện thứ nhất
+[19:25] nữa Để xong cái vùng điều kiện thứ nhất bây giờ các bạn sẽ nhân gì nhân với mở
+[19:27] bây giờ các bạn sẽ nhân gì nhân với mở ngoặc Tiếp theo là cái vùng điều kiện
+[19:28] ngoặc Tiếp theo là cái vùng điều kiện thứ hai chính là cái cột ngày tháng ở
+[19:31] thứ hai chính là cái cột ngày tháng ở đây bằng bằng cái ô ngày mùng 3 ở đây
+[19:33] đây bằng bằng cái ô ngày mùng 3 ở đây nhé
+[19:34] nhé các bạn sẽ đóng ngoặc đơn lại để xong
+[19:36] các bạn sẽ đóng ngoặc đơn lại để xong cái vùng điều kiện thứ hai các bạn nhân
+[19:38] cái vùng điều kiện thứ hai các bạn nhân với cả gì ạ mở ngoặc đơn ra vùng điều
+[19:40] với cả gì ạ mở ngoặc đơn ra vùng điều kiện thứ ba là gì ạ Cái số lượng ở đây
+[19:42] kiện thứ ba là gì ạ Cái số lượng ở đây này phải gì ạ phải lớn hơn
+[19:44] này phải gì ạ phải lớn hơn cái mình đặt ở đây là 130 Đúng không các
+[19:47] cái mình đặt ở đây là 130 Đúng không các bạn sẽ đóng ngoặc đơn lại thì như vậy
+[19:48] bạn sẽ đóng ngoặc đơn lại thì như vậy mình đã xong ba cái điều kiện này rồi
+[19:50] mình đã xong ba cái điều kiện này rồi nhé Bây giờ mình sẽ nhân với 1 để chuyển
+[19:51] nhé Bây giờ mình sẽ nhân với 1 để chuyển về dạng 011 đúng không phẩy tiếp theo
+[19:54] về dạng 011 đúng không phẩy tiếp theo các bạn sẽ Bôi đen cái phần số lượng này
+[19:56] các bạn sẽ Bôi đen cái phần số lượng này Đấy phẩy cái ở thứ ba chính là cái phần
+[19:59] Đấy phẩy cái ở thứ ba chính là cái phần đơn giá ở đây đấy các bạn sẽ đóng ngoặc
+[20:01] đơn giá ở đây đấy các bạn sẽ đóng ngoặc lại để xong cái hàm Sum bù đắp nhé các
+[20:04] lại để xong cái hàm Sum bù đắp nhé các bạn enter đấy như vậy thành tiền đấy là
+[20:06] bạn enter đấy như vậy thành tiền đấy là gì ạ thành tiền là
+[20:07] gì ạ thành tiền là 4732 các bạn thấy rất là hay Ví dụ mình
+[20:10] 4732 các bạn thấy rất là hay Ví dụ mình sẽ thay cái mùng 3 này các bạn tích đúp
+[20:11] sẽ thay cái mùng 3 này các bạn tích đúp nhá mình sẽ sửa ngày mùng 3 bằng điện
+[20:14] nhá mình sẽ sửa ngày mùng 3 bằng điện bằng ngày mùng 1 đi các bạn enter đấy
+[20:16] bằng ngày mùng 1 đi các bạn enter đấy các bạn thấy chưa số lượng và thành tiền
+[20:18] các bạn thấy chưa số lượng và thành tiền đã thay đổi rất là hay ví dụ cái điều
+[20:20] đã thay đổi rất là hay ví dụ cái điều kiện ở đây là quy định là diện lớn hơn
+[20:22] kiện ở đây là quy định là diện lớn hơn 150 đi
+[20:23] 150 đi thì 150 hoặc là 180 đi Mình xem nào đấy
+[20:27] thì 150 hoặc là 180 đi Mình xem nào đấy thì như vậy không có sản phẩm là lớn 180
+[20:29] thì như vậy không có sản phẩm là lớn 180 đúng không nó sẽ bằng không hết đấy mình
+[20:31] đúng không nó sẽ bằng không hết đấy mình sẽ
+[20:32] sẽ quy định là 130 thôi
+[20:35] quy định là 130 thôi Ok như vậy là mình đã xong cho các bạn
+[20:38] Ok như vậy là mình đã xong cho các bạn cái hàm sumorax Này nhé cái hàm sumax
+[20:40] cái hàm sumorax Này nhé cái hàm sumax này dùng cũng khá là hay đấy ạ tiếp theo
+[20:42] này dùng cũng khá là hay đấy ạ tiếp theo mình sẽ giới thiệu các bạn các cái hàm
+[20:44] mình sẽ giới thiệu các bạn các cái hàm về thời gian nhé các bạn sẽ tích vào cái
+[20:46] về thời gian nhé các bạn sẽ tích vào cái sheet function ở đây này Đấy thì ở đây
+[20:49] sheet function ở đây này Đấy thì ở đây mình có các cái mốc thời gian là như thế
+[20:51] mình có các cái mốc thời gian là như thế này nhé Đấy Bây giờ mình sẽ cần tính
+[20:53] này nhé Đấy Bây giờ mình sẽ cần tính ngày thì ở đây là gì ạ Ở đây mình có là
+[20:57] ngày thì ở đây là gì ạ Ở đây mình có là gì Các trường Thời Gian rồi bây giờ mình
+[20:59] gì Các trường Thời Gian rồi bây giờ mình sẽ lấy ngày bằng gì Các bạn sẽ dùng cái
+[21:01] sẽ lấy ngày bằng gì Các bạn sẽ dùng cái hàm đây thôi rất là đơn giản và nằm đây
+[21:02] hàm đây thôi rất là đơn giản và nằm đây các bạn sẽ mở ngoặc thì thành phần của
+[21:04] các bạn sẽ mở ngoặc thì thành phần của cái hàm đây này là cái ô chứa thời gian
+[21:07] cái hàm đây này là cái ô chứa thời gian nhé các bạn sẽ tích vào đây đấy Ở đây là
+[21:09] nhé các bạn sẽ tích vào đây đấy Ở đây là ngày 28 tháng 10 như các bạn biết ý thì
+[21:12] ngày 28 tháng 10 như các bạn biết ý thì trong Excel thông thường mặc định nó sẽ
+[21:14] trong Excel thông thường mặc định nó sẽ viết tháng trước sau đến ngày đến 5 đúng
+[21:16] viết tháng trước sau đến ngày đến 5 đúng không Thì ở đây cái hàm này nó sẽ trả về
+[21:18] không Thì ở đây cái hàm này nó sẽ trả về ngày 28 này đấy các bạn enter đấy nó sẽ
+[21:20] ngày 28 này đấy các bạn enter đấy nó sẽ trở về 28 Đúng không các bạn sẽ tích đúp
+[21:23] trở về 28 Đúng không các bạn sẽ tích đúp vào đây đấy thì như vậy mình đã có các
+[21:25] vào đây đấy thì như vậy mình đã có các cái ngày của các cái mốc thời gian ở đây
+[21:27] cái ngày của các cái mốc thời gian ở đây rồi nhé tiếp theo là tính thứ nhé Thì
+[21:31] rồi nhé tiếp theo là tính thứ nhé Thì nếu như mà tính thứ bằng tiếng Anh thì
+[21:32] nếu như mà tính thứ bằng tiếng Anh thì nó sẽ đơn giản hơn các bạn sẽ dùng cái
+[21:34] nó sẽ đơn giản hơn các bạn sẽ dùng cái hàm text này các bạn sẽ bằng text đấy
+[21:37] hàm text này các bạn sẽ bằng text đấy các bạn sẽ ấn Tab nhé Thì hôm trước
+[21:39] các bạn sẽ ấn Tab nhé Thì hôm trước trong bài về các hàm xử lý chuỗi mình đã
+[21:41] trong bài về các hàm xử lý chuỗi mình đã giới thiệu về hàm text rồi đúng không
+[21:42] giới thiệu về hàm text rồi đúng không Thì đầu tiên là cái value thì chính là
+[21:46] Thì đầu tiên là cái value thì chính là gì ạ chính là cái thời gian ở đây đấy
+[21:48] gì ạ chính là cái thời gian ở đây đấy mình sẽ đổi về vali gì Các bạn phải lên
+[21:50] mình sẽ đổi về vali gì Các bạn phải lên mình sẽ pho mát của cái thời gian này
+[21:52] mình sẽ pho mát của cái thời gian này các bạn sẽ mở ngoặc kép ra các bạn
+[21:53] các bạn sẽ mở ngoặc kép ra các bạn format về dạng này đúng không các bạn sẽ
+[21:56] format về dạng này đúng không các bạn sẽ đánh cho mình là gì ạ Ba cái chữ d đấy
+[21:59] đánh cho mình là gì ạ Ba cái chữ d đấy đánh ba chữ d và các bạn sẽ đóng ngoặc
+[22:01] đánh ba chữ d và các bạn sẽ đóng ngoặc kép lại các bạn sẽ đóng ngoặc đơn lại
+[22:02] kép lại các bạn sẽ đóng ngoặc đơn lại các bạn enter nó sẽ trả về thứ tiếng Anh
+[22:04] các bạn enter nó sẽ trả về thứ tiếng Anh là USD nhé các bạn sẽ tích đúp vào đây
+[22:06] là USD nhé các bạn sẽ tích đúp vào đây đấy chứ Đây sang đây file đây là chủ
+[22:09] đấy chứ Đây sang đây file đây là chủ nhật này Thứ Sáu đây các bạn sẽ tích nút
+[22:12] nhật này Thứ Sáu đây các bạn sẽ tích nút vào đây nhé Nếu như mà các bạn cho bốn
+[22:14] vào đây nhé Nếu như mà các bạn cho bốn cái chữ D 4 chữ d thì nó sẽ trả về cái
+[22:16] cái chữ D 4 chữ d thì nó sẽ trả về cái ngày đầy đủ Còn 3 chữ d thì nó sẽ là
+[22:19] ngày đầy đủ Còn 3 chữ d thì nó sẽ là ngày Viết tắt đây Các bạn thấy chưa nó
+[22:20] ngày Viết tắt đây Các bạn thấy chưa nó sẽ là ngày đầy đủ Đây là cái cách mà
+[22:22] sẽ là ngày đầy đủ Đây là cái cách mà mình trả về thứ của tiếng Anh còn nếu
+[22:25] mình trả về thứ của tiếng Anh còn nếu như mà trả về thứ tiếng Việt thì mình
+[22:26] như mà trả về thứ tiếng Việt thì mình làm như thế nào đây mình sẽ Bôi đen mình
+[22:28] làm như thế nào đây mình sẽ Bôi đen mình xóa đi thì các bạn sẽ bằng nhé Nếu mà
+[22:30] xóa đi thì các bạn sẽ bằng nhé Nếu mà thứ tiếng Việt các bạn mở ngoặc kép ra
+[22:31] thứ tiếng Việt các bạn mở ngoặc kép ra các bạn sẽ gõ cái chữ là thứ này các bạn
+[22:34] các bạn sẽ gõ cái chữ là thứ này các bạn cách ra các bạn đóng ngoặc kép lại sau
+[22:36] cách ra các bạn đóng ngoặc kép lại sau đó các bạn và Tức là mình sẽ nối chuỗi
+[22:38] đó các bạn và Tức là mình sẽ nối chuỗi nhá và cái hàm weekday hàm weekday nó sẽ
+[22:41] nhá và cái hàm weekday hàm weekday nó sẽ trả về thứ đấy đấy Good đây của gì của
+[22:44] trả về thứ đấy đấy Good đây của gì của cái ô thời gian ở đây thì cái WeChat của
+[22:46] cái ô thời gian ở đây thì cái WeChat của cái ô thời gian nó sẽ trả về cái thứ
+[22:48] cái ô thời gian nó sẽ trả về cái thứ tương ứng các bạn sẽ đóng ngoặc lại các
+[22:49] tương ứng các bạn sẽ đóng ngoặc lại các bạn enter đấy nó sẽ trả về thứ Tư nhé
+[22:51] bạn enter đấy nó sẽ trả về thứ Tư nhé đấy các bạn tích đúp vào đây thì các bạn
+[22:55] đấy các bạn tích đúp vào đây thì các bạn chú ý cho mình nhé cái hàm weekday mặc
+[22:57] chú ý cho mình nhé cái hàm weekday mặc định của nó nếu nếu như bằng 1 thì nó sẽ
+[22:59] định của nó nếu nếu như bằng 1 thì nó sẽ trả về chủ nhật đúng không còn các cái
+[23:01] trả về chủ nhật đúng không còn các cái thứ còn lại là từ 2 đến 7 thì nó sẽ
+[23:04] thứ còn lại là từ 2 đến 7 thì nó sẽ tương ứng với đây trả về là 2 đến 7 đấy
+[23:06] tương ứng với đây trả về là 2 đến 7 đấy thì riêng cái điều kiện chủ nhật ở đây
+[23:08] thì riêng cái điều kiện chủ nhật ở đây thì các bạn chú ý cho mình thôi thì với
+[23:10] thì các bạn chú ý cho mình thôi thì với trường hợp này mình sẽ dùng cái hàm If
+[23:11] trường hợp này mình sẽ dùng cái hàm If nhá Đây mình sẽ xóa đi thì như vậy mình
+[23:13] nhá Đây mình sẽ xóa đi thì như vậy mình sẽ dùng cái hàm if if này bằng này ý các
+[23:18] sẽ dùng cái hàm if if này bằng này ý các bạn ấn Tab nhé Nếu như mà gì ạ
+[23:25] của cái ô thời gian ở đây các bạn đóng ngoặc lại và bằng gì bằng 1 đấy thì các
+[23:27] ngoặc lại và bằng gì bằng 1 đấy thì các bạn phải các bạn sẽ trả về kết quả là gì
+[23:29] bạn phải các bạn sẽ trả về kết quả là gì ạ Các bạn sẽ ghi là chủ nhật nhé CN cũng
+[23:31] ạ Các bạn sẽ ghi là chủ nhật nhé CN cũng được hoặc các bạn Gõ cái chữ chủ nhật đi
+[23:33] được hoặc các bạn Gõ cái chữ chủ nhật đi đấy các bạn đóng ngoặc kép lại phẩy còn
+[23:35] đấy các bạn đóng ngoặc kép lại phẩy còn ngược lại thì các bạn làm như vừa xong
+[23:37] ngược lại thì các bạn làm như vừa xong thôi các bạn mở ngoặc kép ra các bạn sẽ
+[23:39] thôi các bạn mở ngoặc kép ra các bạn sẽ ghi cái chữ là gì thứ cách đóng ngoặc
+[23:42] ghi cái chữ là gì thứ cách đóng ngoặc kép lại các bạn vào với cái hàm weekday
+[23:44] kép lại các bạn vào với cái hàm weekday các bạn ấn mũi tên xuống ấn Tab USD của
+[23:47] các bạn ấn mũi tên xuống ấn Tab USD của cái ô thời gian này các bạn đóng ngoặc
+[23:49] cái ô thời gian này các bạn đóng ngoặc đơn này để sang hàng weekday các bạn
+[23:50] đơn này để sang hàng weekday các bạn đóng ngoặc đơn lại để xong hàm If đấy
+[23:52] đóng ngoặc đơn lại để xong hàm If đấy các bạn enter đây là Thứ Tư đúng không
+[23:54] các bạn enter đây là Thứ Tư đúng không các bạn tích đúp vào đây đấy thì riêng
+[23:56] các bạn tích đúp vào đây đấy thì riêng cái chủ nhật này thì nó là weekday bằng
+[23:58] cái chủ nhật này thì nó là weekday bằng là một rồi đúng không ạ Đấy rất là hay ở
+[24:01] là một rồi đúng không ạ Đấy rất là hay ở đây nếu như mà mình quay lại tiếng Anh
+[24:03] đây nếu như mà mình quay lại tiếng Anh đi nhé mình sẽ xóa đi Mình thích dùng
+[24:04] đi nhé mình sẽ xóa đi Mình thích dùng tiếng Anh thì các bạn rất đơn giản các
+[24:06] tiếng Anh thì các bạn rất đơn giản các bạn bằng cái hàm text Thôi ấn Tab này
+[24:08] bạn bằng cái hàm text Thôi ấn Tab này đầu tiên là cái ô thời gian phẩy các bạn
+[24:11] đầu tiên là cái ô thời gian phẩy các bạn mở ngoặc kép ra mình sẽ viết tắt của thứ
+[24:13] mở ngoặc kép ra mình sẽ viết tắt của thứ thôi mình sẽ viết tắt 3 cái chữ rd thì
+[24:16] thôi mình sẽ viết tắt 3 cái chữ rd thì nó sẽ trả về cái thứ viết tắt nhá các
+[24:17] nó sẽ trả về cái thứ viết tắt nhá các bạn đóng vào đơn lại enter đấy nó sẽ ra
+[24:20] bạn đóng vào đơn lại enter đấy nó sẽ ra là web đây các bạn tích đúp vào đây
+[24:23] là web đây các bạn tích đúp vào đây tiếp theo là tính tháng nhé tháng thì nó
+[24:25] tiếp theo là tính tháng nhé tháng thì nó cũng giống như là thứ thôi các bạn sẽ
+[24:26] cũng giống như là thứ thôi các bạn sẽ bằng các bạn dùng cái hàm ăn để các bạn
+[24:29] bằng các bạn dùng cái hàm ăn để các bạn sẽ ấn Tab nhé thì các bạn sẽ chọn vào
+[24:31] sẽ ấn Tab nhé thì các bạn sẽ chọn vào cái ô thời gian mà các bạn cần lấy tháng
+[24:33] cái ô thời gian mà các bạn cần lấy tháng đúng không các bạn sẽ đóng ngoặc đơn lại
+[24:35] đúng không các bạn sẽ đóng ngoặc đơn lại enter đấy Ở đây nó là tháng 10 các bạn
+[24:37] enter đấy Ở đây nó là tháng 10 các bạn thích đút vào đây đấy Còn nếu như các
+[24:40] thích đút vào đây đấy Còn nếu như các bạn thêm cái chữ tháng nhé bạn thích đút
+[24:42] bạn thêm cái chữ tháng nhé bạn thích đút vào đây nhé Nếu như các bạn thêm cái
+[24:43] vào đây nhé Nếu như các bạn thêm cái tháng thì các bạn sẽ bằng này các bạn mở
+[24:45] tháng thì các bạn sẽ bằng này các bạn mở ngoặc kép ra các bạn gõ thêm cái chữ
+[24:46] ngoặc kép ra các bạn gõ thêm cái chữ tháng ở đây cho nó tường minh cho các
+[24:49] tháng ở đây cho nó tường minh cho các bạn cách ra các bạn đóng ngoặc kép lại
+[24:50] bạn cách ra các bạn đóng ngoặc kép lại các bạn vào mấy cái hàm ăn này nó sẽ ra
+[24:53] các bạn vào mấy cái hàm ăn này nó sẽ ra tháng 10 đúng không
+[24:54] tháng 10 đúng không Còn nếu như mà muốn tháng bằng tiếng Anh
+[24:57] Còn nếu như mà muốn tháng bằng tiếng Anh thì các bạn lại dùng
+[26:00] 11 tháng 9 là bao nhiêu đấy thì mình sẽ dùng cái hàm gì Các bạn sẽ dùng cái hàm
+[26:02] dùng cái hàm gì Các bạn sẽ dùng cái hàm norman nhé các bạn bằng này thì các bạn
+[26:04] norman nhé các bạn bằng này thì các bạn chú ý nhé trong cái bài này thì các cái
+[26:06] chú ý nhé trong cái bài này thì các cái hàm mà mình sử dụng mình đã để mở trên
+[26:08] hàm mà mình sử dụng mình đã để mở trên này để các bạn dễ nhớ nhá đấy các bạn sẽ
+[26:10] này để các bạn dễ nhớ nhá đấy các bạn sẽ ghi là gì e o đấy các bạn ấn Tab thì đầu
+[26:14] ghi là gì e o đấy các bạn ấn Tab thì đầu tiên là cái status chính là cái ngày ở
+[26:16] tiên là cái status chính là cái ngày ở đây đúng không ạ phẩy cái mắt ở đây thì
+[26:19] đây đúng không ạ phẩy cái mắt ở đây thì chính là cái số tháng mà mình cộng thêm
+[26:20] chính là cái số tháng mà mình cộng thêm đúng không Thì ở đây mình không cộng
+[26:22] đúng không Thì ở đây mình không cộng thêm cái tháng nào cả mà mình muốn biết
+[26:24] thêm cái tháng nào cả mà mình muốn biết cái ngày cuối cùng của cái tháng này
+[26:25] cái ngày cuối cùng của cái tháng này thôi thì các bạn sẽ gì ạ Các bạn sẽ đánh
+[26:27] thôi thì các bạn sẽ gì ạ Các bạn sẽ đánh số 0 vào đây các bạn đóng ngoặc lại các
+[26:28] số 0 vào đây các bạn đóng ngoặc lại các bạn enter đấy thì ở đây nó đang là định
+[26:31] bạn enter đấy thì ở đây nó đang là định dạng số đúng không các bạn tích vào đây
+[26:32] dạng số đúng không các bạn tích vào đây các bạn lên cái phần general này các bạn
+[26:35] các bạn lên cái phần general này các bạn sẽ chọn là gì ạ Các bạn sẽ chọn cái nòng
+[26:37] sẽ chọn là gì ạ Các bạn sẽ chọn cái nòng điếc hoặc soát đi Ví dụ mình chọn là gì
+[26:39] điếc hoặc soát đi Ví dụ mình chọn là gì ạ Soft đi đấy các bạn thấy chưa nó sẽ ra
+[26:41] ạ Soft đi đấy các bạn thấy chưa nó sẽ ra là 31 tháng 10 ở đây các bạn tích đúp
+[26:43] là 31 tháng 10 ở đây các bạn tích đúp vào đây Đấy nếu như mà gì ạ Bây giờ các
+[26:46] vào đây Đấy nếu như mà gì ạ Bây giờ các bạn sẽ tích đút vào công thức này Nếu
+[26:47] bạn sẽ tích đút vào công thức này Nếu như các bạn tăng thêm 1 tháng ấy đấy thì
+[26:50] như các bạn tăng thêm 1 tháng ấy đấy thì nó sẽ lấy cái ngày cuối cùng của cái
+[26:51] nó sẽ lấy cái ngày cuối cùng của cái tháng 11 ở đây này Đấy Đây là đang là
+[26:53] tháng 11 ở đây này Đấy Đây là đang là tháng 10 nhá các bạn thêm số 1 ở đây tức
+[26:55] tháng 10 nhá các bạn thêm số 1 ở đây tức là nó sẽ tăng thêm một tháng nay các bạn
+[26:57] là nó sẽ tăng thêm một tháng nay các bạn enter đấy thì
+[28:00] phía sau là ngày mùng 1 tháng 11 đấy thì như vậy Ở đây á ví dụ ở đây nhá
+[28:03] đấy thì như vậy Ở đây á ví dụ ở đây nhá Đây là ngày mùng 7 tháng 4 đúng không
+[28:05] Đây là ngày mùng 7 tháng 4 đúng không Mình sẽ sửa thành tháng 12 đấy các bạn
+[28:07] Mình sẽ sửa thành tháng 12 đấy các bạn enter đấy thì như vậy gì ạ Cái ngày đầu
+[28:09] enter đấy thì như vậy gì ạ Cái ngày đầu tiên của tháng sau nó sẽ ra là ngày mùng
+[28:12] tiên của tháng sau nó sẽ ra là ngày mùng 1 tháng 1 của năm 2021 rất là hay
+[28:15] 1 tháng 1 của năm 2021 rất là hay tiếp theo là gì mình muốn tính cái ngày
+[28:17] tiếp theo là gì mình muốn tính cái ngày này 5 năm sau thì mình làm như thế nào
+[28:19] này 5 năm sau thì mình làm như thế nào đấy thì các bạn rất đơn giản thôi nhé
+[28:22] đấy thì các bạn rất đơn giản thôi nhé các bạn sẽ bằng gì ạ bằng cái edit này
+[28:24] các bạn sẽ bằng gì ạ bằng cái edit này các bạn ấn Tab nhé Thì cái status là gì
+[28:27] các bạn ấn Tab nhé Thì cái status là gì chính là cái ngày này đúng không ạ Đấy
+[28:30] chính là cái ngày này đúng không ạ Đấy phẩy mình sẽ lấy số tháng thêm là gì ở
+[28:33] phẩy mình sẽ lấy số tháng thêm là gì ở đây là 5 năm đúng không Thì mình sẽ lấy
+[28:34] đây là 5 năm đúng không Thì mình sẽ lấy 12 ở đây là 5 năm đúng không Mình sẽ
+[28:36] 12 ở đây là 5 năm đúng không Mình sẽ nhân với 5 các bạn sẽ đóng ngoặc đơn lại
+[28:38] nhân với 5 các bạn sẽ đóng ngoặc đơn lại để sang hàm edit các bạn enter đấy thì ở
+[28:41] để sang hàm edit các bạn enter đấy thì ở đây nó đang là định dạng số đúng không
+[28:42] đây nó đang là định dạng số đúng không các bạn vẫn vào thẻ home nhé trong cái
+[28:44] các bạn vẫn vào thẻ home nhé trong cái phần gì trong cái ô number format này
+[28:46] phần gì trong cái ô number format này các bạn sẽ chọn sót date ở đây đấy thì
+[28:49] các bạn sẽ chọn sót date ở đây đấy thì như vậy là 5 năm sau nó sẽ ra là ngày 28
+[28:52] như vậy là 5 năm sau nó sẽ ra là ngày 28 tháng 10 năm 2025 đấy nó sẽ tăng lên là
+[28:54] tháng 10 năm 2025 đấy nó sẽ tăng lên là 5 năm các bạn tích đúp vào đây đấy Bạn
+[28:56] 5 năm các bạn tích đúp vào đây đấy Bạn thấy chưa Toàn bộ nó sẽ ra vào năm 2025
+[28:59] thấy chưa Toàn bộ nó sẽ ra vào năm 2025 và ngày tháng là nó sẽ giống hệt ở bên
+[29:01] và ngày tháng là nó sẽ giống hệt ở bên này Đấy
+[29:02] này Đấy là cách mà mình sử dụng edit nhé Ví dụ ở
+[29:05] là cách mà mình sử dụng edit nhé Ví dụ ở đây không phải là 5 năm mà là 10 tháng
+[29:07] đây không phải là 5 năm mà là 10 tháng thì sao ạ thì các bạn sẽ tích vào đây
+[29:08] thì sao ạ thì các bạn sẽ tích vào đây các bạn sẽ gì Các bạn sẽ không phải là
+[29:10] các bạn sẽ gì Các bạn sẽ không phải là 12 nhân 5 nữa mà các bạn sẽ tích số 10
+[29:13] 12 nhân 5 nữa mà các bạn sẽ tích số 10 đây tức là 10 tháng thôi Đấy Bây giờ
+[29:15] đây tức là 10 tháng thôi Đấy Bây giờ mình sẽ bấm Escape nhé
+[29:17] mình sẽ bấm Escape nhé tiếp theo là gì ạ Mình sẽ tính Ví dụ ở
+[29:20] tiếp theo là gì ạ Mình sẽ tính Ví dụ ở đây mình yêu cầu là tính 15 ngày làm
+[29:22] đây mình yêu cầu là tính 15 ngày làm việc tiếp theo tính từ cái mốc thời gian
+[29:24] việc tiếp theo tính từ cái mốc thời gian này thì mình làm như thế nào đấy các bạn
+[29:27] này thì mình làm như thế nào đấy các bạn có thể bằng nhé các bạn dùng cái hàm
+[29:29] có thể bằng nhé các bạn dùng cái hàm work đây
+[29:30] work đây các bạn sẽ ấn mũi tên xuống này Quốc đây
+[29:32] các bạn sẽ ấn mũi tên xuống này Quốc đây chấm thì in ntn đây các bạn ấn tag nhé
+[29:34] chấm thì in ntn đây các bạn ấn tag nhé đấy thì đầu tiên cái status là gì ạ
+[29:37] đấy thì đầu tiên cái status là gì ạ chính là cái ngành này Đấy phẩy tiếp
+[29:40] chính là cái ngành này Đấy phẩy tiếp theo là số ngày mà các bạn cần tăng thêm
+[29:42] theo là số ngày mà các bạn cần tăng thêm đúng không số này cần tăng thêm là đây
+[29:44] đúng không số này cần tăng thêm là đây là mình yêu cầu là tăng thêm 10 năm ngày
+[29:46] là mình yêu cầu là tăng thêm 10 năm ngày đúng không phẩy cái tùy chọn tiếp theo
+[29:48] đúng không phẩy cái tùy chọn tiếp theo là gì ạ là cái Quick can tức là nghỉ vào
+[29:51] là gì ạ là cái Quick can tức là nghỉ vào ngày nào đúng không Các bạn thấy chưa ở
+[29:52] ngày nào đúng không Các bạn thấy chưa ở đây nó có tất cả là gì 17 cái tùy chọn
+[29:54] đây nó có tất cả là gì 17 cái tùy chọn thì mặc định cái số 1 là gì ạ là cái thứ
+[29:58] thì mặc định cái số 1 là gì ạ là cái thứ 7 và chủ nhật là ngày cuối tuần thì nếu
+[30:00] 7 và chủ nhật là ngày cuối tuần thì nếu như mà Thứ Bảy Chủ nhật mà ngày cuối
+[30:01] như mà Thứ Bảy Chủ nhật mà ngày cuối tuần ấy thì các bạn sẽ tích vào số 1
+[30:03] tuần ấy thì các bạn sẽ tích vào số 1 nhưng có một những công ty thì nó lại là
+[30:05] nhưng có một những công ty thì nó lại là gì ạ chủ nhật và thứ hai đấy có những
+[30:07] gì ạ chủ nhật và thứ hai đấy có những công ty là thứ hai thứ ba thì tùy các
+[30:09] công ty là thứ hai thứ ba thì tùy các bạn nhé Có những cái công ty thì nó lại
+[30:11] bạn nhé Có những cái công ty thì nó lại chỉ nghỉ một ngày thôi Ví dụ ở đây là
+[30:13] chỉ nghỉ một ngày thôi Ví dụ ở đây là sunday Tức là chỉ nghỉ cái ngày chủ nhật
+[30:15] sunday Tức là chỉ nghỉ cái ngày chủ nhật thôi chỉ nghỉ ngày thứ hai đấy Cứ như
+[30:17] thôi chỉ nghỉ ngày thứ hai đấy Cứ như vậy nhé ví dụ mình chọn ở đây là gì ạ
+[30:19] vậy nhé ví dụ mình chọn ở đây là gì ạ thông thường là sẽ nghỉ thứ bảy chủ nhật
+[30:21] thông thường là sẽ nghỉ thứ bảy chủ nhật thì các bạn sẽ tích vào số 1 ở đây các
+[30:23] thì các bạn sẽ tích vào số 1 ở đây các bạn tích đúp vào đây Đấy thì nó sẽ là ra
+[30:25] bạn tích đúp vào đây Đấy thì nó sẽ là ra là tùy chọn thứ bảy chủ nhật là ngày
+[30:27] là tùy chọn thứ bảy chủ nhật là ngày cuối tuần phải cái tùy chọn tiếp theo là
+[30:29] cuối tuần phải cái tùy chọn tiếp theo là gì Là cái Holiday Tức là cái Holiday là
+[30:32] gì Là cái Holiday Tức là cái Holiday là ngày nghỉ đúng không nó sẽ trừ đi cho
+[30:34] ngày nghỉ đúng không nó sẽ trừ đi cho các bạn cả ngày nghỉ nữa thì ví dụ các
+[30:36] các bạn cả ngày nghỉ nữa thì ví dụ các cái ngày nghỉ mình sẽ liệt kê ở cái vùng
+[30:38] cái ngày nghỉ mình sẽ liệt kê ở cái vùng dữ liệu ở đây đấy ví dụ ngày tết dương
+[30:40] dữ liệu ở đây đấy ví dụ ngày tết dương lịch này ngày mùng 2 tháng 9 thì các bạn
+[30:42] lịch này ngày mùng 2 tháng 9 thì các bạn sẽ Bôi đen toàn bộ cái vùng này nghỉ ở
+[30:44] sẽ Bôi đen toàn bộ cái vùng này nghỉ ở đây các bạn sẽ đóng ngoặc đơn lại các
+[30:46] đây các bạn sẽ đóng ngoặc đơn lại các bạn enter thì ở đây Các bạn chú ý nhé Nó
+[30:48] bạn enter thì ở đây Các bạn chú ý nhé Nó sẽ ra gì ạ Nó sẽ ra cái dạng số về mình
+[30:51] sẽ ra gì ạ Nó sẽ ra cái dạng số về mình sẽ chuyển về cái dạng date này đấy thì
+[30:55] sẽ chuyển về cái dạng date này đấy thì cái 15 ngày làm việc tính từ ngày 28
+[30:57] cái 15 ngày làm việc tính từ ngày 28 tháng 10 nó sẽ đến tất cả là nó sẽ đến
+[30:59] tháng 10 nó sẽ đến tất cả là nó sẽ đến tới cái ngày là 18 tháng 11 tích đúp vào
+[31:02] tới cái ngày là 18 tháng 11 tích đúp vào đây tiếp theo là gì ạ Mình sẽ tính cái
+[31:05] đây tiếp theo là gì ạ Mình sẽ tính cái thứ hai gần nhất nhé
+[31:06] thứ hai gần nhất nhé các bạn hiểu tức là ví dụ ở đây đây
+[31:09] các bạn hiểu tức là ví dụ ở đây đây không phải là thứ hai đúng không Đây là
+[31:10] không phải là thứ hai đúng không Đây là When đây When đây là Thứ Tư đúng không
+[31:12] When đây When đây là Thứ Tư đúng không các bạn sẽ tích vào đây
+[31:15] các bạn sẽ tích vào đây là thứ tư thì cái ngày thứ hai gần nhất
+[31:18] là thứ tư thì cái ngày thứ hai gần nhất thì các bạn phải lùi lại 2 ngày đấy các
+[31:20] thì các bạn phải lùi lại 2 ngày đấy các bạn phải hiểu là như vậy nhé Thì bây giờ
+[31:21] bạn phải hiểu là như vậy nhé Thì bây giờ mình sẽ tính thứ hai gần nhất của cái
+[31:23] mình sẽ tính thứ hai gần nhất của cái mốc thời gian ở đây các bạn sẽ bằng gì
+[31:25] mốc thời gian ở đây các bạn sẽ bằng gì Các bạn sẽ lấy cái ô thời gian ở đây này
+[31:26] Các bạn sẽ lấy cái ô thời gian ở đây này các bạn trừ đi gì ạ Trừ đi cái hàm
+[31:28] các bạn trừ đi gì ạ Trừ đi cái hàm weekday
+[31:36] của cái thời gian ở đây này phẩy cái kiểu trả về nha các bạn sẽ chọn cái số 3
+[31:38] kiểu trả về nha các bạn sẽ chọn cái số 3 này tức là gì ạ Monday thì là không đúng
+[31:41] này tức là gì ạ Monday thì là không đúng không Đấy thứ hai thì mình sẽ chuyển về
+[31:43] không Đấy thứ hai thì mình sẽ chuyển về không Và cuối cùng Chủ Nhật thì sẽ là 6
+[31:45] không Và cuối cùng Chủ Nhật thì sẽ là 6 đấy các bạn sẽ chọn cái tùy chọn thứ ba
+[31:47] đấy các bạn sẽ chọn cái tùy chọn thứ ba này các bạn sẽ đóng ngoặc đơn lại các
+[31:49] này các bạn sẽ đóng ngoặc đơn lại các bạn enter thì nó sẽ ra là ngày 26 tháng
+[31:51] bạn enter thì nó sẽ ra là ngày 26 tháng 10 bây giờ mình sẽ kiểm tra nhé đây các
+[31:54] 10 bây giờ mình sẽ kiểm tra nhé đây các bạn sẽ tích vào đây này đây ví dụ đang
+[31:57] bạn sẽ tích vào đây này đây ví dụ đang là tháng 10 rồi đúng không đấy các bạn
+[31:58] là tháng 10 rồi đúng không đấy các bạn thấy chưa Này 26 tháng 10 là thứ hai này
+[32:00] thấy chưa Này 26 tháng 10 là thứ hai này các bạn thấy chưa đấy Cái ngày mình nhập
+[32:02] các bạn thấy chưa đấy Cái ngày mình nhập vào đây là 28 tháng 10 thì nó hỏi là cái
+[32:05] vào đây là 28 tháng 10 thì nó hỏi là cái thứ hai gần nhất thì chính là cái ngày
+[32:07] thứ hai gần nhất thì chính là cái ngày 26 ở đây đấy ví dụ là ngày 24 tháng 09
+[32:09] 26 ở đây đấy ví dụ là ngày 24 tháng 09 nhá các bạn sẽ là 24 tháng 9 này đây 24
+[32:13] nhá các bạn sẽ là 24 tháng 9 này đây 24 tháng 9 là vào cái là vào cái thứ năm
+[32:16] tháng 9 là vào cái là vào cái thứ năm này thì cái thứ hai gần nhất nó sẽ vào
+[32:18] này thì cái thứ hai gần nhất nó sẽ vào ngày 21 tháng 9 này đây Các bạn thấy
+[32:20] ngày 21 tháng 9 này đây Các bạn thấy chưa Bây giờ mình sẽ tích đuốc vào đây
+[32:22] chưa Bây giờ mình sẽ tích đuốc vào đây kiểm tra này đấy các bạn thấy chưa nó sẽ
+[32:24] kiểm tra này đấy các bạn thấy chưa nó sẽ ra là 21 tháng 9 rất là hay
+[32:27] ra là 21 tháng 9 rất là hay tiếp theo mình sẽ sang cái ví dụ thứ hai
+[32:29] tiếp theo mình sẽ sang cái ví dụ thứ hai thì trong ví dụ thứ hai mình có cái ngày
+[32:31] thì trong ví dụ thứ hai mình có cái ngày bắt đầu làm việc và cái ngày kết thúc
+[32:33] bắt đầu làm việc và cái ngày kết thúc làm việc thì các bạn chú ý nha ở đây
+[32:35] làm việc thì các bạn chú ý nha ở đây mình lại thiếu cái phần này kết thúc rồi
+[32:36] mình lại thiếu cái phần này kết thúc rồi Ví dụ mình nhập cái hàm Today đi các bạn
+[32:38] Ví dụ mình nhập cái hàm Today đi các bạn sẽ bằng cái Today các bạn ấn tag nhé các
+[32:41] sẽ bằng cái Today các bạn ấn tag nhé các bạn sẽ đóng ngoặc đơn lại thì các bạn
+[32:42] bạn sẽ đóng ngoặc đơn lại thì các bạn chú ý Mình sẽ gửi cái file lại cho các
+[32:44] chú ý Mình sẽ gửi cái file lại cho các bạn thì trong cái phần này kết thúc mình
+[32:46] bạn thì trong cái phần này kết thúc mình sẽ cập nhật Cái ngày cụ thể thì ở đây
+[32:48] sẽ cập nhật Cái ngày cụ thể thì ở đây mình sẽ làm mẫu là ví dụ là ngành kết
+[32:50] mình sẽ làm mẫu là ví dụ là ngành kết thúc là ngày hôm nay đi Thì cái ngày hôm
+[32:52] thúc là ngày hôm nay đi Thì cái ngày hôm nay mình đang ghi cái video này là ngày
+[32:53] nay mình đang ghi cái video này là ngày 26 tháng 10 Đúng không các bạn nháy
+[32:55] 26 tháng 10 Đúng không các bạn nháy chuột phải mình sẽ copy
+[32:58] chuột phải mình sẽ copy kéo dài Các bạn chọn Pasteur mình sẽ
+[33:00] kéo dài Các bạn chọn Pasteur mình sẽ chuyển nó về value nhé các bạn bấm ok
+[33:02] chuyển nó về value nhé các bạn bấm ok thì như vậy Ở đây đây đã ra cái ngày 26
+[33:04] thì như vậy Ở đây đây đã ra cái ngày 26 tháng 10 rồi nhé Thì bây giờ mình cần
+[33:07] tháng 10 rồi nhé Thì bây giờ mình cần tính cái tổng số ngày làm việc của cái
+[33:09] tính cái tổng số ngày làm việc của cái bạn này đúng không đấy thì bạn sẽ bằng
+[33:11] bạn này đúng không đấy thì bạn sẽ bằng các bạn sẽ lấy cái ngày kết thúc này các
+[33:13] các bạn sẽ lấy cái ngày kết thúc này các bạn trừ đi gì ạ Trừ đi ngày bắt đầu thôi
+[33:15] bạn trừ đi gì ạ Trừ đi ngày bắt đầu thôi đấy còn enter thì như vậy là tổng thời
+[33:17] đấy còn enter thì như vậy là tổng thời gian làm việc của bạn này là gì 729 ngày
+[33:20] gian làm việc của bạn này là gì 729 ngày bạn tích đúp vào đây đấy thì ở đây lại
+[33:22] bạn tích đúp vào đây đấy thì ở đây lại ra âm đúng không Bởi Ví dụ mình sẽ làm
+[33:24] ra âm đúng không Bởi Ví dụ mình sẽ làm gì ngày 27 tháng đây ví dụ là năm 2010
+[33:27] gì ngày 27 tháng đây ví dụ là năm 2010 thôi nhé các bạn enter đấy làm 3.000
+[33:30] thôi nhé các bạn enter đấy làm 3.000 ngày cơ đấy thì như vậy mình đã có tổng
+[33:33] ngày cơ đấy thì như vậy mình đã có tổng số ngày làm việc rồi nhé tiếp theo là gì
+[33:35] số ngày làm việc rồi nhé tiếp theo là gì ạ Mình sẽ xuống ngay làm việc thì các
+[33:37] ạ Mình sẽ xuống ngay làm việc thì các bạn chú nhé Cái tổng số ngày khác với số
+[33:38] bạn chú nhé Cái tổng số ngày khác với số ngày làm việc tổng số ngày là gì ạ Mình
+[33:41] ngày làm việc tổng số ngày là gì ạ Mình tính cả cái ngày nghỉ và ngày cuối tuần
+[33:43] tính cả cái ngày nghỉ và ngày cuối tuần đúng không đấy Ở đây mình sẽ dùng cái
+[33:45] đúng không đấy Ở đây mình sẽ dùng cái hàm đây giống như trên mình sẽ dùng cái
+[33:46] hàm đây giống như trên mình sẽ dùng cái hàm netword đây này các bạn sẽ bằng này
+[33:48] hàm netword đây này các bạn sẽ bằng này các bạn ấn mũi tên xuống và các bạn ấn
+[33:51] các bạn ấn mũi tên xuống và các bạn ấn Tab nhé thì kết hợp Network đây là gì
+[33:53] Tab nhé thì kết hợp Network đây là gì cái status là đây là ngày bắt đầu phẩy
+[33:56] cái status là đây là ngày bắt đầu phẩy em biết là ngày kết thúc phẩy cái
+[33:59] em biết là ngày kết thúc phẩy cái Holiday thì ví dụ ở đây toàn bộ là ngày
+[34:01] Holiday thì ví dụ ở đây toàn bộ là ngày Holiday của mình đúng không nó sẽ trừ đi
+[34:03] Holiday của mình đúng không nó sẽ trừ đi Cái ngày hôm nay các bạn đóng ngoặc lại
+[34:04] Cái ngày hôm nay các bạn đóng ngoặc lại thì các bạn chú ý nhé cái hàm nét box
+[34:06] thì các bạn chú ý nhé cái hàm nét box đây thì nó mặc định là thứ bảy chủ nhật
+[34:08] đây thì nó mặc định là thứ bảy chủ nhật là ngày nghỉ nhé các bạn enter đấy thì
+[34:11] là ngày nghỉ nhé các bạn enter đấy thì như vậy Ở đây là gì ạ Xuống này làm việc
+[34:12] như vậy Ở đây là gì ạ Xuống này làm việc của bạn này là 513 ngày thôi rất là
+[34:15] của bạn này là 513 ngày thôi rất là nhiều ngày nghỉ đúng không các bạn thích
+[34:16] nhiều ngày nghỉ đúng không các bạn thích đút vào đây Đấy tiếp theo là gì mình sẽ
+[34:19] đút vào đây Đấy tiếp theo là gì mình sẽ tính cái số 5 cộng với số tháng làm việc
+[34:21] tính cái số 5 cộng với số tháng làm việc đúng không các bạn sẽ bằng này các bạn
+[34:24] đúng không các bạn sẽ bằng này các bạn sẽ dùng cái hàm date cho mình nhé các
+[34:26] sẽ dùng cái hàm date cho mình nhé các bạn chú ý nhé cái hàm DX thì nó sẽ không
+[34:28] bạn chú ý nhé cái hàm DX thì nó sẽ không có gợi nhắc đâu thì các bạn sẽ gõ đúng
+[34:29] có gợi nhắc đâu thì các bạn sẽ gõ đúng cái chữ date vào đây này thêm chữ d nữa
+[34:31] cái chữ date vào đây này thêm chữ d nữa sau đó các bạn gõ ít các bạn sẽ mở ngoặc
+[34:33] sau đó các bạn gõ ít các bạn sẽ mở ngoặc đơn ra đấy cái thành phần của cái hàm
+[34:36] đơn ra đấy cái thành phần của cái hàm Dead này là gì ạ Các bạn sẽ tích vào cái
+[34:38] Dead này là gì ạ Các bạn sẽ tích vào cái ngày bắt đầu là b14 ở đây phẩy cái ngày
+[34:40] ngày bắt đầu là b14 ở đây phẩy cái ngày kết thúc ở đây đấy các bạn phẩy này các
+[34:43] kết thúc ở đây đấy các bạn phẩy này các bạn trả về số 5 Đúng không các bạn sẽ mở
+[34:45] bạn trả về số 5 Đúng không các bạn sẽ mở ngoặc kép các bạn sẽ gõ chữ y là sẽ trả
+[34:47] ngoặc kép các bạn sẽ gõ chữ y là sẽ trả về số 5 các bạn đóng ngoặc kép lại các
+[34:48] về số 5 các bạn đóng ngoặc kép lại các bạn đóng ngoặc đơn lại thì như vậy cái
+[34:50] bạn đóng ngoặc đơn lại thì như vậy cái hàm date này nó sẽ trả về số 5 bây giờ
+[34:52] hàm date này nó sẽ trả về số 5 bây giờ các bạn cứ enter đi đấy thì nó sẽ trả về
+[34:54] các bạn cứ enter đi đấy thì nó sẽ trả về là một năm đúng không Từ ngày 28 tháng
+[34:56] là một năm đúng không Từ ngày 28 tháng 10 và đến ngày 26 tháng 10 Ví dụ ở đây
+[34:58] 10 và đến ngày 26 tháng 10 Ví dụ ở đây mà không phải là 28 mà là gì 26 hoặc 25
+[35:01] mà không phải là 28 mà là gì 26 hoặc 25 đi 26 đi Các bạn thấy chưa thì lúc này
+[35:03] đi 26 đi Các bạn thấy chưa thì lúc này nó sẽ trả về số 2 Đấy mình sẽ ấn lưu lại
+[35:05] nó sẽ trả về số 2 Đấy mình sẽ ấn lưu lại thì như vậy Ở đây nó mới chỉ là hơn 1
+[35:08] thì như vậy Ở đây nó mới chỉ là hơn 1 năm và chưa đến đủ 2 năm thì các bạn
+[35:10] năm và chưa đến đủ 2 năm thì các bạn phải thêm cái số tháng nữa đúng không
+[35:11] phải thêm cái số tháng nữa đúng không các bạn tích đúp vào đây đấy các bạn
+[35:13] các bạn tích đúp vào đây đấy các bạn cộng vẫn là cộng với date
+[35:20] này các bạn mở ngoặc thì đầu tiên là cái ngày bắt đầu này phẩy đến cái ngày kết
+[35:22] ngày bắt đầu này phẩy đến cái ngày kết thúc này Đấy phẩy cái tùy chọn thứ ba là
+[35:25] thúc này Đấy phẩy cái tùy chọn thứ ba là gì Các bạn mở ngoặc kép ra các bạn ghi
+[35:27] gì Các bạn mở ngoặc kép ra các bạn ghi chữ ym đấy nó sẽ lấy cái số tháng còn
+[35:29] chữ ym đấy nó sẽ lấy cái số tháng còn lại sau khi trừ số 5 Đúng không các bạn
+[35:31] lại sau khi trừ số 5 Đúng không các bạn sẽ đóng ngoặc kép lại đóng ngoặc đơn lại
+[35:32] sẽ đóng ngoặc kép lại đóng ngoặc đơn lại đấy Cái im đây này chính là nó sẽ lấy số
+[35:35] đấy Cái im đây này chính là nó sẽ lấy số tháng mà dư ra để các bạn enter ở đây ở
+[35:39] tháng mà dư ra để các bạn enter ở đây ở đây không phải là cộng nha các bạn tích
+[35:40] đây không phải là cộng nha các bạn tích đúp vào đây mình đây đang làm lối chuỗi
+[35:42] đúp vào đây mình đây đang làm lối chuỗi đúng không các bạn và này và đây là số
+[35:44] đúng không các bạn và này và đây là số tháng đúng không Thì ở đây mình tất cả
+[35:45] tháng đúng không Thì ở đây mình tất cả là gì ạ và các bạn mở ngoặc ra là các
+[35:48] là gì ạ và các bạn mở ngoặc ra là các bạn thêm cái chữ 5 vào đây nhé cách ra
+[35:50] bạn thêm cái chữ 5 vào đây nhé cách ra mình sẽ ghi chữ 5 các bạn đóng ngoặc kép
+[35:53] mình sẽ ghi chữ 5 các bạn đóng ngoặc kép lại các bạn cách ra các bạn vào với cả
+[35:55] lại các bạn cách ra các bạn vào với cả gì và với Deep ở đây cuối cùng chọn vào
+[35:58] gì và với Deep ở đây cuối cùng chọn vào cái gì Và với cả mở ngoặc kép các bạn
+[35:59] cái gì Và với cả mở ngoặc kép các bạn thêm cái chữ tháng vào đây đấy các bạn
+[36:02] thêm cái chữ tháng vào đây đấy các bạn đóng ngoặc kép lại có enter đấy các bạn
+[36:04] đóng ngoặc kép lại có enter đấy các bạn thấy chưa Như vậy bạn này là làm gì ạ 1
+[36:06] thấy chưa Như vậy bạn này là làm gì ạ 1 năm và 11 tháng gọi tích đúp vào đây đấy
+[36:08] năm và 11 tháng gọi tích đúp vào đây đấy các bạn thấy chưa Như vậy bạn này là gì
+[36:10] các bạn thấy chưa Như vậy bạn này là gì 0 5 1 tháng Đây là tháng 9 và đây là
+[36:12] 0 5 1 tháng Đây là tháng 9 và đây là tháng 10 mà lại khá là hay ạ
+[36:15] tháng 10 mà lại khá là hay ạ Tiếp theo là cái ví dụ thứ ba nhé Thì ở
+[36:18] Tiếp theo là cái ví dụ thứ ba nhé Thì ở đây mình có ngày sinh bây giờ mình tính
+[36:20] đây mình có ngày sinh bây giờ mình tính số tuổi đúng không thì các bạn sẽ dùng
+[36:22] số tuổi đúng không thì các bạn sẽ dùng cái hàm dateep này này các bạn sẽ bằng
+[36:24] cái hàm dateep này này các bạn sẽ bằng này
+[36:26] này đấy
+[36:27] đấy thì có cái ngày sinh ở đây phẩy cái ngày
+[36:30] thì có cái ngày sinh ở đây phẩy cái ngày kết thúc thì các bạn sẽ dùng cái hàm
+[36:32] kết thúc thì các bạn sẽ dùng cái hàm Today đúng không to đây là trả về cái
+[36:34] Today đúng không to đây là trả về cái ngày hôm nay thì các bạn chú ý nha cái
+[36:36] ngày hôm nay thì các bạn chú ý nha cái hàm Today nó phụ thuộc vào cái ngày mà
+[36:38] hàm Today nó phụ thuộc vào cái ngày mà các bạn thực hành lấy ví dụ hôm nay mình
+[36:40] các bạn thực hành lấy ví dụ hôm nay mình thực hành là ngày 26 tháng 10 năm 2020
+[36:42] thực hành là ngày 26 tháng 10 năm 2020 thì nếu như các bạn thực hành vào năm
+[36:44] thì nếu như các bạn thực hành vào năm 2021 chẳng hạn thì nó sẽ tính là của năm
+[36:46] 2021 chẳng hạn thì nó sẽ tính là của năm 2021 đấy thì nó phụ thuộc vào cái ngày
+[36:49] 2021 đấy thì nó phụ thuộc vào cái ngày thực hành cho nên là cái kết quả của các
+[36:51] thực hành cho nên là cái kết quả của các bạn có thể nó khác với kết quả của mình
+[36:52] bạn có thể nó khác với kết quả của mình đấy nhé đấy các bạn phẩy nhá các bạn sẽ
+[36:55] đấy nhé đấy các bạn phẩy nhá các bạn sẽ thêm cái tùy chọn là gì ạ Các bạn mở
+[36:56] thêm cái tùy chọn là gì ạ Các bạn mở ngoặc kép ra các bạn các bạn đóng ngoặc
+[36:59] ngoặc kép ra các bạn các bạn đóng ngoặc kép lại các bạn đóng ngoặc đơn lại đấy
+[37:00] kép lại các bạn đóng ngoặc đơn lại đấy thì như vậy bạn này là số tuổi là 26
+[37:02] thì như vậy bạn này là số tuổi là 26 tuổi đúng không Từ năm 94 đến 5 gì đến
+[37:05] tuổi đúng không Từ năm 94 đến 5 gì đến năm nay là 2020 thì đúng là 26 tuổi ở
+[37:07] năm nay là 2020 thì đúng là 26 tuổi ở đây là tháng 7 trong khi mình là tháng
+[37:09] đây là tháng 7 trong khi mình là tháng 10 thì đúng quá 26 tuổi luôn 26 tuổi 3
+[37:12] 10 thì đúng quá 26 tuổi luôn 26 tuổi 3 tháng đấy các bạn thích đút vào đây Đấy
+[37:14] tháng đấy các bạn thích đút vào đây Đấy thì mình sẽ tính được số tuổi đúng không
+[37:16] thì mình sẽ tính được số tuổi đúng không Bây giờ để tính số tháng nhé thì các bạn
+[37:18] Bây giờ để tính số tháng nhé thì các bạn bằng này đến ít
+[37:24] các bạn sẽ mở ngoặc đơn ra các bạn tích vào cái ngày sinh phẩy Today thì nó
+[37:27] vào cái ngày sinh phẩy Today thì nó giống hệt với cả số tuổi thôi các bạn ấn
+[37:28] giống hệt với cả số tuổi thôi các bạn ấn Tab này các bạn đóng ngoặc đơn lại để
+[37:30] Tab này các bạn đóng ngoặc đơn lại để xong cái hàm Today phẩy nó khác với cái
+[37:33] xong cái hàm Today phẩy nó khác với cái phần số tuổi là ở cái phần tùy chọn thôi
+[37:34] phần số tuổi là ở cái phần tùy chọn thôi các bạn mở ngoặc kép ra nếu như mà các
+[37:37] các bạn mở ngoặc kép ra nếu như mà các bạn gõ chữ i m thì nó sẽ tính cái số
+[37:38] bạn gõ chữ i m thì nó sẽ tính cái số tháng dư còn lại đúng không Lúc đấy là
+[37:40] tháng dư còn lại đúng không Lúc đấy là mình im bây giờ các bạn sẽ xóa đi các
+[37:42] mình im bây giờ các bạn sẽ xóa đi các bạn sẽ thay bằng cái m thôi là số tháng
+[37:45] bạn sẽ thay bằng cái m thôi là số tháng thôi Đấy mà thường hay là mở hoa đều
+[37:47] thôi Đấy mà thường hay là mở hoa đều được nhé các bạn đóng ngoặc kép lại đóng
+[37:49] được nhé các bạn đóng ngoặc kép lại đóng ngoặc đơn lại đấy thì như vậy tất cả là
+[37:51] ngoặc đơn lại đấy thì như vậy tất cả là 315 tháng đấy
+[37:52] 315 tháng đấy Bây giờ các bạn tích đúp vào đây ví dụ
+[37:55] Bây giờ các bạn tích đúp vào đây ví dụ mình đổi cái m thường hình mở hoa nhé
+[37:56] mình đổi cái m thường hình mở hoa nhé Thì Kết quả nó như vậy nó không khác gì
+[37:58] Thì Kết quả nó như vậy nó không khác gì cả nhé
+[38:00] cả nhé cái số này cũng tương tự như vậy mình sẽ
+[38:02] cái số này cũng tương tự như vậy mình sẽ dùng cái hàm date và mình sẽ thay cái
+[38:04] dùng cái hàm date và mình sẽ thay cái tùy chọn là thay cái m bằng cái chữ đ
+[38:06] tùy chọn là thay cái m bằng cái chữ đ thôi nhé là ngày đấy các bạn sẽ bằng
+[38:09] thôi nhé là ngày đấy các bạn sẽ bằng đấy các bạn mở ngoặc đơn ra status là
+[38:13] đấy các bạn mở ngoặc đơn ra status là đây phải andreak là cái hàm Today các
+[38:15] đây phải andreak là cái hàm Today các bạn ấn Tab nhé các bạn đóng ngoặc đơn
+[38:16] bạn ấn Tab nhé các bạn đóng ngoặc đơn này để xong hàm Today phẩy cái tùy chọn
+[38:18] này để xong hàm Today phẩy cái tùy chọn là gì ạ Các bạn mở ngoặc kép ra các bạn
+[38:20] là gì ạ Các bạn mở ngoặc kép ra các bạn gõ chữ đ này đóng ngoặc kép lại đóng
+[38:22] gõ chữ đ này đóng ngoặc kép lại đóng ngoặc đơn lại đấy như vậy là bạn này là
+[38:24] ngoặc đơn lại đấy như vậy là bạn này là 9611 ngày đấy
+[38:27] 9611 ngày đấy thì như vậy mình đã giới thiệu Xong cho
+[38:30] thì như vậy mình đã giới thiệu Xong cho các bạn một số hàm về hàm thời gian nhé
+[38:32] các bạn một số hàm về hàm thời gian nhé qua các ví dụ cụ thể luôn để các bạn
+[38:34] qua các ví dụ cụ thể luôn để các bạn hiểu và các bạn áp dụng vào công việc
+[38:36] hiểu và các bạn áp dụng vào công việc của mình nhé Cuối cùng mình sẽ giới
+[38:38] của mình nhé Cuối cùng mình sẽ giới thiệu với các bạn về cái hàm index và
+[38:40] thiệu với các bạn về cái hàm index và Mass cái hàm index of khá là hay đấy ạ
+[38:43] Mass cái hàm index of khá là hay đấy ạ Đấy cái hàm index vào mét nó sẽ khắc
+[38:46] Đấy cái hàm index vào mét nó sẽ khắc phục được cái nhược điểm của cái hàm
+[38:47] phục được cái nhược điểm của cái hàm Vlookup thì tại sao nó lại khắc phục
+[38:50] Vlookup thì tại sao nó lại khắc phục nhược điểm được ở đây mình sẽ làm cho
+[38:51] nhược điểm được ở đây mình sẽ làm cho các bạn dễ hiểu nhé Thì ở đây giả sử
+[38:54] các bạn dễ hiểu nhé Thì ở đây giả sử Mình có họ tên bây giờ mình cần tìm điện
+[38:57] Mình có họ tên bây giờ mình cần tìm điện thoại đúng không thì mình sẽ dùng cái
+[38:58] thoại đúng không thì mình sẽ dùng cái hàm Vlookup này các bạn sẽ bằng Vlog cấp
+[39:00] hàm Vlookup này các bạn sẽ bằng Vlog cấp các bạn ấn Tab nhé thì thành phần đầu
+[39:03] các bạn ấn Tab nhé thì thành phần đầu tiên của Vlog cấp chính là tên bạn
+[39:04] tiên của Vlog cấp chính là tên bạn Nguyễn Văn Ba này đúng không ạ phẩy
+[39:06] Nguyễn Văn Ba này đúng không ạ phẩy thành phần thứ hai là bảng giá trị dò vì
+[39:09] thành phần thứ hai là bảng giá trị dò vì ở đây mình đang cần tìm họ tên đúng
+[39:10] ở đây mình đang cần tìm họ tên đúng không Thì cái bảng giá trị giờ thì những
+[39:12] không Thì cái bảng giá trị giờ thì những ở cái bài 7 hôm trước mình đã nói rồi
+[39:14] ở cái bài 7 hôm trước mình đã nói rồi thì các bạn phải bôi đen từ cái phần họ
+[39:15] thì các bạn phải bôi đen từ cái phần họ tên các bạn không được Bôi đen từ cái
+[39:17] tên các bạn không được Bôi đen từ cái phần thành phố nhé đấy bởi vì mình đang
+[39:20] phần thành phố nhé đấy bởi vì mình đang tìm là tìm cái phần họ tên đâm ra cái
+[39:22] tìm là tìm cái phần họ tên đâm ra cái cột đầu tiên của cái vùng dữ liệu mà các
+[39:25] cột đầu tiên của cái vùng dữ liệu mà các bạn chọn ấy Trong cái phần bảng giá trị
+[39:26] bạn chọn ấy Trong cái phần bảng giá trị dò tìm thì nó phải chứa cái cột họ tên ở
+[39:29] dò tìm thì nó phải chứa cái cột họ tên ở đây cho nên cái vùng mà các bạn tìm kiếm
+[39:31] đây cho nên cái vùng mà các bạn tìm kiếm ở đây nó phải từ cái phần họ tên ở đây
+[39:33] ở đây nó phải từ cái phần họ tên ở đây này Đấy phẩy thành phần thứ ba là cột
+[39:35] này Đấy phẩy thành phần thứ ba là cột trả về đúng không Mình sẽ tính từ cái
+[39:37] trả về đúng không Mình sẽ tính từ cái cột họ tên này 1 2 như vậy điện thoại ở
+[39:39] cột họ tên này 1 2 như vậy điện thoại ở cột số 2 các bạn phải không Mình tìm
+[39:42] cột số 2 các bạn phải không Mình tìm chính xác các bạn sẽ đóng ngoặc lại
+[39:44] chính xác các bạn sẽ đóng ngoặc lại enter đấy thì nó sẽ ra được điện thoại
+[39:45] enter đấy thì nó sẽ ra được điện thoại bây giờ ví dụ mình cần tìm thành phố nhé
+[39:47] bây giờ ví dụ mình cần tìm thành phố nhé thì các bạn sẽ gõ thành phố ở đây Các
+[39:51] thì các bạn sẽ gõ thành phố ở đây Các bạn chú ý mình sẽ gõ đúng cái thành phố
+[39:52] bạn chú ý mình sẽ gõ đúng cái thành phố ở đây này các bạn enter Nếu như các bạn
+[39:55] ở đây này các bạn enter Nếu như các bạn tìm thành phố các bạn sẽ không dùng được
+[39:56] tìm thành phố các bạn sẽ không dùng được Vlog Cup tại vì với thành phố nó lại nằm
+[39:59] Vlog Cup tại vì với thành phố nó lại nằm ở bên trái cái họ tên đấy Thì như ở bài
+[40:01] ở bên trái cái họ tên đấy Thì như ở bài trước mình đã giải thích rồi Các bạn
+[40:03] trước mình đã giải thích rồi Các bạn muốn tìm cái dữ liệu gì thì nó phải nằm
+[40:05] muốn tìm cái dữ liệu gì thì nó phải nằm ở bên phải của cái giá trị dò tìm Nếu
+[40:07] ở bên phải của cái giá trị dò tìm Nếu như mình đang tìm theo họ tên thì các
+[40:09] như mình đang tìm theo họ tên thì các cái thành phần Mình cần tìm kiếm nó phải
+[40:11] cái thành phần Mình cần tìm kiếm nó phải làm ở bên phải họ tên nhưng mà nếu như
+[40:13] làm ở bên phải họ tên nhưng mà nếu như mà ở cái thành phố mình cần tìm kiếm Nó
+[40:15] mà ở cái thành phố mình cần tìm kiếm Nó lại nằm ở bên trái họ tên thì mình sẽ
+[40:17] lại nằm ở bên trái họ tên thì mình sẽ không dùng được cái hàm Vlookup cho nên
+[40:19] không dùng được cái hàm Vlookup cho nên mình phải dùng cái hàm index of
+[40:22] mình phải dùng cái hàm index of nó sẽ ưu việt hơn cái hàm Vlookup thì
+[40:25] nó sẽ ưu việt hơn cái hàm Vlookup thì ngoài tìm kiếm ở bên phải thì nó cũng
+[40:27] ngoài tìm kiếm ở bên phải thì nó cũng tìm kiếm được bên trái cho các bạn đấy
+[40:29] tìm kiếm được bên trái cho các bạn đấy thì hôm nay mình sẽ giới thiệu cho các
+[40:30] thì hôm nay mình sẽ giới thiệu cho các bạn cách dùng Index bằng mét nhé Thì cái
+[40:33] bạn cách dùng Index bằng mét nhé Thì cái hàm index đây cú pháp của nó đây và mess
+[40:36] hàm index đây cú pháp của nó đây và mess cú pháp của nó ở đây đấy thì cái hàm
+[40:38] cú pháp của nó ở đây đấy thì cái hàm index nó sẽ có ba cái thành phần urray
+[40:40] index nó sẽ có ba cái thành phần urray và cái râu và cái color tức là Ơ đây là
+[40:43] và cái râu và cái color tức là Ơ đây là cái vùng các bạn chọn và các bạn chọn ở
+[40:45] cái vùng các bạn chọn và các bạn chọn ở cái hàng nào Cột nào còn cái mép thì cục
+[40:47] cái hàng nào Cột nào còn cái mép thì cục là gì Cái mét thì nó sẽ có kiểu giá trị
+[40:50] là gì Cái mét thì nó sẽ có kiểu giá trị Tìm kiếm vùng Tìm kiếm và kiểu trả về nó
+[40:52] Tìm kiếm vùng Tìm kiếm và kiểu trả về nó cũng khá là giống với virus khớp đấy thì
+[40:54] cũng khá là giống với virus khớp đấy thì ở đây mình sẽ làm luôn cho các bạn dễ
+[40:56] ở đây mình sẽ làm luôn cho các bạn dễ hiểu nhé đầu tiên mình sẽ hoàn cảnh cái
+[40:58] hiểu nhé đầu tiên mình sẽ hoàn cảnh cái hàm index này thì ví dụ mà mình cần tìm
+[41:01] hàm index này thì ví dụ mà mình cần tìm Thành phố của bạn Nguyễn Văn Ba đúng
+[41:03] Thành phố của bạn Nguyễn Văn Ba đúng không Mình sẽ bằng này Index này các bạn
+[41:05] không Mình sẽ bằng này Index này các bạn ấn Tab nhé Thì nếu như mà cần tìm cái
+[41:08] ấn Tab nhé Thì nếu như mà cần tìm cái phần thành phố thì đầu tiên các bạn sẽ
+[41:09] phần thành phố thì đầu tiên các bạn sẽ Bôi đen toàn bộ cái vùng dữ liệu đúng
+[41:11] Bôi đen toàn bộ cái vùng dữ liệu đúng không đấy mình chưa biết cần tìm cái gì
+[41:13] không đấy mình chưa biết cần tìm cái gì cả Mình cứ Bôi đen toàn bộ cái vùng dữ
+[41:14] cả Mình cứ Bôi đen toàn bộ cái vùng dữ liệu ở đây phẩy Tiếp theo là cái râu Tức
+[41:17] liệu ở đây phẩy Tiếp theo là cái râu Tức là ở cái hàng thứ mấy trong cái vùng dữ
+[41:19] là ở cái hàng thứ mấy trong cái vùng dữ liệu này thì bây giờ mình sẽ kiểm tra
+[41:21] liệu này thì bây giờ mình sẽ kiểm tra bạn Nguyễn Văn Ban ở hàng thứ mấy Nguyễn
+[41:23] bạn Nguyễn Văn Ban ở hàng thứ mấy Nguyễn Văn Ba là hàng thứ hai đúng không hàng
+[41:24] Văn Ba là hàng thứ hai đúng không hàng thứ nhất là cái hàng tiêu đề hàng thứ
+[41:27] thứ nhất là cái hàng tiêu đề hàng thứ hai là cái hàng mà chứa các bạn Nguyễn
+[41:29] hai là cái hàng mà chứa các bạn Nguyễn Văn Ban này đấy thì các bạn phải hai ở
+[41:31] Văn Ban này đấy thì các bạn phải hai ở đây đấy phẩy Tiếp theo là cái cột mà các
+[41:35] đây đấy phẩy Tiếp theo là cái cột mà các bạn trả về đúng không vì ở đây mình Bôi
+[41:37] bạn trả về đúng không vì ở đây mình Bôi đen Cái vùng dữ liệu từ thành phố đúng
+[41:38] đen Cái vùng dữ liệu từ thành phố đúng không Thì cái cột trả về sẽ là cột số 1
+[41:41] không Thì cái cột trả về sẽ là cột số 1 luôn đấy là cột thành phố các bạn đóng
+[41:43] luôn đấy là cột thành phố các bạn đóng ngoặc đơn lại các bạn enter Các bạn thấy
+[41:45] ngoặc đơn lại các bạn enter Các bạn thấy chưa Nguyễn Văn Ban ở Hà Nội luôn đấy
+[41:48] chưa Nguyễn Văn Ban ở Hà Nội luôn đấy Đây là cách mà mình dùng Index nhé Nhưng
+[41:50] Đây là cách mà mình dùng Index nhé Nhưng mà nếu như mình thay Nguyễn Văn Ban này
+[41:52] mà nếu như mình thay Nguyễn Văn Ban này thì cái hàm index này nó lại không tự
+[41:54] thì cái hàm index này nó lại không tự tay tại vì cái 2 với 1 ở đây mình đã cố
+[41:57] tay tại vì cái 2 với 1 ở đây mình đã cố định đúng không cho nên mình phải thay
+[41:59] định đúng không cho nên mình phải thay đổi hai một phụ thuộc vào tên ở đây đây
+[42:02] đổi hai một phụ thuộc vào tên ở đây đây ví dụ nếu như mà không phải Nguyễn Văn
+[42:03] ví dụ nếu như mà không phải Nguyễn Văn Ban mà là Nguyễn Duy Dương chẳng hạn thế
+[42:05] Ban mà là Nguyễn Duy Dương chẳng hạn thế nhá đấy các bạn Bôi đen Nguyễn Duy Dương
+[42:06] nhá đấy các bạn Bôi đen Nguyễn Duy Dương này các bạn nháy chuột phải copy các bạn
+[42:09] này các bạn nháy chuột phải copy các bạn tích vào đây Các bạn nhớ chuột phải các
+[42:10] tích vào đây Các bạn nhớ chuột phải các bạn page nhá Đấy thì các bạn thấy chưa
+[42:12] bạn page nhá Đấy thì các bạn thấy chưa cái thành phố nó vẫn là Hà Nội trong khi
+[42:14] cái thành phố nó vẫn là Hà Nội trong khi bạn Nguyễn Duy Dương Thực ra phải là Hồ
+[42:16] bạn Nguyễn Duy Dương Thực ra phải là Hồ Chí Minh Bây giờ các bạn tích đuốc vào
+[42:17] Chí Minh Bây giờ các bạn tích đuốc vào đây thì các bạn Nguyễn Duy Dương ấy thì
+[42:19] đây thì các bạn Nguyễn Duy Dương ấy thì cái hàng trả về nó lại phải là hàng số 3
+[42:22] cái hàng trả về nó lại phải là hàng số 3 cơ đấy Nguyễn Duy Dương đang ở hàng số 3
+[42:24] cơ đấy Nguyễn Duy Dương đang ở hàng số 3 tính từ cái phần tiêu đề họ tên ở đây
+[42:25] tính từ cái phần tiêu đề họ tên ở đây này đấy các bạn enter thì như vậy Ở đây
+[42:28] này đấy các bạn enter thì như vậy Ở đây mình phải thay cái số 3 này bằng một cái
+[42:30] mình phải thay cái số 3 này bằng một cái hàm nó có thể thay đổi theo họ tên được
+[42:33] hàm nó có thể thay đổi theo họ tên được đúng không Đấy tức là mình sẽ dùng cái
+[42:35] đúng không Đấy tức là mình sẽ dùng cái hàm mét Nó sẽ thay đổi được thì ngoài ra
+[42:37] hàm mét Nó sẽ thay đổi được thì ngoài ra Ví dụ không phải là thành phố Nha mà
+[42:39] Ví dụ không phải là thành phố Nha mà mình cần tìm điện thoại bây giờ các bạn
+[42:41] mình cần tìm điện thoại bây giờ các bạn nhớ chuột phải các bạn copy cả cái điện
+[42:42] nhớ chuột phải các bạn copy cả cái điện thoại mình sẽ cop sang đây nhé mình sẽ
+[42:44] thoại mình sẽ cop sang đây nhé mình sẽ làm các bạn tích vào đây các bạn ctrl V
+[42:45] làm các bạn tích vào đây các bạn ctrl V nhé Thì mình sẽ làm cái phần điện thoại
+[42:47] nhé Thì mình sẽ làm cái phần điện thoại ở đây Nếu như mà điện thoại các bạn sẽ
+[42:49] ở đây Nếu như mà điện thoại các bạn sẽ phải bằng Index này các bạn ấn Tab nhé
+[42:51] phải bằng Index này các bạn ấn Tab nhé đầu tiên các bạn Bôi đen toàn bộ cái
+[42:52] đầu tiên các bạn Bôi đen toàn bộ cái vùng dữ liệu đúng không Đấy phẩy cái
+[42:55] vùng dữ liệu đúng không Đấy phẩy cái hàng trả về của bạn Nguyễn Duy Dương này
+[42:56] hàng trả về của bạn Nguyễn Duy Dương này là hàng thứ ba đúng đúng không điện
+[42:59] là hàng thứ ba đúng đúng không điện thoại ở cái cột thứ mấy trong cái vùng
+[43:01] thoại ở cái cột thứ mấy trong cái vùng dữ liệu này thì điện thoại là cột thứ 3
+[43:02] dữ liệu này thì điện thoại là cột thứ 3 1 2 3 đấy các bạn đóng ngoặc lại các bạn
+[43:05] 1 2 3 đấy các bạn đóng ngoặc lại các bạn enter đấy các bạn thấy chưa Như vậy Ở
+[43:07] enter đấy các bạn thấy chưa Như vậy Ở đây mình có thành phố và điện thoại
+[43:09] đây mình có thành phố và điện thoại nhưng mà cái thành phố và điện thoại nó
+[43:10] nhưng mà cái thành phố và điện thoại nó sẽ không tự thay đổi bây giờ mình cần
+[43:13] sẽ không tự thay đổi bây giờ mình cần thay đổi hai cái thông số cuối cùng là
+[43:14] thay đổi hai cái thông số cuối cùng là hàng và cột đúng không đấy thì để làm
+[43:16] hàng và cột đúng không đấy thì để làm việc này mình phải dùng cái hàng mét bây
+[43:18] việc này mình phải dùng cái hàng mét bây giờ mình sẽ giới thiệu qua về hàng mét
+[43:20] giờ mình sẽ giới thiệu qua về hàng mét nhé đấy các bạn sẽ bằng này mét các bạn
+[43:23] nhé đấy các bạn sẽ bằng này mét các bạn ấn Tab nhé bây Giả sử mình tìm bạn
+[43:25] ấn Tab nhé bây Giả sử mình tìm bạn Nguyễn Duy Dương này đúng không đấy thì
+[43:27] Nguyễn Duy Dương này đúng không đấy thì cái giá trị tìm kiếm là Nguyễn Duy Dương
+[43:28] cái giá trị tìm kiếm là Nguyễn Duy Dương phẩy mình tìm ở đâu Mình tìm ở cái phần
+[43:31] phẩy mình tìm ở đâu Mình tìm ở cái phần họ tên đây này Đấy phẩy ở đây là gì
+[43:36] họ tên đây này Đấy phẩy ở đây là gì không các bạn sẽ đóng ngoặc lại các bạn
+[43:38] không các bạn sẽ đóng ngoặc lại các bạn enter ở đây Các bạn thấy chưa Nguyễn Duy
+[43:40] enter ở đây Các bạn thấy chưa Nguyễn Duy Dương nó sẽ nằm ở cái hàng thứ ba trong
+[43:42] Dương nó sẽ nằm ở cái hàng thứ ba trong cái vùng dữ liệu ở đây họ tên là một
+[43:44] cái vùng dữ liệu ở đây họ tên là một Nguyễn Văn Ban là hai Nguyễn Duy Dương
+[43:45] Nguyễn Văn Ban là hai Nguyễn Duy Dương là 3 bây giờ mình sẽ thay Nguyễn Duy
+[43:46] là 3 bây giờ mình sẽ thay Nguyễn Duy Dương bằng bằng cái Võ Quốc Việt nha các
+[43:48] Dương bằng bằng cái Võ Quốc Việt nha các bạn nháy chuột phải copy các bạn nhảy
+[43:50] bạn nháy chuột phải copy các bạn nhảy các bạn tích vào đây Các bạn nhớ chuột
+[43:52] các bạn tích vào đây Các bạn nhớ chuột phải chọn paste nhé đấy các bạn thấy
+[43:53] phải chọn paste nhé đấy các bạn thấy chưa Như vậy cái hàng mét này nó lại trả
+[43:55] chưa Như vậy cái hàng mét này nó lại trả về số 5 ngay lập tức
+[44:59] này đấy các bạn chú ý cho mình là như vậy nhé Còn nếu như cái vùng dữ liệu mà
+[45:00] vậy nhé Còn nếu như cái vùng dữ liệu mà các bạn Bôi đen ở đây mà các bạn không
+[45:02] các bạn Bôi đen ở đây mà các bạn không có cái phần tiêu đề thì lát nữa cái hàng
+[45:04] có cái phần tiêu đề thì lát nữa cái hàng mét các bạn cũng không cần phải bôi đen
+[45:06] mét các bạn cũng không cần phải bôi đen cái phần tiêu đề tức là các bạn bỏ cái ô
+[45:07] cái phần tiêu đề tức là các bạn bỏ cái ô họ tên này đi đấy Thông thường thì mình
+[45:10] họ tên này đi đấy Thông thường thì mình sẽ Bôi đen cả cái tiêu đề đi Tức là mình
+[45:12] sẽ Bôi đen cả cái tiêu đề đi Tức là mình sẽ Bôi đen toàn bộ cái vùng dữ liệu của
+[45:13] sẽ Bôi đen toàn bộ cái vùng dữ liệu của mình cho nó chắc nhé Đấy phẩy Tiếp theo
+[45:16] mình cho nó chắc nhé Đấy phẩy Tiếp theo là cái râu ở đây thì mình sẽ phải dùng
+[45:18] là cái râu ở đây thì mình sẽ phải dùng cái hàng mét đúng không các bạn sẽ bằng
+[45:20] cái hàng mét đúng không các bạn sẽ bằng cái hàm mét các bạn ấn Tab thì mét là
+[45:23] cái hàm mét các bạn ấn Tab thì mét là rượu Mình cần tìm cái bạn Hoàng Quốc Bảo
+[45:24] rượu Mình cần tìm cái bạn Hoàng Quốc Bảo này đúng không phẩy trong gì trong cái
+[45:28] này đúng không phẩy trong gì trong cái vùng dữ liệu của họ tên ở đây
+[45:30] vùng dữ liệu của họ tên ở đây đấy các bạn phải mình sẽ tìm kiếm chính
+[45:33] đấy các bạn phải mình sẽ tìm kiếm chính xác thì các bạn sẽ điền không ở đây cái
+[45:35] xác thì các bạn sẽ điền không ở đây cái hàm mét thì hầu như mình tìm kiếm là tìm
+[45:37] hàm mét thì hầu như mình tìm kiếm là tìm kiếm chính xác hết nhá cho nên cái giá
+[45:39] kiếm chính xác hết nhá cho nên cái giá trị cuối cùng của hàm mét là hầu như là
+[45:41] trị cuối cùng của hàm mét là hầu như là mình đều bằng không hết nhé Nó giống như
+[45:43] mình đều bằng không hết nhé Nó giống như hàng Vlog cup ấy hầu như là mình tìm
+[45:45] hàng Vlog cup ấy hầu như là mình tìm kiếm chính xác
+[45:47] kiếm chính xác phẩy nhá Tiếp theo là cái cột trả về các
+[45:50] phẩy nhá Tiếp theo là cái cột trả về các bạn chú ý nha cái cột trả về đây nó lại
+[45:52] bạn chú ý nha cái cột trả về đây nó lại thay đổi đúng không Lát nữa mình sẽ sửa
+[45:54] thay đổi đúng không Lát nữa mình sẽ sửa điện thoại bây giờ ví dụ mình muốn là gì
+[45:56] điện thoại bây giờ ví dụ mình muốn là gì ạ Nếu như mà ở đây là điện thoại thì nó
+[45:59] ạ Nếu như mà ở đây là điện thoại thì nó sẽ trả về điện thoại nhưng mà nếu nó là
+[46:01] sẽ trả về điện thoại nhưng mà nếu nó là ngày tuyển dụng thì nó phải trả về ngày
+[46:02] ngày tuyển dụng thì nó phải trả về ngày tuyển dụng đấy ý là như vậy ạ Cho nên
+[46:05] tuyển dụng đấy ý là như vậy ạ Cho nên nhớ nếu như ở đây mà các bạn cố định ví
+[46:07] nhớ nếu như ở đây mà các bạn cố định ví dụ cái cột điện thoại là cột số 3 đi Ví
+[46:09] dụ cái cột điện thoại là cột số 3 đi Ví dụ Các bạn cứ Điền 3 vào đây đi các bạn
+[46:11] dụ Các bạn cứ Điền 3 vào đây đi các bạn sẽ đóng ngoặc đơn này các bạn enter thì
+[46:13] sẽ đóng ngoặc đơn này các bạn enter thì nó đúng là trả về cái điện thoại của bạn
+[46:14] nó đúng là trả về cái điện thoại của bạn Hoàng Quốc Bảo này bây giờ ví dụ bạn
+[46:16] Hoàng Quốc Bảo này bây giờ ví dụ bạn nháy chuột phải các bạn copy bạn Nguyễn
+[46:18] nháy chuột phải các bạn copy bạn Nguyễn Văn Ban Nha các bạn kích vào đây các bạn
+[46:19] Văn Ban Nha các bạn kích vào đây các bạn nhấn chuột phải bạn paste vào đây Đấy
+[46:21] nhấn chuột phải bạn paste vào đây Đấy thì nó cũng thay đổi nó trả về đúng điện
+[46:22] thì nó cũng thay đổi nó trả về đúng điện thoại của bạn Nguyễn Văn Ban Nhưng mà
+[46:24] thoại của bạn Nguyễn Văn Ban Nhưng mà nếu như cái điện thoại này các bạn copy
+[46:26] nếu như cái điện thoại này các bạn copy cái ngày tuyển dụng nhé các bạn copy các
+[46:28] cái ngày tuyển dụng nhé các bạn copy các bạn Vứt vào đây các bạn thay cái điện
+[46:30] bạn Vứt vào đây các bạn thay cái điện thoại bằng gạch tuyển dụng đấy thì ở đây
+[46:32] thoại bằng gạch tuyển dụng đấy thì ở đây nó sẽ không đúng nữa đấy thì như vậy
+[46:34] nó sẽ không đúng nữa đấy thì như vậy mình sẽ hướng dẫn các bạn là dùng cái
+[46:35] mình sẽ hướng dẫn các bạn là dùng cái Index Để mình tìm được gì ạ khi mà tên
+[46:39] Index Để mình tìm được gì ạ khi mà tên thay đổi và khi cái tiêu đề mà thay đổi
+[46:41] thay đổi và khi cái tiêu đề mà thay đổi Tức là cái hạng mục mà các bạn thay đổi
+[46:43] Tức là cái hạng mục mà các bạn thay đổi thì cái kết quả nó thay đổi theo đúng
+[46:45] thì cái kết quả nó thay đổi theo đúng không các bạn tích đúp vào đây Thì như
+[46:47] không các bạn tích đúp vào đây Thì như vậy cái số 3 này mình cũng dùng cái hàm
+[46:49] vậy cái số 3 này mình cũng dùng cái hàm mét luôn các bạn xóa cái số 3 này đi các
+[46:51] mét luôn các bạn xóa cái số 3 này đi các bạn sẽ dùng cái hàm meth đấy các bạn sẽ
+[46:54] bạn sẽ dùng cái hàm meth đấy các bạn sẽ ấn giữ ấn Tab thì cái giá trị mà các bạn
+[46:56] ấn giữ ấn Tab thì cái giá trị mà các bạn tìm kiếm lúc cái này là gì ạ là tìm kiếm
+[46:58] tìm kiếm lúc cái này là gì ạ là tìm kiếm theo cái tiêu đề ở đây thì các bạn sẽ
+[47:00] theo cái tiêu đề ở đây thì các bạn sẽ tích vào cái c13 này thì lát nữa nếu như
+[47:03] tích vào cái c13 này thì lát nữa nếu như mà ngày tuyển dụng mà mình thay bằng
+[47:04] mà ngày tuyển dụng mà mình thay bằng điện thoại hay là lương ấy thì cái kết
+[47:06] điện thoại hay là lương ấy thì cái kết quả nó cũng tự thay đổi đúng không Đấy
+[47:07] quả nó cũng tự thay đổi đúng không Đấy mình đang tìm kiếm theo Cái ô c13 này
+[47:09] mình đang tìm kiếm theo Cái ô c13 này Đấy phẩy trong cái vùng gì đấy các bạn
+[47:12] Đấy phẩy trong cái vùng gì đấy các bạn lại Bôi đen Cái vùng tiêu đề này cho
+[47:13] lại Bôi đen Cái vùng tiêu đề này cho mình đấy thì với cái hàm mét này thì các
+[47:16] mình đấy thì với cái hàm mét này thì các bạn sẽ Bôi đen cái phần tiêu đề nhá đấy
+[47:18] bạn sẽ Bôi đen cái phần tiêu đề nhá đấy các bạn phải không đấy các bạn sẽ đóng
+[47:21] các bạn phải không đấy các bạn sẽ đóng ngoặc đơn lại để xong cái hàm mét này
+[47:22] ngoặc đơn lại để xong cái hàm mét này thì cái ngoặc đơn Lúc nãy ở đây là của
+[47:25] thì cái ngoặc đơn Lúc nãy ở đây là của cái hàm index này các bạn enter đấy các
+[47:27] cái hàm index này các bạn enter đấy các bạn thấy chưa Như vậy ngày tuyển dụng
+[47:28] bạn thấy chưa Như vậy ngày tuyển dụng này Bây giờ nó đang định dạng là dạng số
+[47:30] này Bây giờ nó đang định dạng là dạng số đúng không các bạn sẽ tích vào đây mình
+[47:32] đúng không các bạn sẽ tích vào đây mình sẽ đổi về cái dạng Soft hết này đấy Cái
+[47:35] sẽ đổi về cái dạng Soft hết này đấy Cái ngày tuyển dụng là ngày 11 tháng 11 năm
+[47:37] ngày tuyển dụng là ngày 11 tháng 11 năm 2005 đây bạn Nguyễn Văn Ban này Bây giờ
+[47:39] 2005 đây bạn Nguyễn Văn Ban này Bây giờ mình sẽ thay bằng bạn gì ạ Bạn Hoàng
+[47:42] mình sẽ thay bằng bạn gì ạ Bạn Hoàng Quốc Bảo đi Các bạn nhớ chuột phải copy
+[47:43] Quốc Bảo đi Các bạn nhớ chuột phải copy Các bạn nhớ chuột phải vào đây các bạn
+[47:45] Các bạn nhớ chuột phải vào đây các bạn paste vào đây đấy các bạn thấy chưa cả
+[47:47] paste vào đây đấy các bạn thấy chưa cả ngày tuyển dụng và thành phố đều thay
+[47:48] ngày tuyển dụng và thành phố đều thay đổi theo lại rất là hay bây giờ ví dụ
+[47:50] đổi theo lại rất là hay bây giờ ví dụ mình không phải là ngày tuyển dụng nữa
+[47:51] mình không phải là ngày tuyển dụng nữa mà gì là lương đi hoặc là thành phố đi
+[47:57] mà gì là lương đi hoặc là thành phố đi đây các bạn nháy chuột phải các bạn copy
+[48:00] đây các bạn nháy chuột phải các bạn copy cái thành phố các bạn Vứt vào đây
+[48:02] cái thành phố các bạn Vứt vào đây để thành phố lúc này đúng là Đà Nẵng
+[48:05] để thành phố lúc này đúng là Đà Nẵng luôn Hoặc là lương đi
+[48:11] hoặc là các bạn nhớ bên phải của bạn copy luôn các bạn nháy chuột phải vào
+[48:13] copy luôn các bạn nháy chuột phải vào đây các bạn paste vào đây chứ lương nó
+[48:15] đây các bạn paste vào đây chứ lương nó thay đổi nó lại chuyển về ở đây nó đang
+[48:17] thay đổi nó lại chuyển về ở đây nó đang ngày tháng đúng không các bạn chuyển về
+[48:18] ngày tháng đúng không các bạn chuyển về nó là đồ đây lương của bạn Hoàng Quốc
+[48:21] nó là đồ đây lương của bạn Hoàng Quốc Bảo là gì ạ Hoàng Quốc Bảo đây là 38.066
+[48:25] Bảo là gì ạ Hoàng Quốc Bảo đây là 38.066 đấy Bạn thấy không rất là hay
+[48:27] đấy Bạn thấy không rất là hay Thì đấy là cách để mình sử dụng Index
+[48:29] Thì đấy là cách để mình sử dụng Index của mét nhé Bây giờ mình sẽ xóa đi Mình
+[48:31] của mét nhé Bây giờ mình sẽ xóa đi Mình làm lại từ đầu cho các bạn dễ hiểu này
+[48:33] làm lại từ đầu cho các bạn dễ hiểu này thì lúc nãy mình cứ thay và sửa rất là
+[48:35] thì lúc nãy mình cứ thay và sửa rất là nhiều Đúng không Mình sẽ xóa cái bây giờ
+[48:37] nhiều Đúng không Mình sẽ xóa cái bây giờ ví dụ mình tìm điện thoại vào thành phố
+[48:38] ví dụ mình tìm điện thoại vào thành phố nhé Đây thành phố thì ở bên trái cái
+[48:41] nhé Đây thành phố thì ở bên trái cái phần họ tên đúng không còn điện thoại
+[48:43] phần họ tên đúng không còn điện thoại thì ở bên phải đúng không các bạn nháy
+[48:44] thì ở bên phải đúng không các bạn nháy chuột phải vào thành phố copy Các bạn
+[48:46] chuột phải vào thành phố copy Các bạn nhớ chuột phải vào đây bạn paste vào đây
+[48:47] nhớ chuột phải vào đây bạn paste vào đây điện thoại các bạn nhớ chuột phải copy
+[48:50] điện thoại các bạn nhớ chuột phải copy Các bạn nhớ chuột phải chọn paste vào
+[48:51] Các bạn nhớ chuột phải chọn paste vào đây Đấy mình sẽ xóa cái này đi nhé Bây
+[48:55] đây Đấy mình sẽ xóa cái này đi nhé Bây giờ mình sẽ dùng công thức để mình kéo
+[48:56] giờ mình sẽ dùng công thức để mình kéo sang đây đều được này các bạn sẽ bằng
+[48:58] sang đây đều được này các bạn sẽ bằng này Đầu tiên là Index Đúng không các bạn
+[49:00] này Đầu tiên là Index Đúng không các bạn ấn Tab này thì thành phần đầu tiên của
+[49:02] ấn Tab này thì thành phần đầu tiên của Index chính là cái vùng dữ liệu các bạn
+[49:03] Index chính là cái vùng dữ liệu các bạn Bôi đen toàn bộ cái vùng dữ liệu ở đây
+[49:05] Bôi đen toàn bộ cái vùng dữ liệu ở đây đấy các bạn sẽ ấn F4 để cố định nhé Thì
+[49:08] đấy các bạn sẽ ấn F4 để cố định nhé Thì tại sao trường hợp này lại ấn F4 tại vì
+[49:10] tại sao trường hợp này lại ấn F4 tại vì mình sẽ kéo cái công thức này cho cái
+[49:12] mình sẽ kéo cái công thức này cho cái phần điện thoại cho nên tất cả các vùng
+[49:14] phần điện thoại cho nên tất cả các vùng tham chiếu khi mà các bạn muốn áp dụng
+[49:16] tham chiếu khi mà các bạn muốn áp dụng công thức cho các ô khác ấy thì thông
+[49:18] công thức cho các ô khác ấy thì thông thường các cái vùng tham chiếu thì các
+[49:19] thường các cái vùng tham chiếu thì các bạn phải cố định nó hết nhé đấy thì ở
+[49:22] bạn phải cố định nó hết nhé đấy thì ở đây mình cố định tại vì mình áp dụng cái
+[49:24] đây mình cố định tại vì mình áp dụng cái công thức này cho cái phần điện thoại
+[49:25] công thức này cho cái phần điện thoại cho nên mình phải cố định thì lúc nãy
+[49:27] cho nên mình phải cố định thì lúc nãy mình thực hành mình không cố định là vì
+[49:29] mình thực hành mình không cố định là vì mình làm cho mỗi cái ô đấy thôi thì khi
+[49:31] mình làm cho mỗi cái ô đấy thôi thì khi mà áp dụng cho các ô khác thì các bạn
+[49:33] mà áp dụng cho các ô khác thì các bạn nhớ là cố định cho mình nhé phẩy tiếp
+[49:36] nhớ là cố định cho mình nhé phẩy tiếp theo là gì ạ Cái râu là cái hàng trả về
+[49:38] theo là gì ạ Cái râu là cái hàng trả về đúng không các bạn sẽ dùng cái hàm mét
+[49:40] đúng không các bạn sẽ dùng cái hàm mét mét của gì của cái họ tên ở đây thì các
+[49:44] mét của gì của cái họ tên ở đây thì các bạn chú ý nhá Cái bạn Hoàng Quốc Bảo này
+[49:46] bạn chú ý nhá Cái bạn Hoàng Quốc Bảo này này mình áp dụng công thức cho cái bên
+[49:48] này mình áp dụng công thức cho cái bên này cho nên mình cũng phải cố định cái
+[49:49] này cho nên mình cũng phải cố định cái bạn Hoàng Quốc Bảo thì các bạn phải ấn
+[49:50] bạn Hoàng Quốc Bảo thì các bạn phải ấn F4 để cố định này Đấy phải mình tìm ở
+[49:54] F4 để cố định này Đấy phải mình tìm ở đâu Mình tìm trong cái phần họ tên ở đây
+[49:56] đâu Mình tìm trong cái phần họ tên ở đây riêng phần hàng nhé thì các bạn lại phải
+[49:58] riêng phần hàng nhé thì các bạn lại phải bôi đen ở cái phần họ tên ở đây là từ C3
+[50:02] bôi đen ở cái phần họ tên ở đây là từ C3 đến C8 thì cái này các bạn cũng ấn F4 để
+[50:05] đến C8 thì cái này các bạn cũng ấn F4 để cố định đi Đấy phẩy không là mình tìm
+[50:07] cố định đi Đấy phẩy không là mình tìm chính xác nhé các bạn đóng ngoặc đơn lại
+[50:09] chính xác nhé các bạn đóng ngoặc đơn lại để sang hàng mét đấy phẩy Tiếp theo là
+[50:11] để sang hàng mét đấy phẩy Tiếp theo là cái cột trả về thì các bạn chú ý ở đây
+[50:13] cái cột trả về thì các bạn chú ý ở đây thành phố phải là cột 1 còn lát nữa điện
+[50:16] thành phố phải là cột 1 còn lát nữa điện thoại thì phải là cột số 3 đúng không
+[50:17] thoại thì phải là cột số 3 đúng không Thì ở đây mình cũng phải dùng cái hàm
+[50:19] Thì ở đây mình cũng phải dùng cái hàm mét các bạn ấn Tab nhé mét của cái tiêu
+[50:22] mét các bạn ấn Tab nhé mét của cái tiêu đề ở đây đấy là cái oxy 13 này thì cái
+[50:25] đề ở đây đấy là cái oxy 13 này thì cái oxi 13 này các bạn không được cố định
+[50:27] oxi 13 này các bạn không được cố định tại vì sao khi Lát nữa mình sẽ áp dụng
+[50:29] tại vì sao khi Lát nữa mình sẽ áp dụng công thức cho cái cột bên này cho cái
+[50:31] công thức cho cái cột bên này cho cái phần điện thoại thì nó phải nhảy sang
+[50:33] phần điện thoại thì nó phải nhảy sang cái cột d này cho nên cái c13 các bạn
+[50:35] cái cột d này cho nên cái c13 các bạn không được cố định nhé đấy các bạn phẩy
+[50:38] không được cố định nhé đấy các bạn phẩy nhá các bạn làm nhiều thì các bạn sẽ
+[50:40] nhá các bạn làm nhiều thì các bạn sẽ hiểu là khi nào mình cần cố định và khi
+[50:42] hiểu là khi nào mình cần cố định và khi nào không cố định mình sẽ Bôi đen toàn
+[50:43] nào không cố định mình sẽ Bôi đen toàn bộ cái vùng dữ liệu ở đây
+[50:45] bộ cái vùng dữ liệu ở đây các bạn phải ấn F4 để cố định cái vùng
+[50:47] các bạn phải ấn F4 để cố định cái vùng dữ liệu này thì tại vì cái vùng dữ liệu
+[50:49] dữ liệu này thì tại vì cái vùng dữ liệu này nó luôn luôn cố định mà
+[50:51] này nó luôn luôn cố định mà phải không Mình tìm chính xác các bạn sẽ
+[50:54] phải không Mình tìm chính xác các bạn sẽ đóng ngoặc đơn này để sang hàng mét các
+[50:55] đóng ngoặc đơn này để sang hàng mét các bạn sẽ đóng ngoặc đơn lại để sang làm
+[50:56] bạn sẽ đóng ngoặc đơn lại để sang làm biết Bây giờ mình sẽ enter đấy Bạn thấy
+[50:58] biết Bây giờ mình sẽ enter đấy Bạn thấy chưa Bạn Hoàng Quốc Bảo thành phố ở Đà
+[51:00] chưa Bạn Hoàng Quốc Bảo thành phố ở Đà Nẵng bây giờ các bạn sẽ kéo công thức
+[51:01] Nẵng bây giờ các bạn sẽ kéo công thức này sang đây đấy các bạn thấy chưa điện
+[51:03] này sang đây đấy các bạn thấy chưa điện thoại của bạn Hoàng Quốc Bảo đây này Nó
+[51:05] thoại của bạn Hoàng Quốc Bảo đây này Nó có bảo đây đấy chính xác rồi nhá bây giờ
+[51:08] có bảo đây đấy chính xác rồi nhá bây giờ ví dụ mình thay bạn Hoàng Quốc Bảo bằng
+[51:09] ví dụ mình thay bạn Hoàng Quốc Bảo bằng gì ạ Bạn Hoàng bảo chị đi Các bạn nhớ
+[51:11] gì ạ Bạn Hoàng bảo chị đi Các bạn nhớ chuột phải copy hoặc bảo chị các bạn
+[51:14] chuột phải copy hoặc bảo chị các bạn nháy chuột phải vào đây các bạn page đấy
+[51:16] nháy chuột phải vào đây các bạn page đấy Bạn thấy chưa cả thành phố và số điện
+[51:17] Bạn thấy chưa cả thành phố và số điện thoại đã thay đổi theo đấy mình dùng
+[51:19] thoại đã thay đổi theo đấy mình dùng Index vào Messenger không rất là hay cái
+[51:22] Index vào Messenger không rất là hay cái hàm index vào mét này nó sẽ khắc phục
+[51:23] hàm index vào mét này nó sẽ khắc phục được cái nhược điểm của hàm Vlookup là
+[51:25] được cái nhược điểm của hàm Vlookup là không tìm được ở bên trái nhé Thì ngoài
+[51:27] không tìm được ở bên trái nhé Thì ngoài ra khi bạn chèn thêm một hàng hay một
+[51:29] ra khi bạn chèn thêm một hàng hay một cột nó đều không thay đổi ví dụ ở đây
+[51:31] cột nó đều không thay đổi ví dụ ở đây nhé các bạn nháy chuột phải các bạn
+[51:32] nhé các bạn nháy chuột phải các bạn Insert một cái hàng nữa đi Các bạn thấy
+[51:34] Insert một cái hàng nữa đi Các bạn thấy chưa cái kết quả thành phố và điện thoại
+[51:36] chưa cái kết quả thành phố và điện thoại nó đều không thay đổi trong khi cái hàm
+[51:38] nó đều không thay đổi trong khi cái hàm Vlookup mà cái cột trả về các bạn cố
+[51:40] Vlookup mà cái cột trả về các bạn cố định thì nó sẽ bị sai luôn đấy Đấy cũng
+[51:43] định thì nó sẽ bị sai luôn đấy Đấy cũng là một cái ưu điểm của cái Index vàng
+[51:45] là một cái ưu điểm của cái Index vàng mét nữa Bây giờ mình sẽ Bách lại
+[51:51] Ok Bây giờ mình sẽ xem cái câu hỏi về nhà cho cái bài tập ngày hôm nay nhé
+[51:58] các bạn tích vào cái phần câu hỏi này đấy thì ok Đây là cái bài tập về nhà nhé
+[52:02] đấy thì ok Đây là cái bài tập về nhà nhé Ở đây nó có rất là nhiều sheet đầu tiên
+[52:04] Ở đây nó có rất là nhiều sheet đầu tiên là cái ứng dụng của cái hàm Today để các
+[52:07] là cái ứng dụng của cái hàm Today để các bạn sẽ tính gì ạ Tính ngày hôm nay số
+[52:08] bạn sẽ tính gì ạ Tính ngày hôm nay số tháng và số 5 dựa vào cái ngày vào làm ở
+[52:11] tháng và số 5 dựa vào cái ngày vào làm ở đây
+[52:11] đây tiếp theo là cái hàm Sum Ví dụ mình có
+[52:14] tiếp theo là cái hàm Sum Ví dụ mình có doanh số rồi tính tổng như thế nào hàm
+[52:16] doanh số rồi tính tổng như thế nào hàm đây là hàm tính trung bình nhé Đây là
+[52:18] đây là hàm tính trung bình nhé Đây là hàm đếm này hàm If hàm O và Vlog cấp đấy
+[52:22] hàm đếm này hàm If hàm O và Vlog cấp đấy thì đây là bài tập về nhà cho các bạn
+[52:23] thì đây là bài tập về nhà cho các bạn nhé Thì ở đây riêng cái hàm If này thì
+[52:25] nhé Thì ở đây riêng cái hàm If này thì bạn chú ý cho mình nhé cái mục tiêu ở
+[52:27] bạn chú ý cho mình nhé cái mục tiêu ở đây là gì ạ mục tiêu ở đây là cái ô này
+[52:29] đây là gì ạ mục tiêu ở đây là cái ô này đấy thì nếu như mà Bạn nào đạt kế hoạch
+[52:31] đấy thì nếu như mà Bạn nào đạt kế hoạch tức là nó lớn hơn mục tiêu thì các bạn
+[52:33] tức là nó lớn hơn mục tiêu thì các bạn sẽ ghi Đạt Còn nếu như mà không thì các
+[52:35] sẽ ghi Đạt Còn nếu như mà không thì các bạn sẽ ghi là không đạt nhé đấy Cái ô
+[52:37] bạn sẽ ghi là không đạt nhé đấy Cái ô này nó sẽ thay đổi nhá Nếu như mà là 60
+[52:39] này nó sẽ thay đổi nhá Nếu như mà là 60 thì các bạn Kết quả nó cũng phải thay
+[52:41] thì các bạn Kết quả nó cũng phải thay đổi theo tức là nó sẽ thay đổi theo cái
+[52:44] đổi theo tức là nó sẽ thay đổi theo cái giá trị mà các bạn Nhập vào đây đấy là
+[52:46] giá trị mà các bạn Nhập vào đây đấy là cái hàm If nhé Bài về Nếu các bạn là như
+[52:49] cái hàm If nhé Bài về Nếu các bạn là như vậy
+[52:49] vậy các bạn chú ý nhé mình sẽ để cái phần
+[52:52] các bạn chú ý nhé mình sẽ để cái phần link tải file thực hành của cái bài tập
+[52:54] link tải file thực hành của cái bài tập ngày hôm nay cùng với cả câu hỏi trong
+[52:56] ngày hôm nay cùng với cả câu hỏi trong cái phần mô tả phía dưới video nếu như
+[52:58] cái phần mô tả phía dưới video nếu như bạn nào mà không biết cách tải về thì
+[53:00] bạn nào mà không biết cách tải về thì các bạn sẽ xem lại cái bài đầu tiên
+[53:02] các bạn sẽ xem lại cái bài đầu tiên trong bài đấy mình đã hướng dẫn các bạn
+[53:03] trong bài đấy mình đã hướng dẫn các bạn chi tiết là cách các bạn tải về rồi ạ
+[53:06] chi tiết là cách các bạn tải về rồi ạ Đấy
+[53:08] Đấy Ok như vậy là mình đã kết thúc bài học
+[53:10] Ok như vậy là mình đã kết thúc bài học ngày hôm nay ở đây cảm ơn các bạn đã
+[53:12] ngày hôm nay ở đây cảm ơn các bạn đã theo dõi các bạn nhớ đăng ký Kênh để cập
+[53:15] theo dõi các bạn nhớ đăng ký Kênh để cập nhật video mới nhất của gà cũng như chia
+[53:17] nhật video mới nhất của gà cũng như chia sẻ để giúp mọi người cùng học Excel nhé
+[53:19] sẻ để giúp mọi người cùng học Excel nhé Xin chào và hẹn gặp lại
+[53:22] Xin chào và hẹn gặp lại [âm nhạc]

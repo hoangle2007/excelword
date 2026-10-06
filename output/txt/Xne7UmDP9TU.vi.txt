@@ -1,0 +1,547 @@
+[00:01] Xin cảm ơn các bạn đến với khóa học excel miễn phí từ cơ bản đến nâng cao
+[00:03] excel miễn phí từ cơ bản đến nâng cao dành cho người mới bắt đầu được thực
+[00:06] dành cho người mới bắt đầu được thực hiện trên kênh YouTube gái Excel bài số
+[00:08] hiện trên kênh YouTube gái Excel bài số 23 các phím tắt thông dụng các bạn xem
+[00:12] 23 các phím tắt thông dụng các bạn xem Mở cái file này lên các bạn chú ý mình
+[00:16] Mở cái file này lên các bạn chú ý mình sẽ để cái link tải file thực hành trong
+[00:17] sẽ để cái link tải file thực hành trong phần mô tả cái dưới video tốt nhất là
+[00:20] phần mô tả cái dưới video tốt nhất là các bạn tải về các bạn vừa theo dõi và
+[00:22] các bạn tải về các bạn vừa theo dõi và thực hành cùng mình nhá ở đây mình đã
+[00:25] thực hành cùng mình nhá ở đây mình đã liệt kê tất cả là hai mươi năm phím tắt
+[00:26] liệt kê tất cả là hai mươi năm phím tắt thông dụng nhất được đầu tiên sẽ là cái
+[00:29] thông dụng nhất được đầu tiên sẽ là cái phím tắt cho cái việc copy để copy thì
+[00:32] phím tắt cho cái việc copy để copy thì các bạn sẽ Bôi đen Cái vùng dữ liệu mà
+[00:34] các bạn sẽ Bôi đen Cái vùng dữ liệu mà các bạn muốn copy đúng ạ thì sau đó các
+[00:36] các bạn muốn copy đúng ạ thì sau đó các bạn sẽ ấn cần thương c thì sau khi các
+[00:38] bạn sẽ ấn cần thương c thì sau khi các bạn ấn cần c thì các bạn sẽ thấy cái
+[00:40] bạn ấn cần c thì các bạn sẽ thấy cái vùng mà các bạn cần copy đây này nó nhấp
+[00:42] vùng mà các bạn cần copy đây này nó nhấp nháy đây này Đấy đấy là cái kiếng tắt
+[00:45] nháy đây này Đấy đấy là cái kiếng tắt cho việc copy nhá những các thứ hai là
+[00:48] cho việc copy nhá những các thứ hai là Tết hay còn gọi là gián thì sau khi mà
+[00:51] Tết hay còn gọi là gián thì sau khi mà có bạn copy rồi đúng không ạ thì các bạn
+[00:52] có bạn copy rồi đúng không ạ thì các bạn phải chuyển cái vùng copy sang một cái
+[00:54] phải chuyển cái vùng copy sang một cái vị trí mới đúng không giả sử mình muốn
+[00:56] vị trí mới đúng không giả sử mình muốn coppy cái vùng này sang cái vị trí này
+[00:58] coppy cái vùng này sang cái vị trí này chẳng hạn thế nhá là cái
+[01:00] chẳng hạn thế nhá là cái Ừ thì các bạn sẽ ấn phím cần Xuân V để
+[01:03] Ừ thì các bạn sẽ ấn phím cần Xuân V để các bạn biết cái hiện cái vùng mà các
+[01:05] các bạn biết cái hiện cái vùng mà các bạn copy lúc trước đấy thì đây là cái
+[01:08] bạn copy lúc trước đấy thì đây là cái vùng mà các bạn Tết đúng ạ thì sau khi
+[01:10] vùng mà các bạn Tết đúng ạ thì sau khi mà các bạn ấn convey để có quyết xong
+[01:12] mà các bạn ấn convey để có quyết xong thì cái vùng copy nó vẫn nhấp nháy Đúng
+[01:14] thì cái vùng copy nó vẫn nhấp nháy Đúng không các bạn sẽ mở mic kết để thoát cái
+[01:17] không các bạn sẽ mở mic kết để thoát cái việc nhấp nháy này phím tắt thứ ba là
+[01:20] việc nhấp nháy này phím tắt thứ ba là cắt đúng ạ chị đầu tiên là các bạn phải
+[01:23] cắt đúng ạ chị đầu tiên là các bạn phải bôi đen Cái vùng mà các bạn cần cắt đúng
+[01:25] bôi đen Cái vùng mà các bạn cần cắt đúng không Ví dụ mình đem cái vùng này là
+[01:26] không Ví dụ mình đem cái vùng này là mình muốn cắt đấy thì sau đó các bạn sẽ
+[01:29] mình muốn cắt đấy thì sau đó các bạn sẽ bấm phím Control x để các bạn cắt thì
+[01:32] bấm phím Control x để các bạn cắt thì cái vùng mà các bạn cần cắt đây này nó
+[01:34] cái vùng mà các bạn cần cắt đây này nó cũng là nhấp nháy đúng ạ Đấy thì sau khi
+[01:37] cũng là nhấp nháy đúng ạ Đấy thì sau khi mà các bạn cắt xong thì thông thường các
+[01:39] mà các bạn cắt xong thì thông thường các bạn phải chuyển cái vùng cắt sang một
+[01:41] bạn phải chuyển cái vùng cắt sang một cái vị trí mới có hàng Ví dụ mình cắt
+[01:43] cái vị trí mới có hàng Ví dụ mình cắt sang đây đúng không thì các bạn lại bấm
+[01:45] sang đây đúng không thì các bạn lại bấm thanh xuân về đấy thì sau khi các bạn
+[01:47] thanh xuân về đấy thì sau khi các bạn bấm cân vị thì cái vùng mà mình cắt Lúc
+[01:50] bấm cân vị thì cái vùng mà mình cắt Lúc nãy này nó sẽ không còn dữ liệu nữa đúng
+[01:51] nãy này nó sẽ không còn dữ liệu nữa đúng không nó sẽ trở về cái quả trắng thì cái
+[01:54] không nó sẽ trở về cái quả trắng thì cái việc cắt này nó khác gì với cả cái copy
+[01:56] việc cắt này nó khác gì với cả cái copy ạ Cái việc copy là địa nó giữ nguyên cái
+[01:58] ạ Cái việc copy là địa nó giữ nguyên cái vùng mà các bạn copy I
+[02:00] vùng mà các bạn copy I khi khoảng cách là gì nó sẽ xóa cái dữ
+[02:02] khi khoảng cách là gì nó sẽ xóa cái dữ liệu trước đấy đi nhá Đấy Ok tìm các thứ
+[02:05] liệu trước đấy đi nhá Đấy Ok tìm các thứ ba là undo Thì bây giờ mình muốn undo
+[02:08] ba là undo Thì bây giờ mình muốn undo Tức là mình muốn quay lại cái thao tác
+[02:10] Tức là mình muốn quay lại cái thao tác vừa xong tôi là cái thao tác vừa xong là
+[02:12] vừa xong tôi là cái thao tác vừa xong là chẳng hạn là nhầm đúng không Thì mình sẽ
+[02:14] chẳng hạn là nhầm đúng không Thì mình sẽ dùng các phím tắt undo là cần z để các
+[02:16] dùng các phím tắt undo là cần z để các bạn sẽ ấn cần xét lại đây đấy thì như
+[02:18] bạn sẽ ấn cần xét lại đây đấy thì như vậy cái vùng dữ liệu mình cắt lúc đấy nó
+[02:20] vậy cái vùng dữ liệu mình cắt lúc đấy nó đã quay về đây Đây là cái phím tắt để
+[02:22] đã quay về đây Đây là cái phím tắt để undo nhá chẳng hạn các bạn lại ấn cái
+[02:24] undo nhá chẳng hạn các bạn lại ấn cái chương phép nữa thì cái việc Tết Lúc nãy
+[02:27] chương phép nữa thì cái việc Tết Lúc nãy nó cũng ăn lưu tiếp đấy Đấy là cách phím
+[02:29] nó cũng ăn lưu tiếp đấy Đấy là cách phím tắt Windows các bạn có thể bấm ít kết để
+[02:32] tắt Windows các bạn có thể bấm ít kết để thoát cái vùng nhấp nháy này đấy thì
+[02:34] thoát cái vùng nhấp nháy này đấy thì chắc thứ năm là địa find and replace hay
+[02:37] chắc thứ năm là địa find and replace hay là gì à tức là các bạn tìm kiếm nhá còn
+[02:39] là gì à tức là các bạn tìm kiếm nhá còn replete là thay thế thì giả sử mình muốn
+[02:42] replete là thay thế thì giả sử mình muốn tìm kiếm tất cả trong cái dữ liệu này có
+[02:44] tìm kiếm tất cả trong cái dữ liệu này có chữ nào là gà không chẳng hạn thế nhá
+[02:45] chữ nào là gà không chẳng hạn thế nhá các bạn sẽ ấn là cân ép đấy thì sau khi
+[02:49] các bạn sẽ ấn là cân ép đấy thì sau khi các bạn ấn cân ép thì nó sẽ có một cái
+[02:51] các bạn ấn cân ép thì nó sẽ có một cái cửa sổ là file andres hiện ra đúng không
+[02:53] cửa sổ là file andres hiện ra đúng không Thì nó sẽ có hai cái thẻ này thả file
+[02:55] Thì nó sẽ có hai cái thẻ này thả file vào thẻ replays đấy Nếu như các bạn ấn
+[02:58] vào thẻ replays đấy Nếu như các bạn ấn can chép thì nó sẽ vào cái kẹp file
+[03:00] can chép thì nó sẽ vào cái kẹp file ạ Bây giờ các bạn sẽ bấm Grow nhé Còn
+[03:02] ạ Bây giờ các bạn sẽ bấm Grow nhé Còn nếu như các bạn bấm tăng trưởng hát thì
+[03:04] nếu như các bạn bấm tăng trưởng hát thì nó sẽ chuyển sang cái thẻ replay đúng ạ
+[03:06] nó sẽ chuyển sang cái thẻ replay đúng ạ Đấy thì đầu tiên mình rất là tìm kiếm
+[03:08] Đấy thì đầu tiên mình rất là tìm kiếm các mẹ các bạn ấn kahchan ép đấy sau đó
+[03:12] các mẹ các bạn ấn kahchan ép đấy sau đó còn sinh nhập cái từ mà các bạn cần tìm
+[03:13] còn sinh nhập cái từ mà các bạn cần tìm kiếm lại Ví dụ mình nhập cái chữ diện
+[03:15] kiếm lại Ví dụ mình nhập cái chữ diện Excel để hạ thế nhá Đấy bấm enter thì ở
+[03:19] Excel để hạ thế nhá Đấy bấm enter thì ở đây nó sẽ hiện cái thông báo là không
+[03:20] đây nó sẽ hiện cái thông báo là không tìm thấy cái chữ Excel là cả đúng không
+[03:22] tìm thấy cái chữ Excel là cả đúng không phải gọi xem bấm ok bây giờ xử không
+[03:24] phải gọi xem bấm ok bây giờ xử không phải là chữ xem nhá và mình muốn tìm cái
+[03:27] phải là chữ xem nhá và mình muốn tìm cái chữ hiện mình muốn tìm chữ giả sử mình
+[03:30] chữ hiện mình muốn tìm chữ giả sử mình tìm viết chữ hành hạ Thế nhá Để gọi
+[03:31] tìm viết chữ hành hạ Thế nhá Để gọi enter thấy thì nó sẽ vào cái ô đầu tiên
+[03:35] enter thấy thì nó sẽ vào cái ô đầu tiên đã tìm thấy này Đây là chọn cả hàng và
+[03:36] đã tìm thấy này Đây là chọn cả hàng và cô Đúng không các bạn sẽ tích vào đây là
+[03:38] cô Đúng không các bạn sẽ tích vào đây là philex tìm được hàng tiếp theo là ấy tìm
+[03:40] philex tìm được hàng tiếp theo là ấy tìm tiếp theo Còn nếu như bạn muốn tìm kiếm
+[03:43] tiếp theo Còn nếu như bạn muốn tìm kiếm tất cả thì các bạn sẽ tích và cái file
+[03:44] tất cả thì các bạn sẽ tích và cái file này thì nó sẽ hiện tất cả cái kết quả
+[03:47] này thì nó sẽ hiện tất cả cái kết quả tìm kiếm ở dưới này nó ấy các bạn có thể
+[03:50] tìm kiếm ở dưới này nó ấy các bạn có thể tích vào cái kết quả tìm kiếm nào thì
+[03:52] tích vào cái kết quả tìm kiếm nào thì tùy các bạn nhá để họ sẽ lau lại Nếu như
+[03:55] tùy các bạn nhá để họ sẽ lau lại Nếu như các bạn ấn Thanh Xuân h thì nó sẽ chuyển
+[03:58] các bạn ấn Thanh Xuân h thì nó sẽ chuyển sang điện sang cái thẻ đi Tết
+[04:00] sang điện sang cái thẻ đi Tết Ừ thì ở đây nó sẽ có 2 cái cửa sổ đầu
+[04:02] Ừ thì ở đây nó sẽ có 2 cái cửa sổ đầu tiên là gì ạ Cái ô mà các bạn cần tìm
+[04:05] tiên là gì ạ Cái ô mà các bạn cần tìm thấy ví dụ mình xóa cái chữ hàng này đi
+[04:07] thấy ví dụ mình xóa cái chữ hàng này đi Chẳng hạn bây giờ mình cần tìm cái chữ
+[04:09] Chẳng hạn bây giờ mình cần tìm cái chữ việc mình thay đổi trữ dữ liệu thì hạn
+[04:11] việc mình thay đổi trữ dữ liệu thì hạn thế nhá lại dữ liệu bằng cái chữ gì ạ Ví
+[04:15] thế nhá lại dữ liệu bằng cái chữ gì ạ Ví dụ mình thay bằng cái Excel đấy mình tìm
+[04:19] dụ mình thay bằng cái Excel đấy mình tìm kiếm nha Thì bạn sẽ thích vào cái file
+[04:21] kiếm nha Thì bạn sẽ thích vào cái file này đấy thì nó sẽ tìm thấy cái dữ liệu ở
+[04:23] này đấy thì nó sẽ tìm thấy cái dữ liệu ở đây đấy thì các bạn sẽ thích và cái
+[04:26] đây đấy thì các bạn sẽ thích và cái replete nhá thì nó sẽ thay cái dữ liệu
+[04:28] replete nhá thì nó sẽ thay cái dữ liệu bằng chữ cái xe này các bạn dịp Tết này
+[04:30] bằng chữ cái xe này các bạn dịp Tết này đấy bạn thấy chưa thì mới trữ dữ liệu ở
+[04:32] đấy bạn thấy chưa thì mới trữ dữ liệu ở đây đã được thay bằng chữ Thiện gái anh
+[04:34] đây đã được thay bằng chữ Thiện gái anh xem tiếp theo này nó sẽ tìm thấy cái chữ
+[04:36] xem tiếp theo này nó sẽ tìm thấy cái chữ dữ liệu ở đây nếu các bạn thích vào dịp
+[04:38] dữ liệu ở đây nếu các bạn thích vào dịp tết đi lại thì nó sẽ chuyển thành ra
+[04:40] tết đi lại thì nó sẽ chuyển thành ra Excel Còn nếu như các em thích vào đi
+[04:42] Excel Còn nếu như các em thích vào đi biết tôn thì nó cứ thấy cái chữ dữ liệu
+[04:44] biết tôn thì nó cứ thấy cái chữ dữ liệu thì nó sẽ chuyển thành cái xe về có
+[04:46] thì nó sẽ chuyển thành cái xe về có thích ở đây đấy thì ở đây cái cửa sổ này
+[04:48] thích ở đây đấy thì ở đây cái cửa sổ này nó thông báo diện nó sẽ không tìm thấy
+[04:50] nó thông báo diện nó sẽ không tìm thấy cái chữ dữ liệu là cả nhé Bây giờ các
+[04:52] cái chữ dữ liệu là cả nhé Bây giờ các bạn sẽ thích Ok mình còn lâu lại đi Đấy
+[04:54] bạn sẽ thích Ok mình còn lâu lại đi Đấy Bây giờ con sẽ bấm kahchan dép hai lần
+[04:56] Bây giờ con sẽ bấm kahchan dép hai lần Tức là mình sẽ ăn đu cái việc thay thế
+[04:58] Tức là mình sẽ ăn đu cái việc thay thế dữ liệu bằng gái xe
+[05:00] dữ liệu bằng gái xe bí ẩn cần cho Z2 lần đấy thì như vậy cái
+[05:03] bí ẩn cần cho Z2 lần đấy thì như vậy cái dữ liệu ở đây và dữ liệu đây nó sẽ quay
+[05:05] dữ liệu ở đây và dữ liệu đây nó sẽ quay trở lại nhá Bây giờ các bạn sẽ ấn càng
+[05:06] trở lại nhá Bây giờ các bạn sẽ ấn càng Trân hát này mình vẫn thay cái dữ liệu
+[05:09] Trân hát này mình vẫn thay cái dữ liệu bằng chữ cái xe nhưng mà mình sẽ tích
+[05:11] bằng chữ cái xe nhưng mà mình sẽ tích vào cái kết hôn Tức là nó sẽ thay thế
+[05:13] vào cái kết hôn Tức là nó sẽ thay thế toàn bộ cứ thấy cái chữ dữ liệu thì nó
+[05:15] toàn bộ cứ thấy cái chữ dữ liệu thì nó sẽ thay một cái xe các bạn tích vào đây
+[05:17] sẽ thay một cái xe các bạn tích vào đây Đấy nó sẽ báo một cái cửa sổ là Diện Nó
+[05:20] Đấy nó sẽ báo một cái cửa sổ là Diện Nó sẽ thay thế hoàn toàn rồi thì nó sẽ tìm
+[05:22] sẽ thay thế hoàn toàn rồi thì nó sẽ tìm thấy gì hay cái chữ dữ liệu thay bằng
+[05:25] thấy gì hay cái chữ dữ liệu thay bằng gái xem để con sẽ bảo OK các bạn Grow
+[05:27] gái xem để con sẽ bảo OK các bạn Grow lại Đấy bây giờ các bạn sẽ bấm cần xét
+[05:30] lại Đấy bây giờ các bạn sẽ bấm cần xét nhé Để mình ăn đu lại cái việc vừa xong
+[05:33] nhé Để mình ăn đu lại cái việc vừa xong khiến các tiếp theo là gì ạ sẽ là tạo và
+[05:36] khiến các tiếp theo là gì ạ sẽ là tạo và bỏ filter đúng ạ thì giả sử mình có một
+[05:39] bỏ filter đúng ạ thì giả sử mình có một cái sĩ dữ liệu đây nhá thì để tạo các
+[05:41] cái sĩ dữ liệu đây nhá thì để tạo các filter là diện các bạn sẽ giữ cần trong
+[05:43] filter là diện các bạn sẽ giữ cần trong ship và bấm chữ L đấy các bạn thấy chưa
+[05:46] ship và bấm chữ L đấy các bạn thấy chưa nó sẽ tạm của các phân tử ở đây và lúc
+[05:48] nó sẽ tạm của các phân tử ở đây và lúc này các bạn có thể tùy chọn các cái danh
+[05:50] này các bạn có thể tùy chọn các cái danh mục mà qua chọn nhá rồi đấy là cái phím
+[05:53] mục mà qua chọn nhá rồi đấy là cái phím tắt của phim cơ Còn nếu như mà muốn bỏ
+[05:55] tắt của phim cơ Còn nếu như mà muốn bỏ cái phim tơ này thì các bạn cũng bấm cần
+[05:57] cái phim tơ này thì các bạn cũng bấm cần chôn ship và quạt bấm chữ L nhá lại
+[06:00] chôn ship và quạt bấm chữ L nhá lại em còn nếu như mà phim tô nữa thì cần
+[06:03] em còn nếu như mà phim tô nữa thì cần chuyên ship nợ Đấy Thế là mình muốn bật
+[06:05] chuyên ship nợ Đấy Thế là mình muốn bật Hay là mình bỏ tin cơ thể bạn giữ tiền
+[06:06] Hay là mình bỏ tin cơ thể bạn giữ tiền ship và ấn chữ L nhé phím tắt tiếp theo
+[06:12] ship và ấn chữ L nhé phím tắt tiếp theo là mình sẽ di chuyển đến góp dữ liệu
+[06:14] là mình sẽ di chuyển đến góp dữ liệu đúng ạ thì giả sử nhá Mình đang ở cái ô
+[06:17] đúng ạ thì giả sử nhá Mình đang ở cái ô gì ạ ob6 Đây này các bạn muốn di chuyển
+[06:19] gì ạ ob6 Đây này các bạn muốn di chuyển sang góp ở bên phải này thì các bạn giữ
+[06:21] sang góp ở bên phải này thì các bạn giữ cần chôn và có ấn xanh mũi tên bên phải
+[06:23] cần chôn và có ấn xanh mũi tên bên phải đấy thì nó sẽ sang cái góc dữ liệu ở bên
+[06:26] đấy thì nó sẽ sang cái góc dữ liệu ở bên này là cái ô C6 là bây giờ cạn muốn lên
+[06:28] này là cái ô C6 là bây giờ cạn muốn lên trên thì bạn giữ cần cho vào mũi tên lên
+[06:30] trên thì bạn giữ cần cho vào mũi tên lên trên đấy thì nó sẽ lên cái ô D1 các bạn
+[06:33] trên đấy thì nó sẽ lên cái ô D1 các bạn muốn sang trái thì bạn giữ gần chung là
+[06:35] muốn sang trái thì bạn giữ gần chung là mũi tên Sang trái đây thì nó sẽ về cái A
+[06:37] mũi tên Sang trái đây thì nó sẽ về cái A một Còn nếu như bạn muốn sang góc dưới
+[06:39] một Còn nếu như bạn muốn sang góc dưới bên trái thì bạn dưới Cần chôn vào mũi
+[06:41] bên trái thì bạn dưới Cần chôn vào mũi tên xuống vào đây đấy Bạn thấy ạ đấy là
+[06:43] tên xuống vào đây đấy Bạn thấy ạ đấy là cái việc di chuyển góc nhé Tức là mình
+[06:46] cái việc di chuyển góc nhé Tức là mình sẽ sử dụng các phím control và bốn cái
+[06:48] sẽ sử dụng các phím control và bốn cái mũi tên lên xuống hay là trái phải nhá
+[06:50] mũi tên lên xuống hay là trái phải nhá thì nó sẽ sang góc của các bạn cần ấn Ví
+[06:53] thì nó sẽ sang góc của các bạn cần ấn Ví dụ mình cần chôn và mũi tên lên lại thì
+[06:55] dụ mình cần chôn và mũi tên lên lại thì nó sẽ lên trên cần chôn mũi tên xuống
+[06:57] nó sẽ lên trên cần chôn mũi tên xuống thì nó là xuống đấy cần chuông xanh
+[06:59] thì nó là xuống đấy cần chuông xanh ở đó là sang Góc ở đây Nếu như các bạn
+[07:02] ở đó là sang Góc ở đây Nếu như các bạn ấn cần cho hôm thì nó sẽ quay về nha Một
+[07:04] ấn cần cho hôm thì nó sẽ quay về nha Một này các bạn cần cho hôm đấy thì nó sẽ về
+[07:07] này các bạn cần cho hôm đấy thì nó sẽ về cái ô A1 là ô đầu tiên của cái xếp phím
+[07:11] cái ô A1 là ô đầu tiên của cái xếp phím sát tiếp theo là diện cho các ô trong
+[07:13] sát tiếp theo là diện cho các ô trong bảng thì nó khác gì mới cả di chuyển nếu
+[07:15] bảng thì nó khác gì mới cả di chuyển nếu như bạn giữ thêm khiến sĩ chị thì nó là
+[07:17] như bạn giữ thêm khiến sĩ chị thì nó là chọn lại Bây giờ mình sang cái sẽ dữ
+[07:19] chọn lại Bây giờ mình sang cái sẽ dữ liệu Giả sử mình vẫn đang ở ob6 này nhá
+[07:21] liệu Giả sử mình vẫn đang ở ob6 này nhá Nếu như các bạn giữ cần chôn ship và mũi
+[07:23] Nếu như các bạn giữ cần chôn ship và mũi tên Sang phải thì nó sẽ lựa chọn toàn bộ
+[07:26] tên Sang phải thì nó sẽ lựa chọn toàn bộ từ cái ôm mình chọn xanh cái góc ở đây
+[07:27] từ cái ôm mình chọn xanh cái góc ở đây tức là điện từ B6 đến diện đến B6 Còn
+[07:30] tức là điện từ B6 đến diện đến B6 Còn nếu như các bạn giữ tiền cho chip và mũi
+[07:32] nếu như các bạn giữ tiền cho chip và mũi tên xuống dưới nữa nhé đấy thì nó sẽ lựa
+[07:34] tên xuống dưới nữa nhé đấy thì nó sẽ lựa chọn toàn bộ từ trên xuống dưới ở đây
+[07:36] chọn toàn bộ từ trên xuống dưới ở đây đấy Còn nếu như mà diện các bạn rất cần
+[07:38] đấy Còn nếu như mà diện các bạn rất cần cho ship vào mũi tên Sang trái hả Thế
+[07:40] cho ship vào mũi tên Sang trái hả Thế nhá thì nó lại lại lựa chọn sang bên
+[07:42] nhá thì nó lại lại lựa chọn sang bên trái này Đấy Ok Bây giờ các bạn giữ cần
+[07:46] trái này Đấy Ok Bây giờ các bạn giữ cần chôn và cần chuông vào hôm thì nó sẽ về
+[07:48] chôn và cần chuông vào hôm thì nó sẽ về một đúng không ạ Bây giờ có bạn rất cần
+[07:50] một đúng không ạ Bây giờ có bạn rất cần cho ship và Mũi Tên Xanh gì ạ chẳng phải
+[07:52] cho ship và Mũi Tên Xanh gì ạ chẳng phải đấy thì nó sẽ lựa chọn toàn bộ như cùng
+[07:54] đấy thì nó sẽ lựa chọn toàn bộ như cùng tiêu đề đây các bạn giữ cần trang ship
+[07:56] tiêu đề đây các bạn giữ cần trang ship vào mũi tên xuống dưới nó sẽ lựa chọn
+[07:58] vào mũi tên xuống dưới nó sẽ lựa chọn toàn bộ cái vùng dữ liệu
+[08:00] toàn bộ cái vùng dữ liệu các bạn giữa cả chân ship và mũi tên lên
+[08:01] các bạn giữa cả chân ship và mũi tên lên thì nó sẽ bỏ các lựa chọn đi và nó chỉ
+[08:03] thì nó sẽ bỏ các lựa chọn đi và nó chỉ chọn lại cái cục tiêu đề đây thôi đấy
+[08:06] chọn lại cái cục tiêu đề đây thôi đấy rất là hai ạ phím tắt tiếp theo là di
+[08:09] rất là hai ạ phím tắt tiếp theo là di chuyển giữa các sheet nhé thì giả sử
+[08:11] chuyển giữa các sheet nhé thì giả sử Mình đang ở cái sít đây là ship phím tắt
+[08:13] Mình đang ở cái sít đây là ship phím tắt đúng không Bây giờ để di chuyển sang cái
+[08:15] đúng không Bây giờ để di chuyển sang cái ship bên phải nó thì có bạn sẽ giữ cần
+[08:17] ship bên phải nó thì có bạn sẽ giữ cần chôn và tuyết down Còn nếu như mà di
+[08:20] chôn và tuyết down Còn nếu như mà di chuyển sang bên trái thì các bạn sẽ giữ
+[08:22] chuyển sang bên trái thì các bạn sẽ giữ cần chôn và huyết áp Bây giờ mình đang ở
+[08:24] cần chôn và huyết áp Bây giờ mình đang ở sim đầu tiên đúng không Mình muốn sang
+[08:25] sim đầu tiên đúng không Mình muốn sang cái sim bên phải thế Bạn giữ cần chôn và
+[08:28] cái sim bên phải thế Bạn giữ cần chôn và các bạn ấn kết đau đấy cần chung kết ra
+[08:30] các bạn ấn kết đau đấy cần chung kết ra đấy Bây giờ muốn quay lại các sĩ ở bên
+[08:33] đấy Bây giờ muốn quay lại các sĩ ở bên trái các bạn giữ control và huyết áp đấy
+[08:35] trái các bạn giữ control và huyết áp đấy cần suông kết hợp đấy Đấy là các phím
+[08:37] cần suông kết hợp đấy Đấy là các phím tắt để di chuyển giữa các sheet nhá tiếp
+[08:40] tắt để di chuyển giữa các sheet nhá tiếp theo là gì định dạng số nhá Giả sử mình
+[08:42] theo là gì định dạng số nhá Giả sử mình có một cái số các bạn bằng này Ví dụ
+[08:44] có một cái số các bạn bằng này Ví dụ mình lấy là một triệu đi một triệu cho
+[08:48] mình lấy là một triệu đi một triệu cho nhiều nha các bạn chia cho 3 đấy thì nó
+[08:50] nhiều nha các bạn chia cho 3 đấy thì nó sẽ ra kết quả là 333333 đấy Đấy nó còn
+[08:53] sẽ ra kết quả là 333333 đấy Đấy nó còn dư nữa cơ đấy thì đầu tiên là thiện mình
+[08:57] dư nữa cơ đấy thì đầu tiên là thiện mình sẽ là bấm phần chương chín muồi cho nha
+[08:59] sẽ là bấm phần chương chín muồi cho nha các bạn sẽ thích
+[09:00] các bạn sẽ thích khi mà các bạn muốn đi nhận số này các
+[09:01] khi mà các bạn muốn đi nhận số này các bạn giữ cần ship một vào đây đấy thì cái
+[09:04] bạn giữ cần ship một vào đây đấy thì cái cần cho sếp một nó sẽ chuyển cái số này
+[09:06] cần cho sếp một nó sẽ chuyển cái số này về cái gì ạ dạng ăn cắt hàng nghìn với
+[09:08] về cái gì ạ dạng ăn cắt hàng nghìn với nhau đợi tưởng ở đây 333.000 không thì
+[09:11] nhau đợi tưởng ở đây 333.000 không thì nó sẽ thêm cái dấu phẩy ở đây và nó sẽ
+[09:13] nó sẽ thêm cái dấu phẩy ở đây và nó sẽ lấy hai cái số thập phân sau số nguyên
+[09:15] lấy hai cái số thập phân sau số nguyên tức là chấm bà bà đây này Đấy còn thấy
+[09:17] tức là chấm bà bà đây này Đấy còn thấy thôi Còn nếu như bạn dưới Cần ship và số
+[09:20] thôi Còn nếu như bạn dưới Cần ship và số 2 Đấy thì nó sẽ chuyển về dạng viện dạng
+[09:23] 2 Đấy thì nó sẽ chuyển về dạng viện dạng giờ đây đấy gọi thấy chưa nó sẽ quy về 8
+[09:26] giờ đây đấy gọi thấy chưa nó sẽ quy về 8 giờ em ở đây các bạn giữ cần cho ship và
+[09:29] giờ em ở đây các bạn giữ cần cho ship và số 3 thì nó sẽ chuyển về dạng ngày tháng
+[09:31] số 3 thì nó sẽ chuyển về dạng ngày tháng đấy tiếp theo làn diện các bạn giữ cần
+[09:34] đấy tiếp theo làn diện các bạn giữ cần ship và số 4 nhá thì nó sẽ đổi về cái
+[09:36] ship và số 4 nhá thì nó sẽ đổi về cái dạng tiền tệ của Mỹ ở đây này tức là nó
+[09:38] dạng tiền tệ của Mỹ ở đây này tức là nó sẽ thêm các ký tự đô la đây nhá đấy Còn
+[09:40] sẽ thêm các ký tự đô la đây nhá đấy Còn nếu như mà cần chôn xuống năm ấy lại thì
+[09:43] nếu như mà cần chôn xuống năm ấy lại thì nó sẽ chuyển về dạng Phần trăm đúng ạ
+[09:44] nó sẽ chuyển về dạng Phần trăm đúng ạ thì lúc đấy là dễ lúc đấy là 333.000
+[09:47] thì lúc đấy là dễ lúc đấy là 333.000 đúng không Thì ở đây nó sẽ đổi thành địa
+[09:54] 33333333 phần trăm đấy tức nào nó sẽ thêm với phần trăm ở đây đấy đấy là cái
+[09:57] thêm với phần trăm ở đây đấy đấy là cái năm cái định dạng số nhá Ừ
+[10:00] năm cái định dạng số nhá Ừ Anh xóa đi tiếp theo là tính tổng đấy
+[10:03] Anh xóa đi tiếp theo là tính tổng đấy thì giả sử Mình đang ở cái ô dữ liệu này
+[10:05] thì giả sử Mình đang ở cái ô dữ liệu này nhá đấy các bạn ấn cần chôn rẻ và mũi
+[10:08] nhá đấy các bạn ấn cần chôn rẻ và mũi tên xuống thì nó sẽ xuống cái cuối cùng
+[10:10] tên xuống thì nó sẽ xuống cái cuối cùng của đây Bây giờ các bạn sẽ xuống cái ô
+[10:12] của đây Bây giờ các bạn sẽ xuống cái ô giấy này nhá các bạn giữa ăn và dấu bằng
+[10:14] giấy này nhá các bạn giữa ăn và dấu bằng đấy thì nó là cái phím tắt của cái việc
+[10:17] đấy thì nó là cái phím tắt của cái việc tính tổng xong ở đây để thì tức là nó sẽ
+[10:19] tính tổng xong ở đây để thì tức là nó sẽ tính tổng từ vị đầu tiên là D2 đến viện
+[10:21] tính tổng từ vị đầu tiên là D2 đến viện D 9998 đây này để họ sẽ bấm enter thì nó
+[10:25] D 9998 đây này để họ sẽ bấm enter thì nó sẽ là khiến tắt của tính tổng đấy nhá
+[10:27] sẽ là khiến tắt của tính tổng đấy nhá Đấy đấy là cái kính thức ăn bằng tiếp
+[10:32] Đấy đấy là cái kính thức ăn bằng tiếp theo là dáng giá trị nhé đấy thì bây giờ
+[10:33] theo là dáng giá trị nhé đấy thì bây giờ có bạn xanh cái sĩ dữ liệu này Bây giờ ở
+[10:36] có bạn xanh cái sĩ dữ liệu này Bây giờ ở đây nó đang là công thức đúng không Bây
+[10:37] đây nó đang là công thức đúng không Bây giờ mình sẽ chuyển nó về giá trị mình
+[10:39] giờ mình sẽ chuyển nó về giá trị mình không muốn nói là công thức nữa đúng
+[10:40] không muốn nói là công thức nữa đúng không Chỉ đầu tiên các bạn phải copy
+[10:42] không Chỉ đầu tiên các bạn phải copy trước nha các bạn ấn cả cho C để các bạn
+[10:43] trước nha các bạn ấn cả cho C để các bạn copy ôm này và nếu như mà để biết giá
+[10:46] copy ôm này và nếu như mà để biết giá trị Giả sử mình kết ra đây trở nặng thế
+[10:48] trị Giả sử mình kết ra đây trở nặng thế nhá thế thì các bạn sẽ bấm thì các bạn
+[10:50] nhá thế thì các bạn sẽ bấm thì các bạn dựa Nash và V Đấy thì nó sẽ hết thành
+[10:54] dựa Nash và V Đấy thì nó sẽ hết thành cái giá trị ở đây và bạn sẽ bấm ok đấy
+[10:57] cái giá trị ở đây và bạn sẽ bấm ok đấy nó sẽ viết thành các giá trị này lại rất
+[10:59] nó sẽ viết thành các giá trị này lại rất là hai ạ
+[11:00] là hai ạ đi tìm tắt tiếp theo là Chèn ngày giờ
+[11:03] đi tìm tắt tiếp theo là Chèn ngày giờ hiện tại đó các bạn sẽ tích vào ô mà các
+[11:05] hiện tại đó các bạn sẽ tích vào ô mà các bạn cần chèn cái ngày giờ hiện tại và
+[11:07] bạn cần chèn cái ngày giờ hiện tại và các bạn giữ cần chôn ship và dấu chấm
+[11:09] các bạn giữ cần chôn ship và dấu chấm phẩy nhá cần cho ship Bà Rịa chấm phẩy ở
+[11:12] phẩy nhá cần cho ship Bà Rịa chấm phẩy ở đây thì nó sẽ ra là gì bây giờ hiện tại
+[11:14] đây thì nó sẽ ra là gì bây giờ hiện tại ở đây nhá Còn nếu như các bạn giữ cần
+[11:16] ở đây nhá Còn nếu như các bạn giữ cần chôn và gọi tấn chấm phẩy thì nó sẽ ra
+[11:18] chôn và gọi tấn chấm phẩy thì nó sẽ ra ngày hiện tại đấy thì như vậy là gì cần
+[11:21] ngày hiện tại đấy thì như vậy là gì cần chôn và chấm phẩy nó sẽ ra ngày hiện tại
+[11:23] chôn và chấm phẩy nó sẽ ra ngày hiện tại và điện Cần chôn ship chấm phẩy nó sẽ ra
+[11:26] và điện Cần chôn ship chấm phẩy nó sẽ ra diện giờ hiện tại là rất là hay luôn
+[11:28] diện giờ hiện tại là rất là hay luôn tiếp theo là tạo một dòng mới trong một
+[11:31] tiếp theo là tạo một dòng mới trong một oxir chú ạ thì các bạn sẽ giữ an và +
+[11:33] oxir chú ạ thì các bạn sẽ giữ an và + enter Ví dụ ở đây mình sẽ ghi là hiện
+[11:36] enter Ví dụ ở đây mình sẽ ghi là hiện thực đơn giản thế nhé Bây giờ ta sẽ hai
+[11:39] thực đơn giản thế nhé Bây giờ ta sẽ hai chấm bây giờ các bạn muốn tạo một cái
+[11:41] chấm bây giờ các bạn muốn tạo một cái dòng mới hiện vẫn trong cái ông này thì
+[11:43] dòng mới hiện vẫn trong cái ông này thì bạn dưới phim an và các bạn ở Master đấy
+[11:45] bạn dưới phim an và các bạn ở Master đấy Bây giờ mình sẽ liệt kê ví dụ như là
+[11:47] Bây giờ mình sẽ liệt kê ví dụ như là muối Chạm thế nhá lại là 2kg các bạn
+[11:50] muối Chạm thế nhá lại là 2kg các bạn giữa ăn và ấn enter lại Ví dụ ở đây là
+[11:52] giữa ăn và ấn enter lại Ví dụ ở đây là rễ gạo gạo là diện 5kg để cạnh giữa ăn
+[11:56] rễ gạo gạo là diện 5kg để cạnh giữa ăn và enter hãy cận cảnh cái ví dụ như thịt
+[11:59] và enter hãy cận cảnh cái ví dụ như thịt lợn nặng thế
+[12:00] lợn nặng thế Ừ nếu ở một yến hả Thế nhá Đấy và các
+[12:04] Ừ nếu ở một yến hả Thế nhá Đấy và các enter lại đấy là cái phím tắt để các bạn
+[12:07] enter lại đấy là cái phím tắt để các bạn các bạn xuống dòng trong 1 ô lại Bây giờ
+[12:09] các bạn xuống dòng trong 1 ô lại Bây giờ mình sẽ xóa đi nhá phím tắt tiếp theo là
+[12:12] mình sẽ xóa đi nhá phím tắt tiếp theo là việc chọn dữ liệu trong vùng Hiện tại
+[12:13] việc chọn dữ liệu trong vùng Hiện tại thì bây giờ giả sử mình đang tích và cái
+[12:15] thì bây giờ giả sử mình đang tích và cái ôm này nhá bây giờ mình muốn chọn dữ
+[12:17] ôm này nhá bây giờ mình muốn chọn dữ liệu cả cái vùng này đúng không Chỉ rõ
+[12:18] liệu cả cái vùng này đúng không Chỉ rõ sẽ ấn Corona đây nó sẽ lựa chọn toàn bộ
+[12:21] sẽ ấn Corona đây nó sẽ lựa chọn toàn bộ cái vùng dữ liệu liên tiếp của Cái ô này
+[12:23] cái vùng dữ liệu liên tiếp của Cái ô này còn nếu như các bạn ấn canh chưa một lần
+[12:25] còn nếu như các bạn ấn canh chưa một lần nữa thì nó sẽ lựa chọn toàn bộ các sếp
+[12:28] nữa thì nó sẽ lựa chọn toàn bộ các sếp này Đấy đấy là cái việc mà mình lựa chọn
+[12:30] này Đấy đấy là cái việc mà mình lựa chọn nhé tiếp theo là diện là chèn cái đồ thị
+[12:34] nhé tiếp theo là diện là chèn cái đồ thị tự động đúng ạ thì cái để chèn cái đồ
+[12:37] tự động đúng ạ thì cái để chèn cái đồ thị tự động thì các bạn sẽ bấm cái phím
+[12:39] thị tự động thì các bạn sẽ bấm cái phím Oppo F1 Ok Giả sử đây là cái vùng dữ
+[12:42] Oppo F1 Ok Giả sử đây là cái vùng dữ liệu của mình nhá Bây giờ mình sẽ xóa
+[12:43] liệu của mình nhá Bây giờ mình sẽ xóa ngay tính tổng này đi đã nhé Bây giờ các
+[12:45] ngay tính tổng này đi đã nhé Bây giờ các bạn chỉ cần ấn An F1 nó sẽ vẽ đồ thị phi
+[12:48] bạn chỉ cần ấn An F1 nó sẽ vẽ đồ thị phi động ở đây Các ạ bấm An F1 này đấy thì
+[12:51] động ở đây Các ạ bấm An F1 này đấy thì nó sẽ các bạn chờ một lát nhé vì ở đây
+[12:53] nó sẽ các bạn chờ một lát nhé vì ở đây thì dữ liệu của mình hơi nhiều gái gọi
+[12:56] thì dữ liệu của mình hơi nhiều gái gọi thấy chưa thì nó sẽ vẽ cái đồ thị doanh
+[12:58] thấy chưa thì nó sẽ vẽ cái đồ thị doanh thu ở đây đây à
+[13:00] thu ở đây đây à các dữ liệu nó rất là nhiều đúng không
+[13:01] các dữ liệu nó rất là nhiều đúng không Thì nó sẽ bị trả như thế này Đấy đấy là
+[13:04] Thì nó sẽ bị trả như thế này Đấy đấy là cái phím tắt để các bạn vẽ đồ thị nhé
+[13:05] cái phím tắt để các bạn vẽ đồ thị nhé bây giờ để cắt thì bạn nhấn phải có bạn
+[13:07] bây giờ để cắt thì bạn nhấn phải có bạn cắt đi thôi đấy chúng ta tiếp theo là
+[13:11] cắt đi thôi đấy chúng ta tiếp theo là mình chọn cả hàng không ạ chả sử mình
+[13:13] mình chọn cả hàng không ạ chả sử mình chọn cả cái hàng thứ 18 này nhá thì bạn
+[13:15] chọn cả cái hàng thứ 18 này nhá thì bạn sẽ bấm nhẹ Các bạn bấm phím ship và các
+[13:17] sẽ bấm nhẹ Các bạn bấm phím ship và các bạn ấn pei đấy thì nó sẽ lựa chọn cả
+[13:19] bạn ấn pei đấy thì nó sẽ lựa chọn cả hàng không ạ Bây giờ còn 4 lựa chọn
+[13:21] hàng không ạ Bây giờ còn 4 lựa chọn nhiều hàng nha ví dụ mình Bôi đen thế
+[13:23] nhiều hàng nha ví dụ mình Bôi đen thế này Thế là mình sẽ modem năm cái ô liên
+[13:26] này Thế là mình sẽ modem năm cái ô liên tiếp nhé thì các bạn giữ shippingspace
+[13:27] tiếp nhé thì các bạn giữ shippingspace thì nó sẽ lựa chọn 5 cái hàng luôn cho
+[13:30] thì nó sẽ lựa chọn 5 cái hàng luôn cho các bạn đấy thì tương tự cái phím tắt mà
+[13:32] các bạn đấy thì tương tự cái phím tắt mà lựa chọn cả cột nha Thì là cardspace bạn
+[13:35] lựa chọn cả cột nha Thì là cardspace bạn nếu như bạn muốn chọn cả các cuộc C này
+[13:37] nếu như bạn muốn chọn cả các cuộc C này nhá vì các bạn thích của một ô bất kỳ
+[13:38] nhá vì các bạn thích của một ô bất kỳ của cột C sau đó gọi ấn cardspace thì nó
+[13:41] của cột C sau đó gọi ấn cardspace thì nó sẽ lựa chọn cả cái cột C này đấy Nếu như
+[13:44] sẽ lựa chọn cả cái cột C này đấy Nếu như các bạn Bôi đen hay cô bất kỳ của cột b
+[13:46] các bạn Bôi đen hay cô bất kỳ của cột b và cụ nghe nha các bạn ấn cardspace thì
+[13:48] và cụ nghe nha các bạn ấn cardspace thì nó xem lựa chọn hai cái cột này cột b và
+[13:50] nó xem lựa chọn hai cái cột này cột b và cùng anh luôn đấy phím tắt tiếp theo là
+[13:53] cùng anh luôn đấy phím tắt tiếp theo là chè hàng thì các bạn giữ cần ship vào
+[13:55] chè hàng thì các bạn giữ cần ship vào dấu cộng nhá thì sau đó ấn phím nghe Rồi
+[13:58] dấu cộng nhá thì sau đó ấn phím nghe Rồi bây giờ giả sử mình chèn khách hàng ở
+[14:00] bây giờ giả sử mình chèn khách hàng ở em xem cái hàng ở trước cái hàng 19 này
+[14:03] em xem cái hàng ở trước cái hàng 19 này và sau cái hàng 18 này đúng không đấy
+[14:05] và sau cái hàng 18 này đúng không đấy thì bạn tích vào Cái ô này và các bạn ấn
+[14:07] thì bạn tích vào Cái ô này và các bạn ấn cao siêu chip vào dấu cộng nhá Đấy thì
+[14:09] cao siêu chip vào dấu cộng nhá Đấy thì nó sẽ hiện của cái cửa sổ lại insta và
+[14:11] nó sẽ hiện của cái cửa sổ lại insta và các bạn gõ trị r vào đây Đấy thì nó sẽ
+[14:14] các bạn gõ trị r vào đây Đấy thì nó sẽ xuống cái này là em thay đâu và bạn sẽ
+[14:16] xuống cái này là em thay đâu và bạn sẽ thích ok và các bạn bấm em tôi nhá Đấy
+[14:19] thích ok và các bạn bấm em tôi nhá Đấy thì nó sẽ chèn một cái hàng ở giữa cái
+[14:21] thì nó sẽ chèn một cái hàng ở giữa cái hàng 18 và 19 bây giờ có bạn sẽ cần xét
+[14:24] hàng 18 và 19 bây giờ có bạn sẽ cần xét để có ẩn vô lại nhá Bây giờ sửa Bạn muốn
+[14:26] để có ẩn vô lại nhá Bây giờ sửa Bạn muốn chèn hai cái hàng thì ăn cái ví dụ mình
+[14:28] chèn hai cái hàng thì ăn cái ví dụ mình chèn hai cái Hành Giữa cái Hằng thứ ba
+[14:30] chèn hai cái Hành Giữa cái Hằng thứ ba và thứ tư là đi thì các bạn sẽ Baron 2 ô
+[14:32] và thứ tư là đi thì các bạn sẽ Baron 2 ô từ cái hàng thứ 5 đấy hàng thứ sáu nhé
+[14:35] từ cái hàng thứ 5 đấy hàng thứ sáu nhé các bạn cần ship vào dấu cộng ở đây sau
+[14:38] các bạn cần ship vào dấu cộng ở đây sau đó bạn bấm vào chữ R lại sẽ Các bạn bấm
+[14:41] đó bạn bấm vào chữ R lại sẽ Các bạn bấm ok thì nó sẽ chèn hai cái hàng ở đây cho
+[14:43] ok thì nó sẽ chèn hai cái hàng ở đây cho các bạn đúng ạ bây giờ qua sẽ cần sương
+[14:45] các bạn đúng ạ bây giờ qua sẽ cần sương rét còn lưu lại tương tự là chèn cột thì
+[14:48] rét còn lưu lại tương tự là chèn cột thì các bạn nó sẽ giống như chè hàng thì
+[14:50] các bạn nó sẽ giống như chè hàng thì thay vì bấm phím R thì bạn bấm phím c r
+[14:53] thay vì bấm phím R thì bạn bấm phím c r là dâu là hàng còn C là khó lần là cột
+[14:55] là dâu là hàng còn C là khó lần là cột đấy thì bây giờ giả sử mình chán cái cột
+[14:58] đấy thì bây giờ giả sử mình chán cái cột giữa cột b và một xe thì bạn sẽ thích
+[15:00] giữa cột b và một xe thì bạn sẽ thích thì các bạn cần ship vào dấu cộng đấy
+[15:02] thì các bạn cần ship vào dấu cộng đấy thì nó sẽ hiện các cửa sổ và các bạn bấm
+[15:05] thì nó sẽ hiện các cửa sổ và các bạn bấm C ở đây tức là mình sẽ chèn cột Đúng
+[15:07] C ở đây tức là mình sẽ chèn cột Đúng không các bạn xem bấm Ok vậy thì như vậy
+[15:09] không các bạn xem bấm Ok vậy thì như vậy nó sẽ chặn cái cổ đây đúng không ạ Bây
+[15:11] nó sẽ chặn cái cổ đây đúng không ạ Bây giờ mình cần xét đi giả sử mình cần chèn
+[15:14] giờ mình cần xét đi giả sử mình cần chèn hai cái cột giữa của B = 1C Đúng không
+[15:16] hai cái cột giữa của B = 1C Đúng không các bạn sẽ Model 2 ô bất kỳ của cây cột
+[15:18] các bạn sẽ Model 2 ô bất kỳ của cây cột C và cuộn đây này sau đó bạn giữ cần
+[15:20] C và cuộn đây này sau đó bạn giữ cần ship vào dấu cộng Các bạn bấm DC đấy thì
+[15:23] ship vào dấu cộng Các bạn bấm DC đấy thì nó sẽ thèm nó sẽ chèn hai cái cột giữa
+[15:25] nó sẽ thèm nó sẽ chèn hai cái cột giữa của B và QC phải có thể uống rất là hai
+[15:27] của B và QC phải có thể uống rất là hai ạ Bây giờ mình ăn nung á Cái thương dép
+[15:30] ạ Bây giờ mình ăn nung á Cái thương dép phím tắt tiếp theo là mình sẽ xóa hàng
+[15:32] phím tắt tiếp theo là mình sẽ xóa hàng và cột ấy thì mình sẽ dùng các phím
+[15:34] và cột ấy thì mình sẽ dùng các phím control + ngay cả dấu trừ đúng ạ Bây giờ
+[15:37] control + ngay cả dấu trừ đúng ạ Bây giờ giả sử mình chèn hai cái cột ngang giữa
+[15:38] giả sử mình chèn hai cái cột ngang giữa cuộc đời của một xe của thằng bạn sẽ
+[15:40] cuộc đời của một xe của thằng bạn sẽ Baron 2 cái ô ở cột C của búp bê các bạn
+[15:42] Baron 2 cái ô ở cột C của búp bê các bạn ấn canxi tố + Các bạn bấm phím C để chèn
+[15:45] ấn canxi tố + Các bạn bấm phím C để chèn cột này Bây giờ mình muốn xóa cái cột C
+[15:47] cột này Bây giờ mình muốn xóa cái cột C và cột bên này đúng không các bạn sẽ bấm
+[15:48] và cột bên này đúng không các bạn sẽ bấm cancel và dấu trừ đang chôn dấu trừ đấy
+[15:52] cancel và dấu trừ đang chôn dấu trừ đấy thì nó sẽ hiện của cái cửa sổ Đây gọi là
+[15:54] thì nó sẽ hiện của cái cửa sổ Đây gọi là cửa sổ Delete Thế là mình sẽ chọn cái
+[15:56] cửa sổ Delete Thế là mình sẽ chọn cái kiểu bao nhiêu lít nếu như bạn muốn xóa
+[15:58] kiểu bao nhiêu lít nếu như bạn muốn xóa cột thì bạn sẽ bấm C
+[16:00] cột thì bạn sẽ bấm C chị sẽ là rõ cột Còn nếu các bạn bấm
+[16:02] chị sẽ là rõ cột Còn nếu các bạn bấm nghe rồi thì nó là xóa hàng đúng không
+[16:03] nghe rồi thì nó là xóa hàng đúng không Thì trong trường hợp này mình muốn xóa
+[16:05] Thì trong trường hợp này mình muốn xóa cái cột C và búp bê Đúng không các bạn
+[16:06] cái cột C và búp bê Đúng không các bạn sẽ nhấn c Đấy và các bạn Bống enter Hoặc
+[16:09] sẽ nhấn c Đấy và các bạn Bống enter Hoặc là các bạn thích ok ở đây cũng được đấy
+[16:11] là các bạn thích ok ở đây cũng được đấy thì nó sẽ xóa hai cái cụt bây giờ để
+[16:13] thì nó sẽ xóa hai cái cụt bây giờ để chèn hàng em mình sẽ Bôi đen 3 đấy hả
+[16:15] chèn hàng em mình sẽ Bôi đen 3 đấy hả Thế các bạn cần chôn ship vào dấu cộng
+[16:17] Thế các bạn cần chôn ship vào dấu cộng Các bạn bấm nghe rồi thì nó sẽ là tiền
+[16:18] Các bạn bấm nghe rồi thì nó sẽ là tiền hạn đúng không Bây giờ mình muốn xóa ba
+[16:20] hạn đúng không Bây giờ mình muốn xóa ba cái hàng này thì bạn giữ cần chôn và các
+[16:22] cái hàng này thì bạn giữ cần chôn và các bạn ấn vào - đấy và bạn gõ chữ L là nó
+[16:26] bạn ấn vào - đấy và bạn gõ chữ L là nó sẽ xóa hàng nó các bạn thân bấm ok đấy
+[16:28] sẽ xóa hàng nó các bạn thân bấm ok đấy là cách xóa hàng nhé tiếp theo là diện
+[16:31] là cách xóa hàng nhé tiếp theo là diện chuyển hàng sang một hàng khác đúng
+[16:33] chuyển hàng sang một hàng khác đúng không ạ thì bạn giữ chuột trái cắn ship
+[16:35] không ạ thì bạn giữ chuột trái cắn ship rồi có thả đấy Bây giờ giả sử mình diện
+[16:38] rồi có thả đấy Bây giờ giả sử mình diện hai cái thủ thuật này nhá Mình muốn đẩy
+[16:41] hai cái thủ thuật này nhá Mình muốn đẩy lên diện đẩy lên trước cái thủ thuật di
+[16:43] lên diện đẩy lên trước cái thủ thuật di chuyển ca sĩ ở đây đúng không chỉ các
+[16:45] chuyển ca sĩ ở đây đúng không chỉ các Model hai cái thủ thuật này để các bạn
+[16:47] Model hai cái thủ thuật này để các bạn Vấn đề cái số thứ tự nha tại vì mình
+[16:49] Vấn đề cái số thứ tự nha tại vì mình muốn cái số thứ tự nó như thế này nó
+[16:51] muốn cái số thứ tự nó như thế này nó không dịch chuyển đúng không mình chỉ di
+[16:53] không dịch chuyển đúng không mình chỉ di chuyển cái vùng mà mình Bôi đen thôi
+[16:54] chuyển cái vùng mà mình Bôi đen thôi đúng không các bạn giữ chuột trái và
+[16:56] đúng không các bạn giữ chuột trái và phím ship đấy các bạn giữ chuột trái và
+[16:58] phím ship đấy các bạn giữ chuột trái và kiếm ship sau đó bạn kéo lên
+[17:00] kiếm ship sau đó bạn kéo lên em lên trước cái thủ thuật mà các bạn bị
+[17:04] em lên trước cái thủ thuật mà các bạn bị chèn đúng không Tớ là cái thủ thuật thứ
+[17:05] chèn đúng không Tớ là cái thủ thuật thứ 9 là di chuyển giữa các sheet này và khi
+[17:07] 9 là di chuyển giữa các sheet này và khi nó hiện cái dấu gạch động ấy thì bạn sẽ
+[17:11] nó hiện cái dấu gạch động ấy thì bạn sẽ nhà tuyệt chảy ra đấy sau đó gọn Minh
+[17:14] nhà tuyệt chảy ra đấy sau đó gọn Minh thả khiến ship ra đấy bạn thấy cho thì
+[17:16] thả khiến ship ra đấy bạn thấy cho thì hai cái thủ thuật này nó được chèn trước
+[17:18] hai cái thủ thuật này nó được chèn trước cái thủ thuật di chuyển giữa các xí luôn
+[17:19] cái thủ thuật di chuyển giữa các xí luôn đấy cảm thấy cũng rất là hai ạ Bây giờ
+[17:22] đấy cảm thấy cũng rất là hai ạ Bây giờ bạn sẽ bấm cần z để undo đấy là cái việc
+[17:24] bạn sẽ bấm cần z để undo đấy là cái việc phải di chuyển nhé di chuyển cũng vậy
+[17:26] phải di chuyển nhé di chuyển cũng vậy bây giờ giả sử mình muốn chuyển cái cột
+[17:29] bây giờ giả sử mình muốn chuyển cái cột b này sang so với cụ c này chẳng hạn thế
+[17:31] b này sang so với cụ c này chẳng hạn thế nhá thì mình là như thế nào mình sẽ tích
+[17:33] nhá thì mình là như thế nào mình sẽ tích và cả cái cột b đúng không ạ Đấy các bạn
+[17:35] và cả cái cột b đúng không ạ Đấy các bạn sẽ di chuyển vào một cách chặn bất kỳ ở
+[17:36] sẽ di chuyển vào một cách chặn bất kỳ ở đây khi mà nó hiện cái mũi tên sẽ ra bốn
+[17:39] đây khi mà nó hiện cái mũi tên sẽ ra bốn bên Thế còn giữ kín ship nhé các bạn
+[17:41] bên Thế còn giữ kín ship nhé các bạn ship là kéo sang đây đấy Đấy nó sẽ hiện
+[17:44] ship là kéo sang đây đấy Đấy nó sẽ hiện của cái đường sọc giữa của C và cột b
+[17:46] của cái đường sọc giữa của C và cột b thì các bạn thể bỏ cái chuột trái ra thì
+[17:48] thì các bạn thể bỏ cái chuột trái ra thì sau đó qua cái vỏ phím ship đấy thì như
+[17:51] sau đó qua cái vỏ phím ship đấy thì như vậy mình đã hoán đổi giữa cột C và cột
+[17:53] vậy mình đã hoán đổi giữa cột C và cột bên đấy là nếu không rất là hai ạ Bây
+[17:55] bên đấy là nếu không rất là hai ạ Bây giờ các bạn dự tính phải tương xét nhé
+[17:56] giờ các bạn dự tính phải tương xét nhé mình sẽ vui lắm đấy chúng ta
+[18:00] mình sẽ vui lắm đấy chúng ta a nguyên xác định hàng và cột đúng ạ thì
+[18:02] a nguyên xác định hàng và cột đúng ạ thì để ẩn hàng thì các bạn sẽ ấn cần chôn và
+[18:04] để ẩn hàng thì các bạn sẽ ấn cần chôn và số 9 cẩn cột thì có sẽ ấn cần chung vào
+[18:06] số 9 cẩn cột thì có sẽ ấn cần chung vào số không Bây giờ giả sử mình muốn ẩn cột
+[18:09] số không Bây giờ giả sử mình muốn ẩn cột đi nhá Ví dụ mình ẩn cái cột C này thì
+[18:11] đi nhá Ví dụ mình ẩn cái cột C này thì các bạn sẽ lìa ấn control vào số không
+[18:13] các bạn sẽ lìa ấn control vào số không đấy thì nó sẽ ẩn cái cục này đúng ạ Bây
+[18:16] đấy thì nó sẽ ẩn cái cục này đúng ạ Bây giờ bạn sẽ cần tránh rét để mình ăn đu
+[18:17] giờ bạn sẽ cần tránh rét để mình ăn đu lại bây giờ để hàng nha ví dụ như Ẩn
+[18:20] lại bây giờ để hàng nha ví dụ như Ẩn khách hàng thứ 24 là nhá đây thì các bạn
+[18:22] khách hàng thứ 24 là nhá đây thì các bạn giữ cần chun và gọi là số 9 đấy thì nó
+[18:24] giữ cần chun và gọi là số 9 đấy thì nó đã ẩn cái hàng thứ hai bốn này lại cảm
+[18:26] đã ẩn cái hàng thứ hai bốn này lại cảm thấy ông rất là hay bây giờ còn từ tương
+[18:28] thấy ông rất là hay bây giờ còn từ tương dép lại nhá thì để nhiều cột Ví dụ mình
+[18:30] dép lại nhá thì để nhiều cột Ví dụ mình ẩn cái cột b và một xe này nha các bạn
+[18:32] ẩn cái cột b và một xe này nha các bạn sẽ poland hay ô bất kỳ của cột b và cột
+[18:34] sẽ poland hay ô bất kỳ của cột b và cột C đúng không các bạn giữ diện các bạn ấn
+[18:36] C đúng không các bạn giữ diện các bạn ấn càng chun và số không đấy thì nó sẽ ẩn
+[18:38] càng chun và số không đấy thì nó sẽ ẩn cả cái cột b và QC lại rất là hay bây
+[18:40] cả cái cột b và QC lại rất là hay bây giờ mình cần xét lại ví dụ để ẩn 4 cái
+[18:44] giờ mình cần xét lại ví dụ để ẩn 4 cái Hạnh này thì các bạn xem bodil40 ô bất
+[18:46] Hạnh này thì các bạn xem bodil40 ô bất kỳ của cái hàng này đúng không Sau đó
+[18:48] kỳ của cái hàng này đúng không Sau đó bạn diện ấn cái chuông số 9 đấy thì nó
+[18:50] bạn diện ấn cái chuông số 9 đấy thì nó sẽ Ẩn toàn bộ các khách hàng mà có lựa
+[18:52] sẽ Ẩn toàn bộ các khách hàng mà có lựa chọn ở trên đúng không ạ Bây giờ mình sẽ
+[18:54] chọn ở trên đúng không ạ Bây giờ mình sẽ lưu lại đây là cái phím tắt để nhận hàng
+[18:57] lưu lại đây là cái phím tắt để nhận hàng và cột nhá chúng ta tiếp theo
+[19:00] và cột nhá chúng ta tiếp theo Vì sao nhìn thấy mình sẽ sử dụng cái
+[19:02] Vì sao nhìn thấy mình sẽ sử dụng cái phím An + chấm phẩy nhá Bây giờ giả sử
+[19:04] phím An + chấm phẩy nhá Bây giờ giả sử mình ăn cái cột C này đi nhá thì các bạn
+[19:06] mình ăn cái cột C này đi nhá thì các bạn rẻ cạn dưới control và số không Đấy là
+[19:08] rẻ cạn dưới control và số không Đấy là mình ảnh cái cột C này Bây giờ mình ẩn
+[19:11] mình ảnh cái cột C này Bây giờ mình ẩn tiếp là ví dụ diện mình vẫn tiếp cái
+[19:13] tiếp là ví dụ diện mình vẫn tiếp cái hàng thứ 21 này nhá thì bạn gì À cần
+[19:15] hàng thứ 21 này nhá thì bạn gì À cần chôn một số 9 thì như vậy mình ngẩn cái
+[19:17] chôn một số 9 thì như vậy mình ngẩn cái hàng 21 và thì cái cột C bây giờ mình để
+[19:20] hàng 21 và thì cái cột C bây giờ mình để lựa chọn các xem nhìn thấy đây là tất cả
+[19:22] lựa chọn các xem nhìn thấy đây là tất cả các xe này là sao nhìn thấy đúng không
+[19:23] các xe này là sao nhìn thấy đúng không các bạn sẽ bấm gì An chấm phẩy đấy thì
+[19:26] các bạn sẽ bấm gì An chấm phẩy đấy thì nó Lựa Chọn toàn bộ các cái Sao nhìn
+[19:28] nó Lựa Chọn toàn bộ các cái Sao nhìn thấy còn những diện những cái hàng ẩn và
+[19:30] thấy còn những diện những cái hàng ẩn và những cục ẩn Chúng là những Excel và họ
+[19:32] những cục ẩn Chúng là những Excel và họ không nhìn thấy đây này Đấy thì nó sẽ
+[19:34] không nhìn thấy đây này Đấy thì nó sẽ không lựa chọn thì cái phím an và cái
+[19:37] không lựa chọn thì cái phím an và cái chấm phẩy đây thì họ sẽ biết được làm
+[19:38] chấm phẩy đây thì họ sẽ biết được làm thiệt cái hàng nào là Cột nào đang ẩn
+[19:40] thiệt cái hàng nào là Cột nào đang ẩn đây còn nhìn thấy đây các bạn biết ngay
+[19:42] đây còn nhìn thấy đây các bạn biết ngay là cái cục C nhà và cái hàng thứ 19 được
+[19:44] là cái cục C nhà và cái hàng thứ 19 được ạ Để Thì đấy là cái công dụng để mình có
+[19:47] ạ Để Thì đấy là cái công dụng để mình có thể biết được là cái hàng và cô nào bí
+[19:49] thể biết được là cái hàng và cô nào bí ẩn nhá Đấy mình sẽ dùng cái pin mình sử
+[19:51] ẩn nhá Đấy mình sẽ dùng cái pin mình sử dụng các phím An + chấm phẩy dài gọn
+[19:54] dụng các phím An + chấm phẩy dài gọn thích vào đây Bây giờ bạn bấm không rét
+[19:55] thích vào đây Bây giờ bạn bấm không rét để undo cái việc ẩn lại vừa xong nhá
+[19:57] để undo cái việc ẩn lại vừa xong nhá phím tắt Cuối Cùng là điền nha
+[20:00] phím tắt Cuối Cùng là điền nha A gọi là phát phiêu thì các bạn vào cái
+[20:02] A gọi là phát phiêu thì các bạn vào cái xi ba này nhá giả sử ở đây Mình có họ
+[20:04] xi ba này nhá giả sử ở đây Mình có họ này tên này Bây giờ mình sẽ lấy thành
+[20:06] này tên này Bây giờ mình sẽ lấy thành cái tên đầy đủ đúng không Thì cái
+[20:08] cái tên đầy đủ đúng không Thì cái freshview này Khánh hay các bạn chỉ cần
+[20:10] freshview này Khánh hay các bạn chỉ cần nhập một cái thôi ở đây ví dụ đây là
+[20:12] nhập một cái thôi ở đây ví dụ đây là Nguyễn Văn An đúng là cao thì gõ đầy đủ
+[20:13] Nguyễn Văn An đúng là cao thì gõ đầy đủ là Nguyễn này Văn A đấy Sau đó thì các
+[20:17] là Nguyễn này Văn A đấy Sau đó thì các bạn sẽ bấm cần trước E là được đấy Bạn
+[20:19] bạn sẽ bấm cần trước E là được đấy Bạn thấy chưa thì nó sẽ hiểu là diện nó sẽ
+[20:21] thấy chưa thì nó sẽ hiểu là diện nó sẽ Flashtool rất là nó sẽ biến nhanh cho
+[20:22] Flashtool rất là nó sẽ biến nhanh cho toàn bộ với danh sách còn lại tức là nó
+[20:24] toàn bộ với danh sách còn lại tức là nó sẽ gộp cái dữ liệu của cột a và cột bên
+[20:26] sẽ gộp cái dữ liệu của cột a và cột bên ạ ạ đấy còn thấy không rất là hai ạ Cái
+[20:29] ạ ạ đấy còn thấy không rất là hai ạ Cái flash này gọi chú ý nhé Nó chỉ có từ cái
+[20:31] flash này gọi chú ý nhé Nó chỉ có từ cái phiên bản Excel 2013 thôi nếu các bạn mà
+[20:33] phiên bản Excel 2013 thôi nếu các bạn mà cài kỹ cho bạn cũ hơn thì nó sẽ không có
+[20:35] cài kỹ cho bạn cũ hơn thì nó sẽ không có cái class này đâu nhé Đấy Ok như vậy là
+[20:40] cái class này đâu nhé Đấy Ok như vậy là mình đã kết thúc bài học ngày hôm nay ở
+[20:41] mình đã kết thúc bài học ngày hôm nay ở đây cảm ơn các bạn đã theo dõi các bạn
+[20:44] đây cảm ơn các bạn đã theo dõi các bạn nhớ đăng ký Kênh để cập nhật video mới
+[20:46] nhớ đăng ký Kênh để cập nhật video mới nhất của gà cũng như chia sẻ để giúp mọi
+[20:48] nhất của gà cũng như chia sẻ để giúp mọi người cùng học ít sao nhé Xin chào và
+[20:50] người cùng học ít sao nhé Xin chào và hẹn gặp lại à
+[21:00] hẹn gặp lại à ừ ừ
+[21:01] ừ ừ [âm nhạc]

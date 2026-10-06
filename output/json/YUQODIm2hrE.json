@@ -1,0 +1,508 @@
+{
+  "bai": "Bai 02 nhap lieu va lam quen thanh phan Excel",
+  "cau_hoi": [
+    {
+      "A": "Save cap nhat trang thai gan nhat; Save As tao file moi",
+      "B": "Save va Save As giong het nhau",
+      "C": "Save de xoa file",
+      "D": "Save As de tat may",
+      "cau": "Save va Save As giong va khac nhau the nao?",
+      "dap_an": "A",
+      "giai_thich": "Giong khi dat ten lan dau; khac khi da co ten: Save cap nhat, Save As tao file moi.",
+      "id": 1
+    },
+    {
+      "A": "Khong doi duoc",
+      "B": "Doi duoc bang cach vao Control Panel > Region > Format chon English (US) hoac Vietnamese",
+      "C": "Phai cai lai Windows",
+      "D": "Phai mua Excel moi",
+      "cau": "Co doi duoc mac dinh nhap ngay truoc hay thang truoc khong?",
+      "dap_an": "B",
+      "giai_thich": "Doi trong Region: US la thang truoc, Vietnam la ngay truoc.",
+      "id": 2
+    },
+    {
+      "A": "Chon Vietnamese thi nhap ngay/thang/nam",
+      "B": "Chon Vietnamese thi nhap gio",
+      "C": "Chon English (US) thi nhap thang/ngay/nam",
+      "D": "Ca hai deu sai",
+      "cau": "Neu chon Format la English (US) thi nhap ngay thang the nao?",
+      "dap_an": "C",
+      "giai_thich": "US thi thang truoc ngay sau; Vietnam thi ngay truoc.",
+      "id": 3
+    },
+    {
+      "A": "Nam ben trai la Text, nam sat ben phai la so/ngay thang that",
+      "B": "Ben nao cung giong nhau",
+      "C": "Ben trai la so",
+      "D": "Ben phai la Text",
+      "cau": "Cach nhan biet o nhap dung ngay thang/so hay dang Text?",
+      "dap_an": "A",
+      "giai_thich": "Text can trai, so/ngay thang can phai.",
+      "id": 4
+    },
+    {
+      "A": "Insert > Picture > chon anh thoi khoa bieu de nhin mau",
+      "B": "Khong chen duoc anh",
+      "C": "Phai ve tay",
+      "D": "Chup man hinh",
+      "cau": "De co mau nhap lieu, video chen gi vao sheet?",
+      "dap_an": "A",
+      "giai_thich": "Insert > Picture de chen anh mau thoi khoa bieu.",
+      "id": 5
+    },
+    {
+      "A": "Go Thu 2 roi keo fill handle (dau cong nho goc duoi phai) sang den Thu 6",
+      "B": "Go tung ngay thu cong",
+      "C": "Copy tren mang",
+      "D": "Khong dien duoc",
+      "cau": "Cach dien nhanh Thu 2 den Thu 6?",
+      "dap_an": "A",
+      "giai_thich": "Go Thu 2 roi keo fill handle; Excel tu dien.",
+      "id": 6
+    },
+    {
+      "A": "Keo bien cot hoac double-click giua 2 tieu de cot",
+      "B": "De nguyen",
+      "C": "Xoa cot",
+      "D": "Thu nho chu",
+      "cau": "Khi noi dung Tiet 1 (7:30-8:15) bi che thi lam gi?",
+      "dap_an": "A",
+      "giai_thich": "Keo rong hoac double-click AutoFit.",
+      "id": 7
+    },
+    {
+      "A": "Double-click vao o de sua, vi du sua Tiet 2, Tiet 3...",
+      "B": "Khong sua duoc",
+      "C": "Phai xoa het",
+      "D": "Phai tao sheet moi",
+      "cau": "Cach sua noi dung trong o nhanh?",
+      "dap_an": "A",
+      "giai_thich": "Double-click de sua truc tiep.",
+      "id": 8
+    },
+    {
+      "A": "Gop bang cach xoa",
+      "B": "Khong gop duoc",
+      "C": "Gop bang keo dan",
+      "D": "Boi den B3:B6 > Home > Merge & Center de gop thanh SANG",
+      "cau": "Cach gop o B3:B6 thanh chu SANG?",
+      "dap_an": "D",
+      "giai_thich": "Boi den roi Merge & Center.",
+      "id": 9
+    },
+    {
+      "A": "Chuot phai > Format Cells > Border > chon gach cheo > OK",
+      "B": "Ve bang but chi",
+      "C": "Khong ke duoc",
+      "D": "Dung thuoc ke",
+      "cau": "Cach tao gach cheo trong o B2?",
+      "dap_an": "A",
+      "giai_thich": "Format Cells > Border > gach cheo.",
+      "id": 10
+    },
+    {
+      "A": "Giu Alt + Enter de xuong dong, dung Space de can chu",
+      "B": "Nhan Enter la xuong dong",
+      "C": "Khong xuong dong duoc",
+      "D": "Phai tao o moi",
+      "cau": "Cach viet 2 dong Thoi gian / Buoi trong 1 o?",
+      "dap_an": "A",
+      "giai_thich": "Alt+Enter xuong dong trong o.",
+      "id": 11
+    },
+    {
+      "A": "Boi den vung tieu de > Home > mau nen vang, mau chu do, chu dam B",
+      "B": "De trang den",
+      "C": "Khong to mau duoc",
+      "D": "To bang son",
+      "cau": "Cach to mau nen va chu cho tieu de?",
+      "dap_an": "A",
+      "giai_thich": "Dung Fill Color va Font Color.",
+      "id": 12
+    },
+    {
+      "A": "Nhap mon hoc dang Toan: Co A - Dia ly...",
+      "B": "Khong nhap duoc",
+      "C": "Nhap dai tuy y",
+      "D": "Nhap tu do khong can mau",
+      "cau": "Vi du nhap mon hoc Thu 2 trong video?",
+      "dap_an": "A",
+      "giai_thich": "Nhap theo mau trong anh thoi khoa bieu.",
+      "id": 13
+    },
+    {
+      "A": "Chuot phai vao anh > Cut de xoa anh mau",
+      "B": "De anh lai mai",
+      "C": "Khong xoa duoc anh",
+      "D": "Xoa ca sheet",
+      "cau": "Sau khi nhap xong thi xu ly anh mau the nao?",
+      "dap_an": "A",
+      "giai_thich": "Chuot phai > Cut de xoa anh.",
+      "id": 14
+    },
+    {
+      "A": "Formula Bar hien noi dung that: Text thi hien text, cong thuc thi hien cong thuc",
+      "B": "Formula Bar de luu file",
+      "C": "Formula Bar de in",
+      "D": "Formula Bar khong co tac dung",
+      "cau": "Thanh Formula Bar co tac dung gi?",
+      "dap_an": "A",
+      "giai_thich": "Hien noi dung that cua o, dac biet la cong thuc.",
+      "id": 15
+    },
+    {
+      "A": "Name Box hien dia chi o hoac vung; co the dat ten vung",
+      "B": "Name Box de nghe nhac",
+      "C": "Name Box de xem phim",
+      "D": "Name Box vo dung",
+      "cau": "O Name Box ben trai Formula Bar co tac dung gi?",
+      "dap_an": "A",
+      "giai_thich": "Hien dia chi o, co the dat ten vung.",
+      "id": 16
+    },
+    {
+      "A": "File: New, Open, Info, Save, Save As, Print, Export, Close, Options",
+      "B": "File chi co Save",
+      "C": "File khong co gi",
+      "D": "File de thoat",
+      "cau": "The File chua nhung gi?",
+      "dap_an": "A",
+      "giai_thich": "New, Open, Info, Save, Save As, Print, Export, Close, Options.",
+      "id": 17
+    },
+    {
+      "A": "New > Blank workbook hoac chon Template lich, bang bieu co san",
+      "B": "New de xoa",
+      "C": "New de tat",
+      "D": "Khong tao duoc file moi",
+      "cau": "Trong File > New co gi dac biet?",
+      "dap_an": "A",
+      "giai_thich": "Co Blank workbook va nhieu Template san.",
+      "id": 18
+    },
+    {
+      "A": "Home, Insert, Page Layout, Formulas, Data, Review, View",
+      "B": "Chi co 1 the",
+      "C": "Khong co the nao",
+      "D": "Chi co File",
+      "cau": "Cac the (Tab) Ribbon chinh la gi?",
+      "dap_an": "A",
+      "giai_thich": "Home, Insert, Page Layout, Formulas, Data, Review, View.",
+      "id": 19
+    },
+    {
+      "A": "Moi the chua cac nhom lenh, moi nhom chua cac chuc nang cu the",
+      "B": "Moi the chi co 1 nut",
+      "C": "The khong co nhom",
+      "D": "Nhom khong co chuc nang",
+      "cau": "Cau truc cua moi the Ribbon?",
+      "dap_an": "A",
+      "giai_thich": "The > nhom lenh > chuc nang cu the.",
+      "id": 20
+    },
+    {
+      "A": "B dam, I nghieng, U gach chan; nhan lai de bo",
+      "B": "B de xoa",
+      "C": "I de in",
+      "D": "U de thoat",
+      "cau": "Cac nut B, I, U trong nhom Font la gi?",
+      "dap_an": "A",
+      "giai_thich": "Bold, Italic, Underline.",
+      "id": 21
+    },
+    {
+      "A": "Chon font chu phu thuoc nhu VN Times, go truc tiep co chu 13, 14, 16",
+      "B": "Khong doi duoc font",
+      "C": "Chi co 1 font",
+      "D": "Font co dinh",
+      "cau": "Cach doi font va co chu?",
+      "dap_an": "A",
+      "giai_thich": "Chon trong dropdown hoac go truc tiep co chu.",
+      "id": 22
+    },
+    {
+      "A": "Fill Color to nen o, Font Color doi mau chu",
+      "B": "Hai nut nay giong nhau",
+      "C": "Khong co tac dung",
+      "D": "De xoa o",
+      "cau": "Phan biet Fill Color va Font Color?",
+      "dap_an": "A",
+      "giai_thich": "Fill la nen o, Font la mau chu.",
+      "id": 23
+    },
+    {
+      "A": "Can trai, can giua, can phai; can giua doc/ngang cho tieu de",
+      "B": "Chi can trai",
+      "C": "Khong can duoc",
+      "D": "Can bang tay",
+      "cau": "Nhom Alignment can le the nao?",
+      "dap_an": "A",
+      "giai_thich": "Can trai/giua/phai, thuong can giua tieu de.",
+      "id": 24
+    },
+    {
+      "A": "Orientation xoay chu 45 do hoac nhap do trong Format Cells",
+      "B": "Khong xoay duoc",
+      "C": "Xoay bang tay",
+      "D": "Chu luon ngang",
+      "cau": "Cach xoay chu trong o?",
+      "dap_an": "A",
+      "giai_thich": "Dung Orientation hoac Format Cells > Alignment > Degrees.",
+      "id": 25
+    },
+    {
+      "A": "Number: General, Number, Currency, Date, Percentage...",
+      "B": "Chi co dang text",
+      "C": "Khong co dinh dang so",
+      "D": "So tu hien",
+      "cau": "Nhom Number co cac dinh dang nao?",
+      "dap_an": "A",
+      "giai_thich": "So, tien te, ngay thang, phan tram...",
+      "id": 26
+    },
+    {
+      "A": "Tang/giam chu so thap phan, phan cach hang nghin",
+      "B": "Khong dinh dang duoc",
+      "C": "Chi de nguyen",
+      "D": "Phai tinh tay",
+      "cau": "Nut phan cach hang nghin co tac dung gi?",
+      "dap_an": "A",
+      "giai_thich": "Ngan cach hang nghin cho de doc.",
+      "id": 27
+    },
+    {
+      "A": "Chon vung roi nhan Delete de xoa noi dung",
+      "B": "Khong xoa duoc",
+      "C": "Phai xoa tung o",
+      "D": "Xoa bang cach tat may",
+      "cau": "Cach xoa noi dung nhieu o?",
+      "dap_an": "A",
+      "giai_thich": "Chon vung roi Delete.",
+      "id": 28
+    },
+    {
+      "A": "File > Save de luu bai Thoi khoa bieu sau khi nhap",
+      "B": "Khong can luu",
+      "C": "Nho nguoi khac luu",
+      "D": "Tat la xong",
+      "cau": "Sau khi lam xong thoi khoa bieu thi lam gi?",
+      "dap_an": "A",
+      "giai_thich": "File > Save de luu.",
+      "id": 29
+    },
+    {
+      "A": "Dung de mo file cu",
+      "B": "Quick Access Toolbar de gan lenh hay dung nhu Merge & Center, %",
+      "C": "Khong them duoc",
+      "D": "Thanh nay vo dung",
+      "cau": "Cau hoi bai 2 ve Quick Access Toolbar la gi?",
+      "dap_an": "B",
+      "giai_thich": "Co the them cong cu vao thanh truy cap nhanh.",
+      "id": 30
+    },
+    {
+      "A": "Vao File > Options > General > doi font va co chu mac dinh, khoi dong lai Excel",
+      "B": "Khong doi duoc",
+      "C": "Doi bang cach mua may moi",
+      "D": "Font mai mai co dinh",
+      "cau": "Co doi duoc font/co chu mac dinh khi tao file moi khong?",
+      "dap_an": "A",
+      "giai_thich": "Vao Options > General de doi, khoi dong lai.",
+      "id": 31
+    },
+    {
+      "A": "Chon vung C3:C10 roi keo rong de de nhin gio hoc",
+      "B": "De hep kho doc",
+      "C": "Xoa gio hoc",
+      "D": "Ghi gio hoc ra giay",
+      "cau": "Cach trinh bay cot gio hoc cho de nhin?",
+      "dap_an": "A",
+      "giai_thich": "Keo rong cot gio hoc.",
+      "id": 32
+    },
+    {
+      "A": "Nhap Tiet 1 buoi chieu 13:30-14:15, Tiet 2 14:30-15:15, Tiet 3 15:30-16:15, Tiet 4 16:30-17:15",
+      "B": "Buoi chieu nghi",
+      "C": "Chi hoc buoi sang",
+      "D": "Khong co buoi chieu",
+      "cau": "Cac tiet buoi chieu trong vi du la may gio?",
+      "dap_an": "A",
+      "giai_thich": "Theo transcript: 13:30-14:15, 14:30-15:15, 15:30-16:15, 16:30-17:15.",
+      "id": 33
+    },
+    {
+      "A": "Sang 4 tiet, chieu 4 tiet trong vi du",
+      "B": "Sang 1 tiet",
+      "C": "Chieu 1 tiet",
+      "D": "Khong co tiet nao",
+      "cau": "Thoi khoa bieu mau co bao nhieu tiet moi buoi?",
+      "dap_an": "A",
+      "giai_thich": "4 tiet sang, 4 tiet chieu.",
+      "id": 34
+    },
+    {
+      "A": "Boi den 2 o tieu de roi can giua de dep hon",
+      "B": "De lech",
+      "C": "Khong can can",
+      "D": "Can bang mat",
+      "cau": "Tieu de SANG/Chieu nen can chinh the nao?",
+      "dap_an": "A",
+      "giai_thich": "Boi den 2 o roi can giua.",
+      "id": 35
+    },
+    {
+      "A": "Bam Don't Save de dong ma khong luu file test",
+      "B": "Bat buoc luu",
+      "C": "Khong dong duoc",
+      "D": "Phai luu moi dong duoc",
+      "cau": "Khi dong file test ve dinh dang ngay thang thi chon gi?",
+      "dap_an": "A",
+      "giai_thich": "Chon Don't Save de khong luu.",
+      "id": 36
+    },
+    {
+      "A": "Kiem tra lai Region sau khi doi de chac chan ap dung",
+      "B": "Khong can kiem tra",
+      "C": "Doan mo",
+      "D": "Nho thay kiem tra",
+      "cau": "Sau khi doi Region thi nen lam gi?",
+      "dap_an": "A",
+      "giai_thich": "Mo lai Excel va nhap thu de kiem tra.",
+      "id": 37
+    },
+    {
+      "A": "Nen de chuan Anh-My vi tai lieu huong dan chuan hon",
+      "B": "Nen de tieng Viet",
+      "C": "De the nao cung duoc",
+      "D": "Khong quan trong",
+      "cau": "Giang vien khuyen nen de chuan ngay thang nao?",
+      "dap_an": "A",
+      "giai_thich": "Khuyen de chuan Anh-My.",
+      "id": 38
+    },
+    {
+      "A": "Mo file len thay ngay 25/2/2020 nam ben phai la dung",
+      "B": "Nam ben trai la dung",
+      "C": "O dau cung dung",
+      "D": "Khong phan biet duoc",
+      "cau": "Kiem tra nhap ngay 25/2/2020 dung kieu Vietnam thi thay gi?",
+      "dap_an": "A",
+      "giai_thich": "Nam sat ben phai la dung.",
+      "id": 39
+    },
+    {
+      "A": "Thuc hanh lap lai bang thoi khoa bieu cho Thu 3-6 va buoi chieu",
+      "B": "Chi can xem",
+      "C": "Khong can thuc hanh",
+      "D": "Nho nguoi lam ho",
+      "cau": "Bai tap ve nha cua bai 2 la gi?",
+      "dap_an": "A",
+      "giai_thich": "Tu nhap cac ngay con lai theo mau.",
+      "id": 40
+    }
+  ],
+  "cong_thuc": [
+    {
+      "cu_phap": "Control Panel > Region > Format: English (United States) / Vietnamese",
+      "giai_thich": "Doi chuan nhap ngay thang: US nhap thang/ngay/nam, Vietnam nhap ngay/thang/nam. Text can trai, so/ngay that can phai.",
+      "ten": "Doi dinh dang Region ngay thang",
+      "vi_du": "Chon Vietnamese roi nhap 25/2/2020 se can phai la dung; nhap 2/25/2020 se thanh Text can trai"
+    },
+    {
+      "cu_phap": "File > Save (cap nhat) / File > Save As (tao file moi)",
+      "giai_thich": "Lan dau ca hai giong nhau de dat ten; khi da co ten thi Save cap nhat, Save As tao file moi.",
+      "ten": "Save vs Save As",
+      "vi_du": "File Nhap lieu Thoi khoa bieu: Save de luu tiep, Save As de tao ban moi"
+    },
+    {
+      "cu_phap": "Go o dau > keo fill handle (+) sang phai",
+      "giai_thich": "Tu dien chuoi Thu 2 den Thu 6 bang cach keo dau cong nho goc duoi phai o.",
+      "ten": "Fill handle dien Thu",
+      "vi_du": "Go Thu 2 tai D2, keo sang den H2 duoc Thu 3, Thu 4, Thu 5, Thu 6"
+    },
+    {
+      "cu_phap": "Home > Merge & Center",
+      "giai_thich": "Gop nhieu o thanh 1 va can giua, dung cho chu SANG, CHIEU.",
+      "ten": "Merge & Center",
+      "vi_du": "Boi den B3:B6 > Merge & Center > go SANG"
+    },
+    {
+      "cu_phap": "Chuot phai > Format Cells > Border > cheo (/ \\) > OK",
+      "giai_thich": "Tao duong gach cheo trong o tieu de B2.",
+      "ten": "Ke gach cheo o",
+      "vi_du": "O B2 co gach cheo de chia Thoi gian / Buoi"
+    },
+    {
+      "cu_phap": "Alt + Enter xuong dong; Space can le",
+      "giai_thich": "Xuong dong trong cung 1 o va dung dau cach de day chu sat goc.",
+      "ten": "Xuong dong trong o",
+      "vi_du": "Go Thoi gian, Alt+Enter, go Buoi trong o B2"
+    },
+    {
+      "cu_phap": "Home > Fill Color / Font Color / Bold (B) / Italic (I) / Underline (U)",
+      "giai_thich": "To nen, doi mau chu, dam, nghieng, gach chan. Chon font va go truc tiep co chu 13, 16.",
+      "ten": "Dinh dang Font",
+      "vi_du": "Tieu de nen vang, chu do, dam, co 13"
+    },
+    {
+      "cu_phap": "Home > Alignment: Left/Center/Right, Top/Middle/Bottom, Orientation",
+      "giai_thich": "Can trai/giua/phai, xoay chu 45 do hoac nhap do trong Format Cells.",
+      "ten": "Can le va xoay chu",
+      "vi_du": "Can giua tieu de; xoay 0 do de ve thang"
+    },
+    {
+      "cu_phap": "Formula Bar hien noi dung that; Name Box hien dia chi/dat ten vung",
+      "giai_thich": "Formula Bar cho biet o la Text hay cong thuc (=5+14=19). Name Box dat ten vung.",
+      "ten": "Formula Bar va Name Box",
+      "vi_du": "Click o co =5+14 thi Formula Bar hien cong thuc, o hien 19"
+    },
+    {
+      "cu_phap": "Insert > Picture > chon anh",
+      "giai_thich": "Chen anh mau thoi khoa bieu de nhin va nhap theo, xong Cut de xoa.",
+      "ten": "Chen anh mau",
+      "vi_du": "Insert > Picture > anh Thoi khoa bieu"
+    },
+    {
+      "cu_phap": "File > New > Blank workbook / Template; File > Options > General doi font mac dinh",
+      "giai_thich": "Tao file moi tu trang hoac mau lich san; doi font/co chu mac dinh phai khoi dong lai Excel.",
+      "ten": "New, Template, Options font mac dinh",
+      "vi_du": "New > Calendar template; Options doi Calibri 11 thanh Arial 13"
+    },
+    {
+      "cu_phap": "Home > Number: General, Number, Currency ($), Percentage (%), Comma (,), Tang/Giam thap phan",
+      "giai_thich": "Dinh dang so: tien te $, phan tram (0.9 thanh 90%), phan cach nghin, tang giam so thap phan.",
+      "ten": "Dinh dang Number",
+      "vi_du": "Go 9 chon Currency thanh $9; go 0.9 chon % thanh 90%"
+    },
+    {
+      "cu_phap": "Boi den vung > Home > Borders > All Borders; chon vung nhan Delete de xoa noi dung",
+      "giai_thich": "Ke vien bao quanh toan bang; phim Delete xoa noi dung cac o da chon.",
+      "ten": "Ke vien va xoa noi dung",
+      "vi_du": "Boi den B2:H10 > All Borders; chon vung nhan Delete"
+    },
+    {
+      "cu_phap": "Data > Filter de loc; View > Freeze Panes > Freeze Panes de co dinh tieu de hang 2",
+      "giai_thich": "Loc du lieu theo tieu chi; co dinh hang tieu de de cuon xuong van thay.",
+      "ten": "Filter va Freeze Panes",
+      "vi_du": "Chon Filter chi hien Tiet 1; chon hang 3 > Freeze de giu hang 2"
+    },
+    {
+      "cu_phap": "Formulas > Insert Function (fx) de tra cuu ham; Calculation Options: Automatic/Manual; Status Bar hien Sum/Average/Count/Min/Max; Zoom +/-",
+      "giai_thich": "Tra cuu cu phap ham vi du SUM; de Automatic de cong thuc tu cap nhat; boi den vung xem nhanh tong/trung binh duoi thanh trang thai.",
+      "ten": "Chen ham, che do tinh toan va thanh trang thai",
+      "vi_du": "Boi den 2 o thay Sum=16, Average=8; fx go SUM xem huong dan"
+    }
+  ],
+  "thuat_toan_quy_trinh": [
+    "Buoc 1: Tra loi bai cu: Save cap nhat, Save As tao file moi; doi Region US/Vietnam de doi cach nhap thang/ngay.",
+    "Buoc 2: Tai folder Bai 2, mo Excel trang, Insert > Picture chen anh thoi khoa bieu mau.",
+    "Buoc 3: Nhap Buoi/Tiet: go Thu 2 roi keo fill handle den Thu 6; nhap cac Tiet kem gio 7:30-8:15...",
+    "Buoc 4: Boi den vung SANG/CHIEU > Merge & Center; tao gach cheo o B2 bang Format Cells > Border; go Thoi gian Alt+Enter Buoi.",
+    "Buoc 5: Boi den toan bang > All Borders; to nen vang, chu do, dam tieu de; can giua.",
+    "Buoc 6: Nhap mon hoc theo mau, xoa anh, File > Save voi ten Nhap lieu Thoi khoa bieu.",
+    "Buoc 7: Lam quen thanh phan: Formula Bar, Name Box, cac tab File/Home..., nhom Font/Alignment/Number."
+  ],
+  "url": "https://www.youtube.com/watch?v=YUQODIm2hrE",
+  "video_id": "YUQODIm2hrE"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "webexcel",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hoc Excel & Word - static frontend + Vercel serverless API + MongoDB Atlas",
+  "type": "commonjs",
+  "scripts": {
+    "seed": "node scripts/seed.mjs"
+  },
+  "dependencies": {
+    "mongodb": "^6.17.0"
+  }
+}

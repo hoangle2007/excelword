@@ -1,0 +1,107 @@
+[00:00] Chào mừng bạn đến với kinh tin học đố bảo nâng bước.
+[00:03] Ví do ngày nay, đố bảo nâng bước sẽ chia sẻ với bạn 3 cách tạo bản trong uất.
+[00:11] Về cơ bản, các cách tạo bản trong uất bạn đều thử ít theo 3 vước như trên màn hình.
+[00:16] Và bây giờ mình sẽ đi vào cách thương nhất.
+[00:21] Đầu tiền, bạn chọn vị trí cần trên bản.
+[00:24] Với dụ, mình chọn vị trí này mà bạn nhìn thấy giấu nháy chuột của mình đang nhảy ở đây.
+[00:30] Sau đó, bạn vào menu insert và click vào thay bộ.
+[00:38] Tiếp theo bước 2, bạn chọn số dòng và số cột ở trong các u vùng mà bạn nhìn thấy.
+[00:46] Bạn có thể chọn số dòng hay số cột theo ít muốn.
+[00:49] Ví dụ đây mình tạo nào 4 cột 3 dòng.
+[00:53] Bạn chỉ cần cứu trái, như vậy mình nha tạo bản xong.
+[01:00] Sau vi tạo bản xong, bạn có thể đưa chuột vào các cái đường thẳng ngăn cách giới các u.
+[01:06] Khi chuột chuyển sang hình mũi tên, như bạn nhìn thấy ở đây.
+[01:10] Thì bạn, click vào dưới chuột trái, sau đó kéo để thay đổi đô dòng của cột cũng như cột dòng.
+[01:17] Với dụ, bây giờ mình sẽ thay đổi ký chức của các cột.
+[01:23] Và đối với các dòng cũng tương tự, bạn đưa chuột vào cái đường kéo ngăn cách giới các u.
+[01:30] Sau đó bạn kéo để thay đổi ký chức của dòng.
+[01:33] Và bây giờ mình sẽ nhập nháy một số thông tin.
+[01:37] Sau khi nhập văn bản xong, bạn có thể bôi đen nội dung của văn bản.
+[01:44] Sau đó bạn vẫn vảo tác hôm để định dạng văn bản như bình thường.
+[01:49] Bối dụ ở đây bạn có thể cho kiểu chứ đắp, canh giữa, và bạn click vào cái phần,
+[01:57] sau đó mình sẽ click vào cái ai cình ở center để canh đều trên dưới cho cái nuôi dung văn bản này.
+[02:03] Và mình sẽ nhập một vài thông tin.
+[02:28] Để chuyển nhanh giữa các u trong bảng thì bạn chỉ cần những phiên táp trên văn phím.
+[02:37] Bối dụ ở đây mình nhận táp thì dấu nháy chuột sẽ chuyển sang cái cột số liên thoại.
+[02:47] Và mình nhận táp thì nó lại chuyển sang cột số tự.
+[02:58] Trong chừng hợp dấu nháy chuột của bạn đang ở ô và dòng cuối cùng thì nếu bạn nhận phiên táp bạn sẽ thêm một dòng mới.
+[03:12] Ví dụ ở đây mình sẽ nhập không vang, táp để sang cột họ vào tên, táp để sang cột để chỉ và táp để sang cột số liên thoại.
+[03:29] Như vậy là mình nhập để mua một vài thông tin như vậy thôi.
+[03:32] Ở đây mình sẽ bối đến cái phần tiêu đề này.
+[03:38] Và mình có thể đổ màu cho nó. Ví dụ ở đây mình sẽ vào táp hôm.
+[03:43] Sa đó bạn vào cái ai cình đổ màu nó chỉ nào vừa tựa.
+[03:48] Sao đây nhở đây bạn có thể chọn một màu bất kỳ, vừa dụ như màu sáng.
+[03:56] Trong chừng hợp bạn muốn chăng chí bảng thêm một cái mẫu sáng có sáng trong uất.
+[04:01] Thì bạn chỉ cần quyết vào cái ô vương có hình bối mới trên ở góc trên bên trái của bảng để chọn tôn bộng bảng.
+[04:12] Sa đó bạn quyết vào cái táp, thay bộ đi dài ở trên mây nụ.
+[04:19] Và tại đây bạn sẽ thấy có một bóc nó thay bộ sáng.
+[04:23] Bạn có thể quyết vào cái mới trên xuống để xem thêm các hình mẫu sáng khác.
+[04:30] Ví dụ mình chọn cái mẫu này.
+[04:36] Thì ngay đất tức, bảng của mình đã được đình dạng thêm một mẫu có sáng.
+[04:40] Già sự bây giờ mình sẽ thêm một dòng nữa.
+[04:43] Thì bạn thấy uất từ đầu đình dạng bảng thêm một mẫu có sáng.
+[04:49] Nếu bạn không thích mẫu này thì bạn lại bôi đen bảng.
+[04:53] Sa đó bạn vẫn vào cái phần thay bộ tài và chọn một mẫu khác.
+[04:59] Ví dụ đây mình có thể chuyển sang cái mẫu mẫu sáng như thế này.
+[05:07] Chết theo mình sẽ chuyển sang cách trên bảng thứ 2.
+[05:10] Thì các bước bạn thích như sau.
+[05:13] Đầu tiên bạn vẫn đưa con chuột đến với chỉ cần tạo bảng.
+[05:17] Ví dụ mình tạo vào với chỉ này.
+[05:20] Thì bạn cần đưa ghi dấu ngay chuột vào đúng với chỉ cần tạo.
+[05:24] Sa đó bạn vẫn vào marine sớt.
+[05:28] Chọn thay bộ.
+[05:30] Và cái này bạn trích vào cái dòng ít sớt thay bộ.
+[05:35] Sa đó bạn nhật đúng số dòng và số cụt để bé bảng.
+[05:40] Ví dụ mình vẫn về em bảng này với 4 cụt.
+[05:43] Và 3 dòng.
+[05:45] Và bạn trích ok.
+[05:47] Như vậy mình đã tạo một cái bảng với số dòng và số cụt giống như cây truy nhất mình người tạp.
+[05:53] Và ở cách này ra sử mình chỉ tạo bảng trống.
+[05:58] Sa đó mình sẽ chuyển ngay sang cách truy 3.
+[06:02] Bảng thứ ít như sau.
+[06:04] Bảng vẫn vào marine sớt.
+[06:07] Chọn thay bộ.
+[06:09] Và ở đây bạn trọn cho mình gái ròng đerò thay bộ.
+[06:13] Có nghĩ là với bảng.
+[06:16] Tiếp theo bạn đưa chuột đến một vị trí mà bạn cần bé.
+[06:21] Sa đó bạn trích và giữ chuột trái.
+[06:25] Và giữ chuột để tạo ra 1 cái bảng theo 1 cái thước mà bạn bé.
+[06:30] Ví dụ mình sẽ tạo bảng tương tự như bảng cái trình.
+[06:34] Và nhà chuột trái.
+[06:37] Tiếp theo bảng muốn về các hàng và các cột thì bạn thử ít hoàn toàn tương tự.
+[06:43] Bảng trích và giữ chuột trái và 1 điểm nào đó.
+[06:47] Và kéo để tạo bác ròng.
+[06:52] Và bây giờ mình cũng muốn tạo bác cột tương tự.
+[06:59] Với cái này bạn có thể dây sàng tạo bác đừng chéo cho...
+[07:04] Ui bây giờ mình sẽ tạo đừng chéo cho như thế này.
+[07:08] Thì bạn chỉ cần trích và giữ chuột trái ở một câu ở bất kỳ.
+[07:12] Sa đó kéo và nhà chuột trái.
+[07:15] Tương tự bây giờ mình sẽ tạo cắt cái đừng chéo của như thế này.
+[07:22] Sau khi tạo bảng xong bạn có thể nhập giữ và điểm dạ cho bảng.
+[07:27] Hoặc là trang chí cho bảng tính.
+[07:29] Giữ như là cách trứng nhân này.
+[07:32] Như vậy trong lửa dung vừa rồi,
+[07:35] đối bỏ ra một rút vừa chia sẻ nhánh với bạn 3 cách để tạo bảng trong vút.
+[07:39] Nếu bạn có những cơ hội cần được hỗ trợ,
+[07:41] bạn ấy có mên chức tiếp ở phía dưới vừa rồi này.
+[07:45] Cảm ơn bạn đã theo dõi vừa rồi.
+[07:47] Xin chào và hẹn gặp ở gác vừa rồi tiếp theo.
+[07:53] Nếu bạn thấy vừa rồi của mình hay và hữu,
+[07:56] bạn đã nhập chuột vừa này,
+[07:58] và chia sẻ vừa rồi để ủng hộ đấu bảng ám bốc.
+[08:01] Đồng thời, nếu bạn chưa năng ký kinh đấu bảng ám bốc,
+[08:04] bạn đã nhập chuột vào nút đăng ký,
+[08:07] và chọn hình trương,
+[08:09] nhập vào tất cả để đăng ký và nhận thêm các vừa rồi hữu,
+[08:13] từ đấu bảng ám bốc.
+[08:15] Xin cảm ơn các bạn.
+[08:17] Ngoài ra bạn có thể tìm kiếm trên hồ vui từ khóa đấu bảng ám bốc.
+[08:24] Và truy cơ phẩu sài đấu bảng ám bốc trứng con,
+[08:28] hoặc cần nhiều tuốt đấu bảng ám bốc,
+[08:31] để xem thêm các vừa rồi hữu,
+[08:34] như thú thật mới tính,
+[08:36] các sử dụng các phần mềm như uốt excel,
+[08:40] và bạn có thể truy cơ phẩu sài nào đấu bảng ám bốc trứng con,
+[08:44] để cập nhật những bài viết hút mới nhất.
+[08:47] Cảm ơn bạn đã theo dõi video.
+[08:50] Xin chào và hẹn gặp lại bạn ở các video tiếp theo.

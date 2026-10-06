@@ -1,0 +1,428 @@
+[00:01] Xin chào mừng các bạn đến với khóa học excel miễn phí từ cơ bản đến nâng cao
+[00:03] excel miễn phí từ cơ bản đến nâng cao dành cho người mới bắt đầu được thực
+[00:06] dành cho người mới bắt đầu được thực hiện trên kênh YouTube là Excel bài số
+[00:08] hiện trên kênh YouTube là Excel bài số 16 các thủ thuật Excel 2 phần 3/4 trước
+[00:12] 16 các thủ thuật Excel 2 phần 3/4 trước khi vào bài học ngày hôm nay mình sẽ dạy
+[00:14] khi vào bài học ngày hôm nay mình sẽ dạy các câu hỏi của bài tập số 15 hôm trước
+[00:16] các câu hỏi của bài tập số 15 hôm trước nhé cái câu hỏi của bài tập số 15 như
+[00:22] nhé cái câu hỏi của bài tập số 15 như sau ở đây mình có danh sách là năng cái
+[00:24] sau ở đây mình có danh sách là năng cái sản phẩm mình sẽ làm các cách để tạo cái
+[00:27] sản phẩm mình sẽ làm các cách để tạo cái danh sách xổ xuống nhá thì một cái là
+[00:29] danh sách xổ xuống nhá thì một cái là liệu mình sẽ tạo cái danh sách xổ xuống
+[00:31] liệu mình sẽ tạo cái danh sách xổ xuống thông thường và một cái phần là tạo cái
+[00:33] thông thường và một cái phần là tạo cái danh sách thủ tướng thông minh thì đầu
+[00:35] danh sách thủ tướng thông minh thì đầu tiên mình sẽ tạo nên danh sách xổ xuống
+[00:37] tiên mình sẽ tạo nên danh sách xổ xuống Thông thường nhá Thì cái Cách thứ nhất
+[00:39] Thông thường nhá Thì cái Cách thứ nhất là mình sẽ gõ trực tiếp không ạ Và Cách
+[00:41] là mình sẽ gõ trực tiếp không ạ Và Cách thứ hai là mí sẽ chọn cái vùng cái sách
+[00:43] thứ hai là mí sẽ chọn cái vùng cái sách thì gọi trực tiếp thì họ sẽ tích vào cái
+[00:45] thì gọi trực tiếp thì họ sẽ tích vào cái ô mà các bạn cần tạo với danh sách xổ
+[00:47] ô mà các bạn cần tạo với danh sách xổ xuống ở đây là cái od4 đúng ạ sau đó các
+[00:50] xuống ở đây là cái od4 đúng ạ sau đó các bạn vào thẻ đa ta lại các bạn sẽ vào vai
+[00:52] bạn vào thẻ đa ta lại các bạn sẽ vào vai đa tăng validation ra ở cái thẻ xuất
+[00:56] đa tăng validation ra ở cái thẻ xuất tinh Á cái mục yellow các bạn sẽ chọn
+[00:58] tinh Á cái mục yellow các bạn sẽ chọn cho mình là list đấy
+[01:00] cho mình là list đấy Ê thằng sợ đây thì bạn sẽ gõ cho mình
+[01:02] Ê thằng sợ đây thì bạn sẽ gõ cho mình các các sản phẩm thì bạn chú nhắc cái
+[01:04] các các sản phẩm thì bạn chú nhắc cái phần mà gọi trực tiếp này thì thông
+[01:06] phần mà gọi trực tiếp này thì thông thường nó chỉ làm với các trường hợp và
+[01:08] thường nó chỉ làm với các trường hợp và mình gọi ít thôi Ví dụ như là chọn giới
+[01:09] mình gọi ít thôi Ví dụ như là chọn giới tính cho chắc anh mà nhiều thì các bạn
+[01:11] tính cho chắc anh mà nhiều thì các bạn cũng không nên dùng cách này nhá Đấy thì
+[01:13] cũng không nên dùng cách này nhá Đấy thì con sẽ gọi trực tiếp vào đây là gái xe
+[01:15] con sẽ gọi trực tiếp vào đây là gái xe một Đấy cần phải ra và các bạn có tiếp
+[01:18] một Đấy cần phải ra và các bạn có tiếp cái sản phẩm Thứ hai là điện cái CO2 sẽ
+[01:21] cái sản phẩm Thứ hai là điện cái CO2 sẽ cứ như vậy bạn gọi em gái sao lăng nhé
+[01:23] cứ như vậy bạn gọi em gái sao lăng nhé lại sẹo ba đúng không ạ sau khi các bạn
+[01:38] lại sẹo ba đúng không ạ sau khi các bạn gõ xong mẹ từ gãy xem một đến gãy cho 5
+[01:40] gõ xong mẹ từ gãy xem một đến gãy cho 5 nhá Còn thử nhé Nó phải cách nhau bằng
+[01:42] nhá Còn thử nhé Nó phải cách nhau bằng cái dấu phẩy này thì gọi Bống ok đấy thì
+[01:45] cái dấu phẩy này thì gọi Bống ok đấy thì như vậy thì okay bố này nó ta đã có một
+[01:48] như vậy thì okay bố này nó ta đã có một cái danh sách xổ xuống rồi là năm cái
+[01:49] cái danh sách xổ xuống rồi là năm cái sản phẩm từ gãy sẽ một đến gái xấu lắm
+[01:52] sản phẩm từ gãy sẽ một đến gái xấu lắm đấy các bạn có thể chọn một cái sản phẩm
+[01:54] đấy các bạn có thể chọn một cái sản phẩm bất kỳ nhé xanh cái Cách thứ hai của cái
+[01:57] bất kỳ nhé xanh cái Cách thứ hai của cái phần danh sách xổ xuống Thông thường nhé
+[01:59] phần danh sách xổ xuống Thông thường nhé là
+[02:00] là em chọn từ cái vùng danh sách trúng ạ Họ
+[02:02] em chọn từ cái vùng danh sách trúng ạ Họ sự tích vào đây các bạn vào thẻ ra ta
+[02:04] sự tích vào đây các bạn vào thẻ ra ta Các bạn chọn hiện đa tạng validation ở
+[02:07] Các bạn chọn hiện đa tạng validation ở cái mục setting này cái một câu lô các
+[02:08] cái mục setting này cái một câu lô các bạn sẽ chọn cho mình là lít đấy các bạn
+[02:11] bạn sẽ chọn cho mình là lít đấy các bạn sẽ tích vào cái phần sọ này nhá Sau đó
+[02:13] sẽ tích vào cái phần sọ này nhá Sau đó các bạn Bun đen danh sách các sản phẩm
+[02:15] các bạn Bun đen danh sách các sản phẩm của bạn sức là điện từ 34 đến 38 ở đây
+[02:18] của bạn sức là điện từ 34 đến 38 ở đây này đấy các bạn xem bấm ok để thì tương
+[02:21] này đấy các bạn xem bấm ok để thì tương tự thì cái kết quả đây nó sẽ ra là gì
+[02:23] tự thì cái kết quả đây nó sẽ ra là gì năm cái sản phẩm từ lãi sang một đến gãy
+[02:26] năm cái sản phẩm từ lãi sang một đến gãy 65 và các bạn sẽ thích chọn một cái sản
+[02:28] 65 và các bạn sẽ thích chọn một cái sản phẩm bất kỳ rất là hay Okay tiếp theo
+[02:32] phẩm bất kỳ rất là hay Okay tiếp theo mình sẽ hướng dẫn các bạn là cách tạo
+[02:34] mình sẽ hướng dẫn các bạn là cách tạo vài danh sách xổ số thông minh thì tại
+[02:36] vài danh sách xổ số thông minh thì tại vì sao mình phải dùng với cách này thì
+[02:37] vì sao mình phải dùng với cách này thì nếu Nhưng mà khi các bạn thêm các cây
+[02:39] nếu Nhưng mà khi các bạn thêm các cây sản phẩm ví dụ như là gì gãy 6 đây lại
+[02:41] sản phẩm ví dụ như là gì gãy 6 đây lại nhé đấy thì diện với cách thông thường
+[02:45] nhé đấy thì diện với cách thông thường này nó sẽ không cập nhật Cái bạn gái cho
+[02:47] này nó sẽ không cập nhật Cái bạn gái cho Sáu Các bạn nhìn thấy này Đấy nó chỉ đến
+[02:49] Sáu Các bạn nhìn thấy này Đấy nó chỉ đến gái xem năm thôi Cái này không Thế nó
+[02:51] gái xem năm thôi Cái này không Thế nó chỉ đến gái sang năm thôi mà nó không
+[02:53] chỉ đến gái sang năm thôi mà nó không đến cái sáu đấy thì ở cái phần thông
+[02:56] đến cái sáu đấy thì ở cái phần thông minh này mình sẽ hướng dẫn các bạn nhắc
+[02:58] minh này mình sẽ hướng dẫn các bạn nhắc nó sẽ tự động nó sẽ cập nhật thêm các cá
+[03:00] nó sẽ tự động nó sẽ cập nhật thêm các cá khi mà các bạn điền vào dưới này thì đầu
+[03:02] khi mà các bạn điền vào dưới này thì đầu tiên mình sẽ tạo bằng cái diện bằng cách
+[03:05] tiên mình sẽ tạo bằng cái diện bằng cách thay bồ và cái hàng Inax thì đầu tiên
+[03:08] thay bồ và cái hàng Inax thì đầu tiên mình phải tạo cái thai bổ cho cái vùng
+[03:09] mình phải tạo cái thai bổ cho cái vùng dữ liệu nhé các bạn sẽ Bôi đen cái nguồn
+[03:11] dữ liệu nhé các bạn sẽ Bôi đen cái nguồn dữ liệu là từ cái oa ba đến thì 8 sẽ là
+[03:15] dữ liệu là từ cái oa ba đến thì 8 sẽ là toàn bộ vùng dữ liệu là danh sách các
+[03:17] toàn bộ vùng dữ liệu là danh sách các sản phẩm và cả các tiêu đề nữa nhé sau
+[03:19] sản phẩm và cả các tiêu đề nữa nhé sau đó thì các bạn sẽ vào cái thẻ Insert này
+[03:21] đó thì các bạn sẽ vào cái thẻ Insert này các bạn chọn Thay bồ đấy thì nó sẽ hiện
+[03:25] các bạn chọn Thay bồ đấy thì nó sẽ hiện một cái cửa sổ là diện khuấy tiếp theo
+[03:27] một cái cửa sổ là diện khuấy tiếp theo bổ này các bạn thấy chưa cái vùng dưới
+[03:29] bổ này các bạn thấy chưa cái vùng dưới lượng mà mình Bôi đen đã nhấp nháy này
+[03:30] lượng mà mình Bôi đen đã nhấp nháy này thư viện từ 3 đến tháng để cọ xát tích
+[03:34] thư viện từ 3 đến tháng để cọ xát tích Chọn ok lại các bạn có thể chọn cái màu
+[03:38] Chọn ok lại các bạn có thể chọn cái màu hiển thị cho các thầy bùa này nhá và các
+[03:41] hiển thị cho các thầy bùa này nhá và các bạn có thể đặt tên nhá tên mặc định thay
+[03:43] bạn có thể đặt tên nhá tên mặc định thay bộ một thì các bạn có thể để cái tên này
+[03:45] bộ một thì các bạn có thể để cái tên này cũng được hoặc các bạn thích thì các bạn
+[03:47] cũng được hoặc các bạn thích thì các bạn có thể đặt tên đây nếu như bạn nào không
+[03:49] có thể đặt tên đây nếu như bạn nào không muốn đặt tên thì bạn cứ để tên mặc định
+[03:51] muốn đặt tên thì bạn cứ để tên mặc định ví dụ mình đổi tên là dễ các Bôi đen Ví
+[03:53] ví dụ mình đổi tên là dễ các Bôi đen Ví dụ như để làm diện sp sẽ là sản phẩm đến
+[03:55] dụ như để làm diện sp sẽ là sản phẩm đến các bạn enter thì như vậy mình đã tạo
+[03:58] các bạn enter thì như vậy mình đã tạo xong một cái table là sp rồi đấy
+[04:00] xong một cái table là sp rồi đấy khi bạn tích vào đây này các bạn chọn
+[04:01] khi bạn tích vào đây này các bạn chọn FPT thì như vậy toàn bộ cái phần sản
+[04:04] FPT thì như vậy toàn bộ cái phần sản phẩm nó đã được lựa chọn ở ra khá là hay
+[04:06] phẩm nó đã được lựa chọn ở ra khá là hay ạ Bây giờ mình sẽ dùng cái hàm indirect
+[04:08] ạ Bây giờ mình sẽ dùng cái hàm indirect Nhát Để mình làm cái phần diện và phần
+[04:11] Nhát Để mình làm cái phần diện và phần danh sách cả xúc động này các bạn sẽ
+[04:13] danh sách cả xúc động này các bạn sẽ tích vào cái ô d11 nhá sau đó Gọi vào
+[04:15] tích vào cái ô d11 nhá sau đó Gọi vào thẻ đa ta để các bạn sẽ vào để
+[04:17] thẻ đa ta để các bạn sẽ vào để data-validation thì ở cái thằng setting
+[04:20] data-validation thì ở cái thằng setting nhá Đi ngủ con lô các bạn vẫn chọn cho
+[04:22] nhá Đi ngủ con lô các bạn vẫn chọn cho mình là gì là lít đấy Tiếp theo là cái
+[04:25] mình là gì là lít đấy Tiếp theo là cái phần sở để ở phần sạc các bạn làm công
+[04:28] phần sở để ở phần sạc các bạn làm công thức này có sẽ bằng điện indirect Đúng
+[04:29] thức này có sẽ bằng điện indirect Đúng không các bạn xem hỏng hóa đơn nha các
+[04:33] không các bạn xem hỏng hóa đơn nha các bạn mở ngoặc kép ra nhé Thấy thì có sẽ
+[04:35] bạn mở ngoặc kép ra nhé Thấy thì có sẽ điền cái tên thuê bồ vào lúc nãy mình
+[04:37] điền cái tên thuê bồ vào lúc nãy mình Đạt đúng không cái thấy buồn mình đã có
+[04:39] Đạt đúng không cái thấy buồn mình đã có lẽ là sp Đúng không các bạn hãy nhớ là
+[04:41] lẽ là sp Đúng không các bạn hãy nhớ là cái tên Thay bồ này nhá lại nếu như mình
+[04:43] cái tên Thay bồ này nhá lại nếu như mình đặt cái thấy buồn nào thì sẽ điền vào
+[04:45] đặt cái thấy buồn nào thì sẽ điền vào đây là tên của cây bồ đấy là tên nó sẽ
+[04:48] đây là tên của cây bồ đấy là tên nó sẽ nằm ở trong cái phần mở ngoặc kép vào nó
+[04:49] nằm ở trong cái phần mở ngoặc kép vào nó ghép này để gọi sau đó hóa đơn này nữa
+[04:51] ghép này để gọi sau đó hóa đơn này nữa Bây giờ chọn sẽ định Ok nhé thì cảm thấy
+[04:54] Bây giờ chọn sẽ định Ok nhé thì cảm thấy là danh sách xổ xuống ở đây nó đã có
+[04:56] là danh sách xổ xuống ở đây nó đã có diện 5 cái bạn gái xem bây giờ xử thêm
+[04:59] diện 5 cái bạn gái xem bây giờ xử thêm các bạn gái sắc
+[05:00] các bạn gái sắc A và giả sử gái sáu bảy nữa đi nhé phải
+[05:06] A và giả sử gái sáu bảy nữa đi nhé phải gặp enter thì như vậy cái phần danh sách
+[05:08] gặp enter thì như vậy cái phần danh sách sản phẩm vào đây bạn thấy chưa nó đắt
+[05:10] sản phẩm vào đây bạn thấy chưa nó đắt cập nhật thì bạn gái gái sáu và gái Sao
+[05:12] cập nhật thì bạn gái gái sáu và gái Sao mặt lại rất là hai ạ Bây giờ mình sẽ lưu
+[05:14] mặt lại rất là hai ạ Bây giờ mình sẽ lưu lại coi như là mình sẽ không thêm với
+[05:16] lại coi như là mình sẽ không thêm với bạn gái cho 6 và gái cho bài này Ok sang
+[05:21] bạn gái cho 6 và gái cho bài này Ok sang Cách thứ hai là gì bạn Mình chế tạo cái
+[05:23] Cách thứ hai là gì bạn Mình chế tạo cái danh sách xổ xuống bằng cách thay bồ và
+[05:24] danh sách xổ xuống bằng cách thay bồ và cái lên thì lúc nãy mình đã có cái thai
+[05:26] cái lên thì lúc nãy mình đã có cái thai bù lại este rồi đúng không Bây giờ mình
+[05:28] bù lại este rồi đúng không Bây giờ mình sẽ Bôi đen Cái vùng dữ liệu này sau đó
+[05:30] sẽ Bôi đen Cái vùng dữ liệu này sau đó bạn sẽ lên kém Nhưng bóc này có thích
+[05:32] bạn sẽ lên kém Nhưng bóc này có thích Vừa nãy con sẽ đặt tên cho nó nhạc Ví dụ
+[05:34] Vừa nãy con sẽ đặt tên cho nó nhạc Ví dụ mình đặt tên là việc sản phẩm Thầy Bùi
+[05:36] mình đặt tên là việc sản phẩm Thầy Bùi hạ thế Mình sẽ đặt tên cho cái vùng dữ
+[05:39] hạ thế Mình sẽ đặt tên cho cái vùng dữ liệu mình chọn ở đây là sp và thay bồ
+[05:41] liệu mình chọn ở đây là sp và thay bồ cũng có sẽ bấm enter lại thì toàn thoát
+[05:44] cũng có sẽ bấm enter lại thì toàn thoát ra ngoài Các bạn lên cái lên bóc này các
+[05:46] ra ngoài Các bạn lên cái lên bóc này các bạn chọn FPT bù lại thì toàn bộ cái vùng
+[05:49] bạn chọn FPT bù lại thì toàn bộ cái vùng dữ liệu mà mình đặt bên nó lại được lựa
+[05:51] dữ liệu mà mình đặt bên nó lại được lựa chọn lại đúng không Đấy Bây giờ mình sẽ
+[05:53] chọn lại đúng không Đấy Bây giờ mình sẽ tạo cái danh sách xổ xuống này các bạn
+[05:54] tạo cái danh sách xổ xuống này các bạn thích vào đây các bạn vào thẻ ra ta các
+[05:57] thích vào đây các bạn vào thẻ ra ta các bạn vào để data-validation lại
+[06:00] bạn vào để data-validation lại xem xét tin nhắn một câu lâu bạn sẽ chọn
+[06:02] xem xét tin nhắn một câu lâu bạn sẽ chọn theo mình biết cái phần soạn nha các bạn
+[06:04] theo mình biết cái phần soạn nha các bạn sẽ bằng này các bạn sẽ bấm cho mình cái
+[06:07] sẽ bằng này các bạn sẽ bấm cho mình cái thứ nhất 3 đấy thì các phím tắt F3 nó sẽ
+[06:10] thứ nhất 3 đấy thì các phím tắt F3 nó sẽ hiện việc các cái nên mà nó vẫn mình đặc
+[06:12] hiện việc các cái nên mà nó vẫn mình đặc cũng đặt làm việc FPT bồ đúng không Bạn
+[06:15] cũng đặt làm việc FPT bồ đúng không Bạn xem bấm ok các bạn xem bấm ok đợi thì
+[06:19] xem bấm ok các bạn xem bấm ok đợi thì như vậy Ở với Nên nó đã có danh sách xổ
+[06:20] như vậy Ở với Nên nó đã có danh sách xổ xuống rồi không ạ Đây thì lúc nãy mình
+[06:22] xuống rồi không ạ Đây thì lúc nãy mình Bôi đen thì mình chọn mình chọn cả cái
+[06:26] Bôi đen thì mình chọn mình chọn cả cái tiêu đề là sản phẩm dân gian là gì À cái
+[06:28] tiêu đề là sản phẩm dân gian là gì À cái danh sách xổ số này nó sẽ có cả sản phẩm
+[06:29] danh sách xổ số này nó sẽ có cả sản phẩm đúng không Bây giờ mình sẽ bỏ cái chữ
+[06:31] đúng không Bây giờ mình sẽ bỏ cái chữ sản phẩm đi đúng không còn sẽ vào cái
+[06:34] sản phẩm đi đúng không còn sẽ vào cái thẻ phòng lời nhá các bạn vào cái lên đi
+[06:37] thẻ phòng lời nhá các bạn vào cái lên đi chơi đấy thì lúc đấy mình đã đặt cái tên
+[06:39] chơi đấy thì lúc đấy mình đã đặt cái tên lẽ bên tay bồng a cọ xích một đây Các
+[06:41] lẽ bên tay bồng a cọ xích một đây Các bạn bấm ăn ít đấy thì mình sẽ chọn này ạ
+[06:44] bạn bấm ăn ít đấy thì mình sẽ chọn này ạ Lúc đấy mình chọn sản phẩm thì bây giờ
+[06:46] Lúc đấy mình chọn sản phẩm thì bây giờ các bạn Bôi đen Cái free Vertu các bạn
+[06:48] các bạn Bôi đen Cái free Vertu các bạn Xóa lên và các bạn chọn lại nhá Đấy mình
+[06:50] Xóa lên và các bạn chọn lại nhá Đấy mình sẽ chọn từ cái diện từ cái ô A4 đến A80
+[06:54] sẽ chọn từ cái diện từ cái ô A4 đến A80 đấy Bạn thấy nhé các bạn bấm ok để tao
+[06:57] đấy Bạn thấy nhé các bạn bấm ok để tao sẽ bấm Ok thì bây giờ cái danh sách
+[06:59] sẽ bấm Ok thì bây giờ cái danh sách anh ấy chứ giờ làm mất cái thằng sản
+[07:02] anh ấy chứ giờ làm mất cái thằng sản phẩm đi rồi rất là hai ạ bây giờ ví dụ
+[07:04] phẩm đi rồi rất là hai ạ bây giờ ví dụ mình thêm với bạn gái sau nhá cho enter
+[07:08] mình thêm với bạn gái sau nhá cho enter đấy Bạn thích vào đây bạn thấy này đây
+[07:11] đấy Bạn thích vào đây bạn thấy này đây đã có gái sáu rất là hai ạ Mình sẽ lưu
+[07:13] đã có gái sáu rất là hai ạ Mình sẽ lưu lại nhé Cái Cách thứ ba là gì mình sẽ
+[07:18] lại nhé Cái Cách thứ ba là gì mình sẽ dùng cái hàng offset và cái hàng cao ra
+[07:20] dùng cái hàng offset và cái hàng cao ra rồi ok các bạn sẽ tích vào phải ô thì OD
+[07:24] rồi ok các bạn sẽ tích vào phải ô thì OD 15 để các bạn thì các bạn tạo danh sách
+[07:26] 15 để các bạn thì các bạn tạo danh sách xổ xuống nhá tại các bạn và kẻ đa ta Các
+[07:29] xổ xuống nhá tại các bạn và kẻ đa ta Các bạn chọn việc data-validation đấy trong
+[07:31] bạn chọn việc data-validation đấy trong cái thẻ xét sinh này một câu lâu có thể
+[07:33] cái thẻ xét sinh này một câu lâu có thể chọn cho mình biết là cái phần sọt các
+[07:36] chọn cho mình biết là cái phần sọt các bạn sẽ làm không giúp nha con sẽ bằng
+[07:37] bạn sẽ làm không giúp nha con sẽ bằng đấy ạ đấy còn sử dụng cái mô xe này cho
+[07:41] đấy ạ đấy còn sử dụng cái mô xe này cho Asha mở ngoặc đơn ra thì thành phần đầu
+[07:43] Asha mở ngoặc đơn ra thì thành phần đầu tiên của khách hàng access là cái ô tham
+[07:45] tiên của khách hàng access là cái ô tham chiếu đó thì họ sẽ tích vào ví dụ mình
+[07:48] chiếu đó thì họ sẽ tích vào ví dụ mình tích và hiểu đầu tiên là cái ô sản phẩm
+[07:50] tích và hiểu đầu tiên là cái ô sản phẩm nên là cái tiêu đề là cái ua3 lại đó
+[07:52] nên là cái tiêu đề là cái ua3 lại đó phải tiếp Thép là gì Là cái số hàng mà
+[07:57] phải tiếp Thép là gì Là cái số hàng mà các bạn cần dịch xuống đúng không miễn
+[07:58] các bạn cần dịch xuống đúng không miễn dịch không hàng
+[08:00] dịch không hàng anh cái số cột mà có cần gì không phải
+[08:02] anh cái số cột mà có cần gì không phải của mình sẽ dịch không cột phẩm tiếp
+[08:05] của mình sẽ dịch không cột phẩm tiếp theo là gì Là cái xô mà các bạn lựa chọn
+[08:08] theo là gì Là cái xô mà các bạn lựa chọn đúng không Thì ôm mình lựa chọn e gì
+[08:10] đúng không Thì ôm mình lựa chọn e gì mình sẽ dùng cái hòm cao AH các bạn mở
+[08:13] mình sẽ dùng cái hòm cao AH các bạn mở ngoặc đơn giản và các bạn thích chọn cả
+[08:15] ngoặc đơn giản và các bạn thích chọn cả cái cuộn anh à rất là những cái hàm cao
+[08:17] cái cuộn anh à rất là những cái hàm cao AH nó đến xem là bao nhiêu ô mà có chứa
+[08:19] AH nó đến xem là bao nhiêu ô mà có chứa dữ liệu là nó Họ sẽ đóng ngoặc lại và
+[08:22] dữ liệu là nó Họ sẽ đóng ngoặc lại và bạn - một Tại sao lại - 1 rất là mình sẽ
+[08:25] bạn - một Tại sao lại - 1 rất là mình sẽ - cái ô mà là cái thằng tiêu đề là sản
+[08:28] - cái ô mà là cái thằng tiêu đề là sản phẩm đây ạ Đấy có thật đóng mặc lại sau
+[08:31] phẩm đây ạ Đấy có thật đóng mặc lại sau cái hào bác xem này nhá để tạo sự tích
+[08:33] cái hào bác xem này nhá để tạo sự tích ok thì như vậy Ở đây nó đã tạo cái danh
+[08:36] ok thì như vậy Ở đây nó đã tạo cái danh sách xổ xuống Bột đấy thì cái này nó sẽ
+[08:38] sách xổ xuống Bột đấy thì cái này nó sẽ có một cái sai là diện là mẹ nó lại là
+[08:40] có một cái sai là diện là mẹ nó lại là sản phẩm rất là đáng nhé là cái sản phẩm
+[08:43] sản phẩm rất là đáng nhé là cái sản phẩm này là phải thay bằng gái sẽ ôm một và
+[08:46] này là phải thay bằng gái sẽ ôm một và cái cuối cùng phải là gái xấu lắm thế
+[08:48] cái cuối cùng phải là gái xấu lắm thế nào nó phải tuần tự đúng không Đây thì
+[08:49] nào nó phải tuần tự đúng không Đây thì như vậy nó sai ở cái phần mà lúc nãy
+[08:52] như vậy nó sai ở cái phần mà lúc nãy mình đã dùng cái hành access sang bây
+[08:55] mình đã dùng cái hành access sang bây giờ còn tích vào ô này các bạn vào đấy ạ
+[08:57] giờ còn tích vào ô này các bạn vào đấy ạ Các bạn vẫn vào thẻ ra các bạn vào data
+[08:59] Các bạn vẫn vào thẻ ra các bạn vào data validation
+[09:00] validation ở phía nơi mình sẽ sửa công thức nhé Đây
+[09:02] ở phía nơi mình sẽ sửa công thức nhé Đây thì vì cái hàm áp xe trong lễ mình đặt
+[09:04] thì vì cái hàm áp xe trong lễ mình đặt cái ô ra phần là Cái ba thì cho nên thì
+[09:07] cái ô ra phần là Cái ba thì cho nên thì cái số hàng nó dịch xuống phải là một
+[09:10] cái số hàng nó dịch xuống phải là một hành đúng ạ Còn nếu như mà có thai O3
+[09:12] hành đúng ạ Còn nếu như mà có thai O3 bằng A4 ý thì cái số một này sẽ phải vẫn
+[09:15] bằng A4 ý thì cái số một này sẽ phải vẫn là số 0 Nếu như các bạn chọn cái phần là
+[09:18] là số 0 Nếu như các bạn chọn cái phần là cái sản phẩm thì diện các bạn phải dịch
+[09:20] cái sản phẩm thì diện các bạn phải dịch số một chất làm thì mình sẽ chọn cái sản
+[09:22] số một chất làm thì mình sẽ chọn cái sản phẩm đầu tiên là đây lại còn sẽ bấm ok
+[09:25] phẩm đầu tiên là đây lại còn sẽ bấm ok Bây giờ còn sẽ kiểm tra nhá Đấy Như vậy
+[09:27] Bây giờ còn sẽ kiểm tra nhá Đấy Như vậy là từ lãi sang một đến bãi xe 5 dùng rất
+[09:30] là từ lãi sang một đến bãi xe 5 dùng rất là hai ạ Ví dụ mình đổi thành điện ngày
+[09:32] là hai ạ Ví dụ mình đổi thành điện ngày sao
+[09:33] sao i9000 hạ thế h + enter để các sợi vào
+[09:36] i9000 hạ thế h + enter để các sợi vào đây bạn thấy này đấy có gái xấu xí máy
+[09:38] đây bạn thấy này đấy có gái xấu xí máy vẫn rất là hai ạ Ok như vậy là mình đã
+[09:41] vẫn rất là hai ạ Ok như vậy là mình đã xong cái phần diện danh sách xổ xuống
+[09:43] xong cái phần diện danh sách xổ xuống đây nhá các bạn sẽ đóng ạ Bây giờ mình
+[09:49] đây nhá các bạn sẽ đóng ạ Bây giờ mình sẽ vào bài tập ngày hôm nay là bài số 16
+[09:58] trong bài học ngày hôm nay mình sẽ hướng dẫn các bạn là ba cái thủ thuật đầu tiên
+[10:00] dẫn các bạn là ba cái thủ thuật đầu tiên là thể autocorrect thứ hai là gì co giãn
+[10:03] là thể autocorrect thứ hai là gì co giãn chữ vừa với cả ô và thứ ba là ngăn không
+[10:06] chữ vừa với cả ô và thứ ba là ngăn không cho nhập trùng đầu tiên mình sẽ vào cái
+[10:08] cho nhập trùng đầu tiên mình sẽ vào cái phần autocorrect nhá mình sẽ làm luôn
+[10:11] phần autocorrect nhá mình sẽ làm luôn nhé Thì trong lúc vừa làm sẽ giải thích
+[10:13] nhé Thì trong lúc vừa làm sẽ giải thích nó sẽ dễ hiểu hơn là mình giải thích nhá
+[10:14] nó sẽ dễ hiểu hơn là mình giải thích nhá Đây thì đầu tiên các bạn sẽ các bạn vào
+[10:17] Đây thì đầu tiên các bạn sẽ các bạn vào cái thẻ pha lại các bạn chọn về Epson à
+[10:23] cái thẻ pha lại các bạn chọn về Epson à anh Hải tặng chủ nhà ở đây mình đã hướng
+[10:26] anh Hải tặng chủ nhà ở đây mình đã hướng dẫn cái suối rồi Các bạn chọn cái Lucy
+[10:28] dẫn cái suối rồi Các bạn chọn cái Lucy nhà đợi thì ở bên phải này các bạn thấy
+[10:32] nhà đợi thì ở bên phải này các bạn thấy chứ nó là ô tô có cách Epson có ích vào
+[10:34] chứ nó là ô tô có cách Epson có ích vào đây để anh thì ở đây nó đã có một số cái
+[10:38] đây để anh thì ở đây nó đã có một số cái ô tô có lại các sân bằng tiếng Anh rồi
+[10:40] ô tô có lại các sân bằng tiếng Anh rồi cái làm thông thường nếu như người ta
+[10:42] cái làm thông thường nếu như người ta hay gõ chữ oa đây này Đấy thì lớn nhưng
+[10:44] hay gõ chữ oa đây này Đấy thì lớn nhưng gõ thế này thì nó sẽ đổi thành cái gì
+[10:46] gõ thế này thì nó sẽ đổi thành cái gì chữ bị iOS để nó đúng pháp không Đây bây
+[10:49] chữ bị iOS để nó đúng pháp không Đây bây giờ giả sử Mình muốn thay cái chữ gì chứ
+[10:52] giờ giả sử Mình muốn thay cái chữ gì chứ gái Excel mình gọi chữ g ví dụ gọi E R
+[10:56] gái Excel mình gọi chữ g ví dụ gọi E R đi Đấy mình sẽ đổi cái chữ gọi l là bằng
+[10:59] đi Đấy mình sẽ đổi cái chữ gọi l là bằng chữ Excel thì bạn sẽ vào đấy phần nguyên
+[11:01] chữ Excel thì bạn sẽ vào đấy phần nguyên này gắn gõ là gà gáy xem đã xem bấm f
+[11:07] này gắn gõ là gà gáy xem đã xem bấm f đấy Bạn thấy chứ Thì như vậy nó sẽ thêm
+[11:10] đấy Bạn thấy chứ Thì như vậy nó sẽ thêm một cái quý chắc mà các điểm dưới đây ví
+[11:13] một cái quý chắc mà các điểm dưới đây ví dụ làm gà west hạn thế là gà này w.d.
+[11:16] dụ làm gà west hạn thế là gà này w.d. lại mình muốn thay bằng word lại cảm sẽ
+[11:22] lại mình muốn thay bằng word lại cảm sẽ Bống ép tiếp
+[11:23] Bống ép tiếp Ừ thì như vậy mình đã thêm hai cái quy
+[11:26] Ừ thì như vậy mình đã thêm hai cái quy tắc là diện GL là gái xe và gw là gà wed
+[11:30] tắc là diện GL là gái xe và gw là gà wed của họ sẽ bấm ok đấy bạn sẽ bảo OK nhé
+[11:33] của họ sẽ bấm ok đấy bạn sẽ bảo OK nhé bây giờ ví dụ là gì họ tên ví dụ là gái
+[11:36] bây giờ ví dụ là gì họ tên ví dụ là gái sang một đơn vị là gì Các bạn sẽ gọi GL
+[11:40] sang một đơn vị là gì Các bạn sẽ gọi GL các bạn enter đây Thì như vậy Cái người
+[11:43] các bạn enter đây Thì như vậy Cái người l nó sẽ lập tức đổi thành gánh xem họ
+[11:45] l nó sẽ lập tức đổi thành gánh xem họ thì cũng rất là hạn ví dụ ở đây là gì
+[11:46] thì cũng rất là hạn ví dụ ở đây là gì thằng nào cũng gà post 1 nhé đơn vị là
+[11:51] thằng nào cũng gà post 1 nhé đơn vị là gì cả chỉ cần gõ g WD và các enter đấy
+[11:55] gì cả chỉ cần gõ g WD và các enter đấy thì lập tức nó sẽ đổi thành dạng gà wed
+[11:57] thì lập tức nó sẽ đổi thành dạng gà wed cảm thấy rất là hai ạ bây giờ để xóa các
+[12:00] cảm thấy rất là hai ạ bây giờ để xóa các phần autocard này thì con sẽ làm ngược
+[12:02] phần autocard này thì con sẽ làm ngược lại ạ Các bạn lại vào thẻ file Các bạn
+[12:04] lại ạ Các bạn lại vào thẻ file Các bạn chọn options Tại mình sẽ vào đấy lu sinh
+[12:09] chọn options Tại mình sẽ vào đấy lu sinh này các bạn sẽ vào auto click xin đại ca
+[12:12] này các bạn sẽ vào auto click xin đại ca City với quy tắc mà các bạn ạ Lúc lên
+[12:14] City với quy tắc mà các bạn ạ Lúc lên nhé đại ca sự tích về đây Bạn có thể gõ
+[12:17] nhé đại ca sự tích về đây Bạn có thể gõ cho girl này Vậy thì nó chịu Gọi E là
+[12:20] cho girl này Vậy thì nó chịu Gọi E là đây Bạn thích một đây và các bạn xem bấm
+[12:22] đây Bạn thích một đây và các bạn xem bấm cái Delete này đi
+[12:23] cái Delete này đi chị sẽ ăn nó xoáy tắt này rồi Tiếp theo
+[12:25] chị sẽ ăn nó xoáy tắt này rồi Tiếp theo các bạn tích vào đây còn gọi chị g tép
+[12:27] các bạn tích vào đây còn gọi chị g tép này cả đang xuống này cây nhà cô nó sẽ ở
+[12:30] này cả đang xuống này cây nhà cô nó sẽ ở đây đâu đấy giờ WD ở đây này các bạn sẽ
+[12:36] đây đâu đấy giờ WD ở đây này các bạn sẽ phân tích và được v lít đi Các bạn bấm
+[12:38] phân tích và được v lít đi Các bạn bấm ok ok Bây giờ bạn sẽ gõ là chị gọi l nhá
+[12:42] ok ok Bây giờ bạn sẽ gõ là chị gọi l nhá Nó sẽ không ra Tại vì lúc đấy mình nó
+[12:44] Nó sẽ không ra Tại vì lúc đấy mình nó xóa cái ô tô có ở kia rồi đúng không ạ
+[12:46] xóa cái ô tô có ở kia rồi đúng không ạ Các bạn đi hết đi sang thủ thuật thứ hai
+[12:50] Các bạn đi hết đi sang thủ thuật thứ hai là mình sẽ tự động co giãn nhé Thì cái
+[12:53] là mình sẽ tự động co giãn nhé Thì cái này ứng dụng rất nhiều ở cái việc mà các
+[12:55] này ứng dụng rất nhiều ở cái việc mà các bạn in ấn đấy thì nếu như mà các bạn in
+[12:57] bạn in ấn đấy thì nếu như mà các bạn in nhá chọn sẽ vào cái thẻ lưu đi lại còn
+[13:01] nhá chọn sẽ vào cái thẻ lưu đi lại còn sẽ chọn cái gì ạ chọn cái phatra lại cảm
+[13:05] sẽ chọn cái gì ạ chọn cái phatra lại cảm thấy cái vùng dữ liệu ở đây nhá Nó đang
+[13:07] thấy cái vùng dữ liệu ở đây nhá Nó đang ở một trang đúng không nếu như bạn muốn
+[13:09] ở một trang đúng không nếu như bạn muốn cái những cái ô này các bạn rộng ra một
+[13:11] cái những cái ô này các bạn rộng ra một tí nữa để nó hiện cái số đấy thì nó lại
+[13:14] tí nữa để nó hiện cái số đấy thì nó lại chàng sang cái trang này để bạn thấy rất
+[13:17] chàng sang cái trang này để bạn thấy rất là không Hay đúng không ạ Bây giờ mình
+[13:19] là không Hay đúng không ạ Bây giờ mình sẽ lưu lại nhé bạn sẽ vào cái lau mờ đi
+[13:21] sẽ lưu lại nhé bạn sẽ vào cái lau mờ đi bây giờ mình làm
+[13:23] bây giờ mình làm có những cái ôm mà nó có dấu xanh này nó
+[13:26] có những cái ôm mà nó có dấu xanh này nó sẽ hiện là cái số liệu và mình sẽ chấp
+[13:28] sẽ hiện là cái số liệu và mình sẽ chấp nhận là diện nó sẽ ko nhỏ với cứ chữ lại
+[13:30] nhận là diện nó sẽ ko nhỏ với cứ chữ lại Bố bạn đây để đảm bảo là cái vùng in của
+[13:33] Bố bạn đây để đảm bảo là cái vùng in của mình nó sẽ không bị tràn sang một trang
+[13:34] mình nó sẽ không bị tràn sang một trang mới đúng không đấy thì cách nào là Thiện
+[13:37] mới đúng không đấy thì cách nào là Thiện đầu tiên mình phải mô đen Những Cái Ô mà
+[13:39] đầu tiên mình phải mô đen Những Cái Ô mà mình muốn tự động co giãn đúng không ở
+[13:41] mình muốn tự động co giãn đúng không ở đây là diệt tháng 2 này đấy các bạn giữ
+[13:44] đây là diệt tháng 2 này đấy các bạn giữ cần chôn nhé để mình Bôi đen các tháng
+[13:46] cần chôn nhé để mình Bôi đen các tháng tiếp theo các bạn vẫn giữ control mà Đấy
+[13:48] tiếp theo các bạn vẫn giữ control mà Đấy sau đó bạn nhấn phải nhá các bạn chọn
+[13:51] sau đó bạn nhấn phải nhá các bạn chọn phóng Marcel để chọn sẽ vào cái thẻ
+[13:54] phóng Marcel để chọn sẽ vào cái thẻ Doraemon và các bạn chọn nào dễ sinh tố
+[13:57] Doraemon và các bạn chọn nào dễ sinh tố phim này để bạn sẽ bấm ok như vậy các ô
+[14:01] phim này để bạn sẽ bấm ok như vậy các ô mình lựa chọn lúc đấy nó sẽ tự động co
+[14:03] mình lựa chọn lúc đấy nó sẽ tự động co giãn nhá để nó sẽ hiện được cái số lượng
+[14:05] giãn nhá để nó sẽ hiện được cái số lượng đó anh cảm thấy rằng khi cuộn con lại
+[14:08] đó anh cảm thấy rằng khi cuộn con lại lại này đấy thì cái số này nó sẽ tự động
+[14:10] lại này đấy thì cái số này nó sẽ tự động nó sẽ rạp với cỡ chữ đi này còn thế rất
+[14:14] nó sẽ rạp với cỡ chữ đi này còn thế rất là hai ạ Cái này chẳng hạn nha Bây giờ
+[14:16] là hai ạ Cái này chẳng hạn nha Bây giờ mình lại tăng ạ Vậy thì nó sẽ lại về cỡ
+[14:19] mình lại tăng ạ Vậy thì nó sẽ lại về cỡ chữ mặc định này có bạn tăng nhiều ra để
+[14:21] chữ mặc định này có bạn tăng nhiều ra để hạn chế nhắc thì nó vẫn về cái cứ chữ
+[14:22] hạn chế nhắc thì nó vẫn về cái cứ chữ mặc định cho
+[14:23] mặc định cho Ừ thì bạn ko nhỏ lại thì nó sẽ giảm hết
+[14:25] Ừ thì bạn ko nhỏ lại thì nó sẽ giảm hết cỡ chữ đi để làm vẫn nhận số liệu ở đây
+[14:28] cỡ chữ đi để làm vẫn nhận số liệu ở đây cho các bạn thấy khá là hay đấy lại cách
+[14:31] cho các bạn thấy khá là hay đấy lại cách là mình điện mình sẽ co dãn cái có chữ
+[14:33] là mình điện mình sẽ co dãn cái có chữ cứ động nhé ví dụ tiếp theo là mình sẽ
+[14:37] cứ động nhé ví dụ tiếp theo là mình sẽ ngăn nhiễm trùng cái này cũng khá là hay
+[14:39] ngăn nhiễm trùng cái này cũng khá là hay đấy Bây giờ giả sử mình có những cái dữ
+[14:42] đấy Bây giờ giả sử mình có những cái dữ liệu là mã nhân viên này thì có cái
+[14:44] liệu là mã nhân viên này thì có cái thông tin họ tên ngày sinh quê quán tại
+[14:46] thông tin họ tên ngày sinh quê quán tại ghi chú chán thế nhá Bây giờ mình sẽ
+[14:48] ghi chú chán thế nhá Bây giờ mình sẽ muốn là cái chắc của mình yêu mãi nhân
+[14:50] muốn là cái chắc của mình yêu mãi nhân viên này mình không được phép nhập trùng
+[14:52] viên này mình không được phép nhập trùng Giả sử có cái mã nhân viên là nhân viên
+[14:54] Giả sử có cái mã nhân viên là nhân viên 001 này nhá Nếu những bạn nào mà nhập cá
+[14:56] 001 này nhá Nếu những bạn nào mà nhập cá nhân viên 001 đây nó sẽ báo lỗi ngay đấy
+[14:59] nhân viên 001 đây nó sẽ báo lỗi ngay đấy Còn nếu như bạn Nhập nhân viên khác thì
+[15:00] Còn nếu như bạn Nhập nhân viên khác thì ok thì để làm việc này các bạn làm như
+[15:03] ok thì để làm việc này các bạn làm như sau nhé Bạn sẽ chọn cái vùng dữ liệu Ví
+[15:04] sau nhé Bạn sẽ chọn cái vùng dữ liệu Ví dụ mình chọn cả cái cột bên này đi đấy
+[15:06] dụ mình chọn cả cái cột bên này đi đấy các bạn vào thẻ data các bạn vào data
+[15:12] các bạn vào thẻ data các bạn vào data validation nhất trong cái thẻ setting
+[15:14] validation nhất trong cái thẻ setting này cái mục câu lâu các bạn sẽ chọn cho
+[15:16] này cái mục câu lâu các bạn sẽ chọn cho mình là cá tầm đấy Bà Rịa Ở cái phần
+[15:19] mình là cá tầm đấy Bà Rịa Ở cái phần Phong và lưu này các bạn sẽ gõ cho mình
+[15:20] Phong và lưu này các bạn sẽ gõ cho mình công thức nhé các bạn sẽ làm gì ạ Các
+[15:22] công thức nhé các bạn sẽ làm gì ạ Các bạn sẽ bằng cái hàm cao
+[15:23] bạn sẽ bằng cái hàm cao ở Hòa Lạc KF đều được nhé ví dụ Kali vẽ
+[15:26] ở Hòa Lạc KF đều được nhé ví dụ Kali vẽ lên các bạn hoặc đơn giản thì cái vùng
+[15:28] lên các bạn hoặc đơn giản thì cái vùng điều kiện ở diện các bạn sẽ tích chọn cả
+[15:30] điều kiện ở diện các bạn sẽ tích chọn cả cái cột b này đúng ạ phẩy cái điều kiện
+[15:33] cái cột b này đúng ạ phẩy cái điều kiện là gì ạ vì ở đây mình Chọn toàn bộ cái
+[15:35] là gì ạ vì ở đây mình Chọn toàn bộ cái cả cái cột bên này đúng không cho nên
+[15:36] cả cái cột bên này đúng không cho nên cái điều kiện ở đây các bạn sẽ thích vào
+[15:38] cái điều kiện ở đây các bạn sẽ thích vào cái ô đầu tiên là ob1 đấy các bạn xem đó
+[15:40] cái ô đầu tiên là ob1 đấy các bạn xem đó ngoặc đơn điều kiện làm việc nhỏ hơn A
+[15:43] ngoặc đơn điều kiện làm việc nhỏ hơn A đợi thì bạn hiểu cái câu này nghĩa là gì
+[15:46] đợi thì bạn hiểu cái câu này nghĩa là gì Tức là những cái ôm mà các bạn Nhập vào
+[15:48] Tức là những cái ôm mà các bạn Nhập vào nó phải không trùng nhau trùng nhau Tức
+[15:50] nó phải không trùng nhau trùng nhau Tức là nó sẽ lớn hơn hoặc bằng hai đúng
+[15:52] là nó sẽ lớn hơn hoặc bằng hai đúng không mà ở đây mình chỉ cho phép nó nhỏ
+[15:54] không mà ở đây mình chỉ cho phép nó nhỏ hơn hay thôi cho nên nếu như trùng nhau
+[15:56] hơn hay thôi cho nên nếu như trùng nhau đấy thì nó sẽ bằng hai hoặc là lớn hơn
+[15:58] đấy thì nó sẽ bằng hai hoặc là lớn hơn hay thì nó sẽ báo lỗi luôn Tức là nó sẽ
+[16:00] hay thì nó sẽ báo lỗi luôn Tức là nó sẽ ngăn không cho bạn để cùng nhau đấy
+[16:02] ngăn không cho bạn để cùng nhau đấy ngoài ra các bạn có thể tích vào cái
+[16:04] ngoài ra các bạn có thể tích vào cái phần Grow Plus này còn thực hiện thông
+[16:06] phần Grow Plus này còn thực hiện thông báo nhé Nếu như mà nhập trùng nhau thì
+[16:08] báo nhé Nếu như mà nhập trùng nhau thì quan hiện thông báo này điện Ví dụ mình
+[16:10] quan hiện thông báo này điện Ví dụ mình thông báo Họ đã có cái mã nhân viên này
+[16:12] thông báo Họ đã có cái mã nhân viên này đúng không Các bạn thấy không rất là hay
+[16:15] đúng không Các bạn thấy không rất là hay tức mà nó hiện cả cái thông báo luôn các
+[16:17] tức mà nó hiện cả cái thông báo luôn các bạn sân bấm ok đấy bây giờ ví dụ nhập cá
+[16:19] bạn sân bấm ok đấy bây giờ ví dụ nhập cá nhân viên 002 thì nó không trùng đúng
+[16:22] nhân viên 002 thì nó không trùng đúng không Thì nó
+[16:23] không Thì nó Ừ Ok nó không cảnh báo gì cả ví dụ mình
+[16:26] Ừ Ok nó không cảnh báo gì cả ví dụ mình nhập nhân viên 001 các bạn enter đấy cậu
+[16:28] nhập nhân viên 001 các bạn enter đấy cậu thấy chứ nó làm hiện một cái báo lỗi
+[16:30] thấy chứ nó làm hiện một cái báo lỗi ngay ở đây là gì đã có cái mã nhân viên
+[16:32] ngay ở đây là gì đã có cái mã nhân viên này đây thì có bạn sẽ bấm cancel để các
+[16:35] này đây thì có bạn sẽ bấm cancel để các bạn không nhập nhá Còn nếu như bạn với
+[16:37] bạn không nhập nhá Còn nếu như bạn với trai thì nó sẽ cho quan nhập lại ví dụ
+[16:39] trai thì nó sẽ cho quan nhập lại ví dụ là nhân viên 002 hả Thế nhá các bạn
+[16:41] là nhân viên 002 hả Thế nhá các bạn enter thì nó phục báo lỗi ngay tại vì
+[16:43] enter thì nó phục báo lỗi ngay tại vì cái mã nhân viên không hoa đã có đây rồi
+[16:45] cái mã nhân viên không hoa đã có đây rồi đúng không đấy các bạn Lisa ví dụ như là
+[16:48] đúng không đấy các bạn Lisa ví dụ như là mã nhân viên 003 lại thì ok đấy đấy là
+[16:51] mã nhân viên 003 lại thì ok đấy đấy là cái cách các bạn có thể ngăn nhiệt trùng
+[16:53] cái cách các bạn có thể ngăn nhiệt trùng nhé Bây giờ mình sẽ xem cái câu hỏi về
+[16:57] nhé Bây giờ mình sẽ xem cái câu hỏi về nhà nhé Ok cái câu hỏi về nhà nó cũng
+[17:03] nhà nhé Ok cái câu hỏi về nhà nó cũng khá là nâng cao đấy Ở đây nhá mình yêu
+[17:06] khá là nâng cao đấy Ở đây nhá mình yêu cầu là diện cái mã công ty và cái số vốn
+[17:09] cầu là diện cái mã công ty và cái số vốn nó phải thỏa mãn điều kiện điều kiện số
+[17:12] nó phải thỏa mãn điều kiện điều kiện số vốn có phải là kiểu số nhá Còn cái mã
+[17:14] vốn có phải là kiểu số nhá Còn cái mã công ty thì nó phải có 2 cái yêu cầu thứ
+[17:18] công ty thì nó phải có 2 cái yêu cầu thứ nhất là cái ký dự đầu tiên là ký tự tách
+[17:20] nhất là cái ký dự đầu tiên là ký tự tách Còn ba cái ký tự sau là ký tự số
+[17:23] Còn ba cái ký tự sau là ký tự số ý thì cái ví dụ của mình là gì g123 đấy
+[17:27] ý thì cái ví dụ của mình là gì g123 đấy đấy là cái chắc để các chất tạo cho cái
+[17:30] đấy là cái chắc để các chất tạo cho cái rĩa các bạn sẽ kiểm soát được việc nhập
+[17:32] rĩa các bạn sẽ kiểm soát được việc nhập dữ liệu nhé khoảng cái số vốn thì gọi
+[17:34] dữ liệu nhé khoảng cái số vốn thì gọi nhập vào phải là thiểu số nếu như bạn
+[17:35] nhập vào phải là thiểu số nếu như bạn Nhật Tech Ví dụ như đoạn nghiệm lái xe
+[17:37] Nhật Tech Ví dụ như đoạn nghiệm lái xe lẽ sẽ không cho nhập lại đây là cái bạn
+[17:39] lẽ sẽ không cho nhập lại đây là cái bạn tưởng về nhà trong các bạn nhé Ok như
+[17:43] tưởng về nhà trong các bạn nhé Ok như vậy là mình đã kết thúc bài học ngày hôm
+[17:44] vậy là mình đã kết thúc bài học ngày hôm nay ở đây cảm ơn các bạn đã theo dõi các
+[17:47] nay ở đây cảm ơn các bạn đã theo dõi các bạn nhé Đăng ký Kênh để cập nhật video
+[17:49] bạn nhé Đăng ký Kênh để cập nhật video mới nhất của gà cũng như chia sẻ giúp
+[17:52] mới nhất của gà cũng như chia sẻ giúp mọi người có học xem nhé Xin chào và hẹn
+[17:55] mọi người có học xem nhé Xin chào và hẹn gặp lại ở

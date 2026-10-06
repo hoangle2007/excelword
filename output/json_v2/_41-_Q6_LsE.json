@@ -1,0 +1,724 @@
+{
+  "video_id": "_41-_Q6_LsE",
+  "bai": "Bài 05 Hàm IF",
+  "url": "https://www.youtube.com/watch?v=_41-_Q6_LsE",
+  "cong_thuc": [
+    {
+      "ten": "COUNTIF",
+      "cu_phap_chuan": "=COUNTIF(range,criteria)",
+      "tham_so": [
+        {
+          "ten": "range",
+          "mo_ta": "Vùng điều kiện"
+        },
+        {
+          "ten": "criteria",
+          "mo_ta": "Điều kiện trong ngoặc kép"
+        }
+      ],
+      "giai_thich": "Đếm số ô thỏa 1 điều kiện. Điều kiện văn bản/so sánh đặt trong ngoặc kép.",
+      "vi_du_chay_duoc": "=COUNTIF(vùng ĐTB, \">=6\")",
+      "ket_qua_vi_du": "6",
+      "loi_thuong_gap": "Quên * nên \"con\" khớp hoàn toàn ra 0",
+      "timestamp": "[00:01]"
+    },
+    {
+      "ten": "COUNTIFS",
+      "cu_phap_chuan": "=COUNTIFS(criteria_range1,criteria1,...)",
+      "tham_so": [
+        {
+          "ten": "criteria_range1",
+          "mo_ta": "Vùng 1"
+        },
+        {
+          "ten": "criteria1",
+          "mo_ta": "Điều kiện 1"
+        }
+      ],
+      "giai_thich": "Đếm với nhiều điều kiện đồng thời (AND). Mỗi điều kiện là một cặp vùng + tiêu chí.",
+      "vi_du_chay_duoc": "=COUNTIFS(vùng Đậu, \"Đậu\", vùng Excel, \">5\")",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Sai cặp vùng/điều kiện; quên ngoặc kép \">50\"",
+      "timestamp": "[02:25]"
+    },
+    {
+      "ten": "IF",
+      "cu_phap_chuan": "=IF(logical_test,value_if_true,value_if_false)",
+      "tham_so": [
+        {
+          "ten": "logical_test",
+          "mo_ta": "Biểu thức logic"
+        },
+        {
+          "ten": "value_if_true",
+          "mo_ta": "Trả về khi ĐÚNG"
+        },
+        {
+          "ten": "value_if_false",
+          "mo_ta": "Trả về khi SAI"
+        }
+      ],
+      "giai_thich": "Nếu biểu thức logic đúng trả về tham số 2, sai trả về tham số 3. Chuỗi phải trong ngoặc kép.",
+      "vi_du_chay_duoc": "=IF(H9>100, 10%, 0%)",
+      "ket_qua_vi_du": "7",
+      "loi_thuong_gap": "Quên ngoặc kép cho chuỗi; thiếu ngoặc khi lồng IF",
+      "timestamp": "[04:57]"
+    },
+    {
+      "ten": "TODAY",
+      "cu_phap_chuan": "=TODAY()",
+      "tham_so": [],
+      "giai_thich": "Trả về ngày hiện tại, không tham số. Dùng để tính tuổi, thâm niên.",
+      "vi_du_chay_duoc": "=TODAY()",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "TODAY tự đổi mỗi ngày; phải Paste Value để cố định",
+      "timestamp": "[07:24]"
+    },
+    {
+      "ten": "YEAR",
+      "cu_phap_chuan": "=YEAR(serial_number)",
+      "tham_so": [
+        {
+          "ten": "serial_number",
+          "mo_ta": "Ngày/thời gian"
+        }
+      ],
+      "giai_thich": "Lấy năm từ một ngày. Kết hợp TODAY để tính tuổi.",
+      "vi_du_chay_duoc": "=YEAR(TODAY()",
+      "ket_qua_vi_du": "18",
+      "loi_thuong_gap": "Đưa text không phải ngày vào YEAR",
+      "timestamp": "[09:50]"
+    },
+    {
+      "ten": "AND",
+      "cu_phap_chuan": "=AND(logical1,[logical2],...)",
+      "tham_so": [
+        {
+          "ten": "logical1",
+          "mo_ta": "Điều kiện 1"
+        },
+        {
+          "ten": "logical2",
+          "mo_ta": "Tùy chọn"
+        }
+      ],
+      "giai_thich": "Trả về TRUE chỉ khi TẤT CẢ đúng. Dùng gộp nhiều điều kiện phải đồng thời thỏa.",
+      "vi_du_chay_duoc": "=AND(E2=\"Tốt\", F2>=7, D2=\"Xinh\")",
+      "ket_qua_vi_du": "7",
+      "loi_thuong_gap": "Nhầm AND với OR",
+      "timestamp": "[12:29]"
+    },
+    {
+      "ten": "OR",
+      "cu_phap_chuan": "=OR(logical1,[logical2],...)",
+      "tham_so": [
+        {
+          "ten": "logical1",
+          "mo_ta": "Điều kiện 1"
+        },
+        {
+          "ten": "logical2",
+          "mo_ta": "Tùy chọn"
+        }
+      ],
+      "giai_thich": "Trả về TRUE khi ÍT NHẤT 1 điều kiện đúng. Dùng cho các trường hợp hoặc nhau.",
+      "vi_du_chay_duoc": "=OR(E2=\"Tốt\", E2=\"Trung bình\")",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Nhầm OR với AND",
+      "timestamp": "[15:05]"
+    },
+    {
+      "ten": "IF lồng nhau",
+      "cu_phap_chuan": "=IF(logical_test,value_if_true,value_if_false)",
+      "tham_so": [
+        {
+          "ten": "logical_test",
+          "mo_ta": "Biểu thức logic"
+        },
+        {
+          "ten": "value_if_true",
+          "mo_ta": "Trả về khi ĐÚNG"
+        },
+        {
+          "ten": "value_if_false",
+          "mo_ta": "Trả về khi SAI"
+        }
+      ],
+      "giai_thich": "Xếp loại nhiều mức: mỗi nhánh FALSE lại là một IF mới. Nhớ đóng đủ ngoặc.",
+      "vi_du_chay_duoc": "=IF(F2<5,\"Kém\",IF(F2<7,\"Trung bình\",IF(F2<8,\"Khá\",\"Giỏi\")",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Quên ngoặc kép cho chuỗi; thiếu ngoặc khi lồng IF",
+      "timestamp": "[17:43]"
+    }
+  ],
+  "thuat_toan_quy_trinh": [
+    {
+      "buoc": 1,
+      "thao_tac": "Bước 1: Xác định biểu thức logic (so sánh ô với ngưỡng, ví dụ H9>100, F2>=7).",
+      "phim_tat": "",
+      "luu_y": ""
+    },
+    {
+      "buoc": 2,
+      "thao_tac": "Bước 2: Chọn hàm: 1 điều kiện dùng IF; nhiều điều kiện ĐỒNG THỜI dùng AND; HOẶC nhau dùng OR.",
+      "phim_tat": "",
+      "luu_y": ""
+    },
+    {
+      "buoc": 3,
+      "thao_tac": "Bước 3: Gõ =IF(AND/OR(...), giá_trị_đúng, giá_trị_sai). Chuỗi trong ngoặc kép.",
+      "phim_tat": "",
+      "luu_y": ""
+    },
+    {
+      "buoc": 4,
+      "thao_tac": "Bước 4: Với xếp loại nhiều mức, lồng IF: IF(<5,Kém,IF(<7,TB,IF(<8,Khá,Giỏi))).",
+      "phim_tat": "",
+      "luu_y": ""
+    },
+    {
+      "buoc": 5,
+      "thao_tac": "Bước 5: Tính tuổi với YEAR(TODAY())-YEAR(ngày sinh) rồi bọc IF so sánh >=18.",
+      "phim_tat": "",
+      "luu_y": ""
+    },
+    {
+      "buoc": 6,
+      "thao_tac": "Bước 6: Fill công thức xuống cả cột bằng fill handle, kiểm tra bằng cách đổi giá trị đầu vào.",
+      "phim_tat": "Fill",
+      "luu_y": ""
+    },
+    {
+      "buoc": 7,
+      "thao_tac": "Bước 7: Bài tập về nhà: =IF(OR(AND(Tốt,>=4),AND(Trung bình,>=5)),\"Lên lớp\",\"Ở lại\")",
+      "phim_tat": "",
+      "luu_y": ""
+    }
+  ],
+  "cau_hoi": [
+    {
+      "id": 1,
+      "chu_de": "IF",
+      "do_kho": "de",
+      "cau": "Hàm IF trong Excel dùng để làm gì?",
+      "A": "Kiểm tra một điều kiện và trả về giá trị khác nhau cho ĐÚNG/SAI",
+      "B": "Tính tổng có điều kiện",
+      "C": "Đếm số ô trống",
+      "D": "Tìm kiếm theo chiều dọc",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "IF(logical_test,value_if_true,value_if_false) rẽ nhánh theo điều kiện đúng/sai. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[00:01]"
+    },
+    {
+      "id": 2,
+      "chu_de": "Tổng giá ở H9, giảm 10% nếu ...",
+      "do_kho": "de",
+      "cau": "Tổng giá ở H9, giảm 10% nếu >100, ngược lại 0%. Công thức nào đúng?",
+      "A": "=IF(H9>100,\"10%\",\"0%\")",
+      "B": "=IF(H9>100,10%,0%)",
+      "C": "=SUM(A1>100)",
+      "D": "=COUNTIF(A1,\">100\")",
+      "dap_an": "B",
+      "giai_thich_chi_tiet": "Video dùng =IF(H9>100,10%,0%). Tham số 2/3 là giá trị trả về. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[00:28]"
+    },
+    {
+      "id": 3,
+      "chu_de": "IF",
+      "do_kho": "de",
+      "cau": "Hàm IF có bao nhiêu tham số chính?",
+      "A": "3",
+      "B": "2",
+      "C": "1",
+      "D": "0",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "IF gồm logical_test, value_if_true, value_if_false. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[00:51]"
+    },
+    {
+      "id": 4,
+      "chu_de": "IF",
+      "do_kho": "de",
+      "cau": "Lưu ý khi trả về chuỗi văn bản trong IF?",
+      "A": "Chuỗi văn bản trong IF phải đặt trong ngoặc kép",
+      "B": "Số không cần ngoặc kép",
+      "C": "Ngày tháng phải là hàm DATE",
+      "D": "Cả A và B đúng",
+      "dap_an": "D",
+      "giai_thich_chi_tiet": "Ví dụ =IF(F2>=7,\"Đỗ\",\"Trượt\"): chữ phải trong \"\". Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[01:16]"
+    },
+    {
+      "id": 5,
+      "chu_de": "Điểm TB ở F2, >=7 Đỗ, còn lạ...",
+      "do_kho": "de",
+      "cau": "Điểm TB ở F2, >=7 Đỗ, còn lại Trượt. Công thức đúng?",
+      "A": "=IF(F2>=7,\"Đỗ\",\"Trượt\")",
+      "B": "=IF(F2>7,\"Đỗ\",\"Trượt\")",
+      "C": "=IF(F2=7,\"Đỗ\",\"Trượt\")",
+      "D": "=IF(F2<7,\"Đỗ\",\"Trượt\")",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Đúng yêu cầu video: lớn hơn hoặc bằng 7 là đỗ. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[01:46]"
+    },
+    {
+      "id": 6,
+      "chu_de": "Muốn đếm số thí sinh có ĐTB ...",
+      "do_kho": "de",
+      "cau": "Muốn đếm số thí sinh có ĐTB >=6, dùng hàm nào?",
+      "A": "COUNTIF",
+      "B": "IF",
+      "C": "SUM",
+      "D": "AVERAGE",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Bài 04 ôn lại: =COUNTIF(vùng,\">=6\"). Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[02:12]"
+    },
+    {
+      "id": 7,
+      "chu_de": "Đếm số thí sinh rớt (<6), cô...",
+      "do_kho": "de",
+      "cau": "Đếm số thí sinh rớt (<6), công thức đúng?",
+      "A": "=COUNTIF(vùng,\"<6\")",
+      "B": "=COUNTIF(vùng,\">6\")",
+      "C": "=COUNT(vùng)",
+      "D": "=SUMIF(vùng,\"<6\")",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Điều kiện đặt trong ngoặc kép: \"<6\". Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[02:37]"
+    },
+    {
+      "id": 8,
+      "chu_de": "Đếm thí sinh Đậu và điểm Exc...",
+      "do_kho": "de",
+      "cau": "Đếm thí sinh Đậu và điểm Excel >5 (2 điều kiện) dùng hàm nào?",
+      "A": "COUNTIFS",
+      "B": "COUNTIF",
+      "C": "SUMIFS",
+      "D": "AVERAGEIF",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "COUNTIFS cho nhiều cặp vùng/điều kiện. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[03:08]"
+    },
+    {
+      "id": 9,
+      "chu_de": "COUNTIFS",
+      "do_kho": "de",
+      "cau": "Cú pháp COUNTIFS 2 điều kiện nào đúng?",
+      "A": "=COUNTIFS(vùng Đậu,\"Đậu\",vùng Excel,\">5\")",
+      "B": "=COUNTIF(vùng Đậu,\"Đậu\")",
+      "C": "=IF(Đậu,\"Đậu\",Excel>5)",
+      "D": "=SUM(Đậu,Excel)",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Mỗi điều kiện là một cặp criteria_range, criteria. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[03:33]"
+    },
+    {
+      "id": 10,
+      "chu_de": "Hàm nào trả về ngày hiện tại...",
+      "do_kho": "de",
+      "cau": "Hàm nào trả về ngày hiện tại (không cần tham số)?",
+      "A": "TODAY()",
+      "B": "NOW()",
+      "C": "DATE()",
+      "D": "DAY()",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Video dùng =TODAY() để lấy năm hiện tại. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[04:00]"
+    },
+    {
+      "id": 11,
+      "chu_de": "Muốn lấy năm từ ngày sinh/ng...",
+      "do_kho": "trung_binh",
+      "cau": "Muốn lấy năm từ ngày sinh/ngày hiện tại để tính tuổi, dùng hàm nào?",
+      "A": "YEAR",
+      "B": "MONTH",
+      "C": "DAY",
+      "D": "DATE",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "=YEAR(TODAY())-YEAR(ngày sinh). Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[04:27]"
+    },
+    {
+      "id": 12,
+      "chu_de": "Kiểm tra từ 18 tuổi trở lên ...",
+      "do_kho": "trung_binh",
+      "cau": "Kiểm tra từ 18 tuổi trở lên (năm sinh ở C3), biểu thức logic đúng?",
+      "A": "=YEAR(TODAY())-YEAR(C3)>=18",
+      "B": "=TODAY()-C3>=18",
+      "C": "=YEAR(C3)-YEAR(TODAY())>=18",
+      "D": "=DAY(TODAY())>=18",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Tuổi = năm hiện tại trừ năm sinh, so sánh >=18. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[04:53]"
+    },
+    {
+      "id": 13,
+      "chu_de": "Công thức Trưởng thành/Chưa ...",
+      "do_kho": "trung_binh",
+      "cau": "Công thức Trưởng thành/Chưa trưởng thành đầy đủ nào đúng?",
+      "A": "=IF(YEAR(TODAY())-YEAR(C3)>=18,\"Trưởng thành\",\"Chưa trưởng thành\")",
+      "B": "=IF(C3>=18,\"Trưởng thành\",\"Chưa\")",
+      "C": "=IF(TODAY()>=18,\"Trưởng thành\",\"Chưa\")",
+      "D": "=IF(YEAR>=18,\"Trưởng thành\",\"Chưa\")",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Lồng biểu thức tuổi vào IF như video. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[05:19]"
+    },
+    {
+      "id": 14,
+      "chu_de": "So sánh bằng trong Excel dùn...",
+      "do_kho": "trung_binh",
+      "cau": "So sánh bằng trong Excel dùng toán tử nào?",
+      "A": "=",
+      "B": "==",
+      "C": "<>",
+      "D": "===",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Excel dùng một dấu = để so sánh bằng, ví dụ D2=\"Xinh\". Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[05:47]"
+    },
+    {
+      "id": 15,
+      "chu_de": "Ngoại hình ở D2, Xinh thì Yê...",
+      "do_kho": "trung_binh",
+      "cau": "Ngoại hình ở D2, Xinh thì Yêu. Công thức đúng?",
+      "A": "=IF(D2=\"Xinh\",\"Yêu\",\"Không yêu\")",
+      "B": "=IF(D2=Xinh,\"Yêu\",\"Không yêu\")",
+      "C": "=IF(D2=\"Xinh\",Yêu,Không yêu)",
+      "D": "=IF(\"Xinh\",\"Yêu\",\"Không yêu\")",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Chuỗi phải trong ngoặc kép và tham chiếu ô D2. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[06:15]"
+    },
+    {
+      "id": 16,
+      "chu_de": "Xếp loại Kém (<5), Trung bìn...",
+      "do_kho": "trung_binh",
+      "cau": "Xếp loại Kém (<5), Trung bình (<7), Khá (<8), còn lại Giỏi cần kỹ thuật gì?",
+      "A": "IF lồng nhau",
+      "B": "SUM lồng nhau",
+      "C": "VLOOKUP lồng nhau",
+      "D": "COUNT lồng nhau",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Video lồng 3 hàm IF vào nhau. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[06:41]"
+    },
+    {
+      "id": 17,
+      "chu_de": "Công thức xếp loại đầy đủ nà...",
+      "do_kho": "trung_binh",
+      "cau": "Công thức xếp loại đầy đủ nào đúng?",
+      "A": "=IF(F2<5,\"Kém\",IF(F2<7,\"Trung bình\",IF(F2<8,\"Khá\",\"Giỏi\")))",
+      "B": "=IF(F2<5,\"Kém\",\"Giỏi\")",
+      "C": "=IF(F2<8,\"Khá\",\"Giỏi\")",
+      "D": "=IF(F2>5,\"Kém\",\"Giỏi\")",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Thứ tự kiểm tra từ thấp đến cao, mỗi nhánh SAI là một IF mới. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[07:06]"
+    },
+    {
+      "id": 18,
+      "chu_de": "Muốn TẤT CẢ điều kiện đều đú...",
+      "do_kho": "trung_binh",
+      "cau": "Muốn TẤT CẢ điều kiện đều đúng mới trả về TRUE, dùng hàm nào?",
+      "A": "AND",
+      "B": "OR",
+      "C": "NOT",
+      "D": "XOR",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "AND(logical1,logical2,...) chỉ TRUE khi mọi biểu thức đúng. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[07:31]"
+    },
+    {
+      "id": 19,
+      "chu_de": "Muốn CHỈ CẦN MỘT điều kiện đ...",
+      "do_kho": "trung_binh",
+      "cau": "Muốn CHỈ CẦN MỘT điều kiện đúng là TRUE, dùng hàm nào?",
+      "A": "OR",
+      "B": "AND",
+      "C": "IF",
+      "D": "NOT",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "OR trả về TRUE nếu ít nhất một biểu thức đúng. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[07:58]"
+    },
+    {
+      "id": 20,
+      "chu_de": "AND",
+      "do_kho": "trung_binh",
+      "cau": "Điều kiện Yêu: hạnh kiểm Tốt VÀ ĐTB>=7 VÀ Xinh. Công thức AND đúng?",
+      "A": "=AND(E2=\"Tốt\",F2>=7,D2=\"Xinh\")",
+      "B": "=OR(E2=\"Tốt\",F2>=7,D2=\"Xinh\")",
+      "C": "=IF(E2=\"Tốt\",F2,D2)",
+      "D": "=AND(E2,F2,D2)",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "3 biểu thức logic nối bằng AND như video. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[08:23]"
+    },
+    {
+      "id": 21,
+      "chu_de": "Kiểm tra đạo đức là Tốt HOẶC...",
+      "do_kho": "trung_binh",
+      "cau": "Kiểm tra đạo đức là Tốt HOẶC Trung bình, công thức đúng?",
+      "A": "=OR(E2=\"Tốt\",E2=\"Trung bình\")",
+      "B": "=AND(E2=\"Tốt\",E2=\"Trung bình\")",
+      "C": "=IF(E2=\"Tốt\",\"Trung bình\")",
+      "D": "=NOT(E2)",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "OR cho phép một trong hai giá trị. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[08:49]"
+    },
+    {
+      "id": 22,
+      "chu_de": "Bài toán Mục tiêu (Yêu/Bạn/K...",
+      "do_kho": "trung_binh",
+      "cau": "Bài toán Mục tiêu (Yêu/Bạn/Không chơi) cần kỹ thuật nào?",
+      "A": "Kết hợp IF với AND/OR",
+      "B": "Chỉ dùng IF đơn",
+      "C": "Chỉ dùng SUM",
+      "D": "Chỉ dùng COUNT",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Video dùng =IF(AND(...),\"Yêu\",IF(OR(...),\"Bạn\",\"Không chơi\")). Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[09:16]"
+    },
+    {
+      "id": 23,
+      "chu_de": "Công thức mục tiêu hoàn chỉn...",
+      "do_kho": "trung_binh",
+      "cau": "Công thức mục tiêu hoàn chỉnh nào đúng nhất?",
+      "A": "=IF(AND(E2=\"Tốt\",F2>=7,D2=\"Xinh\"),\"Yêu\",IF(OR(E2=\"Tốt\",E2=\"Trung bình\"),\"Bạn\",\"Không chơi\"))",
+      "B": "=IF(E2=\"Tốt\",\"Yêu\",\"Bạn\")",
+      "C": "=SUM(E2,F2,D2)",
+      "D": "=OR(E2,F2,D2)",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Nhánh TRUE của IF đầu là Yêu, nhánh FALSE là IF+OR xét Bạn/Không chơi. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[09:44]"
+    },
+    {
+      "id": 24,
+      "chu_de": "IF",
+      "do_kho": "trung_binh",
+      "cau": "Lưu ý quan trọng khi lồng nhiều IF/AND/OR?",
+      "A": "Phải đóng đủ ngoặc đơn cho mỗi hàm đã mở",
+      "B": "Không cần đóng ngoặc",
+      "C": "Chỉ đóng 1 ngoặc cuối",
+      "D": "Dùng ngoặc vuông []",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Mỗi mở ngoặc phải có đóng ngoặc tương ứng, video đếm kỹ từng ngoặc. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[10:11]"
+    },
+    {
+      "id": 25,
+      "chu_de": "Sau khi lập công thức cho 1 ...",
+      "do_kho": "trung_binh",
+      "cau": "Sau khi lập công thức cho 1 sinh viên, áp dụng cho cả lớp bằng cách nào?",
+      "A": "Kéo fill handle (ô vuông góc dưới bên phải)",
+      "B": "Copy bằng Ctrl+P",
+      "C": "Gõ lại từng ô",
+      "D": "Dùng Print",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Kéo dấu cộng ở góc dưới ô để fill công thức. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[10:42]"
+    },
+    {
+      "id": 26,
+      "chu_de": "Tại sao video sửa điểm 6 thà...",
+      "do_kho": "trung_binh",
+      "cau": "Tại sao video sửa điểm 6 thành 7 để kiểm tra?",
+      "A": "Vì giá trị thay đổi thì kết quả IF tự cập nhật",
+      "B": "Vì IF không bao giờ sai",
+      "C": "Vì không cần lưu file",
+      "D": "Vì điểm luôn cố định",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Kiểm tra tính động: đổi đầu vào, IF tính lại Đỗ/Trượt, Xếp loại. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[11:10]"
+    },
+    {
+      "id": 27,
+      "chu_de": "AND",
+      "do_kho": "trung_binh",
+      "cau": "Hàm AND/OR trả về kiểu giá trị gốc nào?",
+      "A": "TRUE/FALSE",
+      "B": "1/0",
+      "C": "Đỗ/Trượt",
+      "D": "Cả A và B tùy ngữ cảnh",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "AND/OR gốc trả về TRUE/FALSE; muốn tính toán mới ép về 1/0 (nhân *1 hoặc --). Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[11:39]"
+    },
+    {
+      "id": 28,
+      "chu_de": "OR",
+      "do_kho": "trung_binh",
+      "cau": "Bài tập về nhà: Tốt và ĐTB>=4 HOẶC Trung bình và ĐTB>=5 thì Lên lớp. Biểu thức OR+AND nào đúng? (Đạo đức D4, ĐTB C4)",
+      "A": "=OR(AND(D4=\"Tốt\",C4>=4),AND(D4=\"Trung bình\",C4>=5))",
+      "B": "=AND(E2,C4)",
+      "C": "=OR(E2,C4,D4)",
+      "D": "=IF(E2,C4,D4)",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Mỗi nhánh AND là một điều kiện lên lớp, OR nối hai nhánh. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[12:08]"
+    },
+    {
+      "id": 29,
+      "chu_de": "Công thức Lên lớp/Ở lại hoàn...",
+      "do_kho": "trung_binh",
+      "cau": "Công thức Lên lớp/Ở lại hoàn chỉnh nào đúng?",
+      "A": "=IF(OR(AND(D4=\"Tốt\",C4>=4),AND(D4=\"Trung bình\",C4>=5)),\"Lên lớp\",\"Ở lại\")",
+      "B": "=IF(D4=\"Tốt\",\"Lên lớp\",\"Ở lại\")",
+      "C": "=IF(C4>=4,\"Lên lớp\",\"Ở lại\")",
+      "D": "=SUM(C4,D4)",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Bọc OR(AND,AND) trong IF như video bài 06 chữa. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[12:33]"
+    },
+    {
+      "id": 30,
+      "chu_de": "Khi so sánh với ô mục tiêu c...",
+      "do_kho": "trung_binh",
+      "cau": "Khi so sánh với ô mục tiêu cố định (ví dụ $B$1) rồi fill, cần làm gì?",
+      "A": "Dùng F4 để cố định ô mục tiêu khi fill xuống",
+      "B": "Không cần cố định",
+      "C": "Xóa ô mục tiêu",
+      "D": "Gộp ô mục tiêu",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Nhấn F4 để tuyệt đối hóa tham chiếu, tránh trôi vùng. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[12:59]"
+    },
+    {
+      "id": 31,
+      "chu_de": "IF",
+      "do_kho": "kho",
+      "cau": "Quy trình tư duy đúng khi dùng IF theo video?",
+      "A": "Kiểm tra điều kiện trước, rồi mới chọn hàm",
+      "B": "Gõ hàm trước rồi nghĩ điều kiện",
+      "C": "Luôn dùng VLOOKUP thay IF",
+      "D": "Không cần xác định điều kiện",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Xác định biểu thức logic trước, rồi chọn IF/AND/OR phù hợp. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[13:33]"
+    },
+    {
+      "id": 32,
+      "chu_de": "Công thức nào xử lý ĐÚNG 4 m...",
+      "do_kho": "kho",
+      "cau": "Công thức nào xử lý ĐÚNG 4 mức xếp loại?",
+      "A": "=IF(F2<5,\"Kém\",IF(F2<7,\"TB\",\"Khá\"))",
+      "B": "=IF(F2<5,\"Kém\",IF(F2<7,\"Trung bình\",IF(F2<8,\"Khá\",\"Giỏi\")))",
+      "C": "=IF(F2>8,\"Giỏi\",\"Kém\")",
+      "D": "=IF(F2=7,\"Khá\",\"Giỏi\")",
+      "dap_an": "B",
+      "giai_thich_chi_tiet": "Phải có 3 IF lồng và nhánh cuối Giỏi không cần IF nữa. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[14:01]"
+    },
+    {
+      "id": 33,
+      "chu_de": "Bẫy thường gặp khi so sánh c...",
+      "do_kho": "kho",
+      "cau": "Bẫy thường gặp khi so sánh chuỗi (\"Tốt\" vs \"tốt\")?",
+      "A": "So sánh chuỗi có phân biệt dấu tiếng Việt và chữ hoa/thường",
+      "B": "Không bao giờ sai",
+      "C": "Số và chuỗi luôn bằng nhau",
+      "D": "IF không dùng được với chuỗi",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Gõ sai hoa/thường hoặc thiếu dấu sẽ khiến điều kiện FALSE. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[14:25]"
+    },
+    {
+      "id": 34,
+      "chu_de": "Vì sao video khuyên tham chi...",
+      "do_kho": "kho",
+      "cau": "Vì sao video khuyên tham chiếu ô thay vì gõ số cứng?",
+      "A": "Tham chiếu ô (ví dụ H9, F2) để công thức tự cập nhật",
+      "B": "Gõ giá trị cứng vào công thức",
+      "C": "Chụp ảnh màn hình",
+      "D": "In ra giấy",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Tham chiếu giúp đổi dữ liệu là kết quả tự đổi, dễ kiểm tra. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[14:52]"
+    },
+    {
+      "id": 35,
+      "chu_de": "Công thức nào ĐÚNG đầy đủ 3 ...",
+      "do_kho": "kho",
+      "cau": "Công thức nào ĐÚNG đầy đủ 3 mức Yêu/Bạn/Không chơi?",
+      "A": "=IF(AND(E2=\"Tốt\",F2>7,D2=\"Xinh\"),\"Yêu\",\"Không\")",
+      "B": "=IF(AND(E2=\"Tốt\",F2>=7,D2=\"Xinh\"),\"Yêu\",IF(OR(E2=\"Tốt\",E2=\"Trung bình\"),\"Bạn\",\"Không chơi\"))",
+      "C": "=IF(OR(E2,F2,D2),\"Yêu\",\"Bạn\")",
+      "D": "=AND(E2=\"Tốt\")",
+      "dap_an": "B",
+      "giai_thich_chi_tiet": "Ngưỡng là >=7 và nhánh OR xét Bạn, còn lại Không chơi. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[15:20]"
+    },
+    {
+      "id": 36,
+      "chu_de": "Chọn hàm logic đúng cho từng...",
+      "do_kho": "kho",
+      "cau": "Chọn hàm logic đúng cho từng tình huống?",
+      "A": "Dùng OR khi chỉ cần 1 trong nhiều điều kiện đúng",
+      "B": "Dùng AND khi chỉ cần 1 điều kiện đúng",
+      "C": "Dùng SUM thay OR",
+      "D": "Dùng COUNT thay AND",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "OR = một đúng là đủ; AND = phải tất cả đúng. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[15:48]"
+    },
+    {
+      "id": 37,
+      "chu_de": "IF",
+      "do_kho": "kho",
+      "cau": "Kinh nghiệm khi IF lồng 3-4 tầng?",
+      "A": "Lồng IF quá sâu dễ nhầm ngoặc, nên viết từng bước và kiểm tra",
+      "B": "Lồng càng sâu càng tốt",
+      "C": "Không bao giờ dùng IF lồng",
+      "D": "Dùng IF lồng thay mọi hàm khác",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Video viết từng IF, đóng ngoặc cẩn thận và fill thử. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[16:18]"
+    },
+    {
+      "id": 38,
+      "chu_de": "Công thức tính trưởng thành ...",
+      "do_kho": "kho",
+      "cau": "Công thức tính trưởng thành tổng quát nhất (đúng mọi năm hiện tại)?",
+      "A": "=IF(YEAR(TODAY())-YEAR(C3)>=18,\"Trưởng thành\",\"Chưa trưởng thành\")",
+      "B": "=IF(C3=\"2000\",\"Trưởng thành\",\"Chưa\")",
+      "C": "=IF(18,\"Trưởng thành\",\"Chưa\")",
+      "D": "=TODAY(C3)",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Dùng YEAR(TODAY()) nên sang năm khác vẫn đúng, không gõ cứng 2020. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[16:45]"
+    },
+    {
+      "id": 39,
+      "chu_de": "AND",
+      "do_kho": "kho",
+      "cau": "Tại sao phải học AND/OR cùng IF?",
+      "A": "Vì AND/OR giúp gộp nhiều điều kiện trong 1 IF",
+      "B": "Vì AND/OR thay được mọi hàm Excel",
+      "C": "Vì AND/OR tính tổng nhanh",
+      "D": "Vì AND/OR vẽ biểu đồ",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Bài toán thực tế (Yêu/Bạn/Lên lớp) luôn có 2-3 điều kiện đồng thời/hoặc. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[17:15]"
+    },
+    {
+      "id": 40,
+      "chu_de": "Đáp án bài tập về nhà Bài 05...",
+      "do_kho": "kho",
+      "cau": "Đáp án bài tập về nhà Bài 05 (cột Ghi chú) đúng nhất?",
+      "A": "=IF(OR(AND(D4=\"Tốt\",C4>=4),AND(D4=\"Trung bình\",C4>=5)),\"Lên lớp\",\"Ở lại lớp\")",
+      "B": "=IF(D4=\"Kém\",\"Lên lớp\",\"Ở lại\")",
+      "C": "=IF(C4>10,\"Lên lớp\",\"Ở lại\")",
+      "D": "=COUNT(D4,C4)",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Đúng tiêu chuẩn video: (Tốt và >=4) hoặc (Trung bình và >=5) thì lên lớp. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[17:43]"
+    }
+  ],
+  "kiem_chung": {
+    "nguon": "transcript+frames",
+    "ghi_chu": "Đối chiếu _41-_Q6_LsE: cu_phap_chuan theo Microsoft EN + dấu phẩy; ví dụ copy từ video; timestamp lấy từ transcript 439 mốc."
+  }
+}

@@ -1,0 +1,461 @@
+{
+  "video_id": "4GDYTDq2QbU",
+  "bai": "Bài 12 Paste Special (Dán đặc biệt)",
+  "url": "https://www.youtube.com/watch?v=4GDYTDq2QbU",
+  "cong_thuc": [
+    {
+      "ham": "Thực hiện/Kế hoạch",
+      "giai_thich": "Tính % hoàn thành",
+      "vi_du": "=D5/C5 ra 90%"
+    },
+    {
+      "ham": "1 - %hoàn thành",
+      "giai_thich": "% chưa hoàn thành (phần trắng của Data Bar)",
+      "vi_du": "=1-K5"
+    },
+    {
+      "ham": "100% - %muốn bớt",
+      "giai_thich": "Hệ số nhân khi bớt phần trăm (bài tập: bớt 15% = 85%)",
+      "vi_du": "=1-15% ra 85%"
+    },
+    {
+      "ham": "100% + %muốn tăng",
+      "giai_thich": "Hệ số nhân khi tăng phần trăm (tăng 15% = 115%)",
+      "vi_du": "=100%+15% ra 115%"
+    },
+    {
+      "ham": "USD * tỷ giá",
+      "giai_thich": "Đổi tiền tệ bằng công thức rồi Paste Values cố định",
+      "vi_du": "=B6*23000"
+    },
+    {
+      "ham": "Text * 1 / Text + 0",
+      "giai_thich": "Ép text-số thành số thật qua Paste Special Multiply/Add",
+      "vi_du": "Copy 1 > Multiply vùng text"
+    },
+    {
+      "ham": "Text / 1",
+      "giai_thich": "Ép text-số thành số thật qua Paste Special Divide (cách bài tập về nhà)",
+      "vi_du": "Copy 1 > Divide vùng text"
+    }
+  ],
+  "thuat_toan_quy_trinh": [
+    "Hiểu Paste Special: copy thường Ctrl+V dán tất cả; chuột phải > Paste Special chỉ dán 1 thành phần (Formats, Values, Validation...), phím tắt Alt+E+S.",
+    "Ứng dụng 1 - Copy Format: bôi vùng mẫu 2020 > Copy > bôi vùng 2021 > Paste Special > Formats > OK.",
+    "Ứng dụng 2 - Copy dropdown: click ô đã có dropdown > Copy > bôi vùng Giới tính mới > Paste Special > Validation > OK.",
+    "Tạo dropdown gốc: chọn ô > Data > Data Validation > Settings > Allow = List > Source gõ Nam,Nữ,Khác (tích In-cell dropdown) > OK.",
+    "Ứng dụng 3 - Dương thành âm: nhập -1 ra ô phụ > Copy -1 > bôi vùng dương > Paste Special > Multiply > OK.",
+    "Ứng dụng 4 - Transpose: bôi vùng dọc > Copy > chọn ô đích > Paste Special > Transpose > OK (dọc thành ngang và ngược lại).",
+    "Ứng dụng 5 - Chốt công thức thành giá trị: bôi vùng công thức (VND) > Copy > Paste Special > Values > OK, sửa nguồn không đổi kết quả.",
+    "Ứng dụng 6 - Copy độ rộng cột: click 1 ô cột mẫu (quý 1) > Copy > bôi các cột đích > Paste Special > Column widths > OK. (Bài 10 cũng dùng).",
+    "Ứng dụng 7 - Text thành số C1: nhập 1 > Copy > bôi vùng text > Paste Special > Multiply > OK (số nhảy sang phải).",
+    "Ứng dụng 7b - Text thành số C2: nhập 0 > Copy > bôi vùng text > Paste Special > Add > OK.",
+    "Ứng dụng 8 - Cộng thêm: bôi vùng bổ sung (300,200) > Copy > bôi vùng doanh thu > Paste Special > Add > OK (97+300=397).",
+    "Bài tập trừ bớt: tương tự nhưng Paste Special > Subtract (397-300=97).",
+    "Ứng dụng 9 - Số thành %: nhập 100 > Copy > bôi vùng (97,58) > Paste Special > Divide > OK (0.97) > Home > % .",
+    "Ứng dụng 10 - Tăng 15%: lập ô =100%+15% (115%) > Copy > bôi vùng > Paste Special > Multiply > OK > chuyển về số (dấu phẩy).",
+    "Bài tập bớt 15%: lập ô =100%-15% (85%) > Copy > Multiply tương tự."
+  ],
+  "cau_hoi": [
+    {
+      "id": 1,
+      "cau": "Paste Special nghĩa là gì?",
+      "A": "Dán đặc biệt 1 thành phần (format, value, validation...)",
+      "B": "Dán tất cả",
+      "C": "Xóa",
+      "D": "In",
+      "dap_an": "A",
+      "giai_thich": "Khác Ctrl+V dán tất cả; Special chỉ dán thứ cần."
+    },
+    {
+      "id": 2,
+      "cau": "Phím tắt mở Paste Special trong video là?",
+      "A": "Ctrl+V",
+      "B": "Alt+E+S (giữ Alt, E rồi S)",
+      "C": "Ctrl+C",
+      "D": "F4",
+      "dap_an": "B",
+      "giai_thich": "Video nhắc Alt+E+S rồi chọn chữ cái thao tác."
+    },
+    {
+      "id": 3,
+      "cau": "Muốn áp định dạng 2020 cho 2021 ta chọn gì trong Paste Special?",
+      "A": "Formulas",
+      "B": "Values",
+      "C": "Formats",
+      "D": "Comments",
+      "dap_an": "C",
+      "giai_thich": "Formats chỉ copy tô màu/kẻ khung."
+    },
+    {
+      "id": 4,
+      "cau": "Muốn copy danh sách xổ xuống sang cột khác ta chọn?",
+      "A": "Transpose",
+      "B": "Values",
+      "C": "Formats",
+      "D": "Validation",
+      "dap_an": "D",
+      "giai_thich": "Dropdown là Data Validation."
+    },
+    {
+      "id": 5,
+      "cau": "Tạo dropdown gốc vào đường nào?",
+      "A": "Data > Data Validation > Allow List",
+      "B": "Home > Sort",
+      "C": "Insert > Chart",
+      "D": "View > Freeze",
+      "dap_an": "A",
+      "giai_thich": "Source gõ Nam,Nữ,Khác."
+    },
+    {
+      "id": 6,
+      "cau": "Trong Data Validation, Allow phải chọn gì cho dropdown?",
+      "A": "Whole number",
+      "B": "List",
+      "C": "Date",
+      "D": "Text length",
+      "dap_an": "B",
+      "giai_thich": "List mới cho xổ xuống."
+    },
+    {
+      "id": 7,
+      "cau": "Muốn chuyển số dương thành âm nhanh ta nhân với?",
+      "A": "1",
+      "B": "0",
+      "C": "-1 qua Multiply",
+      "D": "100",
+      "dap_an": "C",
+      "giai_thich": "Copy -1 rồi Multiply vùng dương."
+    },
+    {
+      "id": 8,
+      "cau": "Trong Paste Special, phép nhân là?",
+      "A": "Divide",
+      "B": "Add",
+      "C": "Subtract",
+      "D": "Multiply",
+      "dap_an": "D",
+      "giai_thich": "Video dùng Multiply với -1."
+    },
+    {
+      "id": 9,
+      "cau": "Transpose trong Paste Special dùng để?",
+      "A": "Đổi hàng thành cột và ngược lại",
+      "B": "Xóa",
+      "C": "Cộng",
+      "D": "Tô màu",
+      "dap_an": "A",
+      "giai_thich": "Dọc thành ngang như họ tên/doanh thu."
+    },
+    {
+      "id": 10,
+      "cau": "Muốn công thức không nhảy khi sửa nguồn ta dán kiểu?",
+      "A": "Formulas",
+      "B": "Values",
+      "C": "Formats",
+      "D": "Transpose",
+      "dap_an": "B",
+      "giai_thich": "Values chốt thành số (USD→VND)."
+    },
+    {
+      "id": 11,
+      "cau": "Copy độ rộng cột dùng tùy chọn nào?",
+      "A": "Add",
+      "B": "Values",
+      "C": "Column widths",
+      "D": "Divide",
+      "dap_an": "C",
+      "giai_thich": "Bài 10 và 12 đều dùng."
+    },
+    {
+      "id": 12,
+      "cau": "Dấu hiệu text-giả-số trong video là gì?",
+      "A": "Lỗi #VALUE",
+      "B": "Màu đỏ",
+      "C": "Chữ to",
+      "D": "Nằm lệch trái (số thật lệch phải)",
+      "dap_an": "D",
+      "giai_thich": "Video chỉ nhìn vị trí căn để biết text."
+    },
+    {
+      "id": 13,
+      "cau": "Ép text thành số cách 1: copy 1 rồi chọn phép nào?",
+      "A": "Multiply",
+      "B": "Add",
+      "C": "Subtract",
+      "D": "Values",
+      "dap_an": "A",
+      "giai_thich": "Nhân 1 giữ giá trị nhưng đổi kiểu."
+    },
+    {
+      "id": 14,
+      "cau": "Ép text thành số cách 2: copy 0 rồi chọn phép nào?",
+      "A": "Multiply",
+      "B": "Add",
+      "C": "Divide",
+      "D": "Transpose",
+      "dap_an": "B",
+      "giai_thich": "Cộng 0 tương tự nhân 1."
+    },
+    {
+      "id": 15,
+      "cau": "Muốn 97 tăng thêm 300 thành 397 ta dùng phép?",
+      "A": "Multiply",
+      "B": "Subtract",
+      "C": "Add",
+      "D": "Divide",
+      "dap_an": "C",
+      "giai_thich": "Copy vùng bổ sung rồi Add vào doanh thu."
+    },
+    {
+      "id": 16,
+      "cau": "Bài tập 397 giảm 300 còn 97 dùng phép nào?",
+      "A": "Divide",
+      "B": "Add",
+      "C": "Multiply",
+      "D": "Subtract",
+      "dap_an": "D",
+      "giai_thich": "Ngược với cộng thêm."
+    },
+    {
+      "id": 17,
+      "cau": "Muốn 97 thành 97% mà đang thiếu % ta làm 2 bước nào?",
+      "A": "Divide cho 100 rồi bấm %",
+      "B": "Nhân 100",
+      "C": "Gõ %",
+      "D": "Đổi font",
+      "dap_an": "A",
+      "giai_thich": "Chia 100 ra 0.97 rồi định dạng %."
+    },
+    {
+      "id": 18,
+      "cau": "Ô phụ để đổi sang % là số mấy?",
+      "A": "0",
+      "B": "100",
+      "C": "1",
+      "D": "-1",
+      "dap_an": "B",
+      "giai_thich": "Copy 100 rồi Divide."
+    },
+    {
+      "id": 19,
+      "cau": "Tăng mỗi giá trị 15% thì hệ số nhân là?",
+      "A": "85%",
+      "B": "15%",
+      "C": "115% (=100%+15%)",
+      "D": "100%",
+      "dap_an": "C",
+      "giai_thich": "Nhân 115% nghĩa là tăng thêm 15%."
+    },
+    {
+      "id": 20,
+      "cau": "Bớt 15% (bài tập) thì hệ số nhân là?",
+      "A": "0%",
+      "B": "115%",
+      "C": "15%",
+      "D": "85% (=100%-15%)",
+      "dap_an": "D",
+      "giai_thich": "Nhân 85% là giữ lại 85%."
+    },
+    {
+      "id": 21,
+      "cau": "Sau khi nhân % xong số hiển thị % thì chuyển về số thường bằng?",
+      "A": "Nút Comma (dấu phẩy) ở Home",
+      "B": "Xóa",
+      "C": "Enter",
+      "D": "F4",
+      "dap_an": "A",
+      "giai_thich": "Video bấm dấu phẩy để về số."
+    },
+    {
+      "id": 22,
+      "cau": "Tỷ giá USD→VND trong ví dụ là bao nhiêu?",
+      "A": "1",
+      "B": "23000",
+      "C": "100",
+      "D": "Tùy",
+      "dap_an": "B",
+      "giai_thich": "Video ví dụ 23.000."
+    },
+    {
+      "id": 23,
+      "cau": "Công thức USD→VND là?",
+      "A": "=USD/tỷ giá",
+      "B": "=USD+tỷ giá",
+      "C": "=USD*tỷ giá",
+      "D": "=USD",
+      "dap_an": "C",
+      "giai_thich": "Nhân với 23000 rồi Values."
+    },
+    {
+      "id": 24,
+      "cau": "Trước khi Transpose phải làm gì?",
+      "A": "Ẩn",
+      "B": "Xóa",
+      "C": "Merge",
+      "D": "Copy vùng nguồn trước",
+      "dap_an": "D",
+      "giai_thich": "Bôi vùng > Copy > chọn đích > Special."
+    },
+    {
+      "id": 25,
+      "cau": "Paste Special > Skip blanks có tác dụng?",
+      "A": "Bỏ qua ô trống khi dán",
+      "B": "Xóa",
+      "C": "Ẩn",
+      "D": "Không có",
+      "dap_an": "A",
+      "giai_thich": "Kiến thức mở rộng của hộp thoại (không dán đè trống)."
+    },
+    {
+      "id": 26,
+      "cau": "Paste Link trong Paste Special để?",
+      "A": "Dán giá trị",
+      "B": "Dán liên kết công thức tới nguồn",
+      "C": "Dán màu",
+      "D": "Không dùng",
+      "dap_an": "B",
+      "giai_thich": "Tùy chọn trong hộp thoại."
+    },
+    {
+      "id": 27,
+      "cau": "Muốn vừa dán giá trị vừa cộng thêm ta chọn?",
+      "A": "Không làm được",
+      "B": "Có nút chung",
+      "C": "Paste=Values kết hợp Operation=Add trong cùng 1 hộp thoại",
+      "D": "Dùng Transpose",
+      "dap_an": "C",
+      "giai_thich": "Paste Special cho chọn đồng thời mục Paste (Values) và mục Operation (Add) rồi OK một lần."
+    },
+    {
+      "id": 28,
+      "cau": "Bài 12 có bao nhiêu ứng dụng?",
+      "A": "13",
+      "B": "5",
+      "C": "3",
+      "D": "10",
+      "dap_an": "D",
+      "giai_thich": "Video liệt kê 10 ứng dụng Paste Special."
+    },
+    {
+      "id": 29,
+      "cau": "Ứng dụng nào trùng với bài 10?",
+      "A": "Column widths",
+      "B": "Flash Fill",
+      "C": "Freeze",
+      "D": "COUNTIF",
+      "dap_an": "A",
+      "giai_thich": "Cả 2 bài đều copy độ rộng cột."
+    },
+    {
+      "id": 30,
+      "cau": "Vì sao text-nhân-1 thành số được?",
+      "A": "Lỗi",
+      "B": "Excel ép kiểu khi tính toán",
+      "C": "Ngẫu nhiên",
+      "D": "Do màu",
+      "dap_an": "B",
+      "giai_thich": "Tính toán buộc text-số thành số thật."
+    },
+    {
+      "id": 31,
+      "cau": "Sau khi đánh STT bằng công thức ở bài 14, nên chốt bằng?",
+      "A": "Transpose",
+      "B": "Paste Formats",
+      "C": "Paste Values",
+      "D": "Validation",
+      "dap_an": "C",
+      "giai_thich": "Liên quan bài 12: Values chống nhảy."
+    },
+    {
+      "id": 32,
+      "cau": "Muốn giữ dropdown mà không copy giá trị ta chọn?",
+      "A": "Formulas",
+      "B": "Values",
+      "C": "All",
+      "D": "Validation",
+      "dap_an": "D",
+      "giai_thich": "Chỉ lấy quy tắc xổ xuống."
+    },
+    {
+      "id": 33,
+      "cau": "Nếu Transpose bị lỗi do vùng đích đè nguồn ta nên?",
+      "A": "Chọn ô đích trống ngoài vùng nguồn",
+      "B": "Ghi đè",
+      "C": "Merge",
+      "D": "Bỏ qua",
+      "dap_an": "A",
+      "giai_thich": "Phải chọn E3 trống như video."
+    },
+    {
+      "id": 34,
+      "cau": "Phép Subtract dùng khi nào?",
+      "A": "Cộng thêm",
+      "B": "Trừ bớt / giảm giá trị",
+      "C": "Nhân %",
+      "D": "Đổi hàng-cột",
+      "dap_an": "B",
+      "giai_thich": "Bài tập giảm 397 về 97."
+    },
+    {
+      "id": 35,
+      "cau": "Phép Divide dùng khi nào?",
+      "A": "Tô màu",
+      "B": "Cộng",
+      "C": "Chia (về %, text→số)",
+      "D": "Dropdown",
+      "dap_an": "C",
+      "giai_thich": "Chia 100 ra %, chia 1 ra số."
+    },
+    {
+      "id": 36,
+      "cau": "Câu hỏi bài tập về nhà bài 12 gồm mấy ý?",
+      "A": "0",
+      "B": "1",
+      "C": "5",
+      "D": "3 (text→số 2 cách, trừ bớt, bớt 15%)",
+      "dap_an": "D",
+      "giai_thich": "Video chốt 3 ý cuối bài."
+    },
+    {
+      "id": 37,
+      "cau": "Cách mở Paste Special bằng chuột là?",
+      "A": "Chuột phải > Paste Special",
+      "B": "Chuột trái",
+      "C": "Double-click",
+      "D": "Kéo",
+      "dap_an": "A",
+      "giai_thich": "Đúng thao tác video."
+    },
+    {
+      "id": 38,
+      "cau": "Ô 115% được lập bằng công thức nào?",
+      "A": "=115",
+      "B": "=100%+15%",
+      "C": "=15%",
+      "D": "=100%",
+      "dap_an": "B",
+      "giai_thich": "Video gõ 100%+15%."
+    },
+    {
+      "id": 39,
+      "cau": "Ô 85% được lập bằng công thức nào?",
+      "A": "=15%",
+      "B": "=85",
+      "C": "=1-15% (hoặc 100%-15%)",
+      "D": "=100%",
+      "dap_an": "C",
+      "giai_thich": "Bài tập bớt 15%."
+    },
+    {
+      "id": 40,
+      "cau": "Ý chính bài 12 là gì?",
+      "A": "Freeze Panes",
+      "B": "Conditional Formatting",
+      "C": "Flash Fill",
+      "D": "10 ứng dụng Paste Special: Format, Validation, ±*/÷, Transpose, Values, Column widths, %, tăng/giảm",
+      "dap_an": "D",
+      "giai_thich": "Bao quát toàn bài 12."
+    }
+  ]
+}

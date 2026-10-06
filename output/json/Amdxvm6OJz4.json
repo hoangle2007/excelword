@@ -1,0 +1,505 @@
+{
+  "video_id": "Amdxvm6OJz4",
+  "bai": "Bai 15 thu thuat Excel 2/4: Go To Special, Dropdown List, Find Select, Status Bar",
+  "url": "https://www.youtube.com/watch?v=Amdxvm6OJz4",
+  "cong_thuc": [
+    {
+      "ten": "Go To Special - Blanks",
+      "cong_thuc": "Ctrl+G > Special > Blanks",
+      "giai_thich": "Chon tat ca o trong trong vung du lieu de dien hang loat.",
+      "vi_du": "Boi den A1:D20, Ctrl+G > Special > Blanks > OK, go 'thieu du lieu', Ctrl+Enter"
+    },
+    {
+      "ten": "Dien hang loat o trong",
+      "cong_thuc": "Nhap gia tri + Ctrl+Enter",
+      "giai_thich": "Giu Ctrl+Enter de dien cung gia tri vao tat ca o dang chon.",
+      "vi_du": "Chon cac o trong > to mau vang > go 'thieu du lieu' > Ctrl+Enter"
+    },
+    {
+      "ten": "Data Validation List (go truc tiep)",
+      "cong_thuc": "Data > Data Validation > Allow: List > Source: Nam,Nu,Khac",
+      "giai_thich": "Tao dropdown bang cach go truc tiep, cach nhau boi dau phay. Phu hop danh sach ngan.",
+      "vi_du": "Source: Nam,Nu,Khac -> o Gioi tinh hien mui ten so xuong"
+    },
+    {
+      "ten": "Data Validation List (tham chieu vung)",
+      "cong_thuc": "Data > Data Validation > Allow: List > Source: =$G$14:$G$16",
+      "giai_thich": "Tao dropdown tham chieu toi vung chua san danh muc, de bao tri.",
+      "vi_du": "Source = $G$14:$G$16 (Nam/Nu/Khac). Nhap 'Ga' se bao loi."
+    },
+    {
+      "ten": "Xoa Data Validation",
+      "cong_thuc": "Data > Data Validation > Clear All > OK",
+      "giai_thich": "Boi den vung co validation, Clear All de xoa dropdown.",
+      "vi_du": "Boi den cot Gioi tinh > Clear All"
+    },
+    {
+      "ten": "Find - Chon nang cao",
+      "cong_thuc": "Home > Find & Select > Find (Ctrl+F) > Find All > Ctrl+A",
+      "giai_thich": "Tim kiem tu khoa, Find All liet ke ket qua, Ctrl+A chon het de to mau/dinh dang hang loat.",
+      "vi_du": "Find 'SP01' > Find All > Ctrl+A > to mau do; Find 'Mien Bac' > to mau xanh"
+    },
+    {
+      "ten": "Status Bar: Average/Count/Max/Min/Sum",
+      "cong_thuc": "Boi den vung so > nhin thanh Status Bar",
+      "giai_thich": "Average: trung binh; Count: dem o chua so; Max/Min: lon/nho nhat; Sum: tong; Numerical Count dem so, Count dem ca text.",
+      "vi_du": "Boi den cot Diem: Average=9.4, Max=18, Sum=119, Count=32"
+    },
+    {
+      "ten": "Tuy chinh Status Bar",
+      "cong_thuc": "Chuot phai len Status Bar > tich/bot Average, Count, Min, Max, Sum...",
+      "giai_thich": "Them bot chi so hien thi. Bo chon neu hien thi qua nhieu.",
+      "vi_du": "Chuot phai > them Minimum, Numerical Count; bo Maximum neu khong can"
+    }
+  ],
+  "thuat_toan_quy_trinh": [
+    {
+      "ten": "Thay o trong bang 'thieu du lieu' + to vang",
+      "cac_buoc": [
+        "Boi den toan bo vung du lieu (Ctrl+A hoac keo chuot)",
+        "Ctrl+G > Go To > Special > Blanks > OK",
+        "Vao Home > Fill Color > mau vang",
+        "Go 'thieu du lieu' > giu Ctrl + Enter de dien tat ca o trong",
+        "Click o bat ky de thoat chon"
+      ]
+    },
+    {
+      "ten": "Tao dropdown List go truc tiep",
+      "cac_buoc": [
+        "Boi den vung can tao (vd cot Gioi tinh)",
+        "Data > Data Validation > tab Settings",
+        "Allow: List; Source: go Nam,Nu,Khac (phay)",
+        "OK > click mui ten de chon, khong phai go tay"
+      ]
+    },
+    {
+      "ten": "Tao dropdown tu vung danh muc",
+      "cac_buoc": [
+        "Liet ke danh muc o vung phu (vd G14:G16)",
+        "Boi den vung nhap lieu > Data > Data Validation > Allow: List",
+        "Click nut chon Source > boi den G14:G16",
+        "OK. Nhap ngoai danh muc se bao loi"
+      ]
+    },
+    {
+      "ten": "Find & chon nang cao de dinh dang hang loat",
+      "cac_buoc": [
+        "Home > Find & Select > Find (Ctrl+F)",
+        "Nhap tu khoa (vd SP01, Mien Bac) > Find All",
+        "Nhan Ctrl+A trong cua so ket qua de chon het",
+        "Dong cua so, to mau/in dam vung duoc chon"
+      ]
+    },
+    {
+      "ten": "Su dung Status Bar tinh nhanh",
+      "cac_buoc": [
+        "Boi den vung so lieu",
+        "Doc Average, Count, Max, Min, Sum o thanh duoi cung",
+        "Chuot phai Status Bar de them Minimum, Numerical Count...",
+        "Bo chon muc khong can de gon"
+      ]
+    }
+  ],
+  "cau_hoi": [
+    {
+      "id": 1,
+      "cau": "Go To Special > Blanks de lam gi?",
+      "A": "Chon tat ca o trong trong vung",
+      "B": "Mo hop Find",
+      "C": "Tao bieu do",
+      "D": "Sap xep du lieu",
+      "dap_an": "A",
+      "giai_thich": "Go To Special > Blanks giup chon dong loat cac o trong de dien/to mau."
+    },
+    {
+      "id": 2,
+      "cau": "Tinh huong: Go To Special > Blanks de lam gi? Ap dung dung la?",
+      "A": "Chon tat ca o trong trong vung",
+      "B": "Mo hop Find",
+      "C": "Tao bieu do",
+      "D": "Sap xep du lieu",
+      "dap_an": "A",
+      "giai_thich": "Go To Special > Blanks giup chon dong loat cac o trong de dien/to mau."
+    },
+    {
+      "id": 3,
+      "cau": "De dien 'thieu du lieu' vao tat ca o trong phai bam phim gi sau khi go?",
+      "A": "Ctrl + Enter",
+      "B": "Chi Enter",
+      "C": "Shift + Enter",
+      "D": "Alt + Enter",
+      "dap_an": "A",
+      "giai_thich": "Ctrl+Enter dien cung noi dung vao tat ca o dang duoc chon; Enter thuong chi dien 1 o."
+    },
+    {
+      "id": 4,
+      "cau": "Tinh huong: De dien 'thieu du lieu' vao tat ca o trong phai bam phim gi sau khi go? Ap dung dung la?",
+      "A": "Ctrl + Enter",
+      "B": "Chi Enter",
+      "C": "Shift + Enter",
+      "D": "Alt + Enter",
+      "dap_an": "A",
+      "giai_thich": "Ctrl+Enter dien cung noi dung vao tat ca o dang duoc chon; Enter thuong chi dien 1 o."
+    },
+    {
+      "id": 5,
+      "cau": "Muon chon toan bo vung du lieu nhanh nhat dung phim nao?",
+      "A": "Ctrl + A",
+      "B": "Ctrl + B",
+      "C": "Ctrl + G",
+      "D": "Ctrl + F",
+      "dap_an": "A",
+      "giai_thich": "Ctrl+A chon toan bo sheet/vung hien tai."
+    },
+    {
+      "id": 6,
+      "cau": "Tinh huong: Muon chon toan bo vung du lieu nhanh nhat dung phim nao? Ap dung dung la?",
+      "A": "Ctrl + A",
+      "B": "Ctrl + B",
+      "C": "Ctrl + G",
+      "D": "Ctrl + F",
+      "dap_an": "A",
+      "giai_thich": "Ctrl+A chon toan bo sheet/vung hien tai."
+    },
+    {
+      "id": 7,
+      "cau": "Phim tat mo hop Go To la gi?",
+      "A": "Ctrl + G",
+      "B": "Ctrl + H",
+      "C": "Ctrl + K",
+      "D": "Ctrl + J",
+      "dap_an": "A",
+      "giai_thich": "Ctrl+G mo Go To, sau do chon Special."
+    },
+    {
+      "id": 8,
+      "cau": "Tinh huong: Phim tat mo hop Go To la gi? Ap dung dung la?",
+      "A": "Ctrl + G",
+      "B": "Ctrl + H",
+      "C": "Ctrl + K",
+      "D": "Ctrl + J",
+      "dap_an": "A",
+      "giai_thich": "Ctrl+G mo Go To, sau do chon Special."
+    },
+    {
+      "id": 9,
+      "cau": "Trong Go To Special muon chon o trong thi chon muc nao?",
+      "A": "Blanks",
+      "B": "Formulas",
+      "C": "Constants",
+      "D": "Visible cells only",
+      "dap_an": "A",
+      "giai_thich": "Blanks = cac o trong; Formulas = o chua cong thuc."
+    },
+    {
+      "id": 10,
+      "cau": "Tinh huong: Trong Go To Special muon chon o trong thi chon muc nao? Ap dung dung la?",
+      "A": "Blanks",
+      "B": "Formulas",
+      "C": "Constants",
+      "D": "Visible cells only",
+      "dap_an": "A",
+      "giai_thich": "Blanks = cac o trong; Formulas = o chua cong thuc."
+    },
+    {
+      "id": 11,
+      "cau": "De to mau vang cho cac o trong lam the nao?",
+      "A": "Home > Fill Color > vang sau khi chon o trong",
+      "B": "Insert > Color",
+      "C": "Data > Sort",
+      "D": "View > Color",
+      "dap_an": "A",
+      "giai_thich": "Dung Fill Color (thung son) tren ribbon Home."
+    },
+    {
+      "id": 12,
+      "cau": "Tinh huong: De to mau vang cho cac o trong lam the nao? Ap dung dung la?",
+      "A": "Home > Fill Color > vang sau khi chon o trong",
+      "B": "Insert > Color",
+      "C": "Data > Sort",
+      "D": "View > Color",
+      "dap_an": "A",
+      "giai_thich": "Dung Fill Color (thung son) tren ribbon Home."
+    },
+    {
+      "id": 13,
+      "cau": "Tao dropdown Gioi tinh vao the nao?",
+      "A": "Data > Data Validation",
+      "B": "Insert > Table",
+      "C": "Home > Sort",
+      "D": "Formulas > Name",
+      "dap_an": "A",
+      "giai_thich": "Data Validation quan ly danh sach so xuong."
+    },
+    {
+      "id": 14,
+      "cau": "Tinh huong: Tao dropdown Gioi tinh vao the nao? Ap dung dung la?",
+      "A": "Data > Data Validation",
+      "B": "Insert > Table",
+      "C": "Home > Sort",
+      "D": "Formulas > Name",
+      "dap_an": "A",
+      "giai_thich": "Data Validation quan ly danh sach so xuong."
+    },
+    {
+      "id": 15,
+      "cau": "Trong Data Validation, Allow phai chon gi de tao dropdown?",
+      "A": "List",
+      "B": "Whole number",
+      "C": "Date",
+      "D": "Text length",
+      "dap_an": "A",
+      "giai_thich": "Allow: List moi tao dropdown."
+    },
+    {
+      "id": 16,
+      "cau": "Tinh huong: Trong Data Validation, Allow phai chon gi de tao dropdown? Ap dung dung la?",
+      "A": "List",
+      "B": "Whole number",
+      "C": "Date",
+      "D": "Text length",
+      "dap_an": "A",
+      "giai_thich": "Allow: List moi tao dropdown."
+    },
+    {
+      "id": 17,
+      "cau": "Khi go truc tiep Source dropdown, cac muc cach nhau boi dau gi?",
+      "A": "Dau phay",
+      "B": "Dau cham phay",
+      "C": "Dau hai cham",
+      "D": "Dau gach cheo",
+      "dap_an": "A",
+      "giai_thich": "Vd: Nam,Nu,Khac. Tuy regional setting co the la phay hoac cham phay."
+    },
+    {
+      "id": 18,
+      "cau": "Tinh huong: Khi go truc tiep Source dropdown, cac muc cach nhau boi dau gi? Ap dung dung la?",
+      "A": "Dau phay",
+      "B": "Dau cham phay",
+      "C": "Dau hai cham",
+      "D": "Dau gach cheo",
+      "dap_an": "A",
+      "giai_thich": "Vd: Nam,Nu,Khac. Tuy regional setting co the la phay hoac cham phay."
+    },
+    {
+      "id": 19,
+      "cau": "Cach dropdown tham chieu vung lam the nao?",
+      "A": "Click nut chon Source roi boi den vung danh muc",
+      "B": "Go tay lai tu dau",
+      "C": "Copy paste",
+      "D": "Khong lam duoc",
+      "dap_an": "A",
+      "giai_thich": "Tham chieu vd $G$14:$G$16 giup de bao tri."
+    },
+    {
+      "id": 20,
+      "cau": "Tinh huong: Cach dropdown tham chieu vung lam the nao? Ap dung dung la?",
+      "A": "Click nut chon Source roi boi den vung danh muc",
+      "B": "Go tay lai tu dau",
+      "C": "Copy paste",
+      "D": "Khong lam duoc",
+      "dap_an": "A",
+      "giai_thich": "Tham chieu vd $G$14:$G$16 giup de bao tri."
+    },
+    {
+      "id": 21,
+      "cau": "Nhap gia tri ngoai dropdown tham chieu thi sao?",
+      "A": "Excel bao loi, khong cho nhap",
+      "B": "Tu dong them vao",
+      "C": "Khong co gi",
+      "D": "Xoa o do",
+      "dap_an": "A",
+      "giai_thich": "Validation chan gia tri ngoai danh muc."
+    },
+    {
+      "id": 22,
+      "cau": "Tinh huong: Nhap gia tri ngoai dropdown tham chieu thi sao? Ap dung dung la?",
+      "A": "Excel bao loi, khong cho nhap",
+      "B": "Tu dong them vao",
+      "C": "Khong co gi",
+      "D": "Xoa o do",
+      "dap_an": "A",
+      "giai_thich": "Validation chan gia tri ngoai danh muc."
+    },
+    {
+      "id": 23,
+      "cau": "De xoa dropdown lam the nao?",
+      "A": "Boi den vung > Data Validation > Clear All > OK",
+      "B": "Nhan Delete",
+      "C": "Xoa sheet",
+      "D": "An cot",
+      "dap_an": "A",
+      "giai_thich": "Clear All go bo quy tac validation."
+    },
+    {
+      "id": 24,
+      "cau": "Tinh huong: De xoa dropdown lam the nao? Ap dung dung la?",
+      "A": "Boi den vung > Data Validation > Clear All > OK",
+      "B": "Nhan Delete",
+      "C": "Xoa sheet",
+      "D": "An cot",
+      "dap_an": "A",
+      "giai_thich": "Clear All go bo quy tac validation."
+    },
+    {
+      "id": 25,
+      "cau": "Find nang cao mo bang cach nao?",
+      "A": "Home > Find & Select > Find (Ctrl+F)",
+      "B": "Insert > Find",
+      "C": "Data > Find",
+      "D": "View > Find",
+      "dap_an": "A",
+      "giai_thich": "Ctrl+F la phim tat Find."
+    },
+    {
+      "id": 26,
+      "cau": "Tinh huong: Find nang cao mo bang cach nao? Ap dung dung la?",
+      "A": "Home > Find & Select > Find (Ctrl+F)",
+      "B": "Insert > Find",
+      "C": "Data > Find",
+      "D": "View > Find",
+      "dap_an": "A",
+      "giai_thich": "Ctrl+F la phim tat Find."
+    },
+    {
+      "id": 27,
+      "cau": "Sau khi Find All muon chon het ket qua bam gi?",
+      "A": "Ctrl + A",
+      "B": "Ctrl + C",
+      "C": "Ctrl + V",
+      "D": "Ctrl + Z",
+      "dap_an": "A",
+      "giai_thich": "Ctrl+A trong pane ket qua se chon het cac o tim thay."
+    },
+    {
+      "id": 28,
+      "cau": "Tinh huong: Sau khi Find All muon chon het ket qua bam gi? Ap dung dung la?",
+      "A": "Ctrl + A",
+      "B": "Ctrl + C",
+      "C": "Ctrl + V",
+      "D": "Ctrl + Z",
+      "dap_an": "A",
+      "giai_thich": "Ctrl+A trong pane ket qua se chon het cac o tim thay."
+    },
+    {
+      "id": 29,
+      "cau": "Ung dung Find Select nang cao la gi?",
+      "A": "Chon het SP01 de to do, Mien Bac to xanh hang loat",
+      "B": "Tao bieu do",
+      "C": "Loc trung",
+      "D": "Tach cot",
+      "dap_an": "A",
+      "giai_thich": "Tim theo tu khoa roi dinh dang hang loat rat nhanh."
+    },
+    {
+      "id": 30,
+      "cau": "Tinh huong: Ung dung Find Select nang cao la gi? Ap dung dung la?",
+      "A": "Chon het SP01 de to do, Mien Bac to xanh hang loat",
+      "B": "Tao bieu do",
+      "C": "Loc trung",
+      "D": "Tach cot",
+      "dap_an": "A",
+      "giai_thich": "Tim theo tu khoa roi dinh dang hang loat rat nhanh."
+    },
+    {
+      "id": 31,
+      "cau": "Thanh Status Bar nam o dau?",
+      "A": "Thanh duoi cung cua cua so Excel",
+      "B": "Thanh tren cung",
+      "C": "Giua sheet",
+      "D": "Trong ribbon",
+      "dap_an": "A",
+      "giai_thich": "Status Bar o day man hinh, hien Average/Count/Sum..."
+    },
+    {
+      "id": 32,
+      "cau": "Tinh huong: Thanh Status Bar nam o dau? Ap dung dung la?",
+      "A": "Thanh duoi cung cua cua so Excel",
+      "B": "Thanh tren cung",
+      "C": "Giua sheet",
+      "D": "Trong ribbon",
+      "dap_an": "A",
+      "giai_thich": "Status Bar o day man hinh, hien Average/Count/Sum..."
+    },
+    {
+      "id": 33,
+      "cau": "Boi den vung so, Status Bar hien gi?",
+      "A": "Average, Count, Max, Min, Sum...",
+      "B": "Chi ten file",
+      "C": "Chi gio",
+      "D": "Chi ten sheet",
+      "dap_an": "A",
+      "giai_thich": "Thanh trang thai thong ke nhanh vung so duoc chon."
+    },
+    {
+      "id": 34,
+      "cau": "Tinh huong: Boi den vung so, Status Bar hien gi? Ap dung dung la?",
+      "A": "Average, Count, Max, Min, Sum...",
+      "B": "Chi ten file",
+      "C": "Chi gio",
+      "D": "Chi ten sheet",
+      "dap_an": "A",
+      "giai_thich": "Thanh trang thai thong ke nhanh vung so duoc chon."
+    },
+    {
+      "id": 35,
+      "cau": "Average tren Status Bar tinh tren o nao?",
+      "A": "Chi o chua so",
+      "B": "Ca o text",
+      "C": "Ca o trong",
+      "D": "Ca o loi",
+      "dap_an": "A",
+      "giai_thich": "Ham thong ke bo qua text va o trong."
+    },
+    {
+      "id": 36,
+      "cau": "Tinh huong: Average tren Status Bar tinh tren o nao? Ap dung dung la?",
+      "A": "Chi o chua so",
+      "B": "Ca o text",
+      "C": "Ca o trong",
+      "D": "Ca o loi",
+      "dap_an": "A",
+      "giai_thich": "Ham thong ke bo qua text va o trong."
+    },
+    {
+      "id": 37,
+      "cau": "Count va Numerical Count khac nhau the nao?",
+      "A": "Count dem ca text, Numerical Count chi dem so",
+      "B": "Giong nhau",
+      "C": "Count chi dem so",
+      "D": "Numerical Count dem text",
+      "dap_an": "A",
+      "giai_thich": "Can phan biet khi dem du lieu hon hop."
+    },
+    {
+      "id": 38,
+      "cau": "Tinh huong: Count va Numerical Count khac nhau the nao? Ap dung dung la?",
+      "A": "Count dem ca text, Numerical Count chi dem so",
+      "B": "Giong nhau",
+      "C": "Count chi dem so",
+      "D": "Numerical Count dem text",
+      "dap_an": "A",
+      "giai_thich": "Can phan biet khi dem du lieu hon hop."
+    },
+    {
+      "id": 39,
+      "cau": "Muon them Minimum vao Status Bar lam the nao?",
+      "A": "Chuot phai Status Bar > tich Minimum",
+      "B": "Double click sheet",
+      "C": "Nhan F5",
+      "D": "Vao File > New",
+      "dap_an": "A",
+      "giai_thich": "Chuot phai Status Bar de bat/tat cac chi so."
+    },
+    {
+      "id": 40,
+      "cau": "Tinh huong: Muon them Minimum vao Status Bar lam the nao? Ap dung dung la?",
+      "A": "Chuot phai Status Bar > tich Minimum",
+      "B": "Double click sheet",
+      "C": "Nhan F5",
+      "D": "Vao File > New",
+      "dap_an": "A",
+      "giai_thich": "Chuot phai Status Bar de bat/tat cac chi so."
+    }
+  ]
+}

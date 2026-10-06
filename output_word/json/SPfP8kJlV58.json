@@ -1,0 +1,363 @@
+{
+ "bai": 13,
+ "cau_hoi": [
+  {
+   "A": "Đặt con trỏ chỗ cần chèn rồi Insert > Pictures > This Device",
+   "B": "Nhấn Alt + F4",
+   "C": "Vào File > Print",
+   "D": "Nhấn Ctrl + A",
+   "cau": "Các bước chèn ảnh vào Word là?",
+   "dap_an": "A",
+   "giai_thich": "Đặt con trỏ, Insert > Pictures > This Device, chọn ảnh, Insert.",
+   "id": 1,
+   "muc_do": "de"
+  },
+  {
+   "A": "Insert",
+   "B": "Home",
+   "C": "File",
+   "D": "View",
+   "cau": "Lệnh chèn ảnh nằm ở thẻ nào?",
+   "dap_an": "A",
+   "giai_thich": "Thẻ Insert > Pictures.",
+   "id": 2,
+   "muc_do": "de"
+  },
+  {
+   "A": "Pictures > This Device (Word 2021/365)",
+   "B": "Pictures > Bing",
+   "C": "File > Save",
+   "D": "Home > Font",
+   "cau": "Chèn ảnh từ máy tính trong Word 2021 thì chọn dòng nào?",
+   "dap_an": "A",
+   "giai_thich": "This Device để lấy ảnh trong máy; bản cũ chỉ cần Picture.",
+   "id": 3,
+   "muc_do": "de"
+  },
+  {
+   "A": "Nhấp vào ảnh để chọn rồi kéo góc khi thành mũi tên 2 đầu",
+   "B": "Nhấn Ctrl + S",
+   "C": "Tắt máy",
+   "D": "Rút điện",
+   "cau": "Cách đổi kích thước ảnh sau khi chèn là?",
+   "dap_an": "A",
+   "giai_thich": "Chọn ảnh, kéo 1 trong 4 góc để resize.",
+   "id": 4,
+   "muc_do": "de"
+  },
+  {
+   "A": "Format (Picture Format) khi ảnh đang được chọn",
+   "B": "Tab File",
+   "C": "Tab View",
+   "D": "Tab Review",
+   "cau": "Muốn tạo khung/style cho ảnh thì vào thẻ nào?",
+   "dap_an": "A",
+   "giai_thich": "Chọn ảnh sẽ hiện Picture Format để chọn style/effect.",
+   "id": 5,
+   "muc_do": "de"
+  },
+  {
+   "A": "Picture Styles / Picture Effects",
+   "B": "Font Styles",
+   "C": "Paragraph Styles",
+   "D": "Page Styles",
+   "cau": "Nhóm tạo kiểu khung, bóng đổ cho ảnh tên là?",
+   "dap_an": "A",
+   "giai_thich": "Picture Styles mẫu sẵn, Picture Effects đổ bóng...",
+   "id": 6,
+   "muc_do": "de"
+  },
+  {
+   "A": "Wrap Text (Layout Options) bên cạnh ảnh",
+   "B": "Font Size",
+   "C": "Page Margins",
+   "D": "Clipboard",
+   "cau": "Nút chỉnh chữ bao quanh ảnh / ảnh trước-sau chữ là?",
+   "dap_an": "A",
+   "giai_thich": "Nút Layout Options (Wrap Text) cạnh ảnh khi chọn.",
+   "id": 7,
+   "muc_do": "de"
+  },
+  {
+   "A": "Behind Text",
+   "B": "In Front of Text",
+   "C": "Square",
+   "D": "Cả 3 đều là kiểu Wrap",
+   "cau": "Các kiểu bọc văn bản quanh ảnh gồm?",
+   "dap_an": "D",
+   "giai_thich": "Behind (sau chữ), In Front (trước chữ), Square (bao quanh).",
+   "id": 8,
+   "muc_do": "de"
+  },
+  {
+   "A": "Behind Text",
+   "B": "In Front of Text",
+   "C": "Square",
+   "D": "Tight",
+   "cau": "Muốn ảnh nằm sau chữ (chữ đè lên ảnh) thì chọn?",
+   "dap_an": "A",
+   "giai_thich": "Behind Text: ảnh ở sau, chữ nổi lên trên.",
+   "id": 9,
+   "muc_do": "de"
+  },
+  {
+   "A": "In Front of Text",
+   "B": "Behind Text",
+   "C": "Square",
+   "D": "Through",
+   "cau": "Muốn ảnh đè lên chữ thì chọn?",
+   "dap_an": "A",
+   "giai_thich": "In Front of Text: ảnh nổi lên trên chữ.",
+   "id": 10,
+   "muc_do": "de"
+  },
+  {
+   "A": "Phải đặt con trỏ đúng vị trí trước khi Insert",
+   "B": "Đặt ở đâu cũng được",
+   "C": "Không cần con trỏ",
+   "D": "Tắt con trỏ",
+   "cau": "Vì sao ảnh chèn nhầm chỗ?",
+   "dap_an": "A",
+   "giai_thich": "Ảnh chèn tại vị trí con trỏ, đặt sai thì ảnh sai chỗ.",
+   "id": 11,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Kéo 4 góc để giữ tỉ lệ, tránh méo",
+   "B": "Kéo cạnh giữa để phóng to",
+   "C": "Kéo bừa",
+   "D": "Không kéo được",
+   "cau": "Cách resize ảnh không bị méo là?",
+   "dap_an": "A",
+   "giai_thich": "Kéo góc giữ tỉ lệ; kéo cạnh giữa dễ méo.",
+   "id": 12,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Di chuột qua từng Style để xem trước trực tiếp (Live Preview)",
+   "B": "Phải áp từng cái mới thấy",
+   "C": "Không xem trước được",
+   "D": "Phải in ra mới thấy",
+   "cau": "Cách xem trước Style ảnh nhanh nhất là?",
+   "dap_an": "A",
+   "giai_thich": "Hover qua mẫu, ảnh thay đổi theo để xem trước.",
+   "id": 13,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Square/Tight để văn bản bao quanh, kéo ảnh tới chỗ muốn",
+   "B": "Chỉ để In Line",
+   "C": "Không di chuyển được",
+   "D": "Phải cắt ảnh",
+   "cau": "Muốn kéo ảnh tự do giữa văn bản và chữ bao quanh thì?",
+   "dap_an": "A",
+   "giai_thich": "Chọn Square/Tight rồi kéo ảnh, chữ tự dạt ra.",
+   "id": 14,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "In Line with Text (mặc định) khó kéo tự do",
+   "B": "Square khó kéo",
+   "C": "Behind khó kéo",
+   "D": "Mọi kiểu đều khó",
+   "cau": "Vì sao ảnh mới chèn khó kéo đi chỗ khác?",
+   "dap_an": "A",
+   "giai_thich": "Mặc định In Line coi ảnh như ký tự, phải đổi Wrap mới kéo tự do.",
+   "id": 15,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Alt Text / nút Layout Options trên Ribbon",
+   "B": "Không có cách khác",
+   "C": "Phải xóa ảnh",
+   "D": "Phải cài lại Word",
+   "cau": "Ngoài nút cạnh ảnh, còn mở Wrap Text ở đâu?",
+   "dap_an": "A",
+   "giai_thich": "Picture Format > Wrap Text (Alt Text/Layout trên Ribbon).",
+   "id": 16,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Chọn ảnh rồi Format > Picture Effects > Shadow/Reflection...",
+   "B": "Home > Font",
+   "C": "File > Save",
+   "D": "View > Zoom",
+   "cau": "Muốn thêm bóng đổ, phản chiếu cho ảnh thì?",
+   "dap_an": "A",
+   "giai_thich": "Picture Effects chọn Shadow, Reflection...",
+   "id": 17,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Ảnh minh họa giữa đoạn 1 và 2 như trong video",
+   "B": "Ảnh ở ngoài file",
+   "C": "Ảnh ở Taskbar",
+   "D": "Ảnh ở nút Start",
+   "cau": "Ví dụ chèn ảnh trong video là chèn vào đâu?",
+   "dap_an": "A",
+   "giai_thich": "Chèn vào giữa đoạn 1 và đoạn 2 của văn bản mẫu.",
+   "id": 18,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Word cũ chỉ cần Picture; Word 2021 thêm This Device",
+   "B": "Mọi bản giống hệt nhau",
+   "C": "Bản cũ không chèn được",
+   "D": "Bản mới không chèn được",
+   "cau": "Khác biệt chèn ảnh giữa Word cũ và 2021 là?",
+   "dap_an": "A",
+   "giai_thich": "Bản cũ 1 cấp Picture; 2021 thêm This Device/Stock/Bing.",
+   "id": 19,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Chọn ảnh > kéo thả hoặc cắt-dán tới chỗ mới (xem bài di chuyển ảnh)",
+   "B": "Không di chuyển được",
+   "C": "Phải chèn lại từ đầu",
+   "D": "Phải xóa văn bản",
+   "cau": "Sau khi chèn, muốn di chuyển ảnh thì?",
+   "dap_an": "A",
+   "giai_thich": "Kéo thả hoặc Ctrl+X/V tới vị trí mới.",
+   "id": 20,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Chèn đúng chỗ + resize góc + chọn Wrap phù hợp",
+   "B": "Chèn bừa",
+   "C": "Không resize",
+   "D": "Không chọn Wrap",
+   "cau": "Combo 3 việc sau khi chèn ảnh chuẩn là?",
+   "dap_an": "A",
+   "giai_thich": "Resize, Style, Wrap để ảnh gọn và chữ bao đẹp.",
+   "id": 21,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Giảm kích thước file bằng Compress Pictures nếu ảnh nặng",
+   "B": "Tăng kích thước ảnh gốc",
+   "C": "Chèn càng nhiều càng tốt",
+   "D": "Không cần nén",
+   "cau": "File Word nặng do nhiều ảnh thì xử lý?",
+   "dap_an": "A",
+   "giai_thich": "Picture Format > Compress Pictures để nén, giảm dung lượng.",
+   "id": 22,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Behind Text làm chữ khó đọc nếu ảnh rối; nên giảm độ sáng ảnh",
+   "B": "Behind luôn đẹp",
+   "C": "Behind không ảnh hưởng",
+   "D": "Behind làm mất chữ",
+   "cau": "Lưu ý khi dùng Behind Text là?",
+   "dap_an": "A",
+   "giai_thich": "Ảnh rối sẽ lẫn với chữ; nên làm mờ/nhạt ảnh.",
+   "id": 23,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Top and Bottom (chữ trên-dưới, không bao 2 bên)",
+   "B": "Square",
+   "C": "Tight",
+   "D": "Through",
+   "cau": "Muốn ảnh nằm riêng 1 hàng, chữ chỉ trên-dưới thì chọn?",
+   "dap_an": "A",
+   "giai_thich": "Top and Bottom ngăn chữ bao 2 bên.",
+   "id": 24,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Tight bám sát viền ảnh hơn Square (theo đường biên ảnh)",
+   "B": "Hai kiểu giống nhau",
+   "C": "Tight là In Line",
+   "D": "Square là Behind",
+   "cau": "Phân biệt Square và Tight?",
+   "dap_an": "A",
+   "giai_thich": "Square bao theo khung chữ nhật; Tight bám theo biên ảnh.",
+   "id": 25,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Fix Position on Page giữ ảnh cố định khi thêm chữ",
+   "B": "Move with Text trôi theo đoạn",
+   "C": "Cả hai đều là tùy chọn Layout",
+   "D": "Cả 3 đáp án trên",
+   "cau": "Tùy chọn ảnh trôi theo văn bản hay cố định trang là?",
+   "dap_an": "D",
+   "giai_thich": "Move with Text trôi theo, Fix on Page cố định.",
+   "id": 26,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Crop (Format > Crop) để xén bớt phần thừa",
+   "B": "Delete để xén",
+   "C": "Resize để xén",
+   "D": "Không xén được",
+   "cau": "Muốn xén bớt viền thừa của ảnh thì dùng?",
+   "dap_an": "A",
+   "giai_thich": "Picture Format > Crop rồi kéo khung xén.",
+   "id": 27,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Ảnh In Line tăng chiều cao dòng, làm giãn dòng cục bộ",
+   "B": "Ảnh không ảnh hưởng dòng",
+   "C": "Ảnh làm mất chữ",
+   "D": "Ảnh làm hỏng file",
+   "cau": "Vì sao chèn ảnh to làm đoạn văn bị giãn dòng lạ?",
+   "dap_an": "A",
+   "giai_thich": "Ảnh In Line đội chiều cao dòng chứa nó.",
+   "id": 28,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Đổi sang Square/Tight/Top-Bottom để hết đội dòng",
+   "B": "Xóa ảnh",
+   "C": "Xóa văn bản",
+   "D": "Tăng cỡ chữ",
+   "cau": "Cách khắc phục ảnh đội dòng là?",
+   "dap_an": "A",
+   "giai_thich": "Đổi Wrap khỏi In Line sang kiểu nổi.",
+   "id": 29,
+   "muc_do": "kho"
+  },
+  {
+   "A": "2 phần: chèn ảnh + căn chỉnh (resize, style, wrap)",
+   "B": "Chỉ có chèn",
+   "C": "Chỉ có xóa",
+   "D": "Không có phần nào",
+   "cau": "Tóm tắt video chèn ảnh gồm mấy phần?",
+   "dap_an": "A",
+   "giai_thich": "Phần 1 chèn, phần 2 resize/style/wrap.",
+   "id": 30,
+   "muc_do": "kho"
+  }
+ ],
+ "ky_nang": [
+  {
+   "duong_dan_menu": "Insert > Pictures > This Device",
+   "giai_thich": "Đặt con trỏ đúng chỗ; Word cũ chỉ cần Picture.",
+   "phim_tat": "Không có",
+   "ten": "Chèn ảnh vào Word",
+   "thao_tac": "Đặt con trỏ chỗ cần chèn, Insert > Pictures > This Device, chọn ảnh, Insert.",
+   "vi_du": "Chèn ảnh vào giữa đoạn 1 và 2."
+  },
+  {
+   "duong_dan_menu": "Chọn ảnh > kéo góc / Picture Format > Picture Styles/Effects",
+   "giai_thich": "Kéo góc giữ tỉ lệ; hover để xem trước style.",
+   "phim_tat": "Không có",
+   "ten": "Resize và tạo kiểu ảnh",
+   "thao_tac": "Nhấp ảnh, kéo 1 trong 4 góc để resize; Format > chọn Style/Effect (bóng, khung).",
+   "vi_du": "Thu nhỏ ảnh rồi áp style bóng đơn giản."
+  },
+  {
+   "duong_dan_menu": "Layout Options (cạnh ảnh) / Picture Format > Wrap Text",
+   "giai_thich": "In Line khó kéo; Square/Tight cho chữ bao quanh; Behind/In Front cho lớp trên-dưới.",
+   "phim_tat": "Không có",
+   "ten": "Căn chỉnh ảnh với văn bản (Wrap Text)",
+   "thao_tac": "Chọn ảnh, mở Wrap Text, chọn Behind/In Front/Square/Tight/Top-Bottom rồi kéo ảnh.",
+   "vi_du": "Chọn Square rồi kéo ảnh, chữ bao quanh ảnh."
+  }
+ ],
+ "url": "https://www.youtube.com/watch?v=SPfP8kJlV58",
+ "video_id": "SPfP8kJlV58"
+}

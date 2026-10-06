@@ -1,0 +1,137 @@
+{
+  "tong_video": 26,
+  "tong_cau_hoi_muc_tieu": 1040,
+  "videos": [
+    {
+      "video_id": "0a9m17AdKpM",
+      "bai": "Bai 25 - Lap trinh VBA trong Excel (2h16p)",
+      "trang_thai": "pending"
+    },
+    {
+      "video_id": "4GDYTDq2QbU",
+      "bai": "Bài 12 Paste Special (Dán đặc biệt)",
+      "trang_thai": "pending"
+    },
+    {
+      "video_id": "6ZqfZ5JFuTA",
+      "bai": "Bài 08 Index Match Sumproduct",
+      "trang_thai": "pending"
+    },
+    {
+      "video_id": "Amdxvm6OJz4",
+      "bai": "Bai 15 thu thuat Excel 2/4: Go To Special, Dropdown List, Find Select, Status Bar",
+      "trang_thai": "done"
+    },
+    {
+      "video_id": "Bukqq7vupEg",
+      "bai": "Bai 20 PivotTable trong Excel: Tao Table, Pivot Fields, Values, Layout, PivotChart",
+      "trang_thai": "pending"
+    },
+    {
+      "video_id": "HLBpUHYU6CI",
+      "bai": "Bai 22 - Bao cao dong Dashboard (PivotTable, PivotChart, Slicer)",
+      "trang_thai": "pending"
+    },
+    {
+      "video_id": "LC19SdKG4_c",
+      "bai": "Bai 00 Excel la gi - Gioi thieu khoa hoc",
+      "trang_thai": "done"
+    },
+    {
+      "video_id": "Mh7pkYVP3tk",
+      "bai": "Bai 17 bao ve du lieu: Kiem soat nhap lieu, Protect File/Sheet/Range",
+      "trang_thai": "done"
+    },
+    {
+      "video_id": "NpFOpCK8SPk",
+      "bai": "Bai 18 ve bieu do trong Excel: Insert chart, Select Data, Data Label, Legend, Bieu do tuong tac",
+      "trang_thai": "pending"
+    },
+    {
+      "video_id": "Qj2CtucX6yQ",
+      "bai": "Bai 21 - Cong thuc mang (Array Formulas)",
+      "trang_thai": "pending"
+    },
+    {
+      "video_id": "RXj9T-wSZWk",
+      "bai": "Bai 03 nhom ham tinh tong SUM SUMIF SUMIFS",
+      "trang_thai": "pending"
+    },
+    {
+      "video_id": "Vf1Lt4gYqn0",
+      "bai": "Bai 19 in an trong Excel: Print Preview, Page Setup, Margins, Fit to Page, Page Break",
+      "trang_thai": "pending"
+    },
+    {
+      "video_id": "Xne7UmDP9TU",
+      "bai": "Bai 23 - 25 phim tat thong dung",
+      "trang_thai": "pending"
+    },
+    {
+      "video_id": "YUQODIm2hrE",
+      "bai": "Bai 02 nhap lieu va lam quen thanh phan Excel",
+      "trang_thai": "pending"
+    },
+    {
+      "video_id": "_41-_Q6_LsE",
+      "bai": "Bài 05 Hàm IF",
+      "trang_thai": "pending"
+    },
+    {
+      "video_id": "clQeM5k0XP0",
+      "bai": "Bài 10 Format Cells (Định dạng Cell - Custom Number Format)",
+      "trang_thai": "pending"
+    },
+    {
+      "video_id": "gmGNVd8V8Mg",
+      "bai": "Bài 09 Sort Filter",
+      "trang_thai": "pending"
+    },
+    {
+      "video_id": "olnU9t2Dr4Y",
+      "bai": "Bài 06 18 hàm xử lý chuỗi",
+      "trang_thai": "pending"
+    },
+    {
+      "video_id": "s54HDvaqg2I",
+      "bai": "Bài 13 Kỹ năng quan trọng (Quick Analysis, Flash Fill, Freeze Panes, Remove Duplicates)",
+      "trang_thai": "pending"
+    },
+    {
+      "video_id": "t-RLqZ-FZuo",
+      "bai": "Bai 01 thao tac co ban voi file Excel",
+      "trang_thai": "pending"
+    },
+    {
+      "video_id": "v-lfPgj2prU",
+      "bai": "Bài 11 Conditional Formatting (Định dạng có điều kiện)",
+      "trang_thai": "pending"
+    },
+    {
+      "video_id": "vM7i37Kkw80",
+      "bai": "Bai 24 - Record Macro (ghi macro tu dong)",
+      "trang_thai": "pending"
+    },
+    {
+      "video_id": "w2FXwxWYYcc",
+      "bai": "Bai 16 thu thuat Excel 3/4: Dropdown thong minh, AutoCorrect, Co gian chu, Chong trung",
+      "trang_thai": "done"
+    },
+    {
+      "video_id": "yHLGXACgTU0",
+      "bai": "Bai 04 nhom ham dem COUNT COUNTA COUNTBLANK COUNTIF COUNTIFS",
+      "trang_thai": "pending"
+    },
+    {
+      "video_id": "z2IW7FrpVLs",
+      "bai": "Bài 14 Thủ thuật Excel 1/4 (Đánh STT, Di chuyển, Xóa ô trống, Autofit cột)",
+      "trang_thai": "pending"
+    },
+    {
+      "video_id": "zlVq9bUpbyc",
+      "bai": "Bài 07 VLOOKUP HLOOKUP",
+      "trang_thai": "pending"
+    }
+  ],
+  "ghi_chu": "Luong E (nen tang) da xong 4/26 video, moi video 40 cau hoi co do kho (tong 160 cau). 22 video con lai trang_thai pending, do luong khac dam nhan."
+}

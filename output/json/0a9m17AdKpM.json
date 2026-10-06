@@ -1,0 +1,450 @@
+{
+  "video_id": "0a9m17AdKpM",
+  "bai": "Bai 25 - Lap trinh VBA trong Excel (2h16p)",
+  "url": "https://www.youtube.com/watch?v=0a9m17AdKpM",
+  "cong_thuc": [
+    "Alt+F11 (hoac Developer > Visual Basic): mo cua so lap trinh VBE.",
+    "Sub SayHello() ... End Sub: khung chuong trinh; ten viet lien, khong dau cach/ky tu dac biet; F5 hoac nut tam giac de chay.",
+    "MsgBox \"Hello World\": hien hop thong bao; vi du kinh dien dau tien moi ngon ngu.",
+    "Cells(1,1) = \"Hello\": gan chu vao o hang 1 cot 1 (A1); Cells(hang,cot).",
+    "Ctrl+G (View > Immediate Window): mo cua so Immediate de test tung lenh; ?1+1 tra 2; go Cells(2,3)=\"Ga Excel\" + Enter chay ngay.",
+    "Sheets(\"Sheet1\").Select: chon sheet theo TEN; Sheets(1).Select: chon theo SO THU TU.",
+    "Sheets(3).Name = \"Ga Excel\": doi ten sheet thu 3.",
+    "ActiveWorkbook / Workbooks(\"Book1\"): file dang lam viec / file chi dinh; ActiveSheet (sheet dang chon), ActiveCell.",
+    "Workbooks(\"Book1\").Sheets(2).Cells(2,1) = \"Xin chao\": truy cap cheo file khac dang mo: Workbook.Sheet.Cells.",
+    "Dim y As Integer: khai bao bien so nguyen (-32768..32767); Dim n As Long (+-2 ty); Single/Double (so thap phan); String (chuoi); Object; Variant (moi kieu).",
+    "y = 5 : Cells(1,1) = y: gan bien vao o; doi y=7 chay lai thi o doi theo.",
+    "Range(\"A1:B3\") = \"Ga Excel\": gan ca vung lien tuc; Range(\"A5\") = \"Xin chao\": 1 o.",
+    "Cells(7,2).Select / Range(...).Select: chon vung; Range(...).Clear hoac = \"\" de xoa; = \"\" trong ngoac kep la xoa nhanh.",
+    "For Each ws In ThisWorkbook.Sheets ... Next: quet tung sheet; If ws.Name <> ActiveSheet.Name Then ws.Delete: xoa sheet khac sheet dang dung.",
+    "Application.DisplayAlerts = False ... = True: tat/bat hop hoi 'co chac muon xoa'; nho bat lai keo nguy hiem.",
+    "For i = 10 To 20 Step 1 ... Next: lap so lan co dinh; dung de in tu thi sinh 10..20 thay vi While het danh sach.",
+    "Do While ... Loop / Do Until: lap khi con dieu kien (in het danh sach phieu diem).",
+    "Sheet2.PrintOut Preview:=False: in sheet (False=in that, True=chi xem truoc); khong may in thi dung PDF de test.",
+    "Dim fso As Object: Set fso = CreateObject(\"Scripting.FileSystemObject\"): tao doi tuong thao tac file.",
+    "If fso.FolderExists(duongdan) = False Then MsgBox \"Khong ton tai\" : Exit Sub : End If: kiem tra thu muc nguon/dich truoc khi copy.",
+    "fso.CopyFile Source:=nguon & kieuFile, Destination:=dich: copy file (*.* hoac *.xlsx) giua 2 thu muc.",
+    "Dim olApp As Object, olMail As Object: Set olApp = CreateObject(\"Outlook.Application\"): goi ung dung Outlook (can Tools > References > Outlook 16.0).",
+    "olMail.To / .Subject / .HTMLBody / .Attachments.Add duongdan / .Send: gui mail (To, tieu de, noi dung HTML, dinh kem, gui).",
+    "olMail.BodyFormat = olFormatHTML: gui dinh dang HTML de chu <b>ten</b> duoc bo dam.",
+    "Application.WorksheetFunction.Substitute(body, cu, moi): ham SUBSTITUTE trong VBA de thay ten/ma khuyen mai cho tung nguoi; CountA dem so nguoi nhan.",
+    "SoNguoi = WorksheetFunction.CountA(Sheets(1).Range(\"B2:B100\")): dem email; For i = 2 To SoNguoi: Cells(i,2/3/4/5) lay email/ten/ma/file dinh kem.",
+    "Dau _ (gach duoi) cuoi dong: xuong dong code (noi 2 dong thanh 1 lenh) cho de doc.",
+    "Right-click Project > Insert > Module: viet code trong Module (theo file), khong viet tren Sheet (mat khi xoa sheet).",
+    "Luu .xlsm + gan macro vao Button (Developer > Insert > Button > Assign Macro) de bam chay: in hang loat, xoa sheet, copy file, gui mail.",
+    "y = InputBox(\"Nhap mot so\") : hien hop nhap lieu, gan vao bien y de kiem tra tiep.",
+    "If y Mod 2 = 0 Then MsgBox y & \" la so chan\" Else MsgBox y & \" la so le\" End If: Mod lay du; If...Then...Else...End If re nhanh chan/le (If va End If bat buoc di cap).",
+    "For i = 2 To SoNguoi ... Next + If ... Then ... End If: vong lap For quet dong 2..CountA, If kiem tra dieu kien tung dong (in phieu, xoa sheet, gui mail)."
+  ],
+  "thuat_toan_quy_trinh": [
+    "Buoc 1: bat Developer (Customize Ribbon); Alt+F11 mo VBE; View > Immediate (Ctrl+G); Insert > Module.",
+    "Buoc 2: viet Sub SayHello + MsgBox, F5 chay; doi sang Cells(1,1)=...; test lenh le trong Immediate (?1+1, Cells).",
+    "Buoc 3: hoc Cell/Range/Sheet/Workbook: Cells(hang,cot), Range(\"A1:B3\"), Sheets(ten/so), Workbooks(...).Sheets(...).Cells(...); Dim bien Integer/Long/String/Variant.",
+    "Buoc 4 (in phieu): record/viet vong While quet thi sinh + PrintOut Preview:=False; gan nut 'In danh sach'; dung For i=10 To 20 de in 1 doan.",
+    "Buoc 5 (xoa sheet): viet For Each ws + If Name<>Active thi Delete, boc Application.DisplayAlerts False/True; gan nut.",
+    "Buoc 6 (copy file): lay duong dan nguon/dich + kieu (*.*), viet FSO CopyFile + FolderExists check + MsgBox; gan nut.",
+    "Buoc 7 (gui mail): Tools > References tick Outlook; viet CreateObject Outlook + vong For i=2 To CountA + Substitute thay ten/ma + HTMLBody + Attachments.Add + Send; gan nut 'Gui email'; luu .xlsm."
+  ],
+  "cau_hoi": [
+    {
+      "id": 1,
+      "cau": "VBA viet tat cua cum nao?",
+      "A": "Visual Basic for Applications",
+      "B": "Very Big Apple",
+      "C": "Video Audio",
+      "D": "Viet Bao",
+      "dap_an": "A",
+      "giai_thich": "VBA nhung trong Excel de tu dong hoa thao tac."
+    },
+    {
+      "id": 2,
+      "cau": "Khi nao nen hoc VBA?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Thao tac thu cong lap lai, ton thoi gian, nham chan",
+      "C": "Ranh roi",
+      "D": "Sep bat",
+      "dap_an": "B",
+      "giai_thich": "Viec lap di lap lai nhieu lan la luc can tu dong."
+    },
+    {
+      "id": 3,
+      "cau": "Uu diem lon nhat cua VBA?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Lam may dep",
+      "C": "Nhanh, chinh xac, lam viec nguoi khong the",
+      "D": "Tang luong ngay",
+      "dap_an": "C",
+      "giai_thich": "Chay hang nghin thao tac trong giay, khong nham."
+    },
+    {
+      "id": 4,
+      "cau": "Nhuoc diem cua VBA?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Mien phi",
+      "C": "De qua",
+      "D": "Phai biet lap trinh",
+      "dap_an": "D",
+      "giai_thich": "Can tu duy bien, vong lap, dieu kien."
+    },
+    {
+      "id": 5,
+      "cau": "Mo cua so lap trinh VBA bang?",
+      "A": "Alt+F11",
+      "B": "Alt+F4",
+      "C": "Ctrl+Alt+Del",
+      "D": "Shift+F1",
+      "dap_an": "A",
+      "giai_thich": "Hoac Developer > Visual Basic."
+    },
+    {
+      "id": 6,
+      "cau": "Khung 1 chuong trinh VBA bat dau/ket thuc?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Sub Ten() ... End Sub",
+      "C": "Open...Close",
+      "D": "Go...Stop",
+      "dap_an": "B",
+      "giai_thich": "Ten viet lien, khong dau cach."
+    },
+    {
+      "id": 7,
+      "cau": "Chay chuong trinh trong VBE bang?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Alt+F4",
+      "C": "F5 hoac nut tam giac xanh",
+      "D": "Delete",
+      "dap_an": "C",
+      "giai_thich": "Bam F5 de thuc thi Sub hien tai."
+    },
+    {
+      "id": 8,
+      "cau": "Lenh hien hop thong bao Hello?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Print \"Hello\"",
+      "C": "Echo Hello",
+      "D": "MsgBox \"Hello\"",
+      "dap_an": "D",
+      "giai_thich": "Vi du kinh dien dau tien moi ngon ngu."
+    },
+    {
+      "id": 9,
+      "cau": "Gan chu vao o A1 bang?",
+      "A": "Cells(1,1) = \"Hello\"",
+      "B": "A1 + Hello",
+      "C": "Say Hello",
+      "D": "Goi dien",
+      "dap_an": "A",
+      "giai_thich": "Cells(hang,cot): hang 1 cot 1 la A1."
+    },
+    {
+      "id": 10,
+      "cau": "Cua so Immediate mo bang?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Ctrl+G (View > Immediate Window)",
+      "C": "Ctrl+P",
+      "D": "Ctrl+O",
+      "dap_an": "B",
+      "giai_thich": "Noi test tung lenh le khong can Sub."
+    },
+    {
+      "id": 11,
+      "cau": "Trong Immediate go ?1+1 thi?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Loi",
+      "C": "Tra ve 2",
+      "D": "In ra",
+      "dap_an": "C",
+      "giai_thich": "Dau ? la lenh in ket qua."
+    },
+    {
+      "id": 12,
+      "cau": "Go Cells(2,3)=\"Ga Excel\" trong Immediate thi?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Khong gi",
+      "C": "Xoa het",
+      "D": "O hang 2 cot 3 (C2) nhan chu ngay",
+      "dap_an": "D",
+      "giai_thich": "Immediate thuc thi lenh don tuc thi."
+    },
+    {
+      "id": 13,
+      "cau": "Chon sheet theo TEN dung?",
+      "A": "Sheets(\"Sheet1\").Select",
+      "B": "Sheet + 1",
+      "C": "Chon tay",
+      "D": "Doan",
+      "dap_an": "A",
+      "giai_thich": "Truyen dung ten trong ngoac kep."
+    },
+    {
+      "id": 14,
+      "cau": "Chon sheet theo SO THU TU dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Sheets(1).Select",
+      "C": "First",
+      "D": "Top",
+      "dap_an": "B",
+      "giai_thich": "So 1 la sheet dau tien tu trai."
+    },
+    {
+      "id": 15,
+      "cau": "Doi ten sheet thu 3 thanh Ga Excel?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Rename tay",
+      "C": "Sheets(3).Name = \"Ga Excel\"",
+      "D": "Xoa",
+      "dap_an": "C",
+      "giai_thich": "Thuoc tinh .Name de dat ten sheet."
+    },
+    {
+      "id": 16,
+      "cau": "ActiveWorkbook nghia la?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "File da xoa",
+      "C": "File tren mang",
+      "D": "File dang lam viec (active)",
+      "dap_an": "D",
+      "giai_thich": "Lenh khong ro workbook se tac dong file active."
+    },
+    {
+      "id": 17,
+      "cau": "Muon gan vao Book1 khi dang o Book2 thi?",
+      "A": "Workbooks(\"Book1\").Sheets(2).Cells(2,1)=...",
+      "B": "Khong the",
+      "C": "Doan",
+      "D": "Copy tay",
+      "dap_an": "A",
+      "giai_thich": "Chi ro Workbook.Sheet.Cells de truy cap cheo."
+    },
+    {
+      "id": 18,
+      "cau": "Khai bao bien so nguyen dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Dim y As Integer",
+      "C": "Int y",
+      "D": "Num y",
+      "dap_an": "B",
+      "giai_thich": "Integer tu -32768 den 32767."
+    },
+    {
+      "id": 19,
+      "cau": "So lon hon 32767 dung kieu nao?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Integer",
+      "C": "Long (+-2 ty)",
+      "D": "Bit",
+      "dap_an": "C",
+      "giai_thich": "Long chua so nguyen lon."
+    },
+    {
+      "id": 20,
+      "cau": "Kieu chua duoc MOI loai gia tri?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Integer",
+      "C": "Long",
+      "D": "Variant",
+      "dap_an": "D",
+      "giai_thich": "Chua xac dinh thi dung Variant."
+    },
+    {
+      "id": 21,
+      "cau": "Kieu doi tuong Excel (Sheet/Range) la?",
+      "A": "Object",
+      "B": "Integer",
+      "C": "String",
+      "D": "Long",
+      "dap_an": "A",
+      "giai_thich": "Object dai dien cac doi tuong."
+    },
+    {
+      "id": 22,
+      "cau": "Doan y=5: Cells(1,1)=y cho ket qua?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "O A1 = 5",
+      "C": "Loi",
+      "D": "Trong",
+      "dap_an": "B",
+      "giai_thich": "Bien y mang gia tri 5 gan vao o."
+    },
+    {
+      "id": 23,
+      "cau": "Gan ca vung A1:B3 cung 1 chu dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Chon tung o",
+      "C": "Range(\"A1:B3\") = \"Ga Excel\"",
+      "D": "Ve tay",
+      "dap_an": "C",
+      "giai_thich": "Range nhan ca vung lien tuc."
+    },
+    {
+      "id": 24,
+      "cau": "Xoa nhanh vung bang?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Delete sheet",
+      "C": "Tat may",
+      "D": "Range(...).Clear hoac = \"\"",
+      "dap_an": "D",
+      "giai_thich": "Clear xoa, gan chuoi rong cung xoa."
+    },
+    {
+      "id": 25,
+      "cau": "Lenh chon vung de thao tuc la?",
+      "A": ".Select",
+      "B": ".Delete",
+      "C": ".Hide",
+      "D": ".Quit",
+      "dap_an": "A",
+      "giai_thich": "Select chon vung truoc khi xu ly."
+    },
+    {
+      "id": 26,
+      "cau": "Quet TAT CA sheet trong file dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "For Each ws In ThisWorkbook.Sheets ... Next",
+      "C": "Khong quet",
+      "D": "Dem tay",
+      "dap_an": "B",
+      "giai_thich": "Vong For Each duyet tung Worksheet."
+    },
+    {
+      "id": 27,
+      "cau": "Chi giu ActiveSheet, xoa sheet khac dung dieu kien?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Xoa het",
+      "C": "If ws.Name <> ActiveSheet.Name Then ws.Delete",
+      "D": "Doan",
+      "dap_an": "C",
+      "giai_thich": "Khac ten sheet active thi xoa."
+    },
+    {
+      "id": 28,
+      "cau": "Xoa sheet bang code hien hop xac nhan thi?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Ke no",
+      "C": "Tat may",
+      "D": "Application.DisplayAlerts = False truoc, True sau",
+      "dap_an": "D",
+      "giai_thich": "False tat canh bao, xong bat lai True."
+    },
+    {
+      "id": 29,
+      "cau": "Vi sao phai bat lai DisplayAlerts=True?",
+      "A": "Lan sau Excel mai mai khong hoi, de xoa nham",
+      "B": "Cho vui",
+      "C": "Tang toc",
+      "D": "Giam toc",
+      "dap_an": "A",
+      "giai_thich": "Quen bat lai rat nguy hiem cho nguoi dung sau."
+    },
+    {
+      "id": 30,
+      "cau": "In sheet bang code dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Sheet.PrintOut Preview:=False",
+      "C": "Chup anh",
+      "D": "Photo",
+      "dap_an": "B",
+      "giai_thich": "False=in that; True=chi xem truoc."
+    },
+    {
+      "id": 31,
+      "cau": "Khong co may in test lenh in bang?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Bo qua",
+      "C": "May in PDF ao",
+      "D": "Thue",
+      "dap_an": "C",
+      "giai_thich": "Chon PDF, no hoi ten file de luu."
+    },
+    {
+      "id": 32,
+      "cau": "In tu thi sinh 10 den 20 dung vong nao?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "While het",
+      "C": "Loop vo han",
+      "D": "For i = 10 To 20 Step 1",
+      "dap_an": "D",
+      "giai_thich": "For co dinh so lan, khong dung While duyet het."
+    },
+    {
+      "id": 33,
+      "cau": "In HET danh sach khong biet truoc so luong dung?",
+      "A": "Do While ... Loop",
+      "B": "For 10 To 20",
+      "C": "If",
+      "D": "Select",
+      "dap_an": "A",
+      "giai_thich": "While lap den khi het thi sinh."
+    },
+    {
+      "id": 34,
+      "cau": "Tao doi tuong thao tac file dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "CreateObject(\"Scripting.FileSystemObject\")",
+      "C": "Mua o cung",
+      "D": "Tai game",
+      "dap_an": "B",
+      "giai_thich": "FSO de copy/kiem tra file thu muc."
+    },
+    {
+      "id": 35,
+      "cau": "Kiem tra thu muc ton tai truoc khi copy dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Doan mo",
+      "C": "fso.FolderExists(duongdan)",
+      "D": "Cau nguyen",
+      "dap_an": "C",
+      "giai_thich": "Khong ton tai thi MsgBox + Exit Sub."
+    },
+    {
+      "id": 36,
+      "cau": "Copy file bang FSO dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Keo tay",
+      "C": "Chup anh",
+      "D": "fso.CopyFile Source, Destination",
+      "dap_an": "D",
+      "giai_thich": "Truyen nguon + kieu (*.*) va dich."
+    },
+    {
+      "id": 37,
+      "cau": "Gui mail tu Excel can bat gi truoc?",
+      "A": "Tools > References > tick Outlook Object Library",
+      "B": "Bat wifi",
+      "C": "Nap tien",
+      "D": "Mua Outlook",
+      "dap_an": "A",
+      "giai_thich": "Khong reference thi khong goi duoc Outlook."
+    },
+    {
+      "id": 38,
+      "cau": "Tao ung dung mail trong code dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "CreateObject(\"Outlook.Application\")",
+      "C": "Nho nguoi",
+      "D": "Bo qua",
+      "dap_an": "B",
+      "giai_thich": "Doi tuong Outlook de tao thu."
+    },
+    {
+      "id": 39,
+      "cau": "Dia chi nguoi nhan gan vao thuoc tinh?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": ".Cc",
+      "C": ".To",
+      "D": ".From",
+      "dap_an": "C",
+      "giai_thich": ".To lay tu cot email (Cells(i,2))."
+    },
+    {
+      "id": 40,
+      "cau": "Noi dung HTML (in dam ten) gan vao?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": ".To",
+      "C": ".Subject",
+      "D": ".HTMLBody",
+      "dap_an": "D",
+      "giai_thich": "HTMLBody chua the <b> de dinh dang."
+    }
+  ]
+}

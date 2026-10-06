@@ -1,0 +1,355 @@
+{
+ "bai": 21,
+ "cau_hoi": [
+  {
+   "A": "Đặt con trỏ đầu nội dung rồi Ctrl + Enter",
+   "B": "Nhấn Enter nhiều lần",
+   "C": "Nhấn Ctrl + S",
+   "D": "Nhấn Alt + F4",
+   "cau": "Cách 1 sang trang mới bằng phím tắt là?",
+   "dap_an": "A",
+   "giai_thich": "Đặt con trỏ đầu đoạn cần nhảy, Ctrl+Enter tạo ngắt trang.",
+   "id": 1,
+   "muc_do": "de"
+  },
+  {
+   "A": "Ctrl + Enter",
+   "B": "Ctrl + S",
+   "C": "Ctrl + A",
+   "D": "Ctrl + O",
+   "cau": "Phím tắt ngắt trang (sang trang mới) là?",
+   "dap_an": "A",
+   "giai_thich": "Ctrl+Enter chèn Page Break.",
+   "id": 2,
+   "muc_do": "de"
+  },
+  {
+   "A": "Layout > Breaks > Page (Next Page)",
+   "B": "Insert > Picture",
+   "C": "Home > Font",
+   "D": "File > Save",
+   "cau": "Cách 2 sang trang bằng Ribbon là?",
+   "dap_an": "A",
+   "giai_thich": "Đặt con trỏ, Layout > Breaks > Page/Next Page.",
+   "id": 3,
+   "muc_do": "de"
+  },
+  {
+   "A": "Đặt con trỏ đầu đoạn cần nhảy trang",
+   "B": "Đặt ở cuối file",
+   "C": "Đặt trên Taskbar",
+   "D": "Không cần con trỏ",
+   "cau": "Trước khi Ctrl+Enter phải đặt con trỏ ở đâu?",
+   "dap_an": "A",
+   "giai_thich": "Đầu nội dung muốn đưa sang trang mới.",
+   "id": 4,
+   "muc_do": "de"
+  },
+  {
+   "A": "Không nên Enter nhiều lần để sang trang",
+   "B": "Nên Enter 20 lần",
+   "C": "Nên Space nhiều lần",
+   "D": "Nên Tab nhiều lần",
+   "cau": "Vì sao không nên Enter liên tục để sang trang?",
+   "dap_an": "A",
+   "giai_thich": "Thêm chữ phía trên sẽ xô lệch; ngắt trang thì cố định.",
+   "id": 5,
+   "muc_do": "de"
+  },
+  {
+   "A": "Insert > Page Break cũng tạo trang mới",
+   "B": "Insert không có Page Break",
+   "C": "Phải vào File",
+   "D": "Phải tắt máy",
+   "cau": "Ngoài Layout, còn chèn ngắt trang ở đâu?",
+   "dap_an": "A",
+   "giai_thich": "Insert > Page Break tương đương.",
+   "id": 6,
+   "muc_do": "de"
+  },
+  {
+   "A": "3 trang như ví dụ video sau khi ngắt",
+   "B": "1 trang",
+   "C": "10 trang",
+   "D": "0 trang",
+   "cau": "Ví dụ video sau khi Ctrl+Enter có mấy trang?",
+   "dap_an": "A",
+   "giai_thich": "Zoom out thấy 3 trang (rồi 4 trang sau cách 2).",
+   "id": 7,
+   "muc_do": "de"
+  },
+  {
+   "A": "Thu nhỏ (Zoom out) để thấy tổng số trang",
+   "B": "Tăng loa",
+   "C": "Tắt màn hình",
+   "D": "Rút điện",
+   "cau": "Muốn nhìn tổng thể các trang thì?",
+   "dap_an": "A",
+   "giai_thich": "Kéo thanh Zoom nhỏ lại để thấy nhiều trang.",
+   "id": 8,
+   "muc_do": "de"
+  },
+  {
+   "A": "Muốn nhập tiếp trang 3 thì đặt con trỏ cuối trang 2 rồi Ctrl+Enter",
+   "B": "Enter 50 lần",
+   "C": "Không thể sang trang 3",
+   "D": "Phải tạo file mới",
+   "cau": "Đang cuối trang 2, muốn viết tiếp trang 3 thì?",
+   "dap_an": "A",
+   "giai_thich": "Đặt cuối nội dung rồi Ctrl+Enter sang trang 3.",
+   "id": 9,
+   "muc_do": "de"
+  },
+  {
+   "A": "Page Break (ngắt trang)",
+   "B": "Section Break",
+   "C": "Line Break",
+   "D": "Column Break",
+   "cau": "Loại ngắt được dùng để sang trang mới là?",
+   "dap_an": "A",
+   "giai_thich": "Page Break đẩy nội dung sau nó sang trang mới.",
+   "id": 10,
+   "muc_do": "de"
+  },
+  {
+   "A": "Page Break cố định, thêm/xóa chữ trước không xô",
+   "B": "Enter cố định hơn",
+   "C": "Hai cách như nhau",
+   "D": "Page Break dễ xô hơn",
+   "cau": "Ưu điểm Page Break so với Enter nhiều lần là?",
+   "dap_an": "A",
+   "giai_thich": "Ngắt trang là mốc cứng, không bị xô khi sửa đầu.",
+   "id": 11,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Show/Hide (¶) để thấy ký hiệu Page Break",
+   "B": "Không thể thấy",
+   "C": "Phải in ra",
+   "D": "Phải cài thêm",
+   "cau": "Muốn thấy ký hiệu ngắt trang ẩn thì bật gì?",
+   "dap_an": "A",
+   "giai_thich": "Home > Show/Hide ¶ hiện Page Break.",
+   "id": 12,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Đặt con trỏ trước Page Break rồi Delete/Backspace",
+   "B": "Không xóa được",
+   "C": "Phải tạo file mới",
+   "D": "Phải cài lại Word",
+   "cau": "Muốn xóa ngắt trang để dồn trang lại thì?",
+   "dap_an": "A",
+   "giai_thich": "Hiện ¶, đặt trước Break rồi Delete.",
+   "id": 13,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Đoạn 2 nhảy sang trang mới, tổng 4 trang",
+   "B": "Không đổi",
+   "C": "Mất đoạn 2",
+   "D": "Mất cả file",
+   "cau": "Ví dụ cách 2 chuyển đoạn 2 trang 2 sang trang mới thì?",
+   "dap_an": "A",
+   "giai_thich": "Đặt đầu đoạn 2, Layout > Breaks > Page, thành 4 trang.",
+   "id": 14,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Next Page (Section Break) vừa ngắt trang vừa tách section",
+   "B": "Page và Next Page giống nhau",
+   "C": "Next Page không ngắt trang",
+   "D": "Page xóa trang",
+   "cau": "Phân biệt Page và Next Page trong Breaks?",
+   "dap_an": "A",
+   "giai_thich": "Page chỉ ngắt trang; Next Page thêm section mới.",
+   "id": 15,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Mọi phiên bản Word đều có Ctrl+Enter và Breaks",
+   "B": "Mỗi bản khác nhau hoàn toàn",
+   "C": "Bản cũ không ngắt được",
+   "D": "Bản mới không ngắt được",
+   "cau": "Tính tương thích sang trang giữa các bản?",
+   "dap_an": "A",
+   "giai_thich": "Áp dụng mọi phiên bản Word.",
+   "id": 16,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Đặt cuối nội dung rồi Ctrl+Enter, không cần Enter thừa",
+   "B": "Enter 10 lần rồi Ctrl+Enter",
+   "C": "Space 10 lần",
+   "D": "Tab 10 lần",
+   "cau": "Muốn tạo trang trắng cuối để viết tiếp thì?",
+   "dap_an": "A",
+   "giai_thich": "Đặt sau chữ cuối rồi Ctrl+Enter, sạch không Enter thừa.",
+   "id": 17,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Ctrl+Enter chèn nhanh; Ribbon trực quan cho người mới",
+   "B": "Ribbon nhanh hơn",
+   "C": "Phím chậm hơn",
+   "D": "Hai cách khác kết quả",
+   "cau": "So sánh 2 cách sang trang là?",
+   "dap_an": "A",
+   "giai_thich": "Kết quả như nhau; phím nhanh, Ribbon dễ nhớ.",
+   "id": 18,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Trang trắng do Page Break thừa hoặc Enter thừa cuối",
+   "B": "Do hết mực",
+   "C": "Do mất mạng",
+   "D": "Do hết pin",
+   "cau": "File có trang trắng thừa cuối thường do?",
+   "dap_an": "A",
+   "giai_thich": "Do ngắt trang/Enter thừa; xóa Break/đoạn thừa.",
+   "id": 19,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Backspace/Delete ở đầu trang trắng để dồn lên",
+   "B": "Không xóa được",
+   "C": "Phải in ra",
+   "D": "Phải tạo file mới",
+   "cau": "Xóa trang trắng thừa cuối thì?",
+   "dap_an": "A",
+   "giai_thich": "Đặt đầu trang trắng, Backspace tới khi dồn.",
+   "id": 20,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Navigation Pane (View) kéo thả heading để sắp trang",
+   "B": "Không sắp được",
+   "C": "Phải in ra sắp",
+   "D": "Phải cắt dán thủ công",
+   "cau": "Muốn sắp xếp lại thứ tự trang nhanh thì?",
+   "dap_an": "A",
+   "giai_thich": "View > Navigation Pane, kéo heading trang.",
+   "id": 21,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Page X of Y ở thanh trạng thái/footer",
+   "B": "Không xem được",
+   "C": "Đoán mò",
+   "D": "Hỏi người khác",
+   "cau": "Xem đang ở trang mấy/tổng mấy trang ở đâu?",
+   "dap_an": "A",
+   "giai_thich": "Thanh trạng thái dưới hoặc footer Page Number.",
+   "id": 22,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Section Break Next Page để khác header/footer/lề giữa các phần",
+   "B": "Page Break làm được",
+   "C": "Không cần section",
+   "D": "Enter làm được",
+   "cau": "Khi nào cần Next Page thay vì Page?",
+   "dap_an": "A",
+   "giai_thich": "Khi cần section riêng (lề, hướng giấy, header khác).",
+   "id": 23,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Odd/Even Page Break cho in 2 mặt (chương luôn trang lẻ/chẵn)",
+   "B": "Giống Page thường",
+   "C": "Không dùng bao giờ",
+   "D": "Để trang trí",
+   "cau": "Odd/Even Page Break trong Breaks dùng khi nào?",
+   "dap_an": "A",
+   "giai_thich": "Ngắt tới trang lẻ/chẵn tiếp theo cho in duplex.",
+   "id": 24,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Column Break ngắt cột (khi chia cột), không phải ngắt trang",
+   "B": "Column Break là ngắt trang",
+   "C": "Hai loại giống nhau",
+   "D": "Không có Column Break",
+   "cau": "Phân biệt Column Break và Page Break?",
+   "dap_an": "A",
+   "giai_thich": "Column nhảy cột; Page nhảy trang.",
+   "id": 25,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Text Wrapping Break (Shift+Enter) xuống dòng không tạo đoạn mới",
+   "B": "Giống Enter",
+   "C": "Giống Ctrl+Enter",
+   "D": "Là ngắt trang",
+   "cau": "Shift+Enter (Line Break) khác Enter thế nào?",
+   "dap_an": "A",
+   "giai_thich": "Xuống dòng trong cùng đoạn, giữ định dạng đoạn.",
+   "id": 26,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Ctrl+Enter giữa bảng có thể tách bảng qua trang",
+   "B": "Không ảnh hưởng bảng",
+   "C": "Bảng biến mất",
+   "D": "File bị hỏng",
+   "cau": "Ngắt trang bên trong bảng thì?",
+   "dap_an": "A",
+   "giai_thich": "Bảng tách thành 2 phần qua 2 trang.",
+   "id": 27,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Allow row to break across pages cho phép tách dòng bảng qua trang",
+   "B": "Không có tùy chọn",
+   "C": "Bảng không tách được",
+   "D": "Phải chia tay",
+   "cau": "Muốn dòng bảng dài tự tách qua trang thì?",
+   "dap_an": "A",
+   "giai_thich": "Table Properties > Row > Allow break across pages.",
+   "id": 28,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Repeat header rows để tiêu đề bảng lặp mỗi trang",
+   "B": "Không lặp được",
+   "C": "Phải gõ lại",
+   "D": "Phải chụp ảnh",
+   "cau": "Bảng dài nhiều trang, muốn lặp hàng tiêu đề thì?",
+   "dap_an": "A",
+   "giai_thich": "Layout > Repeat Header Rows.",
+   "id": 29,
+   "muc_do": "kho"
+  },
+  {
+   "A": "2 cách: Ctrl+Enter và Layout/Insert Breaks; không Enter nhiều lần",
+   "B": "Chỉ Enter nhiều lần",
+   "C": "Chỉ 1 cách",
+   "D": "Không có cách nào",
+   "cau": "Tóm tắt bài học sang trang mới là?",
+   "dap_an": "A",
+   "giai_thich": "Ctrl+Enter nhanh; Breaks trực quan; tránh Enter thừa.",
+   "id": 30,
+   "muc_do": "kho"
+  }
+ ],
+ "ky_nang": [
+  {
+   "duong_dan_menu": "Không có (bàn phím)",
+   "giai_thich": "Nhanh nhất; đặt đầu đoạn cần nhảy; tránh Enter nhiều lần bị xô.",
+   "phim_tat": "Ctrl + Enter",
+   "ten": "Sang trang bằng phím tắt",
+   "thao_tac": "Đặt con trỏ đầu nội dung cần sang trang mới, nhấn Ctrl+Enter.",
+   "vi_du": "Đặt đầu đoạn cần nhảy rồi Ctrl+Enter, đoạn nhảy sang trang mới."
+  },
+  {
+   "duong_dan_menu": "Layout > Breaks > Page (hoặc Insert > Page Break)",
+   "giai_thich": "Trực quan; Next Page thêm section khi cần lề/header khác.",
+   "phim_tat": "Không có",
+   "ten": "Sang trang bằng Ribbon",
+   "thao_tac": "Đặt con trỏ đầu đoạn cần nhảy, Layout > Breaks > Page (Next Page nếu cần section).",
+   "vi_du": "Đặt đầu đoạn 2 trang 2 > Breaks > Page thành trang mới."
+  }
+ ],
+ "url": "https://www.youtube.com/watch?v=hRVlEykzzFU",
+ "video_id": "hRVlEykzzFU"
+}

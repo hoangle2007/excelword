@@ -1,0 +1,552 @@
+{
+  "video_id": "NpFOpCK8SPk",
+  "bai": "Bai 18 ve bieu do trong Excel: Insert chart, Select Data, Data Label, Legend, Bieu do tuong tac",
+  "url": "https://www.youtube.com/watch?v=NpFOpCK8SPk",
+  "cong_thuc": [
+    {
+      "ten": "Ve bieu do co ban",
+      "cong_thuc": "Boi den vung > Insert > Chart (Column/Line/Pie) hoac Recommended Charts",
+      "giai_thich": "Chon vung du lieu roi chon loai bieu do. Recommended goi y theo du lieu.",
+      "vi_du": "Boi den Ten NV + Doanh thu > Insert > Column ngang > OK"
+    },
+    {
+      "ten": "Tieu de bieu do lien ket o",
+      "cong_thuc": "Click tieu de > Formula Bar go = > click o C5 > Enter",
+      "giai_thich": "Tieu de lay dong tu o; doi o thi tieu de doi theo. Hoac boi den go tay.",
+      "vi_du": "Tieu de =C5; C5='Loi nhuan' thi tieu de doi thanh Loi nhuan"
+    },
+    {
+      "ten": "Dao nguoc truc Category",
+      "cong_thuc": "Double-click truc ten > Format Axis > Axis Options > Categories in reverse order",
+      "giai_thich": "Dao thu tu hien thi (GX5->GX1 thanh GX1->GX5). Phim tat Ctrl+1 mo Format.",
+      "vi_du": "Truc dang GX5..GX1 > tich Reverse thanh GX1..GX5"
+    },
+    {
+      "ten": "Hien gia tri 1 cot (single point)",
+      "cong_thuc": "Click 1 lan chon all > click lan 2 chon 1 cot > chuot phai > Add Data Label",
+      "giai_thich": "Click 1 chon ca chuoi, click 2 chon diem rieng. Add Data Label hien so.",
+      "vi_du": "Chon cot GX3 > Add Data Label hien 24; click so 24 + Delete de xoa"
+    },
+    {
+      "ten": "Hien gia tri toan bo + dinh dang vi tri/mau",
+      "cong_thuc": "Click 1 diem > chuot phai > Add Data Labels > Format Data Labels (Ctrl+1): Inside Base/Outside End, mau trang + dam",
+      "giai_thich": "Hien het gia tri; Center/Inside End/Inside Base/Outside End chinh vi tri; to mau cho de doc.",
+      "vi_du": "Add all labels > Inside Base + trang + dam; xoa Gridlines doc cho dep"
+    },
+    {
+      "ten": "Chart Elements (+), Data Table, Gridlines, Legend",
+      "cong_thuc": "Click bieu do > nut + > tich Axis Titles/Data Table/Gridlines/Legend/Trendline",
+      "giai_thich": "Nut + them/bot thanh phan. Data Table hien bang so duoi chart; Legend giai thich mau.",
+      "vi_du": "Bat Legend Top de biet xanh=Doanh thu, vang=Ke hoach; tat Gridlines cho gon"
+    },
+    {
+      "ten": "Ve bieu do tu o trong (Select Data)",
+      "cong_thuc": "Click o trong > Insert chart > Design > Select Data > Add Series (name+values) + Edit Axis Labels",
+      "giai_thich": "Khi chart trang, tu nap du lieu: Add Series Name + Values, Edit truc = vung ten NV. Cach nhanh: Chart Data Range = toan vung.",
+      "vi_du": "Add Series Name=Doanh thu, Values=C2:C6; Edit Labels=A2:A6; hoac Range=A1:C6"
+    },
+    {
+      "ten": "Them Ke hoach vao chart (2 cach)",
+      "cong_thuc": "C1: keo goc vung xanh sang phai | C2: Select Data > Add Series Ke hoach",
+      "giai_thich": "Keo bien vung nguon de them cot Ke hoach; hoac Add series moi.",
+      "vi_du": "Keo tu Doanh thu sang Ke hoach -> 2 mau; Legend Top phan biet"
+    },
+    {
+      "ten": "Xoa bieu do",
+      "cong_thuc": "Chuot phai bieu do > Cut (hoac click vien + Delete)",
+      "giai_thich": "Chon ca bieu do roi Cut/Delete.",
+      "vi_du": "Right-click > Cut"
+    },
+    {
+      "ten": "Bieu do tuong tac Chon Quy (bai 18/19)",
+      "cong_thuc": "=IF(OR($C$2='ON',$C$2=C$4),'Du lieu'!C3,'') + Validation List: ON,Quy1..Quy4 + cong phu E1='Doanh thu '&IF($C$2='ON','ca nam',$C$2)",
+      "giai_thich": "Dropdown C2 chon ON/Quy; IF+OR loc: neu ON hoac trung tieu de Quy thi lay so lieu tu sheet Du lieu, nguoc lai rong. Keo cong thuc khap bang + ve chart + Tong = ten & CHAR(10) & SUM.",
+      "vi_du": "C2=Quy1 chi hien cot Quy1; C2=ON hien ca nam; tieu de chart =E1 tu doi"
+    },
+    {
+      "ten": "Phan tram hoan thanh (cot phu)",
+      "cong_thuc": "=Thuc hien / Ke hoach (vd =C2/D2), Format Percent",
+      "giai_thich": "Cot % rat nho (<1) so voi Ke hoach/Thuc hien nen phai ve truc phu; Home > Percent hoac Ctrl+1 > Percentage.",
+      "vi_du": "Thuc hien 70 / Ke hoach 100 = 70%; keo chart range sang cot % se thay cot be tit duoi truc"
+    },
+    {
+      "ten": "Truc phu Secondary Axis",
+      "cong_thuc": "Click series % > Format Data Series > Series Options > Secondary Axis",
+      "giai_thich": "% hien o truc phai, Ke hoach/Thuc hien o truc trai. Chon series qua Chart Options dropdown neu kho click.",
+      "vi_du": "% hoan thanh chuyen sang truc phai; doi chart type Line cho series %"
+    },
+    {
+      "ten": "Combo chart + Gap Width + Marker",
+      "cong_thuc": "Chuot phai series > Change Series Chart Type > Combo (Column + Line); Format > Gap Width %; Line: No line + Marker Built-in size 10",
+      "giai_thich": "Ke hoach doi sang Line (Excel 2016+), doanh thu giu Column; Gap Width co gian khoang cach cot; No line + marker gach ngang hien Ke hoach dep.",
+      "vi_du": "Ke hoach: Line, No line, Marker gach ngang size 10; Gap Width nho lai cot to ra"
+    },
+    {
+      "ten": "Nhan tong Total + CHAR(10)",
+      "cong_thuc": "=Ten & CHAR(10) & SUM(4 quy) (vd =A31 & CHAR(10) & SUM(B31:E31))",
+      "giai_thich": "CHAR(10) la ky tu xuong dong; bat Wrap Text de hien 2 dong: ten + tong (vd GX1 + 57). Dung lam Axis Label qua Select Data > Edit.",
+      "vi_du": "Total GX2 = 163; Edit Horizontal Labels = vung Total moi; chart cot chong hien tong + chi tiet quy"
+    },
+    {
+      "ten": "Dinh dang % tuy chinh",
+      "cong_thuc": "Ctrl+1 > Number > Custom: #.00% hoac #% ; Data Label Position: Above / Inside Base",
+      "giai_thich": "#.00% giu 2 thap phan (67.25%), #% gon (67%). Label % de Above, label cot de Inside Base, mau den/automatic.",
+      "vi_du": "Format Data Labels > Number > #.00% > Add; khong thich thi doi ve #% cho dep"
+    }
+  ],
+  "thuat_toan_quy_trinh": [
+    {
+      "ten": "Ve bieu do cot tu vung du lieu",
+      "cac_buoc": [
+        "Boi den Ten NV + Doanh thu",
+        "Insert > Column/Bar/Line/Pie hoac Recommended Charts",
+        "Chon kieu (vd cot ngang) > OK",
+        "Sua tieu de (go tay hoac =C5 lien ket)"
+      ]
+    },
+    {
+      "ten": "Dao thu tu truc + hien Data Label",
+      "cac_buoc": [
+        "Double-click truc ten (hoac Ctrl+1) > tich Categories in reverse order",
+        "Click 1 lan chon chuoi > click lan 2 chon cot GX3 > Add Data Label",
+        "Muon hien all: click 1 diem > Add Data Labels cho ca chuoi",
+        "Format label: Inside Base, mau trang, dam; xoa Gridlines neu muon"
+      ]
+    },
+    {
+      "ten": "Tuy chinh Chart Elements va Legend",
+      "cac_buoc": [
+        "Click bieu do > nut +",
+        "Bat/tat Axis Titles, Data Table, Gridlines, Legend",
+        "Dat Legend Top va keo ra goc cho dep",
+        "Xoa chart: chuot phai > Cut"
+      ]
+    },
+    {
+      "ten": "Ve chart tu o trong bang Select Data",
+      "cac_buoc": [
+        "Click o trong > Insert > chart (se trang)",
+        "Design > Select Data > Add: Name=Doanh thu, Values=vung doanh thu",
+        "Edit Horizontal Labels = vung ten NV > OK > OK",
+        "Hoac nhap Chart Data Range = toan vung A1:C6"
+      ]
+    },
+    {
+      "ten": "Them Ke hoach + lam bieu do tuong tac Quy",
+      "cac_buoc": [
+        "Them cot Ke hoach (12,35,29,15,20)",
+        "C1: click chart keo bien xanh sang Ke hoach; C2: Select Data > Add series Ke hoach",
+        "Legend Top/Bottom, doi mau Fill tuy y; Design > Quick Layout/Change Colors",
+        "Combo: chuot phai Ke hoach > Change Series Chart Type > Line (Excel 2016+); No line + Marker Built-in size 10",
+        "Gap Width: double-click cot (Ctrl+1) > keo Gap Width nho lai cho cot to ra",
+        "Cot %: them cot =Thuc hien/Ke hoach, Format Percent; dua vao chart roi chuyen Secondary Axis",
+        "Total label: =Ten & CHAR(10) & SUM(4 quy), Wrap Text; Select Data > Edit Labels = vung Total",
+        "Bai tuong tac: sheet Loi giai copy du lieu; C2 Validation List ON,Quy1-4 (ten khop tieu de)",
+        "O C3: =IF(OR($C$2='ON',$C$2=C$4),'Du lieu'!C3,'') voi $C$2 co dinh, C$4 co dinh dong; keo khap bang",
+        "O phu E1='Doanh thu '&IF(C2='ON','ca nam',C2); chart title =E1 (trang); Tong = ten & CHAR(10) & SUM; Select Data gan lai ten; ve chart chong cot"
+      ]
+    }
+  ],
+  "cau_hoi": [
+    {
+      "id": 1,
+      "cau": "Ve bieu do nhanh nhat lam the nao?",
+      "A": "Boi den vung > Insert > chon loai chart",
+      "B": "Go tay",
+      "C": "Nhan F1",
+      "D": "Tat may",
+      "dap_an": "A",
+      "giai_thich": "Boi den truoc roi Insert la cach thong dung."
+    },
+    {
+      "id": 2,
+      "cau": "Tinh huong: Ve bieu do nhanh nhat lam the nao?",
+      "A": "Boi den vung > Insert > chon loai chart",
+      "B": "Go tay",
+      "C": "Nhan F1",
+      "D": "Tat may",
+      "dap_an": "A",
+      "giai_thich": "Boi den truoc roi Insert la cach thong dung."
+    },
+    {
+      "id": 3,
+      "cau": "Khong biet chon bieu do gi thi dung gi?",
+      "A": "Recommended Charts",
+      "B": "Xoa file",
+      "C": "Doan mo",
+      "D": "Nho nguoi khac",
+      "dap_an": "A",
+      "giai_thich": "Excel goi y theo du lieu."
+    },
+    {
+      "id": 4,
+      "cau": "Tinh huong: Khong biet chon bieu do gi thi dung gi?",
+      "A": "Recommended Charts",
+      "B": "Xoa file",
+      "C": "Doan mo",
+      "D": "Nho nguoi khac",
+      "dap_an": "A",
+      "giai_thich": "Excel goi y theo du lieu."
+    },
+    {
+      "id": 5,
+      "cau": "3 loai bieu do thong dung trong bai la gi?",
+      "A": "Column, Line, Pie",
+      "B": "Radar, Stock, Surface",
+      "C": "Chi Pie",
+      "D": "Chi Line",
+      "dap_an": "A",
+      "giai_thich": "Cot/duong/trong duoc day chinh."
+    },
+    {
+      "id": 6,
+      "cau": "Tinh huong: 3 loai bieu do thong dung trong bai la gi?",
+      "A": "Column, Line, Pie",
+      "B": "Radar, Stock, Surface",
+      "C": "Chi Pie",
+      "D": "Chi Line",
+      "dap_an": "A",
+      "giai_thich": "Cot/duong/trong duoc day chinh."
+    },
+    {
+      "id": 7,
+      "cau": "Sua tieu de chart truc tiep lam the nao?",
+      "A": "Click tieu de > boi den > go lai",
+      "B": "Khong sua duoc",
+      "C": "Xoa chart",
+      "D": "Cai lai",
+      "dap_an": "A",
+      "giai_thich": "Vd Doanh thu nhan vien."
+    },
+    {
+      "id": 8,
+      "cau": "Tinh huong: Sua tieu de chart truc tiep lam the nao?",
+      "A": "Click tieu de > boi den > go lai",
+      "B": "Khong sua duoc",
+      "C": "Xoa chart",
+      "D": "Cai lai",
+      "dap_an": "A",
+      "giai_thich": "Vd Doanh thu nhan vien."
+    },
+    {
+      "id": 9,
+      "cau": "De tieu de tu doi theo o C5 lam the nao?",
+      "A": "Click tieu de > Formula Bar go = > click C5 > Enter",
+      "B": "Copy paste",
+      "C": "Chup anh",
+      "D": "Ve lai",
+      "dap_an": "A",
+      "giai_thich": "Lien ket tieu de voi o."
+    },
+    {
+      "id": 10,
+      "cau": "Tinh huong: De tieu de tu doi theo o C5 lam the nao?",
+      "A": "Click tieu de > Formula Bar go = > click C5 > Enter",
+      "B": "Copy paste",
+      "C": "Chup anh",
+      "D": "Ve lai",
+      "dap_an": "A",
+      "giai_thich": "Lien ket tieu de voi o."
+    },
+    {
+      "id": 11,
+      "cau": "Truc ten dang GX5..GX1 muon doi GX1..GX5 lam the nao?",
+      "A": "Format Axis > Categories in reverse order",
+      "B": "Xoa chart",
+      "C": "Nhap lai",
+      "D": "Doi font",
+      "dap_an": "A",
+      "giai_thich": "Dao nguoc category."
+    },
+    {
+      "id": 12,
+      "cau": "Tinh huong: Truc ten dang GX5..GX1 muon doi GX1..GX5 lam the nao?",
+      "A": "Format Axis > Categories in reverse order",
+      "B": "Xoa chart",
+      "C": "Nhap lai",
+      "D": "Doi font",
+      "dap_an": "A",
+      "giai_thich": "Dao nguoc category."
+    },
+    {
+      "id": 13,
+      "cau": "Mo hop Format Axis nhanh bang phim gi?",
+      "A": "Ctrl + 1",
+      "B": "Ctrl + 2",
+      "C": "Ctrl + 9",
+      "D": "Ctrl + 0",
+      "dap_an": "A",
+      "giai_thich": "Ctrl+1 mo Format cho doi tuong dang chon."
+    },
+    {
+      "id": 14,
+      "cau": "Tinh huong: Mo hop Format Axis nhanh bang phim gi?",
+      "A": "Ctrl + 1",
+      "B": "Ctrl + 2",
+      "C": "Ctrl + 9",
+      "D": "Ctrl + 0",
+      "dap_an": "A",
+      "giai_thich": "Ctrl+1 mo Format cho doi tuong dang chon."
+    },
+    {
+      "id": 15,
+      "cau": "Click 1 lan vao cot thi chon gi?",
+      "A": "Ca chuoi doanh thu 5 NV",
+      "B": "1 cot",
+      "C": "Tieu de",
+      "D": "Khong gi",
+      "dap_an": "A",
+      "giai_thich": "Click 1 = all series."
+    },
+    {
+      "id": 16,
+      "cau": "Tinh huong: Click 1 lan vao cot thi chon gi?",
+      "A": "Ca chuoi doanh thu 5 NV",
+      "B": "1 cot",
+      "C": "Tieu de",
+      "D": "Khong gi",
+      "dap_an": "A",
+      "giai_thich": "Click 1 = all series."
+    },
+    {
+      "id": 17,
+      "cau": "Click them lan 2 vao 1 cot thi chon gi?",
+      "A": "Rieng cot do (vd GX3)",
+      "B": "Ca chuoi",
+      "C": "Ca sheet",
+      "D": "Khong gi",
+      "dap_an": "A",
+      "giai_thich": "Click 2 = single point."
+    },
+    {
+      "id": 18,
+      "cau": "Tinh huong: Click them lan 2 vao 1 cot thi chon gi?",
+      "A": "Rieng cot do (vd GX3)",
+      "B": "Ca chuoi",
+      "C": "Ca sheet",
+      "D": "Khong gi",
+      "dap_an": "A",
+      "giai_thich": "Click 2 = single point."
+    },
+    {
+      "id": 19,
+      "cau": "Hien gia tri 1 cot GX3 lam the nao?",
+      "A": "Chon cot GX3 > chuot phai > Add Data Label",
+      "B": "Nhan Delete",
+      "C": "Nhan Enter",
+      "D": "Nhan Tab",
+      "dap_an": "A",
+      "giai_thich": "Hien so 24 cua GX3."
+    },
+    {
+      "id": 20,
+      "cau": "Tinh huong: Hien gia tri 1 cot GX3 lam the nao?",
+      "A": "Chon cot GX3 > chuot phai > Add Data Label",
+      "B": "Nhan Delete",
+      "C": "Nhan Enter",
+      "D": "Nhan Tab",
+      "dap_an": "A",
+      "giai_thich": "Hien so 24 cua GX3."
+    },
+    {
+      "id": 21,
+      "cau": "Xoa label vua them lam the nao?",
+      "A": "Click vao so do + Delete",
+      "B": "Xoa sheet",
+      "C": "Xoa file",
+      "D": "Khong xoa duoc",
+      "dap_an": "A",
+      "giai_thich": "Chon label roi Delete."
+    },
+    {
+      "id": 22,
+      "cau": "Tinh huong: Xoa label vua them lam the nao?",
+      "A": "Click vao so do + Delete",
+      "B": "Xoa sheet",
+      "C": "Xoa file",
+      "D": "Khong xoa duoc",
+      "dap_an": "A",
+      "giai_thich": "Chon label roi Delete."
+    },
+    {
+      "id": 23,
+      "cau": "Hien gia tri ca 5 NV lam the nao?",
+      "A": "Click 1 diem (chon all) > Add Data Labels",
+      "B": "Chon tung cot",
+      "C": "Ve lai",
+      "D": "Bo tay",
+      "dap_an": "A",
+      "giai_thich": "Chon all roi add mot lan."
+    },
+    {
+      "id": 24,
+      "cau": "Tinh huong: Hien gia tri ca 5 NV lam the nao?",
+      "A": "Click 1 diem (chon all) > Add Data Labels",
+      "B": "Chon tung cot",
+      "C": "Ve lai",
+      "D": "Bo tay",
+      "dap_an": "A",
+      "giai_thich": "Chon all roi add mot lan."
+    },
+    {
+      "id": 25,
+      "cau": "Vi tri label thuong chon gi?",
+      "A": "Inside Base hoac Outside End",
+      "B": "Khong chon",
+      "C": "Center mai",
+      "D": "Tuy y",
+      "dap_an": "A",
+      "giai_thich": "De doc nhat tren cot ngang."
+    },
+    {
+      "id": 26,
+      "cau": "Tinh huong: Vi tri label thuong chon gi?",
+      "A": "Inside Base hoac Outside End",
+      "B": "Khong chon",
+      "C": "Center mai",
+      "D": "Tuy y",
+      "dap_an": "A",
+      "giai_thich": "De doc nhat tren cot ngang."
+    },
+    {
+      "id": 27,
+      "cau": "Gridlines doc co tac dung gi? Va xoa the nao?",
+      "A": "Ke don vi, click + Delete de dep",
+      "B": "Khong tac dung",
+      "C": "Lam may cham",
+      "D": "De in",
+      "dap_an": "A",
+      "giai_thich": "Xoa cho chart gon hon."
+    },
+    {
+      "id": 28,
+      "cau": "Tinh huong: Gridlines doc co tac dung gi? Va xoa the nao?",
+      "A": "Ke don vi, click + Delete de dep",
+      "B": "Khong tac dung",
+      "C": "Lam may cham",
+      "D": "De in",
+      "dap_an": "A",
+      "giai_thich": "Xoa cho chart gon hon."
+    },
+    {
+      "id": 29,
+      "cau": "Nut + canh chart de lam gi?",
+      "A": "Them/bot Chart Elements",
+      "B": "Tang am luong",
+      "C": "Tang sang",
+      "D": "Khong gi",
+      "dap_an": "A",
+      "giai_thich": "Axis Titles, Data Table, Gridlines, Legend..."
+    },
+    {
+      "id": 30,
+      "cau": "Tinh huong: Nut + canh chart de lam gi?",
+      "A": "Them/bot Chart Elements",
+      "B": "Tang am luong",
+      "C": "Tang sang",
+      "D": "Khong gi",
+      "dap_an": "A",
+      "giai_thich": "Axis Titles, Data Table, Gridlines, Legend..."
+    },
+    {
+      "id": 31,
+      "cau": "Legend de lam gi?",
+      "A": "Giai thich mau (xanh=Doanh thu, vang=Ke hoach)",
+      "B": "De dep",
+      "C": "De xoa",
+      "D": "Khong can",
+      "dap_an": "A",
+      "giai_thich": "Bat Legend Top de doc."
+    },
+    {
+      "id": 32,
+      "cau": "Tinh huong: Legend de lam gi?",
+      "A": "Giai thich mau (xanh=Doanh thu, vang=Ke hoach)",
+      "B": "De dep",
+      "C": "De xoa",
+      "D": "Khong can",
+      "dap_an": "A",
+      "giai_thich": "Bat Legend Top de doc."
+    },
+    {
+      "id": 33,
+      "cau": "Xoa bieu do lam the nao?",
+      "A": "Chuot phai chart > Cut",
+      "B": "Nhan Enter",
+      "C": "Nhan Tab",
+      "D": "Khong xoa duoc",
+      "dap_an": "A",
+      "giai_thich": "Cut la xoa nhanh."
+    },
+    {
+      "id": 34,
+      "cau": "Tinh huong: Xoa bieu do lam the nao?",
+      "A": "Chuot phai chart > Cut",
+      "B": "Nhan Enter",
+      "C": "Nhan Tab",
+      "D": "Khong xoa duoc",
+      "dap_an": "A",
+      "giai_thich": "Cut la xoa nhanh."
+    },
+    {
+      "id": 35,
+      "cau": "Ve chart tu o trong thi chart luc dau the nao?",
+      "A": "Trang, khong du lieu",
+      "B": "Day du",
+      "C": "Bao loi",
+      "D": "Tat may",
+      "dap_an": "A",
+      "giai_thich": "Vi chua nap Source."
+    },
+    {
+      "id": 36,
+      "cau": "Tinh huong: Ve chart tu o trong thi chart luc dau the nao?",
+      "A": "Trang, khong du lieu",
+      "B": "Day du",
+      "C": "Bao loi",
+      "D": "Tat may",
+      "dap_an": "A",
+      "giai_thich": "Vi chua nap Source."
+    },
+    {
+      "id": 37,
+      "cau": "Khi click chart thi xuat hien them the gi?",
+      "A": "Design va Format",
+      "B": "Home va View",
+      "C": "File va Edit",
+      "D": "Khong them",
+      "dap_an": "A",
+      "giai_thich": "Hai the ngu canh cua chart."
+    },
+    {
+      "id": 38,
+      "cau": "Tinh huong: Khi click chart thi xuat hien them the gi?",
+      "A": "Design va Format",
+      "B": "Home va View",
+      "C": "File va Edit",
+      "D": "Khong them",
+      "dap_an": "A",
+      "giai_thich": "Hai the ngu canh cua chart."
+    },
+    {
+      "id": 39,
+      "cau": "Nap du lieu cho chart trang o dau?",
+      "A": "Design > Select Data",
+      "B": "Insert > Picture",
+      "C": "Data > Sort",
+      "D": "View > Zoom",
+      "dap_an": "A",
+      "giai_thich": "Select Data de Add series."
+    },
+    {
+      "id": 40,
+      "cau": "Tinh huong: Nap du lieu cho chart trang o dau?",
+      "A": "Design > Select Data",
+      "B": "Insert > Picture",
+      "C": "Data > Sort",
+      "D": "View > Zoom",
+      "dap_an": "A",
+      "giai_thich": "Select Data de Add series."
+    }
+  ]
+}

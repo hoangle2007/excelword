@@ -1,0 +1,790 @@
+[00:02] Xin chào mừng các bạn đến với khóa học excel miễn phí từ cơ bản đến nâng cao
+[00:04] excel miễn phí từ cơ bản đến nâng cao dành cho người mới bắt đầu được thực
+[00:06] dành cho người mới bắt đầu được thực hiện trên kênh YouTube gái Excel bài số
+[00:09] hiện trên kênh YouTube gái Excel bài số 9 kỹ năng lọc và sắp xếp trước khi bắt
+[00:12] 9 kỹ năng lọc và sắp xếp trước khi bắt đầu vào bài học ngày hôm nay mình sẽ
+[00:13] đầu vào bài học ngày hôm nay mình sẽ giải bài tập của bài số 8 hôm trước nha
+[00:16] giải bài tập của bài số 8 hôm trước nha các bạn sẽ thích vào số 8 Để bạn xem ở
+[00:18] các bạn sẽ thích vào số 8 Để bạn xem ở câu hỏi nên ok các bạn Thúy Nga khi bạn
+[00:25] câu hỏi nên ok các bạn Thúy Nga khi bạn mở cái file lên nếu như nó hiện cái biểu
+[00:26] mở cái file lên nếu như nó hiện cái biểu tượng này thì các bạn phải tích vào cái
+[00:28] tượng này thì các bạn phải tích vào cái enable ép tinh rồi này Đây là do Excel
+[00:31] enable ép tinh rồi này Đây là do Excel nó bảo mật tôi thì nó sợ là cái file của
+[00:33] nó bảo mật tôi thì nó sợ là cái file của này nó có cái vấn đề về bảo mật gì đấy
+[00:36] này nó có cái vấn đề về bảo mật gì đấy thì nó sẽ khóa lại nó không cho các bạn
+[00:37] thì nó sẽ khóa lại nó không cho các bạn chỉnh sửa nhá các bạn chỉ xem thôi Bây
+[00:40] chỉnh sửa nhá các bạn chỉ xem thôi Bây giờ các bạn muốn chỉnh sửa thì các bạn
+[00:41] giờ các bạn muốn chỉnh sửa thì các bạn phải tích vào cái nabo st ở đây đấy thì
+[00:44] phải tích vào cái nabo st ở đây đấy thì đầu tiên mình sẽ làm cái see Today trước
+[00:47] đầu tiên mình sẽ làm cái see Today trước nhắc đây thì cái ngày hôm nay thì bạn
+[00:49] nhắc đây thì cái ngày hôm nay thì bạn xem dùng để làm Today các bạn bằng Today
+[00:51] xem dùng để làm Today các bạn bằng Today các bạn tát nhá này sau đó các bạn bấm
+[00:54] các bạn tát nhá này sau đó các bạn bấm enter cái ngày mình ghi video này là
+[00:56] enter cái ngày mình ghi video này là ngày 26 tháng 10 đấy bạn tích vào đây
+[00:58] ngày 26 tháng 10 đấy bạn tích vào đây Đấy gọi thấy chưa Đây là ngày 2
+[01:00] Đấy gọi thấy chưa Đây là ngày 2 Ừ thì tùy vào cái ngày thực hành của các
+[01:02] Ừ thì tùy vào cái ngày thực hành của các bạn nhá Thì cái này thì hàng của bạn
+[01:03] bạn nhá Thì cái này thì hàng của bạn khác thì cái kết quả đây nó sẽ trả về
+[01:05] khác thì cái kết quả đây nó sẽ trả về cái ngày khác ở đây là mình dùng cái hàm
+[01:08] cái ngày khác ở đây là mình dùng cái hàm tôi đây mà tiếp theo là các bạn sẽ tính
+[01:10] tôi đây mà tiếp theo là các bạn sẽ tính số tháng nhá đúng ạ Các bạn sẽ bằng Vì ạ
+[01:12] số tháng nhá đúng ạ Các bạn sẽ bằng Vì ạ số tháng thì bạn có thể dùng cái hàng
+[01:13] số tháng thì bạn có thể dùng cái hàng biết ít nhá Đấy ít có mở ngoặc lại thì
+[01:18] biết ít nhá Đấy ít có mở ngoặc lại thì đi mà diện cái sát đây chính là cái ngày
+[01:20] đi mà diện cái sát đây chính là cái ngày vào làm ở đây đúng không phẩy còn cái S
+[01:23] vào làm ở đây đúng không phẩy còn cái S chính là cách làm thu đây các bạn tác
+[01:24] chính là cách làm thu đây các bạn tác các bạn đóng ngoặc đơn lặng để xong cái
+[01:26] các bạn đóng ngoặc đơn lặng để xong cái làm tôi đây để phẩy tính số tháng là các
+[01:29] làm tôi đây để phẩy tính số tháng là các bạn mở ngoặc kép ra con điện chị mm là
+[01:32] bạn mở ngoặc kép ra con điện chị mm là tiếng anh nhắm mắt lại là số thả bạn
+[01:33] tiếng anh nhắm mắt lại là số thả bạn đóng ngoặc kép ạ Con đó hoặc đơn lại các
+[01:35] đóng ngoặc kép ạ Con đó hoặc đơn lại các bạn enter dậy thì như vậy số tháng làm
+[01:38] bạn enter dậy thì như vậy số tháng làm việc đã là được 35 tháng rồi đúng ạ thấy
+[01:39] việc đã là được 35 tháng rồi đúng ạ thấy số năm cũng tương tự các bạn có thể dùng
+[01:42] số năm cũng tương tự các bạn có thể dùng cái hàng bếp này sẽ chọn mở ngoặc bát ít
+[01:45] cái hàng bếp này sẽ chọn mở ngoặc bát ít là gì Cái ngày và làm ở đây là cái U22
+[01:48] là gì Cái ngày và làm ở đây là cái U22 phẩm để thu đây cao dán tem nhá các bạn
+[01:52] phẩm để thu đây cao dán tem nhá các bạn đóng ngoặc đơn lại để song hành Thu đây
+[01:53] đóng ngoặc đơn lại để song hành Thu đây phải số nam là dịp các mở ngoặc kép các
+[01:56] phải số nam là dịp các mở ngoặc kép các bạn gọi chữ yy viết tắt của chữ Yêu
+[01:58] bạn gọi chữ yy viết tắt của chữ Yêu tiếng Anh lại còn đó hoặc các bạn đó đơn
+[02:00] tiếng Anh lại còn đó hoặc các bạn đó đơn khi enter để như vậy bạn này đã làm được
+[02:02] khi enter để như vậy bạn này đã làm được 2 năm tại vì ở đây là tháng 11 mà trong
+[02:04] 2 năm tại vì ở đây là tháng 11 mà trong khi mình đang làm cái video này là tháng
+[02:07] khi mình đang làm cái video này là tháng 10 nó chưa tròn 3 năm thì nó chỉ là 25
+[02:10] 10 nó chưa tròn 3 năm thì nó chỉ là 25 và bao nhiêu ạ 25 và 11 tháng không các
+[02:14] và bao nhiêu ạ 25 và 11 tháng không các bạn xanh ấy sẽ xong này nhá Bây giờ giả
+[02:16] bạn xanh ấy sẽ xong này nhá Bây giờ giả sử mình có doanh số vì tính tổng Đúng
+[02:17] sử mình có doanh số vì tính tổng Đúng không các bạn sẽ bằng xăm này rồi gọi ấn
+[02:20] không các bạn sẽ bằng xăm này rồi gọi ấn tem nhất thì bạn Bôi đen toàn bộ các
+[02:22] tem nhất thì bạn Bôi đen toàn bộ các doanh số đây và các bạn enter lại thì
+[02:24] doanh số đây và các bạn enter lại thì như vậy Xong rồi Đây là 700.000 tư khác
+[02:27] như vậy Xong rồi Đây là 700.000 tư khác Xóa anh Nhát nếu như mà các bạn bấm phím
+[02:28] Xóa anh Nhát nếu như mà các bạn bấm phím tắt thì các bạn chỉ cần bấm ăn bằng thôi
+[02:30] tắt thì các bạn chỉ cần bấm ăn bằng thôi đấy thì nó sẽ tự động nó sẽ xăm toàn bộ
+[02:33] đấy thì nó sẽ tự động nó sẽ xăm toàn bộ các dữ liệu ở trên đó nhé để gọi em từ
+[02:35] các dữ liệu ở trên đó nhé để gọi em từ đây này nó cũng ra là để xem nhà tư sản
+[02:39] đây này nó cũng ra là để xem nhà tư sản KS ở đây là Trung bình thì tính trung
+[02:41] KS ở đây là Trung bình thì tính trung bình các bạn sử dụng cái hàng Everest
+[02:42] bình các bạn sử dụng cái hàng Everest nhá chọn bằng Everest để gọi ẩn mũi tên
+[02:45] nhá chọn bằng Everest để gọi ẩn mũi tên xuống và gọi ở Pháp
+[02:46] xuống và gọi ở Pháp Ừ thì kệ trung bình ở đây các bạn sẽ Bôi
+[02:49] Ừ thì kệ trung bình ở đây các bạn sẽ Bôi đen toàn bộ vùng dữ liệu mà các bạn cần
+[02:50] đen toàn bộ vùng dữ liệu mà các bạn cần tính trung bình lại gọi enter thì nó sẽ
+[02:53] tính trung bình lại gọi enter thì nó sẽ ra chúng mình Đây là 64 Tiếp theo là cái
+[02:56] ra chúng mình Đây là 64 Tiếp theo là cái hàm cao nhá lại các bạn có thể bằng cái
+[02:59] hàm cao nhá lại các bạn có thể bằng cái hòm cam hàm cao là cái hàm đếm số đó
+[03:01] hòm cam hàm cao là cái hàm đếm số đó cộng saponin ở đó
+[03:03] cộng saponin ở đó khi cài đặt từ c4dc 14 là các bạn enter
+[03:05] khi cài đặt từ c4dc 14 là các bạn enter thì như vậy đây có 11 giá trị đúng không
+[03:07] thì như vậy đây có 11 giá trị đúng không Nhưng giả sử các model từ poc3 thì nó sẽ
+[03:10] Nhưng giả sử các model từ poc3 thì nó sẽ trả về kết quả gì cho thích đút vào đây
+[03:12] trả về kết quả gì cho thích đút vào đây các bạn sẽ tay C4 bằng C3 lấy đoạn Thấy
+[03:15] các bạn sẽ tay C4 bằng C3 lấy đoạn Thấy chưa nó Bôi đen cả doanh số thì kết quả
+[03:17] chưa nó Bôi đen cả doanh số thì kết quả nó không thay đổi nhá Nó rất là 11 Tại
+[03:19] nó không thay đổi nhá Nó rất là 11 Tại vì sao tại vì cái ô này là cái chuỗi hay
+[03:22] vì sao tại vì cái ô này là cái chuỗi hay là Tech nó sẽ không Nếu nhà cái hàm cao
+[03:24] là Tech nó sẽ không Nếu nhà cái hàm cao ấy nó chỉ đến số thôi em ví dụ bạn thay
+[03:27] ấy nó chỉ đến số thôi em ví dụ bạn thay cái gần chỗ bằng số 12 thế nhắc nhở Thế
+[03:29] cái gần chỗ bằng số 12 thế nhắc nhở Thế chứ nó sẽ tăng lên đấy bằng cái số bất
+[03:32] chứ nó sẽ tăng lên đấy bằng cái số bất kì thì nó sẽ tăng lên Tại vì nó đến đến
+[03:34] kì thì nó sẽ tăng lên Tại vì nó đến đến số thôi Thì bây giờ mình sẽ ăn Đô undo
+[03:36] số thôi Thì bây giờ mình sẽ ăn Đô undo Đấy nếu như đây là kiểu chuỗi thì nó sẽ
+[03:39] Đấy nếu như đây là kiểu chuỗi thì nó sẽ không đến làm cao không thì nó chỉ đến
+[03:41] không đến làm cao không thì nó chỉ đến số nhé tiếp theo là Hà mít theo ít là
+[03:46] số nhé tiếp theo là Hà mít theo ít là Thiện Giả sử đây là cái doanh số mục
+[03:47] Thiện Giả sử đây là cái doanh số mục tiêu ví dụ mục tiêu là 50 Thì bây giờ
+[03:50] tiêu ví dụ mục tiêu là 50 Thì bây giờ mình sẽ kiểm tra xem những cái doanh số
+[03:52] mình sẽ kiểm tra xem những cái doanh số nào mà thực hiện ở đây mà đạt nhá đại
+[03:54] nào mà thực hiện ở đây mà đạt nhá đại lớn nhất đạt thì bạn sẽ ghi là Đạt Còn
+[03:56] lớn nhất đạt thì bạn sẽ ghi là Đạt Còn nếu không đạt thì họ sẽ ghi là không đạt
+[03:57] nếu không đạt thì họ sẽ ghi là không đạt đúng không gọi cho bà mít phải có bạn sẽ
+[04:01] đúng không gọi cho bà mít phải có bạn sẽ pháp này thì ít cái biểu
+[04:03] pháp này thì ít cái biểu thực hiện nếu nhưng mà cái doanh số ở
+[04:04] thực hiện nếu nhưng mà cái doanh số ở đây tức là cái oc6 là doanh số tương ứng
+[04:07] đây tức là cái oc6 là doanh số tương ứng ở đây này mà lớn hơn lớn hơn hoặc bằng
+[04:09] ở đây này mà lớn hơn lớn hơn hoặc bằng cái mục tiêu ở đây chính là cái Oh B1
+[04:12] cái mục tiêu ở đây chính là cái Oh B1 thì các bạn phải ấn F4 để cố định cái ôm
+[04:15] thì các bạn phải ấn F4 để cố định cái ôm một này Tại vì sao lại phải cố định vob1
+[04:18] một này Tại vì sao lại phải cố định vob1 tốt là mình sẽ áp dụng công thức này cho
+[04:20] tốt là mình sẽ áp dụng công thức này cho cá cái ô dưới này cho nên cái mục tiêu ở
+[04:22] cá cái ô dưới này cho nên cái mục tiêu ở đây mình không muốn nó di chuyển xuống
+[04:24] đây mình không muốn nó di chuyển xuống dưới đúng là mình muốn nó cố định cho
+[04:26] dưới đúng là mình muốn nó cố định cho nên các bạn ấn F4 lại thì lúc này nó sẽ
+[04:28] nên các bạn ấn F4 lại thì lúc này nó sẽ hiện cố định lại đến ở đấy còn thấy dựng
+[04:30] hiện cố định lại đến ở đấy còn thấy dựng đô la trước hàng của chiếc cột Ừ đúng ạ
+[04:31] đô la trước hàng của chiếc cột Ừ đúng ạ Nếu như mà nó lớn hơn 50 thì cần phải
+[04:34] Nếu như mà nó lớn hơn 50 thì cần phải con sẽ trả về kết quả gì Các bạn bỏ dép
+[04:36] con sẽ trả về kết quả gì Các bạn bỏ dép ra một các bạn sẽ ghi là Đạt Đạt kế
+[04:39] ra một các bạn sẽ ghi là Đạt Đạt kế hoạch nhá các bạn đóng phép bạn lại phải
+[04:41] hoạch nhá các bạn đóng phép bạn lại phải nếu như ngược lại mà không lớn hơn kia
+[04:43] nếu như ngược lại mà không lớn hơn kia thì bạn xem một phép nha chọn ghi là gì
+[04:45] thì bạn xem một phép nha chọn ghi là gì cũng không đạt để cậu sẽ đóng ngoặc kép
+[04:48] cũng không đạt để cậu sẽ đóng ngoặc kép lại và gọn thân đóng ngoặc đơn để xong
+[04:50] lại và gọn thân đóng ngoặc đơn để xong Hà mít để mình sẽ enter để như vậy bạn
+[04:52] Hà mít để mình sẽ enter để như vậy bạn này 31 là không đạt đúng không Mình sẽ
+[04:54] này 31 là không đạt đúng không Mình sẽ kính chụp vào đây Đấy có khá là nhiều
+[04:57] kính chụp vào đây Đấy có khá là nhiều bạn không đạt bây giờ ví dụ mình thay 50
+[04:58] bạn không đạt bây giờ ví dụ mình thay 50 bằng 10 cái gọi thời gian thì tất cả đều
+[05:01] bằng 10 cái gọi thời gian thì tất cả đều đạt hết này ví dụ Mưa
+[05:03] đạt hết này ví dụ Mưa a = 200 đi đấy bạn thời gian tất cả đều
+[05:06] a = 200 đi đấy bạn thời gian tất cả đều không đạt hết đấy nhưng ví dụ là 60 đi
+[05:08] không đạt hết đấy nhưng ví dụ là 60 đi lại thì sẽ có người đạt và người không
+[05:10] lại thì sẽ có người đạt và người không đạt Ok mình sẽ quay về cái 50 ban đầu
+[05:13] đạt Ok mình sẽ quay về cái 50 ban đầu nhá Tiếp theo là cái Hà men nhá mình sẽ
+[05:18] nhá Tiếp theo là cái Hà men nhá mình sẽ kết hợp gì ạ bây giờ cái mục tiêu của
+[05:21] kết hợp gì ạ bây giờ cái mục tiêu của mình là diện với những cái loại hàng mà
+[05:23] mình là diện với những cái loại hàng mà là áo và mục tiêu lớn hơn 40 lại thì
+[05:26] là áo và mục tiêu lớn hơn 40 lại thì mình sẽ là Đạt nhá ấy thì bằng cách nào
+[05:28] mình sẽ là Đạt nhá ấy thì bằng cách nào mình trước phải dùng cái Hà mint Đúng
+[05:30] mình trước phải dùng cái Hà mint Đúng rồi còn lại thì mình sẽ ghi là không đạt
+[05:32] rồi còn lại thì mình sẽ ghi là không đạt đi hoặc còn lại thì mình cho bỏ trống
+[05:34] đi hoặc còn lại thì mình cho bỏ trống nhá các bạn sẽ bằng điện mình sẽ bằng
+[05:36] nhá các bạn sẽ bằng điện mình sẽ bằng cái Hà mít này còn mở ngoặc ra các bạn
+[05:39] cái Hà mít này còn mở ngoặc ra các bạn sử dụng cái Hà mint hàm s là gì nó sẽ
+[05:41] sử dụng cái Hà mint hàm s là gì nó sẽ kết hợp nhiều điều kiện đúng không đầu
+[05:43] kết hợp nhiều điều kiện đúng không đầu tiên là gì Cái loại hàng ở đây ấy phải
+[05:47] tiên là gì Cái loại hàng ở đây ấy phải băng diện bằng cái áo đây thì cái áo đây
+[05:49] băng diện bằng cái áo đây thì cái áo đây là cái Ovi có phản ứng F4 để cố định các
+[05:52] là cái Ovi có phản ứng F4 để cố định các bạn phải như vậy mình đã xong điều kiện
+[05:54] bạn phải như vậy mình đã xong điều kiện lôgic thứ nhất nhá đến cái điều kiện
+[05:56] lôgic thứ nhất nhá đến cái điều kiện luôn thích thứ hai là thì cái mục tiêu
+[05:57] luôn thích thứ hai là thì cái mục tiêu là cái doanh số ở đây này tương ứng rồi
+[05:59] là cái doanh số ở đây này tương ứng rồi đây này phải lớn hơn hoặc bằng gì ạ bằng
+[06:01] đây này phải lớn hơn hoặc bằng gì ạ bằng cái mục tiêu đây là
+[06:03] cái mục tiêu đây là ở đây là cái Obi B1 các bạn sẽ nhấn F4
+[06:05] ở đây là cái Obi B1 các bạn sẽ nhấn F4 để cố định B1 này lại đấy như vậy cái ô
+[06:08] để cố định B1 này lại đấy như vậy cái ô tham chiếu là B1 và B2 mình phải cố định
+[06:10] tham chiếu là B1 và B2 mình phải cố định hết nhá Bây giờ gọi cho đóng ngoặc đơn
+[06:12] hết nhá Bây giờ gọi cho đóng ngoặc đơn lại là xong cái hòm em này nếu như mà nó
+[06:14] lại là xong cái hòm em này nếu như mà nó thỏa mãn cái điều kiện hai cái biểu thức
+[06:16] thỏa mãn cái điều kiện hai cái biểu thức lôgic ngày tôi là nó thỏa mãn em em này
+[06:18] lôgic ngày tôi là nó thỏa mãn em em này bằng chuối còn phải có ghi là gì khoản
+[06:21] bằng chuối còn phải có ghi là gì khoản tích lũy chẳng hạn thế nhá Đấy cạn chóng
+[06:23] tích lũy chẳng hạn thế nhá Đấy cạn chóng khép lại phẩm Còn nếu như không đạt kế
+[06:25] khép lại phẩm Còn nếu như không đạt kế hoạch thì bạn để cái quạt trống lên các
+[06:27] hoạch thì bạn để cái quạt trống lên các màu hoa kép nóng bằng kẹp luôn cho đóng
+[06:29] màu hoa kép nóng bằng kẹp luôn cho đóng khép lại con enter đấy Bây giờ còn thích
+[06:32] khép lại con enter đấy Bây giờ còn thích đu phần cảm thấy chân như vậy Ở đây này
+[06:35] đu phần cảm thấy chân như vậy Ở đây này áo ấy bạn này tháng 8 là đàn này áo 48
+[06:37] áo ấy bạn này tháng 8 là đàn này áo 48 là Đạt và áo là 50 đạt đấy ví dụ mình
+[06:42] là Đạt và áo là 50 đạt đấy ví dụ mình thay cái mục tiêu bàn ghế bằng 60 đi đấy
+[06:45] thay cái mục tiêu bàn ghế bằng 60 đi đấy thì như vậy chỉ có cái bạn áo này là cái
+[06:47] thì như vậy chỉ có cái bạn áo này là cái doanh số 88 là Đạt Còn cái áo này là mục
+[06:49] doanh số 88 là Đạt Còn cái áo này là mục tiêu là nhỏ hơn 60 đẩy áo dài cũng vậy
+[06:51] tiêu là nhỏ hơn 60 đẩy áo dài cũng vậy rất là hay thấy ví dụ là 40 đi đây thì
+[06:54] rất là hay thấy ví dụ là 40 đi đây thì lúc này tất cả đều là Đạt nhé tương tự
+[06:58] lúc này tất cả đều là Đạt nhé tương tự cái hòm O cũng vậy nhé thì lo thì nó
+[07:00] cái hòm O cũng vậy nhé thì lo thì nó ngược với cái trên tức là việc cứ là vũ
+[07:02] ngược với cái trên tức là việc cứ là vũ thì à còn
+[07:03] thì à còn ý là mũi thì là rèn Lớn năm 50 thế nào
+[07:06] ý là mũi thì là rèn Lớn năm 50 thế nào nó thỏa mãn một trong hai điều kiện này
+[07:07] nó thỏa mãn một trong hai điều kiện này thì nó giống hệt với cái chết thôi mình
+[07:09] thì nó giống hệt với cái chết thôi mình thấy em o bằng ít Ít mở ngoặc thì mình
+[07:12] thấy em o bằng ít Ít mở ngoặc thì mình sẽ dùng cái nào ngon à thì cho là diện
+[07:14] sẽ dùng cái nào ngon à thì cho là diện Tức là nó sẽ thỏa mãn một trong các điều
+[07:16] Tức là nó sẽ thỏa mãn một trong các điều kiện ở đây thì điều kiện thứ nhất là gì
+[07:18] kiện ở đây thì điều kiện thứ nhất là gì nếu như mở đây D6 mà bằng bằng cái loại
+[07:22] nếu như mở đây D6 mà bằng bằng cái loại hàng mục tiêu ở đây thì các bạn sẽ nhấn
+[07:24] hàng mục tiêu ở đây thì các bạn sẽ nhấn F4 cái hàng mục tiêu này tức là nó cứ
+[07:26] F4 cái hàng mục tiêu này tức là nó cứ bằng vũ thì mình sẽ ghi là Đạt rồi đúng
+[07:28] bằng vũ thì mình sẽ ghi là Đạt rồi đúng không Hoặc là gì hoặc cái danh số đây là
+[07:30] không Hoặc là gì hoặc cái danh số đây là cái kéo này mà lớn hơn hoặc bằng bằng
+[07:32] cái kéo này mà lớn hơn hoặc bằng bằng cái mục tiêu ở đây là B1 các bạn F4 nhất
+[07:35] cái mục tiêu ở đây là B1 các bạn F4 nhất để họ sẽ đóng ngoặc đơn lại để xong cái
+[07:38] để họ sẽ đóng ngoặc đơn lại để xong cái Hà mong này phải tức là nó sẽ thỏa mãn
+[07:40] Hà mong này phải tức là nó sẽ thỏa mãn một trong hai điều kiện này để cắt mở
+[07:42] một trong hai điều kiện này để cắt mở két ra con thích thích vào đây rất là
+[07:43] két ra con thích thích vào đây rất là Đạt này đóng ngoặc kép lại phải tại mình
+[07:46] Đạt này đóng ngoặc kép lại phải tại mình sẽ mở kẹp bằng cách luôn còn nếu ngược
+[07:48] sẽ mở kẹp bằng cách luôn còn nếu ngược lại thì mình sẽ trả về kết quả trắng gọi
+[07:50] lại thì mình sẽ trả về kết quả trắng gọi đó hoặc đơn lại nha Rồi enter đấy gọi
+[07:53] đó hoặc đơn lại nha Rồi enter đấy gọi thế chứ ở đây là Mũ Mặc dù là nhỏ hơn
+[07:55] thế chứ ở đây là Mũ Mặc dù là nhỏ hơn doanh số và người nhỏ 50 rồi nhưng mà do
+[07:57] doanh số và người nhỏ 50 rồi nhưng mà do đó là loại mũ đâm ra là mình thích đã
+[07:59] đó là loại mũ đâm ra là mình thích đã đạt ở đây này có tích lũy vào đây này
+[08:01] đạt ở đây này có tích lũy vào đây này cảm thấy rằng cứ vũ thì nó là Đạt
+[08:03] cảm thấy rằng cứ vũ thì nó là Đạt có bao nhiêu gà còn lại là diện nếu như
+[08:05] có bao nhiêu gà còn lại là diện nếu như không phải là mũ thì vẫn thấy chưa quần
+[08:08] không phải là mũ thì vẫn thấy chưa quần và áo thì lớn hơn 50 là Đạt đây là tất
+[08:10] và áo thì lớn hơn 50 là Đạt đây là tất và 48 thì là không đạp đúng không Vì là
+[08:12] và 48 thì là không đạp đúng không Vì là gì ạ vì không phải là Mũ và cũng không
+[08:15] gì ạ vì không phải là Mũ và cũng không phải là lớn hơn hoặc bằng 50 cho lên ở
+[08:17] phải là lớn hơn hoặc bằng 50 cho lên ở đây là không đạt thì kết quả là chẳng
+[08:19] đây là không đạt thì kết quả là chẳng nhắc lại có hai các bạn này này kết quả
+[08:21] nhắc lại có hai các bạn này này kết quả trắng tiếp theo là phê lúc cấp thì cái
+[08:25] trắng tiếp theo là phê lúc cấp thì cái hàm Vlookup mình cũng làm nhiều rồi đó
+[08:26] hàm Vlookup mình cũng làm nhiều rồi đó Đây là ạ tên bây giờ mình cần tìm doanh
+[08:29] Đây là ạ tên bây giờ mình cần tìm doanh số đúng không các bạn sẽ bằng Vlookup
+[08:30] số đúng không các bạn sẽ bằng Vlookup thì đầu tiên là tên bạn này đúng không
+[08:32] thì đầu tiên là tên bạn này đúng không phẩy bảng giá trị rò đây phải cái cục
+[08:37] phẩy bảng giá trị rò đây phải cái cục trả về mình cầm tiền lên số là của số 2
+[08:39] trả về mình cầm tiền lên số là của số 2 phẩy tìm chính xác sẽ là không có bạn
+[08:41] phẩy tìm chính xác sẽ là không có bạn đóng ngoặc đơn lại là nó sẽ ra 9.2 còn
+[08:44] đóng ngoặc đơn lại là nó sẽ ra 9.2 còn Chắc kiểu này nếu như mà dùng in Bac Mat
+[08:45] Chắc kiểu này nếu như mà dùng in Bac Mat nha đẩy Ví dụ mình dùng Index của maddie
+[08:48] nha đẩy Ví dụ mình dùng Index của maddie thì bạn sẽ bằng Index này Index của gì
+[08:50] thì bạn sẽ bằng Index này Index của gì đầu tiên là gì mình sẽ Bôi đen toàn bộ
+[08:52] đầu tiên là gì mình sẽ Bôi đen toàn bộ vùng dữ liệu này phải cái hàng trả về là
+[08:55] vùng dữ liệu này phải cái hàng trả về là gì mình sẽ dùng cái hạt mét mét của gì
+[08:58] gì mình sẽ dùng cái hạt mét mét của gì của cái tên này phải trong nhẹ trong cái
+[09:01] của cái tên này phải trong nhẹ trong cái vùng dữ liệu tên rồi đấy ạ
+[09:03] vùng dữ liệu tên rồi đấy ạ các bạn phải không ngừng tìm chính xác
+[09:04] các bạn phải không ngừng tìm chính xác các bạn đóng ngoặc đơn lại được xanh làm
+[09:06] các bạn đóng ngoặc đơn lại được xanh làm mít phải cái cột vào đây nó chỉ có một
+[09:09] mít phải cái cột vào đây nó chỉ có một cuộn duy nhất thôi thì các bạn phải điền
+[09:10] cuộn duy nhất thôi thì các bạn phải điền luôn là của số 2 tên là cuộc số một
+[09:12] luôn là của số 2 tên là cuộc số một người đó hoặc doanh số đà của thứ hai họ
+[09:14] người đó hoặc doanh số đà của thứ hai họ sẽ đổ mặc đơn ạ đấy bởi ví dụ trai Lê
+[09:17] sẽ đổ mặc đơn ạ đấy bởi ví dụ trai Lê Hồng bằng Lý Tuấn các bạn ngáy rất phải
+[09:18] Hồng bằng Lý Tuấn các bạn ngáy rất phải ở đây còn Coffee bạn nhấp phải vào đây
+[09:21] ở đây còn Coffee bạn nhấp phải vào đây cậu biết đấy Bạn thấy chứ doanh số đều
+[09:24] cậu biết đấy Bạn thấy chứ doanh số đều thay đổi theo hi Ok như vậy là mình đã
+[09:26] thay đổi theo hi Ok như vậy là mình đã xong cái câu hỏi của bà con chiếc nhé
+[09:28] xong cái câu hỏi của bà con chiếc nhé còn đóng lại Ok Bây giờ mình sẽ sang bài
+[09:32] còn đóng lại Ok Bây giờ mình sẽ sang bài số 9 tìm như vậy là mình đã kết thúc cái
+[09:35] số 9 tìm như vậy là mình đã kết thúc cái phần các hàm rồi Hôm nay mình sẽ làm cái
+[09:37] phần các hàm rồi Hôm nay mình sẽ làm cái bài đầu tiên của các kỹ năng thì kỹ năng
+[09:39] bài đầu tiên của các kỹ năng thì kỹ năng đầu tiên của mình hôm nay mình sẽ giới
+[09:41] đầu tiên của mình hôm nay mình sẽ giới thiệu các bạn là filter sọt và cả
+[09:43] thiệu các bạn là filter sọt và cả fnfilter tức là lọc sắp xếp và cả lọc
+[09:46] fnfilter tức là lọc sắp xếp và cả lọc nâng cao và gia vị vào đây thì nội dung
+[09:51] nâng cao và gia vị vào đây thì nội dung hôm nay mình sẽ hướng dẫn các bạn là 5
+[09:52] hôm nay mình sẽ hướng dẫn các bạn là 5 Phần đầu tiên là mình sẽ làm về filter
+[09:54] Phần đầu tiên là mình sẽ làm về filter thứ hai là sắp xếp thứ ba là sắp xếp
+[09:57] thứ hai là sắp xếp thứ ba là sắp xếp nhiều cấp Thứ tư là fa-filter và thứ năm
+[10:01] nhiều cấp Thứ tư là fa-filter và thứ năm là fa-filter nâng cao đây là
+[10:03] là fa-filter nâng cao đây là ý của mình nha mình có trường ngày tháng
+[10:05] ý của mình nha mình có trường ngày tháng này khu vực nhà phân phối đây là sản
+[10:07] này khu vực nhà phân phối đây là sản phẩm vào đây là doanh thu đây Ở đây các
+[10:09] phẩm vào đây là doanh thu đây Ở đây các bạn sẽ lăn chuột xuống này còn thấy chân
+[10:11] bạn sẽ lăn chuột xuống này còn thấy chân dữ liệu của mình rất là lớn thì đầu tiên
+[10:15] dữ liệu của mình rất là lớn thì đầu tiên là mình sẽ giới thiệu với các bạn về
+[10:16] là mình sẽ giới thiệu với các bạn về filter tức là lọc nhá các bạn sẽ tích
+[10:18] filter tức là lọc nhá các bạn sẽ tích vào một ô bất kỳ trong cái vùng dữ liệu
+[10:20] vào một ô bất kỳ trong cái vùng dữ liệu này Đấy sau đó bạn vào với thẻ data các
+[10:23] này Đấy sau đó bạn vào với thẻ data các bạn tích vào cái chữ filter cái hình cái
+[10:25] bạn tích vào cái chữ filter cái hình cái phễu đây này có thích của chữ Peter đấy
+[10:27] phễu đây này có thích của chữ Peter đấy còn thể điều chỉnh ai kia các thích vào
+[10:29] còn thể điều chỉnh ai kia các thích vào chữ filter thì bạn thấy chưa có các nút
+[10:32] chữ filter thì bạn thấy chưa có các nút tương ứng ở đây đấy thì tất cả cái cục
+[10:34] tương ứng ở đây đấy thì tất cả cái cục nó sẽ đều có nút tương ứng ở đây này Đây
+[10:36] nó sẽ đều có nút tương ứng ở đây này Đây là cái dữ liệu liền nhau thì có nha Còn
+[10:38] là cái dữ liệu liền nhau thì có nha Còn cái dữ liệu đây nó sẽ bị cách rời cái
+[10:40] cái dữ liệu đây nó sẽ bị cách rời cái cục cờ này Cho nên những cái dữ liệu đó
+[10:41] cục cờ này Cho nên những cái dữ liệu đó rồi thì nó sẽ không có đúng không đấy
+[10:43] rồi thì nó sẽ không có đúng không đấy Còn nếu như bạn muốn bỏ cái filter này
+[10:46] Còn nếu như bạn muốn bỏ cái filter này thì có bạn lại thích lại và các phím tư
+[10:48] thì có bạn lại thích lại và các phím tư này thì nó sẽ bỏ cái phim tôi đi lại Bây
+[10:50] này thì nó sẽ bỏ cái phim tôi đi lại Bây giờ mình rất thích vào đây để mình làm
+[10:52] giờ mình rất thích vào đây để mình làm về Peter bây giờ mình sẽ tìm hiểu cái
+[10:54] về Peter bây giờ mình sẽ tìm hiểu cái ngày tháng trước nhá họ sẽ tích và cái
+[10:55] ngày tháng trước nhá họ sẽ tích và cái biểu tượng filter đây này Đấy thì ngay
+[10:58] biểu tượng filter đây này Đấy thì ngay lập tức nó sẽ hiện của cái cửa sổ im
+[11:00] lập tức nó sẽ hiện của cái cửa sổ im tươi cho các bạn nhá thì đầu tiên là gì
+[11:02] tươi cho các bạn nhá thì đầu tiên là gì ạ
+[11:03] ạ Ồ thông minh nó sẽ nhóm này thì ở đây nó
+[11:05] Ồ thông minh nó sẽ nhóm này thì ở đây nó sẽ có hai cái năm là năm 2019 và 2020
+[11:08] sẽ có hai cái năm là năm 2019 và 2020 hạn thế nhá thì nó sẽ nhóm lại Bây giờ
+[11:10] hạn thế nhá thì nó sẽ nhóm lại Bây giờ các bạn sẽ thích và cái dấu cộng này đấy
+[11:12] các bạn sẽ thích và cái dấu cộng này đấy thì nó lại nhóm lại các thánh thì trong
+[11:14] thì nó lại nhóm lại các thánh thì trong các tháng thì có các ngày nào để rõ tích
+[11:16] các tháng thì có các ngày nào để rõ tích được đây Đấy nó rất là hay tức là nó sẽ
+[11:18] được đây Đấy nó rất là hay tức là nó sẽ tự động nhóm và cho các bạn để các bạn
+[11:20] tự động nhóm và cho các bạn để các bạn có thể dễ dàng chọn đúng không lại nếu
+[11:22] có thể dễ dàng chọn đúng không lại nếu như bạn rất thích mà cái trên cùng này
+[11:23] như bạn rất thích mà cái trên cùng này là sẽ e con thì nó sẽ bỏ trọ toàn bộ nhá
+[11:26] là sẽ e con thì nó sẽ bỏ trọ toàn bộ nhá Nếu như mà muốn chọn toàn bộ các bạn
+[11:28] Nếu như mà muốn chọn toàn bộ các bạn thích rồi đấy nếu như bỏ chọn thì gọn
+[11:31] thích rồi đấy nếu như bỏ chọn thì gọn lại thích rồi Đây này bây giờ giả sử
+[11:33] lại thích rồi Đây này bây giờ giả sử Mình muốn chọn diện chọn cái tháng 1 của
+[11:35] Mình muốn chọn diện chọn cái tháng 1 của năm 2020 tại thì các bạn anh xuống dưới
+[11:38] năm 2020 tại thì các bạn anh xuống dưới là như vậy 2019 cũng bỏ chọn rồi đó lên
+[11:40] là như vậy 2019 cũng bỏ chọn rồi đó lên 220 thì bạn sẽ tích và cái gelly này
+[11:42] 220 thì bạn sẽ tích và cái gelly này chắc là nó sẽ lựa chọn toàn bộ cái tháng
+[11:45] chắc là nó sẽ lựa chọn toàn bộ cái tháng 1 của năm 2020 lại còn nếu như bạn muốn
+[11:47] 1 của năm 2020 lại còn nếu như bạn muốn chọn thêm là gì Tháng 1 và tháng tư đi
+[11:50] chọn thêm là gì Tháng 1 và tháng tư đi lại của lam hay không em ơi và ví dụ lạc
+[11:53] lại của lam hay không em ơi và ví dụ lạc tháng hiện tháng 2 của năm 2019 nữa để
+[11:57] tháng hiện tháng 2 của năm 2019 nữa để như vậy Mình có 3 tháng á thì họ sẽ
+[11:59] như vậy Mình có 3 tháng á thì họ sẽ thích ok đấy thì như vậy toàn bộ các dữ
+[12:01] thích ok đấy thì như vậy toàn bộ các dữ liệu này gọn này chưa được lọc
+[12:03] liệu này gọn này chưa được lọc a tiếp theo làm lọc theo khu vực cũng
+[12:06] a tiếp theo làm lọc theo khu vực cũng vậy nếu như mà gọi tích ở đây rồi các
+[12:08] vậy nếu như mà gọi tích ở đây rồi các bạn sẽ bỏ chọn ôn đi đợi thì như vậy
+[12:10] bạn sẽ bỏ chọn ôn đi đợi thì như vậy toàn bộ khu vực đã không được chọn các
+[12:12] toàn bộ khu vực đã không được chọn các bạn tích vào đây thì là lựa chọn toàn bộ
+[12:14] bạn tích vào đây thì là lựa chọn toàn bộ khu vực đúng không Đây cả tích chọn một
+[12:16] khu vực đúng không Đây cả tích chọn một lần thì bỏ còn tích thêm một lần nữa là
+[12:17] lần thì bỏ còn tích thêm một lần nữa là chọn đấy Cứ như vậy nha các bạn có thể
+[12:19] chọn đấy Cứ như vậy nha các bạn có thể chọn được rất là nhiều cái tùy chọn lấy
+[12:21] chọn được rất là nhiều cái tùy chọn lấy ví dụ mình chọn miền Bắc và miền Trung
+[12:23] ví dụ mình chọn miền Bắc và miền Trung và hạ thế nhá để gọn sẽ bấm ok thì nhà
+[12:26] và hạ thế nhá để gọn sẽ bấm ok thì nhà phân phối cũng vậy nha nhà phân phối các
+[12:27] phân phối cũng vậy nha nhà phân phối các bạn có thể chọn bất cứ nhà phân phối nào
+[12:29] bạn có thể chọn bất cứ nhà phân phối nào Ví dụ mình chọn Viettel đi để gọi bằng
+[12:31] Ví dụ mình chọn Viettel đi để gọi bằng Ok hãy sản phẩm cũng vậy nha các bạn có
+[12:34] Ok hãy sản phẩm cũng vậy nha các bạn có thể chọn bất cứ cái sản phẩm nào nhiều
+[12:36] thể chọn bất cứ cái sản phẩm nào nhiều cũng được nhá hoặc là một hai sản phẩm
+[12:37] cũng được nhá hoặc là một hai sản phẩm đều được cái doanh thu này cũng vậy nha
+[12:40] đều được cái doanh thu này cũng vậy nha đây các bạn có thể vào năm một filter
+[12:42] đây các bạn có thể vào năm một filter này cả thích vào đây nhá đấy các bạn sẽ
+[12:45] này cả thích vào đây nhá đấy các bạn sẽ tích vào ở đây nó có một số tự chọn là
+[12:46] tích vào ở đây nó có một số tự chọn là bằng này Đây là không bằng ví dụ mình
+[12:49] bằng này Đây là không bằng ví dụ mình chọn cái glitter gian rất là chọn lớn
+[12:51] chọn cái glitter gian rất là chọn lớn hơn nha ví dụ mình chọn là lớn hơn 50 đi
+[12:53] hơn nha ví dụ mình chọn là lớn hơn 50 đi chợ gạo sẽ bấm ok thì như vậy nó chỉ lọc
+[12:56] chợ gạo sẽ bấm ok thì như vậy nó chỉ lọc những cái doanh số và lớn hơn 50 Thì đấy
+[12:58] những cái doanh số và lớn hơn 50 Thì đấy là cái cách mình dùng filter rất là hai
+[13:00] là cái cách mình dùng filter rất là hai ạ thì tùy vào yêu cầu các bạn có bạn có
+[13:03] ạ thì tùy vào yêu cầu các bạn có bạn có thể
+[13:03] thể có sản phẩm nào có bạn có thể dùng
+[13:04] có sản phẩm nào có bạn có thể dùng filter đây sau đó bạn có thể copy dữ
+[13:07] filter đây sau đó bạn có thể copy dữ liệu phim tư này Đấy ví dụ mình copy từ
+[13:09] liệu phim tư này Đấy ví dụ mình copy từ ngày thôi nha bạn nhớ thì phải copy đấy
+[13:12] ngày thôi nha bạn nhớ thì phải copy đấy các bạn có thể tạo xong cái sim mới ở
+[13:14] các bạn có thể tạo xong cái sim mới ở đây này Đấy còn tích vào đây các bạn
+[13:15] đây này Đấy còn tích vào đây các bạn enter đấy Bạn thấy chưa thì nó sẽ copy
+[13:18] enter đấy Bạn thấy chưa thì nó sẽ copy toàn bộ các dữ liệu mà các bạn lọc lúc
+[13:19] toàn bộ các dữ liệu mà các bạn lọc lúc đấy lại rất là hai ạ Bây giờ mình sẽ xóa
+[13:22] đấy lại rất là hai ạ Bây giờ mình sẽ xóa đi nhớ chất phải đi đi lại mình quay lại
+[13:26] đi nhớ chất phải đi đi lại mình quay lại cái sim ban đầu thì bây giờ muốn clear
+[13:28] cái sim ban đầu thì bây giờ muốn clear thì các bạn có thể tích và cái cờ Liên
+[13:30] thì các bạn có thể tích và cái cờ Liên này đợi thì nó sẽ còn liệu toàn bộ cái
+[13:32] này đợi thì nó sẽ còn liệu toàn bộ cái phần mà mình tin tới lúc nãy thì như vậy
+[13:34] phần mà mình tin tới lúc nãy thì như vậy toàn bộ dữ liệu ở đây đã được trả diễn
+[13:36] toàn bộ dữ liệu ở đây đã được trả diễn ra hết rồi nhắc nó sẽ không còn phim tư
+[13:38] ra hết rồi nhắc nó sẽ không còn phim tư thế nào nữa nó chỉ còn cái biểu tượng
+[13:40] thế nào nữa nó chỉ còn cái biểu tượng filter thôi đấy toàn bộ dữ liệu đây là
+[13:42] filter thôi đấy toàn bộ dữ liệu đây là Suy nghiệm ban đầu của mình luôn thì
+[13:44] Suy nghiệm ban đầu của mình luôn thì ngoài ra cái phim tư này nó có một cái
+[13:46] ngoài ra cái phim tư này nó có một cái hay là thì các bạn có thể sắp xếp nhé ví
+[13:48] hay là thì các bạn có thể sắp xếp nhé ví dụ các ngày tháng có thích vào đây đấy
+[13:50] dụ các ngày tháng có thích vào đây đấy thì ở đây nó có đầu tiên là sắp xếp từ a
+[13:52] thì ở đây nó có đầu tiên là sắp xếp từ a đến z này chắc là từ nhỏ đến lớn đây đấy
+[13:54] đến z này chắc là từ nhỏ đến lớn đây đấy còn sắp xếp ở đây là từ lớn đến nhỏ Ví
+[13:57] còn sắp xếp ở đây là từ lớn đến nhỏ Ví dụ mình sắp xếp từ nhỏ đến lớn đi Thấy
+[13:59] dụ mình sắp xếp từ nhỏ đến lớn đi Thấy chưa thì toàn bộ cái vùng dữ liệu ở đây
+[14:02] chưa thì toàn bộ cái vùng dữ liệu ở đây nó sẽ vị tha
+[14:03] nó sẽ vị tha Ừ cái phần ngoài này tên là những cách
+[14:05] Ừ cái phần ngoài này tên là những cách cuốn hát này nó sẽ không bị ảnh hưởng gì
+[14:06] cuốn hát này nó sẽ không bị ảnh hưởng gì đây đây toàn bộ các phần dữ liệu mà nó
+[14:08] đây đây toàn bộ các phần dữ liệu mà nó liên tiếp nhau như thế này thôi thì nó
+[14:10] liên tiếp nhau như thế này thôi thì nó mới bị tác động nhá Đấy nếu như bạn sắp
+[14:12] mới bị tác động nhá Đấy nếu như bạn sắp xếp thiện từ thiện lớn nhất đến nhỏ nhất
+[14:14] xếp thiện từ thiện lớn nhất đến nhỏ nhất này vẫn thích ở đây đấy thì lớn nhất đến
+[14:17] này vẫn thích ở đây đấy thì lớn nhất đến nhỏ nhất thì tương tự các bạn có thể sọt
+[14:19] nhỏ nhất thì tương tự các bạn có thể sọt theo bất cứ cái gì cũng được rồi theo
+[14:21] theo bất cứ cái gì cũng được rồi theo nhà phân phối thì cũng được vì các bạn
+[14:22] nhà phân phối thì cũng được vì các bạn nhé tiếp theo mình sẽ giới thiệu các bạn
+[14:24] nhé tiếp theo mình sẽ giới thiệu các bạn là sọt nhiều cấp tính là gì ạ Giả sử
+[14:27] là sọt nhiều cấp tính là gì ạ Giả sử mình sao chép khu vực Nhưng mà nếu như
+[14:29] mình sao chép khu vực Nhưng mà nếu như mà khu vực bằng nhau tướng nào giả thiếu
+[14:31] mà khu vực bằng nhau tướng nào giả thiếu đây có rất là nhiều Miền Trung đúng
+[14:32] đây có rất là nhiều Miền Trung đúng không Thì mới ngại yêu Tiên tiếp theo là
+[14:34] không Thì mới ngại yêu Tiên tiếp theo là mình sẽ giọt nhà phân phối đại Nếu như
+[14:36] mình sẽ giọt nhà phân phối đại Nếu như nhà phân phối lại bằng nhau thì mình cứ
+[14:37] nhà phân phối lại bằng nhau thì mình cứ Tiên tiếp theo là gì Là ngày tháng hoặc
+[14:39] Tiên tiếp theo là gì Là ngày tháng hoặc là sản phẩm và cuối cùng là doanh thu
+[14:41] là sản phẩm và cuối cùng là doanh thu chẳng hạn thứ nhất Tức là mình sẽ dò
+[14:43] chẳng hạn thứ nhất Tức là mình sẽ dò theo nhiều cấp đúng không đấy thì gọi
+[14:45] theo nhiều cấp đúng không đấy thì gọi làm như thế nào để có bạn sẽ thích của 1
+[14:47] làm như thế nào để có bạn sẽ thích của 1 cô bất kỳ trong cái vùng dữ liệu này và
+[14:48] cô bất kỳ trong cái vùng dữ liệu này và các bạn tích vào cái chữ sọt này vẫn là
+[14:50] các bạn tích vào cái chữ sọt này vẫn là trong cái thẻ data nhá các bạn tích vào
+[14:52] trong cái thẻ data nhá các bạn tích vào cái chữ trò này đấy thì nó sẽ hiện một
+[14:54] cái chữ trò này đấy thì nó sẽ hiện một cái cửa sổ ở đây tức là nó sẽ có nhiều
+[14:57] cái cửa sổ ở đây tức là nó sẽ có nhiều cấp này Đầu tiên là nó sẽ có mặc định là
+[14:59] cấp này Đầu tiên là nó sẽ có mặc định là một cấp nhất là sọt 3 soạn bài là gì Ví
+[15:02] một cấp nhất là sọt 3 soạn bài là gì Ví dụ mình chọn cái khu vực
+[15:03] dụ mình chọn cái khu vực Ừ đấy thì cái xeon ở đây là gì Resort
+[15:06] Ừ đấy thì cái xeon ở đây là gì Resort The level of Đúng không Nó có một số tùy
+[15:08] The level of Đúng không Nó có một số tùy chọn là sạch theo cả màu sắc để soạn
+[15:11] chọn là sạch theo cả màu sắc để soạn theo cả Phong chứ lại thì ví dụ mình soi
+[15:13] theo cả Phong chứ lại thì ví dụ mình soi thêm values thôi ở đây là thứ tự nhá lại
+[15:15] thêm values thôi ở đây là thứ tự nhá lại từ từ nhỏ dần đến lớn hoặc là gì từ lớn
+[15:18] từ từ nhỏ dần đến lớn hoặc là gì từ lớn xuống nhỏ lại Tùy các bạn nhắc Ví dụ
+[15:20] xuống nhỏ lại Tùy các bạn nhắc Ví dụ mình Đạt Ờ diện từ nhỏ đến lớn đấy Đấy
+[15:22] mình Đạt Ờ diện từ nhỏ đến lớn đấy Đấy giả sử nó cách cấp độ này là xóa theo
+[15:25] giả sử nó cách cấp độ này là xóa theo khu vực rồi luôn các bạn bún s thêm một
+[15:27] khu vực rồi luôn các bạn bún s thêm một cái các lỗi nữa thì bạn chọn là KS level
+[15:29] cái các lỗi nữa thì bạn chọn là KS level đây Đấy tức là nếu như mà khu vực bằng
+[15:31] đây Đấy tức là nếu như mà khu vực bằng nhau ở đây mình có rất là nhiều khu vực
+[15:33] nhau ở đây mình có rất là nhiều khu vực miền Trung rồi thì mình sẽ dò theo diện
+[15:35] miền Trung rồi thì mình sẽ dò theo diện các bạn có thể tùy chọn bất cứ cái gì
+[15:37] các bạn có thể tùy chọn bất cứ cái gì yêu tiên thứ hai ví dụ cái ưu tiên thứ
+[15:39] yêu tiên thứ hai ví dụ cái ưu tiên thứ hai của mình là nhà phân phối đi Đấy
+[15:41] hai của mình là nhà phân phối đi Đấy mình Ví dụ nhà phân phối là từ Z đến A
+[15:44] mình Ví dụ nhà phân phối là từ Z đến A thế là từ viện từ lớn xuống nhỏ đấy các
+[15:47] thế là từ viện từ lớn xuống nhỏ đấy các bạn có thể s theo bất cứ cái level làm
+[15:49] bạn có thể s theo bất cứ cái level làm nha Có thể tích vào đây ví dụ mình thích
+[15:50] nha Có thể tích vào đây ví dụ mình thích cho doanh thu nữa đi Ví dụ mình có ba
+[15:52] cho doanh thu nữa đi Ví dụ mình có ba cái level này thôi nhá lại vẫn là theo
+[15:54] cái level này thôi nhá lại vẫn là theo vali ví dụ từ lớn túi nhỏ đi nhá lại còn
+[15:57] vali ví dụ từ lớn túi nhỏ đi nhá lại còn nếu như trong trường hợp các bạn muốn
+[15:58] nếu như trong trường hợp các bạn muốn cái doanh thu này nó lên trên tức là nó
+[16:01] cái doanh thu này nó lên trên tức là nó ưu tiên hơn các nhà phân phố nha thì gọi
+[16:03] ưu tiên hơn các nhà phân phố nha thì gọi nhà thuốc ạ chọn rẻ quạt tích là cái mũ
+[16:05] nhà thuốc ạ chọn rẻ quạt tích là cái mũ Hiến pháp này đấy thì con nó sẽ đẩy cái
+[16:07] Hiến pháp này đấy thì con nó sẽ đẩy cái phần doanh thu lên ưu tiên thứ hai thì
+[16:09] phần doanh thu lên ưu tiên thứ hai thì ưu tiên đầu tiên nó sẽ sắp xếp theo khu
+[16:11] ưu tiên đầu tiên nó sẽ sắp xếp theo khu vực Nếu khu vực bằng nhau thì nó sẽ sắp
+[16:12] vực Nếu khu vực bằng nhau thì nó sẽ sắp xếp từ doanh thu và ưu tiên cuối cùng là
+[16:15] xếp từ doanh thu và ưu tiên cuối cùng là nhà phân phối bây giờ các bạn muốn cái
+[16:16] nhà phân phối bây giờ các bạn muốn cái doanh thu nó nhảy xuống cuối các bạn
+[16:18] doanh thu nó nhảy xuống cuối các bạn tích vào cái doanh thu này các bạn sẽ
+[16:19] tích vào cái doanh thu này các bạn sẽ thích cái mũi tên xuống rồi đây này thì
+[16:21] thích cái mũi tên xuống rồi đây này thì như vậy cái danh thu nó bị đẩy xuống
+[16:22] như vậy cái danh thu nó bị đẩy xuống cuối lại còn nếu như bạn muốn xóa một
+[16:25] cuối lại còn nếu như bạn muốn xóa một cái cấp nào đấy nha ví dụ mình chỉ ưu
+[16:28] cái cấp nào đấy nha ví dụ mình chỉ ưu tiên khu vực và thì doanh thu thôi mình
+[16:30] tiên khu vực và thì doanh thu thôi mình xóa nhà phân phối đi thì gọi phân tích
+[16:32] xóa nhà phân phối đi thì gọi phân tích và các nhà phân phối là các bạn muốn
+[16:33] và các nhà phân phối là các bạn muốn delete đi lại như vậy nó chỉ sắp xếp
+[16:35] delete đi lại như vậy nó chỉ sắp xếp theo hai cấp thôi Nếu mà khu vực bằng
+[16:37] theo hai cấp thôi Nếu mà khu vực bằng nhau thì nó sẽ xuống đây thứ hai là
+[16:39] nhau thì nó sẽ xuống đây thứ hai là doanh thu đấy các bạn thích Ok Đấy đấy
+[16:42] doanh thu đấy các bạn thích Ok Đấy đấy là Cách Cách thứ ba là mình sắp xếp theo
+[16:44] là Cách Cách thứ ba là mình sắp xếp theo nhiều cấp tiếp theo mình sẽ giới thiệu
+[16:47] nhiều cấp tiếp theo mình sẽ giới thiệu với các bạn về Advanced filter cái này
+[16:49] với các bạn về Advanced filter cái này rất là hay đấy ạ đấy thì cái pan Peter
+[16:51] rất là hay đấy ạ đấy thì cái pan Peter Giả sử bây giờ mình muốn chiết xuất cái
+[16:53] Giả sử bây giờ mình muốn chiết xuất cái danh sách là gì danh sách là cái nhà
+[16:56] danh sách là gì danh sách là cái nhà phân phối là Viettel
+[16:57] phân phối là Viettel ở đây thì mình làm như thế nào thì các
+[16:59] ở đây thì mình làm như thế nào thì các bạn sẽ copy cái tiêu đề nhá bạn nhớ là
+[17:02] bạn sẽ copy cái tiêu đề nhá bạn nhớ là con copy cái tiêu đề Coffee Ví dụ mình
+[17:05] con copy cái tiêu đề Coffee Ví dụ mình sẽ viết vào đây lại mình sẽ chiết xuất
+[17:07] sẽ viết vào đây lại mình sẽ chiết xuất từ đây có anh ấy thì phải gắn kết vào
+[17:08] từ đây có anh ấy thì phải gắn kết vào đây Đấy mình có nhà phân phối rồi đấy
+[17:10] đây Đấy mình có nhà phân phối rồi đấy các bạn sẽ ghi là diện Viettel đấy thì
+[17:14] các bạn sẽ ghi là diện Viettel đấy thì để cho chắc chắn nha cọ sẽ copy cái nhà
+[17:17] để cho chắc chắn nha cọ sẽ copy cái nhà phân phối ở đây cho nó chắc chắn bởi vì
+[17:19] phân phối ở đây cho nó chắc chắn bởi vì đôi chị bạn gọi thì nó sẽ bị sai khác
+[17:21] đôi chị bạn gọi thì nó sẽ bị sai khác mình viết vào đây Đấy Bây giờ mình muốn
+[17:25] mình viết vào đây Đấy Bây giờ mình muốn chiết xuất danh sách các nhà phân phối
+[17:26] chiết xuất danh sách các nhà phân phối là Viettel thì mình làm như thế nào mình
+[17:28] là Viettel thì mình làm như thế nào mình sẽ dùng fa-filter nhất đấy thì đầu tiên
+[17:31] sẽ dùng fa-filter nhất đấy thì đầu tiên là gì ạ Đầu tiên các bạn sẽ vẫn là vào
+[17:33] là gì ạ Đầu tiên các bạn sẽ vẫn là vào thẻ data nhá các bạn chọn rẻ các bạn sẽ
+[17:36] thẻ data nhá các bạn chọn rẻ các bạn sẽ chọn cái đây này SV này đấy thì nó hiện
+[17:40] chọn cái đây này SV này đấy thì nó hiện một cái cửa sổ ra là s Exciter thì cái
+[17:43] một cái cửa sổ ra là s Exciter thì cái lý trang của mình đi thì thông thường nó
+[17:45] lý trang của mình đi thì thông thường nó sẽ mặc định là cái vùng dữ liệu ở đây
+[17:46] sẽ mặc định là cái vùng dữ liệu ở đây lại hoặc làm gì là nếu như mà Nó là một
+[17:49] lại hoặc làm gì là nếu như mà Nó là một cái vùng khác nhau ví dụ nó đang ở vùng
+[17:50] cái vùng khác nhau ví dụ nó đang ở vùng này còn thích đây vẫn thấy chưa thì nó
+[17:52] này còn thích đây vẫn thấy chưa thì nó Nam nào ribbon nhấp nháy mẹ các bạn sẽ
+[17:56] Nam nào ribbon nhấp nháy mẹ các bạn sẽ Bôi đen Cái vùng
+[17:57] Bôi đen Cái vùng Ừ đấy các bạn Bôi đen Cái vùng tiêu đề
+[17:59] Ừ đấy các bạn Bôi đen Cái vùng tiêu đề nha Bạn giữ cần Dương ship vào mũi tên
+[18:00] nha Bạn giữ cần Dương ship vào mũi tên xuống thì như vậy là cái list lên của
+[18:03] xuống thì như vậy là cái list lên của mình đã lựa chọn toàn bộ cái vùng dữ
+[18:04] mình đã lựa chọn toàn bộ cái vùng dữ liệu ban đầu của mình rồi đúng không đấy
+[18:07] liệu ban đầu của mình rồi đúng không đấy Bạn thấy nó cũng nhấp nháy này tiếp theo
+[18:09] Bạn thấy nó cũng nhấp nháy này tiếp theo các bạn sẽ tích mà Cái dưới này là cái
+[18:11] các bạn sẽ tích mà Cái dưới này là cái vùng điều kiện clitoral lên đây này Đấy
+[18:14] vùng điều kiện clitoral lên đây này Đấy cách vân điều kiện là diện các bạn sẽ
+[18:16] cách vân điều kiện là diện các bạn sẽ Model cái tiêu đề nhà phân phối và cái
+[18:18] Model cái tiêu đề nhà phân phối và cái chữ Viettel ở đây để tức là Thiện nó sẽ
+[18:20] chữ Viettel ở đây để tức là Thiện nó sẽ lọc cái vùng dữ liệu này theo cái điều
+[18:23] lọc cái vùng dữ liệu này theo cái điều kiện là nhà phân phối Viettel ở đây đúng
+[18:25] kiện là nhà phân phối Viettel ở đây đúng không Còn nếu như các bạn 1 chiết xuất
+[18:27] không Còn nếu như các bạn 1 chiết xuất nha ra một cái vùng dữ liệu khác thì họ
+[18:29] nha ra một cái vùng dữ liệu khác thì họ sẽ tích chọn và cái copy to anan
+[18:31] sẽ tích chọn và cái copy to anan location thì thông thường những cái
+[18:33] location thì thông thường những cái event inter mình hay chọn cái này tức là
+[18:35] event inter mình hay chọn cái này tức là mình sẽ chiết xuất ra một cái vùng dữ
+[18:37] mình sẽ chiết xuất ra một cái vùng dữ liệu nào đấy đúng không chiếc xe con sẽ
+[18:39] liệu nào đấy đúng không chiếc xe con sẽ thích một cái ô là copy tu tức là các
+[18:42] thích một cái ô là copy tu tức là các bạn muốn copy đâu Ví dụ Bình copy ra cái
+[18:44] bạn muốn copy đâu Ví dụ Bình copy ra cái ô là ov4 này để họ sẽ tích vào cái gì bố
+[18:47] ô là ov4 này để họ sẽ tích vào cái gì bố mình nhá hãy gọi sẽ bấm ok đấy Bạn thấy
+[18:50] mình nhá hãy gọi sẽ bấm ok đấy Bạn thấy chứ như vậy là toàn bộ các dữ liệu đây
+[18:52] chứ như vậy là toàn bộ các dữ liệu đây còn thấy cho tất cả nhà phân phối
+[18:53] còn thấy cho tất cả nhà phân phối Viettel nó được copy ra đây chỉ có nhà
+[18:55] Viettel nó được copy ra đây chỉ có nhà phân phối Viettel thôi
+[18:57] phân phối Viettel thôi ở đoạn nâng lên lại cảm thấy chứ tất cả
+[18:59] ở đoạn nâng lên lại cảm thấy chứ tất cả chữa Viettel thôi Đấy em còn xin tôi rất
+[19:02] chữa Viettel thôi Đấy em còn xin tôi rất là hai ví dụ mình có hai nhà phân phối
+[19:04] là hai ví dụ mình có hai nhà phân phối mình muốn nhà phân phối Viettel và gái
+[19:06] mình muốn nhà phân phối Viettel và gái Excel ở đây đúng không Thì bạn gõ thêm
+[19:08] Excel ở đây đúng không Thì bạn gõ thêm là cái chữ cái xe lên đây Đấy Và Các Bạn
+[19:11] là cái chữ cái xe lên đây Đấy Và Các Bạn Làm lại nhé Bây giờ giả sử vì xóa cái
+[19:12] Làm lại nhé Bây giờ giả sử vì xóa cái phần chiết xuất này đi cạn nhảy cho phải
+[19:14] phần chiết xuất này đi cạn nhảy cho phải các bạn delete đi bây giờ mình muốn
+[19:18] các bạn delete đi bây giờ mình muốn chiết xuất cái danh sách là nhà phân
+[19:19] chiết xuất cái danh sách là nhà phân phối của Viettel và gái xem thì rất là
+[19:22] phối của Viettel và gái xem thì rất là đơn giản các bạn sẽ copy thêm cái nhà
+[19:24] đơn giản các bạn sẽ copy thêm cái nhà phân phối gái sao xuống dưới này như vậy
+[19:26] phân phối gái sao xuống dưới này như vậy là cái vùng điều kiện của mình là diện
+[19:28] là cái vùng điều kiện của mình là diện là cái tiêu đề nhà phân phối và hai cái
+[19:31] là cái tiêu đề nhà phân phối và hai cái nhà phân phối mà bạn cần chiết suất là
+[19:33] nhà phân phối mà bạn cần chiết suất là Viettel và gái Excel đúng không Thì Đầu
+[19:35] Viettel và gái Excel đúng không Thì Đầu Tiên Tốt nhất là con sẽ tích vào một ô
+[19:37] Tiên Tốt nhất là con sẽ tích vào một ô bất kỳ trong cái vùng dữ liệu mà các bạn
+[19:38] bất kỳ trong cái vùng dữ liệu mà các bạn muốn chiết xuất này đây này Đấy con tích
+[19:41] muốn chiết xuất này đây này Đấy con tích và một hết chỉ đây sau đó con vào thẻ
+[19:43] và một hết chỉ đây sau đó con vào thẻ data các bạn tích vào cái chữ s pha này
+[19:45] data các bạn tích vào cái chữ s pha này đấy thì mặc định nó sẽ Bôi đen toàn bộ
+[19:48] đấy thì mặc định nó sẽ Bôi đen toàn bộ cái vùng dữ liệu còn thấy giờ toàn bộ
+[19:49] cái vùng dữ liệu còn thấy giờ toàn bộ các vụ việc nhấp nháy này chính là cái ô
+[19:51] các vụ việc nhấp nháy này chính là cái ô thì từ B4 đến cái f498 này này cái phần
+[19:56] thì từ B4 đến cái f498 này này cái phần điều kiện lấy bạn thấy cho
+[19:57] điều kiện lấy bạn thấy cho ở nhà diện tích ở đây thì lúc nãy là
+[19:59] ở nhà diện tích ở đây thì lúc nãy là mình nạp tiếng hát Mười đến tháng 11 là
+[20:01] mình nạp tiếng hát Mười đến tháng 11 là bây giờ còn sẽ Bôi đen lặng để từ diện
+[20:03] bây giờ còn sẽ Bôi đen lặng để từ diện từ H 10 đến h12 đây Thế cảm thấy chứ Nó
+[20:06] từ H 10 đến h12 đây Thế cảm thấy chứ Nó sẽ thay đổi thứ hát 10 đến tháng 12 này
+[20:07] sẽ thay đổi thứ hát 10 đến tháng 12 này có tích vào đây để mình chiết xuất ra
+[20:09] có tích vào đây để mình chiết xuất ra một cái danh sách mới các bạn tích vào
+[20:11] một cái danh sách mới các bạn tích vào đây là thích và cái ô ô copy tung á sau
+[20:14] đây là thích và cái ô ô copy tung á sau đó bạn chọn ô mà các bạn muốn chiết xuất
+[20:16] đó bạn chọn ô mà các bạn muốn chiết xuất đến này Ví dụ mình chọn vẫn là cái og bố
+[20:18] đến này Ví dụ mình chọn vẫn là cái og bố mày đi đâu ạ Bạn sẽ bấm ok đấy Vợ thấy
+[20:21] mày đi đâu ạ Bạn sẽ bấm ok đấy Vợ thấy chứ lúc này cây nhà phân phối gái xe và
+[20:23] chứ lúc này cây nhà phân phối gái xe và Viettel đã được chiết xuất rồi đấy nó
+[20:25] Viettel đã được chiết xuất rồi đấy nó chỉ chiết xuất hay các nhà phân phối là
+[20:27] chỉ chiết xuất hay các nhà phân phối là Viettel và cái xe thôi nhé Còn ví dụ Ông
+[20:29] Viettel và cái xe thôi nhé Còn ví dụ Ông FPT và ông viên PT là do không chiết
+[20:32] FPT và ông viên PT là do không chiết xuất mình sẽ xóa đi các bạn nhấn chuột
+[20:36] xuất mình sẽ xóa đi các bạn nhấn chuột phải vào delete đi tiếp theo là gì mình
+[20:39] phải vào delete đi tiếp theo là gì mình sẽ giới thiệu với các bạn vẽ Phan Thị
+[20:40] sẽ giới thiệu với các bạn vẽ Phan Thị Tiên nâng cao đấy ngoài các nhà phân
+[20:44] Tiên nâng cao đấy ngoài các nhà phân phối là Viettel và gái xe này Bây giờ
+[20:46] phối là Viettel và gái xe này Bây giờ mình muốn thêm điều kiện nhận diện là
+[20:48] mình muốn thêm điều kiện nhận diện là khu vực này Cậu nháy chứ phải copy khu
+[20:50] khu vực này Cậu nháy chứ phải copy khu vực các nháy chuột phải vào đây thì tốt
+[20:51] vực các nháy chuột phải vào đây thì tốt nhất là cái tiêu đề là quan trọng nhất
+[20:53] nhất là cái tiêu đề là quan trọng nhất thì bạn copy và các bạn Tuyết cái phần
+[20:55] thì bạn copy và các bạn Tuyết cái phần tiêu đề nhé ví dụ là gì
+[20:57] tiêu đề nhé ví dụ là gì Ừ nhưng mà nhà phân phối Viettel ý thì
+[20:59] Ừ nhưng mà nhà phân phối Viettel ý thì tôi phải là gì là khu vực là miền Bắc
+[21:01] tôi phải là gì là khu vực là miền Bắc hẳn thế nhá đấy các bạn sẽ gõ tên miền
+[21:03] hẳn thế nhá đấy các bạn sẽ gõ tên miền Bắc vào đây thì bạn chú nha kinh gõ đây
+[21:08] Bắc vào đây thì bạn chú nha kinh gõ đây nó cũng phải giống hệt chị ở đây này thì
+[21:09] nó cũng phải giống hệt chị ở đây này thì tốt nhất là gọi copy còn các bạn tự tin
+[21:11] tốt nhất là gọi copy còn các bạn tự tin thì nó có thể gõ tại ví dụ Các bạn có
+[21:14] thì nó có thể gõ tại ví dụ Các bạn có thể thêm cái phần doanh thu nữa cũng
+[21:15] thể thêm cái phần doanh thu nữa cũng được lại có ảnh hưởng gì đấy Các anh thu
+[21:18] được lại có ảnh hưởng gì đấy Các anh thu thì tốt nhất các bạn copy cái phần tiêu
+[21:19] thì tốt nhất các bạn copy cái phần tiêu đề đấy cả copy các bạn nhảy cho phải đây
+[21:22] đề đấy cả copy các bạn nhảy cho phải đây mình kết đi thì để đảm bảo nó giống là
+[21:24] mình kết đi thì để đảm bảo nó giống là cái tiêu đề nhé nếu như và doanh thu là
+[21:26] cái tiêu đề nhé nếu như và doanh thu là Viettel khu vực miền Bắc và mình lọc là
+[21:28] Viettel khu vực miền Bắc và mình lọc là diện là phải lớn hơn lớn hơn 700 đấy Còn
+[21:32] diện là phải lớn hơn lớn hơn 700 đấy Còn cái điều kiện đây là nếu như mà gái sao
+[21:34] cái điều kiện đây là nếu như mà gái sao ấy thì là gì nếu như mà gái xe mà cũng
+[21:36] ấy thì là gì nếu như mà gái xe mà cũng nên bác không thì bạn gõ là miền Bắc đây
+[21:40] nên bác không thì bạn gõ là miền Bắc đây Nếu như bạn không phải miền Bắc đấy mà
+[21:43] Nếu như bạn không phải miền Bắc đấy mà gọi để như thế này thì nó nhà phân phối
+[21:45] gọi để như thế này thì nó nhà phân phối cứ gái xe thì nó sẽ chọn hết còn ở cái
+[21:48] cứ gái xe thì nó sẽ chọn hết còn ở cái hàng này thì nó là đồng thời tức là nếu
+[21:50] hàng này thì nó là đồng thời tức là nếu như mà nhà phân phối Viettel thì khu vực
+[21:52] như mà nhà phân phối Viettel thì khu vực là miền Bắc và doanh thu là 700 và doanh
+[21:54] là miền Bắc và doanh thu là 700 và doanh thu là lớn 700 thì máy lọc còn cái Hà
+[21:57] thu là lớn 700 thì máy lọc còn cái Hà Ừ chắc là cái điều kiện tiếp theo là gì
+[21:59] Ừ chắc là cái điều kiện tiếp theo là gì Và Diện Nó sẽ kết hợp cả với cái trường
+[22:02] Và Diện Nó sẽ kết hợp cả với cái trường hợp là nó chỉ quan tâm đến nhà phân phối
+[22:03] hợp là nó chỉ quan tâm đến nhà phân phối Viettel thôi nếu như thế này ấy Thịt ba
+[22:06] Viettel thôi nếu như thế này ấy Thịt ba cái điều kiện trên này là đồng thời còn
+[22:08] cái điều kiện trên này là đồng thời còn cái này là họ đấy thì cái cái xe nó có
+[22:10] cái này là họ đấy thì cái cái xe nó có thể là ba miền và doanh thu nó là bất kỳ
+[22:12] thể là ba miền và doanh thu nó là bất kỳ đấy Còn nếu như gái xe mà bạn vẫn là
+[22:14] đấy Còn nếu như gái xe mà bạn vẫn là miền Bắc thì các bạn vẫn mong muốn là
+[22:16] miền Bắc thì các bạn vẫn mong muốn là miền Bắc thì bạn có tiếp ở đây là miền
+[22:18] miền Bắc thì bạn có tiếp ở đây là miền Bắc đấy và có diện nếu như cái xe doanh
+[22:22] Bắc đấy và có diện nếu như cái xe doanh thu về nhà địa nhỏ hơn 500 hạ thế nhá
+[22:24] thu về nhà địa nhỏ hơn 500 hạ thế nhá thì mình mới lọc dậy thì như vậy thế
+[22:27] thì mình mới lọc dậy thì như vậy thế phần điều kiện ở đây các bạn phải chú ý
+[22:28] phần điều kiện ở đây các bạn phải chú ý mình sẽ giải thích lại nhé Thì cái điều
+[22:31] mình sẽ giải thích lại nhé Thì cái điều kiện từng hàng ở đây là riêng biệt nhau
+[22:33] kiện từng hàng ở đây là riêng biệt nhau và nó sẽ xảy ra đồng thời Ví dụ ở cái
+[22:36] và nó sẽ xảy ra đồng thời Ví dụ ở cái hàng này là nó Đồng thời nhau là cứ
+[22:38] hàng này là nó Đồng thời nhau là cứ doanh thu cứ nhà phân phối Viettel thì
+[22:40] doanh thu cứ nhà phân phối Viettel thì là khu vực miền Bắc và doanh thu là lớn
+[22:42] là khu vực miền Bắc và doanh thu là lớn 700 thì nó mới lọc tương tự đây cứ nhà
+[22:45] 700 thì nó mới lọc tương tự đây cứ nhà phân phối là gái Excel khu vực miền Bắc
+[22:47] phân phối là gái Excel khu vực miền Bắc và doanh thu nhập 500 thì nó mới chiết
+[22:49] và doanh thu nhập 500 thì nó mới chiết xuất đúng đấy và cũng còn chút nhá cái
+[22:51] xuất đúng đấy và cũng còn chút nhá cái phần tiêu đề ở đây nó không cần đúng thứ
+[22:53] phần tiêu đề ở đây nó không cần đúng thứ tự đâu lại thứ tự nó có thể bất kỳ Ví dụ
+[22:55] tự đâu lại thứ tự nó có thể bất kỳ Ví dụ nhà phân phối các bạn có thể
+[22:57] nhà phân phối các bạn có thể ở đây cũng được tiếp theo là khu vực
+[22:58] ở đây cũng được tiếp theo là khu vực tiếp theo là doanh thu cũng được nó
+[23:00] tiếp theo là doanh thu cũng được nó không ảnh hưởng gì cả nhé Bây giờ mình
+[23:02] không ảnh hưởng gì cả nhé Bây giờ mình sẽ làm các bạn cái phần lọc nâng cao như
+[23:03] sẽ làm các bạn cái phần lọc nâng cao như thế này các bạn sẽ tích vào một ô bất kỳ
+[23:05] thế này các bạn sẽ tích vào một ô bất kỳ trong cái vùng dữ liệu ở đây nhé Sau đó
+[23:07] trong cái vùng dữ liệu ở đây nhé Sau đó các bạn có thể data các bạn sẽ chọn để
+[23:09] các bạn có thể data các bạn sẽ chọn để ewa đấy thì gì ạ Cái vùng dữ liệu ở đây
+[23:12] ewa đấy thì gì ạ Cái vùng dữ liệu ở đây này Nó sẽ gì vẫn là mặc định toàn bộ ở
+[23:14] này Nó sẽ gì vẫn là mặc định toàn bộ ở đây đúng không cái vùng điều kiện bạn sẽ
+[23:16] đây đúng không cái vùng điều kiện bạn sẽ xóa đi Bạn nuôi em đã xóa thì cùng điều
+[23:20] xóa đi Bạn nuôi em đã xóa thì cùng điều kiện đi Các bạn chọn lại nhé đấy toàn bộ
+[23:22] kiện đi Các bạn chọn lại nhé đấy toàn bộ cái cùng điều kiện ở đây là từ H 10 đến
+[23:24] cái cùng điều kiện ở đây là từ H 10 đến j12 các bạn rất thích vào cái phần diện
+[23:27] j12 các bạn rất thích vào cái phần diện copy to another location này các bạn sẽ
+[23:30] copy to another location này các bạn sẽ tích vào cái ô ô coffee tu những ví dụ
+[23:32] tích vào cái ô ô coffee tu những ví dụ mình copy ra tại ô l6 này là các bạn xem
+[23:35] mình copy ra tại ô l6 này là các bạn xem Ok Đấy Bây giờ mình sẽ kiểm tra nhé mình
+[23:38] Ok Đấy Bây giờ mình sẽ kiểm tra nhé mình sẽ tích và mô bất kỳ cho cái vùng chiết
+[23:40] sẽ tích và mô bất kỳ cho cái vùng chiết xuất này các bạn tích và cái filter bây
+[23:43] xuất này các bạn tích và cái filter bây giờ mình sẽ kiểm tra nhà phân phối là
+[23:45] giờ mình sẽ kiểm tra nhà phân phối là Viettel hạn thế nhá các bạn tích vào cái
+[23:46] Viettel hạn thế nhá các bạn tích vào cái nhà phân phối các bỏ chọn đi mình chọn
+[23:49] nhà phân phối các bỏ chọn đi mình chọn Viettel không đấy thì Viettel ở đây mình
+[23:52] Viettel không đấy thì Viettel ở đây mình chỉ có miền Bắc và doanh thu lớn hơn 700
+[23:54] chỉ có miền Bắc và doanh thu lớn hơn 700 đoạn thấy chứ nó mới chọn tiếp theo là
+[23:57] đoạn thấy chứ nó mới chọn tiếp theo là cho ví dụ gái Excel như các bạn chọn
+[23:59] cho ví dụ gái Excel như các bạn chọn ngài serre các bỏ Viettel đi đấy thì như
+[24:01] ngài serre các bỏ Viettel đi đấy thì như vậy thế bạn gái xe này còn tích vào khu
+[24:04] vậy thế bạn gái xe này còn tích vào khu vực Đấy chỉ là miền Bắc thôi để cái điều
+[24:06] vực Đấy chỉ là miền Bắc thôi để cái điều kiện những gái xe và miền Bắc thôi đúng
+[24:07] kiện những gái xe và miền Bắc thôi đúng không và các doanh thu nhỏ 500 để chọn
+[24:09] không và các doanh thu nhỏ 500 để chọn tích vào cái doanh thu lại còn thấy cho
+[24:10] tích vào cái doanh thu lại còn thấy cho con lăn xuống này thì cái giá trị cuối
+[24:13] con lăn xuống này thì cái giá trị cuối cùng là cái giá trị lớn nhất thì cái lớn
+[24:14] cùng là cái giá trị lớn nhất thì cái lớn nhất của nó chỉ là 442 thôi đúng không ạ
+[24:16] nhất của nó chỉ là 442 thôi đúng không ạ tất cả đều nhỏ 500 đấy cảm thấy em khác
+[24:19] tất cả đều nhỏ 500 đấy cảm thấy em khác rất là hai ạ đấy là cái lọc nâng cao nhé
+[24:23] rất là hai ạ đấy là cái lọc nâng cao nhé Thì bây giờ mình sẽ chỉ cho các bạn cái
+[24:25] Thì bây giờ mình sẽ chỉ cho các bạn cái phần lọc luôn cao nữa là gì ạ bây giờ ví
+[24:27] phần lọc luôn cao nữa là gì ạ bây giờ ví dụ Xóa ngay đi Các bạn muốn chọn thì bây
+[24:31] dụ Xóa ngay đi Các bạn muốn chọn thì bây giờ ví dụ nếu như nó thỏa mãn các điều
+[24:33] giờ ví dụ nếu như nó thỏa mãn các điều kiện này Mình chỉ lấy gì ạ Lấy khu vực
+[24:35] kiện này Mình chỉ lấy gì ạ Lấy khu vực nhà phân phối và doanh thu Thôi nhé mình
+[24:37] nhà phân phối và doanh thu Thôi nhé mình bỏ các cái phần sản phẩm và mình lấy thế
+[24:39] bỏ các cái phần sản phẩm và mình lấy thế là sản phẩm đi Chẳng hạn Tức là mình sẽ
+[24:40] là sản phẩm đi Chẳng hạn Tức là mình sẽ lấy 4 cái trường này thôi mình bỏ cái
+[24:42] lấy 4 cái trường này thôi mình bỏ cái trường ngày tháng đi đấy thì mình làm
+[24:44] trường ngày tháng đi đấy thì mình làm như thế nào đấy thì các bạn chỉ để bốn
+[24:46] như thế nào đấy thì các bạn chỉ để bốn cái phần tiêu đề đấy thôi các bạn xóa dữ
+[24:48] cái phần tiêu đề đấy thôi các bạn xóa dữ liệu đi bạn giữ kiểu trang trí của mũi
+[24:50] liệu đi bạn giữ kiểu trang trí của mũi tên xuống gọi đi hết đi đây tức là mình
+[24:52] tên xuống gọi đi hết đi đây tức là mình sẽ bớt lại các phần tiêu đề ở đây để lát
+[24:54] sẽ bớt lại các phần tiêu đề ở đây để lát nữa mình sẽ giải thích cho các bạn Tại
+[24:55] nữa mình sẽ giải thích cho các bạn Tại sao ở đây lại là lọc nâng cao
+[24:57] sao ở đây lại là lọc nâng cao ạ bây giờ cạn tích về đây có bạn sẽ
+[25:01] ạ bây giờ cạn tích về đây có bạn sẽ kreide nhá mình sẽ lấy hết đi bên mình
+[25:03] kreide nhá mình sẽ lấy hết đi bên mình sẽ làm mới các bạn xem này cái này lọc
+[25:07] sẽ làm mới các bạn xem này cái này lọc nâng cao là gì ạ Và bây giờ mình sẽ là
+[25:08] nâng cao là gì ạ Và bây giờ mình sẽ là các bạn nhá và sẽ tích và một ô bất kỳ
+[25:11] các bạn nhá và sẽ tích và một ô bất kỳ trong cái vùng dữ liệu này các bạn vào
+[25:12] trong cái vùng dữ liệu này các bạn vào thẻ data mình vợ FA rồi thì nó sẽ hiện
+[25:15] thẻ data mình vợ FA rồi thì nó sẽ hiện một cái đầu tiên là cái list lên đây con
+[25:18] một cái đầu tiên là cái list lên đây con sẽ xóa cái đi nhá cái nick đây nè đây
+[25:21] sẽ xóa cái đi nhá cái nick đây nè đây con sẽ tích và một cái ô của cái vùng mà
+[25:23] con sẽ tích và một cái ô của cái vùng mà các bạn cần chiết xuất đây này Đấy con
+[25:25] các bạn cần chiết xuất đây này Đấy con sẽ bấm cân chân ai đấy cậu thấy cho khi
+[25:28] sẽ bấm cân chân ai đấy cậu thấy cho khi các Đốm quen chữ cái thì toàn bộ cái
+[25:30] các Đốm quen chữ cái thì toàn bộ cái bảng này cái vùng dữ liệu bắt đầu của
+[25:31] bảng này cái vùng dữ liệu bắt đầu của mình đã được lựa chọn đúng bằng từ B4
+[25:33] mình đã được lựa chọn đúng bằng từ B4 đến cái f498 này các bạn sẽ xanh ấy phần
+[25:36] đến cái f498 này các bạn sẽ xanh ấy phần điều kiện để cái phần điều kiện là nó
+[25:38] điều kiện để cái phần điều kiện là nó giống như trước rồi luôn rồi Còn tôi xóa
+[25:40] giống như trước rồi luôn rồi Còn tôi xóa đi chắc các bạn lại Bôi đen lại đây phần
+[25:42] đi chắc các bạn lại Bôi đen lại đây phần điều kiện ở đây Thế có thích chọn cái
+[25:44] điều kiện ở đây Thế có thích chọn cái phần diệt copy to another location các
+[25:46] phần diệt copy to another location các bạn sẽ xóa cái đi Rồi bây giờ mình sẽ
+[25:49] bạn sẽ xóa cái đi Rồi bây giờ mình sẽ Bôi đen toàn bộ các phần tiêu đề này
+[25:51] Bôi đen toàn bộ các phần tiêu đề này Thế thì tại sao mình lại Bôi đen toàn bộ
+[25:53] Thế thì tại sao mình lại Bôi đen toàn bộ cái tiêu đề này tức là mình chỉ chiết
+[25:55] cái tiêu đề này tức là mình chỉ chiết xuất những cái tiêu đề này thôi còn
+[25:58] xuất những cái tiêu đề này thôi còn những cái kia đẹp khác thì mình không
+[25:59] những cái kia đẹp khác thì mình không chiết xuất ví dụ như là cái ngày tháng ở
+[26:00] chiết xuất ví dụ như là cái ngày tháng ở đây mình không cần trích xuất đúng không
+[26:02] đây mình không cần trích xuất đúng không Còn nếu như các thích và cái chữ inquare
+[26:04] Còn nếu như các thích và cái chữ inquare này thì là gì ạ là nó chỉ chiết xuất
+[26:07] này thì là gì ạ là nó chỉ chiết xuất những kết phần giống nhau thôi Tớ nào
+[26:08] những kết phần giống nhau thôi Tớ nào thì ở đây nó có bốn cái phần khu vực nhà
+[26:11] thì ở đây nó có bốn cái phần khu vực nhà phân phối sản phẩm và doanh thu là nhá
+[26:13] phân phối sản phẩm và doanh thu là nhá thì giống nhau thì nên sẽ xóa đi mà nó
+[26:15] thì giống nhau thì nên sẽ xóa đi mà nó với một bây giờ mình sẽ bỏ ra lại đi đấy
+[26:17] với một bây giờ mình sẽ bỏ ra lại đi đấy là cái tùy chọn nhà tù các bạn Tại bây
+[26:20] là cái tùy chọn nhà tù các bạn Tại bây giờ gọi sẽ tiếp cho ok đi đấy bạn thấy
+[26:22] giờ gọi sẽ tiếp cho ok đi đấy bạn thấy cho như vậy nó sẽ copy bốn cái chiêu này
+[26:25] cho như vậy nó sẽ copy bốn cái chiêu này tôi và nó sẽ không copy cái ngày tháng
+[26:26] tôi và nó sẽ không copy cái ngày tháng nếu bạn thấy không rất là hai ạ Ok bây
+[26:29] nếu bạn thấy không rất là hai ạ Ok bây giờ mình muốn chiết xuất ở một cái xích
+[26:30] giờ mình muốn chiết xuất ở một cái xích khác tình hình ảnh như nào thì lúc nãy
+[26:32] khác tình hình ảnh như nào thì lúc nãy mình trước Suốt ngày ở mỗi cái sít này
+[26:34] mình trước Suốt ngày ở mỗi cái sít này và file này thôi Đúng bên mình sẽ xóa đi
+[26:36] và file này thôi Đúng bên mình sẽ xóa đi Đấy chọn thủy ngân Lúc nãy mình chiết
+[26:39] Đấy chọn thủy ngân Lúc nãy mình chiết suất là gì trên cái xin à bây giờ mình
+[26:41] suất là gì trên cái xin à bây giờ mình muốn chiết xuất ra một cái ship mới đúng
+[26:42] muốn chiết xuất ra một cái ship mới đúng không Ví dụ đây đây là cái xít mà mình
+[26:45] không Ví dụ đây đây là cái xít mà mình muốn chiết xuất nha nhá Đấy bây giờ mình
+[26:46] muốn chiết xuất nha nhá Đấy bây giờ mình muốn chết ra cái thứ ba thì cái việc đầu
+[26:48] muốn chết ra cái thứ ba thì cái việc đầu tiên là gì Các bạn phải vào với 93 này
+[26:50] tiên là gì Các bạn phải vào với 93 này Nếu như các bạn
+[26:51] Nếu như các bạn khi chúng ta cái sít nào thì đầu tiên
+[26:53] khi chúng ta cái sít nào thì đầu tiên bạn phải vào cái gì đấy trước đã nhé sau
+[26:55] bạn phải vào cái gì đấy trước đã nhé sau đó gọi thể data Các bạn chọn FA đấy thì
+[26:59] đó gọi thể data Các bạn chọn FA đấy thì một cái cửa sổ sbank inter đã được hiện
+[27:01] một cái cửa sổ sbank inter đã được hiện ra đúng không cái phần listening ở đây
+[27:02] ra đúng không cái phần listening ở đây này các bạn sẽ tích vào cái ô lít lên
+[27:04] này các bạn sẽ tích vào cái ô lít lên rồi đây sau đó các bạn xanh cái chi ban
+[27:06] rồi đây sau đó các bạn xanh cái chi ban đầu của mình là sĩ một sau đó giữa các
+[27:08] đầu của mình là sĩ một sau đó giữa các bạn sẽ Bôi đen cái phần tiêu đề của cái
+[27:10] bạn sẽ Bôi đen cái phần tiêu đề của cái vùng dữ liệu này đấy các bạn giữ cần
+[27:12] vùng dữ liệu này đấy các bạn giữ cần ship và nhũn xuống thì như vậy là gì cái
+[27:15] ship và nhũn xuống thì như vậy là gì cái list lên ở đây nó sẽ lựa chọn toàn bộ
+[27:16] list lên ở đây nó sẽ lựa chọn toàn bộ cái vùng dữ liệu rồi đúng không thấy
+[27:18] cái vùng dữ liệu rồi đúng không thấy cảnh xuất kích vào cái cùng điều kiện ở
+[27:19] cảnh xuất kích vào cái cùng điều kiện ở đây lại sau đó các bạn lại quay lại cái
+[27:21] đây lại sau đó các bạn lại quay lại cái sĩ một ở đây thì bạn sẽ lên trên này nhá
+[27:24] sĩ một ở đây thì bạn sẽ lên trên này nhá thì các bạn lại Bôi đen Cái vùng điều
+[27:27] thì các bạn lại Bôi đen Cái vùng điều kiện ở đây đấy tiếp theo là diện con sẽ
+[27:30] kiện ở đây đấy tiếp theo là diện con sẽ chọn vào cái ô ô copy to analysen tại
+[27:33] chọn vào cái ô ô copy to analysen tại thì nó lại quay về cái xít mới tạo đây
+[27:35] thì nó lại quay về cái xít mới tạo đây là chị Ba nó các bạn sẽ thích vào cái ô
+[27:37] là chị Ba nó các bạn sẽ thích vào cái ô ô copy tu và các bạn sẽ cho vào cái ô mà
+[27:40] ô copy tu và các bạn sẽ cho vào cái ô mà các bạn thân chiết xuất Ví dụ mình muốn
+[27:41] các bạn thân chiết xuất Ví dụ mình muốn chiết xuất ra cái ôm B2 này đúng không
+[27:43] chiết xuất ra cái ôm B2 này đúng không để cậu sẽ bấm ok nói còn thấy chứ như
+[27:46] để cậu sẽ bấm ok nói còn thấy chứ như vậy là mình đã chiết xuất ra một cái sim
+[27:47] vậy là mình đã chiết xuất ra một cái sim mới là gì đây là khu vực phía Bắc này
+[27:49] mới là gì đây là khu vực phía Bắc này Đây là mình sẽ kiểm tra lạ
+[27:51] Đây là mình sẽ kiểm tra lạ ở lại các bạn sẽ vào data cạn và filter
+[27:53] ở lại các bạn sẽ vào data cạn và filter lại nếu như mà nhà phân phối Viettel
+[27:56] lại nếu như mà nhà phân phối Viettel mình bỏ gái sao đi đại Viettel nó miền
+[28:00] mình bỏ gái sao đi đại Viettel nó miền Bắc và lớn hơn 700 đấy nó chỉ có 2 cái
+[28:02] Bắc và lớn hơn 700 đấy nó chỉ có 2 cái ngày này thôi Đấy Bây giờ mình sẽ vào ví
+[28:05] ngày này thôi Đấy Bây giờ mình sẽ vào ví dụ nhà phân phối là gái xem nhé các bạn
+[28:09] dụ nhà phân phối là gái xem nhé các bạn bỏ Viettel đi đấy thì như vậy gái sao
+[28:11] bỏ Viettel đi đấy thì như vậy gái sao này Đây là chỉ miền bắc đúng rồi đúng
+[28:13] này Đây là chỉ miền bắc đúng rồi đúng không cái doanh thu cũng vậy các bạn ăn
+[28:14] không cái doanh thu cũng vậy các bạn ăn xuống dưới này để doanh thu lớn nhất nó
+[28:16] xuống dưới này để doanh thu lớn nhất nó chỉ là 442 đâu nó nhỏ 500 rồi đợi rất là
+[28:20] chỉ là 442 đâu nó nhỏ 500 rồi đợi rất là hay là như vậy mình đã chiết xuất ra một
+[28:21] hay là như vậy mình đã chiết xuất ra một cái sim mới nhá lại Ok như vậy là mình
+[28:25] cái sim mới nhá lại Ok như vậy là mình đã xong cái bài hôm nay bây giờ mình sẽ
+[28:26] đã xong cái bài hôm nay bây giờ mình sẽ xem cái bài về nhà nhé đây các bạn xem
+[28:31] xem cái bài về nhà nhé đây các bạn xem mở cái câu hỏi này lên đại thì ở đây
+[28:36] mở cái câu hỏi này lên đại thì ở đây mình cái vùng dữ liệu của mình vẫn là
+[28:37] mình cái vùng dữ liệu của mình vẫn là cái phần dữ liệu chia thôi nhưng mà đỡ
+[28:39] cái phần dữ liệu chia thôi nhưng mà đỡ mình sẽ có 5 câu hỏi là trích xuất theo
+[28:42] mình sẽ có 5 câu hỏi là trích xuất theo nhà phân phối này ở đây để các bạn sẽ
+[28:45] nhà phân phối này ở đây để các bạn sẽ làm nhé đấy nhá ở đây mình sẽ có năm cái
+[28:49] làm nhé đấy nhá ở đây mình sẽ có năm cái câu hỏi cho phần về nhà ở
+[28:51] câu hỏi cho phần về nhà ở a ghi chú là gì Các bạn sẽ làm ở trên
+[28:53] a ghi chú là gì Các bạn sẽ làm ở trên cùng sheet và các sheet nhá Đây đây là
+[28:56] cùng sheet và các sheet nhá Đây đây là bài tập về nhà cho các bạn nhá các Thúy
+[29:00] bài tập về nhà cho các bạn nhá các Thúy Nga mình sẽ để cái phần link tải file
+[29:01] Nga mình sẽ để cái phần link tải file thực hành trong phần mô tả phía dưới
+[29:02] thực hành trong phần mô tả phía dưới video thì các bạn tốt nhất là quản Tải
+[29:05] video thì các bạn tốt nhất là quản Tải về các bạn vừa theo dõi và thực hành
+[29:06] về các bạn vừa theo dõi và thực hành cùng mình nếu như bạn nào không biết
+[29:08] cùng mình nếu như bạn nào không biết cách tải về thì các bạn có thể tham khảo
+[29:10] cách tải về thì các bạn có thể tham khảo thế bài đầu tiên của mình nhé để các bạn
+[29:13] thế bài đầu tiên của mình nhé để các bạn biết cách tải về trong cái video Đấy
+[29:15] biết cách tải về trong cái video Đấy mình đã hướng dẫn khá là chi tiết rồi ạ
+[29:17] mình đã hướng dẫn khá là chi tiết rồi ạ Ok Bây giờ mình sẽ đóng cái câu hỏi lại
+[29:19] Ok Bây giờ mình sẽ đóng cái câu hỏi lại nhá như vậy là mình đã kết thúc bài học
+[29:22] nhá như vậy là mình đã kết thúc bài học ngày hôm nay ở đây cảm ơn các bạn đã
+[29:24] ngày hôm nay ở đây cảm ơn các bạn đã theo dõi các bạn nhớ đăng ký Kênh để cập
+[29:27] theo dõi các bạn nhớ đăng ký Kênh để cập nhật video mới nhất của gà cũng như chia
+[29:29] nhật video mới nhất của gà cũng như chia sẻ để giúp mọi người cùng họ cũng xem
+[29:31] sẻ để giúp mọi người cùng họ cũng xem nhé Xin chào và hẹn gặp lại ở
+[29:47] nhé Xin chào và hẹn gặp lại ở ừ ừ

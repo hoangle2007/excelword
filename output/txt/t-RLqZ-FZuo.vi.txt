@@ -1,0 +1,679 @@
+[00:01] Xin chào mừng các bạn đến với khoa học excel miễn phí từ cơ bản đến nâng cao
+[00:03] excel miễn phí từ cơ bản đến nâng cao dành cho người mới bắt đầu được thực
+[00:05] dành cho người mới bắt đầu được thực hiện trên kênh YouTube và Excel bài số 1
+[00:09] hiện trên kênh YouTube và Excel bài số 1 làm quen với excel đầu tiên sẽ là khởi
+[00:11] làm quen với excel đầu tiên sẽ là khởi động Excel nhá các bạn chú ý để khởi
+[00:14] động Excel nhá các bạn chú ý để khởi động Excel thì các bạn sẽ tích vào cái
+[00:16] động Excel thì các bạn sẽ tích vào cái nút start ở đây này Đấy sau đó các bạn
+[00:18] nút start ở đây này Đấy sau đó các bạn gọi xem thì ở trên cùng nó sẽ hiện cái
+[00:22] gọi xem thì ở trên cùng nó sẽ hiện cái ứng dụng excel nhé các bạn sẽ thích vào
+[00:23] ứng dụng excel nhé các bạn sẽ thích vào đây đấy thì một cái cửa sổ Excel đã được
+[00:27] đây đấy thì một cái cửa sổ Excel đã được mở ra các bạn chú ý nhá Cái mặt định ở
+[00:29] mở ra các bạn chú ý nhá Cái mặt định ở đây là cái thẻ hôm ở đây là có cái thành
+[00:32] đây là cái thẻ hôm ở đây là có cái thành phần blank book tức là các bạn mở một
+[00:34] phần blank book tức là các bạn mở một cái váy xòe trắng chưa có gì đúng ạ bên
+[00:37] cái váy xòe trắng chưa có gì đúng ạ bên này đã các cái Toto tức là các cái hướng
+[00:39] này đã các cái Toto tức là các cái hướng dẫn cơ bản của Excel nhé để có thể tích
+[00:42] dẫn cơ bản của Excel nhé để có thể tích vào đây để các bạn xem nhé Ở dưới này là
+[00:44] vào đây để các bạn xem nhé Ở dưới này là cái file Excel gần nhất mà các bạn đã sử
+[00:47] cái file Excel gần nhất mà các bạn đã sử dụng trước đó nhá Ngoài ra thì ở đây là
+[00:49] dụng trước đó nhá Ngoài ra thì ở đây là cái phần lưu để các bạn thể tạo một cái
+[00:51] cái phần lưu để các bạn thể tạo một cái file mới ở đây là Open để các bạn có thể
+[00:54] file mới ở đây là Open để các bạn có thể mở file Excel và gọn muốn mở lại thì
+[00:58] mở file Excel và gọn muốn mở lại thì trong cái loạt bài Excel cơ bản đến nước
+[01:00] trong cái loạt bài Excel cơ bản đến nước Ừ thì các bạn sẽ thích chọn cho mình là
+[01:01] Ừ thì các bạn sẽ thích chọn cho mình là cái blank Facebook đi Đấy sau khi các
+[01:06] cái blank Facebook đi Đấy sau khi các bạn tích vào em like Facebook thì đợi nó
+[01:08] bạn tích vào em like Facebook thì đợi nó sẽ mở một cái file Excel trắng cho các
+[01:10] sẽ mở một cái file Excel trắng cho các bạn nhá thì mặc định của Excel ở đây nó
+[01:12] bạn nhá thì mặc định của Excel ở đây nó sẽ là mốc 1 Để Nếu như các bạn mở Excel
+[01:14] sẽ là mốc 1 Để Nếu như các bạn mở Excel nhiều lần thì nó sẽ là bốc hoa lúc 3 Đây
+[01:17] nhiều lần thì nó sẽ là bốc hoa lúc 3 Đây là cái tên mặc định á thì đầu tiên các
+[01:19] là cái tên mặc định á thì đầu tiên các bạn cần đặt tên file cho nó nhá giống
+[01:22] bạn cần đặt tên file cho nó nhá giống như khi các bạn sinh một em bé thì có
+[01:23] như khi các bạn sinh một em bé thì có phải đặt tên cho nó đúng không ạ lại
+[01:25] phải đặt tên cho nó đúng không ạ lại thịt để đặt tên file các bạn sẽ thích
+[01:27] thịt để đặt tên file các bạn sẽ thích vào cái chữ file này các bạn sẽ chọn xếp
+[01:31] vào cái chữ file này các bạn sẽ chọn xếp ở đây sau đó các bạn sẽ chọn cái nơi mà
+[01:34] ở đây sau đó các bạn sẽ chọn cái nơi mà các bạn chứa cái phải xem này hoặc các
+[01:36] các bạn chứa cái phải xem này hoặc các bạn có thể tích và cái browse để ví dụ
+[01:38] bạn có thể tích và cái browse để ví dụ mình như ra destop đi đấy các bạn thích
+[01:41] mình như ra destop đi đấy các bạn thích trên desktop và mình sẽ chọn cái gì
+[01:42] trên desktop và mình sẽ chọn cái gì Excel cơ bản đến nâng cao đấy thì tốt
+[01:45] Excel cơ bản đến nâng cao đấy thì tốt nhất tất cả các file tải về Mình sẽ lưu
+[01:47] nhất tất cả các file tải về Mình sẽ lưu vào cái folder là Excel cơ bản đến nâng
+[01:50] vào cái folder là Excel cơ bản đến nâng cao ở cái destop đi đấy ví dụ mình đang
+[01:52] cao ở cái destop đi đấy ví dụ mình đang làm ở cái bài số 1 Đúng không các bạn sẽ
+[01:54] làm ở cái bài số 1 Đúng không các bạn sẽ thích và 7 bài 1 ở đây qua lưu vào đây
+[01:56] thích và 7 bài 1 ở đây qua lưu vào đây đây ví dụ mình đặt tên nhá thì trong cái
+[01:59] đây ví dụ mình đặt tên nhá thì trong cái phần file với là cái phần để các bạn đặt
+[02:01] phần file với là cái phần để các bạn đặt tên đúng không Ví dụ mình đặt tên là bài
+[02:03] tên đúng không Ví dụ mình đặt tên là bài số 1 đấy là còn khách ra là làm quen làm
+[02:09] số 1 đấy là còn khách ra là làm quen làm quen với excel Đây Rồi sau đó còn muốn
+[02:14] quen với excel Đây Rồi sau đó còn muốn xếp thì các chú ý nhá ở đây sau khi các
+[02:17] xếp thì các chú ý nhá ở đây sau khi các bạn đặt tên thì nó sẽ là cái tên bài số
+[02:19] bạn đặt tên thì nó sẽ là cái tên bài số 1 làm quen với file Excel để còn chú ý
+[02:23] 1 làm quen với file Excel để còn chú ý nha Cái vùng rộng nhất trên màn hình mà
+[02:25] nha Cái vùng rộng nhất trên màn hình mà các bạn nhìn thấy ở đây này chính là các
+[02:27] các bạn nhìn thấy ở đây này chính là các ô của Excel thì các bạn có thể tích vào
+[02:29] ô của Excel thì các bạn có thể tích vào bất kỳ video nào
+[02:31] bất kỳ video nào ô hay còn gọi là các Cell nhá thì mỗi
+[02:33] ô hay còn gọi là các Cell nhá thì mỗi một xe ở đây thì nó sẽ được tạo thành
+[02:35] một xe ở đây thì nó sẽ được tạo thành bởi diện bởi một cái mát trận cột và ma
+[02:38] bởi diện bởi một cái mát trận cột và ma trận hàng ở đây thì các cái cột trong
+[02:41] trận hàng ở đây thì các cái cột trong file Excel nó sẽ được đánh số theo chữ
+[02:44] file Excel nó sẽ được đánh số theo chữ cái từ A này BC đấy còn các cái hành thì
+[02:49] cái từ A này BC đấy còn các cái hành thì nó sẽ được đánh số từ 1 đến 2 đến 3 lại
+[02:51] nó sẽ được đánh số từ 1 đến 2 đến 3 lại cứ như vậy nhá trong Excel từ 2007 trở
+[02:54] cứ như vậy nhá trong Excel từ 2007 trở đi thì nó đã có hơn một triệu hàng và
+[02:57] đi thì nó đã có hơn một triệu hàng và hơn 16.000 Cột rồi cho nên cái ở đây rất
+[03:00] hơn 16.000 Cột rồi cho nên cái ở đây rất là lớn các bạn có thể nhập thoải mái nhá
+[03:02] là lớn các bạn có thể nhập thoải mái nhá ví dụ các bạn tích vào một ô bất kỳ ở
+[03:04] ví dụ các bạn tích vào một ô bất kỳ ở đây ví dụ như các bạn thích và luôn này
+[03:06] đây ví dụ như các bạn thích và luôn này nhá thì các bạn sẽ thấy ô này nó sẽ ở
+[03:08] nhá thì các bạn sẽ thấy ô này nó sẽ ở cái cột b và ở hàng số 2 đúng không ạ
+[03:11] cái cột b và ở hàng số 2 đúng không ạ Các bạn sẽ thấy cái cột b này nó hơi bôi
+[03:13] Các bạn sẽ thấy cái cột b này nó hơi bôi đậm lên một tí và cái hành số 2 này nó
+[03:16] đậm lên một tí và cái hành số 2 này nó cũng hơi vui động lên một tí và các bạn
+[03:18] cũng hơi vui động lên một tí và các bạn sẽ nhìn ở đây Cái này con trỏ vào đây
+[03:20] sẽ nhìn ở đây Cái này con trỏ vào đây này nó gọi là lên móc tức là tên của cái
+[03:23] này nó gọi là lên móc tức là tên của cái ô mà các bạn thích vào đấy ví dụ Các bạn
+[03:24] ô mà các bạn thích vào đấy ví dụ Các bạn thích vào đây nhá thì nó ở cái cột thép
+[03:27] thích vào đây nhá thì nó ở cái cột thép và hàng số 2 thì trong cái phần nhưng
+[03:29] và hàng số 2 thì trong cái phần nhưng bác vào đây này nó sẽ hiện ở F2 đ
+[03:31] bác vào đây này nó sẽ hiện ở F2 đ nó khá là hay ạ Các bạn thích và mỗi bất
+[03:33] nó khá là hay ạ Các bạn thích và mỗi bất kỳ ở đây thì trong kinh niên Móc nó sẽ
+[03:35] kỳ ở đây thì trong kinh niên Móc nó sẽ thể hiện cái ô đấy địa chỉ là gì đây là
+[03:38] thể hiện cái ô đấy địa chỉ là gì đây là cột e và hàng số 7 đấy tiếp theo mình sẽ
+[03:41] cột e và hàng số 7 đấy tiếp theo mình sẽ giới thiệu với các bạn về các cái kiểu
+[03:43] giới thiệu với các bạn về các cái kiểu dữ liệu trong Excel nhá Thì với mỗi một
+[03:45] dữ liệu trong Excel nhá Thì với mỗi một oxcel này thì nó sẽ chứa các các kiểu dữ
+[03:48] oxcel này thì nó sẽ chứa các các kiểu dữ liệu khác nhau thì thông thường sẽ có
+[03:50] liệu khác nhau thì thông thường sẽ có bốn cái kiểu dữ liệu đầu tiên là cái
+[03:52] bốn cái kiểu dữ liệu đầu tiên là cái kiểu dữ liệu chuỗi hay còn gọi là kiểu
+[03:54] kiểu dữ liệu chuỗi hay còn gọi là kiểu Tech lại thì ví dụ các bạn ghi ở đây là
+[03:56] Tech lại thì ví dụ các bạn ghi ở đây là dịp họ tên chẳng hạn thế nhá đây sau khi
+[04:00] dịp họ tên chẳng hạn thế nhá đây sau khi các bạn Nhập xong nhá thì có thể bấm
+[04:01] các bạn Nhập xong nhá thì có thể bấm enter để các bạn kết thúc công việc nhập
+[04:03] enter để các bạn kết thúc công việc nhập này đấy thì nó sẽ mặc định nó sẽ xuống
+[04:05] này đấy thì nó sẽ mặc định nó sẽ xuống dưới này hoặc là gì ạ Ví dụ ở đây là
+[04:08] dưới này hoặc là gì ạ Ví dụ ở đây là ngày sinh thì nếu như mà sau khi bạn
+[04:11] ngày sinh thì nếu như mà sau khi bạn Nhập xong nhá thì ngoài cái cách mà các
+[04:13] Nhập xong nhá thì ngoài cái cách mà các bạn bấm enter thì các bạn có thể tích
+[04:15] bạn bấm enter thì các bạn có thể tích chuột vào cái ô bên cạnh hoặc các bạn
+[04:16] chuột vào cái ô bên cạnh hoặc các bạn thích chuột ra ngoài Ví dụ mình thích
+[04:18] thích chuột ra ngoài Ví dụ mình thích tuột vào Cái ô này thì coi như là lúc
+[04:20] tuột vào Cái ô này thì coi như là lúc nãy mình đã nhập xong hết một ngày sinh
+[04:21] nãy mình đã nhập xong hết một ngày sinh đúng ạ Đấy ví dụ ở đây mình đi là gì ạ
+[04:23] đúng ạ Đấy ví dụ ở đây mình đi là gì ạ Ví dụ ở đây là điểm Excel nhé Thì mình
+[04:26] Ví dụ ở đây là điểm Excel nhé Thì mình sẽ ghi là Excel bên này sẽ là nhẹ vuốt
+[04:28] sẽ ghi là Excel bên này sẽ là nhẹ vuốt này à
+[04:30] này à Ở đây các bạn enter bên này sẽ là gì ạ
+[04:33] Ở đây các bạn enter bên này sẽ là gì ạ ví dụ là PowerPoint đi để gọi enter tiếp
+[04:37] ví dụ là PowerPoint đi để gọi enter tiếp theo là mẹ mình Ví dụ mình nhập họ tên
+[04:38] theo là mẹ mình Ví dụ mình nhập họ tên của một bạn đấy ví dụ ở đây là gì ạ
+[04:40] của một bạn đấy ví dụ ở đây là gì ạ Nguyễn Văn A đi Nguyễn Văn A nhá rồi còn
+[04:44] Nguyễn Văn A đi Nguyễn Văn A nhá rồi còn enter sau đó bạn Di chuột lên giữa cột C
+[04:47] enter sau đó bạn Di chuột lên giữa cột C và cột b đây này các bạn sẽ thích giữa
+[04:49] và cột b đây này các bạn sẽ thích giữa cái cột C của bên này nó hiện cái mũi
+[04:51] cái cột C của bên này nó hiện cái mũi tên kẽm gai viên thì còn tích tụ vào đây
+[04:53] tên kẽm gai viên thì còn tích tụ vào đây Đấy thì nó sẽ mở rộng các cột C là do
+[04:55] Đấy thì nó sẽ mở rộng các cột C là do các bạn nhá Đấy và các bạn giữ được trái
+[04:57] các bạn nhá Đấy và các bạn giữ được trái còn kéo này Đấy nó cũng mở rộng cột C
+[05:00] còn kéo này Đấy nó cũng mở rộng cột C các bạn giữ được trái hoặc kéo nhá Để
+[05:02] các bạn giữ được trái hoặc kéo nhá Để lâu mở rộng cái họ tên ở đây ra cho gọn
+[05:04] lâu mở rộng cái họ tên ở đây ra cho gọn dễ nhìn thôi nhá tiếp theo là gì Các bạn
+[05:07] dễ nhìn thôi nhá tiếp theo là gì Các bạn có thể nhập cái kiểu dữ liệu là ngày
+[05:08] có thể nhập cái kiểu dữ liệu là ngày tháng thì trong các trường hợp ngày sinh
+[05:10] tháng thì trong các trường hợp ngày sinh ở đây là ngày tháng đúng không ạ thì
+[05:12] ở đây là ngày tháng đúng không ạ thì thông thường trong Excel các bạn sẽ nhập
+[05:13] thông thường trong Excel các bạn sẽ nhập tháng trước và đến ngày xông lên đến năm
+[05:15] tháng trước và đến ngày xông lên đến năm đấy là cánh thông thường là mặc định
+[05:18] đấy là cánh thông thường là mặc định thôi nhá lấy ví dụ là gì ạ ví dụ là
+[05:20] thôi nhá lấy ví dụ là gì ạ ví dụ là tháng 9 này ngày bao nhiêu Ví dụ như là
+[05:23] tháng 9 này ngày bao nhiêu Ví dụ như là ngày 25 năm bao nhiêu bạn năm 2020 hạn
+[05:26] ngày 25 năm bao nhiêu bạn năm 2020 hạn thứ nhất tao enter đấy thì đây là cái
+[05:28] thứ nhất tao enter đấy thì đây là cái ngày sinh tương tự thì các bạn ạ
+[05:30] ngày sinh tương tự thì các bạn ạ ở cột b và bột e các bạn giữ chuột trái
+[05:32] ở cột b và bột e các bạn giữ chuột trái và kéo rộng gây ô ô các bạn kéo rộng các
+[05:35] và kéo rộng gây ô ô các bạn kéo rộng các cột đây này ra đấy Tiếp theo là cái kiểu
+[05:39] cột đây này ra đấy Tiếp theo là cái kiểu số liệu thì có thể là kiểu số nhé ví dụ
+[05:41] số liệu thì có thể là kiểu số nhé ví dụ như điểm Excel là 8 điểm đi đấy các bạn
+[05:43] như điểm Excel là 8 điểm đi đấy các bạn ấn Mũi Tên Xanh đây cũng được coi như là
+[05:45] ấn Mũi Tên Xanh đây cũng được coi như là các bạn Nhập xong nhé điểm vuốt là
+[05:47] các bạn Nhập xong nhé điểm vuốt là gìđiểm vuốt ví dụ là 9 điểm thấy cô ấy
+[05:50] gìđiểm vuốt ví dụ là 9 điểm thấy cô ấy mũi tên sang phải là ví dụ điểm
+[05:52] mũi tên sang phải là ví dụ điểm PowerPoint là 10 điểm đi đấy các bạn
+[05:54] PowerPoint là 10 điểm đi đấy các bạn enter như vậy Ở đây mình có một số
+[05:56] enter như vậy Ở đây mình có một số trường là Diệp đây trường Tết này chiều
+[06:00] trường là Diệp đây trường Tết này chiều ngày tháng trường số đấy ví dụ một chấm
+[06:03] ngày tháng trường số đấy ví dụ một chấm công thức nhá ở đây mình sẽ nhập vào
+[06:05] công thức nhá ở đây mình sẽ nhập vào diện đây là tổng điểm đi đấy công thức
+[06:09] diện đây là tổng điểm đi đấy công thức thì bạn có thể bằng xong này sau đó gọn
+[06:12] thì bạn có thể bằng xong này sau đó gọn Model ba cái ô này có giữ chuột trái và
+[06:14] Model ba cái ô này có giữ chuột trái và các bạn kéo sang nhá từ bof4 đến OVA 4
+[06:17] các bạn kéo sang nhá từ bof4 đến OVA 4 này đấy các bạn em tư đấy nó sẽ ra tổng
+[06:20] này đấy các bạn em tư đấy nó sẽ ra tổng điểm 27 Đây là cái dữ liệu kiểu công
+[06:22] điểm 27 Đây là cái dữ liệu kiểu công thức nhá các bạn đừng quá lo lắng về các
+[06:25] thức nhá các bạn đừng quá lo lắng về các công thức này nha mình sẽ giải thích
+[06:26] công thức này nha mình sẽ giải thích trong các bài học ở phía sau nhá thì đây
+[06:29] trong các bài học ở phía sau nhá thì đây là mình muốn giải thích cho các bạn
+[06:30] là mình muốn giải thích cho các bạn các kiểu dữ liệu thôi Chỉ như vậy toàn
+[06:33] các kiểu dữ liệu thôi Chỉ như vậy toàn thủy cho mình nhé Có 4 kiểu dữ liệu phổ
+[06:35] thủy cho mình nhé Có 4 kiểu dữ liệu phổ biến nhất trong Excel là việc đầu tiên
+[06:37] biến nhất trong Excel là việc đầu tiên là kiểu chuỗi đây chính là kiểu chữ i ở
+[06:39] là kiểu chuỗi đây chính là kiểu chữ i ở đây thứ hai là kiểu ngày tháng thì con
+[06:42] đây thứ hai là kiểu ngày tháng thì con Thúy Nga mặc định nó sẽ thường là nó sẽ
+[06:44] Thúy Nga mặc định nó sẽ thường là nó sẽ để tháng trước sau đến ngày thôi đến năm
+[06:46] để tháng trước sau đến ngày thôi đến năm thì các bạn phải nhập tháng ngày đến 5
+[06:48] thì các bạn phải nhập tháng ngày đến 5 nhá tiếp theo là tiểu dữ liệu số nhá đã
+[06:51] nhá tiếp theo là tiểu dữ liệu số nhá đã gọi Nhật số vào đây và cách kiểu dữ liệu
+[06:54] gọi Nhật số vào đây và cách kiểu dữ liệu Tiếp theo là cái kiểu dữ liệu công thức
+[06:55] Tiếp theo là cái kiểu dữ liệu công thức này các bạn sẽ tổng điểm ở đây là cái
+[06:57] này các bạn sẽ tổng điểm ở đây là cái kiểu công thức đúng không Bạn cái môn
+[06:59] kiểu công thức đúng không Bạn cái môn này tám cộng 9 + 10 thì nó sẽ ra là 27
+[07:01] này tám cộng 9 + 10 thì nó sẽ ra là 27 Đúng đây là cái kiểu công thức Các bạn
+[07:04] Đúng đây là cái kiểu công thức Các bạn nhìn xuống dưới này các bạn sẽ thấy ở
+[07:05] nhìn xuống dưới này các bạn sẽ thấy ở đây là ship một đấy thì các bạn tưởng
+[07:08] đây là ship một đấy thì các bạn tưởng tượng nhé cái file này nó giống như một
+[07:09] tượng nhé cái file này nó giống như một quyển sách này quyển sách nó sẽ có nhiều
+[07:12] quyển sách này quyển sách nó sẽ có nhiều Trang đúng không Thì cái ship một ở đây
+[07:14] Trang đúng không Thì cái ship một ở đây coi như là một trang và Nếu như các bạn
+[07:15] coi như là một trang và Nếu như các bạn muốn thêm một cái sim mới để thêm cái
+[07:17] muốn thêm một cái sim mới để thêm cái trang thứ 2 thì qua sự tích mà cái dấu
+[07:20] trang thứ 2 thì qua sự tích mà cái dấu cộng ở đây để các bạn sẽ phạm của các sĩ
+[07:21] cộng ở đây để các bạn sẽ phạm của các sĩ mới này đấy thì nó sẽ mặc định cái sim
+[07:24] mới này đấy thì nó sẽ mặc định cái sim mới xem nào ship hay đấy Nếu các bạn
+[07:26] mới xem nào ship hay đấy Nếu các bạn muốn thêm một ít thì có bạn lại thích
+[07:28] muốn thêm một ít thì có bạn lại thích cộng vào đây thì các bạn sẽ có 3 xít đấy
+[07:30] cộng vào đây thì các bạn sẽ có 3 xít đấy thì các bạn muốn bao nhiêu xít thì gọi
+[07:32] thì các bạn muốn bao nhiêu xít thì gọi xem tích dấu cộng với Đây nhá Đấy bây
+[07:35] xem tích dấu cộng với Đây nhá Đấy bây giờ để sang ship một định thì bạn Di
+[07:36] giờ để sang ship một định thì bạn Di chuột đến vsip1 này các bạn Kích chuột
+[07:38] chuột đến vsip1 này các bạn Kích chuột trái vào đây nhá Đấy thì nó sẽ chuyển về
+[07:40] trái vào đây nhá Đấy thì nó sẽ chuyển về cái xích một để đổi tên cho cái sim này
+[07:43] cái xích một để đổi tên cho cái sim này thì các bạn sẽ thích đút cho trái đây
+[07:45] thì các bạn sẽ thích đút cho trái đây này để còn tiếng luôn vào đây để các bạn
+[07:47] này để còn tiếng luôn vào đây để các bạn đổi tên Ví dụ ở đây là gì đây là ví dụ
+[07:50] đổi tên Ví dụ ở đây là gì đây là ví dụ mình đi vào phòng tài chính đi nhé Nó
+[07:51] mình đi vào phòng tài chính đi nhé Nó gọi enter để kết thúc cái việc đổi tên
+[07:54] gọi enter để kết thúc cái việc đổi tên sheet thì con sẽ đánh ghen tơi nhá ngoài
+[07:57] sheet thì con sẽ đánh ghen tơi nhá ngoài ra Ví dụ cái ship hay này các bạn muốn
+[07:59] ra Ví dụ cái ship hay này các bạn muốn đổi tên nha con có thể nháy chuột phải
+[08:00] đổi tên nha con có thể nháy chuột phải này các bạn sẽ chọn cái Dinh đêm ở đây
+[08:02] này các bạn sẽ chọn cái Dinh đêm ở đây để qua đổi tên này đại Ví dụ mình đổi
+[08:05] để qua đổi tên này đại Ví dụ mình đổi tên ở đây là gì Đây là phòng tổ chức lao
+[08:07] tên ở đây là gì Đây là phòng tổ chức lao động đấy Cái sheet 3 này các bạn tích
+[08:12] động đấy Cái sheet 3 này các bạn tích lũy vào đây ví dụ mình biết là dự phòng
+[08:14] lũy vào đây ví dụ mình biết là dự phòng thiết kế toán đi nhá Đấy để kết thúc em
+[08:19] thiết kế toán đi nhá Đấy để kết thúc em việc đổi tiêu chí này các bạn sẽ bấm
+[08:20] việc đổi tiêu chí này các bạn sẽ bấm enter để như vậy đây mình có 3 phòng
+[08:22] enter để như vậy đây mình có 3 phòng không ạ Đây là cái cách cách thông
+[08:24] không ạ Đây là cái cách cách thông thường để mình sẽ tạo cái sheet khác
+[08:26] thường để mình sẽ tạo cái sheet khác nhau đúng không ạ Ok mình sẽ hướng dẫn
+[08:28] nhau đúng không ạ Ok mình sẽ hướng dẫn các bạn một cái mẹo để mình tạm một cái
+[08:30] các bạn một cái mẹo để mình tạm một cái ship đấy thì mình làm như thế nào chào
+[08:32] ship đấy thì mình làm như thế nào chào các bạn sẽ giữ control lại còn giữ được
+[08:35] các bạn sẽ giữ control lại còn giữ được trái và cái phòng tài chính này để bạn
+[08:37] trái và cái phòng tài chính này để bạn xếp kéo cái con chuột sang đây Các bạn
+[08:39] xếp kéo cái con chuột sang đây Các bạn chú ý là các bạn phải giữ thật trái và
+[08:41] chú ý là các bạn phải giữ thật trái và còn giữ phím cần cho bạn kéo sang đây
+[08:43] còn giữ phím cần cho bạn kéo sang đây nhá sau đó có bỏ cái chuột trái ra đấy
+[08:46] nhá sau đó có bỏ cái chuột trái ra đấy và các bạn bỏ phím tiền chuyên gia Tức
+[08:48] và các bạn bỏ phím tiền chuyên gia Tức là nó sẽ copy cái ship của phòng tài
+[08:49] là nó sẽ copy cái ship của phòng tài chính sang đây đấy thì nó sẽ thêm các
+[08:51] chính sang đây đấy thì nó sẽ thêm các tiền tố là viết số 2 này để phân biệt
+[08:53] tiền tố là viết số 2 này để phân biệt hai cái sheet khác nhau đúng không Bây
+[08:55] hai cái sheet khác nhau đúng không Bây giờ các bạn sẽ tích lũy ở đây để qua đổi
+[08:57] giờ các bạn sẽ tích lũy ở đây để qua đổi tên là đấy ví dụ ở đây là gì Đây là
+[08:59] tên là đấy ví dụ ở đây là gì Đây là phòng nhưng ở phòng kế hoạch đi nhá Đây
+[09:02] phòng nhưng ở phòng kế hoạch đi nhá Đây thì ok lúc này các bạn sẽ nhập thông tin
+[09:04] thì ok lúc này các bạn sẽ nhập thông tin của các phòng kế hoạch của đây Bây giờ
+[09:06] của các phòng kế hoạch của đây Bây giờ mình sẽ quay lại xích đầu tiên là cái
+[09:08] mình sẽ quay lại xích đầu tiên là cái phòng tài chính đúng ạ Đấy Cách thứ 2 để
+[09:11] phòng tài chính đúng ạ Đấy Cách thứ 2 để mình tạo một cái xít mới là diệt các bạn
+[09:13] mình tạo một cái xít mới là diệt các bạn có thể nhấn chuột phải vào đây
+[09:14] có thể nhấn chuột phải vào đây anh ngu appear đấy thì nó sẽ có hai cái
+[09:18] anh ngu appear đấy thì nó sẽ có hai cái tùy chọn nha Cái tube ở đây này nếu như
+[09:21] tùy chọn nha Cái tube ở đây này nếu như mà các bạn tại một cái xít mới nó vẫn
+[09:24] mà các bạn tại một cái xít mới nó vẫn nằm trong file này thì các bạn cứ tích
+[09:25] nằm trong file này thì các bạn cứ tích vào file này còn nếu như các bạn tích
+[09:27] vào file này còn nếu như các bạn tích vào cái như Facebook thì nó sẽ tạo một
+[09:29] vào cái như Facebook thì nó sẽ tạo một cái file Excel mới nhá thì ở đây mình sẽ
+[09:31] cái file Excel mới nhá thì ở đây mình sẽ vẫn thích và bài số 1 ở đây đi đấy các
+[09:34] vẫn thích và bài số 1 ở đây đi đấy các bạn sẽ ngu tụi em thì các bạn nghĩa là
+[09:36] bạn sẽ ngu tụi em thì các bạn nghĩa là các bạn sẽ tạo một cái sim mới xuống
+[09:38] các bạn sẽ tạo một cái sim mới xuống cuối cùng của Đây đây nếu như các bạn
+[09:40] cuối cùng của Đây đây nếu như các bạn thích created copy thì nó sẽ tạo một cái
+[09:43] thích created copy thì nó sẽ tạo một cái sim mới vào nó giữ nguyên cái ship phòng
+[09:45] sim mới vào nó giữ nguyên cái ship phòng tài chính ở đây nếu các bạn không thích
+[09:47] tài chính ở đây nếu các bạn không thích mà cái clip copy thì nó sẽ di chuyển cái
+[09:50] mà cái clip copy thì nó sẽ di chuyển cái này xuống cuối Ví dụ mình di chuyển thức
+[09:52] này xuống cuối Ví dụ mình di chuyển thức cuối này các bạn sẽ bấm ok thì như vậy
+[09:54] cuối này các bạn sẽ bấm ok thì như vậy Cái phòng tài chính sẽ di chuyển giúp
+[09:55] Cái phòng tài chính sẽ di chuyển giúp cuối đúng không Bây giờ mình muốn cái
+[09:57] cuối đúng không Bây giờ mình muốn cái phòng tài chính này lên cái sĩ đầu tiên
+[09:59] phòng tài chính này lên cái sĩ đầu tiên của các bạn sẽ gì ở các bạn sẽ giữ chuột
+[10:01] của các bạn sẽ gì ở các bạn sẽ giữ chuột trái vào cái xếp phòng tài chính và các
+[10:03] trái vào cái xếp phòng tài chính và các bạn Duy lên đầu tiên này để sau đó còn
+[10:05] bạn Duy lên đầu tiên này để sau đó còn bỏ chữa cháy ra đấy thì như vậy Cái
+[10:07] bỏ chữa cháy ra đấy thì như vậy Cái phòng tài chính này nó sẽ lên đầu tiên
+[10:08] phòng tài chính này nó sẽ lên đầu tiên vậy Giả sử mình muốn cái phòng kế hoạch
+[10:10] vậy Giả sử mình muốn cái phòng kế hoạch nằm sau cái phòng tài chính á thì các
+[10:12] nằm sau cái phòng tài chính á thì các bạn giữ chuột trái vào cái xếp kế hoạch
+[10:14] bạn giữ chuột trái vào cái xếp kế hoạch A Di nó sẽ vào giữa cái phòng tài chính
+[10:18] A Di nó sẽ vào giữa cái phòng tài chính và phòng tổ chức lao động đấy nó sẽ có
+[10:19] và phòng tổ chức lao động đấy nó sẽ có cái mũi tên Nhỏ đây này và các bạn bỏ từ
+[10:21] cái mũi tên Nhỏ đây này và các bạn bỏ từ trái ra thì như vậy Cái phòng kế hoạch
+[10:23] trái ra thì như vậy Cái phòng kế hoạch sẽ di chuyển ở giữa phòng tài chính và
+[10:25] sẽ di chuyển ở giữa phòng tài chính và phòng tổ chức lao động nhá lấy đoạn
+[10:27] phòng tổ chức lao động nhá lấy đoạn đường rất là hay ok để xóa sheet Chẳng
+[10:31] đường rất là hay ok để xóa sheet Chẳng hạn bây giờ mình muốn xóa cái ship phòng
+[10:33] hạn bây giờ mình muốn xóa cái ship phòng tổ chức lao động này có chi nhánh phải
+[10:34] tổ chức lao động này có chi nhánh phải một đây các bạn sẽ bấm Delete đấy để
+[10:36] một đây các bạn sẽ bấm Delete đấy để mình xóa ship đi đấy ngoài ra cái cách
+[10:40] mình xóa ship đi đấy ngoài ra cái cách mà để tạo một cái suýt nữa thì bạn có
+[10:42] mà để tạo một cái suýt nữa thì bạn có thể nhớ được Phải mà một sim bất kỳ Các
+[10:43] thể nhớ được Phải mà một sim bất kỳ Các bạn chọn Insert đấy và các bạn sẽ chọn
+[10:45] bạn chọn Insert đấy và các bạn sẽ chọn cái bô xít ở đây các bạn sẽ bấm ok đấy
+[10:48] cái bô xít ở đây các bạn sẽ bấm ok đấy cũng là một cách để các bạn sẽ thêm cái
+[10:50] cũng là một cách để các bạn sẽ thêm cái cuốc xít nhé nhưng thông thường mình ít
+[10:52] cuốc xít nhé nhưng thông thường mình ít dùng cách đấy mình có thể dùng cách tích
+[10:53] dùng cách đấy mình có thể dùng cách tích bỏ dấu cộng đây nó sẽ nhanh hơn bây giờ
+[10:55] bỏ dấu cộng đây nó sẽ nhanh hơn bây giờ giả sử mình muốn xóa cái ship5 vào cái
+[10:57] giả sử mình muốn xóa cái ship5 vào cái xếp phòng kế toán nhá thì các bạn gì À
+[10:59] xếp phòng kế toán nhá thì các bạn gì À còn sẽ tích và sinh năm này sau đó còn
+[11:01] còn sẽ tích và sinh năm này sau đó còn giữ cần chôn các bạn tích thêm vào cái
+[11:03] giữ cần chôn các bạn tích thêm vào cái phòng kế hoạch đấy thì như vậy hai cái
+[11:05] phòng kế hoạch đấy thì như vậy hai cái sim này đã được Boram rồi đúng không còn
+[11:07] sim này đã được Boram rồi đúng không còn nhớ được phải các bạn biết đi đấy như
+[11:09] nhớ được phải các bạn biết đi đấy như vậy là nó xóa hai cái sim rồi nhá Đấy là
+[11:12] vậy là nó xóa hai cái sim rồi nhá Đấy là cái cách mà có xóa nhiều sheet bằng cách
+[11:14] cái cách mà có xóa nhiều sheet bằng cách các bạn giữa
+[11:14] các bạn giữa các bạn lựa chọn các sheet Ở đây các bạn
+[11:17] các bạn lựa chọn các sheet Ở đây các bạn có thể tô màu cho cái tên xít ở đây ví
+[11:19] có thể tô màu cho cái tên xít ở đây ví dụ về phòng kế hoạch các bạn nhất định
+[11:20] dụ về phòng kế hoạch các bạn nhất định phải đây các bạn và phát KL Ví dụ mình
+[11:23] phải đây các bạn và phát KL Ví dụ mình cho nó màu đỏ đi để còn cái phòng Tài
+[11:25] cho nó màu đỏ đi để còn cái phòng Tài chính các bạn nhớ vi phạm pháp cơ thể
+[11:28] chính các bạn nhớ vi phạm pháp cơ thể bạn có thể chọn Nó màu xanh thì tùy các
+[11:30] bạn có thể chọn Nó màu xanh thì tùy các bạn nhé Đấy Ok như vậy là mình đã giới
+[11:34] bạn nhé Đấy Ok như vậy là mình đã giới thiệu qua cho bạn về các xít này rồi thì
+[11:37] thiệu qua cho bạn về các xít này rồi thì tại sao lại cần nhiều sheet thông thường
+[11:39] tại sao lại cần nhiều sheet thông thường mình cần nhiều sheet là gì Ví dụ mình có
+[11:41] mình cần nhiều sheet là gì Ví dụ mình có quản lý các cái phòng hoặc quản lý các
+[11:43] quản lý các cái phòng hoặc quản lý các nhân viên thì ví dụ mỗi một sheet là một
+[11:46] nhân viên thì ví dụ mỗi một sheet là một phòng hoặc mỗi một ít là một nhân viên
+[11:48] phòng hoặc mỗi một ít là một nhân viên hay mỗi một ít là một cái kế hoạch tháng
+[11:50] hay mỗi một ít là một cái kế hoạch tháng ví dụ tháng 11 sheet tháng Hai 1 sheet 2
+[11:53] ví dụ tháng 11 sheet tháng Hai 1 sheet 2 mỗi một ít là một lớp học thì tùy vào
+[11:55] mỗi một ít là một lớp học thì tùy vào cái mục đích của các bạn nhá để các bạn
+[11:57] cái mục đích của các bạn nhá để các bạn quản lý thì bạn sẽ tạo nhiều sheet cho
+[11:59] quản lý thì bạn sẽ tạo nhiều sheet cho nó tưởng minh hơn thôi đấy tiếp theo
+[12:02] nó tưởng minh hơn thôi đấy tiếp theo mình sẽ giới thiệu cho các bạn về hàng
+[12:04] mình sẽ giới thiệu cho các bạn về hàng và cột các bạn Thúy Nga mặc định cái
+[12:06] và cột các bạn Thúy Nga mặc định cái hàng và cố định thì các bạn tạo một cái
+[12:07] hàng và cố định thì các bạn tạo một cái file mới thì nó sẽ có độ rộng giống nhau
+[12:09] file mới thì nó sẽ có độ rộng giống nhau đấy ví dụ như cái cột C này mà họ tên
+[12:13] đấy ví dụ như cái cột C này mà họ tên các bạn muốn độ rộng rộng ra
+[12:14] các bạn muốn độ rộng rộng ra các bạn nên giữa các cột C của B vậy và
+[12:17] các bạn nên giữa các cột C của B vậy và các bạn giữ thật trái gọn kéo nhá Nếu
+[12:19] các bạn giữ thật trái gọn kéo nhá Nếu muốn rộng ra thì bạn kéo sang phải lại
+[12:21] muốn rộng ra thì bạn kéo sang phải lại còn nếu muốn coi vào thì qua kéo cháy
+[12:24] còn nếu muốn coi vào thì qua kéo cháy đấy Còn nếu như mà các bạn thích đúng
+[12:26] đấy Còn nếu như mà các bạn thích đúng thích thì là gì À cái độ rộng của nó sẽ
+[12:28] thích thì là gì À cái độ rộng của nó sẽ là bằng cái độ rộng của cái ôm dài nhất
+[12:31] là bằng cái độ rộng của cái ôm dài nhất còn tích đua vào đây là ví dụ cái ông
+[12:33] còn tích đua vào đây là ví dụ cái ông Nguyễn Văn A này dài nhất thì cái độ
+[12:35] Nguyễn Văn A này dài nhất thì cái độ rộng của nó nó sẽ vừa mới cả cái ô
+[12:37] rộng của nó nó sẽ vừa mới cả cái ô Nguyễn Văn A đấy ví dụ cái tổng điểm Đây
+[12:41] Nguyễn Văn A đấy ví dụ cái tổng điểm Đây này cái tổng điểm đang bị thiếu các bạn
+[12:42] này cái tổng điểm đang bị thiếu các bạn thích lúc vào giữa cái cô khác là còn y
+[12:44] thích lúc vào giữa cái cô khác là còn y nhá Có thích nút này đấy thì nó sẽ mở
+[12:46] nhá Có thích nút này đấy thì nó sẽ mở rộng các cột khác này để vừa cái ô tổng
+[12:48] rộng các cột khác này để vừa cái ô tổng điểm nữa đây đây ví dụ như cái cột f nhá
+[12:52] điểm nữa đây đây ví dụ như cái cột f nhá hoặc 1G đây này con thấy này cái độ rộng
+[12:55] hoặc 1G đây này con thấy này cái độ rộng này nó thừa so với cái tổng điểm Nếu như
+[12:57] này nó thừa so với cái tổng điểm Nếu như các bạn muốn ko vào ấy thì các bạn là gì
+[12:59] các bạn muốn ko vào ấy thì các bạn là gì Các bạn có thể giữ được trái Các bạn
+[13:00] Các bạn có thể giữ được trái Các bạn chọn nhiều cái cột cũng được thì sau đó
+[13:03] chọn nhiều cái cột cũng được thì sau đó bạn dùng các bạn sẽ kích đúp vào một cái
+[13:04] bạn dùng các bạn sẽ kích đúp vào một cái cột bất kỳ trong 3 cái cục này Ví dụ
+[13:07] cột bất kỳ trong 3 cái cục này Ví dụ mình chọn cái giữa cái cột a và cột f
+[13:09] mình chọn cái giữa cái cột a và cột f với nhá Đợi thì nó có cái mũi tên mà sẽ
+[13:12] với nhá Đợi thì nó có cái mũi tên mà sẽ hai bên này các tỉnh đổ vào đây đợi thì
+[13:14] hai bên này các tỉnh đổ vào đây đợi thì ba cái
+[13:14] ba cái How to lại để nó vừa với cả cái cột lớn
+[13:17] How to lại để nó vừa với cả cái cột lớn nhất ở đây đợi Nếu như cái cột
+[13:19] nhất ở đây đợi Nếu như cái cột PowerPoint này có muốn rộng ra một tí
+[13:21] PowerPoint này có muốn rộng ra một tí cho dễ nhìn thì bạn kéo ra đâu đấy thì
+[13:24] cho dễ nhìn thì bạn kéo ra đâu đấy thì tùy các bạn nhắc Nếu như các bạn Bôi đen
+[13:25] tùy các bạn nhắc Nếu như các bạn Bôi đen cả 3 cái cục này các bạn kéo ra một chút
+[13:28] cả 3 cái cục này các bạn kéo ra một chút thì cả ba cái cột này nó sẽ kéo ra một
+[13:30] thì cả ba cái cột này nó sẽ kéo ra một cái Độ rộng là bằng nhau nhá Đấy là cái
+[13:32] cái Độ rộng là bằng nhau nhá Đấy là cái cách mà mình sẽ co dãn cái độ rộng cột
+[13:35] cách mà mình sẽ co dãn cái độ rộng cột Ok để chèn một cuộc Nữa của em và cột f
+[13:38] Ok để chèn một cuộc Nữa của em và cột f thời hạn gì nhá thì các bạn sẽ tích vào
+[13:40] thời hạn gì nhá thì các bạn sẽ tích vào cái cột thép này các bạn nháy chuột phải
+[13:41] cái cột thép này các bạn nháy chuột phải và các bạn Insert đấy thì tức là mình sẽ
+[13:44] và các bạn Insert đấy thì tức là mình sẽ chèn một cột vào giữa cái cột thép và
+[13:46] chèn một cột vào giữa cái cột thép và một em lúc đấy thì cái kẹp lúc đấy nó sẽ
+[13:48] một em lúc đấy thì cái kẹp lúc đấy nó sẽ đẩy sang của g đúng không ạ thì tất cả
+[13:50] đẩy sang của g đúng không ạ thì tất cả cái cục nó sẽ bị dịch sang một ở đây và
+[13:52] cái cục nó sẽ bị dịch sang một ở đây và cái cột thép này mới ở đây mình sẽ tạo
+[13:54] cái cột thép này mới ở đây mình sẽ tạo thì ví dụ mình ở đây là điểm tiếng Anh
+[13:56] thì ví dụ mình ở đây là điểm tiếng Anh đi cái nạn thế đúng không đấy thì bạn sẽ
+[13:59] đi cái nạn thế đúng không đấy thì bạn sẽ thêm một đây Còn nếu như muốn thêm nhiều
+[14:01] thêm một đây Còn nếu như muốn thêm nhiều cô Ví dụ muốn thêm 2 cột sau cái cột em
+[14:04] cô Ví dụ muốn thêm 2 cột sau cái cột em hè thì họ sẽ Bôi đen cái cột f1g đây này
+[14:06] hè thì họ sẽ Bôi đen cái cột f1g đây này Đấy tức là mình sẽ mua Đen 2 cột và mình
+[14:08] Đấy tức là mình sẽ mua Đen 2 cột và mình nháy chuột phải Insert thì là gì nó sẽ Y
+[14:11] nháy chuột phải Insert thì là gì nó sẽ Y Dược hai cột đấy Còn nếu như muốn xóa
+[14:14] Dược hai cột đấy Còn nếu như muốn xóa cột
+[14:14] cột ý mình muốn xóa cái cột F là một người
+[14:16] ý mình muốn xóa cái cột F là một người nhá các bạn giữ thật trái các bạn Bôi
+[14:18] nhá các bạn giữ thật trái các bạn Bôi đen hai cái kẹp vào cuộc giờ này các bạn
+[14:20] đen hai cái kẹp vào cuộc giờ này các bạn nhé Được phải các bạn biết đi đấy Đấy là
+[14:23] nhé Được phải các bạn biết đi đấy Đấy là cách mình xóa cột Còn nếu như mà để lựa
+[14:25] cách mình xóa cột Còn nếu như mà để lựa chọn nhiều cái cột bằng cách nhau lại ví
+[14:27] chọn nhiều cái cột bằng cách nhau lại ví dụ B này thì còn thích ở cột b sau đó
+[14:29] dụ B này thì còn thích ở cột b sau đó bạn giữ cần trôi qua thích ở cột f đấy
+[14:32] bạn giữ cần trôi qua thích ở cột f đấy mà các bạn muốn chọn cái cột hát nữa thì
+[14:33] mà các bạn muốn chọn cái cột hát nữa thì bạn vẫn giữ cần chôn các bạn thích một
+[14:35] bạn vẫn giữ cần chôn các bạn thích một con hát Thì đấy là để mình lựa chọn
+[14:37] con hát Thì đấy là để mình lựa chọn nhiều cột và nó cách nhau đúng không
+[14:39] nhiều cột và nó cách nhau đúng không liên tục để ví dụ mình chèn ba cái cột
+[14:41] liên tục để ví dụ mình chèn ba cái cột trước cái cục mình chọn ở đây nha Thì
+[14:43] trước cái cục mình chọn ở đây nha Thì bạn nháy được phải của bạn sở đấy Thịt
+[14:46] bạn nháy được phải của bạn sở đấy Thịt ba cái cột mình chọn rồi đây này Nó sẽ
+[14:48] ba cái cột mình chọn rồi đây này Nó sẽ thêm 3 ở đây một này 23 đấy còn thấy cho
+[14:51] thêm 3 ở đây một này 23 đấy còn thấy cho Đấy bây giờ Xóa ba khổ này bằng cách các
+[14:53] Đấy bây giờ Xóa ba khổ này bằng cách các bạn tích vào cột này các bạn giữ cần cho
+[14:55] bạn tích vào cột này các bạn giữ cần cho để gọn giữa cần chôn các bạn thích ở cột
+[14:57] để gọn giữa cần chôn các bạn thích ở cột b Các bạn nhớ được cả các bạn biết đi Để
+[15:00] b Các bạn nhớ được cả các bạn biết đi Để như vậy mình đã xóa cái cột mình chọn
+[15:02] như vậy mình đã xóa cái cột mình chọn rồi nhé Khách hàng cũng vậy khách hàng
+[15:04] rồi nhé Khách hàng cũng vậy khách hàng thì tương tự như của tôi Các bạn muốn gì
+[15:06] thì tương tự như của tôi Các bạn muốn gì Các bạn muốn mở rộng cái độ rộng hàng
+[15:08] Các bạn muốn mở rộng cái độ rộng hàng thế cận kéo xuống đây để các bạn mở rộng
+[15:10] thế cận kéo xuống đây để các bạn mở rộng ra các bạn kéo lên để bạn thu hẹp và Thế
+[15:13] ra các bạn kéo lên để bạn thu hẹp và Thế còn nếu những
+[15:14] còn nếu những Ừ thì nó sẽ mở rộng các cột này để vừa
+[15:17] Ừ thì nó sẽ mở rộng các cột này để vừa mới cả cái độ rộng lại đây nhá tương tự
+[15:19] mới cả cái độ rộng lại đây nhá tương tự cái việc mà chèn hàng Ví dụ mình muốn
+[15:21] cái việc mà chèn hàng Ví dụ mình muốn chèn một cái hàng ở giữa cái hành số 3
+[15:24] chèn một cái hàng ở giữa cái hành số 3 và số 4 hú ạ thì các bạn sẽ tích vào cái
+[15:26] và số 4 hú ạ thì các bạn sẽ tích vào cái hành số 4 này còn nhớ được phạt các bạn
+[15:28] hành số 4 này còn nhớ được phạt các bạn Yên Sở đấy thì nó sẽ chèn một cái hàng ở
+[15:31] Yên Sở đấy thì nó sẽ chèn một cái hàng ở giữa các cuộc số 3 và số 4 vừa xong chỉ
+[15:33] giữa các cuộc số 3 và số 4 vừa xong chỉ các hành số 4 Vừa xong nó sẽ đẩy xuống
+[15:35] các hành số 4 Vừa xong nó sẽ đẩy xuống hàng số 5 này đấy vào một cái hàng mới ở
+[15:37] hàng số 5 này đấy vào một cái hàng mới ở cái hành số 4 được tạo ra đây lấy ví dụ
+[15:39] cái hành số 4 được tạo ra đây lấy ví dụ ở đây mình viết là Diện Nguyễn Nguyễn
+[15:43] ở đây mình viết là Diện Nguyễn Nguyễn Thị Nguyễn Thị ít đi ra đấy thì mình sẽ
+[15:48] Thị Nguyễn Thị ít đi ra đấy thì mình sẽ thêm được một cái bạn ở đây vào đây và
+[15:49] thêm được một cái bạn ở đây vào đây và các bạn sinh nhập các cái thành phần
+[15:51] các bạn sinh nhập các cái thành phần tương ứng nhá thì tương tự để xóa hàng
+[15:53] tương ứng nhá thì tương tự để xóa hàng thì bạn rất thích và Khách hàng cần xóa
+[15:54] thì bạn rất thích và Khách hàng cần xóa thôi Còn nếu như bạn muốn xóa nhiều hàng
+[15:57] thôi Còn nếu như bạn muốn xóa nhiều hàng thì bạn giữ thêm cái cần chôn Ví dụ mình
+[15:59] thì bạn giữ thêm cái cần chôn Ví dụ mình xóa cả hàng thứ hai đúng không các bạn
+[16:00] xóa cả hàng thứ hai đúng không các bạn sẽ tích vào cái hàng thứ hai này các bạn
+[16:02] sẽ tích vào cái hàng thứ hai này các bạn nhớ phải và các bạn nên ít đi thì như
+[16:04] nhớ phải và các bạn nên ít đi thì như vậy là nó xóa hai cái hàng vừa trộn vừa
+[16:06] vậy là nó xóa hai cái hàng vừa trộn vừa xong lúc ạ Để khá là hay ok bây giờ mà
+[16:10] xong lúc ạ Để khá là hay ok bây giờ mà để di chuyển hàng nhá Ví dụ mình sẽ tích
+[16:12] để di chuyển hàng nhá Ví dụ mình sẽ tích vào cái cột số 2 này để
+[16:14] vào cái cột số 2 này để nhà hàng này kỳ diệu các bạn rất tích
+[16:16] nhà hàng này kỳ diệu các bạn rất tích vận hành số 2 sau đó gọn Di chuột trái
+[16:19] vận hành số 2 sau đó gọn Di chuột trái đến một cái cạnh Bất kỳ khi mà nó có bốn
+[16:22] đến một cái cạnh Bất kỳ khi mà nó có bốn cái mũi tên ra bốn góc Vậy thì họ giữ
+[16:24] cái mũi tên ra bốn góc Vậy thì họ giữ được trái còn kéo đợi nếu như bạn muốn
+[16:27] được trái còn kéo đợi nếu như bạn muốn di chuyển số hàng số 6 thì cao kéo thông
+[16:30] di chuyển số hàng số 6 thì cao kéo thông đây đấy thì cái hành số 2 lúc đấy dữ
+[16:32] đây đấy thì cái hành số 2 lúc đấy dữ liệu nó sẽ kéo theo hàng số 6 này Bây
+[16:34] liệu nó sẽ kéo theo hàng số 6 này Bây giờ muốn di chuyển lên chị ạ Họ sẽ tích
+[16:36] giờ muốn di chuyển lên chị ạ Họ sẽ tích và một cảnh bất kỳ mà nó có cái mũi tên
+[16:38] và một cảnh bất kỳ mà nó có cái mũi tên này còn di chuyển lên đấy nó sẽ kéo lên
+[16:41] này còn di chuyển lên đấy nó sẽ kéo lên thì tương tự vậy Cái hộp này chẳng hạn
+[16:43] thì tương tự vậy Cái hộp này chẳng hạn nhé cái cột này mình muốn diện muốn cái
+[16:45] nhé cái cột này mình muốn diện muốn cái cột ngày sinh này nó xuống dưới cùng
+[16:47] cột ngày sinh này nó xuống dưới cùng đúng không Thì bạn sẽ kéo như một ngày
+[16:49] đúng không Thì bạn sẽ kéo như một ngày sinh hạ xuống dưới cùng có đây đấy thì
+[16:52] sinh hạ xuống dưới cùng có đây đấy thì lúc này cái cục này nó rỗng để tạo có
+[16:54] lúc này cái cục này nó rỗng để tạo có thể nhớ được phải của anh Billy đi bây
+[16:58] thể nhớ được phải của anh Billy đi bây giờ giả sử mình không phải là di chuyển
+[16:59] giờ giả sử mình không phải là di chuyển mà mình muốn chèn nhá bây giờ mình muốn
+[17:01] mà mình muốn chèn nhá bây giờ mình muốn chèn cái cột ngày sinh này giữa cái cột
+[17:04] chèn cái cột ngày sinh này giữa cái cột C và cuộc D thì mình làm như thế nào các
+[17:05] C và cuộc D thì mình làm như thế nào các bạn tích vào cái cột ngày sinh là của y
+[17:08] bạn tích vào cái cột ngày sinh là của y để đúng không các bạn cũng di chuyển và
+[17:10] để đúng không các bạn cũng di chuyển và một cái bất kỳ khi mà nó có 40 Mũi tên
+[17:12] một cái bất kỳ khi mà nó có 40 Mũi tên này khoảng giữa trái kéo và các bạn dữ
+[17:14] này khoảng giữa trái kéo và các bạn dữ em ship nha khi có bạn giữ phím sẽ bị
+[17:17] em ship nha khi có bạn giữ phím sẽ bị thì thay vì là lúc đấy lựa chọn cả cái
+[17:19] thì thay vì là lúc đấy lựa chọn cả cái cổ thì nó này nó nên lựa chọn các cây
+[17:21] cổ thì nó này nó nên lựa chọn các cây gạt này thôi đúng không ạ Để lúc nào nó
+[17:23] gạt này thôi đúng không ạ Để lúc nào nó sẽ chọn cái cột mà nằm giữa hai cái cột
+[17:25] sẽ chọn cái cột mà nằm giữa hai cái cột mà gọi chọn đây ví dụ mình nằm giữa vào
+[17:28] mà gọi chọn đây ví dụ mình nằm giữa vào cột C và cột b đấy nhá thì nó sẽ chèn
+[17:29] cột C và cột b đấy nhá thì nó sẽ chèn vào đây này Đấy còn giữ ship và bạn giữ
+[17:32] vào đây này Đấy còn giữ ship và bạn giữ được trái bây giờ có phải bỏ được trả
+[17:33] được trái bây giờ có phải bỏ được trả trước sau khi các bạn bỏ thật tráng rồi
+[17:36] trước sau khi các bạn bỏ thật tráng rồi thì các bạn với bọn miễn phí ra đấy thì
+[17:38] thì các bạn với bọn miễn phí ra đấy thì như vậy là cái cột ngày sinh đó đã được
+[17:39] như vậy là cái cột ngày sinh đó đã được di chuyển xuống đây đấy
+[17:41] di chuyển xuống đây đấy a tiếp theo mình sẽ giới thiệu với các
+[17:43] a tiếp theo mình sẽ giới thiệu với các bạn một nhóm Seo nhé một nhóm xem là gì
+[17:46] bạn một nhóm Seo nhé một nhóm xem là gì Giả sử mình Bôi đen một cái nhóm sao này
+[17:47] Giả sử mình Bôi đen một cái nhóm sao này đấy các bạn có thể di chuyển một cái
+[17:49] đấy các bạn có thể di chuyển một cái nhóm Xem này đấy cũng giống như các bạn
+[17:53] nhóm Xem này đấy cũng giống như các bạn di chuyển hàng và cổ thôi đấy còn gì
+[17:55] di chuyển hàng và cổ thôi đấy còn gì chuyển sang đây hoặc các bạn di chuyển
+[17:56] chuyển sang đây hoặc các bạn di chuyển lại nhé Phải con lại di chuyển về đây
+[17:58] lại nhé Phải con lại di chuyển về đây đây là cách để bạn di chuyển của nhóm
+[18:01] đây là cách để bạn di chuyển của nhóm xem đây là sử mình tặng một cái tên mới
+[18:04] xem đây là sử mình tặng một cái tên mới nhắc ví dụ là Nguyễn Văn B đi đấy ngày
+[18:10] nhắc ví dụ là Nguyễn Văn B đi đấy ngày sinh đã chọn có thể nhập bất kỳ ví dụ
+[18:11] sinh đã chọn có thể nhập bất kỳ ví dụ ngày mùng 1 tháng 1 năm lẻ hay 2019 Hạnh
+[18:16] ngày mùng 1 tháng 1 năm lẻ hay 2019 Hạnh Thế nhá thấy điện toán 7 là sáu là 8 đây
+[18:20] Thế nhá thấy điện toán 7 là sáu là 8 đây là 9 đi đây ví dụ cái cổng điểm vì xóa
+[18:23] là 9 đi đây ví dụ cái cổng điểm vì xóa đây nhá các bạn sẽ nháy được phải là cục
+[18:25] đây nhá các bạn sẽ nháy được phải là cục gì gọi live đi thì cái hàm thì mình sẽ
+[18:27] gì gọi live đi thì cái hàm thì mình sẽ nói là cái video sau nhé đấy tên điển
+[18:30] nói là cái video sau nhé đấy tên điển tiếng Anh ở đây ví dụ lớp 7 đi Đấy bây
+[18:32] tiếng Anh ở đây ví dụ lớp 7 đi Đấy bây giờ mình muốn kéo cái bạn Nguyễn Văn A
+[18:34] giờ mình muốn kéo cái bạn Nguyễn Văn A này sao bạn nữa b thì mình làm như thế
+[18:36] này sao bạn nữa b thì mình làm như thế nào thì bạn sẽ Donal với bạn Nguyễn Văn
+[18:38] nào thì bạn sẽ Donal với bạn Nguyễn Văn A này họ sẽ thích của một cách bất kỳ
+[18:40] A này họ sẽ thích của một cách bất kỳ khi vào nó
+[18:41] khi vào nó số tiền ra bốn góc thì bạn giữ được trái
+[18:44] số tiền ra bốn góc thì bạn giữ được trái cận kéo này sau đó bạn giữ thêm phím
+[18:46] cận kéo này sau đó bạn giữ thêm phím ship lại bạn sẽ tích vào giữa cái đây
+[18:49] ship lại bạn sẽ tích vào giữa cái đây này đây khi mà nó ở dưới cột b này và nó
+[18:53] này đây khi mà nó ở dưới cột b này và nó chỉ lựa chọn ở giữa hàng bốn hàng năm
+[18:55] chỉ lựa chọn ở giữa hàng bốn hàng năm thì các Bỏ từ trái ra về sau đó Toàn bỏ
+[18:58] thì các Bỏ từ trái ra về sau đó Toàn bỏ tím ship nữa đấy thì như vậy toàn bộ
+[19:00] tím ship nữa đấy thì như vậy toàn bộ thông tin của bạn Nguyễn Văn A này sẽ
+[19:01] thông tin của bạn Nguyễn Văn A này sẽ được dịch xuống đây để cậu thấy cũng rất
+[19:03] được dịch xuống đây để cậu thấy cũng rất là hay ở đây giả sử mình nhập nhầm cái
+[19:05] là hay ở đây giả sử mình nhập nhầm cái điểm của hai bạn này nhá bây giờ ví dụ
+[19:07] điểm của hai bạn này nhá bây giờ ví dụ bạn Nguyễn Văn B điểm lại ở dưới này cơ
+[19:09] bạn Nguyễn Văn B điểm lại ở dưới này cơ bạn Nguyễn Văn An địa điểm ở trên này cơ
+[19:11] bạn Nguyễn Văn An địa điểm ở trên này cơ thì mình là như thế nào giả sử bây giờ
+[19:13] thì mình là như thế nào giả sử bây giờ mình sẽ Model cái điểm của bạn Nguyễn
+[19:14] mình sẽ Model cái điểm của bạn Nguyễn Văn A này để đoạn giữa trái và các bạn
+[19:17] Văn A này để đoạn giữa trái và các bạn Duy nhá thì gọi sẽ lựa chọn được bốn cái
+[19:20] Duy nhá thì gọi sẽ lựa chọn được bốn cái điểm ở đây sau đó còn giữ ship này và
+[19:23] điểm ở đây sau đó còn giữ ship này và còn kéo cái này lên thì bạn sẽ kéo lên ở
+[19:25] còn kéo cái này lên thì bạn sẽ kéo lên ở giữa cái hành số 2 và số 3 đấy tuần bỏ
+[19:29] giữa cái hành số 2 và số 3 đấy tuần bỏ chữa cháy ra và các bạn bỏ phím ship ra
+[19:31] chữa cháy ra và các bạn bỏ phím ship ra rỡ như vậy mình đã hoán đổi điểm của hai
+[19:34] rỡ như vậy mình đã hoán đổi điểm của hai bạn này với nhau rồi đúng không ạ Đấy
+[19:35] bạn này với nhau rồi đúng không ạ Đấy khá là hay đấy là cái cách mà mình di
+[19:39] khá là hay đấy là cái cách mà mình di chuyển nhé ví dụ mình lựa chọn
+[19:41] chuyển nhé ví dụ mình lựa chọn ở vùng dữ liệu này nhá các bạn giữ được
+[19:43] ở vùng dữ liệu này nhá các bạn giữ được trái và các bạn kéo này thì mặc định ở
+[19:45] trái và các bạn kéo này thì mặc định ở cái nên bóp vào đây nó sẽ lựa chọn cái ô
+[19:47] cái nên bóp vào đây nó sẽ lựa chọn cái ô đầu tiên là cái oc2 này nhá Nhưng mà ở
+[19:49] đầu tiên là cái oc2 này nhá Nhưng mà ở đây mình muốn đặt tên cho toàn bộ vùng
+[19:51] đây mình muốn đặt tên cho toàn bộ vùng dữ liệu ở đây ví dụ mình đặt tên ở đây
+[19:53] dữ liệu ở đây ví dụ mình đặt tên ở đây là dịp ví dụ là phòng tài chính là hạn
+[19:55] là dịp ví dụ là phòng tài chính là hạn Thế nhá Để gọi m Bây giờ con thoát ra
+[19:58] Thế nhá Để gọi m Bây giờ con thoát ra con sẽ tích chuột vào một ô bất kỳ sau
+[20:01] con sẽ tích chuột vào một ô bất kỳ sau đó các bạn lên cái phần lên mốc này cái
+[20:03] đó các bạn lên cái phần lên mốc này cái phần tam giác nhỏ đấy còn tích vào đây
+[20:04] phần tam giác nhỏ đấy còn tích vào đây khi còn tích vào cái phòng tài chính thì
+[20:06] khi còn tích vào cái phòng tài chính thì mặc định nó sẽ lựa chọn toàn bộ các dữ
+[20:08] mặc định nó sẽ lựa chọn toàn bộ các dữ liệu của phòng tài chính mà mình đặt tên
+[20:10] liệu của phòng tài chính mà mình đặt tên Lúc nãy bạn đặt các bạn tích vào đâu bất
+[20:13] Lúc nãy bạn đặt các bạn tích vào đâu bất kỷ thì khi ngọn lên đây có thích vào đây
+[20:15] kỷ thì khi ngọn lên đây có thích vào đây Các bạn chọn phòng tài chính thì nó sẽ
+[20:17] Các bạn chọn phòng tài chính thì nó sẽ lựa chọn vùng dữ liệu của phòng tài
+[20:19] lựa chọn vùng dữ liệu của phòng tài chính mà mình đặt tên nước trước nhé đấy
+[20:22] chính mà mình đặt tên nước trước nhé đấy là cái phần mình đặt tên Ok sau khi các
+[20:25] là cái phần mình đặt tên Ok sau khi các bạn đã thao tác với các sheet cách hành
+[20:27] bạn đã thao tác với các sheet cách hành các cột rồi nhá Hoặc là các cái phạm vi
+[20:29] các cột rồi nhá Hoặc là các cái phạm vi rồi nhá bây giờ mình muốn lưu các file
+[20:31] rồi nhá bây giờ mình muốn lưu các file này cái lưu file nghĩa là gì thì lúc khi
+[20:34] này cái lưu file nghĩa là gì thì lúc khi mà các bạn đặt tên file thì nó chưa có
+[20:36] mà các bạn đặt tên file thì nó chưa có dữ liệu gì đúng không sau này các bạn
+[20:38] dữ liệu gì đúng không sau này các bạn cập nhật thêm để các bạn cập nhật thêm
+[20:40] cập nhật thêm để các bạn cập nhật thêm các thông tin của phòng Tài
+[20:41] các thông tin của phòng Tài mọi người các bạn tạo một cái sĩ là
+[20:43] mọi người các bạn tạo một cái sĩ là phòng kế hoạch bây giờ các bạn lưu file
+[20:45] phòng kế hoạch bây giờ các bạn lưu file này để nó sẽ cập nhật cái trạng thái mà
+[20:47] này để nó sẽ cập nhật cái trạng thái mà mình đã làm vừa sau muốn học cậu sẽ vào
+[20:49] mình đã làm vừa sau muốn học cậu sẽ vào đấy đẹp pha các bạn sẽ bấm Xếp đấy thì
+[20:52] đấy đẹp pha các bạn sẽ bấm Xếp đấy thì như vậy là cái file file bài số 1 làm
+[20:54] như vậy là cái file file bài số 1 làm quen với excel đã được cập nhật các
+[20:56] quen với excel đã được cập nhật các thông tin này rồi nhá bây giờ để đóng
+[20:59] thông tin này rồi nhá bây giờ để đóng file thì gọi sẽ tích vào cái dấu X ở
+[21:01] file thì gọi sẽ tích vào cái dấu X ở trên này để còn đóng pha nhá Khi có bạn
+[21:03] trên này để còn đóng pha nhá Khi có bạn trở vào Cái lỗi này nó sẽ có cái chữ Cờ
+[21:06] trở vào Cái lỗi này nó sẽ có cái chữ Cờ Lau để gọi đóng pha đấy Bây giờ còn đóng
+[21:08] Lau để gọi đóng pha đấy Bây giờ còn đóng đi đấy Thì lúc nãy mình yêu phải ở đâu
+[21:11] đi đấy Thì lúc nãy mình yêu phải ở đâu mình như file ở cái folder Excel cơ bản
+[21:14] mình như file ở cái folder Excel cơ bản đến nâng cao và desktop hay là còn tích
+[21:16] đến nâng cao và desktop hay là còn tích luôn vào đây phải gọi sẽ mở rộng cái cửa
+[21:19] luôn vào đây phải gọi sẽ mở rộng cái cửa sổ Windows này ra mình lưu ở cái bài số
+[21:21] sổ Windows này ra mình lưu ở cái bài số 1 đúng ạ đấy thì cái file mà lúc nãy
+[21:24] 1 đúng ạ đấy thì cái file mà lúc nãy mình như là cái xe này bài số 1 làm quen
+[21:26] mình như là cái xe này bài số 1 làm quen với cha của anh thấy chưa Đấy bây giờ để
+[21:28] với cha của anh thấy chưa Đấy bây giờ để mở file nhé thì gọi sẽ thích đút vào đây
+[21:30] mở file nhé thì gọi sẽ thích đút vào đây để gọi mở file đấy đấy là cái cách mở
+[21:35] để gọi mở file đấy đấy là cái cách mở file thì ngoài cái cách này thì có bạn
+[21:37] file thì ngoài cái cách này thì có bạn có thể mở bằng cách cách dẹp Ví dụ mình
+[21:38] có thể mở bằng cách cách dẹp Ví dụ mình đóng lại nhá Bây giờ mình lại khởi động
+[21:40] đóng lại nhá Bây giờ mình lại khởi động lại Excel đây các bạn vào
+[21:41] lại Excel đây các bạn vào khi chọn gọi Excel có enter thì bạn thấy
+[21:47] khi chọn gọi Excel có enter thì bạn thấy không cái file mà mình tạo gần nhất này
+[21:49] không cái file mà mình tạo gần nhất này nó sẽ lên ở cái mục ở đây là bài số 1
+[21:52] nó sẽ lên ở cái mục ở đây là bài số 1 làm quen với excel đấy thì các bạn có
+[21:54] làm quen với excel đấy thì các bạn có thể mở bằng cách giờ có thích luôn Vào
+[21:56] thể mở bằng cách giờ có thích luôn Vào cái file này hoặc các bạn có thể tích và
+[21:58] cái file này hoặc các bạn có thể tích và cái Open rồi nhá Nếu như bạn không thấy
+[22:00] cái Open rồi nhá Nếu như bạn không thấy ở cái mục di dân ở đây tức là các cái
+[22:03] ở cái mục di dân ở đây tức là các cái file gần nhất thì các có thể và với phần
+[22:05] file gần nhất thì các có thể và với phần Open đấy và các bạn brown brown đến cái
+[22:09] Open đấy và các bạn brown brown đến cái thư mục mà mình lưu cái file đấy đúng
+[22:10] thư mục mà mình lưu cái file đấy đúng không Ví dụ lúc đấy mình như desktop và
+[22:12] không Ví dụ lúc đấy mình như desktop và Excel cơ bản đến nâng cao đó bài số 1 và
+[22:15] Excel cơ bản đến nâng cao đó bài số 1 và gọi chọn vào đây Các bạn bấm Open để thì
+[22:19] gọi chọn vào đây Các bạn bấm Open để thì như vậy Mình có ba cái cách để mở file
+[22:20] như vậy Mình có ba cái cách để mở file đúng không khi các bạn mở file này lên
+[22:23] đúng không khi các bạn mở file này lên thế bạn có thể tích ở đây để các bạn thu
+[22:25] thế bạn có thể tích ở đây để các bạn thu nhỏ cửa sổ Excel này lại đợi Còn nếu như
+[22:28] nhỏ cửa sổ Excel này lại đợi Còn nếu như các bạn muốn minimart tức là địa các bạn
+[22:31] các bạn muốn minimart tức là địa các bạn sẽ thu nhỏ cái file Excel này xuống với
+[22:33] sẽ thu nhỏ cái file Excel này xuống với thanh phát ra các bạn sẽ thu nhỏ Đây để
+[22:35] thanh phát ra các bạn sẽ thu nhỏ Đây để con bỏ các ứng dụng khác nhé đấy là cái
+[22:37] con bỏ các ứng dụng khác nhé đấy là cái cách mà mình thu nhỏ Còn nếu như quá
+[22:39] cách mà mình thu nhỏ Còn nếu như quá thích vào đây thì nó lại Mở cái file này
+[22:41] thích vào đây thì nó lại Mở cái file này Ừ để họ sẽ tích là cái vua này này thì
+[22:44] Ừ để họ sẽ tích là cái vua này này thì nó sẽ mở rộng cái váy xe lại toàn màn
+[22:46] nó sẽ mở rộng cái váy xe lại toàn màn hình ok Giả sử cái file Đây là cái file
+[22:50] hình ok Giả sử cái file Đây là cái file dữ liệu của 5 20 20 nhá bây giờ mình
+[22:52] dữ liệu của 5 20 20 nhá bây giờ mình muốn tạo 1 cái file giống như thế này
+[22:55] muốn tạo 1 cái file giống như thế này cho năm 2021 để mình cập nhật Cái dữ
+[22:57] cho năm 2021 để mình cập nhật Cái dữ liệu mới á đấy thì gọi cho vào cái file
+[22:59] liệu mới á đấy thì gọi cho vào cái file này các bạn chọn cfs đấy và các bạn sẽ
+[23:03] này các bạn chọn cfs đấy và các bạn sẽ chọn cái nơi mà bạn muốn chứa cái khay
+[23:04] chọn cái nơi mà bạn muốn chứa cái khay này đúng ạ để bạn sẽ thích bảo mật ong
+[23:07] này đúng ạ để bạn sẽ thích bảo mật ong giả sử mình vẫn chứ ở cái folder này nhá
+[23:10] giả sử mình vẫn chứ ở cái folder này nhá và mình sẽ tạo đây là ví dụ ở đây là năm
+[23:13] và mình sẽ tạo đây là ví dụ ở đây là năm 2021 hạ thế nhá Đấy tức là rượu mình sẽ
+[23:17] 2021 hạ thế nhá Đấy tức là rượu mình sẽ tạo một cái file copy của cái file này
+[23:19] tạo một cái file copy của cái file này Đấy thì mình sẽ chọn xét nhá và lúc này
+[23:21] Đấy thì mình sẽ chọn xét nhá và lúc này mình sẽ cập nhật mới dữ liệu của năm
+[23:23] mình sẽ cập nhật mới dữ liệu của năm 2021 Thì đấy là cái cfs nhé trước là
+[23:27] 2021 Thì đấy là cái cfs nhé trước là mình sẽ tạo một cái file mới từ cái file
+[23:29] mình sẽ tạo một cái file mới từ cái file mà mình đã có bằng cách mình sẽ FS giống
+[23:31] mà mình đã có bằng cách mình sẽ FS giống như kiểu ví dụ các bạn làm một cái file
+[23:33] như kiểu ví dụ các bạn làm một cái file mà các bạn có nhiều phiên bản đúng không
+[23:34] mà các bạn có nhiều phiên bản đúng không ạ ví dụ là phiên bản thứ nhất là các bạn
+[23:37] ạ ví dụ là phiên bản thứ nhất là các bạn chưa chắc chắn thì bạn có thể lưu sau
+[23:39] chưa chắc chắn thì bạn có thể lưu sau một cái phiên bản thứ hai phiên bản thứ
+[23:40] một cái phiên bản thứ hai phiên bản thứ ba thì các bạn
+[23:41] ba thì các bạn khi phải xếp em này nhá Ok Bây giờ mình
+[23:45] khi phải xếp em này nhá Ok Bây giờ mình sẽ đóng cái file này lại các bạn chú nhé
+[23:47] sẽ đóng cái file này lại các bạn chú nhé để đóng file thì bạn sẽ bấm thì các bạn
+[23:49] để đóng file thì bạn sẽ bấm thì các bạn sẽ bấm ăn F4 để Bọn nó khoa lại các bạn
+[23:51] sẽ bấm ăn F4 để Bọn nó khoa lại các bạn sẽ giữ phim an và các bạn F4 này các bạn
+[23:53] sẽ giữ phim an và các bạn F4 này các bạn trong cái file này ạ Đấy vậy thì như vậy
+[23:58] trong cái file này ạ Đấy vậy thì như vậy bạn thấy ở đây có 2 file rồi không ạ một
+[24:01] bạn thấy ở đây có 2 file rồi không ạ một cái file là làm quen với excel và một
+[24:02] cái file là làm quen với excel và một cái file là diện làm quen với excel và
+[24:04] cái file là diện làm quen với excel và thêm cái chữ được năm 2021 đây là lúc
+[24:07] thêm cái chữ được năm 2021 đây là lúc đấy mình sẽ ghép thì nó sẽ tạo ra một
+[24:08] đấy mình sẽ ghép thì nó sẽ tạo ra một cái file mới thôi bây giờ để xóa phái
+[24:11] cái file mới thôi bây giờ để xóa phái xem nhé chẳng hạn xóa file này nó còn sẽ
+[24:13] xem nhé chẳng hạn xóa file này nó còn sẽ nháy được phải này điện thoại sẽ bấm
+[24:15] nháy được phải này điện thoại sẽ bấm Delete ở đây đấy hoặc là Rịa các bạn chỉ
+[24:17] Delete ở đây đấy hoặc là Rịa các bạn chỉ cần kích vào đây Các bạn bấm phím delete
+[24:19] cần kích vào đây Các bạn bấm phím delete trên bàn phím này đợi thì nó sẽ tự xóa
+[24:21] trên bàn phím này đợi thì nó sẽ tự xóa nhá thì lớn như chọn xóa như thế thì nó
+[24:23] nhá thì lớn như chọn xóa như thế thì nó sẽ vào cái thùng rác đây này Đây cái
+[24:26] sẽ vào cái thùng rác đây này Đây cái thùng rác của mình chính là cái file vừa
+[24:27] thùng rác của mình chính là cái file vừa xong mày xóa đúng không Bây giờ nếu như
+[24:29] xong mày xóa đúng không Bây giờ nếu như mình vẫn lưu lại nha các bạn xinh nháy
+[24:31] mình vẫn lưu lại nha các bạn xinh nháy chuột phải vào cái file này các bạn chọn
+[24:32] chuột phải vào cái file này các bạn chọn restore đấy thì như vậy cái file này nó
+[24:35] restore đấy thì như vậy cái file này nó đã diện nó đã trở về cái thư mục chiếc
+[24:37] đã diện nó đã trở về cái thư mục chiếc nó rồi đúng không Toàn tích ở đây để cậu
+[24:40] nó rồi đúng không Toàn tích ở đây để cậu thấy cái file này nó trở về
+[24:41] thấy cái file này nó trở về Ừ cái cách xóa thứ hai là các bạn nhá
+[24:43] Ừ cái cách xóa thứ hai là các bạn nhá đều phải là các bạn biết đấy nó sẽ tự
+[24:45] đều phải là các bạn biết đấy nó sẽ tự xóa nhé Cuối cùng là cái phần câu hỏi
+[24:50] xóa nhé Cuối cùng là cái phần câu hỏi nhá các bạn Thúy mình sẽ để cái câu hỏi
+[24:52] nhá các bạn Thúy mình sẽ để cái câu hỏi cũng như là cái folder của bài 01 ngày
+[24:54] cũng như là cái folder của bài 01 ngày này trong phần mô tả phía dưới video thì
+[24:57] này trong phần mô tả phía dưới video thì các bạn sẽ tải về con mở câu hỏi lên nhá
+[24:59] các bạn sẽ tải về con mở câu hỏi lên nhá Còn nếu như các bạn nào mà không biết
+[25:00] Còn nếu như các bạn nào mà không biết cách tải về thì các bạn xem lại cái bài
+[25:02] cách tải về thì các bạn xem lại cái bài đầu tiên cái bài mở đầu mình đã hướng
+[25:04] đầu tiên cái bài mở đầu mình đã hướng dẫn chi tiết cách tải về rồi B có bản
+[25:06] dẫn chi tiết cách tải về rồi B có bản tính lui vào đây Đấy cái file câu hỏi
+[25:08] tính lui vào đây Đấy cái file câu hỏi này qua thích lên thì câu hỏi cho các
+[25:11] này qua thích lên thì câu hỏi cho các bạn là dịp mình sẽ đã có hai cái câu hỏi
+[25:14] bạn là dịp mình sẽ đã có hai cái câu hỏi là 2 cái thao tác lưu file tư là cái xếp
+[25:17] là 2 cái thao tác lưu file tư là cái xếp và cách xếp s thì nó giống và khác nhau
+[25:20] và cách xếp s thì nó giống và khác nhau như thế nào Câu hỏi số 2 khi nhập ngày
+[25:23] như thế nào Câu hỏi số 2 khi nhập ngày tháng năm trong Excel Vậy mình có thể
+[25:25] tháng năm trong Excel Vậy mình có thể đổi cái mặc định là ngậm ngày trước rồi
+[25:28] đổi cái mặc định là ngậm ngày trước rồi đến tháng đến 50 tức là rẻ thông thường
+[25:30] đến tháng đến 50 tức là rẻ thông thường với mặc định của Excel nào mình sẽ nhập
+[25:32] với mặc định của Excel nào mình sẽ nhập tháng trước sau đến ngày đến năm Bây giờ
+[25:34] tháng trước sau đến ngày đến năm Bây giờ mình có thể đổi mình có muốn nhập là
+[25:36] mình có thể đổi mình có muốn nhập là ngày trước sau đến tháng và đến năm
+[25:37] ngày trước sau đến tháng và đến năm giống như là kiểu mà người Việt Nam hay
+[25:40] giống như là kiểu mà người Việt Nam hay làm thì mình có làm
+[25:41] làm thì mình có làm anh đấy Đấy là hai cái câu hỏi nhá các
+[25:44] anh đấy Đấy là hai cái câu hỏi nhá các bạn hãy trả lời 2 câu hỏi này trong cái
+[25:46] bạn hãy trả lời 2 câu hỏi này trong cái phần comment ở phía dưới video nhé Ok
+[25:48] phần comment ở phía dưới video nhé Ok như vậy là mình đã kết thúc bài học ngày
+[25:50] như vậy là mình đã kết thúc bài học ngày hôm nay ở đây cảm ơn các bạn đã theo dõi
+[25:52] hôm nay ở đây cảm ơn các bạn đã theo dõi các bạn nhớ đăng ký Kênh để cập nhật
+[25:54] các bạn nhớ đăng ký Kênh để cập nhật video mới nhất của gà cũng như chia sẻ
+[25:56] video mới nhất của gà cũng như chia sẻ để giúp mọi người cộng Excel nhé Xin
+[25:59] để giúp mọi người cộng Excel nhé Xin chào và

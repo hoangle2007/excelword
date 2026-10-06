@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tra cứu công thức Excel — Excel &amp; Word Lab</title>
+<link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body data-page="cong-thuc">
+<a class="skip-link" href="#main">Bỏ qua tới nội dung</a>
+<header class="site-header">
+  <nav class="nav" aria-label="Điều hướng chính">
+    <a class="brand" href="index.html">Excel &amp; Word Lab</a>
+    <div class="nav-links">
+      <a data-nav="home" href="index.html">Trang chủ</a>
+      <a data-nav="excel" href="excel.html">Excel</a>
+      <a data-nav="word" href="word.html">Word</a>
+      <a data-nav="cong-thuc" href="cong-thuc.html">Công thức</a>
+      <a data-nav="trac-nghiem" href="trac-nghiem.html">Trắc nghiệm</a>
+    </div>
+  </nav>
+</header>
+<main id="main">
+  <h1>Tra cứu công thức Excel</h1>
+  <div class="toolbar">
+    <input type="search" id="q" placeholder="Tìm hàm: VLOOKUP, SUMIFS, NPV…" aria-label="Tìm công thức">
+  </div>
+  <div class="toolbar" role="group" aria-label="Lọc theo nhóm" id="groups"></div>
+  <p class="muted" id="count"></p>
+  <div class="grid cols-2" id="list"></div>
+  <div class="empty" id="empty" hidden>Không tìm thấy công thức phù hợp.</div>
+</main>
+<div id="modal-root"></div>
+<footer class="site-footer">Excel &amp; Word Lab</footer>
+<script src="assets/js/common.js"></script>
+<script>
+let view = [];
+function showDetail(f) {
+  document.getElementById("modal-root").innerHTML = `
+    <div class="modal-backdrop" id="bd">
+      <div class="modal" role="dialog" aria-modal="true" aria-label="${App.esc(f.ten)}">
+        <h2>${App.esc(f.ten)}</h2>
+        <p><code>${App.esc(f.cu_phap)}</code></p>
+        <p>${App.esc(f.giai_thich)}</p>
+        ${f.vi_du ? `<h3>Ví dụ chạy được</h3><p><code>${App.esc(f.vi_du)}</code>${f.ket_qua ? ` → <strong>${App.esc(f.ket_qua)}</strong>` : ""}</p>` : ""}
+        ${f.loi ? `<h3>Lỗi thường gặp</h3><p>${App.esc(f.loi)}</p>` : ""}
+        ${f.bai ? `<p class="muted">Dạy trong: ${App.esc(f.bai)}</p>` : ""}
+        <p><button id="close">Đóng</button></p>
+      </div>
+    </div>`;
+  const close = () => document.getElementById("modal-root").innerHTML = "";
+  document.getElementById("close").focus();
+  document.getElementById("close").addEventListener("click", close);
+  document.getElementById("bd").addEventListener("click", e => { if (e.target.id === "bd") close(); });
+  document.addEventListener("keydown", function esc(e) {
+    if (e.key === "Escape") { close(); document.removeEventListener("keydown", esc); }
+  });
+}
+let formulas = [];
+let useApi = false;
+const GROUPS = ["Toán & thống kê", "Logic", "Văn bản", "Tra cứu", "Ngày tháng", "Tài chính", "Kỹ thuật", "Mã định dạng"];
+let activeGroup = "";
+function renderGroups() {
+  const counts = {};
+  formulas.forEach(f => counts[f.nhom] = (counts[f.nhom] || 0) + 1);
+  document.getElementById("groups").innerHTML =
+    `<button class="chip" aria-pressed="${activeGroup === ""}">Tất cả (${formulas.length})</button>` +
+    GROUPS.filter(g => counts[g]).map(g =>
+      `<button class="chip" data-g="${App.esc(g)}" aria-pressed="${activeGroup === g}">${App.esc(g)} (${counts[g]})</button>`).join("");
+  document.querySelectorAll("#groups .chip").forEach(b => b.addEventListener("click", () => {
+    activeGroup = b.dataset.g || "";
+    renderGroups(); render();
+  }));
+}
+async function render() {
+  const q = document.getElementById("q").value.toLowerCase();
+  let items;
+  if (useApi) {
+    const data = await App.apiGet(`formulas?q=${encodeURIComponent(q)}&nhom=${encodeURIComponent(activeGroup)}&limit=80`);
+    items = (data || []).map(f => [f, formulas.findIndex(x => x._id === f._id)]);
+  } else {
+    items = [];
+    formulas.forEach((f, idx) => {
+      const hay = ((f.ten || "") + " " + (f.cu_phap || "") + " " + (f.giai_thich || "")).toLowerCase();
+      if (q && !hay.includes(q)) return;
+      if (activeGroup && f.nhom !== activeGroup) return;
+      items.push([f, idx]);
+    });
+  }
+  document.getElementById("count").textContent = `Tìm thấy ${items.length} công thức`;
+  document.getElementById("empty").hidden = items.length > 0;
+  document.getElementById("list").innerHTML = items.slice(0, 80).map(([f], i) => `
+    <article class="card">
+      <p><span class="badge">${App.esc(f.nhom || "")}</span></p>
+      <h3>${App.esc(f.ten)}</h3>
+      <p><code>${App.esc((f.cu_phap || "").slice(0, 80))}</code></p>
+      <p class="muted">${App.esc((f.giai_thich || "").slice(0, 120))}…</p>
+      <p><button data-i="${i}">Chi tiết</button></p>
+    </article>`).join("") + (items.length > 80 ? `<p class="muted">Hiển thị 80/${items.length} — gõ thêm để lọc.</p>` : "");
+  view = items.map(([f]) => f);
+  document.querySelectorAll("[data-i]").forEach(b => b.addEventListener("click", () => showDetail(view[+b.dataset.i])));
+}
+(async () => {
+  useApi = await App.apiHealth();
+  if (!useApi) formulas = await App.load("excel_formulas.json");
+  else { try { formulas = await App.load("excel_formulas.json"); } catch { formulas = []; } }
+  renderGroups();
+  document.getElementById("q").addEventListener("input", App.debounce(render, 200));
+  renderGroups();
+  render();
+})();
+</script>
+</body>
+</html>

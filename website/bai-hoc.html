@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bài học — Excel &amp; Word Lab</title>
+<link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body data-page="">
+<a class="skip-link" href="#main">Bỏ qua tới nội dung</a>
+<header class="site-header">
+  <nav class="nav" aria-label="Điều hướng chính">
+    <a class="brand" href="index.html">Excel &amp; Word Lab</a>
+    <div class="nav-links">
+      <a data-nav="home" href="index.html">Trang chủ</a>
+      <a data-nav="excel" href="excel.html">Excel</a>
+      <a data-nav="word" href="word.html">Word</a>
+      <a data-nav="cong-thuc" href="cong-thuc.html">Công thức</a>
+      <a data-nav="trac-nghiem" href="trac-nghiem.html">Trắc nghiệm</a>
+    </div>
+  </nav>
+</header>
+<main id="main">
+  <p><a id="back" href="excel.html">← Danh sách bài</a> <span class="muted" id="watch-state"></span></p>
+  <h1 id="title">Đang tải bài học…</h1>
+  <div class="lesson-layout">
+    <section aria-label="Video bài giảng">
+      <div class="video-wrap"><div id="player"></div></div>
+      <div class="progress" aria-hidden="true"><div id="watchbar"></div></div>
+      <p>
+        <button id="mark-done" class="secondary btn">Đánh dấu đã học xong</button>
+        <a id="quiz-full" class="btn" href="trac-nghiem.html">Trắc nghiệm full bài</a>
+      </p>
+      <h2>Các phân đoạn — bấm để tua tới</h2>
+      <ol id="chapters" class="chapters"></ol>
+    </section>
+    <section aria-label="Nội dung chi tiết">
+      <h2>Các bước thao tác trong video</h2>
+      <ol id="steps" class="steps"></ol>
+      <h2 id="fx-title">Công thức trong bài</h2>
+      <div id="formulas"></div>
+    </section>
+  </div>
+  <h2>Luyện nhanh 10 câu ngẫu nhiên</h2>
+  <p><button id="new-quiz">Đổi đề mới</button> <span class="muted" id="mini-score"></span></p>
+  <div id="mini-quiz"></div>
+</main>
+<footer class="site-footer">Excel &amp; Word Lab</footer>
+<script src="https://www.youtube.com/iframe_api"></script>
+<script src="assets/js/common.js"></script>
+<script>
+let D = null, player = null, watchTimer = null, VID = "", MON = "";
+const $ = id => document.getElementById(id);
+function fmt(s) {
+  s = Math.floor(s);
+  const h = Math.floor(s / 3600), m = Math.floor((s % 3600) / 60), ss = s % 60;
+  return (h ? h + ":" + String(m).padStart(2, "0") : m) + ":" + String(ss).padStart(2, "0");
+}
+function getProg() { return App.store.get("watchProgress", {}); }
+function setProg(patch) {
+  const all = getProg();
+  all[VID] = Object.assign(all[VID] || {}, patch, { updated: Date.now() });
+  App.store.set("watchProgress", all);
+  paintState();
+}
+function paintState() {
+  const p = getProg()[VID];
+  const el = $("watch-state");
+  if (!p) { el.textContent = "Chưa xem"; return; }
+  if (p.done) { el.innerHTML = '<span class="badge">Đã xem ✓</span>'; $("watchbar").style.width = "100%"; }
+  else if (p.sec > 10) {
+    const pct = D.duration ? Math.min(99, Math.round(p.sec / D.duration * 100)) : 0;
+    el.innerHTML = `<span class="badge warn">Đang xem ${pct}%</span>`;
+    $("watchbar").style.width = pct + "%";
+  } else el.textContent = "Bắt đầu xem bên dưới";
+}
+function onYouTubeIframeAPIReady() {
+  player = new YT.Player("player", {
+    videoId: VID,
+    playerVars: { rel: 0 },
+    events: {
+      onStateChange(e) {
+        if (e.data === YT.PlayerState.PLAYING) {
+          setProg({ started: true });
+          clearInterval(watchTimer);
+          watchTimer = setInterval(() => {
+            if (!player || !player.getCurrentTime) return;
+            const sec = Math.floor(player.getCurrentTime());
+            const dur = player.getDuration() || D.duration || 0;
+            const patch = { sec, dur };
+            if (dur && sec / dur >= 0.9) { patch.done = true; App.toggleLessonOn(VID); }
+            setProg(patch);
+          }, 5000);
+        } else {
+          clearInterval(watchTimer);
+          if (player && player.getCurrentTime) setProg({ sec: Math.floor(player.getCurrentTime()) });
+          if (e.data === YT.PlayerState.ENDED) { setProg({ done: true }); App.toggleLessonOn(VID); }
+        }
+      }
+    }
+  });
+}
+App.toggleLessonOn = function (id) {
+  const d = App.doneLessons();
+  if (!d[id]) { d[id] = Date.now(); App.store.set("doneLessons", d); }
+};
+function seekTo(sec) { if (player && player.seekTo) player.seekTo(sec, true); }
+function renderMiniQuiz() {
+  const pool = [...D.quiz].sort(() => Math.random() - 0.5).slice(0, 10);
+  let score = 0;
+  $("mini-quiz").innerHTML = pool.map((q, i) => `
+    <div class="card mini-q" style="margin-bottom:1rem" data-ans="${App.esc(q.dap_an)}">
+      <p><strong>Câu ${i + 1}.</strong> ${App.esc(q.cau)}</p>
+      ${["A", "B", "C", "D"].map(k => `<label class="quiz-option" data-k="${k}"><input type="radio" name="mq${i}" value="${k}"> <strong>${k}.</strong> ${App.esc(q[k])}</label>`).join("")}
+      <p class="muted mini-exp" hidden><strong>Giải thích:</strong> ${App.esc(q.giai_thich || "")}</p>
+    </div>`).join("");
+  $("mini-score").textContent = "";
+  document.querySelectorAll(".mini-q").forEach(box => {
+    box.querySelectorAll('input[type="radio"]').forEach(r => r.addEventListener("change", () => {
+      const ans = box.dataset.ans;
+      box.querySelectorAll(".quiz-option").forEach(l => {
+        l.classList.remove("correct", "wrong");
+        if (l.dataset.k === ans) l.classList.add("correct");
+        else if (l.dataset.k === r.value) l.classList.add("wrong");
+      });
+      box.querySelector(".mini-exp").hidden = false;
+      box.querySelectorAll("input").forEach(x => x.disabled = true);
+      if (r.value === ans) score++;
+      const done = document.querySelectorAll(".mini-q input:disabled").length / 4;
+      $("mini-score").textContent = `Đúng ${score}/${Math.round(done) || 0} câu đã làm`;
+    }));
+  });
+}
+(async () => {
+  const p = new URLSearchParams(location.search);
+  MON = p.get("mon") || "excel"; VID = p.get("bai") || "";
+  if (!VID) { document.getElementById("title").textContent = "Thiếu mã bài học."; return; }
+  D = await App.load(`lessons/${MON}_${VID}.json`);
+  document.title = D.bai + " — Excel & Word Lab";
+  document.body.dataset.page = MON;
+  document.querySelectorAll(".nav-links a").forEach(a => {
+    a.removeAttribute("aria-current");
+    if (a.dataset.nav === MON) a.setAttribute("aria-current", "page");
+  });
+  $("back").href = MON + ".html";
+  $("back").textContent = `← Danh sách bài ${MON === "excel" ? "Excel" : "Word"}`;
+  $("title").textContent = D.bai;
+  $("quiz-full").href = `trac-nghiem.html?mon=${MON}&bai=${VID}`;
+  $("chapters").innerHTML = D.chapters.length ? D.chapters.map(c =>
+    `<li><button class="linklike" data-seek="${c.t}">${fmt(c.t)} — ${App.esc(c.label)}</button></li>`).join("")
+    : `<li class="muted">Video này chưa có phân đoạn.</li>`;
+  document.querySelectorAll("[data-seek]").forEach(b => b.addEventListener("click", () => seekTo(+b.dataset.seek)));
+  $("steps").innerHTML = D.steps.length ? D.steps.map(s =>
+    `<li><strong>Bước ${s.buoc}:</strong> ${App.esc(s.thao_tac)}${s.phim_tat ? ` <code>${App.esc(s.phim_tat)}</code>` : ""}${s.luu_y ? `<br><span class="muted">Lưu ý: ${App.esc(s.luu_y)}</span>` : ""}</li>`).join("")
+    : `<li class="muted">Xem kỹ năng bên dưới.</li>`;
+  const items = D.cong_thuc || D.ky_nang || [];
+  if (D.ky_nang) $("fx-title").textContent = "Kỹ năng trong bài";
+  $("formulas").innerHTML = items.length ? `<table class="data"><thead><tr><th>Tên</th><th>Cú pháp / Thao tác</th><th>Ví dụ</th></tr></thead><tbody>${
+    items.map(x => `<tr><td><strong>${App.esc(x.ten)}</strong></td><td><code>${App.esc(x.cu_phap || x.thao_tac || "")}</code><br><span class="muted">${App.esc((x.giai_thich || "").slice(0, 140))}</span></td><td>${App.esc(x.vi_du || "")}</td></tr>`).join("")
+  }</tbody></table>` : `<p class="muted">Bài giới thiệu, không có công thức.</p>`;
+  $("mark-done").addEventListener("click", () => {
+    const on = App.toggleLesson(VID);
+    setProg({ done: on });
+    $("mark-done").textContent = on ? "Bỏ đánh dấu" : "Đánh dấu đã học xong";
+  });
+  $("new-quiz").addEventListener("click", renderMiniQuiz);
+  renderMiniQuiz();
+  paintState();
+})();
+</script>
+</body>
+</html>

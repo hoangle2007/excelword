@@ -1,0 +1,433 @@
+{
+  "video_id": "HLBpUHYU6CI",
+  "bai": "Bai 22 - Bao cao dong Dashboard (PivotTable, PivotChart, Slicer)",
+  "url": "https://www.youtube.com/watch?v=HLBpUHYU6CI",
+  "cong_thuc": [
+    "=MIN(IF(vung>0,vung)) + Ctrl+Shift+Enter: doanh thu nho nhat nhung >0, loai thang nghi (=0).",
+    "Ctrl+T (Insert > Table, tick My table has headers): doi vung du lieu thanh Table de tu mo rong khi them dong.",
+    "Insert > PivotTable tu Table 'Du lieu': chon New Worksheet, keo Nam/Thang vao Rows, Doanh thu vao Values.",
+    "Design > Report Layout > Show in Tabular Form: hien PivotTable dang bang de doc.",
+    "Insert > PivotChart (Column/Line/Pie): ve doanh thu theo nam-thang; doi kieu chart tuy muc dich.",
+    "Insert > Slicer (Nam, Thang, Khu vuc, Nha phan phoi): tao 4 nut loc dieu khien dashboard.",
+    "Right-click Slicer > Report Connections: tick het cac PivotTable de 1 slicer dieu khien moi bieu do.",
+    "Value Filter > Top 10 (doi 10 thanh 3): loc Top 3 san pham doanh thu cao nhat; doi Bottom cho 3 san pham te nhat.",
+    "Right-click truc > Format Axis > Categories in reverse order: dao truc de Top 1 len tren cung.",
+    "Right-click cot > Add Data Labels / Format Data Labels (Category Name + Value): hien ten + so tien tren bieu do.",
+    "Format Data Series > Border Solid line + Width 2-3pt: bo vien cot tron dep; Line chart chon Smooth line.",
+    "Number format #,##0: tach hang nghin cho nhan gia tri (vi du 333333 -> 333,333).",
+    "Change Chart Type (Column/Line/Pie) + Chart Elements (+): doi kieu bieu do, them Chart Title/Legend/Data Labels; keo resize, can bo cuc Dashboard.",
+    "PivotTable Analyze > Refresh + Slicer Multi-select/Clear Filter: nap du lieu moi tu Table (~5000 dong), chon nhieu muc, xoa loc de test dong bo."
+  ],
+  "thuat_toan_quy_trinh": [
+    "Buoc 1: chon 1 o bat ky trong vung du lieu, nhan Ctrl+T (tick headers), doi ten Table thanh 'Du lieu'.",
+    "Buoc 2: Insert > PivotTable tu Table, chon New Worksheet; keo Nam/Thang vao Rows, Doanh thu vao Values.",
+    "Buoc 3: dinh dang PivotTable (Tabular, bo Grand Total/Subtotal thua), Insert > PivotChart dau tien.",
+    "Buoc 4: copy PivotChart thanh cac ban sao cho: Top 3, Bottom 3, % theo Khu vuc, % theo Nha phan phoi.",
+    "Buoc 5: moi chart: doi loai (Column/Line/Pie), loc Top/Bottom, sap xep, them Data Labels, dinh dang so.",
+    "Buoc 6: tao sheet Dashboard moi, copy cac chart ve, sap xep bo cuc; chen Slicer Nam/Thang/Khu vuc/NPP.",
+    "Buoc 7: voi moi Slicer: Right-click > Report Connections > tick TAT CA PivotTable de loc dong bo.",
+    "Buoc 8: an cac sheet trung gian (chon nhieu sheet > Hide), chi giu Dashboard; test loc 2020, multi-select."
+  ],
+  "cau_hoi": [
+    {
+      "id": 1,
+      "cau": "Vi sao phai doi vung du lieu thanh Table truoc khi lam dashboard?",
+      "A": "De du lieu tu mo rong khi them dong moi",
+      "B": "Khong dung trong bai hoc nay",
+      "C": "De khoa file",
+      "D": "De xoa trung",
+      "dap_an": "A",
+      "giai_thich": "Table tu dong nap dong moi vao PivotTable."
+    },
+    {
+      "id": 2,
+      "cau": "Phim tat tao Table la gi?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Ctrl+T",
+      "C": "Alt+T",
+      "D": "Shift+T",
+      "dap_an": "B",
+      "giai_thich": "Ctrl+T mo hop Create Table, hoac Insert > Table."
+    },
+    {
+      "id": 3,
+      "cau": "Khi tao Table can tick tuy chon nao?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "First column",
+      "C": "My table has headers",
+      "D": "Total row",
+      "dap_an": "C",
+      "giai_thich": "Bao Excel dong dau la tieu de, khong tinh thanh du lieu."
+    },
+    {
+      "id": 4,
+      "cau": "PivotTable duoc tao tu nguon nao trong bai?",
+      "A": "Vung thuong A1:Z100",
+      "B": "Khong dung trong bai hoc nay",
+      "C": "File Word",
+      "D": "Table 'Du lieu'",
+      "dap_an": "D",
+      "giai_thich": "Dat ten Table roi chon no lam nguon PivotTable."
+    },
+    {
+      "id": 5,
+      "cau": "Nen dat PivotTable moi o dau?",
+      "A": "New Worksheet",
+      "B": "Khong dung trong bai hoc nay",
+      "C": "Notepad",
+      "D": "Email",
+      "dap_an": "A",
+      "giai_thich": "Moi PivotTable mot sheet rieng cho gon, sau copy ve Dashboard."
+    },
+    {
+      "id": 6,
+      "cau": "Keo truong Nam/Thang vao khu vuc nao cua PivotTable?",
+      "A": "Values",
+      "B": "Rows (Axis)",
+      "C": "Filters",
+      "D": "Khong keo",
+      "dap_an": "B",
+      "giai_thich": "Rows de liet ke theo nam thang, Doanh thu keo vao Values."
+    },
+    {
+      "id": 7,
+      "cau": "Report Layout Tabular Form co tac dung?",
+      "A": "Xoa du lieu",
+      "B": "Khong dung trong bai hoc nay",
+      "C": "Hien PivotTable dang bang de doc",
+      "D": "In nhanh",
+      "dap_an": "C",
+      "giai_thich": "Dang Tabular tach cot ro rang hon Compact."
+    },
+    {
+      "id": 8,
+      "cau": "Grand Total/Subtotal thua thi lam gi?",
+      "A": "De nguyen",
+      "B": "Khong dung trong bai hoc nay",
+      "C": "To mau do",
+      "D": "Tat/bỏ di cho gon",
+      "dap_an": "D",
+      "giai_thich": "Right-click > remove hoac Design > tat khi khong can."
+    },
+    {
+      "id": 9,
+      "cau": "De ve bieu do tu PivotTable dung lenh nao?",
+      "A": "Insert > PivotChart",
+      "B": "Insert > Picture",
+      "C": "Insert > WordArt",
+      "D": "Copy tay",
+      "dap_an": "A",
+      "giai_thich": "PivotChart tu dong gan voi PivotTable nguon."
+    },
+    {
+      "id": 10,
+      "cau": "Slicer trong dashboard dung de lam gi?",
+      "A": "Trang tri",
+      "B": "Nut loc truc quan (Nam/Thang/Khu vuc/NPP)",
+      "C": "Tang am luong",
+      "D": "Ghi macro",
+      "dap_an": "B",
+      "giai_thich": "Bam slicer de loc dong loat cac bieu do."
+    },
+    {
+      "id": 11,
+      "cau": "Chen Slicer bang cach nao?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Ve tay",
+      "C": "Chon PivotTable > Insert Slicer (PivotTable Analyze)",
+      "D": "Khong chen duoc",
+      "dap_an": "C",
+      "giai_thich": "Chon 4 truong Nam, Thang, Khu vuc, Nha phan phoi."
+    },
+    {
+      "id": 12,
+      "cau": "Lam sao 1 Slicer loc duoc TAT CA bieu do?",
+      "A": "Khong the",
+      "B": "Khong dung trong bai hoc nay",
+      "C": "Xoa slicer",
+      "D": "Right-click Slicer > Report Connections > tick het",
+      "dap_an": "D",
+      "giai_thich": "Report Connections noi slicer toi moi PivotTable."
+    },
+    {
+      "id": 13,
+      "cau": "Neu quen tick 1 PivotTable trong Report Connections thi?",
+      "A": "Bieu do do khong loc theo, lech so lieu",
+      "B": "Khong dung trong bai hoc nay",
+      "C": "May treo",
+      "D": "Mat file",
+      "dap_an": "A",
+      "giai_thich": "Phai tick het de dong bo toan dashboard."
+    },
+    {
+      "id": 14,
+      "cau": "De xem chi nam 2020 thi bam gi?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Bam nut 2020 tren slicer Nam",
+      "C": "Tat may",
+      "D": "Doi ten file",
+      "dap_an": "B",
+      "giai_thich": "Slicer loc 1 gia tri; muon nhieu nam bat Multi-select."
+    },
+    {
+      "id": 15,
+      "cau": "Nut Multi-select (dau 3 o) tren slicer de?",
+      "A": "Xoa",
+      "B": "Khong dung trong bai hoc nay",
+      "C": "Chon dong thoi nhieu muc",
+      "D": "Luu",
+      "dap_an": "C",
+      "giai_thich": "Tick nhieu nam/thang de so sanh."
+    },
+    {
+      "id": 16,
+      "cau": "Loc Top 3 san pham dung chuc nang nao?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Xoa 7 san pham",
+      "C": "Doan mo",
+      "D": "Value Filter > Top 10 roi doi 10 thanh 3",
+      "dap_an": "D",
+      "giai_thich": "Row Labels > Value Filters > Top 10 > Top 3 by Sum of Doanh thu."
+    },
+    {
+      "id": 17,
+      "cau": "Muon xem 3 san pham TE nhat thi chon?",
+      "A": "Bottom",
+      "B": "Khong dung trong bai hoc nay",
+      "C": "Khong loc",
+      "D": "Xoa het",
+      "dap_an": "A",
+      "giai_thich": "Top 10 > chon Bottom, nhap 3."
+    },
+    {
+      "id": 18,
+      "cau": "Sau khi sort, cot Top 1 lai nam duoi cung thi sua sao?",
+      "A": "Ke no",
+      "B": "Format Axis > tick Categories in reverse order",
+      "C": "Xoa bieu do",
+      "D": "Ve lai tay",
+      "dap_an": "B",
+      "giai_thich": "Dao nguoc truc de gia tri lon len tren."
+    },
+    {
+      "id": 19,
+      "cau": "Hien so tien tren moi cot bieu do dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Tang am",
+      "C": "Add Data Labels",
+      "D": "In ra viet tay",
+      "dap_an": "C",
+      "giai_thich": "Right-click series > Add Data Labels."
+    },
+    {
+      "id": 20,
+      "cau": "Hien ca ten mien + doanh thu tren Pie dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Chi hien %",
+      "C": "Khong hien",
+      "D": "Format Data Labels > tick Category Name + Value",
+      "dap_an": "D",
+      "giai_thich": "Tick ca ten va gia tri trong Format Data Labels."
+    },
+    {
+      "id": 21,
+      "cau": "Dinh dang 333333 thanh 333,333 dung?",
+      "A": "#,##0",
+      "B": "General",
+      "C": "Text",
+      "D": "@",
+      "dap_an": "A",
+      "giai_thich": "Format Data Labels > Number > Custom #,##0."
+    },
+    {
+      "id": 22,
+      "cau": "Duong Line thang goc canh muon mem mai thi?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Smooth line",
+      "C": "Ve tay",
+      "D": "Bo qua",
+      "dap_an": "B",
+      "giai_thich": "Format Data Series > tick Smoothed line."
+    },
+    {
+      "id": 23,
+      "cau": "Vien cot bieu do mau cam day 3pt chinh o dau?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Page Setup",
+      "C": "Format Data Series > Border > Solid line, Width 3pt",
+      "D": "Save As",
+      "dap_an": "C",
+      "giai_thich": "Chon mau + do rong vien trong Border."
+    },
+    {
+      "id": 24,
+      "cau": "Copy nhanh 1 PivotChart sang sheet moi bang?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Chup anh",
+      "C": "Viet lai",
+      "D": "Giu Ctrl + keo tab sheet",
+      "dap_an": "D",
+      "giai_thich": "Giu Ctrl keo tab de nhan ban sheet chart."
+    },
+    {
+      "id": 25,
+      "cau": "Nhan ban 1 chart trong cung sheet bang?",
+      "A": "Giu Ctrl + keo chart",
+      "B": "Xoa",
+      "C": "Cat",
+      "D": "An",
+      "dap_an": "A",
+      "giai_thich": "Ctrl+drag de copy chart roi doi nguon du lieu."
+    },
+    {
+      "id": 26,
+      "cau": "Tu chart Khu vuc muon thanh chart Nha phan phoi thi?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Bo Khu vuc khoi Legend, keo Nha phan phoi vao",
+      "C": "Tao lai tu dau",
+      "D": "Khong doi duoc",
+      "dap_an": "B",
+      "giai_thich": "Doi truong Legend/Axis trong PivotChart Fields."
+    },
+    {
+      "id": 27,
+      "cau": "Bieu do tron % theo Khu vuc ban dau la chart gi?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Ve moi 100%",
+      "C": "Copy tu chart Top 3 roi doi kieu Pie",
+      "D": "Xin ban",
+      "dap_an": "C",
+      "giai_thich": "Tan dung chart cu: copy roi doi loai + truong du lieu."
+    },
+    {
+      "id": 28,
+      "cau": "Ten cac chart (Top 3, Bottom 3...) dat o dau?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Ten file",
+      "C": "Ten sheet",
+      "D": "O tieu de chart (Chart Title)",
+      "dap_an": "D",
+      "giai_thich": "Sua Chart Title thanh Doanh thu Top 3..."
+    },
+    {
+      "id": 29,
+      "cau": "Them chu thich mau (Legend) bang?",
+      "A": "Chart Elements (+) > Legend",
+      "B": "Tang do sang",
+      "C": "Xoa",
+      "D": "Khoa",
+      "dap_an": "A",
+      "giai_thich": "Tick Legend roi keo vi tri phu hop."
+    },
+    {
+      "id": 30,
+      "cau": "Dam bao 2020 cac chart deu thay doi thi kiem tra gi?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Report Connections cua moi slicer",
+      "C": "Gio he thong",
+      "D": "Pin laptop",
+      "dap_an": "B",
+      "giai_thich": "Slicer phai noi toi moi PivotTable chart."
+    },
+    {
+      "id": 31,
+      "cau": "An cac sheet phu chi giu Dashboard bang?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Xoa het",
+      "C": "Chon nhieu sheet > Right-click > Hide",
+      "D": "Tat may",
+      "dap_an": "C",
+      "giai_thich": "Giu Shift chon sheet roi Hide, dashboard sach."
+    },
+    {
+      "id": 32,
+      "cau": "Nguon du lieu gan 5000 dong thi luu y gi?",
+      "A": "Cu ve tay",
+      "B": "Khong dung trong bai hoc nay",
+      "C": "Xoa bot",
+      "D": "Dung Table + Pivot de tu dong, tranh cong thuc nang",
+      "dap_an": "D",
+      "giai_thich": "Pivot xu ly hang nghin dong nhanh, gon."
+    },
+    {
+      "id": 33,
+      "cau": "=MIN(IF(vung>0,vung)) + CSE o dau bai la?",
+      "A": "Dap an bai tap bai 21 (min > 0)",
+      "B": "Lenh in",
+      "C": "Lenh luu",
+      "D": "Lenh dong",
+      "dap_an": "A",
+      "giai_thich": "Bo qua o 0 cua thang nghi, lay min that."
+    },
+    {
+      "id": 34,
+      "cau": "Hoan thanh dashboard can test lai dieu gi?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Bam tung slicer xem moi chart nhay dung",
+      "C": "Xoa slicer",
+      "D": "Goi dien",
+      "dap_an": "B",
+      "giai_thich": "Kiem tra 2020, tung thang, khu vuc, NPP deu dong bo."
+    },
+    {
+      "id": 35,
+      "cau": "Muc dich cuoi cua dashboard trong bai?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Choi game",
+      "C": "Theo doi doanh thu theo nam/thang, top/bottom SP, ty trong vung/NPP",
+      "D": "Luu anh",
+      "dap_an": "C",
+      "giai_thich": "Mot man hinh thay moi goc do kinh doanh."
+    },
+    {
+      "id": 36,
+      "cau": "Muon them % ben canh so tien tren chart thi?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Xoa so",
+      "C": "Ve tay",
+      "D": "Format Data Labels > Percentage",
+      "dap_an": "D",
+      "giai_thich": "Tick Percentage de hien ty trong them."
+    },
+    {
+      "id": 37,
+      "cau": "Kich thuoc chart qua to/nho thi?",
+      "A": "Keo goc resize cho vua bo cuc",
+      "B": "De nguyen",
+      "C": "Xoa",
+      "D": "In ra cat",
+      "dap_an": "A",
+      "giai_thich": "Keo goc + sap xep lai dashboard cho can doi."
+    },
+    {
+      "id": 38,
+      "cau": "Khi them du lieu thang moi, Pivot cap nhat bang?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Right-click Pivot > Refresh",
+      "C": "Cai lai Excel",
+      "D": "Mua may moi",
+      "dap_an": "B",
+      "giai_thich": "Nguon Table tu mo rong, Refresh de nap."
+    },
+    {
+      "id": 39,
+      "cau": "File dashboard gui sep nen o dinh dang nao?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Anh mo",
+      "C": "Excel macro/XLSX giu Pivot+Slicer song",
+      "D": "Giay viet tay",
+      "dap_an": "C",
+      "giai_thich": "Giu file song de sep tu bam slicer loc."
+    },
+    {
+      "id": 40,
+      "cau": "Truoc khi gui dashboard cho sep can lam gi cuoi cung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Gui ngay",
+      "C": "Xoa het",
+      "D": "Test tung slicer + Refresh + an sheet phu, luu file",
+      "dap_an": "D",
+      "giai_thich": "Kiem tra dong bo roi moi gui."
+    }
+  ]
+}

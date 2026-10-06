@@ -1,0 +1,409 @@
+{
+ "video_id": "cJURPNHyiw0",
+ "bai": "Cách căn lề chuẩn trong Word (Top-Bottom-Left-Right)",
+ "url": "https://www.youtube.com/watch?v=cJURPNHyiw0",
+ "ky_nang": [
+  {
+   "ten": "Mở Page Setup căn lề",
+   "thao_tac": "Vào Layout > Margins > Custom Margins để mở hộp thoại Page Setup",
+   "duong_dan_menu": "Layout > Margins > Custom Margins",
+   "phim_tat": "",
+   "giai_thich": "Mọi thao tác căn lề chuẩn đều thực hiện trong hộp thoại Page Setup.",
+   "vi_du": "Mở Custom Margins để nhập Top/Bottom/Left/Right"
+  },
+  {
+   "ten": "Nhập kích thước lề chuẩn",
+   "thao_tac": "Nhập Top 2cm, Bottom 2cm, Left 3cm, Right 1.5cm",
+   "duong_dan_menu": "Layout > Margins > Custom Margins > Margins",
+   "phim_tat": "",
+   "giai_thich": "Đây là chuẩn lề văn bản hành chính Việt Nam phổ biến: trên 20-25mm, dưới 20-25mm, trái 30-35mm, phải 10-20mm.",
+   "vi_du": "Top 2cm, Bottom 2cm, Left 3cm, Right 1.5cm"
+  },
+  {
+   "ten": "Đổi đơn vị inch sang cm",
+   "thao_tac": "File > Options > Advanced > Display > Show measurements in units of: Centimeters",
+   "duong_dan_menu": "File > Options > Advanced > Display",
+   "phim_tat": "",
+   "giai_thich": "Nếu Word hiển thị inch thì đổi sang cm để nhập lề cho dễ.",
+   "vi_du": "Chuyển inches thành centimeters"
+  },
+  {
+   "ten": "Đặt lề mặc định cho mọi tài liệu",
+   "thao_tac": "Trong Page Setup nhấn Set As Default > Yes",
+   "duong_dan_menu": "Layout > Margins > Custom Margins > Set As Default",
+   "phim_tat": "",
+   "giai_thich": "Sau khi đặt lề chuẩn, nhấn Set As Default để mọi file Word mới đều dùng lề này.",
+   "vi_du": "Set As Default > Yes"
+  },
+  {
+   "ten": "Tạo tài liệu mới kiểm tra lề",
+   "thao_tac": "Nhấn Ctrl+N mở tài liệu mới và quan sát thước kẻ",
+   "duong_dan_menu": "File > New",
+   "phim_tat": "Ctrl+N",
+   "giai_thich": "Mở file mới để xác nhận lề mặc định đã áp dụng.",
+   "vi_du": "Ctrl+N rồi xem thước đo lề"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "cau": "Lề trên chuẩn theo video là bao nhiêu?",
+   "lua_chon": {
+    "A": "1cm",
+    "B": "2cm",
+    "C": "3cm",
+    "D": "1.5cm"
+   },
+   "dap_an": "B",
+   "muc_do": "dễ",
+   "giai_thich": "Video đặt Top = 2cm (cách mép trên 20-25mm)."
+  },
+  {
+   "cau": "Lề dưới chuẩn theo video là bao nhiêu?",
+   "lua_chon": {
+    "A": "2cm",
+    "B": "3cm",
+    "C": "1cm",
+    "D": "2.5cm"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Video đặt Bottom = 2cm."
+  },
+  {
+   "cau": "Lề trái chuẩn theo video là bao nhiêu?",
+   "lua_chon": {
+    "A": "2cm",
+    "B": "1.5cm",
+    "C": "3cm",
+    "D": "2.5cm"
+   },
+   "dap_an": "C",
+   "muc_do": "dễ",
+   "giai_thich": "Video đặt Left = 3cm (30-35mm)."
+  },
+  {
+   "cau": "Lề phải chuẩn theo video là bao nhiêu?",
+   "lua_chon": {
+    "A": "3cm",
+    "B": "2cm",
+    "C": "1cm",
+    "D": "1.5cm"
+   },
+   "dap_an": "D",
+   "muc_do": "dễ",
+   "giai_thich": "Video đặt Right = 1.5cm (10-20mm)."
+  },
+  {
+   "cau": "Muốn căn lề vào menu nào?",
+   "lua_chon": {
+    "A": "Insert",
+    "B": "Layout",
+    "C": "View",
+    "D": "Review"
+   },
+   "dap_an": "B",
+   "muc_do": "dễ",
+   "giai_thich": "Vào Layout > Margins."
+  },
+  {
+   "cau": "Lệnh mở hộp thoại căn lề tùy chỉnh là gì?",
+   "lua_chon": {
+    "A": "Custom Margins",
+    "B": "Normal Margins",
+    "C": "Orientation",
+    "D": "Size"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Layout > Margins > Custom Margins."
+  },
+  {
+   "cau": "Đơn vị nào nên dùng khi căn lề ở Việt Nam?",
+   "lua_chon": {
+    "A": "Inch",
+    "B": "Point",
+    "C": "Centimet (cm)",
+    "D": "Pica"
+   },
+   "dap_an": "C",
+   "muc_do": "dễ",
+   "giai_thich": "Đổi sang cm cho dễ nhập 2cm/3cm."
+  },
+  {
+   "cau": "Phím tắt tạo tài liệu Word mới là gì?",
+   "lua_chon": {
+    "A": "Ctrl+O",
+    "B": "Ctrl+S",
+    "C": "Ctrl+N",
+    "D": "Ctrl+P"
+   },
+   "dap_an": "C",
+   "muc_do": "dễ",
+   "giai_thich": "Ctrl+N tạo file mới để kiểm tra lề mặc định."
+  },
+  {
+   "cau": "Nút nào lưu lề thành mặc định cho mọi file sau này?",
+   "lua_chon": {
+    "A": "OK",
+    "B": "Set As Default",
+    "C": "Cancel",
+    "D": "Print"
+   },
+   "dap_an": "B",
+   "muc_do": "dễ",
+   "giai_thich": "Nhấn Set As Default > Yes."
+  },
+  {
+   "cau": "Video dùng phiên bản Word nào làm mẫu?",
+   "lua_chon": {
+    "A": "Word 2010",
+    "B": "Word 2021",
+    "C": "Word 2007",
+    "D": "Word 365 web"
+   },
+   "dap_an": "B",
+   "muc_do": "dễ",
+   "giai_thich": "Video nói đang dùng Word 2021, các bản khác thao tác giống nhau."
+  },
+  {
+   "cau": "Nếu Word hiện đơn vị inch, cần làm gì trước khi nhập lề cm?",
+   "lua_chon": {
+    "A": "Cứ nhập số cm bình thường",
+    "B": "Đổi đơn vị đo sang Centimeters trong Options",
+    "C": "Nhân số inch với 10",
+    "D": "Đổi khổ giấy sang A3"
+   },
+   "dap_an": "B",
+   "muc_do": "trung bình",
+   "giai_thich": "File > Options > Advanced > Display > Centimeters."
+  },
+  {
+   "cau": "Đường vào hộp thoại Page Setup đầy đủ là?",
+   "lua_chon": {
+    "A": "Layout > Margins > Custom Margins",
+    "B": "Home > Paragraph > Margins",
+    "C": "Insert > Page Setup",
+    "D": "File > Margins"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Đúng đường dẫn trong video."
+  },
+  {
+   "cau": "Sau khi nhập kích thước lề xong nhấn gì để áp dụng?",
+   "lua_chon": {
+    "A": "OK",
+    "B": "Cancel",
+    "C": "Set As Default rồi OK",
+    "D": "Apply rồi Cancel"
+   },
+   "dap_an": "C",
+   "muc_do": "trung bình",
+   "giai_thich": "Video hướng dẫn Set As Default để lưu mặc định rồi OK."
+  },
+  {
+   "cau": "Tại sao lề trái thường lớn nhất (3cm)?",
+   "lua_chon": {
+    "A": "Để trang trí",
+    "B": "Để chừa chỗ đóng gáy/đóng tập văn bản",
+    "C": "Do lỗi Word",
+    "D": "Để tiết kiệm giấy"
+   },
+   "dap_an": "B",
+   "muc_do": "trung bình",
+   "giai_thich": "Lề trái 30-35mm để đóng gáy không che chữ."
+  },
+  {
+   "cau": "Quy định lề trên/dưới 20-25mm tương ứng bao nhiêu cm?",
+   "lua_chon": {
+    "A": "0.2-0.25cm",
+    "B": "2-2.5cm",
+    "C": "20-25cm",
+    "D": "1-1.5cm"
+   },
+   "dap_an": "B",
+   "muc_do": "trung bình",
+   "giai_thich": "20mm = 2cm."
+  },
+  {
+   "cau": "Quy định lề phải 10-20mm tương ứng?",
+   "lua_chon": {
+    "A": "1-2cm, video chọn 1.5cm",
+    "B": "10-20cm",
+    "C": "0.1-0.2cm",
+    "D": "3cm"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "10mm=1cm nên 10-20mm là 1-2cm."
+  },
+  {
+   "cau": "Kiểm tra lề đã đúng bằng cách nào nhanh nhất?",
+   "lua_chon": {
+    "A": "Nhìn thước kẻ (ruler) phía trên và bên trái",
+    "B": "Đếm số trang",
+    "C": "Xem tên file",
+    "D": "In ra rồi đo bằng mắt"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Thước ruler hiển thị vị trí lề Top/Left/Right."
+  },
+  {
+   "cau": "Set As Default có tác dụng gì?",
+   "lua_chon": {
+    "A": "Chỉ áp dụng cho file hiện tại",
+    "B": "Áp dụng lề này cho mọi tài liệu mới dựa trên mẫu Normal",
+    "C": "Xóa hết văn bản",
+    "D": "Đổi khổ giấy"
+   },
+   "dap_an": "B",
+   "muc_do": "trung bình",
+   "giai_thich": "Video nhấn Set As Default > Yes để mọi file sau đều dùng lề chuẩn."
+  },
+  {
+   "cau": "Hộp thoại xác nhận sau khi nhấn Set As Default yêu cầu gì?",
+   "lua_chon": {
+    "A": "Nhấn Yes để xác nhận đổi mẫu mặc định",
+    "B": "Nhập mật khẩu",
+    "C": "Chọn máy in",
+    "D": "Khởi động lại máy"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Word hỏi xác nhận thay đổi Normal template, chọn Yes."
+  },
+  {
+   "cau": "Nếu chỉ nhấn OK mà không nhấn Set As Default thì?",
+   "lua_chon": {
+    "A": "Lề chỉ áp dụng cho tài liệu hiện tại",
+    "B": "Word bị lỗi",
+    "C": "Máy tính tắt",
+    "D": "Mọi file sau cũng đổi"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "OK chỉ áp dụng file hiện tại; muốn mặc định phải Set As Default."
+  },
+  {
+   "cau": "Lề trái 3cm, phải 1.5cm phản ánh nguyên tắc nào?",
+   "lua_chon": {
+    "A": "Đối xứng",
+    "B": "Ưu tiên gáy bên trái khi đóng quyển",
+    "C": "Ngẫu nhiên",
+    "D": "Tiết kiệm mực"
+   },
+   "dap_an": "B",
+   "muc_do": "trung bình",
+   "giai_thich": "Văn bản Việt Nam chừa gáy trái lớn."
+  },
+  {
+   "cau": "Muốn kiểm tra lề của file mới cần làm gì?",
+   "lua_chon": {
+    "A": "Ctrl+N mở file mới và xem Page Setup vẫn giữ 2-2-3-1.5",
+    "B": "Mở file cũ",
+    "C": "Xóa Word cài lại",
+    "D": "Đo bằng thước thật"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Video mở trang Word mới để kiểm tra."
+  },
+  {
+   "cau": "Top 2cm + Bottom 2cm trên khổ A4 (29.7cm) còn lại chiều cao vùng in?",
+   "lua_chon": {
+    "A": "29.7 - 4 = 25.7cm",
+    "B": "29.7cm",
+    "C": "2cm",
+    "D": "33.7cm"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "29.7 - 2 - 2 = 25.7cm."
+  },
+  {
+   "cau": "Left 3cm + Right 1.5cm trên khổ A4 rộng 21cm còn lại?",
+   "lua_chon": {
+    "A": "21 - 4.5 = 16.5cm",
+    "B": "21cm",
+    "C": "4.5cm",
+    "D": "25.5cm"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "21 - 3 - 1.5 = 16.5cm."
+  },
+  {
+   "cau": "Nếu đơn vị là inch, 2cm tương đương bao nhiêu inch (1 inch=2.54cm)?",
+   "lua_chon": {
+    "A": "Khoảng 0.79 inch",
+    "B": "2 inch",
+    "C": "5.08 inch",
+    "D": "0.2 inch"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "2/2.54 ≈ 0.79 inch, vì vậy nên đổi sang cm."
+  },
+  {
+   "cau": "Vì sao video khuyên đổi inch sang cm?",
+   "lua_chon": {
+    "A": "Vì nhập số lẻ inch khó và dễ sai; cm phù hợp chuẩn Việt Nam",
+    "B": "Vì cm đẹp hơn",
+    "C": "Vì inch bị cấm",
+    "D": "Vì máy chỉ cho dùng cm"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Nhập 0.79 inch dễ nhầm hơn nhập 2cm."
+  },
+  {
+   "cau": "Trường hợp nào cần Custom Margins thay vì chọn mẫu có sẵn?",
+   "lua_chon": {
+    "A": "Khi cần đúng chuẩn 2-2-3-1.5 không có trong mẫu nhanh",
+    "B": "Khi muốn in nhanh",
+    "C": "Khi muốn xóa lề",
+    "D": "Không bao giờ"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Mẫu nhanh không có đúng số này nên phải tùy chỉnh."
+  },
+  {
+   "cau": "Sau Set As Default, file Word mới dựa trên mẫu nào?",
+   "lua_chon": {
+    "A": "Normal template (Normal.dotm)",
+    "B": "Mẫu web",
+    "C": "Mẫu nhà sản xuất giấy",
+    "D": "Không dựa trên mẫu nào"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Word lưu lề mặc định vào Normal template."
+  },
+  {
+   "cau": "Nếu mở Word trên máy khác, lề mặc định 2-2-3-1.5 có còn không?",
+   "lua_chon": {
+    "A": "Không, vì lưu trong Normal template của máy đã cài",
+    "B": "Còn, vì lưu trong file",
+    "C": "Còn mãi trên mọi máy",
+    "D": "Mất Word"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Set As Default chỉ lưu trên máy đó; máy khác phải cài lại."
+  },
+  {
+   "cau": "Tổng kiểm tra: bộ lề chuẩn trong video là?",
+   "lua_chon": {
+    "A": "Top 2 - Bottom 2 - Left 3 - Right 1.5 (cm)",
+    "B": "Đều 1cm",
+    "C": "Đều 2.54cm",
+    "D": "Top 3 - Bottom 3 - Left 2 - Right 2"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Đúng bộ số video đã đặt và kiểm tra trên file mới."
+  }
+ ]
+}

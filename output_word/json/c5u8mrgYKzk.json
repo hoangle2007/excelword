@@ -1,0 +1,401 @@
+{
+ "video_id": "c5u8mrgYKzk",
+ "bai": "Xoay ngang trang giấy trong Word (Landscape)",
+ "url": "https://www.youtube.com/watch?v=c5u8mrgYKzk",
+ "ky_nang": [
+  {
+   "ten": "Xoay ngang toàn bộ file",
+   "thao_tac": "Layout > Orientation > Landscape",
+   "duong_dan_menu": "Layout > Orientation > Landscape",
+   "phim_tat": "",
+   "giai_thich": "Mọi trang đều thành ngang.",
+   "vi_du": "Orientation > Landscape"
+  },
+  {
+   "ten": "Xoay ngang 1 trang bất kỳ",
+   "thao_tac": "Bôi đen nội dung trang đó > Page Setup launcher > Landscape > Apply to: Selected text > OK",
+   "duong_dan_menu": "Layout > Page Setup dialog > Landscape > Selected text",
+   "phim_tat": "",
+   "giai_thich": "Chỉ đoạn được chọn thành ngang, trang khác giữ nguyên.",
+   "vi_du": "Bôi đen trang 2 > Landscape > Selected text"
+  },
+  {
+   "ten": "Mở hộp thoại Page Setup",
+   "thao_tac": "Layout > click mũi tên nhỏ góc nhóm Page Setup",
+   "duong_dan_menu": "Layout > Page Setup launcher",
+   "phim_tat": "",
+   "giai_thich": "Hộp thoại chứa Orientation và Apply to.",
+   "vi_du": "Click launcher góc Page Setup"
+  },
+  {
+   "ten": "Xóa trang trắng dư",
+   "thao_tac": "Đặt con trỏ trang trắng > Backspace/Delete",
+   "duong_dan_menu": "",
+   "phim_tat": "Backspace/Delete",
+   "giai_thich": "Xoay Selected text có thể sinh trang trắng, xóa đi.",
+   "vi_du": "Xóa trang trắng phát sinh"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "cau": "Xoay ngang tiếng Anh trong Word là gì?",
+   "lua_chon": {
+    "A": "Landscape",
+    "B": "Portrait",
+    "C": "Layout",
+    "D": "Margin"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Landscape = ngang."
+  },
+  {
+   "cau": "Trang dọc mặc định gọi là gì?",
+   "lua_chon": {
+    "A": "Portrait",
+    "B": "Landscape",
+    "C": "Square",
+    "D": "Circle"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Portrait = dọc."
+  },
+  {
+   "cau": "Nút Orientation nằm ở thẻ nào?",
+   "lua_chon": {
+    "A": "Layout",
+    "B": "Home",
+    "C": "Insert",
+    "D": "View"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Layout > Orientation."
+  },
+  {
+   "cau": "Muốn xoay ngang CẢ file thì chọn gì?",
+   "lua_chon": {
+    "A": "Landscape",
+    "B": "Portrait",
+    "C": "Custom",
+    "D": "Print"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Orientation > Landscape."
+  },
+  {
+   "cau": "Video demo file mẫu có mấy trang?",
+   "lua_chon": {
+    "A": "3 trang",
+    "B": "1 trang",
+    "C": "10 trang",
+    "D": "100 trang"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Video tạo thành 3 trang."
+  },
+  {
+   "cau": "Muốn xoay 1 trang thì bôi đen nội dung trang đó trước đúng không?",
+   "lua_chon": {
+    "A": "Đúng",
+    "B": "Sai",
+    "C": "Tùy",
+    "D": "Không cần"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Phải chọn Selected text."
+  },
+  {
+   "cau": "Mở hộp thoại Page Setup bằng cách nào?",
+   "lua_chon": {
+    "A": "Click mũi tên nhỏ góc nhóm Page Setup",
+    "B": "Nhấn Enter",
+    "C": "Tắt máy",
+    "D": "Xóa trang"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Launcher góc dưới-phải nhóm."
+  },
+  {
+   "cau": "Trong Page Setup chọn hướng nào để ngang?",
+   "lua_chon": {
+    "A": "Landscape",
+    "B": "Portrait",
+    "C": "Paper",
+    "D": "Margins"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Chọn Landscape."
+  },
+  {
+   "cau": "Apply to chọn gì để chỉ xoay đoạn đã chọn?",
+   "lua_chon": {
+    "A": "Selected text",
+    "B": "Whole document",
+    "C": "This point forward",
+    "D": "Printer"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Selected text = chỉ chỗ chọn."
+  },
+  {
+   "cau": "Sau khi cài xong nhấn gì?",
+   "lua_chon": {
+    "A": "OK",
+    "B": "Cancel",
+    "C": "Delete",
+    "D": "Print"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "OK áp dụng."
+  },
+  {
+   "cau": "Whole document khác Selected text thế nào?",
+   "lua_chon": {
+    "A": "Whole: cả file; Selected: chỉ chỗ bôi đen",
+    "B": "Giống nhau",
+    "C": "Whole xóa file",
+    "D": "Selected tắt máy"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Đúng phạm vi Apply to."
+  },
+  {
+   "cau": "Vì sao xoay 1 trang lại sinh trang trắng?",
+   "lua_chon": {
+    "A": "Word chèn section break bao quanh đoạn chọn, có thể dư break",
+    "B": "Lỗi chuột",
+    "C": "Hết giấy",
+    "D": "Hết mực"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Cơ chế section."
+  },
+  {
+   "cau": "Xử lý trang trắng dư thế nào?",
+   "lua_chon": {
+    "A": "Đặt con trỏ và Delete/Backspace",
+    "B": "Xóa cả file",
+    "C": "Cài lại Word",
+    "D": "Bỏ qua"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Xóa break thừa."
+  },
+  {
+   "cau": "Hoàn tác xoay ngang nhầm bằng gì?",
+   "lua_chon": {
+    "A": "Ctrl+Z",
+    "B": "Ctrl+Y",
+    "C": "Ctrl+S",
+    "D": "Ctrl+X"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Undo."
+  },
+  {
+   "cau": "Muốn trang 2 ngang, trang 1 và 3 vẫn dọc thì?",
+   "lua_chon": {
+    "A": "Bôi đen trang 2 > Landscape > Selected text",
+    "B": "Xoay cả file",
+    "C": "Xóa trang 1,3",
+    "D": "In trang 2 riêng"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Đúng bài video."
+  },
+  {
+   "cau": "Dấu hiệu trang đã ngang?",
+   "lua_chon": {
+    "A": "Rộng hơn cao, chữ dàn theo chiều ngang",
+    "B": "Cao hơn rộng",
+    "C": "Mất chữ",
+    "D": "Đổi màu"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Quan sát trực quan."
+  },
+  {
+   "cau": "Orientation còn tùy chọn khổ giấy không?",
+   "lua_chon": {
+    "A": "Không, khổ giấy ở Size; Orientation chỉ dọc/ngang",
+    "B": "Có",
+    "C": "Tùy máy",
+    "D": "Tùy mực"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Size (A4...) khác Orientation."
+  },
+  {
+   "cau": "Page Setup launcher là gì?",
+   "lua_chon": {
+    "A": "Mũi tên nhỏ góc nhóm Page Setup để mở hộp thoại",
+    "B": "Nút in",
+    "C": "Nút lưu",
+    "D": "Nút tắt"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Đúng định nghĩa."
+  },
+  {
+   "cau": "Khi nào dùng This point forward?",
+   "lua_chon": {
+    "A": "Xoay từ vị trí con trỏ đến hết file",
+    "B": "Xoay 1 đoạn",
+    "C": "Xoay cả file",
+    "D": "Xóa file"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Áp dụng từ đây về sau."
+  },
+  {
+   "cau": "Xoay ngang phù hợp cho nội dung nào?",
+   "lua_chon": {
+    "A": "Bảng rộng, sơ đồ, slide in ngang",
+    "B": "Thư ngắn",
+    "C": "Tiểu thuyết",
+    "D": "Mọi thứ"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Ngang chứa bảng rộng tốt."
+  },
+  {
+   "cau": "Sau khi xoay 1 trang, lề các trang có đổi không?",
+   "lua_chon": {
+    "A": "Mỗi section giữ lề riêng; trang ngang/dọc độc lập",
+    "B": "Mất hết lề",
+    "C": "Đổi hết",
+    "D": "Không có lề"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Section tách thiết lập trang."
+  },
+  {
+   "cau": "Muốn xem trước hướng trang thì vào đâu?",
+   "lua_chon": {
+    "A": "File > Print xem preview",
+    "B": "Nhìn bàn phím",
+    "C": "Nhìn chuột",
+    "D": "Đoán"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Print preview thấy dọc/ngang."
+  },
+  {
+   "cau": "Vì sao phải bôi đen HẾT nội dung trang 2?",
+   "lua_chon": {
+    "A": "Để Word xác định đúng phạm vi section cần xoay",
+    "B": "Để xóa",
+    "C": "Để copy",
+    "D": "Để trang trí"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Bôi thiếu sẽ xoay lệch."
+  },
+  {
+   "cau": "Section break là gì?",
+   "lua_chon": {
+    "A": "Dấu ngắt chia file thành các section cài đặt trang riêng",
+    "B": "Ngắt chữ",
+    "C": "Ngắt mạng",
+    "D": "Ngắt điện"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Đúng khái niệm."
+  },
+  {
+   "cau": "Xem section break bằng cách nào?",
+   "lua_chon": {
+    "A": "Home > Show/Hide ¶",
+    "B": "Tắt màn hình",
+    "C": "In ra",
+    "D": "Đoán"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Ký tự ẩn hiện break."
+  },
+  {
+   "cau": "Xóa nhầm section break thì?",
+   "lua_chon": {
+    "A": "Trang gộp lại cùng hướng, Ctrl+Z để hoàn tác",
+    "B": "Mất file",
+    "C": "Mất máy",
+    "D": "Không sao"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Break quyết định hướng."
+  },
+  {
+   "cau": "Khổ A4 ngang kích thước bao nhiêu?",
+   "lua_chon": {
+    "A": "29.7cm rộng x 21cm cao (đảo của dọc)",
+    "B": "21x29.7 dọc",
+    "C": "10x10",
+    "D": "50x50"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Ngang đảo rộng-cao."
+  },
+  {
+   "cau": "In trang ngang cần chú ý gì?",
+   "lua_chon": {
+    "A": "Chọn đúng khổ/orientation trong Print khớp Page Setup",
+    "B": "Không cần",
+    "C": "In là ra",
+    "D": "Xoay giấy tay"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Lệch sẽ bị cắt chữ."
+  },
+  {
+   "cau": "Muốn file vừa có dọc vừa có ngang thì bắt buộc?",
+   "lua_chon": {
+    "A": "Phải có nhiều section (Selected text/This point forward)",
+    "B": "Không cần",
+    "C": "Phải 2 file",
+    "D": "Phải 2 máy"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Mỗi hướng cần 1 section."
+  },
+  {
+   "cau": "Tóm tắt video?",
+   "lua_chon": {
+    "A": "Orientation > Landscape cho cả file; bôi đen + Page Setup + Selected text cho 1 trang + xóa trắng dư",
+    "B": "Chỉ xoay cả file",
+    "C": "Không xoay được",
+    "D": "Xoay bằng tay"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Đủ 2 phần video."
+  }
+ ]
+}

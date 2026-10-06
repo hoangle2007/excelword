@@ -1,0 +1,531 @@
+{
+  "video_id": "Bukqq7vupEg",
+  "bai": "Bai 20 PivotTable trong Excel: Tao Table, Pivot Fields, Values, Layout, PivotChart",
+  "url": "https://www.youtube.com/watch?v=Bukqq7vupEg",
+  "cong_thuc": [
+    {
+      "ten": "Tao Table truoc Pivot",
+      "cong_thuc": "Chon vung > Insert > Table (Ctrl+T) > My table has headers > dat ten (vd Du lieu)",
+      "giai_thich": "Table tu mo rong khi them dong; Pivot dung ten Table lam nguon nen tu cap nhat. Ten lien nhau khong dau.",
+      "vi_du": "A1:F4998 thanh Table 'DuLieu'; them 21/3/2020 Mien Nam SP01 30 tu vao Table (vung cham cham)"
+    },
+    {
+      "ten": "Chen PivotTable",
+      "cong_thuc": "Click o trong Table > Insert > PivotTable > New Worksheet > OK",
+      "giai_thich": "Nguon = ten Table; dat o sheet moi. Pane PivotTable Fields + Analyze/Design hien khi click vung pivot.",
+      "vi_du": "Source=Du lieu > Sheet moi chua pivot trang"
+    },
+    {
+      "ten": "Keo Fields: Filters/Columns/Rows/Values",
+      "cong_thuc": "Keo Khu vuc>Filters, San pham>Columns, Nha PP>Rows, Doanh thu>Values",
+      "giai_thich": "Filters: loc tren; Columns: nhom ngang; Rows: nhom doc; Values: so lieu. Keo ra ngoai hoac bo tich de go.",
+      "vi_du": "Filters=Khu vuc (chon Mien Bac), Columns=San pham, Rows=NPP, Values=Sum Doanh thu"
+    },
+    {
+      "ten": "Doi cach tinh Values",
+      "cong_thuc": "Click mui ten Values > Value Field Settings > Sum/Average/Count/Max...",
+      "giai_thich": "So mac dinh Sum; doi Average/Count tuy muc dich.",
+      "vi_du": "Sum->Average xem TB; lai Sum de tong"
+    },
+    {
+      "ten": "Ty le % tren tong",
+      "cong_thuc": "Value Field Settings > Show Values As > % of Grand Total",
+      "giai_thich": "Hien ty trong % thay vi so tuyet doi; tong =100%.",
+      "vi_du": "SP10 5.24%, SP09 9.16%...; doi ten 'Ty le %' o Formula Bar"
+    },
+    {
+      "ten": "Dinh dang so pivot",
+      "cong_thuc": "Chuot phai gia tri > Number Format > Number > Use 1000 Separator, Decimal 0-2",
+      "giai_thich": "Them phan cach nghin, so le thap phan cho de doc.",
+      "vi_du": "1234567 -> 1,234,567; % de 2 thap phan"
+    },
+    {
+      "ten": "An/hien +/- , Subtotal, Grand Total",
+      "cong_thuc": "Click +/- de thu gon/mo; Design > Subtotals / Grand Totals (Off for Rows&Columns); Show in Tabular Form",
+      "giai_thich": "Nut +/- thu gon chi tiet (Mien Bac bao nhieu); Subtotals: tong nhom; Grand Total: tong chung; Tabular: dang bang dep.",
+      "vi_du": "Collapse Mien Bac chi thay tong; Grand Totals Off bo dong/cot tong; Show in Tabular Form hien Khu vuc/San pham/Doanh thu"
+    },
+    {
+      "ten": "Sap xep + loc trong pivot",
+      "cong_thuc": "Click mui ten field > Sort A-Z/Z-A; Filters bo Mien Bac; Ngay > Date Filter chon 3,6",
+      "giai_thich": "Sort san pham tang/giam; loc khu vuc/ngay tuy bao cao.",
+      "vi_du": "San pham Z-A; Doanh thu NPP sort nho->lon; Ngay chi 3,6"
+    },
+    {
+      "ten": "Copy tach pivot + PivotChart",
+      "cong_thuc": "Boi den pivot > Copy > paste o khac (PivotTable Fields theo vung moi); Insert > PivotChart > chon kieu",
+      "giai_thich": "Copy nguyen pivot de lam bao cao 2 (theo Khu vuc vs theo San pham); PivotChart ve tu pivot, loc Field Buttons.",
+      "vi_du": "Copy pivot sang ben phai keo Khu vuc>Rows; PivotChart cot xem Mien Nam 40%, Mien Trung 35%"
+    },
+    {
+      "ten": "Slicer + Report Connections",
+      "cong_thuc": "Click pivot > Analyze > Insert Slicer > tich Nha PP, Ngay > OK; chuot phai Slicer > Report Connections > tich PivotTable1+2",
+      "giai_thich": "Slicer loc truc quan (FPT/Ga Excel/Viettel/VNPT); Report Connections cho 1 slicer dieu khien ca 2 pivot; nut Multi-select de chon nhieu; Slicer Options > Columns (2 hoac 4) + keo rong.",
+      "vi_du": "Slicer Nha PP 2 cot; chon FPT chi hien FPT o ca 2 bang; frames xac nhan slicer noi FPT/Viettel/VNPT"
+    },
+    {
+      "ten": "Group Ngay + cot Thang/Nam",
+      "cong_thuc": "Chuot phai Ngay trong pivot > Group > Months/Quarters/Years; hoac them cot =MONTH(ngay), =YEAR(ngay) lam Slicer",
+      "giai_thich": "Ngay le (rat nhieu ngay) kho loc; group theo Thang/Nam hoac chen cot phu Thang/Nam de slicer gon. Video goi y chen cot Thang/Nam.",
+      "vi_du": "Them cot Thang=MONTH(A2), Nam=YEAR(A2); Slicer Thang/Nam thay vi hang tram ngay"
+    },
+    {
+      "ten": "PivotChart + Field Buttons + Refresh",
+      "cong_thuc": "Click pivot > Insert > PivotChart > chon Column/Pie > OK; chuot phai chart > Hide All Field Buttons; Data > Refresh All (+ Change Data Source)",
+      "giai_thich": "PivotChart gan voi pivot, loc Field Buttons; them dong vao Table DuLieu xong Refresh de pivot cap nhat; Change Data Source =DuLieu dam bao nguon dung.",
+      "vi_du": "PivotChart cot: Mien Nam 40%, Mien Trung 35%; an Field Buttons cho dep; them 21/3/2020 Mien Nam SP01 30 > Refresh thay so moi"
+    }
+  ],
+  "thuat_toan_quy_trinh": [
+    {
+      "ten": "Chuan bi Table + chen Pivot",
+      "cac_buoc": [
+        "Click o trong vung ~5000 dong > Insert > Table > tich Headers > OK",
+        "Doi kieu hien thi + dat ten 'DuLieu' (Name, lien nhau) > Enter",
+        "Them dong test: Table tu mo rong (vung cham)",
+        "Click trong Table > Insert > PivotTable > New Worksheet > OK"
+      ]
+    },
+    {
+      "ten": "Keo fields tao bao cao dau tien",
+      "cac_buoc": [
+        "Keo Khu vuc vao Filters (loc Mien Bac thu)",
+        "Keo San pham vao Columns, Nha PP vao Rows",
+        "Keo Doanh thu vao Values (mac dinh Sum)",
+        "Dinh dang Number phan cach nghin, giam thap phan"
+      ]
+    },
+    {
+      "ten": "Tuy bien Values: Average, %, doi ten",
+      "cac_buoc": [
+        "Keo them Doanh thu vao Values 2-3 lan",
+        "Values2: Settings > Average (TB); Values3: Show Values As % Grand Total",
+        "Doi ten o Formula Bar: Tong/Trung binh/Ty le",
+        "Number Format lai cho tung cot"
+      ]
+    },
+    {
+      "ten": "Trinh bay: Subtotal/GrandTotal/Layout/Sort",
+      "cac_buoc": [
+        "Design > Subtotals/Grand Totals: On/Off tuy can",
+        "Report Layout > Show in Tabular Form",
+        "Sort San pham A-Z/Z-A; sort Doanh thu NPP",
+        "Dung +/- thu gon/mo chi tiet Mien Nam..."
+      ]
+    },
+    {
+      "ten": "Copy pivot + ve PivotChart",
+      "cac_buoc": [
+        "Boi den ca pivot > Copy > paste o khac (fields di theo)",
+        "Vung moi keo lai (vd Khu vuc>Rows de xem theo vung)",
+        "Click pivot > Insert > PivotChart > chon cot/trong > OK; an Field Buttons neu roi",
+        "Chen Slicer: Analyze > Insert Slicer > Nha PP, Ngay; Columns 2/4; Multi-select de chon nhieu NPP",
+        "Share slicer: chuot phai Slicer > Report Connections > tich ca 2 pivot de loc dong bo",
+        "Ngay nhieu: Group > Months/Years hoac chen cot Thang=MONTH(), Nam=YEAR() lam slicer gon",
+        "Them du lieu vao Table DuLieu > Refresh All de cap nhat pivot/chart"
+      ]
+    }
+  ],
+  "cau_hoi": [
+    {
+      "id": 1,
+      "cau": "Du lieu bai 20 lon co nao?",
+      "A": "Gan 5000 dong (A1:F4998)",
+      "B": "10 dong",
+      "C": "100 dong",
+      "D": "5 dong",
+      "dap_an": "A",
+      "giai_thich": "Du lieu lon hay doi nen dung Pivot."
+    },
+    {
+      "id": 2,
+      "cau": "Thao tac: Du lieu bai 20 lon co nao?",
+      "A": "Gan 5000 dong (A1:F4998)",
+      "B": "10 dong",
+      "C": "100 dong",
+      "D": "5 dong",
+      "dap_an": "A",
+      "giai_thich": "Du lieu lon hay doi nen dung Pivot."
+    },
+    {
+      "id": 3,
+      "cau": "PivotTable manh nhat o gi?",
+      "A": "Keo tha phan tich/bao cao/chart du lieu lon",
+      "B": "Go chu",
+      "C": "Ve hinh",
+      "D": "Nghe nhac",
+      "dap_an": "A",
+      "giai_thich": "Khong can cong thuc phuc tap."
+    },
+    {
+      "id": 4,
+      "cau": "Thao tac: PivotTable manh nhat o gi?",
+      "A": "Keo tha phan tich/bao cao/chart du lieu lon",
+      "B": "Go chu",
+      "C": "Ve hinh",
+      "D": "Nghe nhac",
+      "dap_an": "A",
+      "giai_thich": "Khong can cong thuc phuc tap."
+    },
+    {
+      "id": 5,
+      "cau": "Truoc khi tao Pivot nen lam gi?",
+      "A": "Tao Table (Ctrl+T) + dat ten",
+      "B": "Xoa het",
+      "C": "Tat may",
+      "D": "In ra",
+      "dap_an": "A",
+      "giai_thich": "Table tu mo rong, Pivot tu cap nhat."
+    },
+    {
+      "id": 6,
+      "cau": "Thao tac: Truoc khi tao Pivot nen lam gi?",
+      "A": "Tao Table (Ctrl+T) + dat ten",
+      "B": "Xoa het",
+      "C": "Tat may",
+      "D": "In ra",
+      "dap_an": "A",
+      "giai_thich": "Table tu mo rong, Pivot tu cap nhat."
+    },
+    {
+      "id": 7,
+      "cau": "Nguon Pivot sau khi tao Table la gi?",
+      "A": "Ten Table (vd DuLieu)",
+      "B": "A1 co dinh",
+      "C": "So 0",
+      "D": "Chuoi rong",
+      "dap_an": "A",
+      "giai_thich": "Khong con $A$1:$F$4998 co dinh."
+    },
+    {
+      "id": 8,
+      "cau": "Thao tac: Nguon Pivot sau khi tao Table la gi?",
+      "A": "Ten Table (vd DuLieu)",
+      "B": "A1 co dinh",
+      "C": "So 0",
+      "D": "Chuoi rong",
+      "dap_an": "A",
+      "giai_thich": "Khong con $A$1:$F$4998 co dinh."
+    },
+    {
+      "id": 9,
+      "cau": "Ten Table phai the nao?",
+      "A": "Lien nhau (DuLieu, lien nhau khong dau)",
+      "B": "Co dau cach",
+      "C": "Co ky tu la",
+      "D": "Tuy y",
+      "dap_an": "A",
+      "giai_thich": "Ten co dau cach gay loi tham chieu."
+    },
+    {
+      "id": 10,
+      "cau": "Thao tac: Ten Table phai the nao?",
+      "A": "Lien nhau (DuLieu, lien nhau khong dau)",
+      "B": "Co dau cach",
+      "C": "Co ky tu la",
+      "D": "Tuy y",
+      "dap_an": "A",
+      "giai_thich": "Ten co dau cach gay loi tham chieu."
+    },
+    {
+      "id": 11,
+      "cau": "Them dong moi vao Table thi sao?",
+      "A": "Tu nam vao Table (vung cham)",
+      "B": "Rot ra ngoai",
+      "C": "Mat di",
+      "D": "Bao loi",
+      "dap_an": "A",
+      "giai_thich": "Diem cuoi Table mo rong."
+    },
+    {
+      "id": 12,
+      "cau": "Thao tac: Them dong moi vao Table thi sao?",
+      "A": "Tu nam vao Table (vung cham)",
+      "B": "Rot ra ngoai",
+      "C": "Mat di",
+      "D": "Bao loi",
+      "dap_an": "A",
+      "giai_thich": "Diem cuoi Table mo rong."
+    },
+    {
+      "id": 13,
+      "cau": "Chen Pivot o dau?",
+      "A": "Insert > PivotTable",
+      "B": "Insert > Picture",
+      "C": "Insert > Shape",
+      "D": "Insert > Word",
+      "dap_an": "A",
+      "giai_thich": "Click trong Table roi Insert."
+    },
+    {
+      "id": 14,
+      "cau": "Thao tac: Chen Pivot o dau?",
+      "A": "Insert > PivotTable",
+      "B": "Insert > Picture",
+      "C": "Insert > Shape",
+      "D": "Insert > Word",
+      "dap_an": "A",
+      "giai_thich": "Click trong Table roi Insert."
+    },
+    {
+      "id": 15,
+      "cau": "Nen dat Pivot o dau?",
+      "A": "New Worksheet",
+      "B": "Cung o",
+      "C": "Xoa sheet",
+      "D": "Khong dat",
+      "dap_an": "A",
+      "giai_thich": "Sheet moi sach cho pivot."
+    },
+    {
+      "id": 16,
+      "cau": "Thao tac: Nen dat Pivot o dau?",
+      "A": "New Worksheet",
+      "B": "Cung o",
+      "C": "Xoa sheet",
+      "D": "Khong dat",
+      "dap_an": "A",
+      "giai_thich": "Sheet moi sach cho pivot."
+    },
+    {
+      "id": 17,
+      "cau": "Pane quan ly Pivot ten gi?",
+      "A": "PivotTable Fields",
+      "B": "Formula Bar",
+      "C": "Status Bar",
+      "D": "Title Bar",
+      "dap_an": "A",
+      "giai_thich": "Chua Search + Fields + 4 o keo."
+    },
+    {
+      "id": 18,
+      "cau": "Thao tac: Pane quan ly Pivot ten gi?",
+      "A": "PivotTable Fields",
+      "B": "Formula Bar",
+      "C": "Status Bar",
+      "D": "Title Bar",
+      "dap_an": "A",
+      "giai_thich": "Chua Search + Fields + 4 o keo."
+    },
+    {
+      "id": 19,
+      "cau": "4 o keo trong Fields la gi?",
+      "A": "Filters, Columns, Rows, Values",
+      "B": "A,B,C,D",
+      "C": "1,2,3,4",
+      "D": "X,Y,Z,T",
+      "dap_an": "A",
+      "giai_thich": "Bon vung keo tha."
+    },
+    {
+      "id": 20,
+      "cau": "Thao tac: 4 o keo trong Fields la gi?",
+      "A": "Filters, Columns, Rows, Values",
+      "B": "A,B,C,D",
+      "C": "1,2,3,4",
+      "D": "X,Y,Z,T",
+      "dap_an": "A",
+      "giai_thich": "Bon vung keo tha."
+    },
+    {
+      "id": 21,
+      "cau": "Keo Khu vuc vao dau de loc?",
+      "A": "Filters",
+      "B": "Values",
+      "C": "Rows",
+      "D": "Columns",
+      "dap_an": "A",
+      "giai_thich": "Loc Mien Bac/Nam/Trung tren dau."
+    },
+    {
+      "id": 22,
+      "cau": "Thao tac: Keo Khu vuc vao dau de loc?",
+      "A": "Filters",
+      "B": "Values",
+      "C": "Rows",
+      "D": "Columns",
+      "dap_an": "A",
+      "giai_thich": "Loc Mien Bac/Nam/Trung tren dau."
+    },
+    {
+      "id": 23,
+      "cau": "Keo San pham vao dau?",
+      "A": "Columns",
+      "B": "Filters",
+      "C": "Values",
+      "D": "Rows",
+      "dap_an": "A",
+      "giai_thich": "Thanh cot SP01-SP10 ngang."
+    },
+    {
+      "id": 24,
+      "cau": "Thao tac: Keo San pham vao dau?",
+      "A": "Columns",
+      "B": "Filters",
+      "C": "Values",
+      "D": "Rows",
+      "dap_an": "A",
+      "giai_thich": "Thanh cot SP01-SP10 ngang."
+    },
+    {
+      "id": 25,
+      "cau": "Keo Nha phan phoi vao dau?",
+      "A": "Rows",
+      "B": "Filters",
+      "C": "Values",
+      "D": "Columns",
+      "dap_an": "A",
+      "giai_thich": "Thanh hang doc."
+    },
+    {
+      "id": 26,
+      "cau": "Thao tac: Keo Nha phan phoi vao dau?",
+      "A": "Rows",
+      "B": "Filters",
+      "C": "Values",
+      "D": "Columns",
+      "dap_an": "A",
+      "giai_thich": "Thanh hang doc."
+    },
+    {
+      "id": 27,
+      "cau": "Keo Doanh thu vao dau?",
+      "A": "Values",
+      "B": "Filters",
+      "C": "Columns",
+      "D": "Rows",
+      "dap_an": "A",
+      "giai_thich": "So lieu tinh toan."
+    },
+    {
+      "id": 28,
+      "cau": "Thao tac: Keo Doanh thu vao dau?",
+      "A": "Values",
+      "B": "Filters",
+      "C": "Columns",
+      "D": "Rows",
+      "dap_an": "A",
+      "giai_thich": "So lieu tinh toan."
+    },
+    {
+      "id": 29,
+      "cau": "So mac dinh trong Values la gi?",
+      "A": "Sum (tong)",
+      "B": "Average",
+      "C": "Count",
+      "D": "Max",
+      "dap_an": "A",
+      "giai_thich": "So thi Sum."
+    },
+    {
+      "id": 30,
+      "cau": "Thao tac: So mac dinh trong Values la gi?",
+      "A": "Sum (tong)",
+      "B": "Average",
+      "C": "Count",
+      "D": "Max",
+      "dap_an": "A",
+      "giai_thich": "So thi Sum."
+    },
+    {
+      "id": 31,
+      "cau": "Doi Sum sang Average o dau?",
+      "A": "Value Field Settings",
+      "B": "Font Settings",
+      "C": "Print Settings",
+      "D": "Page Settings",
+      "dap_an": "A",
+      "giai_thich": "Chon Average > OK."
+    },
+    {
+      "id": 32,
+      "cau": "Thao tac: Doi Sum sang Average o dau?",
+      "A": "Value Field Settings",
+      "B": "Font Settings",
+      "C": "Print Settings",
+      "D": "Page Settings",
+      "dap_an": "A",
+      "giai_thich": "Chon Average > OK."
+    },
+    {
+      "id": 33,
+      "cau": "Xem ty le % chon gi?",
+      "A": "Show Values As > % of Grand Total",
+      "B": "Show Nothing",
+      "C": "Show Error",
+      "D": "Show Blank",
+      "dap_an": "A",
+      "giai_thich": "Tong 100%, SP10 5.24%..."
+    },
+    {
+      "id": 34,
+      "cau": "Thao tac: Xem ty le % chon gi?",
+      "A": "Show Values As > % of Grand Total",
+      "B": "Show Nothing",
+      "C": "Show Error",
+      "D": "Show Blank",
+      "dap_an": "A",
+      "giai_thich": "Tong 100%, SP10 5.24%..."
+    },
+    {
+      "id": 35,
+      "cau": "Doi ten cot pivot lam the nao?",
+      "A": "Click ten > Formula Bar go lai > Enter",
+      "B": "Khong doi duoc",
+      "C": "Xoa di",
+      "D": "Ve lai",
+      "dap_an": "A",
+      "giai_thich": "Vd Tong/Trung binh/Ty le."
+    },
+    {
+      "id": 36,
+      "cau": "Thao tac: Doi ten cot pivot lam the nao?",
+      "A": "Click ten > Formula Bar go lai > Enter",
+      "B": "Khong doi duoc",
+      "C": "Xoa di",
+      "D": "Ve lai",
+      "dap_an": "A",
+      "giai_thich": "Vd Tong/Trung binh/Ty le."
+    },
+    {
+      "id": 37,
+      "cau": "So xau chua phan cach nghin thi sao?",
+      "A": "Number Format > Use 1000 Separator",
+      "B": "De vay",
+      "C": "Xoa so",
+      "D": "Nhan doi",
+      "dap_an": "A",
+      "giai_thich": "1,234,567 de doc; giam decimal."
+    },
+    {
+      "id": 38,
+      "cau": "Thao tac: So xau chua phan cach nghin thi sao?",
+      "A": "Number Format > Use 1000 Separator",
+      "B": "De vay",
+      "C": "Xoa so",
+      "D": "Nhan doi",
+      "dap_an": "A",
+      "giai_thich": "1,234,567 de doc; giam decimal."
+    },
+    {
+      "id": 39,
+      "cau": "Keo Khu vuc xuong Rows thi thay gi?",
+      "A": "Nhom Mien Bac/Nam/Trung + SP con + nut +/-",
+      "B": "Mat het",
+      "C": "Bao loi",
+      "D": "Tat may",
+      "dap_an": "A",
+      "giai_thich": "Xem tong tung vung + chi tiet."
+    },
+    {
+      "id": 40,
+      "cau": "Thao tac: Keo Khu vuc xuong Rows thi thay gi?",
+      "A": "Nhom Mien Bac/Nam/Trung + SP con + nut +/-",
+      "B": "Mat het",
+      "C": "Bao loi",
+      "D": "Tat may",
+      "dap_an": "A",
+      "giai_thich": "Xem tong tung vung + chi tiet."
+    }
+  ]
+}

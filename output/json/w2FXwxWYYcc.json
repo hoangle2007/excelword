@@ -1,0 +1,514 @@
+{
+  "video_id": "w2FXwxWYYcc",
+  "bai": "Bai 16 thu thuat Excel 3/4: Dropdown thong minh, AutoCorrect, Co gian chu, Chong trung",
+  "url": "https://www.youtube.com/watch?v=w2FXwxWYYcc",
+  "cong_thuc": [
+    {
+      "ten": "Dropdown INDIRECT + Table",
+      "cong_thuc": "=INDIRECT(\"sp\")",
+      "giai_thich": "Dung trong Data Validation Source de tham chieu toi Table co ten 'sp'. Them dong moi trong Table tu dong cap nhat dropdown.",
+      "vi_du": "Tao Table tu A3:A8 dat ten sp; D11 Validation Source =INDIRECT(\"sp\"); them GX06, GX07 tu hien"
+    },
+    {
+      "ten": "Dropdown bang Named Range + F3",
+      "cong_thuc": "Dat ten vung (Name Box): sp; Source: =sp (hoac F3 dan ten)",
+      "giai_thich": "Dat ten cho vung danh muc, Validation tham chieu ten. F3 hien danh sach ten de chon nhanh.",
+      "vi_du": "Boi den A4:A8, Name Box go sp > D12 Validation Source =sp; sua Name Manager bo tieu de neu thua"
+    },
+    {
+      "ten": "Dropdown dong voi OFFSET + COUNTA",
+      "cong_thuc": "=OFFSET($A$3,1,0,COUNTA($A:$A)-1,1)",
+      "giai_thich": "OFFSET tao vung dong: bat dau tu A3 dich 1 hang, cao = so o co du lieu tru tieu de. Them SP moi tu cap nhat.",
+      "vi_du": "D15 Source =OFFSET($A$3,1,0,COUNTA($A:$A)-1,1); them GX06 tu co trong list. Neu moc A3 thi dich 1, moc A4 thi dich 0"
+    },
+    {
+      "ten": "AutoCorrect them quy tac",
+      "cong_thuc": "File > Options > Proofing > AutoCorrect Options > Replace: gl With: Gai Excel > Add",
+      "giai_thich": "Go tat tu dong thanh cum day du. Tiet kiem khi nhap lap lai.",
+      "vi_du": "Them gl->Gai Excel, gw->Gai Word; go gl + Enter thanh Gai Excel"
+    },
+    {
+      "ten": "Xoa quy tac AutoCorrect",
+      "cong_thuc": "File > Options > Proofing > AutoCorrect > chon quy tac > Delete",
+      "giai_thich": "Chon quy tac cu, Delete de go bo.",
+      "vi_du": "Chon gl, Delete; go gl khong doi nua"
+    },
+    {
+      "ten": "Shrink to fit (co gian chu vua o)",
+      "cong_thuc": "Ctrl+1 > Alignment > tich Shrink to fit > OK",
+      "giai_thich": "Tu dong thu nho co chu de hien thi vua o, tranh tran trang in. Keo rong o thi chu tro lai co mac dinh.",
+      "vi_du": "Boi den cot thang (Ctrl de chon nhieu) > Format Cells > Shrink to fit; so ##### bien mat"
+    },
+    {
+      "ten": "Chong nhap trung (Custom)",
+      "cong_thuc": "=COUNTIF($B:$B,$B1)<2",
+      "giai_thich": "Dem so lan xuat hien cua gia tri trong cot; chi cho phep <2 (khong trung). Ap dung Data Validation Custom cho ca cot.",
+      "vi_du": "Chon cot Ma NV > Validation Custom =COUNTIF($B:$B,$B1)<2; nhap NV001 lan 2 bao loi"
+    },
+    {
+      "ten": "Thong bao loi trung (Error Alert)",
+      "cong_thuc": "Data Validation > Error Alert > Style Stop, Title + Message",
+      "giai_thich": "Tuy chinh thong bao khi nhap trung, vd 'Da co ma nhan vien nay'.",
+      "vi_du": "Error Alert Title: Trung ma; Message: Da co ma nay. Retry/Cancel khi vi pham"
+    }
+  ],
+  "thuat_toan_quy_trinh": [
+    {
+      "ten": "Tao dropdown thong minh bang Table + INDIRECT",
+      "cac_buoc": [
+        "Boi den nguon gom ca tieu de (vd A3:A8)",
+        "Insert > Table > tich My table has headers > OK",
+        "Doi ten Table thanh sp (Table Design)",
+        "O can dropdown: Data > Validation > Allow List > Source =INDIRECT(\"sp\")",
+        "OK; them GX06/GX07 duoi Table tu co trong list"
+      ]
+    },
+    {
+      "ten": "Tao dropdown bang Named Range",
+      "cac_buoc": [
+        "Boi den vung danh muc",
+        "Go ten sp vao Name Box > Enter",
+        "O can dropdown: Validation > Source =sp (hoac go =, bam F3 chon sp)",
+        "Neu thua tieu de: Formulas > Name Manager > Edit > sua vung A4:A8"
+      ]
+    },
+    {
+      "ten": "Tao dropdown bang OFFSET + COUNTA",
+      "cac_buoc": [
+        "Xac dinh o moc (vd A3 tieu de San pham)",
+        "Validation Source =OFFSET($A$3,1,0,COUNTA($A:$A)-1,1)",
+        "OK; kiem tra list tu GX01-GX05",
+        "Them GX06, mo dropdown thay da cap nhat; sua dich hang 1->0 neu moc la A4"
+      ]
+    },
+    {
+      "ten": "Dung AutoCorrect go tat",
+      "cac_buoc": [
+        "File > Options > Proofing > AutoCorrect Options",
+        "Replace go gl, With go Gai Excel > Add (tuong tu gw->Gai Word)",
+        "OK > OK",
+        "Go gl + Enter tu doi thanh Gai Excel; muon xoa: vao lai > Delete"
+      ]
+    },
+    {
+      "ten": "Tu dong co gian chu vua o",
+      "cac_buoc": [
+        "Boi den cac o can co gian (giu Ctrl de chon nhieu cot thang)",
+        "Chuot phai > Format Cells (Ctrl+1) > tab Alignment",
+        "Tich Shrink to fit > OK",
+        "Kiem tra: thu hep o chu nho lai, keo rong chu tro lai mac dinh"
+      ]
+    },
+    {
+      "ten": "Ngan nhap trung ma NV",
+      "cac_buoc": [
+        "Chon cot/vung Ma NV",
+        "Data > Data Validation > Allow: Custom",
+        "Formula =COUNTIF($B:$B,$B1)<2",
+        "Sang tab Error Alert: nhap Title/Message 'Da co ma nay' > OK; thu nhap NV001 lan 2 se bao loi"
+      ]
+    }
+  ],
+  "cau_hoi": [
+    {
+      "id": 1,
+      "cau": "Vi sao dropdown thuong khong tu cap nhat khi them GX06?",
+      "A": "Vi vung Source co dinh",
+      "B": "Vi may hong",
+      "C": "Vi thieu RAM",
+      "D": "Vi sai font",
+      "dap_an": "A",
+      "giai_thich": "Source co dinh A3:A8 khong bao gom dong moi."
+    },
+    {
+      "id": 2,
+      "cau": "Van dung: Vi sao dropdown thuong khong tu cap nhat khi them GX06?",
+      "A": "Vi vung Source co dinh",
+      "B": "Vi may hong",
+      "C": "Vi thieu RAM",
+      "D": "Vi sai font",
+      "dap_an": "A",
+      "giai_thich": "Source co dinh A3:A8 khong bao gom dong moi."
+    },
+    {
+      "id": 3,
+      "cau": "De dropdown tu cap nhat, buoc dau tien la gi?",
+      "A": "Tao Table cho vung nguon (Insert > Table)",
+      "B": "Xoa du lieu",
+      "C": "Tat may",
+      "D": "Doi font",
+      "dap_an": "A",
+      "giai_thich": "Table tu mo rong khi them dong."
+    },
+    {
+      "id": 4,
+      "cau": "Van dung: De dropdown tu cap nhat, buoc dau tien la gi?",
+      "A": "Tao Table cho vung nguon (Insert > Table)",
+      "B": "Xoa du lieu",
+      "C": "Tat may",
+      "D": "Doi font",
+      "dap_an": "A",
+      "giai_thich": "Table tu mo rong khi them dong."
+    },
+    {
+      "id": 5,
+      "cau": "Dat ten Table thanh sp de lam gi?",
+      "A": "De INDIRECT('sp') tham chieu de dang",
+      "B": "De dep",
+      "C": "De tang dung luong",
+      "D": "Khong co tac dung",
+      "dap_an": "A",
+      "giai_thich": "Ten gon giup cong thuc Validation ngan gon."
+    },
+    {
+      "id": 6,
+      "cau": "Van dung: Dat ten Table thanh sp de lam gi?",
+      "A": "De INDIRECT('sp') tham chieu de dang",
+      "B": "De dep",
+      "C": "De tang dung luong",
+      "D": "Khong co tac dung",
+      "dap_an": "A",
+      "giai_thich": "Ten gon giup cong thuc Validation ngan gon."
+    },
+    {
+      "id": 7,
+      "cau": "Cong thuc dropdown thong minh bang Table la gi?",
+      "A": "=INDIRECT(\"sp\")",
+      "B": "=SUM(sp)",
+      "C": "=VLOOKUP(sp)",
+      "D": "=IF(sp)",
+      "dap_an": "A",
+      "giai_thich": "INDIRECT chuyen chuoi ten thanh tham chieu dong."
+    },
+    {
+      "id": 8,
+      "cau": "Van dung: Cong thuc dropdown thong minh bang Table la gi?",
+      "A": "=INDIRECT(\"sp\")",
+      "B": "=SUM(sp)",
+      "C": "=VLOOKUP(sp)",
+      "D": "=IF(sp)",
+      "dap_an": "A",
+      "giai_thich": "INDIRECT chuyen chuoi ten thanh tham chieu dong."
+    },
+    {
+      "id": 9,
+      "cau": "Cach 2 tao dropdown thong minh dung gi?",
+      "A": "Named Range + F3",
+      "B": "PivotTable",
+      "C": "Conditional Formatting",
+      "D": "WordArt",
+      "dap_an": "A",
+      "giai_thich": "Dat ten vung sp roi Source =sp."
+    },
+    {
+      "id": 10,
+      "cau": "Van dung: Cach 2 tao dropdown thong minh dung gi?",
+      "A": "Named Range + F3",
+      "B": "PivotTable",
+      "C": "Conditional Formatting",
+      "D": "WordArt",
+      "dap_an": "A",
+      "giai_thich": "Dat ten vung sp roi Source =sp."
+    },
+    {
+      "id": 11,
+      "cau": "Phim F3 trong hop Source co tac dung gi?",
+      "A": "Hien danh sach ten (Paste Name) de chon",
+      "B": "Luu file",
+      "C": "In file",
+      "D": "Xoa o",
+      "dap_an": "A",
+      "giai_thich": "F3 mo Paste Name, chon sp nhanh khong can go."
+    },
+    {
+      "id": 12,
+      "cau": "Van dung: Phim F3 trong hop Source co tac dung gi?",
+      "A": "Hien danh sach ten (Paste Name) de chon",
+      "B": "Luu file",
+      "C": "In file",
+      "D": "Xoa o",
+      "dap_an": "A",
+      "giai_thich": "F3 mo Paste Name, chon sp nhanh khong can go."
+    },
+    {
+      "id": 13,
+      "cau": "Neu dropdown thua dong tieu de 'San pham' thi sua o dau?",
+      "A": "Formulas > Name Manager > Edit vung",
+      "B": "Xoa sheet",
+      "C": "Cai lai Excel",
+      "D": "Doi may",
+      "dap_an": "A",
+      "giai_thich": "Sua vung tu A3:A8 thanh A4:A8 de bo tieu de."
+    },
+    {
+      "id": 14,
+      "cau": "Van dung: Neu dropdown thua dong tieu de 'San pham' thi sua o dau?",
+      "A": "Formulas > Name Manager > Edit vung",
+      "B": "Xoa sheet",
+      "C": "Cai lai Excel",
+      "D": "Doi may",
+      "dap_an": "A",
+      "giai_thich": "Sua vung tu A3:A8 thanh A4:A8 de bo tieu de."
+    },
+    {
+      "id": 15,
+      "cau": "Cong thuc OFFSET dong trong video la gi?",
+      "A": "=OFFSET($A$3,1,0,COUNTA($A:$A)-1,1)",
+      "B": "=SUM(A:A)",
+      "C": "=AVERAGE(A:A)",
+      "D": "=MAX(A:A)",
+      "dap_an": "A",
+      "giai_thich": "Dich 1 hang tu A3, cao = dem -1 (tru tieu de)."
+    },
+    {
+      "id": 16,
+      "cau": "Van dung: Cong thuc OFFSET dong trong video la gi?",
+      "A": "=OFFSET($A$3,1,0,COUNTA($A:$A)-1,1)",
+      "B": "=SUM(A:A)",
+      "C": "=AVERAGE(A:A)",
+      "D": "=MAX(A:A)",
+      "dap_an": "A",
+      "giai_thich": "Dich 1 hang tu A3, cao = dem -1 (tru tieu de)."
+    },
+    {
+      "id": 17,
+      "cau": "Ham COUNTA trong OFFSET de lam gi?",
+      "A": "Dem so o co du lieu de tinh chieu cao vung",
+      "B": "Tinh tong",
+      "C": "Tinh trung binh",
+      "D": "Tim max",
+      "dap_an": "A",
+      "giai_thich": "COUNTA($A:$A)-1 = so san pham (bo tieu de)."
+    },
+    {
+      "id": 18,
+      "cau": "Van dung: Ham COUNTA trong OFFSET de lam gi?",
+      "A": "Dem so o co du lieu de tinh chieu cao vung",
+      "B": "Tinh tong",
+      "C": "Tinh trung binh",
+      "D": "Tim max",
+      "dap_an": "A",
+      "giai_thich": "COUNTA($A:$A)-1 = so san pham (bo tieu de)."
+    },
+    {
+      "id": 19,
+      "cau": "Tai sao phai -1 trong COUNTA-1?",
+      "A": "De tru o tieu de San pham",
+      "B": "De tru o trong",
+      "C": "Thich thi tru",
+      "D": "De cong them",
+      "dap_an": "A",
+      "giai_thich": "Vung dem ca tieu de nen tru 1."
+    },
+    {
+      "id": 20,
+      "cau": "Van dung: Tai sao phai -1 trong COUNTA-1?",
+      "A": "De tru o tieu de San pham",
+      "B": "De tru o trong",
+      "C": "Thich thi tru",
+      "D": "De cong them",
+      "dap_an": "A",
+      "giai_thich": "Vung dem ca tieu de nen tru 1."
+    },
+    {
+      "id": 21,
+      "cau": "Neu moc OFFSET la A4 (o SP dau) thi dich bao nhieu hang?",
+      "A": "0 hang",
+      "B": "1 hang",
+      "C": "2 hang",
+      "D": "3 hang",
+      "dap_an": "A",
+      "giai_thich": "Moc ngay tai du lieu dau thi khong dich; moc tieu de A3 thi dich 1."
+    },
+    {
+      "id": 22,
+      "cau": "Van dung: Neu moc OFFSET la A4 (o SP dau) thi dich bao nhieu hang?",
+      "A": "0 hang",
+      "B": "1 hang",
+      "C": "2 hang",
+      "D": "3 hang",
+      "dap_an": "A",
+      "giai_thich": "Moc ngay tai du lieu dau thi khong dich; moc tieu de A3 thi dich 1."
+    },
+    {
+      "id": 23,
+      "cau": "AutoCorrect mo o dau?",
+      "A": "File > Options > Proofing > AutoCorrect Options",
+      "B": "Insert > Chart",
+      "C": "Data > Sort",
+      "D": "View > Zoom",
+      "dap_an": "A",
+      "giai_thich": "Duong dan chuan de them/xoa quy tac."
+    },
+    {
+      "id": 24,
+      "cau": "Van dung: AutoCorrect mo o dau?",
+      "A": "File > Options > Proofing > AutoCorrect Options",
+      "B": "Insert > Chart",
+      "C": "Data > Sort",
+      "D": "View > Zoom",
+      "dap_an": "A",
+      "giai_thich": "Duong dan chuan de them/xoa quy tac."
+    },
+    {
+      "id": 25,
+      "cau": "Them quy tac gl thanh Gai Excel lam the nao?",
+      "A": "Replace: gl, With: Gai Excel > Add",
+      "B": "Xoa gl",
+      "C": "Copy paste",
+      "D": "Khong lam duoc",
+      "dap_an": "A",
+      "giai_thich": "Add de luu quy tac moi."
+    },
+    {
+      "id": 26,
+      "cau": "Van dung: Them quy tac gl thanh Gai Excel lam the nao?",
+      "A": "Replace: gl, With: Gai Excel > Add",
+      "B": "Xoa gl",
+      "C": "Copy paste",
+      "D": "Khong lam duoc",
+      "dap_an": "A",
+      "giai_thich": "Add de luu quy tac moi."
+    },
+    {
+      "id": 27,
+      "cau": "Sau khi them AutoCorrect, go gl + Enter thi sao?",
+      "A": "Tu doi thanh Gai Excel",
+      "B": "Mat chu",
+      "C": "Bao loi",
+      "D": "Tat may",
+      "dap_an": "A",
+      "giai_thich": "Do la tac dung go tat."
+    },
+    {
+      "id": 28,
+      "cau": "Van dung: Sau khi them AutoCorrect, go gl + Enter thi sao?",
+      "A": "Tu doi thanh Gai Excel",
+      "B": "Mat chu",
+      "C": "Bao loi",
+      "D": "Tat may",
+      "dap_an": "A",
+      "giai_thich": "Do la tac dung go tat."
+    },
+    {
+      "id": 29,
+      "cau": "Xoa quy tac AutoCorrect lam the nao?",
+      "A": "Vao lai AutoCorrect > chon quy tac > Delete",
+      "B": "Xoa file",
+      "C": "Ghi de",
+      "D": "Nhan Esc",
+      "dap_an": "A",
+      "giai_thich": "Delete go bo quy tac."
+    },
+    {
+      "id": 30,
+      "cau": "Van dung: Xoa quy tac AutoCorrect lam the nao?",
+      "A": "Vao lai AutoCorrect > chon quy tac > Delete",
+      "B": "Xoa file",
+      "C": "Ghi de",
+      "D": "Nhan Esc",
+      "dap_an": "A",
+      "giai_thich": "Delete go bo quy tac."
+    },
+    {
+      "id": 31,
+      "cau": "Shrink to fit de lam gi?",
+      "A": "Tu co gian chu vua o, tranh tran trang in",
+      "B": "Lam chu to len",
+      "C": "Xoa chu",
+      "D": "An cot",
+      "dap_an": "A",
+      "giai_thich": "Giu vung in 1 trang ma van hien du so #####."
+    },
+    {
+      "id": 32,
+      "cau": "Van dung: Shrink to fit de lam gi?",
+      "A": "Tu co gian chu vua o, tranh tran trang in",
+      "B": "Lam chu to len",
+      "C": "Xoa chu",
+      "D": "An cot",
+      "dap_an": "A",
+      "giai_thich": "Giu vung in 1 trang ma van hien du so #####."
+    },
+    {
+      "id": 33,
+      "cau": "Bat Shrink to fit o dau?",
+      "A": "Format Cells > Alignment > Shrink to fit",
+      "B": "Insert > Picture",
+      "C": "Data > Filter",
+      "D": "Home > Sort",
+      "dap_an": "A",
+      "giai_thich": "Ctrl+1 mo Format Cells."
+    },
+    {
+      "id": 34,
+      "cau": "Van dung: Bat Shrink to fit o dau?",
+      "A": "Format Cells > Alignment > Shrink to fit",
+      "B": "Insert > Picture",
+      "C": "Data > Filter",
+      "D": "Home > Sort",
+      "dap_an": "A",
+      "giai_thich": "Ctrl+1 mo Format Cells."
+    },
+    {
+      "id": 35,
+      "cau": "Khi keo rong o sau khi Shrink to fit thi sao?",
+      "A": "Chu tro lai co mac dinh",
+      "B": "Chu mat",
+      "C": "Chu to dan",
+      "D": "Bao loi",
+      "dap_an": "A",
+      "giai_thich": "Co chu tu dong phong lai."
+    },
+    {
+      "id": 36,
+      "cau": "Van dung: Khi keo rong o sau khi Shrink to fit thi sao?",
+      "A": "Chu tro lai co mac dinh",
+      "B": "Chu mat",
+      "C": "Chu to dan",
+      "D": "Bao loi",
+      "dap_an": "A",
+      "giai_thich": "Co chu tu dong phong lai."
+    },
+    {
+      "id": 37,
+      "cau": "Chon nhieu cot thang khong lien tuc dung phim gi?",
+      "A": "Giu Ctrl roi click chon",
+      "B": "Giu Alt",
+      "C": "Giu Shift",
+      "D": "Khong giu gi",
+      "dap_an": "A",
+      "giai_thich": "Ctrl giup chon nhieu vung roi."
+    },
+    {
+      "id": 38,
+      "cau": "Van dung: Chon nhieu cot thang khong lien tuc dung phim gi?",
+      "A": "Giu Ctrl roi click chon",
+      "B": "Giu Alt",
+      "C": "Giu Shift",
+      "D": "Khong giu gi",
+      "dap_an": "A",
+      "giai_thich": "Ctrl giup chon nhieu vung roi."
+    },
+    {
+      "id": 39,
+      "cau": "Cong thuc chong trung ma NV la gi?",
+      "A": "=COUNTIF($B:$B,$B1)<2",
+      "B": "=SUM(B:B)",
+      "C": "=AVERAGE(B:B)",
+      "D": "=MAX(B:B)",
+      "dap_an": "A",
+      "giai_thich": "Dem so lan xuat hien, <2 nghia la khong trung."
+    },
+    {
+      "id": 40,
+      "cau": "Van dung: Cong thuc chong trung ma NV la gi?",
+      "A": "=COUNTIF($B:$B,$B1)<2",
+      "B": "=SUM(B:B)",
+      "C": "=AVERAGE(B:B)",
+      "D": "=MAX(B:B)",
+      "dap_an": "A",
+      "giai_thich": "Dem so lan xuat hien, <2 nghia la khong trung."
+    }
+  ]
+}

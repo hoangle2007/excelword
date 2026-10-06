@@ -1,0 +1,355 @@
+{
+ "bai": 10,
+ "cau_hoi": [
+  {
+   "A": "Bôi đen các ô cần gộp rồi Layout > Merge Cells",
+   "B": "Nhấn Ctrl + S",
+   "C": "Vào File > Print",
+   "D": "Nhấn Alt + F4",
+   "cau": "Cách 1 gộp ô bằng Ribbon là?",
+   "dap_an": "A",
+   "giai_thich": "Bôi các ô cần gộp rồi Layout > Merge Cells.",
+   "id": 1,
+   "muc_do": "de"
+  },
+  {
+   "A": "Bôi đen rồi chuột phải > Merge Cells",
+   "B": "Nhấn Ctrl + A",
+   "C": "Nhấn Ctrl + O",
+   "D": "Vào View > Ruler",
+   "cau": "Cách 2 gộp ô bằng chuột phải là?",
+   "dap_an": "A",
+   "giai_thich": "Bôi các ô rồi chuột phải chọn Merge Cells.",
+   "id": 2,
+   "muc_do": "de"
+  },
+  {
+   "A": "Merge Cells",
+   "B": "Split Cells",
+   "C": "Delete Cells",
+   "D": "Insert Cells",
+   "cau": "Lệnh gộp nhiều ô thành 1 ô trong Word là?",
+   "dap_an": "A",
+   "giai_thich": "Merge Cells gộp các ô đã chọn thành một.",
+   "id": 3,
+   "muc_do": "de"
+  },
+  {
+   "A": "Bôi đen các ô cần gộp trước",
+   "B": "Nhấn Ctrl + S trước",
+   "C": "Tắt máy trước",
+   "D": "In ra trước",
+   "cau": "Bước 1 bắt buộc khi gộp ô là?",
+   "dap_an": "A",
+   "giai_thich": "Phải bôi đen các ô muốn gộp trước.",
+   "id": 4,
+   "muc_do": "de"
+  },
+  {
+   "A": "Layout (Table Layout)",
+   "B": "Home",
+   "C": "File",
+   "D": "View",
+   "cau": "Nút Merge Cells trên Ribbon nằm ở thẻ nào?",
+   "dap_an": "A",
+   "giai_thich": "Thẻ Layout của Table Tools > nhóm Merge.",
+   "id": 5,
+   "muc_do": "de"
+  },
+  {
+   "A": "3 ô hàng trên thành 1 ô tiêu đề 'Thông tin cá nhân'",
+   "B": "3 ô thành 3 ảnh",
+   "C": "3 ô thành 3 bảng",
+   "D": "3 ô bị xóa",
+   "cau": "Ví dụ 1 trong video gộp 3 ô hàng trên để làm gì?",
+   "dap_an": "A",
+   "giai_thich": "Gộp 3 ô trên cùng thành 1 ô tiêu đề.",
+   "id": 6,
+   "muc_do": "de"
+  },
+  {
+   "A": "2 ô gần nhau thành 1",
+   "B": "1 ô thành 2",
+   "C": "Bảng thành ảnh",
+   "D": "File thành PDF",
+   "cau": "Ví dụ 2 trong video gộp 2 ô gần nhau thì?",
+   "dap_an": "A",
+   "giai_thich": "Bôi 2 ô rồi Merge thành 1 ô.",
+   "id": 7,
+   "muc_do": "de"
+  },
+  {
+   "A": "Gộp 2 ô trong cột Số thứ tự",
+   "B": "Nhấn Alt + F4",
+   "C": "Nhấn Ctrl + S",
+   "D": "Vào File > Options",
+   "cau": "Ví dụ 3 trong video gộp ô ở đâu?",
+   "dap_an": "A",
+   "giai_thich": "Gộp 2 ô trong cột Số thứ tự, thao tác tương tự.",
+   "id": 8,
+   "muc_do": "de"
+  },
+  {
+   "A": "Các bản Word khác nhau gộp tương tự nhau",
+   "B": "Mỗi bản gộp khác nhau hoàn toàn",
+   "C": "Bản cũ không gộp được",
+   "D": "Bản mới không gộp được",
+   "cau": "Gộp ô trên các phiên bản Word khác nhau thì?",
+   "dap_an": "A",
+   "giai_thich": "Thao tác gộp tương tự nhau mọi phiên bản.",
+   "id": 9,
+   "muc_do": "de"
+  },
+  {
+   "A": "Merge Cells",
+   "B": "Delete Table",
+   "C": "Save As",
+   "D": "Print",
+   "cau": "Sau khi chuột phải, chọn mục nào để gộp?",
+   "dap_an": "A",
+   "giai_thich": "Chuột phải > Merge Cells.",
+   "id": 10,
+   "muc_do": "de"
+  },
+  {
+   "A": "Chỉ gộp các ô liền kề nhau thành hình chữ nhật",
+   "B": "Gộp ô cách nhau tùy ý",
+   "C": "Gộp ô khác bảng",
+   "D": "Gộp ô khác trang",
+   "cau": "Điều kiện để gộp ô thành công là?",
+   "dap_an": "A",
+   "giai_thich": "Các ô phải liền kề, tạo thành khối chữ nhật.",
+   "id": 11,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Nội dung các ô được dồn vào 1 ô",
+   "B": "Nội dung bị xóa hết",
+   "C": "Nội dung chuyển thành ảnh",
+   "D": "Nội dung chuyển sang Excel",
+   "cau": "Sau khi gộp, nội dung các ô cũ sẽ?",
+   "dap_an": "A",
+   "giai_thich": "Dồn chung vào ô gộp duy nhất.",
+   "id": 12,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Split Cells (ngược với Merge)",
+   "B": "Merge Cells lần nữa",
+   "C": "Delete Table",
+   "D": "Save As",
+   "cau": "Muốn tách lại ô vừa gộp thì dùng lệnh nào?",
+   "dap_an": "A",
+   "giai_thich": "Split Cells tách 1 ô thành nhiều ô.",
+   "id": 13,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Cả 2 cách cho kết quả như nhau, tùy sở thích",
+   "B": "Chỉ Ribbon đúng",
+   "C": "Chỉ chuột phải đúng",
+   "D": "Cả 2 đều sai",
+   "cau": "So sánh 2 cách gộp trong video?",
+   "dap_an": "A",
+   "giai_thich": "2 bước như nhau: bôi đen rồi Merge; khác chỗ bấm nút.",
+   "id": 14,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Ô tiêu đề chung cho nhiều cột (ví dụ Thông tin cá nhân)",
+   "B": "Để xóa bảng",
+   "C": "Để tắt máy",
+   "D": "Để in nhanh",
+   "cau": "Khi nào nên gộp ô?",
+   "dap_an": "A",
+   "giai_thich": "Khi cần tiêu đề chung phủ nhiều cột.",
+   "id": 15,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Phải bôi đúng các ô muốn gộp, tránh bôi thừa",
+   "B": "Bôi bừa cũng được",
+   "C": "Không cần bôi",
+   "D": "Bôi cả file",
+   "cau": "Lưu ý khi bôi đen để gộp là?",
+   "dap_an": "A",
+   "giai_thich": "Bôi thừa ô sẽ gộp luôn ô không mong muốn.",
+   "id": 16,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Merge Cells bị mờ (không nhấn được) khi ô không liền kề",
+   "B": "Luôn nhấn được mọi lúc",
+   "C": "Không bao giờ mờ",
+   "D": "Mờ do hết pin",
+   "cau": "Vì sao nút Merge Cells đôi khi bị mờ?",
+   "dap_an": "A",
+   "giai_thich": "Do các ô chọn không liền kề hoặc không tạo khối chữ nhật.",
+   "id": 17,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Nhấp vào bảng để hiện thẻ Layout rồi mới Merge",
+   "B": "Không cần nhấp vào bảng",
+   "C": "Phải tắt Word",
+   "D": "Phải rút điện",
+   "cau": "Không thấy nút Merge Cells thì làm gì?",
+   "dap_an": "A",
+   "giai_thich": "Phải đặt con trỏ trong bảng thì thẻ Layout mới hiện.",
+   "id": 18,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Gộp theo hàng (ngang) hoặc theo cột (dọc) đều được",
+   "B": "Chỉ gộp được theo hàng",
+   "C": "Chỉ gộp được theo cột",
+   "D": "Không gộp được",
+   "cau": "Hướng gộp ô có thể là?",
+   "dap_an": "A",
+   "giai_thich": "Gộp ngang (nhiều cột) hay dọc (nhiều dòng) đều được.",
+   "id": 19,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Ctrl+Z để hoàn tác gộp nhầm",
+   "B": "Không thể cứu",
+   "C": "Phải tạo bảng mới",
+   "D": "Phải cài lại Word",
+   "cau": "Gộp nhầm ô thì xử lý nhanh là?",
+   "dap_an": "A",
+   "giai_thich": "Ctrl+Z hoàn tác ngay thao tác gộp.",
+   "id": 20,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Độ rộng ô gộp bằng tổng các ô thành phần",
+   "B": "Ô gộp biến mất",
+   "C": "Ô gộp thành ảnh",
+   "D": "Bảng bị xóa",
+   "cau": "Kích thước ô sau khi gộp 3 ô hàng trên là?",
+   "dap_an": "A",
+   "giai_thich": "Ô mới phủ hết chiều rộng 3 ô cũ cộng lại.",
+   "id": 21,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Nhập tiêu đề vào ô gộp rồi căn giữa, in đậm",
+   "B": "Không nhập được",
+   "C": "Phải chèn ảnh",
+   "D": "Phải in ra",
+   "cau": "Sau khi gộp ô tiêu đề thì nên làm gì?",
+   "dap_an": "A",
+   "giai_thich": "Nhập 'Thông tin cá nhân', căn giữa, định dạng nổi bật.",
+   "id": 22,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Gộp ô giữ nguyên đường viền, chỉ mất viền trong giữa các ô",
+   "B": "Gộp ô xóa hết viền bảng",
+   "C": "Gộp ô làm mất bảng",
+   "D": "Gộp ô làm mất file",
+   "cau": "Đường viền sau khi gộp thay đổi thế nào?",
+   "dap_an": "A",
+   "giai_thich": "Viền ngoài giữ nguyên, viền ngăn giữa các ô gộp biến mất.",
+   "id": 23,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Không gộp ô so le (không tạo khối chữ nhật) được",
+   "B": "Gộp kiểu gì cũng được",
+   "C": "Gộp ô khác bảng được",
+   "D": "Gộp ô khác file được",
+   "cau": "Trường hợp nào Merge sẽ báo lỗi/không cho gộp?",
+   "dap_an": "A",
+   "giai_thich": "Chọn ô so le, không liền kề chữ nhật thì không gộp được.",
+   "id": 24,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Merge là gộp nhiều thành 1; Split là tách 1 thành nhiều",
+   "B": "Hai lệnh giống nhau",
+   "C": "Hai lệnh đều xóa bảng",
+   "D": "Hai lệnh đều lưu file",
+   "cau": "Phân biệt Merge Cells và Split Cells?",
+   "dap_an": "A",
+   "giai_thich": "Merge gộp, Split tách; ngược nhau.",
+   "id": 25,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Gộp ô tiêu đề giúp bảng rõ ràng, chuyên nghiệp",
+   "B": "Gộp ô làm bảng xấu đi",
+   "C": "Gộp ô làm mất dữ liệu",
+   "D": "Gộp ô làm tăng số trang",
+   "cau": "Lợi ích trình bày của gộp ô tiêu đề là?",
+   "dap_an": "A",
+   "giai_thich": "Tiêu đề chung phủ nhiều cột, bảng gọn và rõ nghĩa.",
+   "id": 26,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Bôi đúng 2 ô cột Số thứ tự rồi Merge",
+   "B": "Bôi cả bảng",
+   "C": "Bôi cả file",
+   "D": "Không bôi gì",
+   "cau": "Muốn gộp dọc 2 ô trong cùng 1 cột thì?",
+   "dap_an": "A",
+   "giai_thich": "Bôi đúng 2 ô dọc đó rồi Merge.",
+   "id": 27,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Gộp ô không làm mất định dạng sẵn có, chỉ dồn nội dung",
+   "B": "Gộp ô reset hết định dạng",
+   "C": "Gộp ô đổi font",
+   "D": "Gộp ô đổi màu máy",
+   "cau": "Định dạng (đậm, màu) sau khi gộp thì?",
+   "dap_an": "A",
+   "giai_thich": "Nội dung dồn chung, định dạng từng phần vẫn giữ.",
+   "id": 28,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Kiểm tra khối chọn là hình chữ nhật liền kề",
+   "B": "Khởi động lại modem",
+   "C": "Cài lại Windows",
+   "D": "Mua máy mới",
+   "cau": "Cách phòng tránh lỗi khi gộp nhiều ô là?",
+   "dap_an": "A",
+   "giai_thich": "Đảm bảo vùng bôi là khối chữ nhật liền kề.",
+   "id": 29,
+   "muc_do": "kho"
+  },
+  {
+   "A": "2 cách: Ribbon (Layout>Merge) và chuột phải (Merge Cells)",
+   "B": "Chỉ có 1 cách",
+   "C": "Có 5 cách",
+   "D": "Không có cách nào",
+   "cau": "Tóm tắt bài học gộp ô là?",
+   "dap_an": "A",
+   "giai_thich": "Cùng 2 bước bôi đen + Merge, khác chỗ bấm nút.",
+   "id": 30,
+   "muc_do": "kho"
+  }
+ ],
+ "ky_nang": [
+  {
+   "duong_dan_menu": "Table Tools > Layout > Merge > Merge Cells",
+   "giai_thich": "Bôi các ô liền kề hình chữ nhật rồi gộp; dùng cho tiêu đề chung.",
+   "phim_tat": "Không có",
+   "ten": "Gộp ô bằng Ribbon",
+   "thao_tac": "Bôi đen các ô cần gộp, vào Layout > Merge Cells.",
+   "vi_du": "Bôi 3 ô hàng trên > Merge thành ô 'Thông tin cá nhân'."
+  },
+  {
+   "duong_dan_menu": "Chuột phải > Merge Cells",
+   "giai_thich": "Nhanh, thao tác ngay tại chỗ; kết quả như cách Ribbon.",
+   "phim_tat": "Không có",
+   "ten": "Gộp ô bằng chuột phải",
+   "thao_tac": "Bôi đen các ô cần gộp, chuột phải > Merge Cells.",
+   "vi_du": "Bôi 2 ô gần nhau > chuột phải > Merge Cells."
+  }
+ ],
+ "url": "https://www.youtube.com/watch?v=Vmx-2bROBws",
+ "video_id": "Vmx-2bROBws"
+}

@@ -1,0 +1,605 @@
+[
+ {
+  "duong_dan_menu": "Home > Font / Paragraph",
+  "giai_thich": "Thao tác nền tảng để nhập và trình bày văn bản: đổi font, cỡ, màu, kiểu chữ và căn chỉnh đoạn.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "Ctrl+B / Ctrl+I / Ctrl+U",
+  "ten_ky_nang": "Tạo và chỉnh sửa văn bản cơ bản",
+  "thao_tac_chi_tiet": "Mở Word > nhập văn bản > bôi đen đoạn cần sửa > vào Home chọn Font (phông, cỡ, màu, Bold/Italic/Underline) và Paragraph (căn lề, bullets, numbering). Chèn ký hiệu, hình ảnh, bảng, đồ thị qua tab Insert.",
+  "vi_du": "Soạn hợp đồng: thân bài Calibri 12, tiêu đề Bold 14 căn giữa."
+ },
+ {
+  "duong_dan_menu": "Chuột phải / Home > Clipboard",
+  "giai_thich": "Di chuyển và nhân bản nội dung nhanh, tránh gõ lại.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "Ctrl+A, Ctrl+C, Ctrl+X, Ctrl+V",
+  "ten_ky_nang": "Chọn, sao chép, cắt, dán và di chuyển văn bản",
+  "thao_tac_chi_tiet": "Bôi đen văn bản > Ctrl+C (sao chép) hoặc Ctrl+X (cắt) > đặt con trỏ vị trí mới > Ctrl+V (dán). Ctrl+A chọn toàn bộ. Kéo-thả đoạn bôi đen để di chuyển nhanh.",
+  "vi_du": "Copy điều khoản từ hợp đồng cũ sang hợp đồng mới."
+ },
+ {
+  "duong_dan_menu": "Home > Editor",
+  "giai_thich": "Trợ lý soát lỗi của Microsoft 365: bắt lỗi chính tả, ngữ pháp và gợi ý văn phong trang trọng, ngắn gọn.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "",
+  "ten_ky_nang": "Kiểm tra chính tả, ngữ pháp bằng Microsoft Editor",
+  "thao_tac_chi_tiet": "Bước 1: Trên thanh công cụ chọn Editor. Bước 2: Nhấn mũi tên mục Grammar để duyệt từng đề xuất. Bước 3: Chọn gợi ý phù hợp để áp dụng (ví dụ câu ngắn gọn hơn, từ đơn giản hơn).",
+  "vi_du": "Editor gợi ý sửa 'đã được thực hiện bởi' thành văn phong gọn hơn."
+ },
+ {
+  "duong_dan_menu": "Review > Check Document / Spelling & Grammar",
+  "giai_thich": "Cách soát lỗi thủ công trên Word 2016-2021 khi không có Editor AI.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "F7",
+  "ten_ky_nang": "Kiểm tra chính tả, ngữ pháp bản Word 2016-2021",
+  "thao_tac_chi_tiet": "Bước 1: Tab Review > Check Document (Kiểm tra tài liệu). Bước 2: Khung soạn thảo liệt kê lỗi chính tả, ngữ pháp > chọn sửa hoặc bỏ qua từng lỗi.",
+  "vi_du": "Duyệt báo cáo 20 trang, sửa hàng loạt lỗi gõ thiếu dấu."
+ },
+ {
+  "duong_dan_menu": "Review > Language > Set Proofing Language",
+  "giai_thich": "Chọn đúng ngôn ngữ soát lỗi để Word không báo lỗi sai và gợi ý đúng.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "",
+  "ten_ky_nang": "Đặt ngôn ngữ soát lỗi (Proofing Language)",
+  "thao_tac_chi_tiet": "Bước 1: Review > Language > Set Proofing Language. Bước 2: Chọn ngôn ngữ (ví dụ Vietnamese/English). Bước 3: OK để áp dụng.",
+  "vi_du": "Chuyển proofing sang Tiếng Việt trước khi soát hợp đồng song ngữ."
+ },
+ {
+  "duong_dan_menu": "Review > Track Changes",
+  "giai_thich": "Ghi lại mọi thêm/xóa/sửa để người duyệt thấy lịch sử chỉnh sửa, chuẩn cho biên tập và pháp chế.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "Ctrl+Shift+E",
+  "ten_ky_nang": "Theo dõi thay đổi bằng Track Changes",
+  "thao_tac_chi_tiet": "Chọn Review > Track Changes để bật; mọi chỉnh sửa hiện màu và gạch xóa/chèn. Nhấp lại Track Changes để tắt. Dùng Accept/Reject trong tab Review để duyệt từng thay đổi.",
+  "vi_du": "Trưởng phòng bật Track Changes để nhân viên thấy câu nào bị sửa."
+ },
+ {
+  "duong_dan_menu": "Insert > Table",
+  "giai_thich": "Trình bày dữ liệu dạng hàng/cột gọn như Excel mini ngay trong văn bản.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "",
+  "ten_ky_nang": "Tạo và chỉnh sửa bảng tính trong Word",
+  "thao_tac_chi_tiet": "Insert > Table > kéo chọn số hàng/cột > nhấp vào ô để nhập nội dung. Kéo đường biên giữa 2 cột để đổi rộng cột. Có thể tô màu ô, sắp xếp, lọc dữ liệu.",
+  "vi_du": "Tạo bảng 4 cột: STT, Họ tên, Chức vụ, Ghi chú cho danh sách họp."
+ },
+ {
+  "duong_dan_menu": "Insert > Chart",
+  "giai_thich": "Biến số liệu khô khan thành biểu đồ trực quan, dễ so sánh.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "",
+  "ten_ky_nang": "Tạo và chỉnh sửa biểu đồ (Chart)",
+  "thao_tac_chi_tiet": "Insert > Charts > chọn loại biểu đồ (cột, tròn, đường) > Insert > nhập số liệu vào bảng dữ liệu hiện ra. Định dạng màu, tiêu đề, nhãn dữ liệu sau khi chèn.",
+  "vi_du": "Chèn biểu đồ cột thể hiện doanh thu 4 quý vào báo cáo."
+ },
+ {
+  "duong_dan_menu": "Insert / File > Template có sẵn",
+  "giai_thich": "Dùng khung biểu mẫu dựng sẵn: chỉ việc điền, không cần thiết kế từ đầu.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "",
+  "ten_ky_nang": "Tạo và chỉnh sửa biểu mẫu cơ bản",
+  "thao_tac_chi_tiet": "Dùng thư viện Template có sẵn hoặc tự tạo: chèn khung văn bản, ô chọn (checkbox), danh sách thả xuống, logo, hình ảnh; đổi font, màu, bố cục cho khớp thương hiệu.",
+  "vi_du": "Tạo phiếu khảo sát khách hàng với ô tick và danh sách lựa chọn."
+ },
+ {
+  "duong_dan_menu": "Insert > SmartArt",
+  "giai_thich": "Dựng mindmap từ khối SmartArt có sẵn, nhanh và đẹp hơn vẽ tay.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "",
+  "ten_ky_nang": "Tạo sơ đồ tư duy bằng SmartArt",
+  "thao_tac_chi_tiet": "Insert > SmartArt > chọn kiểu (Hierarchy, Process, Cycle...) phù hợp mindmap > nhập nội dung vào từng ô > đổi màu, font, bố cục qua SmartArt Design/Format.",
+  "vi_du": "Vẽ mindmap kế hoạch marketing: nhánh chính Sản phẩm, Kênh, Ngân sách."
+ },
+ {
+  "duong_dan_menu": "Insert > Shapes + Lines/Arrows",
+  "giai_thich": "Tự do vẽ sơ đồ tùy biến khi SmartArt không đủ linh hoạt.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "",
+  "ten_ky_nang": "Tạo sơ đồ bằng Shapes",
+  "thao_tac_chi_tiet": "Insert > Shapes > chọn hình (vuông, tròn, mũi tên...) > vẽ lên trang > sắp xếp bố cục, nhập chữ vào hình > nối các hình bằng Lines hoặc Arrows.",
+  "vi_du": "Vẽ lưu đồ quy trình duyệt đơn: hình chữ nhật các bước, nối bằng mũi tên."
+ },
+ {
+  "duong_dan_menu": "Insert > Text Box",
+  "giai_thich": "Đặt các hộp chữ độc lập rồi nối thành sơ đồ, phù hợp ghi chú phân tán.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "",
+  "ten_ky_nang": "Tạo sơ đồ bằng Text Box",
+  "thao_tac_chi_tiet": "Insert > Text Box > nhập nội dung từng ô > đổi màu, font > nối các Text Box bằng Lines/Arrows. Chia sẻ qua công cụ số sau khi xong.",
+  "vi_du": "Tạo 5 Text Box ý tưởng rồi nối thành sơ đồ brainstorm."
+ },
+ {
+  "duong_dan_menu": "Share (góc phải trên)",
+  "giai_thich": "Nhiều người cùng sửa một file theo thời gian thực, có phân quyền xem/sửa.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "",
+  "ten_ky_nang": "Cộng tác trực tuyến theo thời gian thực",
+  "thao_tac_chi_tiet": "Chọn Share > nhập email người nhận > ghi lời nhắn > đặt quyền (View/Edit/Read-only) > Share. Dùng được cả Word Online và bản cài máy; kết hợp Teams, OneDrive.",
+  "vi_du": "Share báo cáo cho 3 đồng nghiệp cùng sửa trước deadline."
+ },
+ {
+  "duong_dan_menu": "Copilot / AI trong Word (Microsoft 365)",
+  "giai_thich": "AI soạn nháp, tóm tắt tài liệu dài và gợi ý sửa theo ngữ cảnh.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "",
+  "ten_ky_nang": "Soạn thảo với Copilot AI",
+  "thao_tac_chi_tiet": "Mở Copilot trong Word > ra lệnh: soạn nháp đoạn văn, tóm tắt tài liệu dài, trích xuất thông tin quan trọng, đề xuất chỉnh sửa theo ngữ cảnh > duyệt và áp dụng.",
+  "vi_du": "Nhờ Copilot tóm tắt hợp đồng 30 trang thành 10 gạch đầu dòng."
+ },
+ {
+  "duong_dan_menu": "File > Info > Protect Document > Encrypt with Password",
+  "giai_thich": "Khóa file bằng mật khẩu để chỉ người có pass mới mở được, bảo vệ dữ liệu nhạy cảm.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "",
+  "ten_ky_nang": "Đặt mật khẩu bảo vệ tài liệu",
+  "thao_tac_chi_tiet": "Bước 1: File > Info > Protect Document > Encrypt with Password. Bước 2: Nhập mật khẩu rồi nhập lại xác nhận. Bước 3: Save. Người nhận phải nhập đúng mật khẩu mới mở được.",
+  "vi_du": "Đặt pass cho file lương nhân sự trước khi gửi email."
+ },
+ {
+  "duong_dan_menu": "Thanh Ribbon (Home, Insert, Layout, Review, View...)",
+  "giai_thich": "Dải lệnh trung tâm: mỗi tab gom nhóm lệnh cùng chức năng, nắm Ribbon là dùng được Word.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "Alt (hiện phím tắt Ribbon)",
+  "ten_ky_nang": "Sử dụng giao diện Ribbon",
+  "thao_tac_chi_tiet": "Nhận diện các tab: Home (định dạng), Insert (chèn), Layout (trang), References (trích dẫn), Review (duyệt), View (xem). Mỗi tab chứa các nhóm lệnh liên quan; nhấn Alt để hiện phím tắt từng lệnh.",
+  "vi_du": "Cần chèn ảnh: nhớ ngay vào tab Insert chứ không mò Home."
+ },
+ {
+  "duong_dan_menu": "Thanh tiêu đề / Quick Access / Status bar / Ruler / Scroll",
+  "giai_thich": "Các thành phần bao quanh vùng soạn thảo giúp quản lý file và điều hướng nhanh.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "Ctrl+Z (Undo), Ctrl+Y (Redo)",
+  "ten_ky_nang": "Làm chủ các thành phần giao diện Word",
+  "thao_tac_chi_tiet": "Thanh tiêu đề: tên file + Save/Undo/Redo. Quick Access Toolbar: ghim lệnh hay dùng, tùy chỉnh thêm/bớt nút. Khu vực soạn thảo WYSIWYG sửa trực tiếp. Status bar: số trang, ngôn ngữ, zoom. Thanh cuộn + Ruler để căn chỉnh và di chuyển.",
+  "vi_du": "Ghim nút Save và Undo lên Quick Access để thao tác một chạm."
+ },
+ {
+  "duong_dan_menu": "Home > Clipboard / Font / Paragraph",
+  "giai_thich": "Bộ phím tắt sao chép và định dạng nhanh nhất, thay chuột hoàn toàn.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "Ctrl+C, Ctrl+X, Ctrl+V, Ctrl+B, Ctrl+I, Ctrl+U",
+  "ten_ky_nang": "Phím tắt sao chép và định dạng nhanh",
+  "thao_tac_chi_tiet": "Ctrl+C sao chép, Ctrl+X cắt, Ctrl+V dán; Ctrl+B đậm, Ctrl+I nghiêng, Ctrl+U gạch chân vùng bôi đen. Căn lề: theo bài viết dùng Ctrl+Shift+L (trái), Ctrl+Shift+R (phải), Ctrl+Shift+E (giữa), Ctrl+Shift+J (đều 2 bên).",
+  "vi_du": "Bôi đen tiêu đề > Ctrl+B để in đậm trong 1 giây."
+ },
+ {
+  "duong_dan_menu": "Home > Editing / Navigation",
+  "giai_thich": "Tìm, nhảy và bôi đen toàn văn bản không cần cuộn chuột.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "Ctrl+A, Ctrl+F, Ctrl+H, Ctrl+G",
+  "ten_ky_nang": "Phím tắt tìm kiếm và điều hướng",
+  "thao_tac_chi_tiet": "Ctrl+A chọn tất cả; Ctrl+F tìm từ/cụm; Ctrl+H mở thay thế; Ctrl+G nhảy tới trang/vị trí cụ thể (Go To).",
+  "vi_du": "Ctrl+G > nhập 15 để nhảy ngay tới trang 15 của luận văn."
+ },
+ {
+  "duong_dan_menu": "File > Save/Open/New",
+  "giai_thich": "Bộ phím file cơ bản: lưu, mở, tạo mới trong tích tắc.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "Ctrl+S, Ctrl+O, Ctrl+N",
+  "ten_ky_nang": "Phím tắt lưu, mở, tạo tài liệu",
+  "thao_tac_chi_tiet": "Ctrl+S lưu file hiện tại; Ctrl+N mở tài liệu trắng mới; Ctrl+O mở file đã có. Nhấn Ctrl+S thường xuyên để tránh mất dữ liệu.",
+  "vi_du": "Đang soạn báo cáo, nhấn Ctrl+S sau mỗi đoạn xong."
+ },
+ {
+  "duong_dan_menu": "File > New / create.microsoft.com",
+  "giai_thich": "Kho mẫu chuyên nghiệp của Microsoft: CV, báo cáo, brochure... chỉ việc thay chữ.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "",
+  "ten_ky_nang": "Dùng mẫu Template từ Microsoft Create",
+  "thao_tac_chi_tiet": "Bước 1: Truy cập create.microsoft.com. Bước 2: Tìm mẫu theo loại tài liệu/chủ đề/màu. Bước 3: Chọn mẫu ưng ý. Bước 4: Customize hoặc Download về rồi thay nội dung.",
+  "vi_du": "Tải template CV xanh hiện đại rồi thay tên, kinh nghiệm của mình."
+ },
+ {
+  "duong_dan_menu": "Home > Font",
+  "giai_thich": "Chuẩn font/cỡ giúp văn bản dễ đọc, chuyên nghiệp: serif cho bản in dài, sans-serif cho màn hình.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "Ctrl+D (mở hộp Font)",
+  "ten_ky_nang": "Định dạng phông chữ và cỡ chữ chuẩn",
+  "thao_tac_chi_tiet": "Serif (Times New Roman, Garamond) cho văn bản dài in giấy; Sans-serif (Arial, Calibri) cho văn bản ngắn xem màn hình; Display (Montserrat, Oswald) cho tiêu đề. Cỡ gợi ý: thân bài 11-12pt, tiêu đề 14-16pt, tiêu đề phụ 12-14pt; tiêu đề to + đậm, thân bài nhỏ thanh mảnh.",
+  "vi_du": "Luận văn: thân bài Times New Roman 13, tiêu đề chương 16 Bold."
+ },
+ {
+  "duong_dan_menu": "Layout > Margins / Paragraph > Indentation",
+  "giai_thich": "Căn lề và thụt đầu dòng chuẩn tạo bố cục thoáng, đúng quy định hành chính.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "",
+  "ten_ky_nang": "Căn lề trang và thụt đầu dòng",
+  "thao_tac_chi_tiet": "Layout > Margins đặt lề; thông số chuẩn tham khảo: trên/dưới/trái/phải 2.5cm. Thụt đầu dòng (First Line) chuẩn 1.25cm trong Paragraph > Indentation để tách các đoạn.",
+  "vi_du": "Đặt lề 2.5cm và First Line 1.25cm cho bài tiểu luận."
+ },
+ {
+  "duong_dan_menu": "Home > Paragraph > Line and Paragraph Spacing",
+  "giai_thich": "Giãn dòng/đoạn hợp lý giúp văn bản thoáng, dễ đọc và đủ số trang quy định.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "Ctrl+1 (đơn), Ctrl+2 (đôi), Ctrl+5 (1.5)",
+  "ten_ky_nang": "Định dạng khoảng cách dòng và đoạn",
+  "thao_tac_chi_tiet": "Bước 1: Nhấn biểu tượng Line Spacing. Bước 2: Chọn khoảng cách có sẵn (mặc định 1.15). Bước 3: Muốn chi tiết chọn Line Spacing Options. Bước 4: Chỉnh Before/After cho khoảng cách giữa đoạn. Bước 5-6: Set as Default > áp dụng cho Normal template nếu muốn.",
+  "vi_du": "Chuyển báo cáo sang giãn dòng 1.5 và After 6pt cho thoáng."
+ },
+ {
+  "duong_dan_menu": "Home > Font (B/I/U)",
+  "giai_thich": "Nhấn mạnh có chọn lọc: đậm cho ý chính, nghiêng cho tên riêng, gạch chân cho liên kết.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "Ctrl+B, Ctrl+I, Ctrl+U",
+  "ten_ky_nang": "In đậm, in nghiêng, gạch chân đúng cách",
+  "thao_tac_chi_tiet": "Chỉ nhấn mạnh tiêu đề, từ khóa, ý chính. Bold: tiêu đề/từ khóa; Italic: tên riêng, chú thích; Underline: liên kết/ngữ pháp cần chú ý. Tránh lạm dụng gây rối mắt.",
+  "vi_du": "In đậm deadline và in nghiêng tên sách trong thông báo."
+ },
+ {
+  "duong_dan_menu": "Table Design / Layout (Borders, Shading, Merge)",
+  "giai_thich": "Bảng đẹp = một kiểu thống nhất, viền mảnh, header nổi bật, chữ căn trái.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "",
+  "ten_ky_nang": "Định dạng bảng biểu đẹp",
+  "thao_tac_chi_tiet": "Dùng 1 kiểu định dạng chung cả văn bản; viền 1pt; tô màu nền hàng tiêu đề; căn chữ trong ô sang trái; gộp (Merge) các ô hàng tiêu đề cho gọn.",
+  "vi_du": "Tô xanh hàng tiêu đề bảng chấm công, viền 1pt toàn bảng."
+ },
+ {
+  "duong_dan_menu": "Insert > Pictures > Picture Format",
+  "giai_thich": "Chọn đúng định dạng ảnh và cắt/xoay/lật để minh họa vừa đẹp vừa nhẹ file.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "",
+  "ten_ky_nang": "Chèn và định dạng hình ảnh",
+  "thao_tac_chi_tiet": "Insert > Pictures để chèn. JPEG cho ảnh chụp nhẹ; PNG cho logo/nền trong suốt; GIF cho ảnh động đơn giản. Tab Picture Format: Crop cắt, Resize đổi cỡ, Rotate xoay, Flip lật. Kiểm tra lại trước khi in/chia sẻ.",
+  "vi_du": "Chèn logo PNG vào bìa báo cáo rồi Crop sát viền."
+ },
+ {
+  "duong_dan_menu": "Insert > Page Number (Header/Footer)",
+  "giai_thich": "Số trang giúp người đọc theo dõi và trích dẫn tài liệu dài.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "",
+  "ten_ky_nang": "Đánh số trang trong Word",
+  "thao_tac_chi_tiet": "Bước 1: Insert > Page Number > chọn vị trí/kiểu. Bước 2: Nếu không muốn số ở trang đầu, tick Different First Page. Bước 3: Muốn đánh từ trang 2: Page Number > Format Page Numbers > Start at 0. Bước 4: Close Header and Footer.",
+  "vi_du": "Báo cáo 30 trang: ẩn số trang bìa, bắt đầu đánh từ trang 2."
+ },
+ {
+  "duong_dan_menu": "File > Options > Proofing > AutoCorrect Options",
+  "giai_thich": "Tự sửa lỗi gõ thường gặp và gõ tắt thành cụm đầy đủ.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "",
+  "ten_ky_nang": "Tự động sửa lỗi với AutoCorrect",
+  "thao_tac_chi_tiet": "File > Options > Proofing > AutoCorrect Options > cấu hình: sửa lỗi chính tả phổ biến, viết hoa đầu câu; thêm mục gõ tắt (ví dụ 'dc' thành 'Địa chỉ') để tự thay thế khi gõ.",
+  "vi_du": "Gõ 'hn' tự thành 'Hà Nội' trong mọi văn bản."
+ },
+ {
+  "duong_dan_menu": "Insert > Quick Parts > AutoText",
+  "giai_thich": "Lưu khối chữ dùng đi dùng lại (địa chỉ, lời chào) để gọi ra trong 1 chạm.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "",
+  "ten_ky_nang": "Lưu khối văn bản dùng lại với AutoText",
+  "thao_tac_chi_tiet": "Bôi đen khối văn bản hay dùng > Insert > Quick Parts > AutoText > Save Selection to AutoText Gallery. Khi cần: Insert > AutoText > chọn mục đã lưu.",
+  "vi_du": "Lưu địa chỉ công ty thành AutoText để chèn vào mọi công văn."
+ },
+ {
+  "duong_dan_menu": "Home > Styles",
+  "giai_thich": "Một bộ kiểu tiêu đề/đoạn thống nhất giúp văn bản đồng đều và tạo mục lục tự động được.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "Ctrl+Alt+1/2/3 (Heading 1/2/3)",
+  "ten_ky_nang": "Áp dụng và tạo Styles",
+  "thao_tac_chi_tiet": "Bước 1: Home > Styles > áp dụng kiểu có sẵn (Heading 1, Heading 2, Normal...). Bước 2: Để tạo kiểu riêng: định dạng một đoạn mẫu > chuột phải kiểu > Update/ New Style > Save.",
+  "vi_du": "Áp Heading 1 cho tên chương để sau này tạo mục lục 1 chạm."
+ },
+ {
+  "duong_dan_menu": "View > Macros > Record Macro",
+  "giai_thich": "Ghi lại chuỗi thao tác lặp đi lặp lại thành 1 nút/phím tắt.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "",
+  "ten_ky_nang": "Tự động hóa tác vụ lặp với Macro",
+  "thao_tac_chi_tiet": "Bước 1: View > Macros > Record Macro, đặt tên và phím tắt/nút. Bước 2: Thực hiện các thao tác cần lặp. Bước 3: Stop Recording. Lần sau chỉ cần chạy macro là xong.",
+  "vi_du": "Ghi macro định dạng bảng báo giá để áp cho 50 bảng."
+ },
+ {
+  "duong_dan_menu": "Home > Editing > Find / Replace",
+  "giai_thich": "Tìm và thay hàng loạt chính xác, tránh sót khi sửa tay.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "Ctrl+F (Find), Ctrl+H (Replace)",
+  "ten_ky_nang": "Tìm kiếm và thay thế (Find & Replace)",
+  "thao_tac_chi_tiet": "Tìm: Ctrl+F > Find > nhập nội dung vào Find what > Find Next duyệt từng vị trí. Thay: chuyển tab Replace > Find what nhập cũ, Replace with nhập mới > Replace All để thay toàn bộ.",
+  "vi_du": "Thay toàn bộ 'Công ty ABC' thành 'Công ty XYZ' trong 40 trang."
+ },
+ {
+  "duong_dan_menu": "Insert > Links > Hyperlink",
+  "giai_thich": "Nhúng link web/file/email vào chữ hoặc ảnh, nhấp là nhảy tới.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "Ctrl+K",
+  "ten_ky_nang": "Chèn siêu liên kết (Hyperlink)",
+  "thao_tac_chi_tiet": "Bôi đen chữ/ảnh > Insert > Links > Hyperlink (Ctrl+K) > nhập Address (URL/file/email) > OK. Người đọc Ctrl+Click để mở.",
+  "vi_du": "Chèn link website công ty vào chữ 'Xem thêm tại đây'."
+ },
+ {
+  "duong_dan_menu": "Insert > Cross-reference",
+  "giai_thich": "Liên kết nội bộ tới bảng, hình, tiêu đề trong cùng tài liệu; tự cập nhật số khi thêm nội dung.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "",
+  "ten_ky_nang": "Chèn tham chiếu chéo (Cross-reference)",
+  "thao_tac_chi_tiet": "Insert > Cross-reference > Reference type chọn loại (Heading, Figure, Table...) > Insert reference to chọn thông tin hiển thị > For which chọn mục cụ thể > tick Insert as hyperlink > Insert.",
+  "vi_du": "Chèn 'xem Bảng 3' tự nhảy tới bảng khi nhấp."
+ },
+ {
+  "duong_dan_menu": "References / Insert > Insert Footnote",
+  "giai_thich": "Chú thích nguồn, giải nghĩa thuật ngữ ở cuối trang, đánh số tự động.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "Ctrl+Alt+F",
+  "ten_ky_nang": "Chèn chú thích cuối trang (Footnote)",
+  "thao_tac_chi_tiet": "Đặt con trỏ sau từ cần chú thích > Insert/References > Insert Footnote > nhập nội dung chú thích ở cuối trang. Số thứ tự tự tăng.",
+  "vi_du": "Chú thích thuật ngữ pháp lý kèm nguồn luật ở cuối trang."
+ },
+ {
+  "duong_dan_menu": "Review > New Comment / Show Comments",
+  "giai_thich": "Bình luận bên lề để góp ý, hỏi đáp mà không phá nội dung chính.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "Ctrl+Alt+M",
+  "ten_ky_nang": "Bình luận và ghi chú bên lề (Comment)",
+  "thao_tac_chi_tiet": "Bôi đen nội dung > Review > New Comment (Show Comments) > nhập góp ý > Enter. Dùng để đề xuất sửa, hỏi đáp, nhắc việc. Các bóng bình luận hiện bên lề để dễ theo dõi.",
+  "vi_du": "Comment 'Chị kiểm tra lại số liệu dòng này giúp em'."
+ },
+ {
+  "duong_dan_menu": "Insert > Symbol > More Symbols",
+  "giai_thich": "Chèn ký tự đặc biệt, phân số, ký hiệu toán/kỹ thuật không có trên bàn phím.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "",
+  "ten_ky_nang": "Chèn ký tự đặc biệt và phân số",
+  "thao_tac_chi_tiet": "Đặt con trỏ vị trí cần chèn > Insert > Symbol > chọn ký hiệu có sẵn hoặc More Symbols > tìm ký hiệu > double-click để chèn. Muốn to/nhỏ: bôi đen ký hiệu rồi đổi cỡ chữ.",
+  "vi_du": "Chèn ký hiệu ©, ®, ½ vào giáo trình."
+ },
+ {
+  "duong_dan_menu": "Table Layout/Design (AutoFit, Sort, Formula, Borders)",
+  "giai_thich": "Bộ thủ thuật làm bảng nhanh: tự co giãn, sắp xếp, tính tổng ngay trong Word.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "",
+  "ten_ky_nang": "Thủ thuật bảng nâng cao",
+  "thao_tac_chi_tiet": "Save Selection to Quick Part Gallery để tái dùng bố cục bảng. AutoFit tự co cột theo nội dung. Borders and Shading thêm viền/tô màu. Layout > Insert/Delete thêm/xóa hàng cột; Sort/Filter sắp xếp-lọc; Formula/AutoSum tính toán; Watermark thêm logo/mờ.",
+  "vi_du": "Dùng AutoSum cộng cột thành tiền ngay trong bảng báo giá."
+ },
+ {
+  "duong_dan_menu": "Insert > Chart + Chart Design/Format",
+  "giai_thich": "5 nguyên tắc để biểu đồ vừa đúng số liệu vừa dễ nhìn.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "",
+  "ten_ky_nang": "Mẹo trình bày biểu đồ hiệu quả",
+  "thao_tac_chi_tiet": "Chọn loại biểu đồ hợp dữ liệu (cột so sánh, tròn tỷ trọng, đường xu hướng) > nhập dữ liệu chính xác > đổi màu/font/bố cục > thêm tiêu đề mô tả ngắn > dùng bộ lọc (Filter) để hiện dữ liệu cần nhấn mạnh.",
+  "vi_du": "Biểu đồ tròn thị phần có tiêu đề 'Thị phần Q3' và nhãn %."
+ },
+ {
+  "duong_dan_menu": "File > Options > Customize Ribbon > Developer",
+  "giai_thich": "Bật tab Developer để làm biểu mẫu điền-khóa chuyên nghiệp như đơn từ hành chính.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "",
+  "ten_ky_nang": "Bật tab Developer và tạo biểu mẫu nâng cao",
+  "thao_tac_chi_tiet": "File > Options > Customize Ribbon > Main Tabs > tick Developer > OK. Dùng tab Developer để chèn: text field, picture, combo/dropdown list, checkbox, nút bảo vệ giới hạn chỉnh sửa (Restrict Editing).",
+  "vi_du": "Tạo đơn đăng ký có dropdown chọn phòng ban và checkbox cam kết."
+ },
+ {
+  "duong_dan_menu": "Layout > Orientation > Landscape",
+  "giai_thich": "Xoay ngang trang để sơ đồ/mindmap có không gian dàn nhánh.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "",
+  "ten_ky_nang": "Đổi khổ giấy ngang để vẽ sơ đồ tư duy",
+  "thao_tac_chi_tiet": "Layout > Orientation > Landscape để xoay ngang. Chọn mẫu SmartArt/Shapes cơ bản, tô mỗi nhánh một màu để phân biệt. Dàn nhánh rộng theo chiều ngang.",
+  "vi_du": "Xoay ngang A4 rồi vẽ mindmap 6 nhánh dự án."
+ },
+ {
+  "duong_dan_menu": "References > Table of Contents / Citations",
+  "giai_thich": "Viết báo cáo/luận văn chuẩn học thuật: mục lục và trích dẫn tự động.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "",
+  "ten_ky_nang": "Viết báo cáo, luận văn chuyên nghiệp",
+  "thao_tac_chi_tiet": "Áp Heading cho các chương/mục > References > Table of Contents tạo mục lục tự động; dùng Insert Citation/Bibliography chèn tài liệu tham khảo nhiều chuẩn (APA, MLA...); kết hợp Editor soát lỗi.",
+  "vi_du": "Luận văn 80 trang có mục lục tự động cập nhật theo Heading."
+ },
+ {
+  "duong_dan_menu": "File > New > tìm CV/Letter/Card",
+  "giai_thich": "Kho template thư, CV, thiệp có sẵn: chọn mẫu rồi thay chữ là có ấn phẩm đẹp.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "",
+  "ten_ky_nang": "Tạo thư, CV, bưu thiếp từ Template",
+  "thao_tac_chi_tiet": "File > New > tìm 'Resume/CV/Letter/Card' > chọn mẫu hợp gu > thay tên, nội dung, ảnh. Hoặc lên Microsoft Create tải mẫu về dùng.",
+  "vi_du": "Dùng template CV tối giản để ứng tuyển hành chính."
+ },
+ {
+  "duong_dan_menu": "File > New > More Templates > tìm Brochure",
+  "giai_thich": "Thiết kế tờ rơi/brochure ngay trong Word không cần phần mềm đồ họa.",
+  "nguon": "https://mmgroup.vn/microsoft-word/",
+  "phim_tat": "",
+  "ten_ky_nang": "Thiết kế Brochure, Poster trong Word",
+  "thao_tac_chi_tiet": "Mở Word (bản máy hoặc online) > New > More Templates > gõ 'Brochure' vào ô tìm kiếm > chọn mẫu > thay chữ, ảnh, màu theo thương hiệu rồi in/phát hành.",
+  "vi_du": "Làm tờ rơi khai trương 2 mặt gấp 3 từ template Brochure."
+ },
+ {
+  "duong_dan_menu": "File > New > Blank document",
+  "giai_thich": "Điểm khởi đầu mọi văn bản: tạo file trắng đúng cách để dễ quản lý.",
+  "nguon": "https://vieclam24h.vn/nghe-nghiep/tram-sac-ky-nang/10-cach-su-dung-word-huu-ich-cho-dan-van-phong-giup-lam-viec-de-dang-hon",
+  "phim_tat": "Ctrl+N",
+  "ten_ky_nang": "Tạo file Word mới",
+  "thao_tac_chi_tiet": "Mở Word > File > New > Blank document (hoặc Ctrl+N). Đặt tên gợi nhớ ngay, chọn nơi lưu (máy/OneDrive) để không lẫn với file nháp.",
+  "vi_du": "Tạo file 'BaoCao_Tuan12.docx' trước khi soạn."
+ },
+ {
+  "duong_dan_menu": "File > Save / Save As",
+  "giai_thich": "Lưu đúng chuẩn (tên, định dạng, vị trí) để không mất file và gửi đi không lỗi.",
+  "nguon": "https://vieclam24h.vn/nghe-nghiep/tram-sac-ky-nang/10-cach-su-dung-word-huu-ich-cho-dan-van-phong-giup-lam-viec-de-dang-hon",
+  "phim_tat": "Ctrl+S (lưu), F12 (Save As)",
+  "ten_ky_nang": "Lưu văn bản đúng chuẩn",
+  "thao_tac_chi_tiet": "Ctrl+S lưu nhanh; File > Save As để lưu bản mới/khác định dạng (.docx, .pdf). Đặt tên không dấu gọn, lưu vào thư mục dự án + bật AutoSave khi làm online. Lưu .pdf khi gửi chốt để giữ định dạng.",
+  "vi_du": "Save As file báo giá sang PDF trước khi gửi khách."
+ },
+ {
+  "duong_dan_menu": "Home > Show/Hide ¶ + Delete/Backspace",
+  "giai_thich": "Xử lý trang trắng thừa do Enter hoặc ngắt trang gây ra.",
+  "nguon": "https://vieclam24h.vn/nghe-nghiep/tram-sac-ky-nang/10-cach-su-dung-word-huu-ich-cho-dan-van-phong-giup-lam-viec-de-dang-hon",
+  "phim_tat": "Ctrl+Shift+8 (hiện ký tự ẩn), Delete, Backspace",
+  "ten_ky_nang": "Xóa trang trắng thừa cuối văn bản",
+  "thao_tac_chi_tiet": "Đặt con trỏ cuối trang thừa, nhấn Delete/Backspace. Nếu không hết: bật Show/Hide (¶) để thấy các dấu đoạn/ngắt trang thừa rồi xóa. Kiểm tra Section Break gây παν trang trắng.",
+  "vi_du": "Xóa trang trắng thứ 6 xuất hiện sau bảng."
+ },
+ {
+  "duong_dan_menu": "Navigation Pane / Go To + Delete",
+  "giai_thich": "Xóa gọn trang giữa tài liệu mà không lệch các trang còn lại.",
+  "nguon": "https://vieclam24h.vn/nghe-nghiep/tram-sac-ky-nang/10-cach-su-dung-word-huu-ich-cho-dan-van-phong-giup-lam-viec-de-dang-hon",
+  "phim_tat": "Ctrl+G",
+  "ten_ky_nang": "Xóa một trang giữa tài liệu",
+  "thao_tac_chi_tiet": "Ctrl+G > Go To > nhập số trang cần xóa > bôi đen toàn bộ nội dung trang đó > Delete. Hoặc mở Navigation Pane, chọn trang rồi xóa nội dung. Xong kiểm tra lại đánh số trang.",
+  "vi_du": "Xóa trang nháp số 4 trong tài liệu 10 trang."
+ },
+ {
+  "duong_dan_menu": "Insert > Page Number",
+  "giai_thich": "Thao tác văn phòng bắt buộc cho tài liệu nhiều trang.",
+  "nguon": "https://vieclam24h.vn/nghe-nghiep/tram-sac-ky-nang/10-cach-su-dung-word-huu-ich-cho-dan-van-phong-giup-lam-viec-de-dang-hon",
+  "phim_tat": "",
+  "ten_ky_nang": "Đánh số trang cơ bản",
+  "thao_tac_chi_tiet": "Insert > Page Number > chọn vị trí (Top/Bottom) và kiểu số > áp dụng toàn văn bản. Dùng Format Page Numbers để chọn kiểu số (1,2,3 / I,II,III).",
+  "vi_du": "Đánh số ở giữa chân trang cho giáo án 15 trang."
+ },
+ {
+  "duong_dan_menu": "Header/Footer > Different First Page + Format Page Numbers",
+  "giai_thich": "Bìa không mang số, nội dung bắt đầu từ số 1 cho đúng thể thức.",
+  "nguon": "https://vieclam24h.vn/nghe-nghiep/tram-sac-ky-nang/10-cach-su-dung-word-huu-ich-cho-dan-van-phong-giup-lam-viec-de-dang-hon",
+  "phim_tat": "",
+  "ten_ky_nang": "Bỏ đánh số trang bìa, đánh từ trang 2",
+  "thao_tac_chi_tiet": "Nhấp đúp Header/Footer > tick Different First Page để ẩn số trang đầu. Muốn trang 2 mang số 1: Page Number > Format Page Numbers > Start at 0 hoặc 1 tùy bố cục > Close Header and Footer.",
+  "vi_du": "Luận văn: bìa không số, trang mở đầu tính là trang 1."
+ },
+ {
+  "duong_dan_menu": "Layout > Margins > Custom Margins",
+  "giai_thich": "Căn lề chuẩn hành chính giúp văn bản hợp lệ khi nộp.",
+  "nguon": "https://vieclam24h.vn/nghe-nghiep/tram-sac-ky-nang/10-cach-su-dung-word-huu-ich-cho-dan-van-phong-giup-lam-viec-de-dang-hon",
+  "phim_tat": "",
+  "ten_ky_nang": "Căn lề chuẩn văn bản hành chính",
+  "thao_tac_chi_tiet": "Layout > Margins > Custom Margins > nhập Trên/Dưới/Trái/Phải theo quy định đơn vị (thường tham khảo 2-3cm trên/dưới, 3cm trái, 2cm phải với công văn VN). Áp dụng Whole document rồi xem trước khi in.",
+  "vi_du": "Căn lề công văn đi: trên 2cm, dưới 2cm, trái 3cm, phải 1.5cm."
+ },
+ {
+  "duong_dan_menu": "Paragraph > Alignment + Indentation",
+  "giai_thich": "Căn dòng và thụt đầu dòng tạo văn bản ngay ngắn, dễ đọc.",
+  "nguon": "https://vieclam24h.vn/nghe-nghiep/tram-sac-ky-nang/10-cach-su-dung-word-huu-ich-cho-dan-van-phong-giup-lam-viec-de-dang-hon",
+  "phim_tat": "Ctrl+L, Ctrl+E, Ctrl+R, Ctrl+J",
+  "ten_ky_nang": "Căn dòng và thụt đầu dòng",
+  "thao_tac_chi_tiet": "Bôi đen đoạn > Home > Paragraph chọn Align Left/Center/Right/Justify (hoặc Ctrl+L/E/R/J). Thụt đầu dòng: Paragraph > Special First Line 1.27cm cho mỗi đoạn mới.",
+  "vi_du": "Tiêu đề căn giữa, thân bài căn đều 2 bên (Justify)."
+ },
+ {
+  "duong_dan_menu": "References > Table of Contents",
+  "giai_thich": "Mục lục tự động nhảy tới chương khi nhấp, bắt buộc cho báo cáo/luận văn.",
+  "nguon": "https://vieclam24h.vn/nghe-nghiep/tram-sac-ky-nang/10-cach-su-dung-word-huu-ich-cho-dan-van-phong-giup-lam-viec-de-dang-hon",
+  "phim_tat": "",
+  "ten_ky_nang": "Tạo mục lục tự động",
+  "thao_tac_chi_tiet": "Áp Heading 1/2/3 cho tiêu đề các cấp > đặt con trỏ trang mục lục > References > Table of Contents > chọn kiểu tự động. Word gom các Heading thành mục lục có số trang.",
+  "vi_du": "Tạo mục lục 3 cấp cho báo cáo thực tập 40 trang."
+ },
+ {
+  "duong_dan_menu": "References > Update Table",
+  "giai_thich": "Giữ mục lục khớp với nội dung sau mỗi lần sửa, thêm chương.",
+  "nguon": "https://vieclam24h.vn/nghe-nghiep/tram-sac-ky-nang/10-cach-su-dung-word-huu-ich-cho-dan-van-phong-giup-lam-viec-de-dang-hon",
+  "phim_tat": "F9 (khi chọn mục lục)",
+  "ten_ky_nang": "Cập nhật mục lục sau khi sửa",
+  "thao_tac_chi_tiet": "Nhấp vào mục lục > Update Table > chọn Update entire table (cập nhật cả tiêu đề + số trang) hoặc Update page numbers only. Kiểm tra Heading bị sót nếu mục không hiện.",
+  "vi_du": "Thêm chương 4 xong nhấn Update để mục lục bổ sung."
+ },
+ {
+  "duong_dan_menu": "Home > Line and Paragraph Spacing",
+  "giai_thich": "Giãn dòng thoáng giúp người đọc đỡ mỏi và đáp ứng yêu cầu trình bày.",
+  "nguon": "https://vieclam24h.vn/nghe-nghiep/tram-sac-ky-nang/10-cach-su-dung-word-huu-ich-cho-dan-van-phong-giup-lam-viec-de-dang-hon",
+  "phim_tat": "Ctrl+1, Ctrl+5, Ctrl+2",
+  "ten_ky_nang": "Giãn dòng nhanh cho dân văn phòng",
+  "thao_tac_chi_tiet": "Bôi đen đoạn > Home > Line Spacing chọn 1.0/1.15/1.5/2.0. Muốn lẻ: Line Spacing Options > nhập giá trị Multiple/Exactly. Chỉnh Spacing Before/After để giãn giữa các đoạn.",
+  "vi_du": "Chuyển toàn luận văn sang giãn dòng 1.5 theo yêu cầu trường."
+ },
+ {
+  "duong_dan_menu": "Insert > Table > Insert Table",
+  "giai_thich": "Cách tạo bảng nhanh nhất cho danh sách, kế hoạch, báo giá.",
+  "nguon": "https://vieclam24h.vn/nghe-nghiep/tram-sac-ky-nang/10-cach-su-dung-word-huu-ich-cho-dan-van-phong-giup-lam-viec-de-dang-hon",
+  "phim_tat": "Tab (qua ô), Alt+A+T (cũ)",
+  "ten_ky_nang": "Tạo bảng trong Word",
+  "thao_tac_chi_tiet": "Insert > Table > kéo chọn hàng/cột hoặc Insert Table nhập số cụ thể > nhập dữ liệu, Tab để sang ô kế. Dùng Table Design đổi kiểu, Layout thêm/xóa hàng cột, gộp ô.",
+  "vi_du": "Tạo bảng 3x5 theo dõi tiến độ công việc tuần."
+ },
+ {
+  "duong_dan_menu": "Insert > Blank Page / Page Break",
+  "giai_thich": "Thêm trang mới đúng kỹ thuật để không vỡ bố cục khi chèn nội dung.",
+  "nguon": "https://vieclam24h.vn/nghe-nghiep/tram-sac-ky-nang/10-cach-su-dung-word-huu-ich-cho-dan-van-phong-giup-lam-viec-de-dang-hon",
+  "phim_tat": "Ctrl+Enter (ngắt trang)",
+  "ten_ky_nang": "Thêm trang mới và ngắt trang",
+  "thao_tac_chi_tiet": "Đặt con trỏ cuối trang > Insert > Blank Page để thêm trang trắng, hoặc Page Break (Ctrl+Enter) để đẩy nội dung sau sang trang mới. Dùng Page Break trước chương mới thay vì Enter nhiều lần.",
+  "vi_du": "Ngắt trang trước chương 2 để chương luôn mở đầu trang mới."
+ },
+ {
+  "duong_dan_menu": "Insert > Equation / Symbol",
+  "giai_thich": "Viết phân số, công thức chuẩn cho giáo án, tài liệu kỹ thuật.",
+  "nguon": "https://vieclam24h.vn/nghe-nghiep/tram-sac-ky-nang/10-cach-su-dung-word-huu-ich-cho-dan-van-phong-giup-lam-viec-de-dang-hon",
+  "phim_tat": "Alt+= (mở Equation)",
+  "ten_ky_nang": "Viết phân số và công thức",
+  "thao_tac_chi_tiet": "Cách 1: Insert > Equation > Fraction chọn kiểu phân số > nhập tử/mẫu. Cách 2: Insert > Symbol chọn phân số có sẵn (½, ¼). Với công thức phức tạp dùng Equation Tools để thêm căn, mũ, tích phân.",
+  "vi_du": "Soạn đề toán có phân số 3/4 hiển thị dạng xếp chồng."
+ },
+ {
+  "duong_dan_menu": "Layout > Columns",
+  "giai_thich": "Chia văn bản thành 2-3 cột kiểu báo, tờ gấp để tiết kiệm giấy và đẹp mắt.",
+  "nguon": "https://vieclam24h.vn/nghe-nghiep/tram-sac-ky-nang/10-cach-su-dung-word-huu-ich-cho-dan-van-phong-giup-lam-viec-de-dang-hon",
+  "phim_tat": "",
+  "ten_ky_nang": "Chia cột văn bản (Columns)",
+  "thao_tac_chi_tiet": "Bôi đen đoạn cần chia > Layout > Columns > chọn Two/Three hoặc More Columns tùy chỉnh số cột, khoảng cách, đường kẻ giữa. Dùng Section Break để chỉ chia một đoạn, phần còn lại giữ nguyên.",
+  "vi_du": "Chia bản tin nội bộ thành 2 cột kèm đường kẻ giữa."
+ },
+ {
+  "duong_dan_menu": "Insert > SmartArt / Shapes",
+  "giai_thich": "Vẽ sơ đồ tổ chức, quy trình bằng khối có sẵn thay vì vẽ tay.",
+  "nguon": "https://vieclam24h.vn/nghe-nghiep/tram-sac-ky-nang/10-cach-su-dung-word-huu-ich-cho-dan-van-phong-giup-lam-viec-de-dang-hon",
+  "phim_tat": "",
+  "ten_ky_nang": "Vẽ sơ đồ tổ chức và quy trình",
+  "thao_tac_chi_tiet": "Insert > SmartArt > Hierarchy (sơ đồ tổ chức) hoặc Process (quy trình) > nhập tên/bước > đổi màu qua Change Colors. Với sơ đồ tự do: Insert > Shapes vẽ hình, nối bằng Arrows.",
+  "vi_du": "Vẽ sơ đồ tổ chức phòng ban 3 cấp cho hồ sơ công ty."
+ },
+ {
+  "duong_dan_menu": "Thanh Ribbon + Quick Access + vùng soạn thảo",
+  "giai_thich": "Nắm 3 vùng giao diện là thao tác Word không bị lạc.",
+  "nguon": "https://vieclam24h.vn/nghe-nghiep/tram-sac-ky-nang/10-cach-su-dung-word-huu-ich-cho-dan-van-phong-giup-lam-viec-de-dang-hon",
+  "phim_tat": "",
+  "ten_ky_nang": "Làm quen giao diện Word cho người mới",
+  "thao_tac_chi_tiet": "Ribbon chứa các tab lệnh (Home, Insert...); Quick Access Toolbar ghim lệnh hay dùng phía trên; vùng soạn thảo ở giữa để gõ và định dạng trực tiếp. Bật Ruler (View > Ruler) để căn lề trực quan.",
+  "vi_du": "Người mới học: tìm mọi lệnh căn chữ ở tab Home."
+ },
+ {
+  "duong_dan_menu": "References > Table of Contents + Styles",
+  "giai_thich": "Ứng dụng tổng hợp: dùng Heading + mục lục + đánh số trang để ra báo cáo hoàn chỉnh.",
+  "nguon": "https://vieclam24h.vn/nghe-nghiep/tram-sac-ky-nang/10-cach-su-dung-word-huu-ich-cho-dan-van-phong-giup-lam-viec-de-dang-hon",
+  "phim_tat": "",
+  "ten_ky_nang": "Soạn báo cáo, luận văn hoàn chỉnh",
+  "thao_tac_chi_tiet": "Dựng dàn ý bằng Heading > viết thân bài > chèn bảng/biểu đồ minh họa > tạo mục lục tự động > đánh số trang > soát chính tả > lưu PDF nộp. Giữ Style nhất quán toàn tài liệu.",
+  "vi_du": "Hoàn thiện báo cáo thực tập gồm bìa, mục lục, 3 chương, phụ lục."
+ },
+ {
+  "duong_dan_menu": "File > New > Resume/Letter/Card",
+  "giai_thich": "Dùng Word làm CV, thư, thiệp nhanh mà vẫn đẹp nhờ template.",
+  "nguon": "https://vieclam24h.vn/nghe-nghiep/tram-sac-ky-nang/10-cach-su-dung-word-huu-ich-cho-dan-van-phong-giup-lam-viec-de-dang-hon",
+  "phim_tat": "",
+  "ten_ky_nang": "Tạo CV, thư, sơ yếu lý lịch",
+  "thao_tac_chi_tiet": "File > New > tìm Resume/Cover Letter > chọn mẫu > thay thông tin cá nhân, kinh nghiệm, ảnh. Với thư/thiệp: chọn mẫu Letter/Card, sửa lời chào và nội dung rồi in hoặc xuất PDF.",
+  "vi_du": "Làm CV 1 trang ứng tuyển nhân viên hành chính."
+ },
+ {
+  "duong_dan_menu": "File > New > Brochure/Poster + Insert Pictures",
+  "giai_thich": "Tận dụng cột, ảnh, text box để làm ấn phẩm truyền thông đơn giản.",
+  "nguon": "https://vieclam24h.vn/nghe-nghiep/tram-sac-ky-nang/10-cach-su-dung-word-huu-ich-cho-dan-van-phong-giup-lam-viec-de-dang-hon",
+  "phim_tat": "",
+  "ten_ky_nang": "Thiết kế tờ rơi, brochure đơn giản",
+  "thao_tac_chi_tiet": "New > tìm Brochure/Flyer > chọn mẫu > thay headline, ảnh sản phẩm, thông tin liên hệ. Kết hợp Columns chia cột, Text Box đặt khối ưu đãi, Shapes làm nút kêu gọi.",
+  "vi_du": "Làm flyer giảm giá 20% dịp khai trương cửa hàng."
+ },
+ {
+  "duong_dan_menu": "File > Options > Advanced + Save As PDF",
+  "giai_thich": "3 lỗi kinh điển: font lạ, lề sai, gửi docx bị nhảy chữ — đều có cách chặn.",
+  "nguon": "https://vieclam24h.vn/nghe-nghiep/tram-sac-ky-nang/10-cach-su-dung-word-huu-ich-cho-dan-van-phong-giup-lam-viec-de-dang-hon",
+  "phim_tat": "",
+  "ten_ky_nang": "Khắc phục lỗi nhảy font, sai lề, vỡ định dạng",
+  "thao_tac_chi_tiet": "Nhảy font: dùng font phổ biến (Times New Roman, Arial), khi gửi tick Embed fonts (Options > Save). Sai lề: kiểm tra Layout > Margins + khổ giấy A4 trước khi in. Vỡ định dạng: xuất PDF khi gửi chốt; nếu gửi docx thì tránh dùng font/effect lạ.",
+  "vi_du": "Xuất PDF trước khi gửi báo giá để khách thấy đúng như thiết kế."
+ },
+ {
+  "duong_dan_menu": "File > Account / Word Online (office.com)",
+  "giai_thich": "Word có bản online miễn phí và Copilot AI hỗ trợ soạn nhanh.",
+  "nguon": "https://vieclam24h.vn/nghe-nghiep/tram-sac-ky-nang/10-cach-su-dung-word-huu-ich-cho-dan-van-phong-giup-lam-viec-de-dang-hon",
+  "phim_tat": "",
+  "ten_ky_nang": "Dùng Word Online và AI hỗ trợ",
+  "thao_tac_chi_tiet": "Đăng nhập office.com > Word Online để soạn/lưu đám mây miễn phí, đồng bộ với bản máy. Bản Microsoft 365 có Copilot: ra lệnh soạn nháp, tóm tắt, viết lại đoạn văn. Người mới nên học từ cơ bản (gõ, lưu, bảng) rồi lên nâng cao (Styles, mục lục, macro).",
+  "vi_du": "Sinh viên dùng Word Online làm bài nhóm, nhờ Copilot gợi ý dàn ý."
+ }
+]

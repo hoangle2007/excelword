@@ -1,0 +1,471 @@
+{
+  "bai": "Bai 04 nhom ham dem COUNT COUNTA COUNTBLANK COUNTIF COUNTIFS",
+  "cau_hoi": [
+    {
+      "A": "=COUNT(value1, ...) dem cac o chua so",
+      "B": "=COUNT dem tat ca",
+      "C": "=COUNT dem o rong",
+      "D": "=COUNT dem chu",
+      "cau": "Ham COUNT dung de lam gi?",
+      "dap_an": "A",
+      "giai_thich": "COUNT chi dem o chua so, bo qua text, o rong.",
+      "id": 1
+    },
+    {
+      "A": "Khong dem duoc",
+      "B": "=COUNTA(value1, ...) dem tat ca o chua ky tu (so, chu, dau cach)",
+      "C": "=COUNTA dem o rong",
+      "D": "=COUNTA chi dem so",
+      "cau": "Ham COUNTA dung de lam gi?",
+      "dap_an": "B",
+      "giai_thich": "COUNTA dem moi o co ky tu.",
+      "id": 2
+    },
+    {
+      "A": "=COUNTBLANK(range) dem o rong",
+      "B": "=COUNTBLANK dem o co chu",
+      "C": "=COUNTBLANK dem o co so",
+      "D": "=COUNTBLANK dem tat ca",
+      "cau": "Ham COUNTBLANK dung de lam gi?",
+      "dap_an": "A",
+      "giai_thich": "COUNTBLANK dem o rong.",
+      "id": 3
+    },
+    {
+      "A": "=COUNTIF dem co dieu kien",
+      "B": "=COUNTIF dem tat ca",
+      "C": "=COUNTIF tinh tong",
+      "D": "=COUNTIF tim kiem",
+      "cau": "Ham COUNTIF khac gi COUNT?",
+      "dap_an": "A",
+      "giai_thich": "COUNTIF dem co 1 dieu kien.",
+      "id": 4
+    },
+    {
+      "A": "=COUNTIFS dem nhieu dieu kien, lap lai cap vung/dieu kien",
+      "B": "=COUNTIFS chi 1 dieu kien",
+      "C": "=COUNTIFS tinh tong",
+      "D": "=COUNTIFS xoa du lieu",
+      "cau": "Ham COUNTIFS dung khi nao?",
+      "dap_an": "A",
+      "giai_thich": "Khi co tu 2 dieu kien tro len.",
+      "id": 5
+    },
+    {
+      "A": "Cu phap COUNTIF va COUNTIFS giong nhau, chi them cap vung/dieu kien",
+      "B": "Hai ham khac hoan toan",
+      "C": "COUNTIFS vung tong o dau",
+      "D": "COUNTIF nhieu dieu kien hon",
+      "cau": "So sanh cu phap COUNTIF/COUNTIFS voi SUMIF/SUMIFS?",
+      "dap_an": "A",
+      "giai_thich": "COUNTIF/COUNTIFS giong nhau; khac SUMIF/SUMIFS (SUM doi vi tri vung tong).",
+      "id": 6
+    },
+    {
+      "A": "=COUNT(B2:E8) = 24 o chua so",
+      "B": "=COUNT = 0",
+      "C": "=COUNT = 35",
+      "D": "=COUNT = 3",
+      "cau": "Vi du COUNT trong video cho ket qua bao nhieu?",
+      "dap_an": "A",
+      "giai_thich": "24 o chua so; 32 la COUNTA, 3 la COUNTBLANK.",
+      "id": 7
+    },
+    {
+      "A": "=COUNTA(B2:E8) = 32 o co ky tu",
+      "B": "=COUNTA = 24",
+      "C": "=COUNTA = 3",
+      "D": "=COUNTA = 0",
+      "cau": "Vi du COUNTA trong video cho ket qua bao nhieu?",
+      "dap_an": "A",
+      "giai_thich": "32 o co ky tu tren tong 35 o.",
+      "id": 8
+    },
+    {
+      "A": "=COUNTBLANK = 32",
+      "B": "=COUNTBLANK = 24",
+      "C": "=COUNTBLANK(B2:E8) = 3 o rong",
+      "D": "=COUNTBLANK = 35",
+      "cau": "Vi du COUNTBLANK trong video?",
+      "dap_an": "C",
+      "giai_thich": "= 3 o rong; 32+3=35 tong so o.",
+      "id": 9
+    },
+    {
+      "A": "Tong o = 35 (7 cot x 5 hang); 32 co ky tu + 3 rong",
+      "B": "Tong = 24",
+      "C": "Tong = 100",
+      "D": "Khong biet tong",
+      "cau": "Vung du lieu B2:E8 co bao nhieu o?",
+      "dap_an": "A",
+      "giai_thich": "35 o: 32 co ky tu, 3 rong.",
+      "id": 10
+    },
+    {
+      "A": "O chua so 8 nam sat ben phai; o chuoi nam ben trai",
+      "B": "Ben nao cung giong",
+      "C": "So nam ben trai",
+      "D": "Chu nam ben phai",
+      "cau": "Phan biet so that va chuoi gia so?",
+      "dap_an": "A",
+      "giai_thich": "So that can phai, text can trai.",
+      "id": 11
+    },
+    {
+      "A": "Go them text vao o rong thi COUNTA tang, COUNTBLANK giam; go so thi COUNT tang",
+      "B": "Khong thay doi gi",
+      "C": "Chi COUNT doi",
+      "D": "May khong cap nhat",
+      "cau": "Thi nghiem go Excel vao o rong thi cac ham doi the nao?",
+      "dap_an": "A",
+      "giai_thich": "COUNTA tang, COUNTBLANK giam; so thi COUNT tang.",
+      "id": 12
+    },
+    {
+      "A": "=COUNTIF(range, \"con*\") dem o bat dau bang con",
+      "B": "=COUNTIF khong dung *",
+      "C": "=COUNTIF chi so",
+      "D": "=COUNTIF khong dem chu",
+      "cau": "Dem o bat dau bang chu con viet the nao?",
+      "dap_an": "A",
+      "giai_thich": "Dung wildcard *: con*.",
+      "id": 13
+    },
+    {
+      "A": "Vi =COUNTIF(range, \"con\") so sanh khop hoan toan nen = 0",
+      "B": "Vi ham sai",
+      "C": "Vi khong co du lieu",
+      "D": "Vi may hong",
+      "cau": "Tai sao =COUNTIF(vung, \"con\") tra ve 0?",
+      "dap_an": "A",
+      "giai_thich": "Vi no doi khop dung chu con, trong khi du lieu la con an, computer...",
+      "id": 14
+    },
+    {
+      "A": "Them * sau con de dai dien moi chuoi sau no",
+      "B": "Them so 1",
+      "C": "Them dau cham",
+      "D": "Khong them gi",
+      "cau": "Y nghia dau * trong con*?",
+      "dap_an": "A",
+      "giai_thich": "Dai dien bat ky chuoi nao sau con.",
+      "id": 15
+    },
+    {
+      "A": "\"*con\" dem o ket thuc bang con",
+      "B": "\"*con\" dem o bat dau",
+      "C": "\"*con\" sai",
+      "D": "\"*con\" khong dung duoc",
+      "cau": "Neu muon dem o ket thuc bang con thi viet the nao?",
+      "dap_an": "A",
+      "giai_thich": "* dung truoc de dai dien phan dau.",
+      "id": 16
+    },
+    {
+      "A": "\"*con*\" dem o chua con o bat ky vi tri",
+      "B": "Khong dem duoc",
+      "C": "Chi dem dau",
+      "D": "Chi dem cuoi",
+      "cau": "Muon dem o chua chu con o giua thi viet the nao?",
+      "dap_an": "A",
+      "giai_thich": "Them * ca truoc va sau.",
+      "id": 17
+    },
+    {
+      "A": "Ket qua con* = 3 (con an, con ...)",
+      "B": "= 0",
+      "C": "= 100",
+      "D": "= 1",
+      "cau": "Ket qua dem bat dau bang con trong video?",
+      "dap_an": "A",
+      "giai_thich": "= 3.",
+      "id": 18
+    },
+    {
+      "A": "Them t truoc con thanh tcon* thi ket qua giam con 1-2",
+      "B": "Khong doi",
+      "C": "Tang len",
+      "D": "Ve 0",
+      "cau": "Thi nghiem them chu t truoc con thi sao?",
+      "dap_an": "A",
+      "giai_thich": "Ket qua giam vi it o khop hon.",
+      "id": 19
+    },
+    {
+      "A": "Xoa chu t di de ve dung yeu cau bai toan",
+      "B": "De nguyen",
+      "C": "Xoa het",
+      "D": "Tao moi",
+      "cau": "Sau thi nghiem thi lam gi?",
+      "dap_an": "A",
+      "giai_thich": "Xoa chu t de ve con* = 3.",
+      "id": 20
+    },
+    {
+      "A": "=COUNTIFS(vung, \">50\", vung, \"<60\") = 5 o",
+      "B": "= 0",
+      "C": "= 100",
+      "D": "Khong dem duoc",
+      "cau": "Dem o lon hon 50 va nho hon 60 viet the nao?",
+      "dap_an": "A",
+      "giai_thich": "2 cap vung/dieu kien, dieu kien trong ngoac kep.",
+      "id": 21
+    },
+    {
+      "A": "5 o: 57, 56, 53, 51, 52",
+      "B": "0 o",
+      "C": "10 o",
+      "D": "24 o",
+      "cau": "Kiem tra 5 o >50 va <60 la nhung so nao?",
+      "dap_an": "A",
+      "giai_thich": "57,56,53,51,52.",
+      "id": 22
+    },
+    {
+      "A": "Chi can them s: COUNTIF thanh COUNTIFS, giu nguyen cu phap",
+      "B": "Phai hoc lai tu dau",
+      "C": "Hai ham khac nhau",
+      "D": "Khong chuyen duoc",
+      "cau": "Cach chuyen COUNTIF sang COUNTIFS?",
+      "dap_an": "A",
+      "giai_thich": "Them s va them cap vung/dieu kien.",
+      "id": 23
+    },
+    {
+      "A": "Bai tap tinh tong theo san pham + khu vuc: =SUMIFS(vung tong, vung SP, SP, vung KV, KV) co dinh $ va F4",
+      "B": "Khong co bai tap",
+      "C": "Bai tap ve nau an",
+      "D": "Bai tap ve game",
+      "cau": "Bai tap bai 3 duoc giai dau bai 4 la gi?",
+      "dap_an": "A",
+      "giai_thich": "SUMIFS 2 dieu kien SP + KV, co dinh.",
+      "id": 24
+    },
+    {
+      "A": "O G14 (SP) va F4 co dinh vi copy xuong van giu dieu kien",
+      "B": "Khong can co dinh",
+      "C": "De tu do",
+      "D": "Xoa dieu kien",
+      "cau": "Tai sao o dieu kien G14/F4 phai F4?",
+      "dap_an": "A",
+      "giai_thich": "De copy xuong khong dich.",
+      "id": 25
+    },
+    {
+      "A": "3 dieu kien: khu vuc + san pham + doanh thu >800000, vung DT vua la vung tong vua la vung dieu kien",
+      "B": "Chi 1 dieu kien",
+      "C": "Chi 2 dieu kien",
+      "D": "Khong co 3 dieu kien",
+      "cau": "Vi du SUMIFS 3 dieu kien duoc giai the nao?",
+      "dap_an": "A",
+      "giai_thich": "Them cap (vung DT, >800000).",
+      "id": 26
+    },
+    {
+      "A": "Doi mien Trung/Nam hoac SP02 thi ket qua tu doi; SP02 khong co DT >800000 nen = 0",
+      "B": "Ket qua co dinh",
+      "C": "Khong doi",
+      "D": "Phai tinh tay",
+      "cau": "Cach kiem tra cong thuc 3 dieu kien?",
+      "dap_an": "A",
+      "giai_thich": "Doi dieu kien xem ket qua co doi khong.",
+      "id": 27
+    },
+    {
+      "A": "Tinh diem trung binh moi thi sinh roi dung COUNTIF/COUNTIFS dem theo moc 5, 6, 8",
+      "B": "Khong co bai tap",
+      "C": "Chi xem",
+      "D": "Nghi hoc",
+      "cau": "Bai tap ve nha cua bai 4 la gi?",
+      "dap_an": "A",
+      "giai_thich": "Tinh DTB roi dem so thi sinh dau/rot, DTB >=8.",
+      "id": 28
+    },
+    {
+      "A": "DTB >= 5 hoac >= 6 la dau, duoi la rot tuy de bai",
+      "B": "Tat ca deu dau",
+      "C": "Tat ca deu rot",
+      "D": "Khong cham diem",
+      "cau": "Moc diem dau/rot trong bai tap?",
+      "dap_an": "A",
+      "giai_thich": "DTB lon bang 5/6 la dau, duoi la rot.",
+      "id": 29
+    },
+    {
+      "A": "DTB > 8 la xuat sac can dem rieng",
+      "B": "Khong can dem",
+      "C": "8 la rot",
+      "D": "8 la diem liet",
+      "cau": "Moc DTB lon hon 8 de lam gi?",
+      "dap_an": "A",
+      "giai_thich": "Dem so thi sinh gioi.",
+      "id": 30
+    },
+    {
+      "A": "Go =COUNT roi Tab hoac double-click de chon nhanh ham dau tien",
+      "B": "Phai go full",
+      "C": "Khong co goi y",
+      "D": "Doan mo",
+      "cau": "Meo nhap nhanh ham COUNT?",
+      "dap_an": "A",
+      "giai_thich": "Go COUNT roi Tab.",
+      "id": 31
+    },
+    {
+      "A": "Boi den toan vung B2:E8 roi dong ngoac Enter",
+      "B": "Chi chon 1 o",
+      "C": "Khong chon vung",
+      "D": "Doan dai",
+      "cau": "Cach chon vung cho ham dem?",
+      "dap_an": "A",
+      "giai_thich": "Boi den vung du lieu.",
+      "id": 32
+    },
+    {
+      "A": "Dieu kien chu dat trong ngoac kep, dieu kien so sanh nhu >50 cung trong ngoac kep",
+      "B": "Khong can ngoac kep",
+      "C": "Viet tuy y",
+      "D": "Khong co dieu kien",
+      "cau": "Dieu kien trong COUNTIF viet the nao?",
+      "dap_an": "A",
+      "giai_thich": "Dat trong ngoac kep.",
+      "id": 33
+    },
+    {
+      "A": "O trong duoc hieu la khong co gi, COUNTBLANK dem no",
+      "B": "O trong la so 0",
+      "C": "O trong la chu",
+      "D": "O trong khong ton tai",
+      "cau": "O rong duoc hieu the nao?",
+      "dap_an": "A",
+      "giai_thich": "La o khong co gi.",
+      "id": 34
+    },
+    {
+      "A": "Dau cach cung la ky tu nen COUNTA van dem",
+      "B": "Dau cach la rong",
+      "C": "Dau cach khong ton tai",
+      "D": "Dau cach la so",
+      "cau": "O chi chua dau cach thi COUNTA co dem khong?",
+      "dap_an": "A",
+      "giai_thich": "Co, vi dau cach la ky tu.",
+      "id": 35
+    },
+    {
+      "A": "So 14, 28 duoc COUNT dem; chuoi va o trong khong dem",
+      "B": "Tat ca deu dem",
+      "C": "Khong dem so nao",
+      "D": "Chi dem chu",
+      "cau": "Vi du so 14, 28 trong vung thi COUNT xu ly sao?",
+      "dap_an": "A",
+      "giai_thich": "So thi dem, chuoi/rong bo qua.",
+      "id": 36
+    },
+    {
+      "A": "Nen nho dang ky kenh va chia se de ung ho",
+      "B": "Khong can dang ky",
+      "C": "Huy dang ky",
+      "D": "Chan kenh",
+      "cau": "Cuoi video giang vien nhan manh gi?",
+      "dap_an": "A",
+      "giai_thich": "Dang ky kenh va chia se.",
+      "id": 37
+    },
+    {
+      "A": "File thuc hanh va cau hoi o duoi video, ai khong biet tai thi xem bai mo dau",
+      "B": "Khong co file",
+      "C": "Tu tao file",
+      "D": "Mua file",
+      "cau": "Lay file thuc hanh bai 4 o dau?",
+      "dap_an": "A",
+      "giai_thich": "O duoi video; xem bai mo dau neu chua biet tai.",
+      "id": 38
+    },
+    {
+      "A": "Bai 4 day 5 ham dem kem wildcard * va dieu kien so sanh",
+      "B": "Bai 4 day ve tranh",
+      "C": "Bai 4 nghi",
+      "D": "Bai 4 hoc hat",
+      "cau": "Tom tat bai 4 da hoc gi?",
+      "dap_an": "A",
+      "giai_thich": "COUNT, COUNTA, COUNTBLANK, COUNTIF, COUNTIFS.",
+      "id": 39
+    },
+    {
+      "A": "Bai tiep theo la bai 5 ve ham dieu kien",
+      "B": "Khoa hoc ket thuc",
+      "C": "Nghi hoc",
+      "D": "Bai tiep theo on lai bai 4 va hoc ham moi theo lo trinh 26 video",
+      "cau": "Sau bai 4 se hoc gi?",
+      "dap_an": "D",
+      "giai_thich": "Tiep tuc lo trinh cac ham quan trong.",
+      "id": 40
+    }
+  ],
+  "cong_thuc": [
+    {
+      "cu_phap": "=COUNT(value1, [value2], ...)",
+      "giai_thich": "Dem cac o chua so, bo qua text, o rong.",
+      "ten": "COUNT",
+      "vi_du": "=COUNT(B2:E8) = 24"
+    },
+    {
+      "cu_phap": "=COUNTA(value1, [value2], ...)",
+      "giai_thich": "Dem tat ca o chua ky tu (so, chu, dau cach).",
+      "ten": "COUNTA",
+      "vi_du": "=COUNTA(B2:E8) = 32"
+    },
+    {
+      "cu_phap": "=COUNTBLANK(range)",
+      "giai_thich": "Dem cac o rong.",
+      "ten": "COUNTBLANK",
+      "vi_du": "=COUNTBLANK(B2:E8) = 3; 32 + 3 = 35 tong o"
+    },
+    {
+      "cu_phap": "=COUNTIF(range, criteria)",
+      "giai_thich": "Dem 1 dieu kien. criteria trong ngoac kep; dung * de khop tung phan.",
+      "ten": "COUNTIF",
+      "vi_du": "=COUNTIF(B2:E8,\"con*\") = 3; =COUNTIF(B2:E8,\"con\") = 0 vi doi khop hoan toan"
+    },
+    {
+      "cu_phap": "=COUNTIFS(criteria_range1, criteria1, ...)",
+      "giai_thich": "Dem nhieu dieu kien, lap lai cap vung/dieu kien. Cu phap giong COUNTIF.",
+      "ten": "COUNTIFS",
+      "vi_du": "=COUNTIFS(B2:E8,\">50\",B2:E8,\"<60\") = 5 (57,56,53,51,52)"
+    },
+    {
+      "cu_phap": "\"con*\" / \"*con\" / \"*con*\" ; \">50\" / \"<60\"",
+      "giai_thich": "Wildcard * dai dien moi chuoi; dieu kien so sanh dat trong ngoac kep.",
+      "ten": "Wildcard va dieu kien so sanh",
+      "vi_du": "con* bat dau bang con; *con ket thuc bang con; *con* chua con"
+    },
+    {
+      "cu_phap": "=SUMIFS(sum_range, criteria_range1, criteria1, ...); F4 co dinh vung va o dieu kien; dieu kien so trong ngoac kep",
+      "giai_thich": "On tap bai 3: tinh tong theo san pham + khu vuc, mo rong 3 dieu kien them cap (vung DT, lon hon 800000); doi dieu kien de kiem tra.",
+      "ten": "SUMIFS on tap 2-3 dieu kien",
+      "vi_du": "=SUMIFS(DT,KV,F16,SP,G14); them (DT, lon hon 800000); SP02 khong co DT lon hon 800000 nen = 0"
+    },
+    {
+      "cu_phap": "=AVERAGE(number1, ...) tinh trung binh; ket hop COUNTIF/COUNTIFS dem theo moc diem",
+      "giai_thich": "Bai tap ve nha: tinh DTB moi thi sinh roi dem so dau (DTB lon bang 5 hoac 6), rot, va DTB lon hon 8.",
+      "ten": "AVERAGE tinh diem trung binh",
+      "vi_du": "=AVERAGE(B2:D2) ra DTB; =COUNTIF(DTB, lon bang 6) dem so dau"
+    },
+    {
+      "cu_phap": "Go COUNT roi Tab/double-click de chon ham; boi den vung roi Enter; F4 co dinh; doi gia tri dieu kien de kiem tra",
+      "giai_thich": "Meo Tab chon nhanh ham; co dinh o dieu kien (G14) de copy khong dich; doi mien/SP xem ket qua co doi khong.",
+      "ten": "Nhap nhanh va kiem tra cong thuc",
+      "vi_du": "Go COUNT Tab > boi den B2:E8 Enter; doi Bac thanh Trung de kiem tra"
+    }
+  ],
+  "thuat_toan_quy_trinh": [
+    "Buoc 1: Giai bai tap bai 3: dung SUMIFS cho 2 dieu kien san pham + khu vuc, F4 co dinh vung va o dieu kien; mo rong 3 dieu kien them cap (vung DT, lon hon 800000).",
+    "Buoc 2: Dung COUNT de dem o so, COUNTA dem o co ky tu, COUNTBLANK dem o rong tren vung B2:E8 (24/32/3).",
+    "Buoc 3: Thi nghiem go text/so vao o rong de thay COUNTA tang, COUNTBLANK giam, COUNT tang khi go so.",
+    "Buoc 4: Dung COUNTIF 1 dieu kien chuoi: con* de dem bat dau bang con (=3); giai thich vi sao con khong co * thi =0.",
+    "Buoc 5: Dung COUNTIFS nhieu dieu kien so: lon hon 50 va nho hon 60 (=5); mo rong tu COUNTIF chi can them s.",
+    "Buoc 6: Lam bai tap ve nha: tinh diem trung binh roi dung COUNTIF/COUNTIFS dem so dau (lon bang 5/6), rot, va DTB lon hon 8."
+  ],
+  "url": "https://www.youtube.com/watch?v=yHLGXACgTU0",
+  "video_id": "yHLGXACgTU0"
+}

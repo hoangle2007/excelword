@@ -1,0 +1,443 @@
+{
+  "video_id": "Xne7UmDP9TU",
+  "bai": "Bai 23 - 25 phim tat thong dung",
+  "url": "https://www.youtube.com/watch?v=Xne7UmDP9TU",
+  "cong_thuc": [
+    "Ctrl+C: copy vung dang boi den (vien nhap nhay kien bo); Esc de thoat vien nhap nhay.",
+    "Ctrl+V: paste (dan) vung da copy/cut vao vi tri moi.",
+    "Ctrl+X: cut; khac copy o cho vung goc bi xoa trang sau khi paste.",
+    "Ctrl+Z: undo thao tac vua xong (nhan nhieu lan de lui nhieu buoc).",
+    "Ctrl+F: mo Find (the Find); Ctrl+H: mo Replace (the Replace).",
+    "Find Next / Find All: tim tung o / liet ke tat ca; Replace / Replace All: thay tung cho / thay hang loat.",
+    "Ctrl+Shift+L: bat/tat AutoFilter (loc du lieu).",
+    "Ctrl + phim mui ten: nhay toi goc (dau/cuoi) vung du lieu; Ctrl+Home ve A1.",
+    "Ctrl+Shift + mui ten: boi den tu o hien tai toi goc vung (chon nhanh).",
+    "Ctrl+PageDown / Ctrl+PageUp: chuyen sang sheet ben phai / ben trai.",
+    "Ctrl+Shift+1: dinh dang #,##0.00 (ngan cach nghin + 2 thap phan); +2: gio; +3: ngay; +4: tien $; +5: %.",
+    "Alt+= (Alt + dau bang): tu dong chen SUM() cho cot/hang ke tren/trai.",
+    "Ctrl+C roi Alt+H+V+V (Paste Values): dan gia tri, bo cong thuc (sau do Enter/OK).",
+    "Ctrl+; (cham phay): chen NGAY hien tai; Ctrl+Shift+; : chen GIO hien tai.",
+    "Alt+Enter: xuong dong trong cung 1 o (vi du liet ke hang hoa).",
+    "Ctrl+A: lan 1 chon vung lien tuc, lan 2 chon ca sheet.",
+    "Alt+F1: ve bieu do tu dong tu vung du lieu dang chon.",
+    "Shift+Space: chon ca hang; Ctrl+Space: chon ca cot.",
+    "Ctrl+Shift+Dau cong (+) roi R/Enter: chen HANG; roi C: chen COT.",
+    "Ctrl+Dau tru (-) roi R: xoa HANG; roi C: xoa COT (hop Delete hien ra).",
+    "Giu Shift + keo chuot trai: di chuyen/chen hang-cot ma khong de len du lieu cu.",
+    "Ctrl+9: an HANG dang chon; Ctrl+0: an COT dang chon (chon nhieu hang/cot roi an de an hang loat); Ctrl+Z undo de hien lai.",
+    "Alt+; (Alt + cham phay): chon cac o NHIN THAY (visible) sau khi an hang/cot, bo qua o an khi copy.",
+    "Ctrl+E (Flash Fill, tu Excel 2013): gop Ho+Ten thanh ten day du sau khi go mau 1 o (Nguyen Van An), tu dien ca cot."
+  ],
+  "thuat_toan_quy_trinh": [
+    "Buoc 1: tai file thuc hanh bai 23, boi den vung du lieu mau de luyen tung phim tat.",
+    "Buoc 2: luyen nhom copy-paste: Ctrl+C > chuyen cho > Ctrl+V; Esc thoat; Ctrl+X de thay cut; Ctrl+Z undo.",
+    "Buoc 3: luyen Find/Replace: Ctrl+F tim 'hang', Find All; Ctrl+H thay 'du lieu' thanh 'Excel', Replace All; Ctrl+Z undo.",
+    "Buoc 4: luyen Filter + dieu huong: Ctrl+Shift+L bat loc; Ctrl+mui ten nhay goc; Ctrl+Shift+mui ten boi den; Ctrl+Home ve A1.",
+    "Buoc 5: luyen sheet + dinh dang: Ctrl+PgDn/PgUp chuyen sheet; nhap 1000000/3 roi Ctrl+Shift+1..5 xem 5 kieu.",
+    "Buoc 6: luyen tong + gia tri: dung Alt+= tinh tong; copy cot cong thuc roi Alt+H+V+V dan gia tri.",
+    "Buoc 7: luyen ngay/gio/xuong dong: Ctrl+; chen ngay, Ctrl+Shift+; chen gio; go text + Alt+Enter xuong dong.",
+    "Buoc 8: luyen insert/delete/move: Ctrl+A chon; Alt+F1 ve chart; Shift/Ctrl+Space chon hang/cot; Ctrl+Shift++ (R/C) chen; Ctrl+- xoa; Shift+keo di chuyen."
+  ],
+  "cau_hoi": [
+    {
+      "id": 1,
+      "cau": "Copy vung du lieu dung phim tat nao?",
+      "A": "Ctrl+C",
+      "B": "Ctrl+P",
+      "C": "Alt+C",
+      "D": "Shift+C",
+      "dap_an": "A",
+      "giai_thich": "Boi den roi Ctrl+C, vien nhap nhay la duoc."
+    },
+    {
+      "id": 2,
+      "cau": "Sau khi Ctrl+C thay hien tuong gi?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Vung copy vien nhap nhay",
+      "C": "Tat may",
+      "D": "Mat du lieu",
+      "dap_an": "B",
+      "giai_thich": "Vien nhap nhay bao vung copy san sang dan."
+    },
+    {
+      "id": 3,
+      "cau": "Dan vung da copy dung phim nao?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Ctrl+D",
+      "C": "Ctrl+V",
+      "D": "Shift+V",
+      "dap_an": "C",
+      "giai_thich": "Chon vi tri moi roi Ctrl+V."
+    },
+    {
+      "id": 4,
+      "cau": "Thoat vien nhap nhay sau copy/paste bang?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Enter",
+      "C": "Tab",
+      "D": "Esc",
+      "dap_an": "D",
+      "giai_thich": "Nhan Esc de tat che do marching ants."
+    },
+    {
+      "id": 5,
+      "cau": "Cut (cat) dung phim nao?",
+      "A": "Ctrl+X",
+      "B": "Ctrl+C",
+      "C": "Ctrl+K",
+      "D": "Alt+X",
+      "dap_an": "A",
+      "giai_thich": "Boi den roi Ctrl+X, vung goc cung nhap nhay."
+    },
+    {
+      "id": 6,
+      "cau": "Cut khac Copy o diem nao?",
+      "A": "Giong het",
+      "B": "Cut xoa trang vung goc sau khi paste, Copy giu nguyen",
+      "C": "Cut nhanh hon",
+      "D": "Copy xoa goc",
+      "dap_an": "B",
+      "giai_thich": "Cut = di chuyen, Copy = nhan ban."
+    },
+    {
+      "id": 7,
+      "cau": "Undo thao tac vua xong dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Ctrl+Y",
+      "C": "Ctrl+Z",
+      "D": "Alt+Z",
+      "dap_an": "C",
+      "giai_thich": "Nhan Ctrl+Z, nhan nhieu lan lui nhieu buoc."
+    },
+    {
+      "id": 8,
+      "cau": "Mo hop Find (tim kiem) dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Ctrl+G",
+      "C": "Alt+F",
+      "D": "Ctrl+F",
+      "dap_an": "D",
+      "giai_thich": "Ctrl+F mo Find and Replace o the Find."
+    },
+    {
+      "id": 9,
+      "cau": "Mo thang the Replace (thay the) dung?",
+      "A": "Ctrl+H",
+      "B": "Ctrl+R",
+      "C": "Alt+H",
+      "D": "Shift+H",
+      "dap_an": "A",
+      "giai_thich": "Ctrl+H nhay thang sang the Replace."
+    },
+    {
+      "id": 10,
+      "cau": "Tim o tiep theo chua tu khoa dung nut nao?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Find Next",
+      "C": "Replace",
+      "D": "Close",
+      "dap_an": "B",
+      "giai_thich": "Find Next nhay tung o; Find All liet ke het."
+    },
+    {
+      "id": 11,
+      "cau": "Thay hang loat moi noi dung nut nao?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Replace (1 cho)",
+      "C": "Replace All",
+      "D": "Close",
+      "dap_an": "C",
+      "giai_thich": "Replace thay tung cho, Replace All thay tat ca."
+    },
+    {
+      "id": 12,
+      "cau": "Bat/tat loc Filter (AutoFilter) dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Ctrl+L",
+      "C": "Alt+L",
+      "D": "Ctrl+Shift+L",
+      "dap_an": "D",
+      "giai_thich": "Nhan lai to hop de tat filter."
+    },
+    {
+      "id": 13,
+      "cau": "Nhay nhanh toi goc phai vung du lieu dung?",
+      "A": "Ctrl + mui ten phai",
+      "B": "Keo chuot",
+      "C": "Lan banh xe",
+      "D": "Tab",
+      "dap_an": "A",
+      "giai_thich": "Giu Ctrl + mui ten de nhay toi bien vung."
+    },
+    {
+      "id": 14,
+      "cau": "Tu o bat ky ve o A1 nhanh nhat?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Ctrl+Home",
+      "C": "Nhan 10 lan mui ten",
+      "D": "Tat mo lai",
+      "dap_an": "B",
+      "giai_thich": "Ctrl+Home ve dau sheet tuc thi."
+    },
+    {
+      "id": 15,
+      "cau": "Boi den nhanh tu o hien tai toi cuoi vung dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Keo chuot tu tu",
+      "C": "Ctrl+Shift + mui ten",
+      "D": "In ra boi",
+      "dap_an": "C",
+      "giai_thich": "Them Shift de vua di chuyen vua chon."
+    },
+    {
+      "id": 16,
+      "cau": "Chon toan bo vung du lieu lien tuc dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Chon 1 o",
+      "C": "Xoa",
+      "D": "Ctrl+Shift+mui ten xuong + sang phai",
+      "dap_an": "D",
+      "giai_thich": "Ket hop 2 huong de phu kin vung."
+    },
+    {
+      "id": 17,
+      "cau": "Chuyen sang sheet ben PHAI dung?",
+      "A": "Ctrl+PageDown",
+      "B": "Ctrl+Tab",
+      "C": "Alt+phai",
+      "D": "Shift+phai",
+      "dap_an": "A",
+      "giai_thich": "Ctrl+PgDn sang phai, Ctrl+PgUp sang trai."
+    },
+    {
+      "id": 18,
+      "cau": "Dinh dang ngan cach nghin + 2 thap phan dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Ctrl+Shift+1",
+      "C": "Alt+1",
+      "D": "Shift+1",
+      "dap_an": "B",
+      "giai_thich": "Vi du 333333.33 -> 333,333.33."
+    },
+    {
+      "id": 19,
+      "cau": "Doi sang dinh dang GIO dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Ctrl+2",
+      "C": "Ctrl+Shift+2",
+      "D": "Shift+2",
+      "dap_an": "C",
+      "giai_thich": "So thap phan hien thanh gio."
+    },
+    {
+      "id": 20,
+      "cau": "Doi sang dinh dang NGAY THANG dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Ctrl+3",
+      "C": "Alt+3",
+      "D": "Ctrl+Shift+3",
+      "dap_an": "D",
+      "giai_thich": "So serial chuyen thanh ngay thang."
+    },
+    {
+      "id": 21,
+      "cau": "Doi sang tien te $ dung?",
+      "A": "Ctrl+Shift+4",
+      "B": "Ctrl+4",
+      "C": "Alt+4",
+      "D": "Shift+4",
+      "dap_an": "A",
+      "giai_thich": "Them ky tu $ dang tien My."
+    },
+    {
+      "id": 22,
+      "cau": "Doi sang PHAN TRAM dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Ctrl+Shift+5",
+      "C": "Alt+5",
+      "D": "Shift+5",
+      "dap_an": "B",
+      "giai_thich": "Nhan 100 va them dau %."
+    },
+    {
+      "id": 23,
+      "cau": "Tu dong chen ham SUM dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Ctrl+S",
+      "C": "Alt + dau bang (=)",
+      "D": "Shift+S",
+      "dap_an": "C",
+      "giai_thich": "Alt+= doan vung lien ke roi Enter."
+    },
+    {
+      "id": 24,
+      "cau": "Dan DAC BIET dang gia tri (bo cong thuc) dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Ctrl+V thuong",
+      "C": "Ctrl+C",
+      "D": "Copy roi Alt+H+V+V (Paste Values)",
+      "dap_an": "D",
+      "giai_thich": "Paste Values chi lay so, mat cong thuc."
+    },
+    {
+      "id": 25,
+      "cau": "Chen NGAY hien tai vao o dung?",
+      "A": "Ctrl+; (cham phay)",
+      "B": "Ctrl+D",
+      "C": "Alt+D",
+      "D": "Shift+D",
+      "dap_an": "A",
+      "giai_thich": "Ctrl+; ra ngay hom nay dang ngay."
+    },
+    {
+      "id": 26,
+      "cau": "Chen GIO hien tai vao o dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Ctrl+Shift+;",
+      "C": "Alt+G",
+      "D": "Shift+G",
+      "dap_an": "B",
+      "giai_thich": "Them Shift so voi lenh ngay de ra gio."
+    },
+    {
+      "id": 27,
+      "cau": "Xuong dong trong cung 1 o dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Enter",
+      "C": "Alt+Enter",
+      "D": "Ctrl+Enter",
+      "dap_an": "C",
+      "giai_thich": "Alt+Enter ngat dong ma van o mot o."
+    },
+    {
+      "id": 28,
+      "cau": "Chon nhanh vung du lieu hien tai dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Ctrl+S",
+      "C": "Alt+A",
+      "D": "Ctrl+A (lan 1)",
+      "dap_an": "D",
+      "giai_thich": "Lan 1 chon vung lien tuc, lan 2 chon ca sheet."
+    },
+    {
+      "id": 29,
+      "cau": "Ve bieu do tu dong tu vung dang chon dung?",
+      "A": "Alt+F1",
+      "B": "F1",
+      "C": "Ctrl+F1",
+      "D": "Shift+F1",
+      "dap_an": "A",
+      "giai_thich": "Alt+F1 ve chart ngay tren sheet hien tai."
+    },
+    {
+      "id": 30,
+      "cau": "Chon ca HANG hien tai dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Shift+Space",
+      "C": "Alt+Space",
+      "D": "Space",
+      "dap_an": "B",
+      "giai_thich": "Shift+Space chon hang, boi den them de chon nhieu hang."
+    },
+    {
+      "id": 31,
+      "cau": "Chon ca COT hien tai dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Shift+Space",
+      "C": "Ctrl+Space",
+      "D": "Space",
+      "dap_an": "C",
+      "giai_thich": "Ctrl+Space chon cot, boi den 2 cot de chon 2 cot."
+    },
+    {
+      "id": 32,
+      "cau": "Chen HANG moi dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Ctrl+C",
+      "C": "Ctrl+V",
+      "D": "Ctrl+Shift+cong (+) roi R",
+      "dap_an": "D",
+      "giai_thich": "Hop Insert hien ra, go R (=Row) roi Enter."
+    },
+    {
+      "id": 33,
+      "cau": "Chen COT moi dung? (giong chen hang nhung go C)",
+      "A": "Ctrl+Shift+cong (+) roi C (=Column)",
+      "B": "Ctrl+C (copy)",
+      "C": "Ctrl+V (paste)",
+      "D": "Ctrl+X (cut)",
+      "dap_an": "A",
+      "giai_thich": "Hop Insert hien ra, go C (=Column) roi Enter; boi den 2 o de chen 2 cot."
+    },
+    {
+      "id": 34,
+      "cau": "Muon chen 2 hang thi lam sao?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Boi den 2 o hang duoi roi Ctrl+Shift++ > R",
+      "C": "Ghi tay",
+      "D": "Khong chen duoc",
+      "dap_an": "B",
+      "giai_thich": "So o boi den = so hang duoc chen."
+    },
+    {
+      "id": 35,
+      "cau": "Xoa COT dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Delete thuong",
+      "C": "Ctrl + tru (-) roi C",
+      "D": "Alt+C",
+      "dap_an": "C",
+      "giai_thich": "Hop Delete hien ra, go C de xoa cot."
+    },
+    {
+      "id": 36,
+      "cau": "Xoa HANG dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Ctrl+X",
+      "C": "Ctrl+V",
+      "D": "Ctrl + tru (-) roi R",
+      "dap_an": "D",
+      "giai_thich": "Go R de xoa hang trong hop Delete."
+    },
+    {
+      "id": 37,
+      "cau": "Di chuyen 2 hang len vi tri khac khong de du lieu dung?",
+      "A": "Giu Shift + keo chuot trai toi vach xanh roi tha",
+      "B": "Cut roi dan de",
+      "C": "Xoa go lai",
+      "D": "Chup anh",
+      "dap_an": "A",
+      "giai_thich": "Shift+keo se chen len, khong ghi de."
+    },
+    {
+      "id": 38,
+      "cau": "Doi 2 cot B va C cho nhau dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Boi den cot > Shift+keo sang vi tri moi",
+      "C": "Danh lai",
+      "D": "Tao sheet moi",
+      "dap_an": "B",
+      "giai_thich": "Shift+drag hoan doi ma khong mat du lieu."
+    },
+    {
+      "id": 39,
+      "cau": "Nhan 2 lan Ctrl+Z sau Replace All thi?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Luu file",
+      "C": "Hoan tac 2 buoc thay the",
+      "D": "In file",
+      "dap_an": "C",
+      "giai_thich": "Moi lan Ctrl+Z lui 1 thao tac."
+    },
+    {
+      "id": 40,
+      "cau": "De luyen thanh thao 25 phim tat tac gia khuyen gi?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Chi xem",
+      "C": "Hoc thuoc long",
+      "D": "Tai file va vua xem vua bam theo",
+      "dap_an": "D",
+      "giai_thich": "Tai link mo ta, thuc hanh cung video."
+    }
+  ]
+}

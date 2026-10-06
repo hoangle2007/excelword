@@ -1,0 +1,355 @@
+{
+ "bai": 26,
+ "cau_hoi": [
+  {
+   "A": "Nhấn Ctrl + F1 để ẩn/hiện Ribbon",
+   "B": "Nhấn Ctrl + S",
+   "C": "Nhấn Alt + F4",
+   "D": "Nhấn Ctrl + A",
+   "cau": "Cách 1 ẩn/hiện thanh công cụ bằng phím tắt là?",
+   "dap_an": "A",
+   "giai_thich": "Ctrl+F1 ẩn chỉ còn menu, nhấn lại để hiện.",
+   "id": 1,
+   "muc_do": "de"
+  },
+  {
+   "A": "Ctrl + F1",
+   "B": "Ctrl + S",
+   "C": "Ctrl + O",
+   "D": "Ctrl + P",
+   "cau": "Phím tắt ẩn/hiện Ribbon trong Word là?",
+   "dap_an": "A",
+   "giai_thich": "Ctrl+F1 toggle Ribbon.",
+   "id": 2,
+   "muc_do": "de"
+  },
+  {
+   "A": "Nhấp icon mũi tên (Ribbon Display Options) chọn Auto-hide/Show Tabs/Show Tabs and Commands",
+   "B": "Tắt máy",
+   "C": "Rút điện",
+   "D": "Xóa Word",
+   "cau": "Cách 2 ẩn/hiện bằng chuột là?",
+   "dap_an": "A",
+   "giai_thich": "Mũi tên góc phải chọn chế độ hiển thị Ribbon.",
+   "id": 3,
+   "muc_do": "de"
+  },
+  {
+   "A": "Auto-hide Ribbon",
+   "B": "Show Tabs and Commands",
+   "C": "Show Tabs",
+   "D": "Full Screen",
+   "cau": "Muốn ẩn toàn bộ (cả menu) thì chọn?",
+   "dap_an": "A",
+   "giai_thich": "Auto-hide ẩn hết, nhấp ... để hiện tạm.",
+   "id": 4,
+   "muc_do": "de"
+  },
+  {
+   "A": "Show Tabs and Commands",
+   "B": "Auto-hide",
+   "C": "Show Tabs",
+   "D": "Taskbar",
+   "cau": "Muốn hiện đầy đủ như bình thường thì chọn?",
+   "dap_an": "A",
+   "giai_thich": "Show Tabs and Commands hiện full.",
+   "id": 5,
+   "muc_do": "de"
+  },
+  {
+   "A": "Show Tabs (chỉ hiện menu, giấu lệnh)",
+   "B": "Auto-hide",
+   "C": "Show Commands",
+   "D": "Hide All",
+   "cau": "Muốn chỉ hiện tên menu (File, Home...) thì chọn?",
+   "dap_an": "A",
+   "giai_thich": "Show Tabs giấu lệnh, nhấp tab mới xổ lệnh.",
+   "id": 6,
+   "muc_do": "de"
+  },
+  {
+   "A": "Nhấp ... rồi mũi tên để hiện lại",
+   "B": "Không hiện lại được",
+   "C": "Phải cài lại Word",
+   "D": "Phải mua máy mới",
+   "cau": "Đang Auto-hide, muốn hiện tạm Ribbon thì?",
+   "dap_an": "A",
+   "giai_thich": "Nhấp ... rồi ghim lại chế độ hiện.",
+   "id": 7,
+   "muc_do": "de"
+  },
+  {
+   "A": "Chuột phải vào menu/Ribbon > Collapse the Ribbon",
+   "B": "Không thể chuột phải",
+   "C": "Phải vào File",
+   "D": "Phải tắt máy",
+   "cau": "Cách chuột phải để ẩn/hiện Ribbon là?",
+   "dap_an": "A",
+   "giai_thich": "Chuột phải > Collapse/Uncollapse the Ribbon.",
+   "id": 8,
+   "muc_do": "de"
+  },
+  {
+   "A": "Mọi phiên bản Word đều có Ctrl+F1 và Display Options",
+   "B": "Mỗi bản khác nhau hoàn toàn",
+   "C": "Bản cũ không ẩn được",
+   "D": "Bản mới không ẩn được",
+   "cau": "Tính tương thích ẩn/hiện Ribbon giữa các bản?",
+   "dap_an": "A",
+   "giai_thich": "Áp dụng tất cả phiên bản.",
+   "id": 9,
+   "muc_do": "de"
+  },
+  {
+   "A": "Để có không gian soạn thảo rộng hơn",
+   "B": "Để tăng tốc mạng",
+   "C": "Để tiết kiệm pin",
+   "D": "Để trang trí",
+   "cau": "Vì sao cần ẩn Ribbon?",
+   "dap_an": "A",
+   "giai_thich": "Ẩn khi màn hình nhỏ, cần tập trung đọc/soạn.",
+   "id": 10,
+   "muc_do": "de"
+  },
+  {
+   "A": "Ctrl+F1 chỉ ẩn lệnh, vẫn còn tên menu",
+   "B": "Ctrl+F1 ẩn cả menu",
+   "C": "Ctrl+F1 tắt Word",
+   "D": "Ctrl+F1 xóa file",
+   "cau": "Sau khi Ctrl+F1 lần 1, giao diện còn gì?",
+   "dap_an": "A",
+   "giai_thich": "Chỉ còn hàng menu, lệnh bị thu gọn.",
+   "id": 11,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Nhấn lại Ctrl+F1 để hiện lại",
+   "B": "Phải khởi động lại",
+   "C": "Phải cài lại",
+   "D": "Không hiện được",
+   "cau": "Đang ẩn bằng Ctrl+F1, muốn hiện lại thì?",
+   "dap_an": "A",
+   "giai_thich": "Nhấn lại Ctrl+F1 toggle về.",
+   "id": 12,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Icon mũi tên ở góc trên-phải (gần Minimize)",
+   "B": "Ở Taskbar",
+   "C": "Ở nút Start",
+   "D": "Ở ngoài màn hình",
+   "cau": "Nút Ribbon Display Options nằm ở đâu?",
+   "dap_an": "A",
+   "giai_thich": "Góc trên-phải cửa sổ Word.",
+   "id": 13,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Nhấp tab (ví dụ Home) để xổ lệnh tạm khi đang Show Tabs",
+   "B": "Không xổ được",
+   "C": "Phải hiện full",
+   "D": "Phải tắt máy",
+   "cau": "Đang Show Tabs, muốn dùng lệnh thì?",
+   "dap_an": "A",
+   "giai_thich": "Nhấp tên tab để xổ lệnh tạm.",
+   "id": 14,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Ghim (Pin) khi hiện tạm để giữ lại",
+   "B": "Không ghim được",
+   "C": "Phải tắt máy",
+   "D": "Phải cài lại",
+   "cau": "Hiện tạm Ribbon ở Auto-hide, muốn giữ luôn thì?",
+   "dap_an": "A",
+   "giai_thich": "Nhấp ghim/Pin để chuyển về hiện.",
+   "id": 15,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Collapse the Ribbon (tích là ẩn, bỏ là hiện)",
+   "B": "Không có mục này",
+   "C": "Mục này để xóa",
+   "D": "Mục này để tắt máy",
+   "cau": "Mục chuột phải để thu gọn Ribbon tên là?",
+   "dap_an": "A",
+   "giai_thich": "Collapse the Ribbon.",
+   "id": 16,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Bản cũ dùng icon mũi tên lên/xuống thay vì Display Options mới",
+   "B": "Bản cũ không có",
+   "C": "Bản cũ giống hệt",
+   "D": "Bản cũ phải gõ lệnh",
+   "cau": "Khác biệt nút ẩn/hiện giữa Word cũ và mới là?",
+   "dap_an": "A",
+   "giai_thich": "Cũ dùng mũi tên ^/v; mới dùng Display Options.",
+   "id": 17,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Full Screen (không Ribbon, không thanh tiêu đề) khi trình chiếu",
+   "B": "Giống Auto-hide",
+   "C": "Giống Show Tabs",
+   "D": "Không có chế độ này",
+   "cau": "Chế độ toàn màn hình khác Auto-hide thế nào?",
+   "dap_an": "A",
+   "giai_thich": "Full Screen ẩn cả viền, tập trung đọc.",
+   "id": 18,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Esc để thoát Full Screen",
+   "B": "Không thoát được",
+   "C": "Phải tắt máy",
+   "D": "Phải rút điện",
+   "cau": "Đang Full Screen muốn thoát thì?",
+   "dap_an": "A",
+   "giai_thich": "Esc thoát về thường.",
+   "id": 19,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Ẩn Ribbon không mất lệnh, chỉ thu gọn",
+   "B": "Ẩn là mất lệnh",
+   "C": "Ẩn phải cài lại",
+   "D": "Ẩn làm hỏng file",
+   "cau": "Ẩn Ribbon có làm mất chức năng?",
+   "dap_an": "A",
+   "giai_thich": "Lệnh vẫn đó, chỉ thu gọn giao diện.",
+   "id": 20,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Quick Access Toolbar vẫn dùng được khi Ribbon ẩn",
+   "B": "Không dùng được gì",
+   "C": "Phải hiện Ribbon",
+   "D": "Phải tắt máy",
+   "cau": "Khi Ribbon ẩn, còn cách nào bấm lệnh nhanh?",
+   "dap_an": "A",
+   "giai_thich": "Thanh Quick Access trên cùng vẫn hiện.",
+   "id": 21,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Alt hiện phím gợi ý (KeyTips) để dùng không cần chuột",
+   "B": "Alt tắt máy",
+   "C": "Alt xóa file",
+   "D": "Alt không tác dụng",
+   "cau": "Khi Ribbon ẩn, dùng phím tắt gợi ý nào?",
+   "dap_an": "A",
+   "giai_thich": "Nhấn Alt hiện chữ cái phím tắt từng tab/lệnh.",
+   "id": 22,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Màn hình nhỏ/laptop cần chỗ đọc thì ẩn; màn to thì hiện full",
+   "B": "Luôn ẩn",
+   "C": "Luôn hiện",
+   "D": "Không quan trọng",
+   "cau": "Khi nào nên ẩn, khi nào nên hiện?",
+   "dap_an": "A",
+   "giai_thich": "Ẩn khi cần rộng; hiện khi cần thao tác nhiều.",
+   "id": 23,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Ribbon ẩn + đọc Focus/Read Mode để tập trung",
+   "B": "Ribbon ẩn làm mất tập trung",
+   "C": "Không liên quan",
+   "D": "Không có chế độ đọc",
+   "cau": "Combo tập trung đọc/soạn thảo là?",
+   "dap_an": "A",
+   "giai_thich": "Ẩn Ribbon + View Focus/Read Mode.",
+   "id": 24,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Tùy chỉnh Ribbon (Customize) để đưa lệnh hay dùng ra ngoài",
+   "B": "Không tùy chỉnh được",
+   "C": "Phải chịu mặc định",
+   "D": "Phải mua bản Pro",
+   "cau": "Muốn lệnh hay dùng luôn hiện dù Ribbon gọn thì?",
+   "dap_an": "A",
+   "giai_thich": "File > Options > Customize Ribbon/Quick Access.",
+   "id": 25,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Đưa Save/Undo/Redo ra Quick Access để khỏi cần Ribbon",
+   "B": "Không đưa được",
+   "C": "Phải mở Ribbon",
+   "D": "Không cần lưu",
+   "cau": "Ví dụ lệnh nên đưa ra Quick Access là?",
+   "dap_an": "A",
+   "giai_thich": "Save, Undo, Redo dùng liên tục.",
+   "id": 26,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Double-click tab để thu/hiện Ribbon nhanh",
+   "B": "Không có mẹo này",
+   "C": "Phải dùng phím",
+   "D": "Phải vào File",
+   "cau": "Mẹo nhấp đúp tab để ẩn/hiện là?",
+   "dap_an": "A",
+   "giai_thich": "Nhấp đúp tên tab toggle Collapse.",
+   "id": 27,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Ctrl+F1 nhanh; Display Options nhiều chế độ; chuột phải tiện",
+   "B": "Ba cách khác kết quả",
+   "C": "Chỉ 1 cách đúng",
+   "D": "Không cách nào đúng",
+   "cau": "So sánh 3 cách ẩn/hiện là?",
+   "dap_an": "A",
+   "giai_thich": "Kết quả tương đương, khác thao tác.",
+   "id": 28,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Kiểm tra đang ở chế độ nào trước khi bảo lỗi mất lệnh",
+   "B": "Lệnh mất là hỏng",
+   "C": "Phải cài lại",
+   "D": "Phải mua máy",
+   "cau": "Người mới kêu 'mất thanh công cụ' thường do?",
+   "dap_an": "A",
+   "giai_thich": "Do đang Auto-hide/Show Tabs/Collapse, không phải mất.",
+   "id": 29,
+   "muc_do": "kho"
+  },
+  {
+   "A": "2 cách: Ctrl+F1 và Display Options/chuột phải; 3 chế độ Auto/Tabs/Full",
+   "B": "Chỉ 1 cách 1 chế độ",
+   "C": "Có 10 cách",
+   "D": "Không có cách nào",
+   "cau": "Tóm tắt bài ẩn/hiện thanh công cụ là?",
+   "dap_an": "A",
+   "giai_thich": "Ctrl+F1 toggle; Display Options 3 chế độ; chuột phải Collapse.",
+   "id": 30,
+   "muc_do": "kho"
+  }
+ ],
+ "ky_nang": [
+  {
+   "duong_dan_menu": "Không có (bàn phím)",
+   "giai_thich": "Nhanh; nhấn lại để hiện; vẫn còn hàng menu.",
+   "phim_tat": "Ctrl + F1",
+   "ten": "Ẩn/hiện bằng phím tắt",
+   "thao_tac": "Nhấn Ctrl+F1 để ẩn (chỉ còn menu), nhấn lại để hiện.",
+   "vi_du": "Nhấn Ctrl+F1 ẩn Ribbon, nhấn lại hiện ra."
+  },
+  {
+   "duong_dan_menu": "Ribbon Display Options (mũi tên góc phải) / Chuột phải > Collapse the Ribbon",
+   "giai_thich": "3 chế độ: Auto-hide, Show Tabs, Show Tabs and Commands; bản cũ dùng mũi tên ^/v.",
+   "phim_tat": "Không có (nhấp đúp tab cũng toggle)",
+   "ten": "Ẩn/hiện bằng chuột (Display Options)",
+   "thao_tac": "Nhấp icon mũi tên góc trên-phải, chọn Auto-hide / Show Tabs / Show Tabs and Commands; hoặc chuột phải > Collapse.",
+   "vi_du": "Chọn Full/Show Tabs để ẩn, Show Tabs and Commands để hiện full."
+  }
+ ],
+ "url": "https://www.youtube.com/watch?v=HYMqicwV-lc",
+ "video_id": "HYMqicwV-lc"
+}

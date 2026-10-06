@@ -1,0 +1,506 @@
+[
+ {
+  "giai_thich": "Cách mở chương trình Word 2013 để bắt đầu soạn thảo; giáo trình hướng dẫn nhấp đúp biểu tượng trên Desktop và chờ màn hình khởi động.",
+  "menu": "Desktop > biểu tượng Microsoft Word 2013 (nhấp đúp)",
+  "phim_tat": "",
+  "ten_ky_nang": "Khởi động Microsoft Word 2013",
+  "thao_tac": "Nhấp đúp biểu tượng Word 2013 trên màn hình Desktop, chờ cửa sổ giới thiệu và chọn mẫu văn bản (Blank document).",
+  "vi_du": "Nhấp đúp icon Word trên Desktop rồi chọn Blank document để mở trang soạn thảo trắng.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Sau khi khởi động Word đã tự tạo sẵn văn bản mới; có thể tạo thêm bằng Office Button hoặc thanh công cụ nhanh.",
+  "menu": "Office Button > New > Blank Document; Quick Access Toolbar > New",
+  "phim_tat": "Ctrl+N",
+  "ten_ky_nang": "Tạo văn bản mới",
+  "thao_tac": "Nhấp Office Button chọn New rồi chọn Blank Document, hoặc nhấp mũi tên trên thanh công cụ nhanh chọn New.",
+  "vi_du": "Mở Word xong chọn Blank document rồi gõ nội dung Công ty CP Phần Mềm AVIN.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Ribbon chứa gần như toàn bộ lệnh của Word, chia theo tab (Home, Insert, Page Layout...); muốn dùng lệnh phải biết nó nằm ở tab nào.",
+  "menu": "Thanh Ribbon > các tab Home, Insert, Page Layout, References, Mailings, Review, View",
+  "phim_tat": "Ctrl+F1 (thu gọn/mở rộng Ribbon)",
+  "ten_ky_nang": "Sử dụng thanh Ribbon",
+  "thao_tac": "Chọn tab Ribbon tương ứng rồi nhấp lệnh trong nhóm lệnh của tab đó (ví dụ tab Home > nút Bold để bôi đậm).",
+  "vi_du": "Bôi đậm chữ: vào tab Home, nhấp biểu tượng Bold (chữ B) trong nhóm Font.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Thanh công cụ nhanh chứa các lệnh thao tác nhanh (Save, Undo, New, Print...), có thể tùy biến thêm/bớt nút.",
+  "menu": "Quick Access Toolbar (mũi tên trỏ xuống để tùy biến)",
+  "phim_tat": "",
+  "ten_ky_nang": "Tùy biến thanh công cụ nhanh",
+  "thao_tac": "Nhấp mũi tên trỏ xuống trên thanh công cụ nhanh để thêm lệnh (New, Open, Save, Print...).",
+  "vi_du": "Thêm nút New vào thanh công cụ nhanh để tạo văn bản mới chỉ bằng 1 cú nhấp.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Office Button (nút File) chứa các lệnh làm việc với tệp: tạo mới, mở, lưu, in.",
+  "menu": "Office Button > New / Open / Save / Print",
+  "phim_tat": "Ctrl+N (mới), Ctrl+O (mở), Ctrl+P (in)",
+  "ten_ky_nang": "Thao tác với tệp qua Office Button",
+  "thao_tac": "Nhấp Office Button rồi chọn lệnh New (văn bản mới), Open (mở), Save (lưu) hoặc Print (in).",
+  "vi_du": "Nhấp Office Button > New > Blank Document để tạo văn bản trắng mới.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Các thanh hiển thị trạng thái, cuộn trang và thước đo hỗ trợ đặt Tab, căn đoạn khi soạn thảo.",
+  "menu": "View > Ruler / Status Bar (nhấp chuột phải thanh trạng thái để tùy biến)",
+  "phim_tat": "",
+  "ten_ky_nang": "Dùng thanh trạng thái, thanh cuộn, thanh thước đo",
+  "thao_tac": "Bật thước đo (thanh Ruler) để đặt Tab và căn đoạn; dùng thanh cuộn di chuyển văn bản, xem trang hiện tại và tỉ lệ hiển thị ở thanh trạng thái.",
+  "vi_du": "Bật thanh thước đo để kéo điểm Tab sang vị trí 5cm trước khi gõ bảng kê.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Mở lại tệp văn bản đã lưu để tiếp tục chỉnh sửa.",
+  "menu": "Office Button > Open",
+  "phim_tat": "Ctrl+O",
+  "ten_ky_nang": "Mở văn bản có sẵn",
+  "thao_tac": "Nhấp Office Button chọn Open (hoặc Ctrl+O), tìm tới thư mục chứa tệp rồi nhấp đúp để mở.",
+  "vi_du": "Nhấn Ctrl+O rồi mở lại tệp HopDong.docx đã lưu hôm qua.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Lưu văn bản để không mất dữ liệu; Save As dùng khi lưu lần đầu hoặc lưu thành tên mới.",
+  "menu": "Office Button > Save / Save As; Quick Access Toolbar > Save",
+  "phim_tat": "Ctrl+S",
+  "ten_ky_nang": "Lưu văn bản",
+  "thao_tac": "Nhấn Ctrl+S hoặc vào Office Button > Save; lần đầu lưu thì chọn thư mục, đặt tên tệp và định dạng (.docx).",
+  "vi_du": "Sau khi gõ xong nhấn Ctrl+S lưu tệp BaoCao.docx vào thư mục Documents.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Đặt khổ giấy đúng (A4, A5, Letter...) trước khi soạn để văn bản in ra đúng quy định.",
+  "menu": "Page Layout > Size",
+  "phim_tat": "",
+  "ten_ky_nang": "Định dạng khổ giấy",
+  "thao_tac": "Vào tab Page Layout, nhóm Page Setup, chọn Size rồi chọn khổ giấy (thường là A4).",
+  "vi_du": "Soạn hợp đồng khổ A4: Page Layout > Size > A4.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Đặt lề trên/dưới/trái/phải cho văn bản; văn bản pháp quy đặt lề trái-phải gần bằng nhau, sách cần đóng gáy thì lề trái rộng hơn; in 2 mặt chọn Mirror margins.",
+  "menu": "Page Layout > Margins; Page Setup > Margins > Multiple pages > Mirror margins",
+  "phim_tat": "",
+  "ten_ky_nang": "Đặt lề văn bản",
+  "thao_tac": "Vào Page Layout > Margins chọn mẫu lề hoặc Custom Margins để nhập số liệu; in 2 mặt thì chọn Mirror margins trong hộp thoại Page Setup.",
+  "vi_du": "Đặt lề trái 3cm, phải 2cm cho quyết định hành chính qua Custom Margins.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Chọn hướng giấy đứng (Portrait) hoặc ngang (Landscape) tùy loại văn bản, bảng biểu rộng thường dùng hướng ngang.",
+  "menu": "Page Layout > Orientation > Portrait / Landscape",
+  "phim_tat": "",
+  "ten_ky_nang": "Chọn hướng giấy dọc/ngang",
+  "thao_tac": "Vào Page Layout > Orientation, chọn Portrait (đứng) hoặc Landscape (ngang); kết hợp với Page Setup để kiểm tra trước khi in.",
+  "vi_du": "Bảng lương rộng thì chuyển sang Landscape để vừa trang A4.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Thiết lập font chữ chung áp dụng cho toàn văn bản ngay từ đầu để thống nhất trình bày.",
+  "menu": "Home > Font (hộp Font, Font Size)",
+  "phim_tat": "Ctrl+A rồi chọn Font/Size",
+  "ten_ky_nang": "Thiết lập font chữ chung cho văn bản",
+  "thao_tac": "Chọn toàn văn bản (Ctrl+A) rồi chọn font và cỡ chữ trong nhóm Font trên tab Home.",
+  "vi_du": "Chọn toàn văn bản rồi đặt font Times New Roman, cỡ 13 cho báo cáo.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Chọn khối văn bản trước khi định dạng, sao chép hay xóa; có nhiều cách chọn nhanh bằng chuột và phím.",
+  "menu": "Chuột/phím (không thuộc menu Ribbon)",
+  "phim_tat": "Ctrl+A (chọn tất cả)",
+  "ten_ky_nang": "Lựa chọn văn bản",
+  "thao_tac": "Quét chuột để chọn đoạn cần xử lý; Ctrl+A chọn toàn văn bản; kết hợp Shift với phím mũi tên để mở rộng vùng chọn.",
+  "vi_du": "Nhấn Ctrl+A để chọn toàn bộ văn bản rồi đổi cỡ chữ thành 20.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Sao chép nội dung sang vị trí khác mà vẫn giữ nguyên bản gốc.",
+  "menu": "Home > Clipboard > Copy",
+  "phim_tat": "Ctrl+C",
+  "ten_ky_nang": "Sao chép văn bản",
+  "thao_tac": "Chọn đoạn văn bản, nhấn Ctrl+C (hoặc Home > Copy), đặt con trỏ nơi cần chèn rồi dán.",
+  "vi_du": "Chọn điều khoản hợp đồng, Ctrl+C rồi dán sang phụ lục.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Di chuyển nội dung sang vị trí mới, bản gốc bị xóa khỏi chỗ cũ.",
+  "menu": "Home > Clipboard > Cut",
+  "phim_tat": "Ctrl+X",
+  "ten_ky_nang": "Cắt văn bản",
+  "thao_tac": "Chọn đoạn văn bản, nhấn Ctrl+X (hoặc Home > Cut), đặt con trỏ nơi mới rồi dán.",
+  "vi_du": "Cắt đoạn mở đầu (Ctrl+X) để chuyển xuống cuối báo cáo.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Chèn nội dung đã sao chép/cắt vào vị trí con trỏ hiện tại.",
+  "menu": "Home > Clipboard > Paste",
+  "phim_tat": "Ctrl+V",
+  "ten_ky_nang": "Dán văn bản",
+  "thao_tac": "Sau khi Copy/Cut, đặt con trỏ tại vị trí mới rồi nhấn Ctrl+V (hoặc Home > Paste).",
+  "vi_du": "Copy tiêu đề rồi Ctrl+V để dán lặp lại ở trang bìa.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Căn lề đoạn văn: trái, giữa, phải hoặc đều hai bên; văn bản hành chính thường căn đều (Justify).",
+  "menu": "Home > Paragraph > Align Left / Center / Right / Justify",
+  "phim_tat": "Ctrl+L / Ctrl+E / Ctrl+R / Ctrl+J",
+  "ten_ky_nang": "Căn lề đoạn văn",
+  "thao_tac": "Đặt con trỏ vào đoạn văn rồi nhấp nút căn lề trong nhóm Paragraph (tab Home) hoặc dùng phím tắt.",
+  "vi_du": "Căn giữa tiêu đề QUYẾT ĐỊNH bằng Ctrl+E.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Chỉnh khoảng cách dòng và khoảng cách trước/sau đoạn để văn bản thoáng, dễ đọc.",
+  "menu": "Home > Paragraph > Line and Paragraph Spacing",
+  "phim_tat": "",
+  "ten_ky_nang": "Giãn dòng và giãn đoạn",
+  "thao_tac": "Chọn đoạn văn, vào Home > Paragraph > Line Spacing để chọn 1.0/1.15/1.5/2.0 hoặc Spacing Before/After.",
+  "vi_du": "Báo cáo giãn dòng 1.5 để dễ đọc và ghi chú tay.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Thụt đầu dòng, thụt lề trái/phải và thụt treo dùng thước đo hoặc hộp thoại Paragraph.",
+  "menu": "Home > Paragraph > Increase/Decrease Indent; View > Ruler",
+  "phim_tat": "",
+  "ten_ky_nang": "Thụt lề đoạn văn",
+  "thao_tac": "Dùng nút Increase Indent trên tab Home hoặc kéo mốc trên thước đo để thụt đầu dòng, thụt toàn đoạn.",
+  "vi_du": "Thụt đầu dòng 1.27cm cho mỗi đoạn trong bài luận.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Dùng dấu đầu dòng (bullet) để liệt kê các ý ngang hàng, làm văn bản rõ ràng hơn.",
+  "menu": "Home > Paragraph > Bullets",
+  "phim_tat": "",
+  "ten_ky_nang": "Trình bày ký hiệu đầu đoạn (Bullets)",
+  "thao_tac": "Chọn các đoạn cần liệt kê rồi nhấp nút Bullets trong nhóm Paragraph (tab Home); nhấp mũi tên cạnh nút để đổi kiểu ký hiệu.",
+  "vi_du": "Liệt kê hồ sơ gồm: đơn xin việc, sơ yếu lý lịch, bằng cấp bằng bullet chấm tròn.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Đánh số thứ tự tự động cho các mục; có thể tự định nghĩa kiểu số qua Number style và New Number Format.",
+  "menu": "Home > Paragraph > Numbering > Define New Number Format",
+  "phim_tat": "",
+  "ten_ky_nang": "Đánh số đầu đoạn (Numbering)",
+  "thao_tac": "Chọn các đoạn rồi nhấp Numbering; muốn kiểu số riêng thì vào Define New Number Format, chọn Number style và định dạng.",
+  "vi_du": "Đánh số các bước thực hiện 1, 2, 3... trong quy trình ISO.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Tạo đề mục phân cấp nhiều mức (1, 1.1, 1.2...) cho tài liệu dài, giáo trình, luận văn.",
+  "menu": "Home > Paragraph > Multilevel List",
+  "phim_tat": "",
+  "ten_ky_nang": "Danh sách đa cấp (Multilevel List)",
+  "thao_tac": "Nhấp Multilevel List trong nhóm Paragraph rồi chọn kiểu phân cấp; dùng Tab/Shift+Tab để tăng/giảm cấp đề mục.",
+  "vi_du": "Mục lục giáo trình: Bài 1 > 1.1 > 1.1.1 bằng Multilevel List.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Bôi đậm, in nghiêng, gạch chân và đổi màu chữ để nhấn mạnh nội dung quan trọng.",
+  "menu": "Home > Font > Bold / Italic / Underline / Font Color",
+  "phim_tat": "Ctrl+B (đậm), Ctrl+I (nghiêng), Ctrl+U (gạch chân)",
+  "ten_ky_nang": "Tùy biến font chữ cơ bản",
+  "thao_tac": "Chọn chữ rồi nhấn Ctrl+B/I/U hoặc nhấp nút tương ứng trong nhóm Font; đổi màu chữ bằng Font Color.",
+  "vi_du": "Nhấn Ctrl+B để bôi đậm dòng Công ty CP Phần Mềm AVIN như ví dụ trong giáo trình.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Đổi cỡ chữ nhanh bằng phím tắt hoặc hộp Font Size; giáo trình dùng cách chọn hộp Font size trên Ribbon.",
+  "menu": "Home > Font > Font Size",
+  "phim_tat": "Ctrl+Shift+> (tăng), Ctrl+Shift+< (giảm)",
+  "ten_ky_nang": "Thay đổi cỡ chữ",
+  "thao_tac": "Chọn chữ rồi chọn cỡ trong hộp Font Size trên tab Home, hoặc dùng Ctrl+Shift+> để tăng dần.",
+  "vi_du": "Chọn tiêu đề rồi tăng lên cỡ 20 như bài thực hành trong giáo trình.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Áp dụng kiểu định dạng có sẵn (Normal, Heading...) từ nhóm Style trên tab Home giúp thống nhất và làm cơ sở tạo mục lục tự động.",
+  "menu": "Home > Styles",
+  "phim_tat": "",
+  "ten_ky_nang": "Áp dụng Styles cho đoạn văn",
+  "thao_tac": "Đặt con trỏ vào đoạn văn rồi nhấp kiểu trong nhóm Styles trên tab Home (ví dụ Heading 1 cho tiêu đề chương).",
+  "vi_du": "Áp Heading 1 cho tên các Bài 1-6 trong giáo trình để sau này tạo mục lục tự động.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Chia văn bản thành nhiều cột kiểu báo, tạp chí; thường dùng 2-3 cột.",
+  "menu": "Page Layout > Columns",
+  "phim_tat": "",
+  "ten_ky_nang": "Chia cột cho văn bản",
+  "thao_tac": "Chọn đoạn văn cần chia rồi vào Page Layout > Columns, chọn số cột (One/Two/Three) hoặc More Columns để tùy biến.",
+  "vi_du": "Chia bản tin nội bộ thành 2 cột kiểu báo.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Tạo bảng để trình bày dữ liệu có hàng, cột gọn gàng.",
+  "menu": "Insert > Table",
+  "phim_tat": "",
+  "ten_ky_nang": "Chèn bảng vào văn bản",
+  "thao_tac": "Vào Insert > Table, rê chuột chọn số hàng/cột trên lưới hoặc chọn Insert Table để nhập số liệu cụ thể.",
+  "vi_du": "Chèn bảng 4 cột 10 hàng để lập danh sách nhân viên.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Thêm/xóa hàng, cột và ô để điều chỉnh cấu trúc bảng sau khi chèn.",
+  "menu": "Table Tools > Layout > Insert / Delete (Rows & Columns)",
+  "phim_tat": "",
+  "ten_ky_nang": "Thêm/xóa hàng, cột trong bảng",
+  "thao_tac": "Nhấp vào bảng, sang tab Layout của Table Tools rồi dùng Insert Above/Below/Left/Right hoặc Delete Rows/Columns.",
+  "vi_du": "Thêm 1 hàng cuối bảng để bổ sung nhân viên mới.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Gộp nhiều ô thành một ô (tiêu đề bảng) hoặc tách ô thành nhiều ô nhỏ.",
+  "menu": "Table Tools > Layout > Merge Cells / Split Cells",
+  "phim_tat": "",
+  "ten_ky_nang": "Gộp và tách ô trong bảng",
+  "thao_tac": "Chọn các ô cần gộp rồi nhấp Merge Cells; muốn tách thì chọn ô rồi nhấp Split Cells và nhập số hàng/cột.",
+  "vi_du": "Gộp hàng đầu thành một ô duy nhất làm tiêu đề BẢNG LƯƠNG THÁNG 10.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Áp kiểu trình bày có sẵn cho bảng (màu nền, viền, dòng xen kẽ) để bảng đẹp mà không cần định dạng thủ công.",
+  "menu": "Table Tools > Design > Table Styles; Table Style Options",
+  "phim_tat": "",
+  "ten_ky_nang": "Áp dụng Table Styles cho bảng",
+  "thao_tac": "Nhấp vào bảng, mở tab Design, chọn một kiểu trong danh sách Table Styles; tích Header Row, Total Row, Banded Rows trong Table Style Options.",
+  "vi_du": "Áp style có dòng tiêu đề đậm và các hàng xen kẽ màu cho bảng chấm công.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Sửa mẫu bảng có sẵn hoặc tạo mẫu mới mang phong cách riêng, mẫu mới nằm trong mục Custom.",
+  "menu": "Table Styles > Modify Table Style / New Table Style",
+  "phim_tat": "",
+  "ten_ky_nang": "Chỉnh sửa và tạo mới Table Style",
+  "thao_tac": "Mở rộng danh sách Table Styles, nhấp chuột phải chọn Modify để sửa, hoặc chọn New Table Style để tạo mới (đặt màu, font) trong hộp Create New Style from Formatting.",
+  "vi_du": "Tạo Table Style màu xanh thương hiệu công ty dùng cho mọi báo cáo.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Căn nội dung trong ô (trái/giữa/phải, trên/giữa/dưới) và xoay hướng chữ khi cần.",
+  "menu": "Table Tools > Layout > Alignment",
+  "phim_tat": "",
+  "ten_ky_nang": "Căn lề nội dung ô trong bảng",
+  "thao_tac": "Chọn ô hoặc cả bảng rồi dùng các nút Alignment trong tab Layout để căn giữa, căn đều nội dung.",
+  "vi_du": "Căn giữa toàn bộ cột điểm số trong bảng kết quả học tập.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Chèn trang bìa mẫu dựng sẵn vào đầu văn bản cho báo cáo, luận văn thêm chuyên nghiệp.",
+  "menu": "Insert > Pages > Cover Page",
+  "phim_tat": "",
+  "ten_ky_nang": "Chèn trang bìa (Cover Page)",
+  "thao_tac": "Vào Insert > Cover Page rồi nhấp chọn một mẫu bìa trong danh sách; sau đó sửa lại tiêu đề, tên tác giả.",
+  "vi_du": "Chèn Cover Page làm bìa báo cáo thực tập rồi điền tên sinh viên.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Chèn thêm một trang trắng hoàn toàn vào vị trí con trỏ.",
+  "menu": "Insert > Pages > Blank Page",
+  "phim_tat": "",
+  "ten_ky_nang": "Chèn trang trắng (Blank Page)",
+  "thao_tac": "Đặt con trỏ nơi cần thêm trang rồi vào Insert > Blank Page.",
+  "vi_du": "Chèn Blank Page giữa hai chương để mỗi chương bắt đầu ở trang mới.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Ngắt sang trang mới mà không mang theo định dạng trang cũ; khác với Enter xuống dòng thông thường.",
+  "menu": "Insert > Pages > Page Break",
+  "phim_tat": "Ctrl+Enter",
+  "ten_ky_nang": "Ngắt trang (Page Break)",
+  "thao_tac": "Đặt con trỏ cuối trang rồi nhấn Ctrl+Enter hoặc Insert > Page Break để nhảy sang trang mới.",
+  "vi_du": "Nhấn Ctrl+Enter cuối chương 1 để chương 2 bắt đầu trang mới.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Tiêu đề lặp lại trên đầu mỗi trang, thường dùng làm tên chương/mục xuyên suốt cuốn sách.",
+  "menu": "Insert > Header & Footer > Header",
+  "phim_tat": "",
+  "ten_ky_nang": "Chèn tiêu đề đầu trang (Header)",
+  "thao_tac": "Vào Insert > Header, chọn một mẫu trong danh sách, con trỏ nhảy tới vùng Header để nhập nội dung; xong nhấn Close Header and Footer.",
+  "vi_du": "Chèn Header là tên sách lặp lại ở đầu mọi trang của giáo trình.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Tiêu đề lặp lại dưới cuối mỗi trang, thường chứa tên tài liệu, đơn vị hoặc thông tin liên hệ.",
+  "menu": "Insert > Header & Footer > Footer",
+  "phim_tat": "",
+  "ten_ky_nang": "Chèn tiêu đề chân trang (Footer)",
+  "thao_tac": "Vào Insert > Footer, chọn mẫu rồi nhập nội dung chân trang; nhấn Close Header and Footer để thoát chế độ chỉnh sửa.",
+  "vi_du": "Chèn Footer là tên công ty và số điện thoại ở cuối mỗi trang hợp đồng.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Đánh số trang giúp người đọc tra cứu và tránh xáo trộn thứ tự; có thể chọn vị trí trên/dưới và định dạng số.",
+  "menu": "Insert > Header & Footer > Page Number; Format Page Numbers",
+  "phim_tat": "",
+  "ten_ky_nang": "Chèn và định dạng số trang",
+  "thao_tac": "Vào Insert > Page Number, chọn vị trí (Top/Bottom of Page); vào Format Page Numbers để đổi kiểu số (1,2,3 / i,ii,iii) và số bắt đầu.",
+  "vi_du": "Chèn số trang ở góc dưới bên phải, bắt đầu từ trang 1.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Chèn ngày tháng hiện tại vào Header/Footer hoặc nội dung, tiện cho công văn, biểu mẫu.",
+  "menu": "Header and Footer Tools > Insert > Date & Time",
+  "phim_tat": "",
+  "ten_ky_nang": "Chèn ngày giờ (Date & Time)",
+  "thao_tac": "Khi đang chỉnh sửa Header/Footer, vào nhóm Insert chọn Date & Time rồi chọn định dạng ngày tháng.",
+  "vi_du": "Chèn ngày in tài liệu vào Footer: Ngày 06/10/2026.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Chèn các trường và thuộc tính văn bản (tên tác giả, tiêu đề, số trang...) tự cập nhật.",
+  "menu": "Header and Footer Tools > Insert > Quick Parts",
+  "phim_tat": "",
+  "ten_ky_nang": "Chèn Quick Parts vào Header/Footer",
+  "thao_tac": "Trong chế độ chỉnh Header/Footer, chọn Quick Parts để chèn trường như tên tệp, tác giả, ngày tháng.",
+  "vi_du": "Chèn trường tên tệp vào Footer để mỗi bản in đều ghi rõ tên file nguồn.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Tạo Header/Footer khác nhau cho trang đầu, trang chẵn/lẻ hoặc từng chương (section) của sách nhiều chương.",
+  "menu": "Header & Footer Tools > Options > Different First Page / Different Odd & Even Pages; Navigation > Previous/Next Section",
+  "phim_tat": "",
+  "ten_ky_nang": "Header/Footer riêng cho trang đầu, chẵn/lẻ, từng section",
+  "thao_tac": "Tích Different First Page để trang bìa không có Header; tích Different Odd & Even Pages cho sách in 2 mặt; ngắt section rồi dùng Previous/Next Section và tắt Link to Previous để mỗi chương có Header riêng.",
+  "vi_du": "Sách 6 bài: mỗi bài là một section với Header là tên bài đó.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Chèn ảnh từ ổ đĩa vào văn bản để minh họa.",
+  "menu": "Insert > Pictures (Pictures/Online Pictures)",
+  "phim_tat": "",
+  "ten_ky_nang": "Chèn ảnh từ máy tính",
+  "thao_tac": "Vào Insert > Pictures, tìm tới thư mục chứa ảnh, chọn tệp rồi nhấn Insert.",
+  "vi_du": "Chèn ảnh chụp màn hình Ribbon vào bài hướng dẫn.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Chèn hình khối, mũi tên, sơ đồ vẽ sẵn để minh họa quy trình, chú thích.",
+  "menu": "Insert > Shapes",
+  "phim_tat": "",
+  "ten_ky_nang": "Chèn đối tượng Shapes",
+  "thao_tac": "Vào Insert > Shapes, chọn hình (chữ nhật, tròn, mũi tên...), kéo chuột vẽ lên văn bản rồi định dạng màu, viền.",
+  "vi_du": "Vẽ mũi tên và khung chú thích chỉ vào nút Bold trên ảnh minh họa.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Chèn sơ đồ tổ chức, quy trình, chu trình từ thư viện mẫu SmartArt.",
+  "menu": "Insert > SmartArt",
+  "phim_tat": "",
+  "ten_ky_nang": "Chèn sơ đồ SmartArt",
+  "thao_tac": "Vào Insert > SmartArt, chọn loại sơ đồ (List, Process, Hierarchy...), nhập nội dung các nhánh.",
+  "vi_du": "Chèn sơ đồ quy trình soạn thảo: Soạn thô > Định dạng > In ấn.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Vẽ biểu đồ cột, tròn... từ bảng dữ liệu cho sẵn để trực quan hóa số liệu trong văn bản.",
+  "menu": "Insert > Chart",
+  "phim_tat": "",
+  "ten_ky_nang": "Vẽ biểu đồ (Chart)",
+  "thao_tac": "Vào Insert > Chart, chọn loại biểu đồ, nhập/sửa dữ liệu trong bảng Excel hiện ra để biểu đồ cập nhật.",
+  "vi_du": "Vẽ biểu đồ cột so sánh doanh số 6 tháng trong báo cáo.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Chụp ảnh cửa sổ chương trình đang mở chèn thẳng vào Word mà không cần phần mềm ngoài.",
+  "menu": "Insert > Screenshot",
+  "phim_tat": "",
+  "ten_ky_nang": "Chụp hình bằng Screenshot trong Word",
+  "thao_tac": "Vào Insert > Screenshot, chọn cửa sổ đang mở để chèn nguyên khung, hoặc Screen Clipping để cắt một vùng màn hình.",
+  "vi_du": "Chụp cửa sổ Excel đang mở để minh họa số liệu trong báo cáo Word.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Khung chứa văn bản độc lập, di chuyển tự do, dùng cho ghi chú, trích dẫn nổi bật.",
+  "menu": "Insert > Text Box",
+  "phim_tat": "",
+  "ten_ky_nang": "Chèn hộp văn bản (Text Box)",
+  "thao_tac": "Vào Insert > Text Box, chọn mẫu rồi kéo vẽ khung trên trang, nhập nội dung và định dạng viền, nền.",
+  "vi_du": "Chèn Text Box làm khung Lưu ý bên lề trang hướng dẫn.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Chữ nghệ thuật với hiệu ứng đổ bóng, 3D, uốn cong dùng cho tiêu đề, bìa.",
+  "menu": "Insert > WordArt",
+  "phim_tat": "",
+  "ten_ky_nang": "Chèn chữ nghệ thuật (WordArt)",
+  "thao_tac": "Vào Insert > WordArt, chọn kiểu hiệu ứng rồi nhập chữ; định dạng thêm bằng Drawing Tools.",
+  "vi_du": "Tạo dòng chữ GIÁO TRÌNH uốn cong làm tiêu đề bìa.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Chèn ký tự đặc biệt không có trên bàn phím (©, ®, ±, mũi tên...) qua Symbol hoặc More Symbols.",
+  "menu": "Insert > Symbols > Symbol / More Symbols",
+  "phim_tat": "",
+  "ten_ky_nang": "Chèn ký hiệu đặc biệt (Symbol)",
+  "thao_tac": "Vào Insert > Symbol, chọn ký hiệu trong danh sách; cần thêm thì mở More Symbols để tìm theo font.",
+  "vi_du": "Chèn ký hiệu © sau tên công ty trong trang bìa.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Soạn công thức toán học bằng mẫu có sẵn hoặc khung trắng, tùy biến qua tab Design (Tools, Symbols, Structures).",
+  "menu": "Insert > Symbols > Equation; Equation Tools > Design",
+  "phim_tat": "",
+  "ten_ky_nang": "Chèn công thức toán học (Equation)",
+  "thao_tac": "Vào Insert > Equation chọn mẫu công thức; dùng tab Design để nhập phân số (Fraction), căn (Radical), tích phân (Integral), ma trận (Matrix), chuyển Professional/Linear.",
+  "vi_du": "Chèn công thức phân số và tích phân cho bài giảng toán.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Trước khi in phải kiểm tra khổ giấy, lề, hướng giấy và Header/Footer, số trang; mở Page Setup từ Page Layout để xem tổng thể.",
+  "menu": "Page Layout > Page Setup (mũi tên) > Margins / Paper",
+  "phim_tat": "",
+  "ten_ky_nang": "Kiểm tra thiết lập trang trước khi in",
+  "thao_tac": "Mở hộp thoại Page Setup (mũi tên dưới nhóm Page Setup, tab Page Layout), kiểm tra Margins và Paper: lề, khổ giấy, hướng giấy trước khi in.",
+  "vi_du": "Kiểm tra khổ A4, lề trái 3cm trước khi in 100 bản hợp đồng.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "In văn bản với đầy đủ tùy chọn: máy in, số bản, phạm vi trang, in chẵn/lẻ, in nhiều trang trên một tờ.",
+  "menu": "Office Button > Print; Quick Access Toolbar > Print",
+  "phim_tat": "Ctrl+P",
+  "ten_ky_nang": "Thực hiện in ấn",
+  "thao_tac": "Nhấn Ctrl+P (hoặc Office Button > Print): chọn máy in (Print), số bản (Number of copies), phạm vi trang (Pages: 5-10 hoặc 6,7,10; All/Current Page/Selection/Odd/Even), hướng giấy, lề, Page Per Sheet rồi nhấn Print.",
+  "vi_du": "In 2 bản hợp đồng, chỉ in trang 5-10, in trang lẻ trước để in 2 mặt thủ công.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Giáo trình không có chương riêng về trộn thư (chỉ có 6 bài cơ bản); đây là kỹ năng Word chuẩn bổ sung theo yêu cầu: trộn danh sách có sẵn vào mẫu văn bản để in hàng loạt.",
+  "menu": "Mailings > Start Mail Merge > Step-by-Step Mail Merge Wizard",
+  "phim_tat": "",
+  "ten_ky_nang": "Trộn thư (Mail Merge) cơ bản",
+  "thao_tac": "Chuẩn bị mẫu văn bản và nguồn dữ liệu (Excel/Access), vào Mailings > Start Mail Merge chọn loại (Letters/Labels), Select Recipients, Insert Merge Field, Finish & Merge. (Giáo trình Word 2013 này không trình bày chi tiết.)",
+  "vi_du": "Trộn danh sách 200 nhân viên vào mẫu thư mời họp.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Giáo trình trang 139 nêu rõ không giới thiệu cách tạo mục lục (yêu cầu văn bản dài nên có mục lục); kỹ năng chuẩn: áp Heading Styles rồi tạo TOC tự động.",
+  "menu": "References > Table of Contents",
+  "phim_tat": "",
+  "ten_ky_nang": "Tạo mục lục tự động (Table of Contents)",
+  "thao_tac": "Áp Heading 1/2/3 cho các tiêu đề (Home > Styles), đặt con trỏ đầu văn bản rồi vào References > Table of Contents chọn mẫu; cập nhật bằng Update Table. (Giáo trình chỉ nhắc nên có mục lục, không hướng dẫn chi tiết.)",
+  "vi_du": "Tạo mục lục 6 bài + 20 mục con của giáo trình chỉ bằng 1 thao tác sau khi gắn Heading.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Chèn chú thích cuối trang/cuối tài liệu và trích dẫn nguồn, thuộc nhóm References mà giáo trình không trình bày chi tiết.",
+  "menu": "References > Insert Footnote / Insert Endnote / Insert Citation",
+  "phim_tat": "Ctrl+Alt+F (footnote)",
+  "ten_ky_nang": "Chèn chú thích Footnote/Endnote và trích dẫn",
+  "thao_tac": "Đặt con trỏ sau từ cần chú thích, vào References > Insert Footnote (cuối trang) hoặc Endnote (cuối tài liệu), nhập nội dung; dùng Insert Citation để chèn trích dẫn. (Giáo trình không trình bày.)",
+  "vi_du": "Chèn footnote giải thích thuật ngữ Ribbon ở trang đầu giáo trình.",
+  "nguon": "pdf"
+ },
+ {
+  "giai_thich": "Rà soát lỗi chính tả, ngữ pháp và theo dõi thay đổi, bình luận khi duyệt văn bản theo nhóm; thuộc tab Review mà giáo trình không trình bày.",
+  "menu": "Review > Spelling & Grammar / Track Changes / New Comment",
+  "phim_tat": "F7 (kiểm tra chính tả)",
+  "ten_ky_nang": "Kiểm tra chính tả và theo dõi sửa đổi (Review)",
+  "thao_tac": "Nhấn F7 hoặc Review > Spelling & Grammar để soát lỗi; bật Track Changes để ghi lại mọi sửa đổi, dùng New Comment để góp ý. (Giáo trình không trình bày.)",
+  "vi_du": "Bật Track Changes khi sếp duyệt báo cáo để thấy rõ ai sửa gì.",
+  "nguon": "pdf"
+ }
+]

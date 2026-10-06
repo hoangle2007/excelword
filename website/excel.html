@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bài học Excel — Excel &amp; Word Lab</title>
+<link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body data-page="excel">
+<a class="skip-link" href="#main">Bỏ qua tới nội dung</a>
+<header class="site-header">
+  <nav class="nav" aria-label="Điều hướng chính">
+    <a class="brand" href="index.html">Excel &amp; Word Lab</a>
+    <div class="nav-links">
+      <a data-nav="home" href="index.html">Trang chủ</a>
+      <a data-nav="excel" href="excel.html">Excel</a>
+      <a data-nav="word" href="word.html">Word</a>
+      <a data-nav="cong-thuc" href="cong-thuc.html">Công thức</a>
+      <a data-nav="trac-nghiem" href="trac-nghiem.html">Trắc nghiệm</a>
+    </div>
+  </nav>
+</header>
+<main id="main">
+  <h1>Bài học Excel</h1>
+  <p class="muted">25 bài video từ cơ bản đến VBA. Tích vào ô “Đã học” để theo dõi tiến độ.</p>
+  <div class="toolbar">
+    <input type="search" id="q" placeholder="Tìm bài học, chủ đề…" aria-label="Tìm bài học Excel">
+  </div>
+  <div class="grid cols-2" id="list" role="list"></div>
+  <div class="empty" id="empty" hidden>Không tìm thấy bài học phù hợp.</div>
+</main>
+<footer class="site-footer">Excel &amp; Word Lab</footer>
+<script src="assets/js/common.js"></script>
+<script>
+let lessons = [];
+function baiNum(l) { const m = (l.bai || "").match(/(\d+)/); return m ? +m[1] : 999; }
+function watchBadge(vid) {
+  const p = (App.store.get("watchProgress", {}))[vid];
+  if (!p) return "";
+  if (p.done) return ' <span class="badge">Đã xem ✓</span>';
+  if (p.sec > 10) return ` <span class="badge warn">Đang xem ${p.dur ? Math.min(99, Math.round(p.sec / p.dur * 100)) : 0}%</span>`;
+  return "";
+}
+async function render() {
+  const q = document.getElementById("q").value.toLowerCase();
+  const done = App.doneLessons();
+  const box = document.getElementById("list");
+  const items = lessons.filter(l => !q || (l.bai + " " + (l.chu_de || []).join(" ")).toLowerCase().includes(q))
+    .sort((a, b) => baiNum(a) - baiNum(b));
+  document.getElementById("empty").hidden = items.length > 0;
+  box.innerHTML = items.map(l => `
+    <article class="card" role="listitem">
+      <div class="lesson-num">Bài ${baiNum(l) === 999 ? "?" : baiNum(l)}</div>
+      <h3><a class="card-link" href="bai-hoc.html?mon=excel&bai=${App.esc(l.video_id)}">${App.esc(l.bai)}</a></h3>
+      <p>
+        <span class="badge">${l.so_cong_thuc} công thức</span>
+        <span class="badge">${l.so_cau} câu hỏi</span>
+        ${done[l.video_id] ? '<span class="badge">Đã học ✓</span>' : ""}
+        ${watchBadge(l.video_id)}
+      </p>
+      <p class="muted">${(l.chu_de || []).slice(0, 4).map(App.esc).join(" · ")}</p>
+      <p>
+        <label><input type="checkbox" data-done="${App.esc(l.video_id)}" ${done[l.video_id] ? "checked" : ""}> Đã học</label>
+      </p>
+      <p class="btn-row">
+        <a class="btn" href="bai-hoc.html?mon=excel&bai=${App.esc(l.video_id)}">Học ngay</a>
+        <a class="btn secondary" href="${App.esc(l.url)}" target="_blank" rel="noopener">YouTube</a>
+      </p>
+    </article>`).join("");
+  box.querySelectorAll("[data-done]").forEach(cb => cb.addEventListener("change", () => {
+    App.toggleLesson(cb.dataset.done);
+    render();
+  }));
+}
+(async () => {
+  lessons = (await App.apiGet("lessons?mon=excel")) || await App.load("excel_lessons.json");
+  document.getElementById("q").addEventListener("input", App.debounce(render, 200));
+  render();
+})();
+</script>
+</body>
+</html>

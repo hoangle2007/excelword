@@ -1,0 +1,363 @@
+{
+ "bai": 2,
+ "cau_hoi": [
+  {
+   "A": "File > Options > Advanced > Display > Show measurements in units of",
+   "B": "Insert > Picture",
+   "C": "Home > Font",
+   "D": "View > Ruler",
+   "cau": "Đường menu đổi đơn vị đo từ inch sang cm trong Word là?",
+   "dap_an": "A",
+   "giai_thich": "File > Options > Advanced > Display > Show measurements in units of.",
+   "id": 1,
+   "muc_do": "de"
+  },
+  {
+   "A": "Centimeters (Cm)",
+   "B": "Inches",
+   "C": "Points",
+   "D": "Picas",
+   "cau": "Muốn hiển thị thước bằng cm thì chọn đơn vị nào?",
+   "dap_an": "A",
+   "giai_thich": "Chọn Centimeters để đổi sang cm.",
+   "id": 2,
+   "muc_do": "de"
+  },
+  {
+   "A": "OK",
+   "B": "Cancel",
+   "C": "Alt + F4",
+   "D": "Ctrl + S",
+   "cau": "Sau khi đổi đơn vị xong, nhấn nút nào để xác nhận?",
+   "dap_an": "A",
+   "giai_thich": "Nhấn OK để áp dụng và đóng Word Options.",
+   "id": 3,
+   "muc_do": "de"
+  },
+  {
+   "A": "File",
+   "B": "Insert",
+   "C": "Home",
+   "D": "View",
+   "cau": "Bước 1 để đổi đơn vị đo là nhấp vào thẻ nào trên menu?",
+   "dap_an": "A",
+   "giai_thich": "Nhấp File trên menu rồi chọn Options.",
+   "id": 4,
+   "muc_do": "de"
+  },
+  {
+   "A": "Options",
+   "B": "Save As",
+   "C": "Print",
+   "D": "Share",
+   "cau": "Trong menu File, chọn mục nào để mở cửa sổ Word Options?",
+   "dap_an": "A",
+   "giai_thich": "File > Options mở hộp thoại Word Options.",
+   "id": 5,
+   "muc_do": "de"
+  },
+  {
+   "A": "Advanced",
+   "B": "General",
+   "C": "Display (cũ)",
+   "D": "Proofing",
+   "cau": "Trong Word Options, cần vào mục nào ở khung trái?",
+   "dap_an": "A",
+   "giai_thich": "Vào Advanced (nâng cao) rồi cuộn xuống phần Display.",
+   "id": 6,
+   "muc_do": "de"
+  },
+  {
+   "A": "Inch là mặc định gốc của Word tiếng Anh",
+   "B": "Cm là mặc định của mọi máy",
+   "C": "Word không có đơn vị đo",
+   "D": "Đơn vị đo nằm ở Tab Home",
+   "cau": "Vì sao nhiều máy Word hiển thị đơn vị inch?",
+   "dap_an": "A",
+   "giai_thich": "Word bản tiếng Anh mặc định dùng inch.",
+   "id": 7,
+   "muc_do": "de"
+  },
+  {
+   "A": "Word 2013/2016/2019/2021 thao tác tương tự nhau",
+   "B": "Mỗi phiên bản Word đổi đơn vị ở một chỗ hoàn toàn khác",
+   "C": "Word 2013 không đổi được đơn vị",
+   "D": "Chỉ Word 2021 mới có Word Options",
+   "cau": "Nhận định đúng về đổi đơn vị trên các phiên bản Word?",
+   "dap_an": "A",
+   "giai_thich": "Các phiên bản thao tác hoàn toàn tương tự nhau.",
+   "id": 8,
+   "muc_do": "de"
+  },
+  {
+   "A": "Cuộn chuột xuống phần Display",
+   "B": "Nhấn Ctrl + A",
+   "C": "Nhấn Ctrl + P",
+   "D": "Tắt Word",
+   "cau": "Sau khi vào Advanced, làm gì tiếp để thấy mục đơn vị?",
+   "dap_an": "A",
+   "giai_thich": "Cuộn xuống khu vực Display mới thấy dòng đơn vị.",
+   "id": 9,
+   "muc_do": "de"
+  },
+  {
+   "A": "Show measurements in units of",
+   "B": "Font Size",
+   "C": "Page Margins",
+   "D": "Clipboard",
+   "cau": "Tên dòng tùy chọn đơn vị đo trong Word Options là?",
+   "dap_an": "A",
+   "giai_thich": "Dòng 'Show measurements in units of' hiển thị đơn vị hiện tại.",
+   "id": 10,
+   "muc_do": "de"
+  },
+  {
+   "A": "Nhấp vào ô đơn vị (đang là inch) để xổ danh sách",
+   "B": "Nhấn Delete",
+   "C": "Nhấn Alt + F4",
+   "D": "Vào Insert > Table",
+   "cau": "Cách mở danh sách đơn vị để chuyển sang cm?",
+   "dap_an": "A",
+   "giai_thich": "Nhấp vào ô đơn vị để xổ xuống và chọn Centimeters.",
+   "id": 11,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Có thể bỏ qua bước đổi đơn vị nếu máy đã là cm",
+   "B": "Bắt buộc đổi đơn vị mỗi lần mở Word",
+   "C": "Đổi đơn vị xong phải cài lại Word",
+   "D": "Đổi đơn vị làm mất file",
+   "cau": "Khi hiện thước đo (Ruler), trường hợp nào được bỏ qua bước 1?",
+   "dap_an": "A",
+   "giai_thich": "Nếu đơn vị đã là cm thì bỏ qua bước 1, sang bước hiện thước luôn.",
+   "id": 12,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Millimeters, Centimeters, Inches, Points, Picas",
+   "B": "Chỉ có Cm và Inch",
+   "C": "Chỉ có Kg và Mét",
+   "D": "Chỉ có Pixel",
+   "cau": "Danh sách đơn vị đo Word thường cho chọn gồm?",
+   "dap_an": "A",
+   "giai_thich": "Word cho chọn mm, cm, inch, points, picas...",
+   "id": 13,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Thước (Ruler) sẽ hiển thị theo cm sau khi đổi",
+   "B": "Thước biến mất",
+   "C": "Font chữ bị đổi",
+   "D": "File bị xóa",
+   "cau": "Dấu hiệu đổi đơn vị sang cm thành công dễ thấy nhất là?",
+   "dap_an": "A",
+   "giai_thich": "Thước ngang/dọc hiển thị vạch cm thay vì inch.",
+   "id": 14,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "File > Options > Advanced",
+   "B": "Home > Replace",
+   "C": "Insert > Header",
+   "D": "Layout > Breaks",
+   "cau": "Muốn mở lại hộp thoại để kiểm tra đơn vị, vào đâu?",
+   "dap_an": "A",
+   "giai_thich": "Mở lại File > Options > Advanced để kiểm tra.",
+   "id": 15,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "OK thay vì Cancel",
+   "B": "Cancel thay vì OK",
+   "C": "Nhấn X đỏ",
+   "D": "Nhấn Esc",
+   "cau": "Nếu nhấn Cancel sau khi chọn cm thì kết quả là?",
+   "dap_an": "B",
+   "giai_thich": "Cancel sẽ hủy thay đổi, đơn vị vẫn là inch.",
+   "id": 16,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Căn lề (Margins) tính bằng cm sẽ trực quan hơn với người Việt",
+   "B": "Đổi đơn vị làm tăng số trang",
+   "C": "Đổi đơn vị làm đổi font",
+   "D": "Đổi đơn vị xóa ảnh",
+   "cau": "Lợi ích chính của đổi sang cm với người dùng Việt Nam là?",
+   "dap_an": "A",
+   "giai_thich": "Nhập căn lề/top-bottom bằng cm quen thuộc, dễ hình dung.",
+   "id": 17,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Vẫn giữ nguyên giá trị thực, chỉ đổi cách hiển thị",
+   "B": "Mọi lề bị reset về 0",
+   "C": "File bị lỗi font",
+   "D": "Bảng bị xóa",
+   "cau": "Đổi inch sang cm có làm thay đổi bố cục văn bản không?",
+   "dap_an": "A",
+   "giai_thich": "Chỉ đổi đơn vị hiển thị, giá trị thực được quy đổi tương đương.",
+   "id": 18,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "1 inch = 2,54 cm",
+   "B": "1 inch = 1 cm",
+   "C": "1 inch = 10 cm",
+   "D": "1 inch = 12 cm",
+   "cau": "Quy đổi đúng giữa inch và cm là?",
+   "dap_an": "A",
+   "giai_thich": "1 inch bằng 2,54 cm theo chuẩn quốc tế.",
+   "id": 19,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Thiết lập một lần, Word nhớ cho các lần sau",
+   "B": "Phải đổi lại mỗi khi gõ một chữ",
+   "C": "Phải đổi lại mỗi 5 phút",
+   "D": "Tắt máy là mất Word",
+   "cau": "Sau khi đổi sang cm và OK, thiết lập được lưu thế nào?",
+   "dap_an": "A",
+   "giai_thich": "Word ghi nhớ tùy chọn cho các phiên làm việc sau.",
+   "id": 20,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Layout > Margins > Custom Margins sẽ thấy đơn vị cm",
+   "B": "Không thể chỉnh lề sau khi đổi",
+   "C": "Phải cài lại máy in",
+   "D": "Phải đổi font",
+   "cau": "Cách kiểm tra nhanh đơn vị đã là cm khi chỉnh lề là?",
+   "dap_an": "A",
+   "giai_thich": "Vào Layout > Margins > Custom Margins, các ô Top/Bottom hiện cm.",
+   "id": 21,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Do chưa nhấn OK",
+   "B": "Do chưa chọn Centimeters trong danh sách",
+   "C": "Cả A và B đều có thể",
+   "D": "Do máy hết pin",
+   "cau": "Đổi xong nhưng thước vẫn là inch, nguyên nhân thường gặp là?",
+   "dap_an": "C",
+   "giai_thich": "Có thể chưa chọn cm hoặc chưa OK để xác nhận.",
+   "id": 22,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Points (pt) dùng cho cỡ chữ, cm dùng cho lề/thước",
+   "B": "Cm dùng cho cỡ chữ",
+   "C": "Inch dùng cho cỡ chữ",
+   "D": "Không có đơn vị points",
+   "cau": "Phân biệt đúng: đơn vị points (pt) và cm trong Word?",
+   "dap_an": "A",
+   "giai_thich": "Cỡ chữ tính bằng pt; lề/thước giấy tính bằng cm/inch.",
+   "id": 23,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Người dùng hệ metric (Việt Nam) dễ đặt lề 2cm, 3cm",
+   "B": "Người Việt quen dùng inch hơn",
+   "C": "Inch dễ đo bằng thước kẻ học sinh",
+   "D": "Cm làm Word chạy chậm",
+   "cau": "Vì sao video khuyên người Việt nên đổi sang cm?",
+   "dap_an": "A",
+   "giai_thich": "Việt Nam dùng hệ mét, đặt lề 2-3cm trực quan hơn 0,79-1,18 inch.",
+   "id": 24,
+   "muc_do": "kho"
+  },
+  {
+   "A": "File > Options > Advanced > Display",
+   "B": "View > Ruler",
+   "C": "Home > Font",
+   "D": "Insert > Footer",
+   "cau": "Đường dẫn đầy đủ tới mục đơn vị đo là?",
+   "dap_an": "A",
+   "giai_thich": "File > Options > Advanced > cuộn tới Display.",
+   "id": 25,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Word Options áp dụng cho toàn bộ Word trên máy đó",
+   "B": "Chỉ áp dụng cho 1 file duy nhất",
+   "C": "Chỉ áp dụng cho 1 đoạn văn",
+   "D": "Chỉ áp dụng trong 1 phút",
+   "cau": "Phạm vi áp dụng của thiết lập đơn vị trong Word Options?",
+   "dap_an": "A",
+   "giai_thich": "Là tùy chọn ứng dụng, áp dụng chung cho Word trên máy.",
+   "id": 26,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Đổi sang cm trước rồi mới bật Ruler để đọc số liệu chuẩn",
+   "B": "Bật Ruler trước rồi đổi font",
+   "C": "Đổi đơn vị sau khi in",
+   "D": "Không cần Ruler",
+   "cau": "Thứ tự hợp lý khi vừa đổi đơn vị vừa hiện thước là?",
+   "dap_an": "A",
+   "giai_thich": "Đổi inch→cm trước, sau đó View > Ruler để thước hiện theo cm.",
+   "id": 27,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Giá trị lề inch cũ được quy đổi tương đương sang cm",
+   "B": "Mọi lề về 2,54cm hết",
+   "C": "Mọi lề về 0",
+   "D": "File bị nhân đôi số trang",
+   "cau": "File cũ đặt lề 1 inch, sau khi đổi sang cm sẽ hiển thị bao nhiêu?",
+   "dap_an": "A",
+   "giai_thich": "Word tự quy đổi: 1 inch hiển thị thành 2,54 cm.",
+   "id": 28,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Millimeters khi cần độ chính xác cao hơn cm",
+   "B": "Picas khi soạn văn bản Việt",
+   "C": "Points khi chỉnh lề giấy",
+   "D": "Inch khi chấm thi trắc nghiệm",
+   "cau": "Khi nào nên chọn Millimeters thay vì Centimeters?",
+   "dap_an": "A",
+   "giai_thich": "Milimet cho chỉnh lề/khung cần chính xác từng mm.",
+   "id": 29,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Kiểm tra lại Show measurements in units of đang là Centimeters và Ruler hiện cm",
+   "B": "Khởi động lại modem wifi",
+   "C": "Cài lại Windows",
+   "D": "Mua máy in mới",
+   "cau": "Cách xác minh chắc chắn Word đã dùng cm là?",
+   "dap_an": "A",
+   "giai_thich": "Mở lại Options thấy Centimeters và thước hiện vạch cm.",
+   "id": 30,
+   "muc_do": "kho"
+  }
+ ],
+ "ky_nang": [
+  {
+   "duong_dan_menu": "File > Options",
+   "giai_thich": "Mở cửa sổ tùy chọn chung của Word.",
+   "phim_tat": "Không có",
+   "ten": "Mở Word Options",
+   "thao_tac": "Nhấp File trên menu, chọn Options.",
+   "vi_du": "Mở Word Options để chuẩn bị đổi đơn vị."
+  },
+  {
+   "duong_dan_menu": "Word Options > Advanced (khung trái)",
+   "giai_thich": "Chứa các tùy chọn hiển thị, chỉnh sửa nâng cao.",
+   "phim_tat": "Không có",
+   "ten": "Vào mục Advanced",
+   "thao_tac": "Trong Word Options, nhấp Advanced ở khung trái, cuộn xuống phần Display.",
+   "vi_du": "Cuộn tới khu vực Display để tìm dòng đơn vị."
+  },
+  {
+   "duong_dan_menu": "Advanced > Display > Show measurements in units of",
+   "giai_thich": "Đơn vị mặc định bản tiếng Anh là inch; người Việt nên dùng cm.",
+   "phim_tat": "Không có",
+   "ten": "Đổi inch sang cm",
+   "thao_tac": "Nhấp ô đơn vị (inch), chọn Centimeters, nhấn OK.",
+   "vi_du": "Chuyển từ inch sang Centimeters rồi OK."
+  }
+ ],
+ "url": "https://www.youtube.com/watch?v=AM_Aa0U21Lo",
+ "video_id": "AM_Aa0U21Lo"
+}

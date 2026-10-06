@@ -1,0 +1,558 @@
+[
+  {
+    "ten": "SUM",
+    "cu_phap_chuan": "=SUM(Number1,Number2,...)",
+    "giai_thich": "Tinh tong tat ca cac so / vung o.",
+    "vi_du_web": {
+      "dienmayxanh": "=SUM(20,40,60) = 120; =SUM(A1:A3)",
+      "cellphones": "=SUM(gia tri 1, gia tri 2,...)",
+      "jobsgo": "=SUM(Number1, Number2, ...)"
+    },
+    "trung_lap_voi_video": true,
+    "nguon": [
+      "dienmayxanh",
+      "cellphones",
+      "jobsgo"
+    ]
+  },
+  {
+    "ten": "MIN",
+    "cu_phap_chuan": "=MIN(Number1,Number2,...)",
+    "giai_thich": "Tim gia tri nho nhat trong vung du lieu.",
+    "vi_du_web": {
+      "dienmayxanh": "=MIN(A2:C5) = 25",
+      "cellphones": "=MIN(vung du lieu)",
+      "jobsgo": "=MIN(Number1, Number2, ...)"
+    },
+    "trung_lap_voi_video": true,
+    "nguon": [
+      "dienmayxanh",
+      "cellphones",
+      "jobsgo"
+    ]
+  },
+  {
+    "ten": "MAX",
+    "cu_phap_chuan": "=MAX(Number1,Number2,...)",
+    "giai_thich": "Tim gia tri lon nhat trong vung du lieu.",
+    "vi_du_web": {
+      "dienmayxanh": "=MAX(A2:C5) = 89",
+      "cellphones": "=MAX(vung du lieu)",
+      "jobsgo": "=MAX(Number1, Number2, ...)"
+    },
+    "trung_lap_voi_video": true,
+    "nguon": [
+      "dienmayxanh",
+      "cellphones",
+      "jobsgo"
+    ]
+  },
+  {
+    "ten": "COUNT",
+    "cu_phap_chuan": "=COUNT(Value1,...)",
+    "giai_thich": "Dem so o chua so trong vung du lieu.",
+    "vi_du_web": {
+      "dienmayxanh": "=COUNT(A2:C5)",
+      "cellphones": "=COUNT(value1, [value2], ...)",
+      "jobsgo": "=COUNT(Value1, ...)"
+    },
+    "trung_lap_voi_video": true,
+    "nguon": [
+      "dienmayxanh",
+      "cellphones",
+      "jobsgo"
+    ]
+  },
+  {
+    "ten": "COUNTA",
+    "cu_phap_chuan": "=COUNTA(Value1,...)",
+    "giai_thich": "Dem cac o khong trong (so, chu, ky hieu).",
+    "vi_du_web": {
+      "dienmayxanh": "=COUNTA(A2:C5)",
+      "cellphones": "=COUNTA(pham vi bang tinh can dem)",
+      "jobsgo": "=COUNTA(Value1, ...)"
+    },
+    "trung_lap_voi_video": true,
+    "nguon": [
+      "dienmayxanh",
+      "cellphones",
+      "jobsgo"
+    ]
+  },
+  {
+    "ten": "ODD",
+    "cu_phap_chuan": "=ODD(Number)",
+    "giai_thich": "Lam tron len toi so nguyen LE gan nhat. HAM MOI - video khong day.",
+    "vi_du_web": {
+      "dienmayxanh": "=ODD(4.6) = 5"
+    },
+    "trung_lap_voi_video": false,
+    "nguon": [
+      "dienmayxanh"
+    ]
+  },
+  {
+    "ten": "EVEN",
+    "cu_phap_chuan": "=EVEN(Number)",
+    "giai_thich": "Lam tron len toi so nguyen CHAN gan nhat. HAM MOI - video khong day.",
+    "vi_du_web": {
+      "dienmayxanh": "=EVEN(53.4) = 54"
+    },
+    "trung_lap_voi_video": false,
+    "nguon": [
+      "dienmayxanh"
+    ]
+  },
+  {
+    "ten": "AVERAGE",
+    "cu_phap_chuan": "=AVERAGE(Number1,Number2,...)",
+    "giai_thich": "Tinh trung binh cong cua day so (toi da 255 doi so).",
+    "vi_du_web": {
+      "dienmayxanh": "=AVERAGE(C3:C8) - luong trung binh 6 thang",
+      "cellphones": "=AVERAGE(A5:G5)",
+      "jobsgo": "=AVERAGE(Number1, Number2, ...)"
+    },
+    "trung_lap_voi_video": true,
+    "nguon": [
+      "dienmayxanh",
+      "cellphones",
+      "jobsgo"
+    ]
+  },
+  {
+    "ten": "PRODUCT",
+    "cu_phap_chuan": "=PRODUCT(Number1,Number2,...)",
+    "giai_thich": "Nhan tat ca cac doi so, tra ve tich. HAM MOI - video khong day.",
+    "vi_du_web": {
+      "dienmayxanh": "=PRODUCT(D2:D8)",
+      "jobsgo": "=PRODUCT(Number1, Number2, ...)"
+    },
+    "trung_lap_voi_video": false,
+    "nguon": [
+      "dienmayxanh",
+      "jobsgo"
+    ]
+  },
+  {
+    "ten": "NETWORKDAYS",
+    "cu_phap_chuan": "=NETWORKDAYS(Start_date,End_date,[Holidays])",
+    "giai_thich": "Dem so ngay lam viec (tru T7, CN, ngay le tuy chon).",
+    "vi_du_web": {
+      "dienmayxanh": "(chi neu ten ham, khong co vi du chi tiet)",
+      "cellphones": "=NETWORKDAYS(A23,B23) voi A23=01/03/2026, B23=10/03/2026",
+      "jobsgo": "=NETWORKDAYS(Start_date, End_date, [Holidays])"
+    },
+    "trung_lap_voi_video": true,
+    "nguon": [
+      "dienmayxanh",
+      "cellphones",
+      "jobsgo"
+    ]
+  },
+  {
+    "ten": "COUNTIF",
+    "cu_phap_chuan": "=COUNTIF(Range,Criteria)",
+    "giai_thich": "Dem o thoa man 1 dieu kien trong vung.",
+    "vi_du_web": {
+      "dienmayxanh": "=COUNTIF(C2:C11,\">150\") = 8 mat hang ton tren 150",
+      "cellphones": "=COUNTIF(range, criteria)",
+      "jobsgo": "=COUNTIF(Range, Criteria)"
+    },
+    "trung_lap_voi_video": true,
+    "nguon": [
+      "dienmayxanh",
+      "cellphones",
+      "jobsgo"
+    ]
+  },
+  {
+    "ten": "IF",
+    "cu_phap_chuan": "=IF(Logical_test,Value_if_true,Value_if_false)",
+    "giai_thich": "Kiem tra dieu kien, tra ve 1 trong 2 gia tri dung/sai.",
+    "vi_du_web": {
+      "dienmayxanh": "=IF(C2>=7,\"Dat\",\"Khong Dat\")",
+      "cellphones": "=IF(A1>50,\"Correct\",\"Incorrect\")",
+      "jobsgo": "=IF(Logical_test, Value_if_true, Value_if_false)"
+    },
+    "trung_lap_voi_video": true,
+    "nguon": [
+      "dienmayxanh",
+      "cellphones",
+      "jobsgo"
+    ]
+  },
+  {
+    "ten": "SUMIF",
+    "cu_phap_chuan": "=SUMIF(Range,Criteria,[Sum_range])",
+    "giai_thich": "Tinh tong cac o thoa man dieu kien.",
+    "vi_du_web": {
+      "dienmayxanh": "=SUMIF(A1:A8,\"cam\",B1:B8)",
+      "cellphones": "=SUMIF(range, criteria, [SUM_range])",
+      "jobsgo": "=SUMIF(Range, Criteria, [Sum_range])"
+    },
+    "trung_lap_voi_video": true,
+    "nguon": [
+      "dienmayxanh",
+      "cellphones",
+      "jobsgo"
+    ]
+  },
+  {
+    "ten": "AND",
+    "cu_phap_chuan": "=AND(Logical1,Logical2,...)",
+    "giai_thich": "Tra ve TRUE neu TAT CA dieu kien dung (toi da 255 dieu kien).",
+    "vi_du_web": {
+      "dienmayxanh": "(chi neu muc Ham OR / Ham AND, khong vi du)",
+      "cellphones": "=IF(AND(A1>50,B1>25),\"Correct\",\"Incorrect\")",
+      "jobsgo": "=AND(Logical1, Logical2, ...)"
+    },
+    "trung_lap_voi_video": true,
+    "nguon": [
+      "dienmayxanh",
+      "cellphones",
+      "jobsgo"
+    ]
+  },
+  {
+    "ten": "OR",
+    "cu_phap_chuan": "=OR(Logical1,Logical2,...)",
+    "giai_thich": "Tra ve TRUE neu CO IT NHAT 1 dieu kien dung.",
+    "vi_du_web": {
+      "dienmayxanh": "(chi neu muc Ham OR, khong vi du)",
+      "cellphones": "=IF(OR(A1>50,B1>25),\"Correct\",\"Incorrect\")",
+      "jobsgo": "=OR(Logical1, Logical2, ...)"
+    },
+    "trung_lap_voi_video": true,
+    "nguon": [
+      "dienmayxanh",
+      "cellphones",
+      "jobsgo"
+    ]
+  },
+  {
+    "ten": "LEFT",
+    "cu_phap_chuan": "=LEFT(Text,[Num_chars])",
+    "giai_thich": "Cat chuoi ky tu tu ben TRAI.",
+    "vi_du_web": {
+      "dienmayxanh": "=LEFT(B3,3) - lay 3 ky tu dau",
+      "cellphones": "=LEFT(A2,2) voi A2=SP12345 -> SP",
+      "jobsgo": "=LEFT(Text, Num_chars)"
+    },
+    "trung_lap_voi_video": true,
+    "nguon": [
+      "dienmayxanh",
+      "cellphones",
+      "jobsgo"
+    ]
+  },
+  {
+    "ten": "RIGHT",
+    "cu_phap_chuan": "=RIGHT(Text,[Num_chars])",
+    "giai_thich": "Tach chuoi ky tu tu ben PHAI.",
+    "vi_du_web": {
+      "dienmayxanh": "=RIGHT(B3,7) - lay 7 ky tu cuoi",
+      "cellphones": "=RIGHT(A2,3) voi A2=SP12345 -> 345",
+      "jobsgo": "=RIGHT(Text, Num_chars)"
+    },
+    "trung_lap_voi_video": true,
+    "nguon": [
+      "dienmayxanh",
+      "cellphones",
+      "jobsgo"
+    ]
+  },
+  {
+    "ten": "MID",
+    "cu_phap_chuan": "=MID(Text,Start_num,Num_chars)",
+    "giai_thich": "Lay so ky tu cu the tu vi tri bat ky trong chuoi.",
+    "vi_du_web": {
+      "dienmayxanh": "=MID(B3,3,7) -> \"am Van \" (web ghi nham =LEFT(B3,3,7))",
+      "cellphones": "=MID(A2,3,3) - 3 ky tu tu vi tri thu 3",
+      "jobsgo": "=MID(Text, Start_num, Num_chars)"
+    },
+    "trung_lap_voi_video": true,
+    "nguon": [
+      "dienmayxanh",
+      "cellphones",
+      "jobsgo"
+    ]
+  },
+  {
+    "ten": "LEN",
+    "cu_phap_chuan": "=LEN(Text)",
+    "giai_thich": "Dem so ky tu trong chuoi (gom ca khoang trang).",
+    "vi_du_web": {
+      "dienmayxanh": "=LEN(A1) voi A1=\"Dien may XANH\""
+    },
+    "trung_lap_voi_video": true,
+    "nguon": [
+      "dienmayxanh"
+    ]
+  },
+  {
+    "ten": "CONCAT",
+    "cu_phap_chuan": "=CONCAT(Text1,Text2,...)",
+    "giai_thich": "Noi 2 hay nhieu chuoi van ban (ban moi, thay CONCATENATE). HAM MOI - video chi day CONCATENATE.",
+    "vi_du_web": {
+      "dienmayxanh": "=CONCAT(\"Dien\",\" \",\"may\",\" \",\"XANH\",...) -> \"Dien may XANH Xin Cam on.\" (web copy nham cu phap IF)",
+      "cellphones": "=CONCAT(A2,\" \",B2) voi A2=Nguyen, B2=An -> Nguyen An"
+    },
+    "trung_lap_voi_video": false,
+    "nguon": [
+      "dienmayxanh",
+      "cellphones"
+    ]
+  },
+  {
+    "ten": "CONCATENATE",
+    "cu_phap_chuan": "=CONCATENATE(Text1,Text2,...)",
+    "giai_thich": "Noi nhieu chuoi van ban (ban cu, da bi CONCAT thay the).",
+    "vi_du_web": {
+      "dienmayxanh": "(chi neu ten ham)",
+      "cellphones": "=CONCATENATE(A2,\" \",B2) -> Nguyen An",
+      "jobsgo": "=CONCATENATE(Text1, Text2, ...)"
+    },
+    "trung_lap_voi_video": true,
+    "nguon": [
+      "dienmayxanh",
+      "cellphones",
+      "jobsgo"
+    ]
+  },
+  {
+    "ten": "NOW",
+    "cu_phap_chuan": "=NOW()",
+    "giai_thich": "Hien thi ngay + gio hien tai, tu cap nhat khi mo file. HAM MOI - video khong day dang chuan NOW().",
+    "vi_du_web": {
+      "dienmayxanh": "=NOW(); =NOW()+7 (ngay gio sau 7 ngay)",
+      "cellphones": "=NOW()",
+      "jobsgo": "=NOW()"
+    },
+    "trung_lap_voi_video": false,
+    "nguon": [
+      "dienmayxanh",
+      "cellphones",
+      "jobsgo"
+    ]
+  },
+  {
+    "ten": "DATE",
+    "cu_phap_chuan": "=DATE(Year,Month,Day)",
+    "giai_thich": "Tao gia tri ngay tu nam/thang/ngay rieng le. HAM MOI - video khong day.",
+    "vi_du_web": {
+      "dienmayxanh": "=DATE(2015,5,20) -> 20/05/2015",
+      "cellphones": "=DATE(2026,3,14)",
+      "jobsgo": "=DATE(Year, Month, Day)"
+    },
+    "trung_lap_voi_video": false,
+    "nguon": [
+      "dienmayxanh",
+      "cellphones",
+      "jobsgo"
+    ]
+  },
+  {
+    "ten": "TIME",
+    "cu_phap_chuan": "=TIME(Hour,Minute,Second)",
+    "giai_thich": "Tao gia tri gio tu gio/phut/giay rieng le. HAM MOI - video khong day.",
+    "vi_du_web": {
+      "dienmayxanh": "(chi neu muc Ham TIME)",
+      "cellphones": "=TIME(14,30,0)",
+      "jobsgo": "=TIME(Hour, Minute, Second)"
+    },
+    "trung_lap_voi_video": false,
+    "nguon": [
+      "dienmayxanh",
+      "cellphones",
+      "jobsgo"
+    ]
+  },
+  {
+    "ten": "VLOOKUP",
+    "cu_phap_chuan": "=VLOOKUP(Lookup_value,Table_array,Col_index_num,Range_lookup)",
+    "giai_thich": "Do tim theo cot doc, tra ve du lieu cung hang. Range_lookup=0/FALSE: chinh xac.",
+    "vi_du_web": {
+      "dienmayxanh": "=VLOOKUP(D4,$H$3:$I$8,2,0) - phu cap nhan vien",
+      "cellphones": "=VLOOKUP(\"NV02\",A1:C4,3,FALSE) - luong NV02",
+      "jobsgo": "=VLOOKUP(Lookup_value, Table_array, Col_index_num, [Range_lookup])"
+    },
+    "trung_lap_voi_video": true,
+    "nguon": [
+      "dienmayxanh",
+      "cellphones",
+      "jobsgo"
+    ]
+  },
+  {
+    "ten": "INDEX",
+    "cu_phap_chuan": "=INDEX(Array,Row_num,[Column_num])",
+    "giai_thich": "Tra ve gia tri tai giao diem hang/cot trong vung; hay ket hop MATCH.",
+    "vi_du_web": {
+      "dienmayxanh": "=INDEX(B4:E13,4,1) - dong 4 cot 1",
+      "cellphones": "=INDEX(C2:C4,MATCH(\"NV03\",A2:A4,0)) - phong ban NV03",
+      "jobsgo": "=INDEX(Array, Row_num, [Column_num])"
+    },
+    "trung_lap_voi_video": true,
+    "nguon": [
+      "dienmayxanh",
+      "cellphones",
+      "jobsgo"
+    ]
+  },
+  {
+    "ten": "MATCH",
+    "cu_phap_chuan": "=MATCH(Lookup_value,Lookup_array,[Match_type])",
+    "giai_thich": "Tra ve vi tri tuong doi cua gia tri trong vung (Match_type 0: chinh xac).",
+    "vi_du_web": {
+      "dienmayxanh": "=MATCH(G1,A2:A9,0) - vi tri hoc sinh Lam Thien Trang",
+      "cellphones": "(ket hop INDEX: MATCH(\"NV03\",A2:A4,0))",
+      "jobsgo": "=MATCH(Lookup_value, Lookup_array, [Match_type])"
+    },
+    "trung_lap_voi_video": true,
+    "nguon": [
+      "dienmayxanh",
+      "cellphones",
+      "jobsgo"
+    ]
+  },
+  {
+    "ten": "HLOOKUP",
+    "cu_phap_chuan": "=HLOOKUP(Lookup_value,Table_array,Row_index_num,Range_lookup)",
+    "giai_thich": "Do tim theo hang ngang, tra ve gia tri cung cot.",
+    "vi_du_web": {
+      "dienmayxanh": "=HLOOKUP(C4,$B$11:$F$12,2,1) - xep loai hoc sinh",
+      "cellphones": "=HLOOKUP(\"T2\",A1:D3,2,FALSE) - doanh thu thang T2",
+      "jobsgo": "=HLOOKUP(Lookup_value, Table_array, Row_index_num, [Range_lookup])"
+    },
+    "trung_lap_voi_video": true,
+    "nguon": [
+      "dienmayxanh",
+      "cellphones",
+      "jobsgo"
+    ]
+  },
+  {
+    "ten": "CHOOSE",
+    "cu_phap_chuan": "=CHOOSE(Index_num,Value1,Value2,...)",
+    "giai_thich": "Chon 1 gia tri tu danh sach theo so thu tu. HAM MOI - video khong day.",
+    "vi_du_web": {
+      "dienmayxanh": "=CHOOSE(index_num, value1, value2, ...)",
+      "cellphones": "=CHOOSE(A2,\"Thap\",\"Trung binh\",\"Cao\") voi A2=2 -> Trung binh",
+      "jobsgo": "=CHOOSE(Index_num, Value1, Value2, ...)"
+    },
+    "trung_lap_voi_video": false,
+    "nguon": [
+      "dienmayxanh",
+      "cellphones",
+      "jobsgo"
+    ]
+  },
+  {
+    "ten": "XLOOKUP",
+    "cu_phap_chuan": "=XLOOKUP(Lookup_value,Lookup_array,Return_array,[If_not_found],[Match_mode],[Search_mode])",
+    "giai_thich": "Tra cuu linh hoat moi huong, khong can cot tim o dau. HAM MOI - video khong day.",
+    "vi_du_web": {
+      "cellphones": "=XLOOKUP(\"SP02\",A37:A39,C37:C39) - gia san pham SP02"
+    },
+    "trung_lap_voi_video": false,
+    "nguon": [
+      "cellphones"
+    ]
+  },
+  {
+    "ten": "TEXTJOIN",
+    "cu_phap_chuan": "=TEXTJOIN(Delimiter,Ignore_empty,Text1,...)",
+    "giai_thich": "Noi chuoi co ky tu phan cach, bo qua o trong tuy chon. HAM MOI - video khong day.",
+    "vi_du_web": {
+      "cellphones": "=TEXTJOIN(\", \",TRUE,A2:A4) voi A2:A4=Tao,Cam,Chuoi"
+    },
+    "trung_lap_voi_video": false,
+    "nguon": [
+      "cellphones"
+    ]
+  },
+  {
+    "ten": "DATEDIF",
+    "cu_phap_chuan": "=DATEDIF(Start_date,End_date,Unit)",
+    "giai_thich": "Tinh khoang cach 2 moc ngay (Y: nam, M: thang, D: ngay, MD/YM/YD).",
+    "vi_du_web": {
+      "cellphones": "=DATEDIF(A2,B2,\"Y\") voi A2=01/01/2024, B2=01/01/2026 -> 2 nam"
+    },
+    "trung_lap_voi_video": true,
+    "nguon": [
+      "cellphones"
+    ]
+  },
+  {
+    "ten": "TRIM",
+    "cu_phap_chuan": "=TRIM(Text)",
+    "giai_thich": "Loai bo khoang trang thua dau/cuoi chuoi.",
+    "vi_du_web": {
+      "cellphones": "=TRIM(A1)"
+    },
+    "trung_lap_voi_video": true,
+    "nguon": [
+      "cellphones"
+    ]
+  },
+  {
+    "ten": "UPPER",
+    "cu_phap_chuan": "=UPPER(Text)",
+    "giai_thich": "Chuyen toan bo chuoi sang CHU HOA.",
+    "vi_du_web": {
+      "cellphones": "=UPPER(A2)"
+    },
+    "trung_lap_voi_video": true,
+    "nguon": [
+      "cellphones"
+    ]
+  },
+  {
+    "ten": "LOWER",
+    "cu_phap_chuan": "=LOWER(Text)",
+    "giai_thich": "Chuyen toan bo chuoi sang chu thuong.",
+    "vi_du_web": {
+      "cellphones": "=LOWER(A1)"
+    },
+    "trung_lap_voi_video": true,
+    "nguon": [
+      "cellphones"
+    ]
+  },
+  {
+    "ten": "TODAY",
+    "cu_phap_chuan": "=TODAY()",
+    "giai_thich": "Tra ve ngay hien tai (tu cap nhat khi mo file).",
+    "vi_du_web": {
+      "cellphones": "=TODAY()"
+    },
+    "trung_lap_voi_video": true,
+    "nguon": [
+      "cellphones"
+    ]
+  },
+  {
+    "ten": "COUNTIFS",
+    "cu_phap_chuan": "=COUNTIFS(Criteria_range1,Criteria1,...)",
+    "giai_thich": "Dem theo NHIEU dieu kien (chi duoc nhac qua link tham khao).",
+    "vi_du_web": {
+      "dienmayxanh": "(link tham khao: Dem theo dieu kien voi COUNTIF/COUNTIFS)"
+    },
+    "trung_lap_voi_video": true,
+    "nguon": [
+      "dienmayxanh"
+    ]
+  },
+  {
+    "ten": "AUTOSUM",
+    "cu_phap_chuan": "Alt + = (AutoSum)",
+    "giai_thich": "Tinh tong tu dong doan vung du lieu (ban phim Alt+=).",
+    "vi_du_web": {
+      "cellphones": "Alt + = (AutoSum tu doan pham vi)"
+    },
+    "trung_lap_voi_video": true,
+    "nguon": [
+      "cellphones"
+    ]
+  }
+]

@@ -1,0 +1,563 @@
+{
+  "video_id": "Vf1Lt4gYqn0",
+  "bai": "Bai 19 in an trong Excel: Print Preview, Page Setup, Margins, Fit to Page, Page Break",
+  "url": "https://www.youtube.com/watch?v=Vf1Lt4gYqn0",
+  "cong_thuc": [
+    {
+      "ten": "Mo Print Preview",
+      "cong_thuc": "Ctrl+P hoac Quick Access > Print Preview",
+      "giai_thich": "Xem truoc in. Gan nut Print Preview len thanh cong cu nhanh de 1 click.",
+      "vi_du": "Click mui ten Quick Access > tich Print Preview; Ctrl+P mo preview"
+    },
+    {
+      "ten": "Chon may in / Luu PDF",
+      "cong_thuc": "Print > Printer: chon may LAN hoac Microsoft Print to PDF",
+      "giai_thich": "Chon may in giay hoac in PDF de luu file.",
+      "vi_du": "Printer=Print to PDF > Print > dat ten Bai19.pdf > Save ra Desktop"
+    },
+    {
+      "ten": "Pham vi in",
+      "cong_thuc": "Settings: Print Active Sheets | Entire Workbook | Selection",
+      "giai_thich": "Active Sheets: sheet dang lam; Entire Workbook: ca file (vd 36 trang); Selection: chi vung boi den.",
+      "vi_du": "Boi den tieu de+10 thu thuat > Print Selection chi in vung do"
+    },
+    {
+      "ten": "So trang in",
+      "cong_thuc": "Pages: tu [1] den [10]; 1 trang cu the: 7 den 7",
+      "giai_thich": "Mac dinh in het; nhap from-to de in trang nhat dinh.",
+      "vi_du": "Entire Workbook 36 trang > Pages 1-10 chi in 10 trang dau"
+    },
+    {
+      "ten": "Huong giay",
+      "cong_thuc": "Settings > Orientation: Portrait (doc) / Landscape (ngang)",
+      "giai_thich": "Du lieu ngang nen chon Landscape cho dep va tiet kiem giay.",
+      "vi_du": "Bang rong chon Landscape; danh sach dai chon Portrait"
+    },
+    {
+      "ten": "Hien le trang in (Show Margins)",
+      "cong_thuc": "Preview goc phai duoi > Show Margins > keo cham den",
+      "giai_thich": "Hien duong le de keo can truc quan.",
+      "vi_du": "Tich Show Margins > keo le tren xuong de tiet kiem trang"
+    },
+    {
+      "ten": "Doi inch sang cm",
+      "cong_thuc": "File > Options > Advanced > Display > Ruler units: Centimeter",
+      "giai_thich": "Mac dinh inch (8.5x14 inch); doi cm de can le theo chuan VN.",
+      "vi_du": "Doi xong Page Setup hien cm; Custom Margins nhap 2cm trai/phai"
+    },
+    {
+      "ten": "Can le + can giua trang",
+      "cong_thuc": "Page Setup > Margins: Top/Bottom/Left/Right + Center: Horizontally/Vertically",
+      "giai_thich": "Custom Margins nhap so; tich Center de bang nam giua giay doc + ngang.",
+      "vi_du": "Margins 2cm + Center Horizontally + Vertically"
+    },
+    {
+      "ten": "Fit Sheet on One Page",
+      "cong_thuc": "Settings > No Scaling > Fit Sheet on One Page (hoac Page Setup > Fit to 1 page)",
+      "giai_thich": "Co toan bo ve 1 trang. Du lieu qua dai se rat be nen can nhan.",
+      "vi_du": "Ke hoach KD 4 trang > Fit Sheet on One Page con 1/1 trang"
+    },
+    {
+      "ten": "Page Break Preview keo ve 1 trang",
+      "cong_thuc": "View > Page Break Preview > keo duong xanh ve bien",
+      "giai_thich": "Xem vung ngat trang (Page1..4, duong xanh); keo duong xanh sat bien de gom 1 trang. Undo: Ctrl+Z.",
+      "vi_du": "4 vung xanh > keo phai + keo xuong sat bien > Ctrl+P thay 1/1 trang"
+    },
+    {
+      "ten": "Header Footer + Page Number",
+      "cong_thuc": "Page Setup > Header/Footer > Custom: Left/Center/Right + Insert Page Number (&Page)",
+      "giai_thich": "Vd Left='Ga Excel', Right=Insert Page Number; xem truoc thay header trai + so trang phai.",
+      "vi_du": "Custom Header Left: Ga Excel; Custom Footer Right: &Page (so trang tu tang)"
+    },
+    {
+      "ten": "Chen ngat trang Page Break",
+      "cong_thuc": "Chon hang 17 > Page Layout > Breaks > Insert Page Break; View > Page Break Preview kiem tra",
+      "giai_thich": "Tach du lieu (trang 1) va bieu do (trang 2) thanh 2 trang rieng; keo duong xanh de dieu chinh.",
+      "vi_du": "Insert Page Break tai hang 17 -> Page1 du lieu, Page2 chart; Ctrl+P thay 1/2, 2/2"
+    },
+    {
+      "ten": "Lap tieu de Print Titles",
+      "cong_thuc": "Page Layout > Print Titles > Rows to repeat at top: $1:$4 (hoac $4:$4)",
+      "giai_thich": "29 trang van thay tieu de Doanh thu/Khu vuc/Vung/Tinh o moi trang; chon ca 1:4 neu co tieu de lon.",
+      "vi_du": "Rows $4:$4 lap hang tieu de; Ctrl+P trang 2 van thay tieu de"
+    },
+    {
+      "ten": "Vung in Print Area",
+      "cong_thuc": "Boi den vung > Page Layout > Print Area > Set Print Area; Clear: Clear Print Area",
+      "giai_thich": "Chi in 10 thu thuat + tieu de; xoa vung in de tro lai binh thuong.",
+      "vi_du": "Set vung 10 thu thuat -> Ctrl+P chi thay vung do; Clear de bo"
+    },
+    {
+      "ten": "In Gridlines + tieu de dong cot",
+      "cong_thuc": "Page Layout > Sheet Options > Gridlines: tich Print; Row and column headings: tich Print",
+      "giai_thich": "Mac dinh preview khong thay luoi; tich Print de in ke o. Burst: View > Gridlines chi la hien thi.",
+      "vi_du": "Tich Gridlines Print -> ban in co ke o; bo tich thi trang tinh"
+    },
+    {
+      "ten": "An hien Page Break lines",
+      "cong_thuc": "File > Options > Advanced > Display options > bo tich Show page breaks",
+      "giai_thich": "Bo duong cham cham ngat trang kho chiu sau khi dung Page Break Preview.",
+      "vi_du": "Bo Show page breaks > OK; mo lai file khong con duong cham"
+    }
+  ],
+  "thuat_toan_quy_trinh": [
+    {
+      "ten": "Gan nut Print Preview + chon may in/PDF",
+      "cac_buoc": [
+        "Click mui ten Quick Access Toolbar > tich Print Preview",
+        "Click bieu tuong Preview (hoac Ctrl+P)",
+        "Printer: chon may LAN hoac Print to PDF",
+        "Neu PDF: Print > dat ten > Save"
+      ]
+    },
+    {
+      "ten": "In selection / sheet / workbook + so trang",
+      "cac_buoc": [
+        "Boi den vung can in (neu in Selection)",
+        "Ctrl+P > Settings: chon Print Selection / Active Sheets / Entire Workbook",
+        "Neu nhieu trang: Pages nhap vd 1-10 hoac 7-7",
+        "Print"
+      ]
+    },
+    {
+      "ten": "Chinh huong giay + le + don vi cm",
+      "cac_buoc": [
+        "Ctrl+P > Orientation: Portrait/Landscape",
+        "Tich Show Margins goc duoi > keo le truc quan",
+        "Neu can cm: File > Options > Advanced > Ruler units Centimeter > OK",
+        "Page Setup > Margins > Custom: nhap cm + Center Horizontally/Vertically"
+      ]
+    },
+    {
+      "ten": "Fit ve 1 trang (2 cach)",
+      "cac_buoc": [
+        "C1: Ctrl+P > No Scaling > Fit Sheet on One Page",
+        "C2: View > Page Break Preview > keo duong xanh sat bien phai + duoi",
+        "Ctrl+P kiem tra 1/1 trang",
+        "Luu y: du lieu dai se be, can nhan truoc khi dung"
+      ]
+    },
+    {
+      "ten": "Header/Footer + Tieu de lap + Vung in + Page Break",
+      "cac_buoc": [
+        "Page Setup > Header/Footer > Custom Left 'Ga Excel', Right Insert Page Number",
+        "Page Layout > Print Titles > Rows $1:$4 de lap tieu de moi trang (file 29 trang)",
+        "Boi den vung > Page Layout > Print Area > Set; Clear khi xong",
+        "Chon hang 17 > Page Layout > Breaks > Insert Page Break de tach du lieu/chart; Page Break Preview keo chinh",
+        "Sheet Options > tich Gridlines Print neu muon in ke o; File > Options > Advanced bo Show page breaks de an duong cham"
+      ]
+    },
+    {
+      "ten": "Header/Footer + Tieu de lap + Vung in + Page Break",
+      "cac_buoc": [
+        "Page Setup > Header/Footer > Custom Left 'Ga Excel', Right Insert Page Number",
+        "Page Layout > Print Titles > Rows $1:$4 de lap tieu de moi trang (file 29 trang)",
+        "Boi den vung > Page Layout > Print Area > Set; Clear khi xong",
+        "Chon hang 17 > Page Layout > Breaks > Insert Page Break de tach du lieu/chart; Page Break Preview keo chinh",
+        "Sheet Options > tich Gridlines Print neu muon in ke o; File > Options > Advanced bo Show page breaks de an duong cham"
+      ]
+    }
+  ],
+  "cau_hoi": [
+    {
+      "id": 1,
+      "cau": "Nut Print Preview gan o dau?",
+      "A": "Quick Access Toolbar (mui ten tren cung)",
+      "B": "Thanh cong thuc",
+      "C": "Thanh trang thai",
+      "D": "Trong o",
+      "dap_an": "A",
+      "giai_thich": "1 click mo preview nhanh nhu Save/Undo."
+    },
+    {
+      "id": 2,
+      "cau": "Thao tac: Nut Print Preview gan o dau?",
+      "A": "Quick Access Toolbar (mui ten tren cung)",
+      "B": "Thanh cong thuc",
+      "C": "Thanh trang thai",
+      "D": "Trong o",
+      "dap_an": "A",
+      "giai_thich": "1 click mo preview nhanh nhu Save/Undo."
+    },
+    {
+      "id": 3,
+      "cau": "Phim tat Print Preview/Print la gi?",
+      "A": "Ctrl + P",
+      "B": "Ctrl + O",
+      "C": "Ctrl + N",
+      "D": "Ctrl + S",
+      "dap_an": "A",
+      "giai_thich": "Ctrl+P mo preview."
+    },
+    {
+      "id": 4,
+      "cau": "Thao tac: Phim tat Print Preview/Print la gi?",
+      "A": "Ctrl + P",
+      "B": "Ctrl + O",
+      "C": "Ctrl + N",
+      "D": "Ctrl + S",
+      "dap_an": "A",
+      "giai_thich": "Ctrl+P mo preview."
+    },
+    {
+      "id": 5,
+      "cau": "Chon may in o muc nao?",
+      "A": "Printer trong Print Preview",
+      "B": "Orientation",
+      "C": "Margins",
+      "D": "Copies",
+      "dap_an": "A",
+      "giai_thich": "Liet ke may LAN + PDF."
+    },
+    {
+      "id": 6,
+      "cau": "Thao tac: Chon may in o muc nao?",
+      "A": "Printer trong Print Preview",
+      "B": "Orientation",
+      "C": "Margins",
+      "D": "Copies",
+      "dap_an": "A",
+      "giai_thich": "Liet ke may LAN + PDF."
+    },
+    {
+      "id": 7,
+      "cau": "Khong co may in thi chon gi de demo?",
+      "A": "Microsoft Print to PDF",
+      "B": "Khong in duoc",
+      "C": "Tat may",
+      "D": "Xoa file",
+      "dap_an": "A",
+      "giai_thich": "Luu ra PDF thay vi giay."
+    },
+    {
+      "id": 8,
+      "cau": "Thao tac: Khong co may in thi chon gi de demo?",
+      "A": "Microsoft Print to PDF",
+      "B": "Khong in duoc",
+      "C": "Tat may",
+      "D": "Xoa file",
+      "dap_an": "A",
+      "giai_thich": "Luu ra PDF thay vi giay."
+    },
+    {
+      "id": 9,
+      "cau": "In PDF thuc chat la gi?",
+      "A": "Luu sheet ra file .pdf",
+      "B": "In giay",
+      "C": "Xoa du lieu",
+      "D": "Tang dung luong",
+      "dap_an": "A",
+      "giai_thich": "Chon PDF > Print > dat ten > Save."
+    },
+    {
+      "id": 10,
+      "cau": "Thao tac: In PDF thuc chat la gi?",
+      "A": "Luu sheet ra file .pdf",
+      "B": "In giay",
+      "C": "Xoa du lieu",
+      "D": "Tang dung luong",
+      "dap_an": "A",
+      "giai_thich": "Chon PDF > Print > dat ten > Save."
+    },
+    {
+      "id": 11,
+      "cau": "Mac dinh Settings in gi?",
+      "A": "Print Active Sheets (sheet dang lam)",
+      "B": "Ca file",
+      "C": "Vung chon",
+      "D": "Khong gi",
+      "dap_an": "A",
+      "giai_thich": "Chi in sheet hien tai."
+    },
+    {
+      "id": 12,
+      "cau": "Thao tac: Mac dinh Settings in gi?",
+      "A": "Print Active Sheets (sheet dang lam)",
+      "B": "Ca file",
+      "C": "Vung chon",
+      "D": "Khong gi",
+      "dap_an": "A",
+      "giai_thich": "Chi in sheet hien tai."
+    },
+    {
+      "id": 13,
+      "cau": "Muon in ca file 3 sheets chon gi?",
+      "A": "Print Entire Workbook",
+      "B": "Print Selection",
+      "C": "Print Active",
+      "D": "Khong in",
+      "dap_an": "A",
+      "giai_thich": "Vd 36 trang ca file."
+    },
+    {
+      "id": 14,
+      "cau": "Thao tac: Muon in ca file 3 sheets chon gi?",
+      "A": "Print Entire Workbook",
+      "B": "Print Selection",
+      "C": "Print Active",
+      "D": "Khong in",
+      "dap_an": "A",
+      "giai_thich": "Vd 36 trang ca file."
+    },
+    {
+      "id": 15,
+      "cau": "Muon in chi vung boi den chon gi?",
+      "A": "Print Selection",
+      "B": "Entire Workbook",
+      "C": "Active Sheets",
+      "D": "Khong gi",
+      "dap_an": "A",
+      "giai_thich": "Chi in o dang chon."
+    },
+    {
+      "id": 16,
+      "cau": "Thao tac: Muon in chi vung boi den chon gi?",
+      "A": "Print Selection",
+      "B": "Entire Workbook",
+      "C": "Active Sheets",
+      "D": "Khong gi",
+      "dap_an": "A",
+      "giai_thich": "Chi in o dang chon."
+    },
+    {
+      "id": 17,
+      "cau": "In trang 1-10 nhap the nao?",
+      "A": "Pages: 1 den 10",
+      "B": "1 den 100",
+      "C": "Khong nhap",
+      "D": "Nhap chu",
+      "dap_an": "A",
+      "giai_thich": "Gioi han from-to."
+    },
+    {
+      "id": 18,
+      "cau": "Thao tac: In trang 1-10 nhap the nao?",
+      "A": "Pages: 1 den 10",
+      "B": "1 den 100",
+      "C": "Khong nhap",
+      "D": "Nhap chu",
+      "dap_an": "A",
+      "giai_thich": "Gioi han from-to."
+    },
+    {
+      "id": 19,
+      "cau": "In rieng trang 7 nhap the nao?",
+      "A": "7 den 7",
+      "B": "7 den 8",
+      "C": "1 den 7",
+      "D": "0 den 7",
+      "dap_an": "A",
+      "giai_thich": "From=To=7 in 1 trang."
+    },
+    {
+      "id": 20,
+      "cau": "Thao tac: In rieng trang 7 nhap the nao?",
+      "A": "7 den 7",
+      "B": "7 den 8",
+      "C": "1 den 7",
+      "D": "0 den 7",
+      "dap_an": "A",
+      "giai_thich": "From=To=7 in 1 trang."
+    },
+    {
+      "id": 21,
+      "cau": "Du lieu ngang nen chon huong gi?",
+      "A": "Landscape (ngang)",
+      "B": "Portrait",
+      "C": "Vuong",
+      "D": "Tron",
+      "dap_an": "A",
+      "giai_thich": "Ngang vua bang, dep, tiet kiem."
+    },
+    {
+      "id": 22,
+      "cau": "Thao tac: Du lieu ngang nen chon huong gi?",
+      "A": "Landscape (ngang)",
+      "B": "Portrait",
+      "C": "Vuong",
+      "D": "Tron",
+      "dap_an": "A",
+      "giai_thich": "Ngang vua bang, dep, tiet kiem."
+    },
+    {
+      "id": 23,
+      "cau": "Hien duong le de keo o dau?",
+      "A": "Show Margins (goc phai duoi preview)",
+      "B": "Show Formula",
+      "C": "Show Grid",
+      "D": "Show Header",
+      "dap_an": "A",
+      "giai_thich": "Hien cham den de keo."
+    },
+    {
+      "id": 24,
+      "cau": "Thao tac: Hien duong le de keo o dau?",
+      "A": "Show Margins (goc phai duoi preview)",
+      "B": "Show Formula",
+      "C": "Show Grid",
+      "D": "Show Header",
+      "dap_an": "A",
+      "giai_thich": "Hien cham den de keo."
+    },
+    {
+      "id": 25,
+      "cau": "Mac dinh don vi le la gi?",
+      "A": "Inch (vd 8.5x14 inch)",
+      "B": "Cm",
+      "C": "Mm",
+      "D": "Km",
+      "dap_an": "A",
+      "giai_thich": "Dau nhay kep la inch."
+    },
+    {
+      "id": 26,
+      "cau": "Thao tac: Mac dinh don vi le la gi?",
+      "A": "Inch (vd 8.5x14 inch)",
+      "B": "Cm",
+      "C": "Mm",
+      "D": "Km",
+      "dap_an": "A",
+      "giai_thich": "Dau nhay kep la inch."
+    },
+    {
+      "id": 27,
+      "cau": "Doi inch sang cm o dau?",
+      "A": "File > Options > Advanced > Display > Ruler units: Centimeter",
+      "B": "Insert > Chart",
+      "C": "Data > Sort",
+      "D": "Home > Font",
+      "dap_an": "A",
+      "giai_thich": "De can le chuan VN."
+    },
+    {
+      "id": 28,
+      "cau": "Thao tac: Doi inch sang cm o dau?",
+      "A": "File > Options > Advanced > Display > Ruler units: Centimeter",
+      "B": "Insert > Chart",
+      "C": "Data > Sort",
+      "D": "Home > Font",
+      "dap_an": "A",
+      "giai_thich": "De can le chuan VN."
+    },
+    {
+      "id": 29,
+      "cau": "Chinh so le cu the o dau?",
+      "A": "Page Setup > Margins > Custom",
+      "B": "Insert > Picture",
+      "C": "View > Zoom",
+      "D": "Data > Filter",
+      "dap_an": "A",
+      "giai_thich": "Nhap Top/Bottom/Left/Right cm."
+    },
+    {
+      "id": 30,
+      "cau": "Thao tac: Chinh so le cu the o dau?",
+      "A": "Page Setup > Margins > Custom",
+      "B": "Insert > Picture",
+      "C": "View > Zoom",
+      "D": "Data > Filter",
+      "dap_an": "A",
+      "giai_thich": "Nhap Top/Bottom/Left/Right cm."
+    },
+    {
+      "id": 31,
+      "cau": "De bang nam giua giay tich gi?",
+      "A": "Center Horizontally + Vertically",
+      "B": "Bold",
+      "C": "Italic",
+      "D": "Wrap",
+      "dap_an": "A",
+      "giai_thich": "Can giua trai-phai va tren-duoi."
+    },
+    {
+      "id": 32,
+      "cau": "Thao tac: De bang nam giua giay tich gi?",
+      "A": "Center Horizontally + Vertically",
+      "B": "Bold",
+      "C": "Italic",
+      "D": "Wrap",
+      "dap_an": "A",
+      "giai_thich": "Can giua trai-phai va tren-duoi."
+    },
+    {
+      "id": 33,
+      "cau": "Fit Sheet on One Page de lam gi?",
+      "A": "Co 4 trang ve 1 trang",
+      "B": "Tang len 10 trang",
+      "C": "Xoa du lieu",
+      "D": "An sheet",
+      "dap_an": "A",
+      "giai_thich": "No Scaling > Fit Sheet."
+    },
+    {
+      "id": 34,
+      "cau": "Thao tac: Fit Sheet on One Page de lam gi?",
+      "A": "Co 4 trang ve 1 trang",
+      "B": "Tang len 10 trang",
+      "C": "Xoa du lieu",
+      "D": "An sheet",
+      "dap_an": "A",
+      "giai_thich": "No Scaling > Fit Sheet."
+    },
+    {
+      "id": 35,
+      "cau": "Rui ro khi Fit du lieu qua dai?",
+      "A": "Chu rat be kho doc",
+      "B": "Mat du lieu",
+      "C": "Hong file",
+      "D": "Chay nhanh",
+      "dap_an": "A",
+      "giai_thich": "Can nhan co nen dung."
+    },
+    {
+      "id": 36,
+      "cau": "Thao tac: Rui ro khi Fit du lieu qua dai?",
+      "A": "Chu rat be kho doc",
+      "B": "Mat du lieu",
+      "C": "Hong file",
+      "D": "Chay nhanh",
+      "dap_an": "A",
+      "giai_thich": "Can nhan co nen dung."
+    },
+    {
+      "id": 37,
+      "cau": "Page Break Preview o the nao?",
+      "A": "View > Page Break Preview",
+      "B": "Insert > Break",
+      "C": "File > Break",
+      "D": "Home > Break",
+      "dap_an": "A",
+      "giai_thich": "Hien vung Page1-4 + duong xanh."
+    },
+    {
+      "id": 38,
+      "cau": "Thao tac: Page Break Preview o the nao?",
+      "A": "View > Page Break Preview",
+      "B": "Insert > Break",
+      "C": "File > Break",
+      "D": "Home > Break",
+      "dap_an": "A",
+      "giai_thich": "Hien vung Page1-4 + duong xanh."
+    },
+    {
+      "id": 39,
+      "cau": "Duong xanh trong Break Preview la gi?",
+      "A": "Ran ngat trang",
+      "B": "Duong ke dep",
+      "C": "Loi",
+      "D": "Virus",
+      "dap_an": "A",
+      "giai_thich": "Keo ve bien de gom 1 trang."
+    },
+    {
+      "id": 40,
+      "cau": "Thao tac: Duong xanh trong Break Preview la gi?",
+      "A": "Ran ngat trang",
+      "B": "Duong ke dep",
+      "C": "Loi",
+      "D": "Virus",
+      "dap_an": "A",
+      "giai_thich": "Keo ve bien de gom 1 trang."
+    }
+  ]
+}

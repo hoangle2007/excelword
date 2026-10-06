@@ -1,0 +1,867 @@
+[00:01] Xin cảm ơn các bạn đến với khoa học thích sẽ miễn phí từ cơ bản đến nâng cao
+[00:04] thích sẽ miễn phí từ cơ bản đến nâng cao dành cho người mới bắt đầu được thực
+[00:06] dành cho người mới bắt đầu được thực hiện trên kênh YouTube là Excel bài số
+[00:09] hiện trên kênh YouTube là Excel bài số 21 công thức mạng trước khi bắt đầu vào
+[00:12] 21 công thức mạng trước khi bắt đầu vào bài học số 2 một mình cùng giải bài tập
+[00:14] bài học số 2 một mình cùng giải bài tập số hai mươi hôm trước nhé các bạn sẽ mở
+[00:17] số hai mươi hôm trước nhé các bạn sẽ mở cái câu hỏi của bài số 20 hôm trước lên
+[00:19] cái câu hỏi của bài số 20 hôm trước lên ok Đây là cái dữ liệu Nga yêu cầu là gì
+[00:23] ok Đây là cái dữ liệu Nga yêu cầu là gì ạ Ở đây mình sẽ vẽ hai cái biểu đồ phần
+[00:26] ạ Ở đây mình sẽ vẽ hai cái biểu đồ phần trăm theo các nhà phân phối của từng sản
+[00:28] trăm theo các nhà phân phối của từng sản phẩm và phần trăm theo các cái khu vực
+[00:31] phẩm và phần trăm theo các cái khu vực của từng sản phẩm đấy mình sẽ vẽ hai cái
+[00:33] của từng sản phẩm đấy mình sẽ vẽ hai cái biểu đồ này nhá thì bây giờ các bạn sẽ
+[00:35] biểu đồ này nhá thì bây giờ các bạn sẽ vào cái cùng dữ liệu này để vẽ 2 biểu đồ
+[00:37] vào cái cùng dữ liệu này để vẽ 2 biểu đồ này các bạn làm như sau nhé các bạn sẽ
+[00:40] này các bạn làm như sau nhé các bạn sẽ vào cái thẻ nên sợ này các bạn tạo cái
+[00:42] vào cái thẻ nên sợ này các bạn tạo cái file table Để bạn xem bấm ok thì đây là
+[00:46] file table Để bạn xem bấm ok thì đây là cái vùng dữ liệu web nhé đấy Ở kia là
+[00:49] cái vùng dữ liệu web nhé đấy Ở kia là yêu cầu cho sản phẩm của bạn có thể kéo
+[00:51] yêu cầu cho sản phẩm của bạn có thể kéo cái sản phẩm vào cạo râu đấy và các bạn
+[00:54] cái sản phẩm vào cạo râu đấy và các bạn sẽ kéo doanh thu vào cái ba lưu này sang
+[00:59] sẽ kéo doanh thu vào cái ba lưu này sang đây Các bạn thấy lại đây là yêu
+[01:00] đây Các bạn thấy lại đây là yêu số Viettel cả nhà phân phối mà yêu cầu
+[01:03] số Viettel cả nhà phân phối mà yêu cầu theo khu vực đúng đấy thì đầu tiên mình
+[01:05] theo khu vực đúng đấy thì đầu tiên mình sẽ làm nhà phân phối trước nhá thì có
+[01:07] sẽ làm nhà phân phối trước nhá thì có kéo cái nhà phân phối vào cái cửa sổ
+[01:10] kéo cái nhà phân phối vào cái cửa sổ khác lầm ở đây đấy Sau đó các bạn sẽ vào
+[01:13] khác lầm ở đây đấy Sau đó các bạn sẽ vào cái thẻ Lara Các bạn chọn vay vốn chào
+[01:16] cái thẻ Lara Các bạn chọn vay vốn chào lại mình sẽ chọn cái biểu đồ này nhá Đây
+[01:19] lại mình sẽ chọn cái biểu đồ này nhá Đây là tính biểu đồ thể hiện cái phần sang
+[01:21] là tính biểu đồ thể hiện cái phần sang đây này các bạn xem ok lại thì như vậy
+[01:24] đây này các bạn xem ok lại thì như vậy mình đã được cái biểu đồ kia rồi các bạn
+[01:26] mình đã được cái biểu đồ kia rồi các bạn thì các bạn có thể nhấn chuột phải là
+[01:28] thì các bạn có thể nhấn chuột phải là các bạn chọn 2 ôn Đấy cái phần nhà phân
+[01:33] các bạn chọn 2 ôn Đấy cái phần nhà phân phối vận kéo lên đây Nhá cái này các bạn
+[01:35] phối vận kéo lên đây Nhá cái này các bạn thích người này thôi sẽ con dặm đã lại
+[01:40] thích người này thôi sẽ con dặm đã lại cái nhà phân phối thì em còn kéo rộng ra
+[01:43] cái nhà phân phối thì em còn kéo rộng ra đây lại các bạn sẽ thích vào cái cục địa
+[01:47] đây lại các bạn sẽ thích vào cái cục địa cô sản phẩm lên này các bạn sẽ ấn căn
+[01:49] cô sản phẩm lên này các bạn sẽ ấn căn trước một nhá đầy sau đó mình sẽ ko nhỏ
+[01:52] trước một nhá đầy sau đó mình sẽ ko nhỏ cái ra người lạ nhìn nó đẹp hơn đúng
+[01:55] cái ra người lạ nhìn nó đẹp hơn đúng không đấy thì ok như vậy mình đã xong
+[02:00] không đấy thì ok như vậy mình đã xong những điều này rồi nhé Bây giờ mình sẽ
+[02:02] những điều này rồi nhé Bây giờ mình sẽ làm thêm cho cái phần ở khu vực đúng ạ
+[02:04] làm thêm cho cái phần ở khu vực đúng ạ Đấy thì cách đơn giản thì các bạn sẽ Bôi
+[02:06] Đấy thì cách đơn giản thì các bạn sẽ Bôi đen Cái vùng vai hút này các bạn thích
+[02:07] đen Cái vùng vai hút này các bạn thích một đây sau đó gọi Nhật phải các bạn
+[02:09] một đây sau đó gọi Nhật phải các bạn Coffee để gọn rất xuống đây các bạn sẽ
+[02:12] Coffee để gọn rất xuống đây các bạn sẽ bấm HTV luôn đấy thì nó sẽ tạo một cái
+[02:15] bấm HTV luôn đấy thì nó sẽ tạo một cái vie3t bù mới luôn lại và lúc này mình sẽ
+[02:18] vie3t bù mới luôn lại và lúc này mình sẽ thay cả các bạn sẽ kéo nhà phân phối ra
+[02:19] thay cả các bạn sẽ kéo nhà phân phối ra và mình sẽ kéo cái khu vực đó đây Đấy Và
+[02:24] và mình sẽ kéo cái khu vực đó đây Đấy Và Các bạn hãy chọn để các bạn vào like Các
+[02:26] Các bạn hãy chọn để các bạn vào like Các bạn chọn vibook sạc đấy các bạn sẽ chọn
+[02:29] bạn chọn vibook sạc đấy các bạn sẽ chọn cái đồ ngay nhá OK thì xin nhái được bày
+[02:34] cái đồ ngay nhá OK thì xin nhái được bày với lại các bạn sẽ phải ôm đi Cái này
+[02:38] với lại các bạn sẽ phải ôm đi Cái này còn sẽ thích vào đây này cả mặc áo rộng
+[02:41] còn sẽ thích vào đây này cả mặc áo rộng ra
+[02:42] ra xe tải văng cái iTune này mình rất cả
+[02:44] xe tải văng cái iTune này mình rất cả lên trên nhé á
+[02:47] lên trên nhé á anh giải cảm giải thích ở đây mình sẽ ko
+[02:49] anh giải cảm giải thích ở đây mình sẽ ko cái này xuống đây là khu vực Bắc quanh
+[02:52] cái này xuống đây là khu vực Bắc quanh kéo lên đây à
+[03:02] kéo lên đây à Ừ ok thích thu nhỏ nó này lại cho gọn dễ
+[03:05] Ừ ok thích thu nhỏ nó này lại cho gọn dễ hiểu nhé à
+[03:07] hiểu nhé à ừ ừ
+[03:09] ừ ừ có ai gọi thể tích vào đây các bạn nhảy
+[03:17] có ai gọi thể tích vào đây các bạn nhảy điệu phải các bạn chọn format there are
+[03:19] điệu phải các bạn chọn format there are three mình sẽ con cái này
+[03:21] three mình sẽ con cái này Ông cho rằng cái khuôn lại các bạn thấy
+[03:26] Ông cho rằng cái khuôn lại các bạn thấy cái nào đẹp thì bạn làm nhé Vậy ok như
+[03:30] cái nào đẹp thì bạn làm nhé Vậy ok như vậy Mình vẫn xong cái câu hỏi của bài
+[03:32] vậy Mình vẫn xong cái câu hỏi của bài thứ 20 nhá Bây giờ mình sẽ đóng lại mình
+[03:36] thứ 20 nhá Bây giờ mình sẽ đóng lại mình sẽ vào bài học ngày hôm nay là công thức
+[03:38] sẽ vào bài học ngày hôm nay là công thức mạng nhé các bạn sẽ mở bài hay mốt lên
+[03:41] mạng nhé các bạn sẽ mở bài hay mốt lên nhá mình sẽ bỏ cái bài 21 lên à
+[03:45] nhá mình sẽ bỏ cái bài 21 lên à thì các bạn sẽ tích ở enable editing các
+[03:49] thì các bạn sẽ tích ở enable editing các bạn chú ý mình sẽ đẻ cái link tải file
+[03:51] bạn chú ý mình sẽ đẻ cái link tải file thực hành trong phần mô tả phía dưới
+[03:52] thực hành trong phần mô tả phía dưới video tốt nhất là các bạn tải về các bạn
+[03:55] video tốt nhất là các bạn tải về các bạn vừa theo dõi và thực hành cùng mình nhé
+[03:57] vừa theo dõi và thực hành cùng mình nhé mình cũng bắt đầu vào bài học ngày hôm
+[03:59] mình cũng bắt đầu vào bài học ngày hôm nay thì trong Bài học này Hôm nay mình
+[04:01] nay thì trong Bài học này Hôm nay mình sẽ hướng dẫn các bạn người ví dụ về công
+[04:03] sẽ hướng dẫn các bạn người ví dụ về công thức mạnh từ cơ bản đến nâng cao đầu
+[04:06] thức mạnh từ cơ bản đến nâng cao đầu tiên mình cần hiểu công thức mạng là gì
+[04:08] tiên mình cần hiểu công thức mạng là gì công thức mạng trong Excel là công thức
+[04:10] công thức mạng trong Excel là công thức mà chứa tham chiếu tới các mạng hay cụ
+[04:13] mà chứa tham chiếu tới các mạng hay cụ thể hơn công thức mạng sẽ xử lý nhiều
+[04:15] thể hơn công thức mạng sẽ xử lý nhiều giá trị thay vì một giá trị như công
+[04:18] giá trị thay vì một giá trị như công thức vì sao thông thưởng ở đây giả sử
+[04:20] thức vì sao thông thưởng ở đây giả sử mình có ví dụ thực hiện sản phẩm này số
+[04:22] mình có ví dụ thực hiện sản phẩm này số lượng đơn giá bây giờ mình cần tính tổng
+[04:25] lượng đơn giá bây giờ mình cần tính tổng tiền không ạ Nếu nhưng mà công thức
+[04:27] tiền không ạ Nếu nhưng mà công thức thông thường thì các bạn sẽ bằng thì các
+[04:28] thông thường thì các bạn sẽ bằng thì các bạn sang lấy số lượng các bạn nhân với
+[04:30] bạn sang lấy số lượng các bạn nhân với cả địa nhân với cả đơn giá đấy còn sẽ
+[04:33] cả địa nhân với cả đơn giá đấy còn sẽ enter thì đây là cái công thức thông
+[04:35] enter thì đây là cái công thức thông thường nhá họ sẽ bước vào đây đấy thì
+[04:37] thường nhá họ sẽ bước vào đây đấy thì sau đó Ở đây các bạn sẽ rửa các bạn sẽ
+[04:39] sau đó Ở đây các bạn sẽ rửa các bạn sẽ bằng xong này xong của Tổng ở đây đúng
+[04:41] bằng xong này xong của Tổng ở đây đúng không ạ rồi còn em tơ thì như vậy tổng
+[04:44] không ạ rồi còn em tơ thì như vậy tổng tiền đấy là 8.000
+[04:45] tiền đấy là 8.000 ở trạm thì đây là công thức Excel thông
+[04:48] ở trạm thì đây là công thức Excel thông thường đúng ạ Còn với công thức mạng mẹ
+[04:50] thường đúng ạ Còn với công thức mạng mẹ thì có thể liên lạc với nhau đấy Ở đây
+[04:52] thì có thể liên lạc với nhau đấy Ở đây có bạn sẽ thì các bạn sẽ bằng này các
+[04:54] có bạn sẽ thì các bạn sẽ bằng này các bạn sẽ bằng xong này các bạn tắt nhá thì
+[04:57] bạn sẽ bằng xong này các bạn tắt nhá thì các bạn sẽ lấy là gì thay vì từng giá
+[04:59] các bạn sẽ lấy là gì thay vì từng giá trị nên với nhau thì bạn tham chiếu là
+[05:00] trị nên với nhau thì bạn tham chiếu là gì Các bạn lấy mạng này tức là diện từ
+[05:03] gì Các bạn lấy mạng này tức là diện từ Nivea đến 17 quá nhân với cả diện nhân
+[05:05] Nivea đến 17 quá nhân với cả diện nhân với cả đơn giá là gì từ C3 đến C7 rồi
+[05:08] với cả đơn giá là gì từ C3 đến C7 rồi còn sẽ đóng ngoặc đơn lặng thì đây là
+[05:10] còn sẽ đóng ngoặc đơn lặng thì đây là cái công thức mà tức là gì công thức là
+[05:12] cái công thức mà tức là gì công thức là tham chiếu tới mạng không ạ bình thường
+[05:14] tham chiếu tới mạng không ạ bình thường chỉ là một ô nhiễm với nhau cái đó nhưng
+[05:16] chỉ là một ô nhiễm với nhau cái đó nhưng mà mình Đây là việc một mảnh nên với
+[05:18] mà mình Đây là việc một mảnh nên với nhau mạnh đây là gì từ Nivea đến với
+[05:20] nhau mạnh đây là gì từ Nivea đến với bệnh nhân với cả rẻ Liên lạc từ C3 đến
+[05:22] bệnh nhân với cả rẻ Liên lạc từ C3 đến c70 ạ Ngoài ra để thực hiện công thức
+[05:25] c70 ạ Ngoài ra để thực hiện công thức mạng ấy thì sau khi các bạn Nhập công
+[05:26] mạng ấy thì sau khi các bạn Nhập công thức đi thì các bạn phải giữ phím
+[05:28] thức đi thì các bạn phải giữ phím Control Z rồi các bạn ấn enter nhá Đấy
+[05:31] Control Z rồi các bạn ấn enter nhá Đấy thì như vậy đây là công thức mảng nó sẽ
+[05:34] thì như vậy đây là công thức mảng nó sẽ ra rìa 8198 còn đấy chứ Đấy đúng như Kết
+[05:37] ra rìa 8198 còn đấy chứ Đấy đúng như Kết quả đây là 8198 được đấy thì như vậy Các
+[05:41] quả đây là 8198 được đấy thì như vậy Các bạn thấy cho mình nhá công thức mảng để
+[05:43] bạn thấy cho mình nhá công thức mảng để thực hiện được thì các bạn phải giữ cho
+[05:44] thực hiện được thì các bạn phải giữ cho ship
+[05:45] ship ở ngoài ra thì công thức mạng và sau khi
+[05:48] ở ngoài ra thì công thức mạng và sau khi các bạn ấn cái chương sĩ enter họ sẽ
+[05:50] các bạn ấn cái chương sĩ enter họ sẽ thấy cái công thức mảng nó có cái mỏ
+[05:51] thấy cái công thức mảng nó có cái mỏ nhọn và đóng ngoặc nhọn ở trước và cuối
+[05:54] nhọn và đóng ngoặc nhọn ở trước và cuối cái công thức nhá đấy thì để hiểu với
+[05:57] cái công thức nhá đấy thì để hiểu với công thức này thì các bạn làm như sau
+[05:58] công thức này thì các bạn làm như sau nhé các bạn sẽ thích và Kyo kết quả này
+[06:00] nhé các bạn sẽ thích và Kyo kết quả này các bạn xem vào cái thẻ Fortuner các bạn
+[06:03] các bạn xem vào cái thẻ Fortuner các bạn sẽ chọn cái gì average phong lưu này đấy
+[06:06] sẽ chọn cái gì average phong lưu này đấy thì sau đó các bạn sẽ tích và cái
+[06:07] thì sau đó các bạn sẽ tích và cái average nhá thì nó sẽ giải thích các bạn
+[06:10] average nhá thì nó sẽ giải thích các bạn các bước cụ thể để làm cái việc này nha
+[06:12] các bước cụ thể để làm cái việc này nha qua sự tích ở đây đấy thì nó là gì ạ Nó
+[06:15] qua sự tích ở đây đấy thì nó là gì ạ Nó sẽ nhân với cả điện từ Nivea như C3 đấy
+[06:19] sẽ nhân với cả điện từ Nivea như C3 đấy thì nó sẽ ra là gì 2478 Bạn ấy chứ Thì
+[06:22] thì nó sẽ ra là gì 2478 Bạn ấy chứ Thì cái giá trị đầu tiên là gì 2478 sau đó
+[06:25] cái giá trị đầu tiên là gì 2478 sau đó lại thực hiện là viện nó lấy B4 nhân với
+[06:27] lại thực hiện là viện nó lấy B4 nhân với C4 thì nó lại ra là gì ạ 590 đấy bạn thế
+[06:31] C4 thì nó lại ra là gì ạ 590 đấy bạn thế mà nó cứ tuần tự như vậy nhá và đến các
+[06:34] mà nó cứ tuần tự như vậy nhá và đến các bước cuối cùng là gì đi mày như phê bẩn
+[06:35] bước cuối cùng là gì đi mày như phê bẩn thì nó sẽ ra làm gì 20074 và tổng của 5
+[06:40] thì nó sẽ ra làm gì 20074 và tổng của 5 cái giá trị này lại với nhau thì nó sẽ
+[06:41] cái giá trị này lại với nhau thì nó sẽ ra là địa 8198 này Đấy gọn đấy chứ Kết
+[06:45] ra là địa 8198 này Đấy gọn đấy chứ Kết quả là
+[06:45] quả là U18 các bạn sẽ bấm close thì như vậy
+[06:48] U18 các bạn sẽ bấm close thì như vậy công thức mạng là gì ạ thì nó khác với
+[06:51] công thức mạng là gì ạ thì nó khác với công thức thường là gì công thức thường
+[06:52] công thức thường là gì công thức thường của các bạn là chỉ lấy từng giá trị
+[06:53] của các bạn là chỉ lấy từng giá trị nhiên với nhau còn công thức mảng ấy thì
+[06:56] nhiên với nhau còn công thức mảng ấy thì nó sẽ lấy là mạnh giá trị tức là nó tham
+[06:58] nó sẽ lấy là mạnh giá trị tức là nó tham chiếu đến mạnh nhé một vùng giá trị Ok
+[07:01] chiếu đến mạnh nhé một vùng giá trị Ok thì mình sẽ làm cái ví dụ 2 cho bạn hiểu
+[07:03] thì mình sẽ làm cái ví dụ 2 cho bạn hiểu thêm nhá thì trong ví dụ 2 mình có cái
+[07:06] thêm nhá thì trong ví dụ 2 mình có cái hiện ở đây mình có tất cả là bảng công
+[07:08] hiện ở đây mình có tất cả là bảng công ty từ lãi sang một đến gái cho mày nhá
+[07:10] ty từ lãi sang một đến gái cho mày nhá Đây là doanh thu của năm 2019 đây là
+[07:13] Đây là doanh thu của năm 2019 đây là doanh thu của năm 2020 bây giờ mình cần
+[07:16] doanh thu của năm 2020 bây giờ mình cần tính xem là công ty có tăng trưởng cao
+[07:18] tính xem là công ty có tăng trưởng cao nhất và thấp nhất là bao nhiêu đấy thì
+[07:20] nhất và thấp nhất là bao nhiêu đấy thì vẫy Xe Thông thường thì các bạn hay làm
+[07:22] vẫy Xe Thông thường thì các bạn hay làm như sao Con sẽ bằng Vì ạ Các bạn lấy năm
+[07:24] như sao Con sẽ bằng Vì ạ Các bạn lấy năm 2020 gọn - diễn năm trước là năm 2019
+[07:27] 2020 gọn - diễn năm trước là năm 2019 Các bạn bấm enter đấy Sau đó các bạn lên
+[07:30] Các bạn bấm enter đấy Sau đó các bạn lên đây Bạn thích bút nhé và các bạn sẽ dùng
+[07:32] đây Bạn thích bút nhé và các bạn sẽ dùng cái hàm mắt và min đúng ạ Nếu bạn để
+[07:35] cái hàm mắt và min đúng ạ Nếu bạn để tính cẩm cao nhất của bạn sẽ bằng thì
+[07:36] tính cẩm cao nhất của bạn sẽ bằng thì các bạn sẽ bằng mắt các bạn tương tác
+[07:38] các bạn sẽ bằng mắt các bạn tương tác nhé bác một cái vùng giá trị mà tăng
+[07:41] nhé bác một cái vùng giá trị mà tăng trưởng đây này các bạn enter đấy thì nó
+[07:43] trưởng đây này các bạn enter đấy thì nó sẽ ra 76 đúng không và min thì họ
+[07:45] sẽ ra 76 đúng không và min thì họ anh bằng nhiên các loại tem nhé pin của
+[07:48] anh bằng nhiên các loại tem nhé pin của cái vùng giá trị này thì nó sẽ ra là nó
+[07:51] cái vùng giá trị này thì nó sẽ ra là nó sẽ ra là 42 thì thay vì mình sẽ dùng
+[07:53] sẽ ra là 42 thì thay vì mình sẽ dùng nhiều cái công thức như này thì mình sẽ
+[07:55] nhiều cái công thức như này thì mình sẽ dùng công thức mạng nhá để họ sẽ bằng gì
+[07:57] dùng công thức mạng nhá để họ sẽ bằng gì ạ Các bạn để tính cái giá trị cao nhất
+[07:59] ạ Các bạn để tính cái giá trị cao nhất thì bạn vẫn là dùng hàng hóa đúng ạ Xin
+[08:01] thì bạn vẫn là dùng hàng hóa đúng ạ Xin mở ngoặc đơn gian và Rịa các bạn vững
+[08:03] mở ngoặc đơn gian và Rịa các bạn vững lấy cái mảnh ở đây từng là cái năm 2020
+[08:06] lấy cái mảnh ở đây từng là cái năm 2020 từ C2 đến C8 à các bạn - - năm 2019 là
+[08:11] từ C2 đến C8 à các bạn - - năm 2019 là thứ bê hai đến ba tháng sau đó bạn đó
+[08:13] thứ bê hai đến ba tháng sau đó bạn đó hoặc đơn này lại và các bạn thì nhớ cho
+[08:15] hoặc đơn này lại và các bạn thì nhớ cho mình là các bạn giữ control ship và các
+[08:17] mình là các bạn giữ control ship và các bạn ấn enter nhá Đấy còn thấy chứ nó ra
+[08:20] bạn ấn enter nhá Đấy còn thấy chứ nó ra 76 giống như Kết quả đây rồi đúng ạ thì
+[08:23] 76 giống như Kết quả đây rồi đúng ạ thì tương tự với Hàm Nghi thì bạn cũng làm
+[08:24] tương tự với Hàm Nghi thì bạn cũng làm như vậy thôi các bạn bằng Min các bạn
+[08:26] như vậy thôi các bạn bằng Min các bạn tắt nhé nhưng của mở ngoặc Bạn lấy năm
+[08:29] tắt nhé nhưng của mở ngoặc Bạn lấy năm 2020 - năm 2019 Ở đây các bạn thứ nhát
+[08:33] 2020 - năm 2019 Ở đây các bạn thứ nhát mình phải lấy mạng - mạnh cái là một
+[08:36] mình phải lấy mạng - mạnh cái là một vùng giá trị các bạn trừ cho nhau các
+[08:38] vùng giá trị các bạn trừ cho nhau các bạn đó hoặc đơn ạ Các bạn giữ tiền ship
+[08:40] bạn đó hoặc đơn ạ Các bạn giữ tiền ship và bấm enter đấy thì như vậy giá trị
+[08:42] và bấm enter đấy thì như vậy giá trị thấp nhất là 142 đó giống như Kết quả
+[08:45] thấp nhất là 142 đó giống như Kết quả đây rồi
+[08:45] đây rồi Ừ ok Giả sử mình sẽ thay cái 100 này
+[08:48] Ừ ok Giả sử mình sẽ thay cái 100 này bằng bằng 30 đi các bạn enter thì như
+[08:50] bằng bằng 30 đi các bạn enter thì như vậy Lúc này giá trị thấp nhất lại là 6
+[08:52] vậy Lúc này giá trị thấp nhất lại là 6 và giá trị lớn nhất lại là 63 lấy bạn
+[08:55] và giá trị lớn nhất lại là 63 lấy bạn thấy chứ rất là hai ạ Ok mình sang ví dụ
+[08:59] thấy chứ rất là hai ạ Ok mình sang ví dụ thứ ba là gì ạ Giả sử mình có một cái
+[09:01] thứ ba là gì ạ Giả sử mình có một cái vùng giá trị đây nhá Đây là cái vùng dữ
+[09:03] vùng giá trị đây nhá Đây là cái vùng dữ liệu của mình nhá thì nó là dị nó khóc
+[09:06] liệu của mình nhá thì nó là dị nó khóc có các cô giá trị này có các cô lỗi đây
+[09:08] có các cô giá trị này có các cô lỗi đây là màu trắng công nghiệp gì cả Đây là
+[09:10] là màu trắng công nghiệp gì cả Đây là cái ô ô công thức hoặc bằng miệng bằng
+[09:12] cái ô ô công thức hoặc bằng miệng bằng màu ghép giống hoa kép luôn Và đây là
+[09:14] màu ghép giống hoa kép luôn Và đây là cái ô mà đít không đấy thì mình sẽ có ba
+[09:17] cái ô mà đít không đấy thì mình sẽ có ba cái câu hỏi của cái ví dụ thứ ba này đầu
+[09:19] cái câu hỏi của cái ví dụ thứ ba này đầu tiên là gì mình đến số ôm lỗi này tức là
+[09:23] tiên là gì mình đến số ôm lỗi này tức là gì ở đây sẽ có bao bị lỗi nó này là một
+[09:25] gì ở đây sẽ có bao bị lỗi nó này là một con này là hay và online ngã ba thì mình
+[09:28] con này là hay và online ngã ba thì mình sẽ xem là bao nhiêu bị lỗi không ạ thịt
+[09:30] sẽ xem là bao nhiêu bị lỗi không ạ thịt để xác định được một ô bị lỗi anh không
+[09:32] để xác định được một ô bị lỗi anh không thì con sẽ bằng các bạn sẽ bằng cái hà
+[09:34] thì con sẽ bằng các bạn sẽ bằng cái hà Miss Euro đấy có ấn mũi tên xuống nhá và
+[09:37] Miss Euro đấy có ấn mũi tên xuống nhá và các bạn ứng đáp thì các bạn sẽ thích bảo
+[09:40] các bạn ứng đáp thì các bạn sẽ thích bảo với ô mà mình kiểm tra xem là Oh này nó
+[09:42] với ô mà mình kiểm tra xem là Oh này nó bị lỗi không các bạn enter đây nếu nhưng
+[09:44] bị lỗi không các bạn enter đây nếu nhưng mà không bị lỗi thì nó
+[09:45] mà không bị lỗi thì nó anh lấy kết quả là không ạ Tại vì đây là
+[09:47] anh lấy kết quả là không ạ Tại vì đây là nó hỏi là có lỗi không thì không mà có
+[09:49] nó hỏi là có lỗi không thì không mà có bạn sẽ kéo không đây Thì như vậy là
+[09:51] bạn sẽ kéo không đây Thì như vậy là Thiện những ngôi làng bị lỗi thì nó sẽ
+[09:53] Thiện những ngôi làng bị lỗi thì nó sẽ trả về chung đấy bao này là bị lỗi mà
+[09:55] trả về chung đấy bao này là bị lỗi mà chả biết chụp thì còn chuối nhà ở đây
+[09:57] chả biết chụp thì còn chuối nhà ở đây mình đã nói về chi tiết các cái lỗi
+[09:59] mình đã nói về chi tiết các cái lỗi trong Excel được cái hà Miss Euro này nó
+[10:02] trong Excel được cái hà Miss Euro này nó sẽ bao gồm các lỗi lần diện ở đây nó có
+[10:03] sẽ bao gồm các lỗi lần diện ở đây nó có bảy cái Lỗi cơ bản thì ở trong bài này
+[10:06] bảy cái Lỗi cơ bản thì ở trong bài này mình chỉ ví dụ cho các bạn 3 cái lỗi
+[10:07] mình chỉ ví dụ cho các bạn 3 cái lỗi trong cái tập các lỗi của cái hàng alo
+[10:09] trong cái tập các lỗi của cái hàng alo thôi nhá Đấy thì như vậy Ở đây mình sẽ
+[10:12] thôi nhá Đấy thì như vậy Ở đây mình sẽ dùng cái công thức mạng nhá Đấy có sẽ
+[10:14] dùng cái công thức mạng nhá Đấy có sẽ bằng với ạ Các bạn sẽ bằng cái hàm xong
+[10:16] bằng với ạ Các bạn sẽ bằng cái hàm xong luôn đi các bạn sẽ bằng xong các bạn
+[10:18] luôn đi các bạn sẽ bằng xong các bạn đánh tát nhá xanh của diện cái hà Miss
+[10:20] đánh tát nhá xanh của diện cái hà Miss Euro có ở nguy trên xuống và các bạn tư
+[10:22] Euro có ở nguy trên xuống và các bạn tư pháp thì công thức mạng là địa có bạn
+[10:24] pháp thì công thức mạng là địa có bạn rất tham chiếu luôn đến toàn bộ vùng dữ
+[10:27] rất tham chiếu luôn đến toàn bộ vùng dữ liệu này để thay vì như vừa xong là mình
+[10:29] liệu này để thay vì như vừa xong là mình chỉ tham chiếu đến một ô đúng không ạ
+[10:30] chỉ tham chiếu đến một ô đúng không ạ Các bạn xem đóng ngoặc đơn này ạ Để như
+[10:33] Các bạn xem đóng ngoặc đơn này ạ Để như vậy mình đã xong cái hàng alo còn sẽ
+[10:35] vậy mình đã xong cái hàng alo còn sẽ đóng ngoặc đơn lại để mới xong cái hàng
+[10:36] đóng ngoặc đơn lại để mới xong cái hàng xong Nếu như các bạn giữ cần cho ship mà
+[10:39] xong Nếu như các bạn giữ cần cho ship mà bấm enter thì nó sẽ ra kết quả lỗi đấy
+[10:41] bấm enter thì nó sẽ ra kết quả lỗi đấy bạn với dành cho xíu vậy enter đi đấy
+[10:43] bạn với dành cho xíu vậy enter đi đấy Bạn thấy nhất là nó bằng 0 là lỗi
+[10:45] Bạn thấy nhất là nó bằng 0 là lỗi mà tại sao lại như vậy à còn tính đưa
+[10:47] mà tại sao lại như vậy à còn tính đưa vào đây tại vì cái hàng y Alo này nó sẽ
+[10:50] vào đây tại vì cái hàng y Alo này nó sẽ trả về chua và phô bây giờ mình phải
+[10:52] trả về chua và phô bây giờ mình phải chuyển với Trum và khô lại về Cái kiểu
+[10:54] chuyển với Trum và khô lại về Cái kiểu giá trị uống ạ thì sau cái hàng Alo này
+[10:57] giá trị uống ạ thì sau cái hàng Alo này Đấy tức là cái đóng ngoặc Để xong cái Hà
+[10:59] Đấy tức là cái đóng ngoặc Để xong cái Hà miz alo Có ảnh nhân một còn giữ ship +
+[11:01] miz alo Có ảnh nhân một còn giữ ship + Ân những một đấy Sau đó các bạn hãy giữ
+[11:04] Ân những một đấy Sau đó các bạn hãy giữ cần ship và bấm enter nhá Đấy bạn thấy
+[11:06] cần ship và bấm enter nhá Đấy bạn thấy chưa thì như vậy Kết quả nó sẽ bằng 3
+[11:08] chưa thì như vậy Kết quả nó sẽ bằng 3 đấy Mình phải chuyển cái giá trị Chu phu
+[11:11] đấy Mình phải chuyển cái giá trị Chu phu này việc 011 đấy bằng cách là mình nhân
+[11:13] này việc 011 đấy bằng cách là mình nhân những một các bạn Facebook vào đây đi
+[11:15] những một các bạn Facebook vào đây đi ngoài cái cách như một đi các bạn sẽ xóa
+[11:17] ngoài cái cách như một đi các bạn sẽ xóa như một đi nhé thì một số bạn rồi các
+[11:21] như một đi nhé thì một số bạn rồi các bạn sẽ thêm hai cái gạch ngang ở trước
+[11:24] bạn sẽ thêm hai cái gạch ngang ở trước cái hàm y Alo này thì nó cũng chuyển về
+[11:26] cái hàm y Alo này thì nó cũng chuyển về dạng số đó các bạn giữ quyền trên sheet
+[11:28] dạng số đó các bạn giữ quyền trên sheet lại enter thì nó cũng trả về kết quả là
+[11:30] lại enter thì nó cũng trả về kết quả là ba nhá thì hai cái cách này hoàn toàn
+[11:32] ba nhá thì hai cái cách này hoàn toàn giống nhau thôi đấy các bạn có thể thêm
+[11:33] giống nhau thôi đấy các bạn có thể thêm gì thêm hai cái gạch ngang trước cái Hà
+[11:36] gì thêm hai cái gạch ngang trước cái Hà miz alo này hoặc là gì ạ sau cái hàng y
+[11:39] miz alo này hoặc là gì ạ sau cái hàng y Alo các bạn nhân như một là được nhá Đấy
+[11:41] Alo các bạn nhân như một là được nhá Đấy Ok sang ví dụ tiếp theo là gì mình sẽ
+[11:44] Ok sang ví dụ tiếp theo là gì mình sẽ đến cái chỗ chỗ
+[11:45] đến cái chỗ chỗ anh ở đây mày xóa cái tuần này đi đến
+[11:48] anh ở đây mày xóa cái tuần này đi đến chỗ trống thì con chuối ngự ở đây nó chỉ
+[11:50] chỗ trống thì con chuối ngự ở đây nó chỉ có một ô trống là overlay này thôi đúng
+[11:51] có một ô trống là overlay này thôi đúng ạ tại vì cái ô này nó làm bằng công thức
+[11:53] ạ tại vì cái ô này nó làm bằng công thức làm ở kẹp đó hoặc Ghét luôn thì nó vẫn
+[11:56] làm ở kẹp đó hoặc Ghét luôn thì nó vẫn hiểu là dạng không phải là ô trống đúng
+[11:58] hiểu là dạng không phải là ô trống đúng không Thì để xác định nếu chống lại
+[12:00] không Thì để xác định nếu chống lại không các bạn sẽ dùng cái hàm isblank
+[12:01] không các bạn sẽ dùng cái hàm isblank nha các bạn bằng iblank để gọi đến tác
+[12:04] nha các bạn bằng iblank để gọi đến tác và các bạn thích vào cái ô mà các bạn
+[12:07] và các bạn thích vào cái ô mà các bạn cần kiểm tra đúng không còn nó bằng đơn
+[12:08] cần kiểm tra đúng không còn nó bằng đơn này Các enter nó bằng phone là điện là
+[12:11] này Các enter nó bằng phone là điện là ông rỗng các bạn kéo xuống đấy thì như
+[12:15] ông rỗng các bạn kéo xuống đấy thì như vậy Ở đây là Chu thì có mỗi một ô trống
+[12:17] vậy Ở đây là Chu thì có mỗi một ô trống thôi đúng không cái hành này bằng mở
+[12:20] thôi đúng không cái hành này bằng mở ngoặc kép đổ có ghét gì nó hiểu không
+[12:21] ngoặc kép đổ có ghét gì nó hiểu không phải là ô trống nhé để bạn Xóa đi bây
+[12:25] phải là ô trống nhé để bạn Xóa đi bây giờ để dùng cũng thức mạng các bạn sẽ
+[12:26] giờ để dùng cũng thức mạng các bạn sẽ bằng các bạn cũng dùng những cái vừa
+[12:28] bằng các bạn cũng dùng những cái vừa xong hơn xong thì các bạn thay cái Hà
+[12:30] xong hơn xong thì các bạn thay cái Hà miz Euro bằng điện bằng y Play để gọi
+[12:33] miz Euro bằng điện bằng y Play để gọi được áp và dịu lúc này mình tham chiếu
+[12:35] được áp và dịu lúc này mình tham chiếu không phải là một ô nữa mà một cách mạng
+[12:37] không phải là một ô nữa mà một cách mạng ở đây là tự ô D3 đến B9 các bạn đóng
+[12:40] ở đây là tự ô D3 đến B9 các bạn đóng ngoặc đơn lại để xong cái hàm isblank
+[12:42] ngoặc đơn lại để xong cái hàm isblank đúng không ạ nhân viết một để chuyển về
+[12:44] đúng không ạ nhân viết một để chuyển về dạng số để đoạn
+[12:45] dạng số để đoạn khi đóng ngoặc đơn lại để xong làm xong
+[12:47] khi đóng ngoặc đơn lại để xong làm xong và các bạn giữ tiền ship và bấm enter
+[12:50] và các bạn giữ tiền ship và bấm enter nhé đấy thì như vậy chỗ trống ở đây là
+[12:52] nhé đấy thì như vậy chỗ trống ở đây là một bây giờ ví dụ mình xóa hay bày đi
+[12:55] một bây giờ ví dụ mình xóa hay bày đi các bạn 4minute đi đấy Bạn thấy số chống
+[12:57] các bạn 4minute đi đấy Bạn thấy số chống nó bằng hai mình sẽ lưu lại nhé chết là
+[13:01] nó bằng hai mình sẽ lưu lại nhé chết là gì ạ Nó sẽ yêu cầu mình kiểm tra cái số
+[13:03] gì ạ Nó sẽ yêu cầu mình kiểm tra cái số ô không phải là trống Đúng không các bạn
+[13:05] ô không phải là trống Đúng không các bạn khác với anh thì bạn chú nhá các bạn vẫn
+[13:08] khác với anh thì bạn chú nhá các bạn vẫn là gì à các bạn sẽ bằng cái hàm y blank
+[13:10] là gì à các bạn sẽ bằng cái hàm y blank đúng không ạ tấn pháp này và cái ôm này
+[13:12] đúng không ạ tấn pháp này và cái ôm này gọi m Bây giờ con sẽ kéo xuống đây thì
+[13:17] gọi m Bây giờ con sẽ kéo xuống đây thì bây giờ những cái khuôn này mình phải
+[13:18] bây giờ những cái khuôn này mình phải chuyển về xu nó vào các bạn sẽ tích lũy
+[13:19] chuyển về xu nó vào các bạn sẽ tích lũy về đây mình sẽ thêm với hàng lót nữa Tức
+[13:21] về đây mình sẽ thêm với hàng lót nữa Tức là mình sẽ phủ định nó đúng không Nó các
+[13:23] là mình sẽ phủ định nó đúng không Nó các bạn xác và cao enter đấy thì như vậy là
+[13:27] bạn xác và cao enter đấy thì như vậy là gì ạ Nó sẽ chuyển về chú hết con sẽ mua
+[13:29] gì ạ Nó sẽ chuyển về chú hết con sẽ mua vào đây đấy thì mỗi cái này nó chuyển vô
+[13:31] vào đây đấy thì mỗi cái này nó chuyển vô thôi đúng không đợi thì như vậy Ở đây
+[13:33] thôi đúng không đợi thì như vậy Ở đây mình sẽ bằng gì Các bạn sẽ bằng xong
+[13:35] mình sẽ bằng gì Các bạn sẽ bằng xong tham của mở ngoặc các anh tát nhá xăng
+[13:39] tham của mở ngoặc các anh tát nhá xăng của mở ngoặc các bạn phải trên cái hàng
+[13:40] của mở ngoặc các bạn phải trên cái hàng ngót để các bạn mở ngoặc ra của cái hàm
+[13:43] ngót để các bạn mở ngoặc ra của cái hàm gì isblank các loại Yến
+[13:45] gì isblank các loại Yến It is Black của cái vùng dữ liệu này gái
+[13:48] It is Black của cái vùng dữ liệu này gái gọi Sơn đóng ngoặc đơn lại để song ca is
+[13:50] gọi Sơn đóng ngoặc đơn lại để song ca is blank các loại sân đóng ngoặc đơn lại
+[13:52] blank các loại sân đóng ngoặc đơn lại xong cái hàng lót đúng không và các bạn
+[13:54] xong cái hàng lót đúng không và các bạn Nhân Mỹ một để chuyển nó về dạng số đúng
+[13:56] Nhân Mỹ một để chuyển nó về dạng số đúng không ạ và các bạn nó bác đơn lại để
+[13:58] không ạ và các bạn nó bác đơn lại để xong ra làm xong và các bạn giữ tiền
+[14:00] xong ra làm xong và các bạn giữ tiền ship và bấm enter cho mình nhá Đấy thì
+[14:02] ship và bấm enter cho mình nhá Đấy thì như vậy số ô mà mẹ không trống ở đây là
+[14:05] như vậy số ô mà mẹ không trống ở đây là 6 rất là hay luôn Ví dụ cái blog này
+[14:09] 6 rất là hay luôn Ví dụ cái blog này mình đánh số một rồi đấy nhá thì bọn đấy
+[14:10] mình đánh số một rồi đấy nhá thì bọn đấy chứ số ô gì Ô không chống lại đây là lúc
+[14:12] chứ số ô gì Ô không chống lại đây là lúc này Tháng 7 Và chỗ trống ở đây là bằng
+[14:14] này Tháng 7 Và chỗ trống ở đây là bằng không đấy mẹ lưu lại nhé ví dụ cái U23
+[14:18] không đấy mẹ lưu lại nhé ví dụ cái U23 này mình chuyển thành lỗi đi Ví dụ mình
+[14:20] này mình chuyển thành lỗi đi Ví dụ mình diện mình sẽ bằng 1 chia đó không thì
+[14:22] diện mình sẽ bằng 1 chia đó không thì lỗi này là lỗi ít không có bạn enter này
+[14:24] lỗi này là lỗi ít không có bạn enter này thì lúc này sẽ đổ lỗi nó sẽ tăng lên là
+[14:27] thì lúc này sẽ đổ lỗi nó sẽ tăng lên là thành bốn đấy Ok sang ví dụ thứ tư là gì
+[14:33] thành bốn đấy Ok sang ví dụ thứ tư là gì ạ Ở đây nhá mình có là gì Giả sử mình có
+[14:35] ạ Ở đây nhá mình có là gì Giả sử mình có nhiệm vụ là 5 nhiệm vụ đấy mình có số
+[14:38] nhiệm vụ là 5 nhiệm vụ đấy mình có số ngày hoàn thành và đây là cái phần trăm
+[14:41] ngày hoàn thành và đây là cái phần trăm tiến độ thì bây giờ nói yêu cầu là diện
+[14:43] tiến độ thì bây giờ nói yêu cầu là diện dùng cái công thức mạng để tính là phần
+[14:45] dùng cái công thức mạng để tính là phần số tổng của cái dự án này đấy thì thông
+[14:48] số tổng của cái dự án này đấy thì thông thường để tính cổng hoàn thành của dự án
+[14:50] thường để tính cổng hoàn thành của dự án này các bạn làm như sau các bạn sẽ bằng
+[14:51] này các bạn làm như sau các bạn sẽ bằng các bạn xem lấy cái ngày ở đây này các
+[14:53] các bạn xem lấy cái ngày ở đây này các bạn nhân với cả Thiện Nhân với cả phần
+[14:55] bạn nhân với cả Thiện Nhân với cả phần trăm hoàn thành ở đây gọi enter thì nó
+[14:57] trăm hoàn thành ở đây gọi enter thì nó sẽ ra được số ngày đã thực hiện đúng
+[14:58] sẽ ra được số ngày đã thực hiện đúng không Con sẽ kéo xuống đây đấy Sau đó
+[15:02] không Con sẽ kéo xuống đây đấy Sau đó thì các bạn sẽ tính thì toàn Xứng bà này
+[15:04] thì các bạn sẽ tính thì toàn Xứng bà này Song Song của mở ngoặc ra các bạn lấy
+[15:06] Song Song của mở ngoặc ra các bạn lấy cái số ngày đã thực hiện ở đây để đoạn
+[15:08] cái số ngày đã thực hiện ở đây để đoạn đóng hoặc lại còn chia cho diện chia cho
+[15:10] đóng hoặc lại còn chia cho diện chia cho xem các bạn phát nhé Xong của xuống này
+[15:12] xem các bạn phát nhé Xong của xuống này yêu cầu đây có xem đóng ngoặc lại thì
+[15:15] yêu cầu đây có xem đóng ngoặc lại thì lúc này là diện nó sẽ ra 0.24 thì dựa
+[15:18] lúc này là diện nó sẽ ra 0.24 thì dựa vào cái hôm đi họ sẽ tích phần trăm đấy
+[15:20] vào cái hôm đi họ sẽ tích phần trăm đấy thì lúc này nó hoàn thành là gì hai mươi
+[15:22] thì lúc này nó hoàn thành là gì hai mươi phần trăm này hay 4,05 đấy thì mình sẽ
+[15:26] phần trăm này hay 4,05 đấy thì mình sẽ dùng với công thức lại cho các trường
+[15:27] dùng với công thức lại cho các trường hợp này nhá để họ sẽ bằng với ạ Các bạn
+[15:30] hợp này nhá để họ sẽ bằng với ạ Các bạn vẫn là xong thôi xanh của gì có bạn sẽ
+[15:32] vẫn là xong thôi xanh của gì có bạn sẽ lấy thì cái này ở đây này cái họ sẽ nhân
+[15:35] lấy thì cái này ở đây này cái họ sẽ nhân với cả gì nhân với cả cái phần trong
+[15:37] với cả gì nhân với cả cái phần trong hoàn thành ở đây các bạn xem đóng ngoặc
+[15:39] hoàn thành ở đây các bạn xem đóng ngoặc đơn này để xong em xong đúng không Sao
+[15:41] đơn này để xong em xong đúng không Sao nó còn chia cho thì chia cho xong chưa
+[15:43] nó còn chia cho thì chia cho xong chưa đó xong của liệu của cái xuống này
+[15:45] đó xong của liệu của cái xuống này em yêu cầu đây để qua xem đóng ngoặc đơn
+[15:47] em yêu cầu đây để qua xem đóng ngoặc đơn lại Xong làm xong và các bạn phải giữ
+[15:49] lại Xong làm xong và các bạn phải giữ cần ship và bấm enter nhé đấy còn thấy
+[15:52] cần ship và bấm enter nhé đấy còn thấy chứ Thì lúc này nó ra kết quả 24 chúng
+[15:54] chứ Thì lúc này nó ra kết quả 24 chúng không Nam đấy bạn thấy con rất là hai ạ
+[15:56] không Nam đấy bạn thấy con rất là hai ạ thì các bạn thử nhé với cái trường hợp
+[15:58] thì các bạn thử nhé với cái trường hợp này thì ngoài cái dùng công thức làm gì
+[16:00] này thì ngoài cái dùng công thức làm gì có thể dùng cái làm xong cậu đắng nhá
+[16:02] có thể dùng cái làm xong cậu đắng nhá Đấy thì trong cái này mình đã chỉ cho
+[16:05] Đấy thì trong cái này mình đã chỉ cho các bạn cái hàng xong crack rồi thì các
+[16:07] các bạn cái hàng xong crack rồi thì các bạn có thể tham khảo thêm xanh ví dụ thứ
+[16:11] bạn có thể tham khảo thêm xanh ví dụ thứ năm thì ở đây mình có một cái số bắt đầu
+[16:14] năm thì ở đây mình có một cái số bắt đầu và số Kết thúc đấy Ở đây sẽ có bốn với
+[16:17] và số Kết thúc đấy Ở đây sẽ có bốn với yêu cầu nhỏ là diện tính tập từ cái số
+[16:19] yêu cầu nhỏ là diện tính tập từ cái số bắt đầu đến kết thúc này tính trung bình
+[16:21] bắt đầu đến kết thúc này tính trung bình từ số bắt đầu đến kết thúc và tính số
+[16:23] từ số bắt đầu đến kết thúc và tính số nhỏ nhất và lớn nhất của cái bắt đầu và
+[16:25] nhỏ nhất và lớn nhất của cái bắt đầu và kết thúc ạ Đây thì mình sẽ làm như thế
+[16:28] kết thúc ạ Đây thì mình sẽ làm như thế nào thì với cái nhỏ nhất và lớn nhất thì
+[16:30] nào thì với cái nhỏ nhất và lớn nhất thì thực ra rất là dễ rồi Các bạn có thể
+[16:31] thực ra rất là dễ rồi Các bạn có thể bằng cái nhỏ nhất thì con sẽ tích và số
+[16:33] bằng cái nhỏ nhất thì con sẽ tích và số bắt đầu ở đây thôi đúng không ạ để cái
+[16:34] bắt đầu ở đây thôi đúng không ạ để cái số lớn nhất thì bạn bằng với cả cái kết
+[16:36] số lớn nhất thì bạn bằng với cả cái kết thúc ở đây đấy Thì bây giờ mình sẽ tính
+[16:39] thúc ở đây đấy Thì bây giờ mình sẽ tính tổng của chúng mình như thế nào tính
+[16:41] tổng của chúng mình như thế nào tính tổng của chúng mình được bạn chứ nhà ở
+[16:43] tổng của chúng mình được bạn chứ nhà ở đây mình có một cái hướng dẫn các bạn
+[16:44] đây mình có một cái hướng dẫn các bạn ngừa các
+[16:45] ngừa các cho hàm râu kết hợp với cả Index để các
+[16:49] cho hàm râu kết hợp với cả Index để các bạn sẽ tính được cái chuỗi từ cái số bắt
+[16:51] bạn sẽ tính được cái chuỗi từ cái số bắt đầu và kết thúc đấy thì còn chuối nhát
+[16:53] đầu và kết thúc đấy thì còn chuối nhát ví dụ về A2 là diện là cái bắt đầu và B2
+[16:56] ví dụ về A2 là diện là cái bắt đầu và B2 là kết thúc thì bạn sẽ dùng cái hàm này
+[16:57] là kết thúc thì bạn sẽ dùng cái hàm này với bạn bè sử dụng công thức mặc đấy mà
+[17:00] với bạn bè sử dụng công thức mặc đấy mà tính tổng thì bạn dùng làm sao đúng
+[17:01] tính tổng thì bạn dùng làm sao đúng không để họ sẽ bằng này xong các mở
+[17:05] không để họ sẽ bằng này xong các mở ngoặc nhá thì mình sẽ dùng cái gợi ý ở
+[17:07] ngoặc nhá thì mình sẽ dùng cái gợi ý ở đây thì họ sẽ bằng cái dâu này dâu của
+[17:10] đây thì họ sẽ bằng cái dâu này dâu của mở ngoặc đấy xong là các bạn diện Index
+[17:13] mở ngoặc đấy xong là các bạn diện Index các loại ấn mũi tên xuống và các cảnh
+[17:14] các loại ấn mũi tên xuống và các cảnh cáp nhá thì đầu tiên làm gara xưởng ở
+[17:16] cáp nhá thì đầu tiên làm gara xưởng ở đây là số bắt đầu là A2 đúng không lấy
+[17:18] đây là số bắt đầu là A2 đúng không lấy đoạn và cái gì các bạn và mới cập tức là
+[17:22] đoạn và cái gì các bạn và mới cập tức là các bạn sẽ nối thêm với chuỗi hai chấm
+[17:24] các bạn sẽ nối thêm với chuỗi hai chấm trước cái số bắt đầu và kết thúc ở đây
+[17:26] trước cái số bắt đầu và kết thúc ở đây của các bạn xem mở ngoặc kép ra hai chấm
+[17:28] của các bạn xem mở ngoặc kép ra hai chấm đóng ngoặc kép lại và các bạn già với rẻ
+[17:30] đóng ngoặc kép lại và các bạn già với rẻ và cái kết thúc rồi đây các bạn đó đưa
+[17:32] và cái kết thúc rồi đây các bạn đó đưa lại để xong cái hàng Venus này các bạn
+[17:34] lại để xong cái hàng Venus này các bạn đóng ngoặc đơn lại là xong cách làm dâu
+[17:35] đóng ngoặc đơn lại là xong cách làm dâu chú ạ Các bạn xem đóng ngoặc đơn lại để
+[17:37] chú ạ Các bạn xem đóng ngoặc đơn lại để xong cái hàm xanh đúng không các bạn giữ
+[17:39] xong cái hàm xanh đúng không các bạn giữ tiền ship và bấm enter đấy thì lúc này
+[17:42] tiền ship và bấm enter đấy thì lúc này ra là địa tổng từ 2 đến đến 100 là gì
+[17:46] ra là địa tổng từ 2 đến đến 100 là gì 1049 bây giờ ví dụ mình từ 2 đến 4 thôi
+[17:50] 1049 bây giờ ví dụ mình từ 2 đến 4 thôi nhé đấy thì tức là gì 2 + 3 + 4 Các bạn
+[17:53] nhé đấy thì tức là gì 2 + 3 + 4 Các bạn thấy chứ nó sẽ bằng xin đấy ví dụ 2 đến
+[17:56] thấy chứ nó sẽ bằng xin đấy ví dụ 2 đến 5 nhá thì nó ra kết quả là 14 có thấy
+[17:59] 5 nhá thì nó ra kết quả là 14 có thấy không rất là hai ạ Đấy mình sẽ xem cái
+[18:02] không rất là hai ạ Đấy mình sẽ xem cái công thức này nó hoạt động như thế nào
+[18:03] công thức này nó hoạt động như thế nào nha các bạn sẽ tích ở đây các bạn vào
+[18:05] nha các bạn sẽ tích ở đây các bạn vào thẻ Ford Laser các loại phân tích một
+[18:07] thẻ Ford Laser các loại phân tích một đây để kiểm tra nó chạy từng bước một
+[18:09] đây để kiểm tra nó chạy từng bước một nhá các bạn chửi nha Cái bước mà nó gạch
+[18:12] nhá các bạn chửi nha Cái bước mà nó gạch chân Tức là cái nước nó sẽ chạy này nó
+[18:13] chân Tức là cái nước nó sẽ chạy này nó đang gạch cái số ahh hay đấy này thì nó
+[18:15] đang gạch cái số ahh hay đấy này thì nó sẽ thay A = Giá trị hay đây là họ sẽ
+[18:18] sẽ thay A = Giá trị hay đây là họ sẽ thích đấy Đấy tức là bằng hai đúng không
+[18:19] thích đấy Đấy tức là bằng hai đúng không sau đó nó và nó cả gì cái hai chấm các
+[18:22] sau đó nó và nó cả gì cái hai chấm các bạn thích được đây đấy thì lúc này nó dễ
+[18:24] bạn thích được đây đấy thì lúc này nó dễ gì ạ hay không là hai chấm đấy sau đó sẽ
+[18:27] gì ạ hay không là hai chấm đấy sau đó sẽ tiếp tục là Và với cả Hyo B2 các tích
+[18:30] tiếp tục là Và với cả Hyo B2 các tích vào đây Đấy thì nó làm và năm có ít tiếp
+[18:32] vào đây Đấy thì nó làm và năm có ít tiếp đấy thì như vậy đó là Index của từ 2 đến
+[18:36] đấy thì như vậy đó là Index của từ 2 đến 5 đúng ạ Các bạn sẽ thích một đây đấy
+[18:38] 5 đúng ạ Các bạn sẽ thích một đây đấy thì như vậy cái nourish nó sẽ chuyển cái
+[18:40] thì như vậy cái nourish nó sẽ chuyển cái vùng tham chiếu 2 đến 5 về giá trị này
+[18:43] vùng tham chiếu 2 đến 5 về giá trị này từ 2 đến 5 đấy à
+[18:45] từ 2 đến 5 đấy à ạ sau đó là xong thôi ạ Xong thứ hai đến
+[18:47] ạ sau đó là xong thôi ạ Xong thứ hai đến năm luôn này còn duy nhất cô dâu từ 2
+[18:51] năm luôn này còn duy nhất cô dâu từ 2 đến 5 thì nó sẽ hiểu được điện sẽ tách
+[18:53] đến 5 thì nó sẽ hiểu được điện sẽ tách ra là ai Này ba này 45 để chọn sự tích
+[18:56] ra là ai Này ba này 45 để chọn sự tích vào đây đấy bạn này chứ nó sẽ là xong
+[18:59] vào đây đấy bạn này chứ nó sẽ là xong của 2 3 4 5 các bạn thích mở ra đấy nó
+[19:02] của 2 3 4 5 các bạn thích mở ra đấy nó sẽ ra 14 các bạn lâu lại nhé chỉ ví dụ
+[19:04] sẽ ra 14 các bạn lâu lại nhé chỉ ví dụ đây mình sẽ thành 100 đi đấy còn rất
+[19:07] đây mình sẽ thành 100 đi đấy còn rất thích ở đây được kiểm tra nhé thể chọn
+[19:11] thích ở đây được kiểm tra nhé thể chọn sơn tinh vào đây này thì cuối cùng nó là
+[19:13] sơn tinh vào đây này thì cuối cùng nó là xanh của dâu từ 2 đến 100 đấy còn đấy
+[19:16] xanh của dâu từ 2 đến 100 đấy còn đấy chứ Xong Cô Dâu Thứ 2 đến 100 và nó gửi
+[19:18] chứ Xong Cô Dâu Thứ 2 đến 100 và nó gửi xong của 2 3 4 5 6 đây là đến 100 người
+[19:21] xong của 2 3 4 5 6 đây là đến 100 người con thấy không rất là hay luôn bằng 5049
+[19:25] con thấy không rất là hay luôn bằng 5049 cái Trung bình thì tương tự thôi mình sẽ
+[19:27] cái Trung bình thì tương tự thôi mình sẽ tay xanh vàng Everest nhá lại các bạn sẽ
+[19:29] tay xanh vàng Everest nhá lại các bạn sẽ bằng Everest các loại nút lên xuống và
+[19:32] bằng Everest các loại nút lên xuống và các bạn phương pháp mình sẽ dùng cái
+[19:34] các bạn phương pháp mình sẽ dùng cái hàng thì có bạn sẽ lâu này Các mở ngoặc
+[19:36] hàng thì có bạn sẽ lâu này Các mở ngoặc ra Index các bạn sát này của diện các
+[19:41] ra Index các bạn sát này của diện các bạn sẽ tích và cái ô A2 này các bạn và
+[19:43] bạn sẽ tích và cái ô A2 này các bạn và bây giờ mở kép
+[19:45] bây giờ mở kép a đóng ngoặc kép bạn già mới gì vào cái
+[19:48] a đóng ngoặc kép bạn già mới gì vào cái cái B2 này để gọi sự đóng ngoặc đơn lại
+[19:50] cái B2 này để gọi sự đóng ngoặc đơn lại để sống hàm index các bạn đóng ngoặc đơn
+[19:52] để sống hàm index các bạn đóng ngoặc đơn lại để xong hàm râu và các bạn đó Bắc
+[19:54] lại để xong hàm râu và các bạn đó Bắc đơn lại xong cái hàng Everest các bạn
+[19:56] đơn lại xong cái hàng Everest các bạn giữ truyền cho ship và bấm enter nhá Đấy
+[19:58] giữ truyền cho ship và bấm enter nhá Đấy thì nó sẽ ra là giá trị là 5 mốt mình sẽ
+[20:01] thì nó sẽ ra là giá trị là 5 mốt mình sẽ vào thì hôm đi các bạn sẽ tăng thêm lại
+[20:04] vào thì hôm đi các bạn sẽ tăng thêm lại bây giờ ví dụ mình sẽ cho là từ 1 đến
+[20:06] bây giờ ví dụ mình sẽ cho là từ 1 đến 100 nhé Còn gì chứ Thì lúc này giá trị
+[20:08] 100 nhé Còn gì chứ Thì lúc này giá trị trung bình là gì 50,50 là rất là hay
+[20:11] trung bình là gì 50,50 là rất là hay luôn Ok mình sẽ sang đây ví dụ Thứ Sáu
+[20:16] luôn Ok mình sẽ sang đây ví dụ Thứ Sáu cái ví dụ thứ 6 là gì ở đây mình có hai
+[20:18] cái ví dụ thứ 6 là gì ở đây mình có hai cái trường là trường rủi ro trưởng doanh
+[20:20] cái trường là trường rủi ro trưởng doanh thu và trường biển đúng ạ thì rủi ro có
+[20:23] thu và trường biển đúng ạ thì rủi ro có các mức là gì cao và thấp còi doanh thu
+[20:25] các mức là gì cao và thấp còi doanh thu cũng tương tự nó sẽ có cái mức cao và
+[20:28] cũng tương tự nó sẽ có cái mức cao và thấp và nó sẽ tương ứng ở đây là cái
+[20:30] thấp và nó sẽ tương ứng ở đây là cái điểm nhá thì ở đây mình yêu cầu là việc
+[20:32] điểm nhá thì ở đây mình yêu cầu là việc biển tối đa của các trường hợp nhận rủi
+[20:34] biển tối đa của các trường hợp nhận rủi ro là cao và doanh thu là thấp đúng
+[20:36] ro là cao và doanh thu là thấp đúng không Bây giờ các bạn sẽ vào đây cái rủi
+[20:38] không Bây giờ các bạn sẽ vào đây cái rủi ro là cao đúng không ạ Đấy Doanh thu là
+[20:41] ro là cao đúng không ạ Đấy Doanh thu là diện Doanh thu là thấp đấy vào
+[20:45] diện Doanh thu là thấp đấy vào thời tiết biển tối đa thì như vậy với ba
+[20:48] thời tiết biển tối đa thì như vậy với ba cái giá trị này biển tối đa là bao nhiêu
+[20:49] cái giá trị này biển tối đa là bao nhiêu là 75 đúng không Thì mình phải trả về
+[20:52] là 75 đúng không Thì mình phải trả về kết quả là 75 đấy Còn nếu như mà yêu cầu
+[20:54] kết quả là 75 đấy Còn nếu như mà yêu cầu điểm tối thiểu thì nó phải là thì 6 năm
+[20:56] điểm tối thiểu thì nó phải là thì 6 năm thì ở đây mình sẽ yêu thì ở đây mình sẽ
+[20:58] thì ở đây mình sẽ yêu thì ở đây mình sẽ làm cái việc tối đa nhá khoảng các bạn
+[21:00] làm cái việc tối đa nhá khoảng các bạn các bạn sẽ làm cái gì cái điểm tối thiểu
+[21:02] các bạn sẽ làm cái gì cái điểm tối thiểu cho mình nhé Bây giờ mình sẽ thích còn
+[21:04] cho mình nhé Bây giờ mình sẽ thích còn đây Mình bỏ Kim tôi đi bây giờ bạn sẽ
+[21:09] đây Mình bỏ Kim tôi đi bây giờ bạn sẽ làm nhé các bạn Thủy nhé cái phần công
+[21:13] làm nhé các bạn Thủy nhé cái phần công thức mạng thì mình sẽ không làm được và
+[21:14] thức mạng thì mình sẽ không làm được và cái ô mà mất đâu các bạn không được mới
+[21:16] cái ô mà mất đâu các bạn không được mới nhé bây giờ để tính điểm tối đa đúng
+[21:19] nhé bây giờ để tính điểm tối đa đúng không có họ sẽ phải bằng bằng cái hàng
+[21:21] không có họ sẽ phải bằng bằng cái hàng mắt đấy tại sân mỏng hoặc đưa ra thì là
+[21:23] mắt đấy tại sân mỏng hoặc đưa ra thì là dễ mắc của cái gì Các bạn sử dụng cái Hà
+[21:25] dễ mắc của cái gì Các bạn sử dụng cái Hà mít để mình lấy điều kiện đúng không còn
+[21:27] mít để mình lấy điều kiện đúng không còn sắc màu hoặc lương ra vì ở đây mình dùng
+[21:29] sắc màu hoặc lương ra vì ở đây mình dùng hai cái điều kiện để cho nên các bạn
+[21:31] hai cái điều kiện để cho nên các bạn phải mở ngoặc đơn nữa tại vì cái điều
+[21:34] phải mở ngoặc đơn nữa tại vì cái điều kiện thì sẽ ngăn cách nhau bằng việc bạn
+[21:35] kiện thì sẽ ngăn cách nhau bằng việc bạn ghép nhân giống như cái hàm sang Gold
+[21:37] ghép nhân giống như cái hàm sang Gold đây đấy thì cái biểu thức lôgic nhá thì
+[21:40] đây đấy thì cái biểu thức lôgic nhá thì đầu tiên cái vùng điều kiện thứ nhất là
+[21:42] đầu tiên cái vùng điều kiện thứ nhất là gì Các bạn saponin cái phần rủi ro đây
+[21:44] gì Các bạn saponin cái phần rủi ro đây rất là rẻ từ App
+[21:45] rất là rẻ từ App A11 đúng ạ hoặc bằng điện bằng mở ngoặc
+[21:48] A11 đúng ạ hoặc bằng điện bằng mở ngoặc kép các bạn sẽ ghi lại bằng cam rất là
+[21:50] kép các bạn sẽ ghi lại bằng cam rất là rủi ro cao lại các bạn đóng ngoặc kép
+[21:51] rủi ro cao lại các bạn đóng ngoặc kép lại và các bạn đó mặc đơn lại để xong
+[21:54] lại và các bạn đó mặc đơn lại để xong cái điều kiện thứ nhất nhé Tức là cái
+[21:55] cái điều kiện thứ nhất nhé Tức là cái rủi ro cao không Các bạn sẽ nhân với cả
+[21:57] rủi ro cao không Các bạn sẽ nhân với cả diện ngân mới cả mở ngoặc tôi sẽ bôi đen
+[22:00] diện ngân mới cả mở ngoặc tôi sẽ bôi đen cái nguồn doanh thu ở đây ạ là từ Diva
+[22:02] cái nguồn doanh thu ở đây ạ là từ Diva đến b11 mà bằng bằng Mỏ Két ra là bằng
+[22:06] đến b11 mà bằng bằng Mỏ Két ra là bằng thấp đấy ta sẽ đóng ngoặc kép này lại họ
+[22:10] thấp đấy ta sẽ đóng ngoặc kép này lại họ sẽ đóng ngoặc đơn lại để xong cái cái
+[22:12] sẽ đóng ngoặc đơn lại để xong cái cái biểu thức Điều kiện thứ hai của cái Hà
+[22:14] biểu thức Điều kiện thứ hai của cái Hà mít này đúng ạ Bây giờ bạn sẽ phải thì
+[22:17] mít này đúng ạ Bây giờ bạn sẽ phải thì như vậy là Thiện sau khi mà thỏa mãn cả
+[22:19] như vậy là Thiện sau khi mà thỏa mãn cả hai điều kiện là rủi ro cao và doanh thu
+[22:21] hai điều kiện là rủi ro cao và doanh thu thấp đúng không Thì mình sẽ trả về cái
+[22:23] thấp đúng không Thì mình sẽ trả về cái gì đây là khi pha lê ít Chu mình sẽ trả
+[22:25] gì đây là khi pha lê ít Chu mình sẽ trả lời cái cục C này là cột điểm đúng không
+[22:27] lời cái cục C này là cột điểm đúng không Từ C3 đến C11 đấy các bạn xem đóng ngoặc
+[22:30] Từ C3 đến C11 đấy các bạn xem đóng ngoặc đơn lại để xong cái hàm ít các bạn đóng
+[22:33] đơn lại để xong cái hàm ít các bạn đóng ngoặc đơn lại để song ca mắc đúng không
+[22:34] ngoặc đơn lại để song ca mắc đúng không ạ Và Các Bạn giữ cần ship và bấm enter
+[22:36] ạ Và Các Bạn giữ cần ship và bấm enter đấy thì như vậy là gì ạ Cái biển tối đa
+[22:39] đấy thì như vậy là gì ạ Cái biển tối đa là 75 bây giờ mình sẽ tính cái điểm tối
+[22:42] là 75 bây giờ mình sẽ tính cái điểm tối thiểu thì các bạn khiến tranh mà mi là
+[22:44] thiểu thì các bạn khiến tranh mà mi là được nha các bạn sẽ thích
+[22:45] được nha các bạn sẽ thích em sửa lại các bạn sẽ tay móc khóa mini
+[22:48] em sửa lại các bạn sẽ tay móc khóa mini vì lúc nãy như bằng 62 sao nó có bạn giữ
+[22:51] vì lúc nãy như bằng 62 sao nó có bạn giữ tiền cho ship và bấm enter amin là 65 65
+[22:55] tiền cho ship và bấm enter amin là 65 65 vào mắt là gì mắc là 75 đấy thì ấn độ
+[22:57] vào mắt là gì mắc là 75 đấy thì ấn độ lại nó còn để làm nhé Ok sang ví dụ thứ
+[23:02] lại nó còn để làm nhé Ok sang ví dụ thứ bảy là gì ạ Giả sử đây là cái vùng dữ
+[23:04] bảy là gì ạ Giả sử đây là cái vùng dữ liệu của mình nhá Yêu cầu là diện nó hỏi
+[23:06] liệu của mình nhá Yêu cầu là diện nó hỏi là có bao nhiêu số mà chứa các cái số
+[23:08] là có bao nhiêu số mà chứa các cái số sau đây tức là gì ạ Đây là các cái số mà
+[23:11] sau đây tức là gì ạ Đây là các cái số mà mình cần đến làng 1257 đúng không Mình
+[23:13] mình cần đến làng 1257 đúng không Mình sẽ đến toàn bộ trong cái vùng dữ liệu
+[23:15] sẽ đến toàn bộ trong cái vùng dữ liệu này bao nhiêu số là diện là 1 2 và 5 và
+[23:18] này bao nhiêu số là diện là 1 2 và 5 và 7 đúng không đấy thì ở đây kết quả là 16
+[23:21] 7 đúng không đấy thì ở đây kết quả là 16 nhá bữa nay ví dụ là một này cạo dưới
+[23:24] nhá bữa nay ví dụ là một này cạo dưới càng trôi một này hay này cứ thấy 1257
+[23:26] càng trôi một này hay này cứ thấy 1257 thì bạn sẽ Bôi đen này và rõ sẽ đến tổng
+[23:29] thì bạn sẽ Bôi đen này và rõ sẽ đến tổng là bao nhiêu đúng không Đấy tất cả nó sẽ
+[23:30] là bao nhiêu đúng không Đấy tất cả nó sẽ ra 16 bây giờ mình sẽ thử hết các bạn
+[23:33] ra 16 bây giờ mình sẽ thử hết các bạn cái công thức mạng nhé đấy nếu như mà
+[23:35] cái công thức mạng nhé đấy nếu như mà các bạn dùng cái hàm cao ít bình thường
+[23:37] các bạn dùng cái hàm cao ít bình thường thì nó chỉ đến một điều kiện là theo ông
+[23:38] thì nó chỉ đến một điều kiện là theo ông này thôi đúng không nó không thể Đếm
+[23:40] này thôi đúng không nó không thể Đếm ngược cho cái vùng điều kiện này cho nên
+[23:42] ngược cho cái vùng điều kiện này cho nên mình phải dùng công thức mạng đấy thì
+[23:45] mình phải dùng công thức mạng đấy thì mình sẽ làm
+[23:45] mình sẽ làm khoa học cao nhé để có lẫn tạp thì con
+[23:49] khoa học cao nhé để có lẫn tạp thì con thứ nhất cái hàm cao này nó chỉ đến cái
+[23:50] thứ nhất cái hàm cao này nó chỉ đến cái ô mà chứa giá trị số cho nó vào ví dụ
+[23:52] ô mà chứa giá trị số cho nó vào ví dụ Bôi đen toàn bộ vùng dữ liệu này đi các
+[23:54] Bôi đen toàn bộ vùng dữ liệu này đi các bạn enter đấy thì cái hàng cao nó sẽ trả
+[23:56] bạn enter đấy thì cái hàng cao nó sẽ trả về là 44 đúng không đấy bạn sẽ thích nó
+[23:58] về là 44 đúng không đấy bạn sẽ thích nó vào đây mình sẽ sửa nhé Ở đây không phải
+[24:00] vào đây mình sẽ sửa nhé Ở đây không phải là cao của cái này đâu con sẽ mở ngoặc
+[24:02] là cao của cái này đâu con sẽ mở ngoặc ra đấy Cao cái gì mình sẽ dùng cái kem
+[24:04] ra đấy Cao cái gì mình sẽ dùng cái kem ít đúng không em mình theo điều kiện mà
+[24:07] ít đúng không em mình theo điều kiện mà ít nếu như mà gì mình sẽ dùng cái Hà mát
+[24:10] ít nếu như mà gì mình sẽ dùng cái Hà mát nét để cái hành Tìm kiếm nhé mình tìm
+[24:13] nét để cái hành Tìm kiếm nhé mình tìm kiếm cái gì mình tìm kiếm toàn bộ cái
+[24:14] kiếm cái gì mình tìm kiếm toàn bộ cái vùng dữ liệu này đúng ạ Phải cái lúc up
+[24:18] vùng dữ liệu này đúng ạ Phải cái lúc up Đây là điện lúc cấp là mình đến cái vùng
+[24:20] Đây là điện lúc cấp là mình đến cái vùng dữ liệu ở đây là từ G2 đến gần em lúc
+[24:22] dữ liệu ở đây là từ G2 đến gần em lúc khác phải mình tìm chính xác sẽ là không
+[24:24] khác phải mình tìm chính xác sẽ là không đúng ạ Các bạn sẽ nó hoặc đơn lại đấy
+[24:26] đúng ạ Các bạn sẽ nó hoặc đơn lại đấy thì như vậy Ở đây là diện cái hạt mát
+[24:28] thì như vậy Ở đây là diện cái hạt mát này vừa hay gram ở đây là cái vùng dữ
+[24:31] này vừa hay gram ở đây là cái vùng dữ liệu Tức là cái mảnh chứ không phải là
+[24:32] liệu Tức là cái mảnh chứ không phải là mô bình thường không đấy nếu như cả mét
+[24:35] mô bình thường không đấy nếu như cả mét này mà diện mà lớn đúng không Tức là nó
+[24:37] này mà diện mà lớn đúng không Tức là nó tìm thấy thì nó sẽ trả về cái cả lớn
+[24:39] tìm thấy thì nó sẽ trả về cái cả lớn không không đấy thì gọi cho xong cái
+[24:42] không không đấy thì gọi cho xong cái biểu thức lôgic nha bạn sẽ phải Nếu như
+[24:44] biểu thức lôgic nha bạn sẽ phải Nếu như mà tìm thấy thì các bạn xem
+[24:45] mà tìm thấy thì các bạn xem thế này cách là mình chỉ quan tâm những
+[24:47] thế này cách là mình chỉ quan tâm những cái ông tìm thấy thôi đúng không có họ
+[24:50] cái ông tìm thấy thôi đúng không có họ sẽ đóng ngoặc đơn lại Để sau khi làm ít
+[24:51] sẽ đóng ngoặc đơn lại Để sau khi làm ít đấy các bạn đóng ngoặc đơn lại được xong
+[24:53] đấy các bạn đóng ngoặc đơn lại được xong làm cao và các bạn giữ tiền ship vào bấm
+[24:55] làm cao và các bạn giữ tiền ship vào bấm men tôi nhá Đấy còn thấy chứ nó sẽ trả
+[24:58] men tôi nhá Đấy còn thấy chứ nó sẽ trả về cái khoảng 16 Bây giờ con sẽ mới đây
+[25:01] về cái khoảng 16 Bây giờ con sẽ mới đây nhá mình vào cái file này các bạn sẽ
+[25:03] nhá mình vào cái file này các bạn sẽ tính vào đây là mình kiểm tra từng bước
+[25:05] tính vào đây là mình kiểm tra từng bước một nhá đầu tiên là diện nó sẽ thực hiện
+[25:09] một nhá đầu tiên là diện nó sẽ thực hiện cái hàng mét này nhá Đấy bạn sẽ thích ở
+[25:11] cái hàng mét này nhá Đấy bạn sẽ thích ở đây này chưa thi là diện nó đến tất cả
+[25:15] đây này chưa thi là diện nó đến tất cả các vùng dữ liệu này cứ thấy bất kỳ số 1
+[25:17] các vùng dữ liệu này cứ thấy bất kỳ số 1 hoặc số 2 hoặc số 5 hoặc thứ Bảy thì nó
+[25:19] hoặc số 2 hoặc số 5 hoặc thứ Bảy thì nó sẽ đến mày còn thấy đầu tiên này một đây
+[25:23] sẽ đến mày còn thấy đầu tiên này một đây là northern blot đây là số một cái bạn
+[25:26] là northern blot đây là số một cái bạn thấy chưa 100 không phải bốn không phải
+[25:27] thấy chưa 100 không phải bốn không phải 10 không phải sóng và 94 không phải đến
+[25:30] 10 không phải sóng và 94 không phải đến với số một này thì nó mới tìm thấy lại
+[25:32] với số một này thì nó mới tìm thấy lại cái số một ngày tương ứng với số 1 đến
+[25:34] cái số một ngày tương ứng với số 1 đến đây đúng không tiếp theo là gì nó sẽ tìm
+[25:36] đây đúng không tiếp theo là gì nó sẽ tìm được cái số một này là tôi không biết số
+[25:38] được cái số một này là tôi không biết số 1 Đó đây đấy tiếp theo là gì Số 2 đây số
+[25:41] 1 Đó đây đấy tiếp theo là gì Số 2 đây số 2 đây Đấy nó cứ tìm Như Vậy Nhé lại
+[25:45] 2 đây Đấy nó cứ tìm Như Vậy Nhé lại đi đái chọn ý tiếp vào đây này Nó sẽ trả
+[25:49] đi đái chọn ý tiếp vào đây này Nó sẽ trả về là 16 đấy Ok sang ví dụ thứ tán là gì
+[25:54] về là 16 đấy Ok sang ví dụ thứ tán là gì ạ Mình ở đây mình có một cái số mình
+[25:56] ạ Mình ở đây mình có một cái số mình nhập vào nhé Bây giờ là yêu cầu là việc
+[25:58] nhập vào nhé Bây giờ là yêu cầu là việc tính tổng các chữ số đúng không Thì
+[26:00] tính tổng các chữ số đúng không Thì trong cái ví dụ này nó sẽ tính tổng là
+[26:02] trong cái ví dụ này nó sẽ tính tổng là năm này + 6 + 5 thì nó sẽ ra là 16 đấy
+[26:05] năm này + 6 + 5 thì nó sẽ ra là 16 đấy và thứ hai là địa tổng các giá trị từ M
+[26:09] và thứ hai là địa tổng các giá trị từ M đến n Thì cái này nó giống như một cái
+[26:11] đến n Thì cái này nó giống như một cái ví dụ trước mình đã làm rồi đúng không
+[26:12] ví dụ trước mình đã làm rồi đúng không đấy Hình như là cái ví dụ thứ năm đấy
+[26:16] đấy Hình như là cái ví dụ thứ năm đấy Đây là tổng từ cái đầu đến cái kết thúc
+[26:18] Đây là tổng từ cái đầu đến cái kết thúc đấy thì trong cái ví dụ thứ 8 này mình
+[26:21] đấy thì trong cái ví dụ thứ 8 này mình chỉ làm cái phần này nó nhé Cái này thì
+[26:22] chỉ làm cái phần này nó nhé Cái này thì nó giống như cái ví dụ tiếng năm nữa bây
+[26:24] nó giống như cái ví dụ tiếng năm nữa bây giờ cái quy tắc của mình là diện mình sẽ
+[26:27] giờ cái quy tắc của mình là diện mình sẽ dùng cái Hàn mix đồ đúng không Mình sẽ
+[26:29] dùng cái Hàn mix đồ đúng không Mình sẽ dùng cam hết đồ để mình tách từng Cái ô
+[26:30] dùng cam hết đồ để mình tách từng Cái ô này ra và kết hợp với cả cái gì cái hàm
+[26:33] này ra và kết hợp với cả cái gì cái hàm râu vậy hàng interact đúng không cái
+[26:35] râu vậy hàng interact đúng không cái hành dâu và Indonesia thì nó sẽ tách
+[26:37] hành dâu và Indonesia thì nó sẽ tách được ra thành từng các phần tử của cái
+[26:39] được ra thành từng các phần tử của cái mặt đúng không và cái Hàm Nghi đồ nó sẽ
+[26:42] mặt đúng không và cái Hàm Nghi đồ nó sẽ lấy một ký tự thế nào nó sẽ lấy tuần tự
+[26:44] lấy một ký tự thế nào nó sẽ lấy tuần tự từng các phần tử một cục
+[26:45] từng các phần tử một cục thì các bạn sẽ bằng đấy ạ bằng các bạn
+[26:50] thì các bạn sẽ bằng đấy ạ bằng các bạn sử dụng để làm sao đúng không xanh là
+[26:51] sử dụng để làm sao đúng không xanh là tính tổng rồi đúng ạ Các bạn sẽ dùng cái
+[26:53] tính tổng rồi đúng ạ Các bạn sẽ dùng cái Hàm Nghi đồ mix đồ của gì cái tách thì
+[26:57] Hàm Nghi đồ mix đồ của gì cái tách thì vẫn là cái số này đúng không đấy thì bây
+[26:59] vẫn là cái số này đúng không đấy thì bây giờ cái số này mình sẽ tách ra từng cái
+[27:01] giờ cái số này mình sẽ tách ra từng cái phần tử một đúng không còn phải này thì
+[27:04] phần tử một đúng không còn phải này thì cái start number là gì ạ thì cái sát
+[27:06] cái start number là gì ạ thì cái sát number là gì mình sẽ dùng cái hàm râu và
+[27:08] number là gì mình sẽ dùng cái hàm râu và hàm hàm index đúng không Để bạn sẽ dùng
+[27:11] hàm hàm index đúng không Để bạn sẽ dùng cái hàm râu gạo sức mở ngoặc đưa ra các
+[27:14] cái hàm râu gạo sức mở ngoặc đưa ra các bạn sử dụng cách hành integrex gọi đến
+[27:16] bạn sử dụng cách hành integrex gọi đến Tab nhá Thì cái Internet là dễ tăng sẽ
+[27:18] Tab nhá Thì cái Internet là dễ tăng sẽ mở ngoặc kép ra các bạn sẽ bắt đầu từ ký
+[27:21] mở ngoặc kép ra các bạn sẽ bắt đầu từ ký tự đầu tiên của một này sau đó bạn hai
+[27:23] tự đầu tiên của một này sau đó bạn hai chấm đấy nếu như mà thông thường thì bạn
+[27:26] chấm đấy nếu như mà thông thường thì bạn sẽ nhập số 3 vào đây thì nó sẽ là một
+[27:28] sẽ nhập số 3 vào đây thì nó sẽ là một trong là 2 và 3 đấy thì hàm mix đồ là
+[27:31] trong là 2 và 3 đấy thì hàm mix đồ là diện nó sẽ lấy cái ô này và nó sẽ lấy
+[27:33] diện nó sẽ lấy cái ô này và nó sẽ lấy bắt đầu từ cái ký tự một cái thứ hai thứ
+[27:35] bắt đầu từ cái ký tự một cái thứ hai thứ ba đúng không Thì nó sẽ tách ra thành
+[27:37] ba đúng không Thì nó sẽ tách ra thành được từ thứ tự 1 đấy đấy Nhưng mà mình
+[27:39] được từ thứ tự 1 đấy đấy Nhưng mà mình sẽ không dùng cái số ba đây tại vì là dễ
+[27:41] sẽ không dùng cái số ba đây tại vì là dễ cái số này mình sẽ nhập từ ngoài vào
+[27:43] cái số này mình sẽ nhập từ ngoài vào đúng không sao nên chọn sẽ nó hoặc ghép
+[27:44] đúng không sao nên chọn sẽ nó hoặc ghép lại và có
+[27:45] lại và có các bạn sử dụng với Hà Lan gen của mở
+[27:48] các bạn sử dụng với Hà Lan gen của mở ngoặc bằng diện của cái thì Cái ô này là
+[27:50] ngoặc bằng diện của cái thì Cái ô này là ba thứ tự có và sẽ đóng ngoặc đơn lại để
+[27:52] ba thứ tự có và sẽ đóng ngoặc đơn lại để xong hàng Nem các bạn xem đó hoặc đường
+[27:54] xong hàng Nem các bạn xem đó hoặc đường này để xong hàm index Họ sẽ đóng ngoặc
+[27:56] này để xong hàm index Họ sẽ đóng ngoặc đơn lại để xong cái hàm râu đúng không
+[27:58] đơn lại để xong cái hàm râu đúng không Đấy như vậy mình nó xong cái stab nhé
+[28:01] Đấy như vậy mình nó xong cái stab nhé nếu như ngô này có bốn số thì cái len nó
+[28:03] nếu như ngô này có bốn số thì cái len nó sẽ trả về bốn thì nó sẽ tách ra là diệt
+[28:05] sẽ trả về bốn thì nó sẽ tách ra là diệt 1234 để cho lên cái xe grab Nó sẽ thay
+[28:08] 1234 để cho lên cái xe grab Nó sẽ thay đổi để mục đích của mình là riêng mình
+[28:10] đổi để mục đích của mình là riêng mình sẽ tách một ký tự mà cho nên kết bạn
+[28:11] sẽ tách một ký tự mà cho nên kết bạn đang bờ nó sẽ dịch từng cái thứ tự một
+[28:13] đang bờ nó sẽ dịch từng cái thứ tự một Đúng không Lấy phải và mình sẽ lấy 1 ký
+[28:15] Đúng không Lấy phải và mình sẽ lấy 1 ký tự của cái hàng Little các bạn sẽ đóng
+[28:17] tự của cái hàng Little các bạn sẽ đóng ngoặc lại để xong Hàm Nghi đồ đúng không
+[28:19] ngoặc lại để xong Hàm Nghi đồ đúng không ạ Bây giờ các bạn thấy nhân một để nó
+[28:22] ạ Bây giờ các bạn thấy nhân một để nó chuyển về dạng trạng số này nếu như bạn
+[28:24] chuyển về dạng trạng số này nếu như bạn không nên mới một nha các bạn sẽ thì các
+[28:26] không nên mới một nha các bạn sẽ thì các bạn tôi đóng ngoặc đơn này để xong làm
+[28:27] bạn tôi đóng ngoặc đơn này để xong làm xong đi Bạn giữ tiền ship mọi enter đấy
+[28:30] xong đi Bạn giữ tiền ship mọi enter đấy nó sẽ trả lời Không ai bây giờ còn Sơn
+[28:32] nó sẽ trả lời Không ai bây giờ còn Sơn F2 thì gì ạ thì sau cái hàng mix đồ này
+[28:35] F2 thì gì ạ thì sau cái hàng mix đồ này lại các bạn phải nhân một và các bạn bên
+[28:37] lại các bạn phải nhân một và các bạn bên đó mặc đưa lại để xong cái hình xăm đúng
+[28:38] đó mặc đưa lại để xong cái hình xăm đúng không để chọn giữa tình thương ship ở
+[28:40] không để chọn giữa tình thương ship ở nhà thơ thì lúc này nó sẽ trả về cái
+[28:42] nhà thơ thì lúc này nó sẽ trả về cái khoảng 16 bây giờ mình xem với công thức
+[28:44] khoảng 16 bây giờ mình xem với công thức này nó hoạt động như thế nào nhé
+[28:45] này nó hoạt động như thế nào nhé cô còn xác định về đây thì đầu tiên là
+[28:47] cô còn xác định về đây thì đầu tiên là gì nó sẽ kiểm tra cái B3 này họ rất
+[28:50] gì nó sẽ kiểm tra cái B3 này họ rất thích bọn em về luyết đấy thì B3 là bằng
+[28:52] thích bọn em về luyết đấy thì B3 là bằng 565 bây giờ nó xét diện led của Ova thì
+[28:55] 565 bây giờ nó xét diện led của Ova thì đầu tiên nó sẽ tính B3 trước này Đấy là
+[28:58] đầu tiên nó sẽ tính B3 trước này Đấy là gì 565 bây giờ nó sẽ tính tiếp là cái độ
+[29:00] gì 565 bây giờ nó sẽ tính tiếp là cái độ dài của 565 là ba thứ tự đúng không đấy
+[29:03] dài của 565 là ba thứ tự đúng không đấy thì như vậy cái hàm index sẽ trả về lại
+[29:05] thì như vậy cái hàm index sẽ trả về lại từ một đến ba này còn tích vào đây Đấy
+[29:08] từ một đến ba này còn tích vào đây Đấy nó sẽ trả về từ một đến ba bây giờ cái
+[29:10] nó sẽ trả về từ một đến ba bây giờ cái hàm index nó sẽ chuyển về 13 số bình
+[29:12] hàm index nó sẽ chuyển về 13 số bình thường thấy một đến ba thì cái hàm râu
+[29:15] thường thấy một đến ba thì cái hàm râu này nó sẽ chuyển về thành 12 mà ba cho
+[29:18] này nó sẽ chuyển về thành 12 mà ba cho nên các ký tự bắt đầu của cái hàng mix
+[29:20] nên các ký tự bắt đầu của cái hàng mix đồ này nó sẽ dịch từ thứ tự một đúng
+[29:22] đồ này nó sẽ dịch từ thứ tự một đúng không lại bạn thấy chứ nó sẽ là 1 2 và 3
+[29:26] không lại bạn thấy chứ nó sẽ là 1 2 và 3 thì đầu tiên là một thì nó sẽ lấy năm
+[29:28] thì đầu tiên là một thì nó sẽ lấy năm này đến 2 thì nó sẽ lấy Sáu và đến ba là
+[29:31] này đến 2 thì nó sẽ lấy Sáu và đến ba là nó sẽ đến năm đấy nó sẽ lấy tách được từ
+[29:33] nó sẽ đến năm đấy nó sẽ lấy tách được từ khí tự một đấy đoạn này chứ sẽ tách từng
+[29:36] khí tự một đấy đoạn này chứ sẽ tách từng ý một là năm sáu và năm đấy Bây giờ mình
+[29:38] ý một là năm sáu và năm đấy Bây giờ mình sẽ phải nhân ngồi Tại vì đây là cái tách
+[29:40] sẽ phải nhân ngồi Tại vì đây là cái tách này chọn chủ nhân nó là tách thì cảm thể
+[29:43] này chọn chủ nhân nó là tách thì cảm thể chuyển về số bằng cách cả bạn nhân với
+[29:44] chuyển về số bằng cách cả bạn nhân với một đấy
+[29:45] một đấy ở đây nó sẽ ra là 565 khác xem chi tiết
+[29:49] ở đây nó sẽ ra là 565 khác xem chi tiết này nó sẽ ra cái khoảng 16 bây giờ ví dụ
+[29:52] này nó sẽ ra cái khoảng 16 bây giờ ví dụ mình thích là điện 12341234 lấy kết quả
+[29:55] mình thích là điện 12341234 lấy kết quả là xem bằng 10 đấu 11 + 2 + 3 + 4 chia
+[29:57] là xem bằng 10 đấu 11 + 2 + 3 + 4 chia bằng mười là rất là hai ví dụ 23456789
+[30:02] bằng mười là rất là hai ví dụ 23456789 Cẩm từng ngày nó sẽ ra đi 44 đã rất là
+[30:05] Cẩm từng ngày nó sẽ ra đi 44 đã rất là hay luôn Ok xanh thấy dự thứ 9 là gì đây
+[30:10] hay luôn Ok xanh thấy dự thứ 9 là gì đây là cái tên nhá thì con thứ nhất tên thì
+[30:13] là cái tên nhá thì con thứ nhất tên thì nó sẽ cùng nhau đó bằng ví dụ gái xe này
+[30:14] nó sẽ cùng nhau đó bằng ví dụ gái xe này có gái xe này Thóc thì có 10 sao gạ thì
+[30:17] có gái xe này Thóc thì có 10 sao gạ thì có một em ở đây lại có hai đấy thì yêu
+[30:21] có một em ở đây lại có hai đấy thì yêu cầu của mình là dễ mình phải lọc được
+[30:22] cầu của mình là dễ mình phải lọc được cái danh sách duy nhất đấy thì mình làm
+[30:24] cái danh sách duy nhất đấy thì mình làm như thế nào thì các Thúy Nga trong các
+[30:27] như thế nào thì các Thúy Nga trong các ví dụ thứ 9 mình đã làm các bạn rồi
+[30:29] ví dụ thứ 9 mình đã làm các bạn rồi nhưng bây giờ mình sẽ giải thích luôn
+[30:29] nhưng bây giờ mình sẽ giải thích luôn cho các bạn nhé bởi vì cái này nó cũng
+[30:31] cho các bạn nhé bởi vì cái này nó cũng khá là phức tạp thì các bạn sẽ về nhà
+[30:33] khá là phức tạp thì các bạn sẽ về nhà quá tìm hiểu thêm nhé mình sẽ giải thích
+[30:35] quá tìm hiểu thêm nhé mình sẽ giải thích từ cái phần rơm này đi cho các bạn dễ
+[30:37] từ cái phần rơm này đi cho các bạn dễ hiểu này Tại sao lại Giải thích từ phần
+[30:39] hiểu này Tại sao lại Giải thích từ phần rơm nhá Tại vì từ cái lớp này nó mới có
+[30:41] rơm nhá Tại vì từ cái lớp này nó mới có trùng nhau đúng không sau kem đây này
+[30:43] trùng nhau đúng không sau kem đây này sau bốn cái phần tử này là chưa
+[30:45] sau bốn cái phần tử này là chưa ý đến các phần tử thứ năm là gái Seo
+[30:48] ý đến các phần tử thứ năm là gái Seo trùng nhau thì nó không lấy đúng không
+[30:49] trùng nhau thì nó không lấy đúng không đến kem trùng nhau thì nó cũng không lấy
+[30:51] đến kem trùng nhau thì nó cũng không lấy vào nó sẽ lấy đến cái rương này cho nên
+[30:53] vào nó sẽ lấy đến cái rương này cho nên mình sẽ tích vào đây được mình giải
+[30:54] mình sẽ tích vào đây được mình giải thích cho các bạn này Đấy mình rất thích
+[30:56] thích cho các bạn này Đấy mình rất thích với anh nhá để mình giải thích từ Cái
+[30:58] với anh nhá để mình giải thích từ Cái câu lệnh một số bạn hiểu cái hàng này
+[31:00] câu lệnh một số bạn hiểu cái hàng này thì đầu tiên là diện nó sẽ đến cao ít
+[31:02] thì đầu tiên là diện nó sẽ đến cao ít của gì từ C2 đến C6 bạ từ 33 đến A9 đúng
+[31:07] của gì từ C2 đến C6 bạ từ 33 đến A9 đúng không Tức là thiện Nếu như mà đang ở rơm
+[31:09] không Tức là thiện Nếu như mà đang ở rơm là cái ô C7 đúng không Thì nó sẽ đến từ
+[31:12] là cái ô C7 đúng không Thì nó sẽ đến từ C2 đến C6 lại tức là nó sẽ đến trước đấy
+[31:15] C2 đến C6 lại tức là nó sẽ đến trước đấy nó đến những cái danh sách mà cái tên
+[31:17] nó đến những cái danh sách mà cái tên trước đấy mà nó đã có rồi nhá trong cái
+[31:20] trước đấy mà nó đã có rồi nhá trong cái gì trong AOE 3 đã chí này đấy có những
+[31:23] gì trong AOE 3 đã chí này đấy có những cái gì về chọn phân tích một đây để cao
+[31:25] cái gì về chọn phân tích một đây để cao ít là 11 và nó sẽ đặt không đúng không
+[31:28] ít là 11 và nó sẽ đặt không đúng không Thì cái không này chính là diện chính là
+[31:30] Thì cái không này chính là diện chính là rơm thì nó mới không có con gà này có
+[31:32] rơm thì nó mới không có con gà này có rồi đúng không gà có rồi thì mà một kem
+[31:34] rồi đúng không gà có rồi thì mà một kem có người cũng mặc một tất cả là có rồi
+[31:36] có người cũng mặc một tất cả là có rồi chỉ còn phải ông Rơm này là chưa có đấy
+[31:38] chỉ còn phải ông Rơm này là chưa có đấy thì nó sẽ trả về kết quả không Ở cuối
+[31:40] thì nó sẽ trả về kết quả không Ở cuối cùng ông Rơm ở đây đúng không Đây bây
+[31:42] cùng ông Rơm ở đây đúng không Đây bây giờ nó lại mát mát của không và không
+[31:45] giờ nó lại mát mát của không và không Ừ thì nó sẽ ra kết quả là 7 này đúng
+[31:47] Ừ thì nó sẽ ra kết quả là 7 này đúng không nét của không trong cái cái cái ô
+[31:50] không nét của không trong cái cái cái ô này còn thích rồi đấy thì nó sẽ ra là
+[31:52] này còn thích rồi đấy thì nó sẽ ra là cái quả bóng bẩy và cái hàm index của
+[31:54] cái quả bóng bẩy và cái hàm index của bảy thì nó sẽ trả về rơm đúng không
+[31:56] bảy thì nó sẽ trả về rơm đúng không Index của 7 Từ view a339 từ 33 đến 9 mà
+[32:00] Index của 7 Từ view a339 từ 33 đến 9 mà lấy đến các phần tử thứ 7 từ a339 thì nó
+[32:03] lấy đến các phần tử thứ 7 từ a339 thì nó chính là rơm ở đây chạm thích vào đây
+[32:05] chính là rơm ở đây chạm thích vào đây Bây giờ mình sẽ lên cái phần khóc hay để
+[32:08] Bây giờ mình sẽ lên cái phần khóc hay để cho con xem nhé mình sẽ tích và mái tóc
+[32:10] cho con xem nhé mình sẽ tích và mái tóc này vào mình sẽ làm cái công thức này
+[32:11] này vào mình sẽ làm cái công thức này cho bạn xem này đấy thì đầu tiên nó lại
+[32:13] cho bạn xem này đấy thì đầu tiên nó lại đến diện nó lại đến từ cái phần trên cái
+[32:16] đến diện nó lại đến từ cái phần trên cái phần khóc này khác Này làm gì ạ từ cái
+[32:18] phần khóc này khác Này làm gì ạ từ cái c40 cho nên nó sẽ đến từ C2 đến C3 thôi
+[32:21] c40 cho nên nó sẽ đến từ C2 đến C3 thôi đấy bạn thấy cho mình nhát Nếu mà không
+[32:24] đấy bạn thấy cho mình nhát Nếu mà không thích ở C4 thì nó sẽ đến từ C2 C3 thôi
+[32:26] thích ở C4 thì nó sẽ đến từ C2 C3 thôi C2 là tới bắt đầu là nó cố định còn C3
+[32:29] C2 là tới bắt đầu là nó cố định còn C3 Cái sau thì cái số bài nó không cố định
+[32:31] Cái sau thì cái số bài nó không cố định đúng không Thì cứ dịch lại thì nó sẽ đến
+[32:33] đúng không Thì cứ dịch lại thì nó sẽ đến ngay trước nó đấy Họ sẽ thích ở đây này
+[32:37] ngay trước nó đấy Họ sẽ thích ở đây này Đấy thì nó sẽ ra là 10 ngay tại vì mới
+[32:40] Đấy thì nó sẽ ra là 10 ngay tại vì mới có chỉ có cái xe lên đúng không Thì cái
+[32:42] có chỉ có cái xe lên đúng không Thì cái ông thoát này là đang là không có đấy
+[32:44] ông thoát này là đang là không có đấy thì ngay cái phần này là khô
+[32:45] thì ngay cái phần này là khô ở Bạc mét của không ấy thì với cái Học
+[32:48] ở Bạc mét của không ấy thì với cái Học mát thì nó sẽ tìm cái vị trí không đầu
+[32:50] mát thì nó sẽ tìm cái vị trí không đầu tiên thì không đầu tiên nó làm ở ngay vị
+[32:53] tiên thì không đầu tiên nó làm ở ngay vị trí thứ hai này thì cắn nó sẽ trả về cái
+[32:56] trí thứ hai này thì cắn nó sẽ trả về cái giá trị thứ hai của cái hạt lép mà Đấy
+[32:58] giá trị thứ hai của cái hạt lép mà Đấy nó sẽ trả lời cái là xuống hay và nó sẽ
+[33:00] nó sẽ trả lời cái là xuống hay và nó sẽ gái luôn của Index từ a ba đến A9 mà nó
+[33:04] gái luôn của Index từ a ba đến A9 mà nó lấy cái thứ hai thì nó phải là thóc đúng
+[33:06] lấy cái thứ hai thì nó phải là thóc đúng không có thích ở đây để nó sẽ ra tóc các
+[33:09] không có thích ở đây để nó sẽ ra tóc các bạn về cơ ạ tìm hiểu thêm về cái công
+[33:11] bạn về cơ ạ tìm hiểu thêm về cái công thức này nha bây giờ kéo xuống này đây
+[33:13] thức này nha bây giờ kéo xuống này đây thì từ sau cái rương là hết rồi đúng
+[33:15] thì từ sau cái rương là hết rồi đúng không nó sẽ là lót Viber cho nên mình sẽ
+[33:17] không nó sẽ là lót Viber cho nên mình sẽ xóa đi Đấy công thức của mình là như vậy
+[33:19] xóa đi Đấy công thức của mình là như vậy nhá thì tương tự cái ví dụ thứ 10 thì nó
+[33:22] nhá thì tương tự cái ví dụ thứ 10 thì nó cũng khá là phức tạp Yêu cầu là địa điểm
+[33:24] cũng khá là phức tạp Yêu cầu là địa điểm của bao học sinh cao nhất thì mình xác
+[33:26] của bao học sinh cao nhất thì mình xác định bao sinh cao nhất đúng không Đấy
+[33:28] định bao sinh cao nhất đúng không Đấy thì mình sẽ dùng cái công thức mạng khá
+[33:29] thì mình sẽ dùng cái công thức mạng khá là phức tạp này thì các bạn sẽ tìm hiểu
+[33:32] là phức tạp này thì các bạn sẽ tìm hiểu thêm nhé đấy Đây là bị yêu cầu để tìm
+[33:34] thêm nhé đấy Đây là bị yêu cầu để tìm hiểu thêm cho các bạn nhá đến nâng cao
+[33:36] hiểu thêm cho các bạn nhá đến nâng cao đấy Ok như vậy là xong cái bài học ngày
+[33:39] đấy Ok như vậy là xong cái bài học ngày hôm nay bây giờ mình sẽ đi vào cái câu
+[33:40] hôm nay bây giờ mình sẽ đi vào cái câu hỏi nhé à
+[33:45] hỏi nhé à những câu hỏi về nhà của mình nhận diện
+[33:47] những câu hỏi về nhà của mình nhận diện đây là mình có danh sách các nhân viên
+[33:49] đây là mình có danh sách các nhân viên đúng không Còn đây là doanh thu các cái
+[33:50] đúng không Còn đây là doanh thu các cái tháng của các nhân viên Bây giờ mình cần
+[33:53] tháng của các nhân viên Bây giờ mình cần tìm điện tìm với doanh thu nhỏ nhất
+[33:55] tìm điện tìm với doanh thu nhỏ nhất nhưng mà phải lớn hơn không Để doanh thu
+[33:57] nhưng mà phải lớn hơn không Để doanh thu nhỏ nhất Min nhỏ nhất nhưng mà địa phải
+[33:58] nhỏ nhất Min nhỏ nhất nhưng mà địa phải lớn không Tức là ô không thì mình không
+[34:01] lớn không Tức là ô không thì mình không tính đúng không Không thì có thể cái
+[34:03] tính đúng không Không thì có thể cái tháng này bạn này bận cái việc gì đấy
+[34:05] tháng này bạn này bận cái việc gì đấy thì bạn ấy không kinh doanh cái gì đấy
+[34:07] thì bạn ấy không kinh doanh cái gì đấy nhá Thì bây giờ mình sẽ tìm cái pin nhỏ
+[34:09] nhá Thì bây giờ mình sẽ tìm cái pin nhỏ nhất mà để mà nó phải là lớn không yêu
+[34:13] nhất mà để mà nó phải là lớn không yêu cầu của bài tập về nhà là như vậy nhé Ok
+[34:18] cầu của bài tập về nhà là như vậy nhé Ok như vậy là mình đã kết thúc bài học ngày
+[34:19] như vậy là mình đã kết thúc bài học ngày hôm nay ở đây cảm ơn các bạn đã theo dõi
+[34:21] hôm nay ở đây cảm ơn các bạn đã theo dõi các bạn nhớ đăng ký Kênh để cập nhật
+[34:23] các bạn nhớ đăng ký Kênh để cập nhật video mới nhất của gà cũng như chia sẻ
+[34:25] video mới nhất của gà cũng như chia sẻ để giúp mọi người của Ngọc Bích Trang
+[34:27] để giúp mọi người của Ngọc Bích Trang nhé Xin chào và hẹn gặp lại ở
+[34:43] nhé Xin chào và hẹn gặp lại ở ừ ừ

@@ -1,0 +1,649 @@
+[00:01] Xin chào mừng các bạn đến với khóa học excel miễn phí từ cơ bản đến nâng cao
+[00:04] excel miễn phí từ cơ bản đến nâng cao dành cho người mới bắt đầu được thực
+[00:06] dành cho người mới bắt đầu được thực hiện trên kênh YouTube là Excel bài số 6
+[00:08] hiện trên kênh YouTube là Excel bài số 6 các hành xử lý chuỗi tiếp theo bắt đầu
+[00:11] các hành xử lý chuỗi tiếp theo bắt đầu vào bài học số 6 cùng giải đáp và lúc
+[00:13] vào bài học số 6 cùng giải đáp và lúc trước là bài số 5 ở đây mình có kết quả
+[00:19] trước là bài số 5 ở đây mình có kết quả học tập của năm 2002 ở đây có các trường
+[00:22] học tập của năm 2002 ở đây có các trường thông tin là số thứ tự họ tên điểm trung
+[00:24] thông tin là số thứ tự họ tên điểm trung bình để đạo đức Hoàng cột ghi chú câu
+[00:28] bình để đạo đức Hoàng cột ghi chú câu hỏi điền vào cuộc ghi chú theo tiêu
+[00:30] hỏi điền vào cuộc ghi chú theo tiêu chuẩn sau những học sinh có đạo đức tốt
+[00:32] chuẩn sau những học sinh có đạo đức tốt có điểm trung bình từ 4 trở lên hoặc
+[00:35] có điểm trung bình từ 4 trở lên hoặc những học sinh có đạo đức trung bình có
+[00:37] những học sinh có đạo đức trung bình có điểm trung bình từ 5 trở lên Ghi là lên
+[00:40] điểm trung bình từ 5 trở lên Ghi là lên lớp còn lại thì đi lạ ở lại lớp thì như
+[00:44] lớp còn lại thì đi lạ ở lại lớp thì như còn ghét ở đây mình có cái điện nếu như
+[00:46] còn ghét ở đây mình có cái điện nếu như đã rất tốt và có điểm trung bình từ 4
+[00:48] đã rất tốt và có điểm trung bình từ 4 trở lên thì là lên lớp sau đấy là thẻ
+[00:52] trở lên thì là lên lớp sau đấy là thẻ hoặc những học sinh mà có đạo đức trung
+[00:53] hoặc những học sinh mà có đạo đức trung bình và có điểm trung bình từ 5 trở lên
+[00:56] bình và có điểm trung bình từ 5 trở lên thì là lên lớp đúng ạ thì như vậy cái
+[00:59] thì là lên lớp đúng ạ thì như vậy cái điều kiện nước ở đây
+[01:00] điều kiện nước ở đây Anh tên là cái hoặc thỏa mãn cái hiện
+[01:03] Anh tên là cái hoặc thỏa mãn cái hiện thỏa mãn điều kiện này đã lúc tốt và
+[01:05] thỏa mãn điều kiện này đã lúc tốt và trung bình từ 4 đây còn trường hợp Ngược
+[01:08] trung bình từ 4 đây còn trường hợp Ngược lại nếu nhưng mà học sinh có đã đức
+[01:10] lại nếu nhưng mà học sinh có đã đức trung bình và điểm trung bình từ 5 trở
+[01:11] trung bình và điểm trung bình từ 5 trở lên thì là đến lớp đúng thì ở đây mình
+[01:13] lên thì là đến lớp đúng thì ở đây mình sẽ dùng cái ngon nhá các bạn sẽ bàn về
+[01:15] sẽ dùng cái ngon nhá các bạn sẽ bàn về kho của mở ngoặc thì cái trường hợp đầu
+[01:19] kho của mở ngoặc thì cái trường hợp đầu tiên là lên nước là gì đã rất tốt và
+[01:21] tiên là lên nước là gì đã rất tốt và điểm trung bình từ 4 trở lên thì mình sẽ
+[01:23] điểm trung bình từ 4 trở lên thì mình sẽ dùng cái hạ men cũng ạ hàm em của mở
+[01:25] dùng cái hạ men cũng ạ hàm em của mở ngoặc đầu tiên là đã rất tôn gọi các bạn
+[01:28] ngoặc đầu tiên là đã rất tôn gọi các bạn sẽ thích vào cái ô Đạo Đức ở đây là all
+[01:29] sẽ thích vào cái ô Đạo Đức ở đây là all 4 bàn diện các bạn màu và kéo ra các bạn
+[01:32] 4 bàn diện các bạn màu và kéo ra các bạn bằng là tốt đúng ạ Các bạn đâu có khép
+[01:34] bằng là tốt đúng ạ Các bạn đâu có khép lại phải có điểm trung bình từ 4 trở lên
+[01:37] lại phải có điểm trung bình từ 4 trở lên là điểm trung bình chính là cái ô ô C4 ở
+[01:39] là điểm trung bình chính là cái ô ô C4 ở đây này mà gì ạ lớn bằng 4 trở lên đúng
+[01:43] đây này mà gì ạ lớn bằng 4 trở lên đúng không phải là các bạn sẽ ghi là lớn hơn
+[01:44] không phải là các bạn sẽ ghi là lớn hơn hoặc bằng 4 lại các bạn xem đóng ngoặc
+[01:47] hoặc bằng 4 lại các bạn xem đóng ngoặc lại để xong các men đấy Bây giờ là phải
+[01:50] lại để xong các men đấy Bây giờ là phải nhắc cái phải là cho cái điều kiện hoặc
+[01:52] nhắc cái phải là cho cái điều kiện hoặc ngoài này nếu như mà không thỏa mãn các
+[01:54] ngoài này nếu như mà không thỏa mãn các em này thì còn một cái trường hợp viêm
+[01:55] em này thì còn một cái trường hợp viêm nước khác là diện là đã lúc trung bình
+[01:57] nước khác là diện là đã lúc trung bình và ạ và cái
+[02:00] và ạ và cái xe điện trung bình phải lớn hơn năm trở
+[02:02] xe điện trung bình phải lớn hơn năm trở lên để thì các bạn lạnh dùng em tiếp các
+[02:05] lên để thì các bạn lạnh dùng em tiếp các bạn mở ngoặc nhá biểu thức luôn thích
+[02:07] bạn mở ngoặc nhá biểu thức luôn thích thứ nhất là gì ạ Là cái đạo đức Ở đây
+[02:09] thứ nhất là gì ạ Là cái đạo đức Ở đây còn chính ở đây nó đang vướng với công
+[02:11] còn chính ở đây nó đang vướng với công thức rồi các bạn không thích được vào
+[02:12] thức rồi các bạn không thích được vào cái ô nên muốn ở đây thì các bạn gọi
+[02:14] cái ô nên muốn ở đây thì các bạn gọi trực tiếp luôn là gì D4 Bằng đấy ạ bằng
+[02:18] trực tiếp luôn là gì D4 Bằng đấy ạ bằng mở ngoặc ra là trưng bình thì lại gọi
+[02:21] mở ngoặc ra là trưng bình thì lại gọi cho nó ngoặc kép lại phẩy cái nữa xích
+[02:24] cho nó ngoặc kép lại phẩy cái nữa xích lô gic thứ hai của các hàm e là gì ạ Nếu
+[02:26] lô gic thứ hai của các hàm e là gì ạ Nếu như mà đã lúc Trung bình thì cái điểm
+[02:28] như mà đã lúc Trung bình thì cái điểm trung bình là phải từ 5 trở lên đúng
+[02:29] trung bình là phải từ 5 trở lên đúng không điểm trung bình là cái ôm C4 đây
+[02:32] không điểm trung bình là cái ôm C4 đây để các bạn không thích điều ở đây đúng
+[02:33] để các bạn không thích điều ở đây đúng không Thì họ sẽ gọi cho kết là C4 hoặc
+[02:36] không Thì họ sẽ gọi cho kết là C4 hoặc các bạn thích bạn cái ô gì cả các bạn
+[02:38] các bạn thích bạn cái ô gì cả các bạn thích và cái ôm bốn các bạn ấn mũi tên
+[02:39] thích và cái ôm bốn các bạn ấn mũi tên Sang phải này thì nó sẽ sang cái ô C4
+[02:42] Sang phải này thì nó sẽ sang cái ô C4 này đây quá mà dị ạ lớn hơn hoặc bằng
+[02:44] này đây quá mà dị ạ lớn hơn hoặc bằng Nam để gọi sẽ đóng ngoặc lại để xong cái
+[02:47] Nam để gọi sẽ đóng ngoặc lại để xong cái Hà mint tức là xong cái biểu thức lôgic
+[02:49] Hà mint tức là xong cái biểu thức lôgic thứ hai của cái hào lại bây giờ có thật
+[02:52] thứ hai của cái hào lại bây giờ có thật đóng hoặc lại để xong cái Hà moi nhá Đấy
+[02:54] đóng hoặc lại để xong cái Hà moi nhá Đấy nếu như mà thỏa mãn cái được Ức Ngày Đó
+[02:57] nếu như mà thỏa mãn cái được Ức Ngày Đó Có Em tơ đi đấy Đây là
+[03:00] Có Em tơ đi đấy Đây là các bạn này chưa từng Tại vì đã nước
+[03:02] các bạn này chưa từng Tại vì đã nước chúng mình mà điển lại có 4 thôi đúng
+[03:03] chúng mình mà điển lại có 4 thôi đúng không Bây giờ họ sẽ tính lúc vào đây lại
+[03:06] không Bây giờ họ sẽ tính lúc vào đây lại như các bạn nào là phô hội là bạn ấy sẽ
+[03:08] như các bạn nào là phô hội là bạn ấy sẽ duyệt và ở lại lớp đó các bạn xem này
+[03:10] duyệt và ở lại lớp đó các bạn xem này bạn ấy là cô mặc dù đã rất tốt nhưng mà
+[03:12] bạn ấy là cô mặc dù đã rất tốt nhưng mà cái điện trung bình của bạn ấy có 3 điểm
+[03:14] cái điện trung bình của bạn ấy có 3 điểm thôi không ạ Bạn ấy là khô đấy bạn này
+[03:17] thôi không ạ Bạn ấy là khô đấy bạn này thì vừa đỡ chúng mình vừa điểm ba cho
+[03:20] thì vừa đỡ chúng mình vừa điểm ba cho nên bạn bè thôi như vậy Ở đây mình đã
+[03:23] nên bạn bè thôi như vậy Ở đây mình đã xong cái biểu thức lôgic đề rồi nhá Bây
+[03:25] xong cái biểu thức lôgic đề rồi nhá Bây giờ mình sẽ dùng cái Hà mít này các bạn
+[03:26] giờ mình sẽ dùng cái Hà mít này các bạn đút vào đây để qua sử công thức nhé Thì
+[03:28] đút vào đây để qua sử công thức nhé Thì trước cái nào lại con sẽ có một câu lệnh
+[03:30] trước cái nào lại con sẽ có một câu lệnh thực hiện ít khi các bạn mở ngoặc Nếu
+[03:33] thực hiện ít khi các bạn mở ngoặc Nếu như mà thỏa mãn cái Hà Nho này thì dễ có
+[03:36] như mà thỏa mãn cái Hà Nho này thì dễ có bạn xuống cuối này còn phải các bạn mở
+[03:38] bạn xuống cuối này còn phải các bạn mở két ra là điện lên lớp đã gọi cho nó
+[03:42] két ra là điện lên lớp đã gọi cho nó ngoác em ạ Phải nếu như ngược lại rất là
+[03:45] ngoác em ạ Phải nếu như ngược lại rất là không thỏa mãn cả hai cái điều kiện này
+[03:47] không thỏa mãn cả hai cái điều kiện này đúng không ạ thì họ sẽ ghi là điện hỏi
+[03:49] đúng không ạ thì họ sẽ ghi là điện hỏi là lớp à
+[03:52] là lớp à Dù sao thì đóng ngoặc kép tại họ phấn
+[03:55] Dù sao thì đóng ngoặc kép tại họ phấn đấu ngoặc đơn lại để xong là ít người
+[03:56] đấu ngoặc đơn lại để xong là ít người tao em tơ để như vậy bạn lại là ở lại
+[03:58] tao em tơ để như vậy bạn lại là ở lại lớp đúng không ạ Đấy bạn thấy có 3 bạn ở
+[04:02] lớp đúng không ạ Đấy bạn thấy có 3 bạn ở lại lớp 11 này ai ba còn lại là lên lớp
+[04:05] lại lớp 11 này ai ba còn lại là lên lớp hết bây giờ mình kiểm tra xem nhé ví dụ
+[04:08] hết bây giờ mình kiểm tra xem nhé ví dụ bạn này là trung bình nhưng mà điểm ở
+[04:10] bạn này là trung bình nhưng mà điểm ở đây là 6 này đấy bạn lại trung bình
+[04:14] đây là 6 này đấy bạn lại trung bình những điểm là chín là lên nước đấy có
+[04:16] những điểm là chín là lên nước đấy có hai bạn Trung Bình mà lên nước nhé Còn
+[04:18] hai bạn Trung Bình mà lên nước nhé Còn lại tốt nhá tốt mà ở đây là 4 điểm là
+[04:21] lại tốt nhá tốt mà ở đây là 4 điểm là nước bây giờ ví dụ chẳng hạn như bạn này
+[04:23] nước bây giờ ví dụ chẳng hạn như bạn này đã nước chúng mình mà điểm ở đây là gì
+[04:25] đã nước chúng mình mà điểm ở đây là gì biển nó năm thì bạn này sẽ là nước ai
+[04:27] biển nó năm thì bạn này sẽ là nước ai gọi nhá Bây giờ mình sẽ ngược lại là bốn
+[04:29] gọi nhá Bây giờ mình sẽ ngược lại là bốn đi thì bạn lại gọi lại lớp bố nhưng mà
+[04:32] đi thì bạn lại gọi lại lớp bố nhưng mà lớn nhưng mà dễ đã rất là tốt tại các
+[04:35] lớn nhưng mà dễ đã rất là tốt tại các bạn thấy thì nó lại là lên lớp như vậy
+[04:37] bạn thấy thì nó lại là lên lớp như vậy công thức của mình đúng rồi nhá Ok như
+[04:40] công thức của mình đúng rồi nhá Ok như vậy là mình đã trả lời xong câu hỏi của
+[04:41] vậy là mình đã trả lời xong câu hỏi của bài tập số 5 bây giờ mình sẽ sang cái
+[04:44] bài tập số 5 bây giờ mình sẽ sang cái bài tập số 6 nhé á
+[04:46] bài tập số 6 nhé á Ừ Ok mình sẽ vào bảng số 6 các bạn chú ý
+[04:50] Ừ Ok mình sẽ vào bảng số 6 các bạn chú ý mình sẽ để cái phần link tải file thực
+[04:51] mình sẽ để cái phần link tải file thực hành trong phần mô tả thế giới video thì
+[04:54] hành trong phần mô tả thế giới video thì tốt nhất là các bạn tải về các bạn vừa
+[04:56] tốt nhất là các bạn tải về các bạn vừa theo dõi và thực hành cùng mình nhé nếu
+[04:58] theo dõi và thực hành cùng mình nhé nếu như bạn nạp không biết cách tải về thì
+[05:00] như bạn nạp không biết cách tải về thì các bạn có thể theo dõi Cái bài đầu tiên
+[05:02] các bạn có thể theo dõi Cái bài đầu tiên thì trong bài đó mình đã hướng dẫn chi
+[05:04] thì trong bài đó mình đã hướng dẫn chi tiết cách tải về nhé Bây giờ mình sẽ mở
+[05:07] tiết cách tải về nhé Bây giờ mình sẽ mở cái file này lên hôm nay mình sẽ học khá
+[05:12] cái file này lên hôm nay mình sẽ học khá là nhiều hàng toàn là các hành xử lý
+[05:13] là nhiều hàng toàn là các hành xử lý chuỗi nhé Ở đây giả sử diện mình có cái
+[05:16] chuỗi nhé Ở đây giả sử diện mình có cái chìa họ tên các bạn thấy không họ tên
+[05:17] chìa họ tên các bạn thấy không họ tên này nó thừa rất là nhiều dấu cách thì
+[05:20] này nó thừa rất là nhiều dấu cách thì đầu tiên mình sẽ giới thiệu với các bạn
+[05:21] đầu tiên mình sẽ giới thiệu với các bạn cái hàng chim để cậu sẽ bằng này chim
+[05:24] cái hàng chim để cậu sẽ bằng này chim đoạn sẽ ăn tát nhá Thì cái thành phần
+[05:27] đoạn sẽ ăn tát nhá Thì cái thành phần của cái hàng chim này là cái ô mà các
+[05:30] của cái hàng chim này là cái ô mà các bạn cần gọn này các bạn sẽ thích bà cái
+[05:32] bạn cần gọn này các bạn sẽ thích bà cái Omega này các bạn enter đấy thì cái hàng
+[05:35] Omega này các bạn enter đấy thì cái hàng chim này nó làm việc gì nó sẽ gọt tất cả
+[05:37] chim này nó làm việc gì nó sẽ gọt tất cả những cái khoảng trống đằng sau và cây
+[05:39] những cái khoảng trống đằng sau và cây đặt trước đi còn những cái khoảng trống
+[05:41] đặt trước đi còn những cái khoảng trống mà ở giữa hai cái từ này ạ thì nó chỉ
+[05:44] mà ở giữa hai cái từ này ạ thì nó chỉ bớt lại một thôi để gọi này chứ ở đây
+[05:46] bớt lại một thôi để gọi này chứ ở đây số còn lại là Nguyễn Văn bản rất là đẹp
+[05:47] số còn lại là Nguyễn Văn bản rất là đẹp bây giờ con sẽ thích lúc nhá gái gọi này
+[05:51] bây giờ con sẽ thích lúc nhá gái gọi này chứ toàn bộ các cái họ tên ở đây nó đã
+[05:52] chứ toàn bộ các cái họ tên ở đây nó đã được viện nó sẽ gọt đi cái khoảng trống
+[05:55] được viện nó sẽ gọt đi cái khoảng trống thừa Tiếp theo là cái Hà proper cái hàng
+[05:59] thừa Tiếp theo là cái Hà proper cái hàng proper nó sẽ làm việc gì nó sẽ viết hoa
+[06:01] proper nó sẽ làm việc gì nó sẽ viết hoa tất cả những cái ký tự đầu tiên của các
+[06:03] tất cả những cái ký tự đầu tiên của các chuỗi này còn rất thích và cái ô D3 này
+[06:07] chuỗi này còn rất thích và cái ô D3 này để gọi nhiều công thức nhé bằng proper
+[06:09] để gọi nhiều công thức nhé bằng proper để các bạn ấn mũi tên xuống khi mà cái
+[06:12] để các bạn ấn mũi tên xuống khi mà cái chữ rapper này nó được tô đậm nha các
+[06:14] chữ rapper này nó được tô đậm nha các bạn sẽ tắt thì cái thành phần của cái Hà
+[06:17] bạn sẽ tắt thì cái thành phần của cái Hà proper là gì Là cái chuỗi và sau khi các
+[06:19] proper là gì Là cái chuỗi và sau khi các bạn gọi này chính ngại oshiba đấy Các
+[06:21] bạn gọi này chính ngại oshiba đấy Các enter đây còn thấy chứ như vậy toàn bộ
+[06:24] enter đây còn thấy chứ như vậy toàn bộ các cái chữ ở đây thì Cái chữ đầu đã
+[06:26] các cái chữ ở đây thì Cái chữ đầu đã được viết hoa đúng không các chữ sao là
+[06:28] được viết hoa đúng không các chữ sao là vợ sẽ biết thường hết bây giờ giả sử cái
+[06:30] vợ sẽ biết thường hết bây giờ giả sử cái chữ bài 3 này nhá và cái chữ N cuối cùng
+[06:32] chữ bài 3 này nhá và cái chữ N cuối cùng mình Viết hoa đi để gọi enter đây thì
+[06:35] mình Viết hoa đi để gọi enter đây thì cái hạt rapper này nó sẽ chuyển được cái
+[06:37] cái hạt rapper này nó sẽ chuyển được cái chữ thường hết chỉ có cái ký tự đầu tiên
+[06:39] chữ thường hết chỉ có cái ký tự đầu tiên của mỗi từ ở đây sẽ biết hoa thôi Bây
+[06:42] của mỗi từ ở đây sẽ biết hoa thôi Bây giờ còn thích nó vào đây hãy gọi thế đó
+[06:44] giờ còn thích nó vào đây hãy gọi thế đó hãy đẹp rồi ạ ạ
+[06:46] hãy đẹp rồi ạ ạ thì mình sẽ giới thiệu với các bạn cách
+[06:48] thì mình sẽ giới thiệu với các bạn cách hợp Al cái Hà hấp ơi này nó sẽ làm việc
+[06:50] hợp Al cái Hà hấp ơi này nó sẽ làm việc gì đó sẽ viết hoa toàn bộ cây chuối và
+[06:53] gì đó sẽ viết hoa toàn bộ cây chuối và các bạn chọn để có sắc bằng nhà Popper
+[06:55] các bạn chọn để có sắc bằng nhà Popper các bạn có thể tắt nhá Thì cái thành
+[06:58] các bạn có thể tắt nhá Thì cái thành phần của cái hopper lại là các chuỗi và
+[07:00] phần của cái hopper lại là các chuỗi và các bạn cần viết hoa đúng không ạ Các
+[07:01] các bạn cần viết hoa đúng không ạ Các Bạn xuất tinh mà cái chú ếch mà sau khi
+[07:03] Bạn xuất tinh mà cái chú ếch mà sau khi bạn đã gọi đây này chính là cái oc3 các
+[07:05] bạn đã gọi đây này chính là cái oc3 các bạn enter để gọi lại chứ như vậy toàn bộ
+[07:08] bạn enter để gọi lại chứ như vậy toàn bộ cái Nguyễn Văn bản ở đây nó đã được viết
+[07:10] cái Nguyễn Văn bản ở đây nó đã được viết hoa hết bây giờ có thích bộ vào đây để
+[07:12] hoa hết bây giờ có thích bộ vào đây để gọi theo Khá là đẹp ạ Tiếp theo là cái
+[07:14] gọi theo Khá là đẹp ạ Tiếp theo là cái hàm lơ cách hành lâu ơi này nó ngược với
+[07:16] hàm lơ cách hành lâu ơi này nó ngược với cảm aupair tức là diệt toàn bộ các chuỗi
+[07:19] cảm aupair tức là diệt toàn bộ các chuỗi và các bạn chọn nó sẽ chuyển về kí tự
+[07:21] và các bạn chọn nó sẽ chuyển về kí tự thường để gọi cho bằng bằng lâu để gọi
+[07:25] thường để gọi cho bằng bằng lâu để gọi tắt nhá Thì cái thành phần của khách
+[07:27] tắt nhá Thì cái thành phần của khách hàng Noel là cái chuối mà các bạn tách
+[07:29] hàng Noel là cái chuối mà các bạn tách đúng không Mình sẽ tích và toc 3 Tức là
+[07:31] đúng không Mình sẽ tích và toc 3 Tức là cái chuối mà sau khi mình gọt dữ liệu là
+[07:33] cái chuối mà sau khi mình gọt dữ liệu là các loại enter để gọi thấy như vậy toàn
+[07:35] các loại enter để gọi thấy như vậy toàn bộ cái ký tự ở đây nó sẽ chuyển về cái
+[07:38] bộ cái ký tự ở đây nó sẽ chuyển về cái chữ thường hết các bạn anh Dũng vào đây
+[07:40] chữ thường hết các bạn anh Dũng vào đây khá là hay ạ Tiếp theo là cái hàm len
+[07:43] khá là hay ạ Tiếp theo là cái hàm len nhá cái hàm len này khách hàng và tính
+[07:45] nhá cái hàm len này khách hàng và tính cái độ
+[07:46] cái độ đăng ký tự không ạ Các bạn sẽ bằng bằng
+[07:48] đăng ký tự không ạ Các bạn sẽ bằng bằng len cái gọi là mũi tên xuống và các bạn
+[07:51] len cái gọi là mũi tên xuống và các bạn tắt nhá Thì cái thành phần của cái thằng
+[07:53] tắt nhá Thì cái thành phần của cái thằng len này là việc là cái ô mà các bạn cần
+[07:56] len này là việc là cái ô mà các bạn cần cần đếm số ký tự đúng không Ví dụ tích
+[07:59] cần đếm số ký tự đúng không Ví dụ tích và cái Omega 3 này đi Mình xem là cái
+[08:01] và cái Omega 3 này đi Mình xem là cái Omega này là bao nhiêu kí tự các loại
+[08:02] Omega này là bao nhiêu kí tự các loại enter đấy Cái Omega này là tất cả 20 ký
+[08:05] enter đấy Cái Omega này là tất cả 20 ký tự cơ Bây giờ mình xem cái oc3 này là
+[08:08] tự cơ Bây giờ mình xem cái oc3 này là bao nhiêu ký tự nhé thì các bạn sẽ thích
+[08:10] bao nhiêu ký tự nhé thì các bạn sẽ thích đúng và cái Ova 3 này để có sửa công
+[08:12] đúng và cái Ova 3 này để có sửa công thức này thì các bạn thay b bằng c Tức
+[08:14] thức này thì các bạn thay b bằng c Tức là mình sẽ đến trong oc3 này là bao
+[08:16] là mình sẽ đến trong oc3 này là bao nhiêu kí tự các bạn em từ đấy nó sẽ là
+[08:18] nhiêu kí tự các bạn em từ đấy nó sẽ là 14 tích cực thì như vậy cái Hàn chim và
+[08:21] 14 tích cực thì như vậy cái Hàn chim và sau khi nó đã gọt cái B3 thì nó sẽ gọt
+[08:24] sau khi nó đã gọt cái B3 thì nó sẽ gọt bao nhiêu từ 20 ký tự xuống còn thiện
+[08:26] bao nhiêu từ 20 ký tự xuống còn thiện còn 14 ký tự như vậy là 6 ký tự đã bị
+[08:28] còn 14 ký tự như vậy là 6 ký tự đã bị gọi đi nó bao gồm điện Các bạn chú ý là
+[08:31] gọi đi nó bao gồm điện Các bạn chú ý là bao gồm một số ký tự ở bên trái à tức là
+[08:34] bao gồm một số ký tự ở bên trái à tức là trước cái chuyên viên ban à và một số ký
+[08:36] trước cái chuyên viên ban à và một số ký tự ở đây nó bị thừa cái khoảng trống đây
+[08:39] tự ở đây nó bị thừa cái khoảng trống đây như vậy nó ra khoảng 6 thứ tự quá Bây
+[08:41] như vậy nó ra khoảng 6 thứ tự quá Bây giờ họ sẽ bước vào đây đấy Bạn thấy là
+[08:43] giờ họ sẽ bước vào đây đấy Bạn thấy là cái cột C này nó sẽ là được bao nhiêu ký
+[08:45] cái cột C này nó sẽ là được bao nhiêu ký tự nhé
+[08:46] tự nhé Ừ ok tiếp theo mình sẽ hướng dẫn các bạn
+[08:49] Ừ ok tiếp theo mình sẽ hướng dẫn các bạn một số cách hành xử lý chuỗi khác nha
+[08:50] một số cách hành xử lý chuỗi khác nha đầu tiên là cái hàm f khách hàng mét là
+[08:53] đầu tiên là cái hàm f khách hàng mét là Thiện nó sẽ lấy trái chà sửa đây mình có
+[08:56] Thiện nó sẽ lấy trái chà sửa đây mình có cái ô là gái xem nhé bây giờ mình muốn
+[08:58] cái ô là gái xem nhé bây giờ mình muốn Tách cái chữ gà cho biết chỗ này thì
+[09:00] Tách cái chữ gà cho biết chỗ này thì mình làm như thế nào các bạn sẽ bằng
+[09:01] mình làm như thế nào các bạn sẽ bằng bằng led các bạn có thể tương tác nhá
+[09:03] bằng led các bạn có thể tương tác nhá thì thành phần đầu tiên của các hạt mát
+[09:05] thì thành phần đầu tiên của các hạt mát là cái chuỗi và các bạn cần tắt đúng
+[09:07] là cái chuỗi và các bạn cần tắt đúng không Mình sẽ thích và Cái ô thì ob10 ở
+[09:09] không Mình sẽ thích và Cái ô thì ob10 ở đây đấy phải thành phần thứ hai là số ký
+[09:12] đây đấy phải thành phần thứ hai là số ký tự mà các bạn cần trách đúng không ở đây
+[09:14] tự mà các bạn cần trách đúng không ở đây Nếu như các bạn muốn lấy cái chữ gà này
+[09:16] Nếu như các bạn muốn lấy cái chữ gà này ra thì có sẽ lấy hai thứ tự đúng chữ g
+[09:18] ra thì có sẽ lấy hai thứ tự đúng chữ g và sự à Đây này tại Gọi sẽ hay Họ sẽ
+[09:22] và sự à Đây này tại Gọi sẽ hay Họ sẽ đóng ngoặc đơn lại để xong các em nhắc
+[09:23] đóng ngoặc đơn lại để xong các em nhắc các bạn enter đấy thì như vậy Ở đây mình
+[09:25] các bạn enter đấy thì như vậy Ở đây mình đã lấy được cái chữ gà đây rồi Giả sử
+[09:27] đã lấy được cái chữ gà đây rồi Giả sử bây giờ mình muốn lấy cái chữ cái Excel
+[09:29] bây giờ mình muốn lấy cái chữ cái Excel thì mình làm như thế nào thì gọi chú
+[09:31] thì mình làm như thế nào thì gọi chú nhắc cái chữ gà là hai thứ tự đúng không
+[09:33] nhắc cái chữ gà là hai thứ tự đúng không cái chữ Excel là 5 ký tự là 7 thứ tự và
+[09:36] cái chữ Excel là 5 ký tự là 7 thứ tự và một cái khoảng trống ở đây là cái dấu
+[09:38] một cái khoảng trống ở đây là cái dấu cách là 8 ký tự luôn các bạn tính lúc
+[09:40] cách là 8 ký tự luôn các bạn tính lúc vào Cái ô này để con sữa nhá thì các bạn
+[09:42] vào Cái ô này để con sữa nhá thì các bạn chỉ cần thay số 2 bằng bằng số 8 vào đây
+[09:44] chỉ cần thay số 2 bằng bằng số 8 vào đây đâu để gặp em chơi à
+[09:46] đâu để gặp em chơi à chị sẽ lấy được gì ạ là cái chuỗi gái
+[09:48] chị sẽ lấy được gì ạ là cái chuỗi gái xem tiếp theo là cái hàng like cái hàng
+[09:51] xem tiếp theo là cái hàng like cái hàng like này nó ngược với cách làm net hàng
+[09:53] like này nó ngược với cách làm net hàng Like nó sẽ lấy số ký tự ở bên phải cơ
+[09:56] Like nó sẽ lấy số ký tự ở bên phải cơ đấy Bây giờ giả sử mình muốn Tách cái
+[09:58] đấy Bây giờ giả sử mình muốn Tách cái xuống năm ở đây là 2020 thì mình làm như
+[10:00] xuống năm ở đây là 2020 thì mình làm như thế nào các bạn sẽ bằng rồi các bạn sẽ
+[10:02] thế nào các bạn sẽ bằng rồi các bạn sẽ bằng cái hàng like thì các thành phần
+[10:04] bằng cái hàng like thì các thành phần đầu tiên của khách hàng Like là cái
+[10:05] đầu tiên của khách hàng Like là cái chuỗi mà các bạn đơn Chạnh đúng không
+[10:07] chuỗi mà các bạn đơn Chạnh đúng không chính là cái ôm 10 đây phải cái thành
+[10:10] chính là cái ôm 10 đây phải cái thành phần tiếp theo của các hàng Like là cái
+[10:12] phần tiếp theo của các hàng Like là cái số ký tự mà các bạn cần trách đúng không
+[10:14] số ký tự mà các bạn cần trách đúng không Bây giờ mình muốn lấy cái năm 2020 thì
+[10:16] Bây giờ mình muốn lấy cái năm 2020 thì các bạn sẽ là rẻ các bạn sẽ khách bốn
+[10:18] các bạn sẽ là rẻ các bạn sẽ khách bốn cái chữ ra đúng không các bạn sẽ đóng
+[10:19] cái chữ ra đúng không các bạn sẽ đóng ngoặc đơn lặng để xong cái hàng like các
+[10:21] ngoặc đơn lặng để xong cái hàng like các bạn em tơ nhá Đấy thì như vậy mình đã
+[10:24] bạn em tơ nhá Đấy thì như vậy mình đã tách được ra đây là điện 2020 rồi nhá
+[10:26] tách được ra đây là điện 2020 rồi nhá hàng tiếp theo là cái hàng mét rồi cái
+[10:29] hàng tiếp theo là cái hàng mét rồi cái hàng mi đồ này nó sẽ là kết hợp của cái
+[10:31] hàng mi đồ này nó sẽ là kết hợp của cái hành ghép và like hay nói cách khác nó
+[10:33] hành ghép và like hay nói cách khác nó là gì ạ Tách cái số ký tự ở giữa thì họ
+[10:36] là gì ạ Tách cái số ký tự ở giữa thì họ sẽ bằng bằng cách hàng mi được các bạn
+[10:39] sẽ bằng bằng cách hàng mi được các bạn tắt nhá thì thành phần đầu tiên của
+[10:41] tắt nhá thì thành phần đầu tiên của khách hàng mix đồ là diện là cái chuỗi
+[10:43] khách hàng mix đồ là diện là cái chuỗi mà các bạn cần trách Đúng không các bạn
+[10:44] mà các bạn cần trách Đúng không các bạn sẽ tích và cái ôm này à
+[10:46] sẽ tích và cái ôm này à lịch sử mình muốn Tách cái chữ Excel
+[10:47] lịch sử mình muốn Tách cái chữ Excel trong cái chỗ này nhá Đợi thì mình làm
+[10:49] trong cái chỗ này nhá Đợi thì mình làm như thế nào thì phải lại các thành phần
+[10:51] như thế nào thì phải lại các thành phần thứ hai của khách hàng biết đổ Đây là
+[10:53] thứ hai của khách hàng biết đổ Đây là cái vị trí đầu tiên mà các bạn thân
+[10:55] cái vị trí đầu tiên mà các bạn thân trách đúng không Thì nếu như các bạn
+[10:57] trách đúng không Thì nếu như các bạn muốn Tách cái chữ Excel thì các bạn phải
+[10:59] muốn Tách cái chữ Excel thì các bạn phải xem cái vị trí đầu tiên của cái chữ em à
+[11:01] xem cái vị trí đầu tiên của cái chữ em à Thì bạn đến nha Cái chữ gà này là hai
+[11:03] Thì bạn đến nha Cái chữ gà này là hai thứ tự cái dấu cách là các ký tự thứ 3
+[11:06] thứ tự cái dấu cách là các ký tự thứ 3 và cái chữ E là cái thứ tư đúng không
+[11:09] và cái chữ E là cái thứ tư đúng không như vậy sẽ là ký tự bắt đầu là ký tự thứ
+[11:11] như vậy sẽ là ký tự bắt đầu là ký tự thứ tư phải cái thành phần tiếp theo của các
+[11:14] tư phải cái thành phần tiếp theo của các hãng mix đồ là số ký tự mà các bạn thần
+[11:16] hãng mix đồ là số ký tự mà các bạn thần trách thì ở đây mình cần tách cái chữ
+[11:18] trách thì ở đây mình cần tách cái chữ Excel đúng không Thì cái số kích thước
+[11:20] Excel đúng không Thì cái số kích thước của mình là đẹp là năm thứ tự chữ Excel
+[11:22] của mình là đẹp là năm thứ tự chữ Excel là năm thứ tự mà thì họ sẽ biệt giữa năm
+[11:24] là năm thứ tự mà thì họ sẽ biệt giữa năm rồi Đây có xem đóng ngoặc đơn lại để
+[11:26] rồi Đây có xem đóng ngoặc đơn lại để song ca ăn ý đồ khác enter đây Thì như
+[11:28] song ca ăn ý đồ khác enter đây Thì như vậy là mình đã tách được cái chữ Excel
+[11:30] vậy là mình đã tách được cái chữ Excel đó bây giờ xử mình muốn Tách cái số 2020
+[11:33] đó bây giờ xử mình muốn Tách cái số 2020 mà mình dùng cái hàng mix đồ thì mình
+[11:34] mà mình dùng cái hàng mix đồ thì mình làm như thế nào thì Cạn Thúy Nga Cái chữ
+[11:37] làm như thế nào thì Cạn Thúy Nga Cái chữ gà là hai này Excel là năm là 7 cái dấu
+[11:40] gà là hai này Excel là năm là 7 cái dấu cách này là 8kg cách lên chín và cái số
+[11:43] cách này là 8kg cách lên chín và cái số 2 đầu tiên là số 10 đúng không là thứ 11
+[11:46] 2 đầu tiên là số 10 đúng không là thứ 11 em chưa vào đây họ sửa để con tiếp 24
+[11:48] em chưa vào đây họ sửa để con tiếp 24 Tức là cái vị trí bắt đầu bằng vị trí
+[11:50] Tức là cái vị trí bắt đầu bằng vị trí thứ 10 đúng không và năm 2020 là bốn
+[11:53] thứ 10 đúng không và năm 2020 là bốn trật tự đấy các bạn sẽ thích vào đây các
+[11:55] trật tự đấy các bạn sẽ thích vào đây các bạn sẽ thay số 5 số 4 là các enter lại
+[11:57] bạn sẽ thay số 5 số 4 là các enter lại thì nó sẽ lấy được năm 2020 bây giờ xử
+[12:00] thì nó sẽ lấy được năm 2020 bây giờ xử mình muốn Tách cái chữ cái xem nhá Mình
+[12:02] mình muốn Tách cái chữ cái xem nhá Mình dùng cái hàng ít đồ các bạn thích bước
+[12:03] dùng cái hàng ít đồ các bạn thích bước vào đây thì rẽ các vị trí bắt đầu thì
+[12:05] vào đây thì rẽ các vị trí bắt đầu thì chắc chắn là vị trí thứ nhất rồi đó mình
+[12:07] chắc chắn là vị trí thứ nhất rồi đó mình sẽ xóa được không đi thì là vị trí đầu
+[12:09] sẽ xóa được không đi thì là vị trí đầu tiên là số 1 luôn và các chị gái Excel
+[12:12] tiên là số 1 luôn và các chị gái Excel và cả cái dấu cách này là 8 ký tự luôn
+[12:14] và cả cái dấu cách này là 8 ký tự luôn sẽ thay số 4 bằng số 8 các bạn enter đấy
+[12:17] sẽ thay số 4 bằng số 8 các bạn enter đấy thì như vậy các bạn sẽ tách Được cái chị
+[12:18] thì như vậy các bạn sẽ tách Được cái chị gái Excel bây giờ quay lại nhắc mình
+[12:21] gái Excel bây giờ quay lại nhắc mình muốn Tách cái chữ Excel này ra tôi nhắc
+[12:23] muốn Tách cái chữ Excel này ra tôi nhắc cái nút vào đây thì đầu tiên là cái chữ
+[12:25] cái nút vào đây thì đầu tiên là cái chữ số 4 này đã bắt đầu đúng không Lấy số
+[12:28] số 4 này đã bắt đầu đúng không Lấy số thứ tự nhưng cần tách là năm các bạn
+[12:29] thứ tự nhưng cần tách là năm các bạn enter lại thì như vậy là mình đã anh
+[12:32] enter lại thì như vậy là mình đã anh tiếp theo là gì Là cái hành vi Plus cái
+[12:35] tiếp theo là gì Là cái hành vi Plus cái hành vi quyết là địa là cái hành thay
+[12:37] hành vi quyết là địa là cái hành thay thế nhé ok Bây giờ giả sử Mình muốn thay
+[12:39] thế nhé ok Bây giờ giả sử Mình muốn thay cái chữ cái Excel bằng cái thẻ bằng cái
+[12:41] cái chữ cái Excel bằng cái thẻ bằng cái gà Gold 2020 thì mình làm như thế nào
+[12:43] gà Gold 2020 thì mình làm như thế nào các bạn sẽ bằng Harris này
+[12:46] các bạn sẽ bằng Harris này ở Pháp nhé Thì các thành phần đầu tiên
+[12:48] ở Pháp nhé Thì các thành phần đầu tiên của cái hàng biết là cái Ok thế là cái
+[12:50] của cái hàng biết là cái Ok thế là cái chuỗi gốc ban đầu đúng không các bạn sẽ
+[12:52] chuỗi gốc ban đầu đúng không các bạn sẽ tích và cái chuỗi gái Seo 2020 Đây có
+[12:55] tích và cái chuỗi gái Seo 2020 Đây có phải là tiếp theo là gì ạ Cái sát number
+[12:58] phải là tiếp theo là gì ạ Cái sát number Tức là cái vị trí bắt đầu cần thay đúng
+[13:00] Tức là cái vị trí bắt đầu cần thay đúng không Thì mình cần phải cái chữ xe này
+[13:02] không Thì mình cần phải cái chữ xe này thì cái vị trí bắt đầu lên là vị trí thứ
+[13:04] thì cái vị trí bắt đầu lên là vị trí thứ tư đúng không phẩy tiếp theo là gì ạ Cái
+[13:07] tư đúng không phẩy tiếp theo là gì ạ Cái số ký tự và các bạn cầnthanh ở đây là
+[13:10] số ký tự và các bạn cầnthanh ở đây là cái chữ Excel là đăng ký tự đó là năm
+[13:12] cái chữ Excel là đăng ký tự đó là năm lại phải tiếp theo là cái mũ Tết Tức là
+[13:15] lại phải tiếp theo là cái mũ Tết Tức là mình sẽ thay thế bằng cái gì lại bằng
+[13:17] mình sẽ thay thế bằng cái gì lại bằng cái chuỗi mới nhá thì bạn sẽ móc kép ra
+[13:18] cái chuỗi mới nhá thì bạn sẽ móc kép ra mình sẽ thay bằng cái chữ word đấy có
+[13:23] mình sẽ thay bằng cái chữ word đấy có thể đóng ngoặc kép lại các bạn sẽ đóng
+[13:24] thể đóng ngoặc kép lại các bạn sẽ đóng ngoặc đơn lại để song hành với biết các
+[13:25] ngoặc đơn lại để song hành với biết các bạn m đấy thì như vậy cái chuỗi gái
+[13:28] bạn m đấy thì như vậy cái chuỗi gái sur20 20 được thay thế bằng việc bằng
+[13:30] sur20 20 được thay thế bằng việc bằng cái gà word hay không hay mưa lại nó khá
+[13:32] cái gà word hay không hay mưa lại nó khá là hay Tiếp theo là cái hàng Red cái
+[13:35] là hay Tiếp theo là cái hàng Red cái hàng này là rẻ nó sẽ lặp lại cái chữa
+[13:37] hàng này là rẻ nó sẽ lặp lại cái chữa trị tự đợi ví dụ cái chữ gã Excel 2020
+[13:39] trị tự đợi ví dụ cái chữ gã Excel 2020 này mình muốn lặp lại 10 lần thì mình là
+[13:42] này mình muốn lặp lại 10 lần thì mình là như thế nào các bạn sẽ bằng gì ạ bằng
+[13:44] như thế nào các bạn sẽ bằng gì ạ bằng cái hàng Red lại cọ sơn
+[13:46] cái hàng Red lại cọ sơn ở mũi tên xuống gọi khác nhé ví dụ mình
+[13:49] ở mũi tên xuống gọi khác nhé ví dụ mình sẽ thay cái chỗ này lại phải mình sẽ
+[13:51] sẽ thay cái chỗ này lại phải mình sẽ nhân lên ba lần thôi thì họ sẽ biển số 3
+[13:53] nhân lên ba lần thôi thì họ sẽ biển số 3 ở đây còn sự kiện đóng ngoặc đơn lại
+[13:55] ở đây còn sự kiện đóng ngoặc đơn lại khóc enter đấy thì như vậy chuỗi gái xe
+[13:57] khóc enter đấy thì như vậy chuỗi gái xe 2020 đã được lặp lại rẻ lặp lại 3 lần
+[13:59] 2020 đã được lặp lại rẻ lặp lại 3 lần bây giờ xử quá Muốn biết số 1 tỷ và bạn
+[14:02] bây giờ xử quá Muốn biết số 1 tỷ và bạn điền nhanh ở đây Nhắc họ sẽ bằng điện
+[14:04] điền nhanh ở đây Nhắc họ sẽ bằng điện Các bạn xem bằng một này sau đó gọi Và
+[14:06] Các bạn xem bằng một này sau đó gọi Và với cả diện và 9 số không có 1 tỷ thì
+[14:08] với cả diện và 9 số không có 1 tỷ thì gọi sẽ bằng cái hàng khác để chọn xe gì
+[14:11] gọi sẽ bằng cái hàng khác để chọn xe gì Các bạn ấn vào chữ xuống còn tát nhá thì
+[14:13] Các bạn ấn vào chữ xuống còn tát nhá thì bạn không à cần phải đúng không đấy Gọi
+[14:16] bạn không à cần phải đúng không đấy Gọi sẽ gặp lại 9 lần đấy Gọi sẽ đóng ngoặc
+[14:18] sẽ gặp lại 9 lần đấy Gọi sẽ đóng ngoặc đơn lại các em thơ ấy còn thấy chứ như
+[14:20] đơn lại các em thơ ấy còn thấy chứ như vậy Ở đây đã là cái số 1 tỉ rồi Rất là
+[14:23] vậy Ở đây đã là cái số 1 tỉ rồi Rất là hai ạ Đấy là cách ứng dụng để mình sẽ
+[14:25] hai ạ Đấy là cách ứng dụng để mình sẽ dùng cái hẹp và bạn chú ý nhá các ký tự
+[14:28] dùng cái hẹp và bạn chú ý nhá các ký tự và ở đây là cái nối chuỗi nhá Đợi thì
+[14:30] và ở đây là cái nối chuỗi nhá Đợi thì sau này mình sẽ hướng dẫn thêm về cái
+[14:32] sau này mình sẽ hướng dẫn thêm về cái này thì các bạn hiểu ở đây cái Và đây là
+[14:34] này thì các bạn hiểu ở đây cái Và đây là lối chuỗi lại nếu như bạn bỏ số một đi
+[14:36] lối chuỗi lại nếu như bạn bỏ số một đi các loại bỏ số 1 mà và đi nhá các bạn
+[14:39] các loại bỏ số 1 mà và đi nhá các bạn enter Cậu đấy chứ như vậy Ở đây là dịa9
+[14:42] enter Cậu đấy chứ như vậy Ở đây là dịa9 số không được gặp lại rồi Rất là hai em
+[14:45] số không được gặp lại rồi Rất là hai em ạ
+[14:46] ạ nhà hàng Pha nhé Bây giờ giả sử Mình cần
+[14:49] nhà hàng Pha nhé Bây giờ giả sử Mình cần tìm cái Excel trong Cái ô này thì mình
+[14:51] tìm cái Excel trong Cái ô này thì mình làm như thế nào các bạn sẽ bản thấy file
+[14:53] làm như thế nào các bạn sẽ bản thấy file đấy thì đầu tiên là dễ cái file tex Tức
+[14:56] đấy thì đầu tiên là dễ cái file tex Tức là cái chuỗi mà cậu cần tìm của họ sẽ mở
+[14:58] là cái chuỗi mà cậu cần tìm của họ sẽ mở kẹp ra còn ghi chữ Excel các loại sân
+[15:01] kẹp ra còn ghi chữ Excel các loại sân đóng ngoặc kép bạn cần phải tiếp theo là
+[15:03] đóng ngoặc kép bạn cần phải tiếp theo là gì là mình cần tìm với chuỗi xe này
+[15:06] gì là mình cần tìm với chuỗi xe này trong cái chỗ nào thì trong cái ô này
+[15:07] trong cái chỗ nào thì trong cái ô này không ạ phẩy Tiếp theo là cái vị trí
+[15:10] không ạ phẩy Tiếp theo là cái vị trí mình cần tìm thì thông thường mình sẽ
+[15:13] mình cần tìm thì thông thường mình sẽ tìm từ cái vị trí đầu tiên đúng không
+[15:14] tìm từ cái vị trí đầu tiên đúng không thì các bạn sẽ điểm số 1 vào đây gọi cho
+[15:16] thì các bạn sẽ điểm số 1 vào đây gọi cho nó ngoác lại thì nếu như mà cái vị trí
+[15:19] nó ngoác lại thì nếu như mà cái vị trí mà các bạn bắt đầu tìm kiếm các bỏ rộng
+[15:21] mà các bạn bắt đầu tìm kiếm các bỏ rộng ấy thì nó cũng tương đương là một thôi
+[15:23] ấy thì nó cũng tương đương là một thôi nhá các bạn em từ đây thì cái kết quả nó
+[15:26] nhá các bạn em từ đây thì cái kết quả nó trả về bố lên đây là gì Là cái ký tự đầu
+[15:29] trả về bố lên đây là gì Là cái ký tự đầu tiên mà nó tìm thấy cũng ạ Ở đây nó tìm
+[15:31] tiên mà nó tìm thấy cũng ạ Ở đây nó tìm cái chữ Excel nhé Thì nó tìm thấy cái
+[15:32] cái chữ Excel nhé Thì nó tìm thấy cái chỗ này và nó sẽ tính là cái chữ em này
+[15:35] chỗ này và nó sẽ tính là cái chữ em này là cái vị trí bắt đầu mà nó tìm được
+[15:36] là cái vị trí bắt đầu mà nó tìm được đúng không Thì làm cái gì thứ Tư bây giờ
+[15:39] đúng không Thì làm cái gì thứ Tư bây giờ xử mình tìm một cái chuối nó không có
+[15:40] xử mình tìm một cái chuối nó không có nhá Ví dụ mình thay cái chữ xe bằng chữ
+[15:43] nhá Ví dụ mình thay cái chữ xe bằng chữ a a thẳng Thế nhá Để gọi m
+[15:46] a a thẳng Thế nhá Để gọi m anh không tìm thấy nó sẽ báo là ve lên
+[15:48] anh không tìm thấy nó sẽ báo là ve lên đã gọi thích đút vào đây còn chửi nhé
+[15:51] đã gọi thích đút vào đây còn chửi nhé cái chữ mà chửi Excel Nếu như các bạn
+[15:53] cái chữ mà chửi Excel Nếu như các bạn biết thường ấy đợi thì nó sẽ cũng báo
+[15:55] biết thường ấy đợi thì nó sẽ cũng báo lỗi ngay tại vì cái file đó sẽ phân biệt
+[15:57] lỗi ngay tại vì cái file đó sẽ phân biệt chữ hoa và chữ thường đẩy cái chữ Excel
+[15:59] chữ hoa và chữ thường đẩy cái chữ Excel đây lớn các bạn mà viết cái chữ e đầu
+[16:02] đây lớn các bạn mà viết cái chữ e đầu tiên là chữ thường thì nó sẽ báo không
+[16:04] tiên là chữ thường thì nó sẽ báo không tìm thấy mình sẽ thành chữ hoa lại enter
+[16:06] tìm thấy mình sẽ thành chữ hoa lại enter thì nó sẽ trả về cái vị trí bắt đầu mà
+[16:09] thì nó sẽ trả về cái vị trí bắt đầu mà nó tìm thấy Tiếp theo là cái làm search
+[16:12] nó tìm thấy Tiếp theo là cái làm search cái hàm sát này thì nó như thế nào hạ
+[16:15] cái hàm sát này thì nó như thế nào hạ sốt này Thực ra nó giống hệt kèm file
+[16:17] sốt này Thực ra nó giống hệt kèm file nhưng mà diện nó sẽ không phân biệt chữ
+[16:19] nhưng mà diện nó sẽ không phân biệt chữ hoa và chữ thường đấy trong trường hợp
+[16:20] hoa và chữ thường đấy trong trường hợp mà các bạn không phân biệt chữ hoa và
+[16:22] mà các bạn không phân biệt chữ hoa và chữ thường thì gọi lên dùng cái hạt mà
+[16:25] chữ thường thì gọi lên dùng cái hạt mà các bạn Nếu như các bạn tìm kiếm và phân
+[16:26] các bạn Nếu như các bạn tìm kiếm và phân biệt thì bạn sẽ dùng cái file ở đây
+[16:29] biệt thì bạn sẽ dùng cái file ở đây thoại sang bằng nhá mình sẽ dùng cái hồ
+[16:30] thoại sang bằng nhá mình sẽ dùng cái hồ sơ cho bạn xem sớm thì thành phần đầu
+[16:33] sơ cho bạn xem sớm thì thành phần đầu tiên của học suốt này làm gì ạ Cái chuỗi
+[16:35] tiên của học suốt này làm gì ạ Cái chuỗi các bạn cần tìm đúng không ở đây mình sẽ
+[16:36] các bạn cần tìm đúng không ở đây mình sẽ mở kẹp ra các bạn sẽ ghi chữ Excel bây
+[16:39] mở kẹp ra các bạn sẽ ghi chữ Excel bây giờ ví dụ mình ghi cái chữ Excel là chữ
+[16:40] giờ ví dụ mình ghi cái chữ Excel là chữ thường nhé Không phải là chứ tức là chữ
+[16:43] thường nhé Không phải là chứ tức là chữ e đầu tiên là chữ thức thường này không
+[16:44] e đầu tiên là chữ thức thường này không lẽ ngoan đúng không phẩy
+[16:46] lẽ ngoan đúng không phẩy từ hôm nay đấy phải Nếu như các bạn biết
+[16:49] từ hôm nay đấy phải Nếu như các bạn biết một ở đây cũng được mà các bạn bảo giống
+[16:51] một ở đây cũng được mà các bạn bảo giống cũng được thì nó sẽ hiểu là tìm từ vị
+[16:53] cũng được thì nó sẽ hiểu là tìm từ vị trí đầu tiên cậu enter đấy còn thấy như
+[16:55] trí đầu tiên cậu enter đấy còn thấy như vậy cái hành xét này sẽ không phân biệt
+[16:57] vậy cái hành xét này sẽ không phân biệt chữ hoa và chữ thường nhé Ok Bây giờ giả
+[17:01] chữ hoa và chữ thường nhé Ok Bây giờ giả sử cái vị trí mình bắt đầu tìm kiếm lại
+[17:04] sử cái vị trí mình bắt đầu tìm kiếm lại không phải là vị trí đầu tiên mà vị trí
+[17:05] không phải là vị trí đầu tiên mà vị trí thứ năm đi chở nặng thế nhá thì gọi sẽ
+[17:08] thứ năm đi chở nặng thế nhá thì gọi sẽ trả về kết quả gì nó sẽ báo kết quả là
+[17:10] trả về kết quả gì nó sẽ báo kết quả là không tìm thấy này các bạn enter đấy nó
+[17:12] không tìm thấy này các bạn enter đấy nó sẽ báo là Lossless Tại vì sao ạ Nó bắt
+[17:15] sẽ báo là Lossless Tại vì sao ạ Nó bắt đầu tìm từ cái chữ X cơ đấy cái vị trí
+[17:17] đầu tìm từ cái chữ X cơ đấy cái vị trí thứ 5 này mà là từ vị trí x này có thì
+[17:20] thứ 5 này mà là từ vị trí x này có thì từ cái vị trí ý đây này Nó sẽ không có
+[17:21] từ cái vị trí ý đây này Nó sẽ không có cái chữ treo là cả đúng không ạ Rồi
+[17:23] cái chữ treo là cả đúng không ạ Rồi tương tự cái số 4 rồi Nhát nếu như các
+[17:26] tương tự cái số 4 rồi Nhát nếu như các vị trí cuối cùng mà còn phải ở đây Nếu
+[17:28] vị trí cuối cùng mà còn phải ở đây Nếu như vị trí các bạn cần tìm kiếm là vì đi
+[17:30] như vị trí các bạn cần tìm kiếm là vì đi thứ sáu rồi hạnh á thì nó có báo lỗi
+[17:32] thứ sáu rồi hạnh á thì nó có báo lỗi ngay đấy Cho nên nếu như cái vị trí bắt
+[17:35] ngay đấy Cho nên nếu như cái vị trí bắt đầu tìm kiếm các bạn quả rộng thì nó
+[17:37] đầu tìm kiếm các bạn quả rộng thì nó hiểu là tìm từ các vị trí đầu tiên lại
+[17:40] hiểu là tìm từ các vị trí đầu tiên lại Bây giờ mình bảo ông đi thì nó hiểu là
+[17:42] Bây giờ mình bảo ông đi thì nó hiểu là tìm từ cái vị trí đầu tiên tiếp theo là
+[17:45] tìm từ cái vị trí đầu tiên tiếp theo là khách hàng
+[17:46] khách hàng anh cái ảnh shop ti ti này là Thiện nó
+[17:48] anh cái ảnh shop ti ti này là Thiện nó cũng là dùng để thay thế thôi nó giống
+[17:51] cũng là dùng để thay thế thôi nó giống như cao huyết nhưng mà nó sẽ dùng khác
+[17:53] như cao huyết nhưng mà nó sẽ dùng khác đi một tí để họ sẽ bằng đấy ạ Các bạn sẽ
+[17:56] đi một tí để họ sẽ bằng đấy ạ Các bạn sẽ bằng cái hòm sắt chim thì đầu tiên ý là
+[18:00] bằng cái hòm sắt chim thì đầu tiên ý là cách tức là gì ạ Cái ô gốc là ô ban đầu
+[18:03] cách tức là gì ạ Cái ô gốc là ô ban đầu đúng không là cái chuối này hạ thế Bây
+[18:05] đúng không là cái chuối này hạ thế Bây giờ mình sẽ thay thế bằng cái gà word 20
+[18:07] giờ mình sẽ thay thế bằng cái gà word 20 20 nhá thì phải lại thì cái Attack là gì
+[18:10] 20 nhá thì phải lại thì cái Attack là gì Cái Attack mình sẽ thay cái chữ gì chữ
+[18:13] Cái Attack mình sẽ thay cái chữ gì chữ Excel các bạn nó khép lại phải bằng cái
+[18:18] Excel các bạn nó khép lại phải bằng cái gì bằng cái newtech ở đây Bạn mở kẹp ra
+[18:21] gì bằng cái newtech ở đây Bạn mở kẹp ra bạn cái gốc còn đóng khép lại đấy Các
+[18:27] bạn cái gốc còn đóng khép lại đấy Các thành phần cuối cùng là cái int number
+[18:29] thành phần cuối cùng là cái int number nhé Thì là gì ạ Cái thành phần này là
+[18:32] nhé Thì là gì ạ Cái thành phần này là tùy chọn nếu như mà dị ạ Các bạn bỏ rộng
+[18:35] tùy chọn nếu như mà dị ạ Các bạn bỏ rộng thịt cứ thấy Excel Nó sẽ thay bằng bút
+[18:37] thịt cứ thấy Excel Nó sẽ thay bằng bút đúng ạ Còn nếu như mà các ạ thích chọn
+[18:40] đúng ạ Còn nếu như mà các ạ thích chọn rồi đấy thì lát nữa mình sẽ giải thích
+[18:41] rồi đấy thì lát nữa mình sẽ giải thích cho bạn sau nhé Bây giờ mình cứ đóng
+[18:42] cho bạn sau nhé Bây giờ mình cứ đóng ngoặc đơn lại các em Thơ đấy gọi thấy
+[18:44] ngoặc đơn lại các em Thơ đấy gọi thấy chứ Thì như vậy cái chữ Excel
+[18:46] chứ Thì như vậy cái chữ Excel ở Hàn Quốc Bây giờ có ít nước vào Cái ô
+[18:48] ở Hàn Quốc Bây giờ có ít nước vào Cái ô này mình sửa gì ạ bây giờ cái chữ Excel
+[18:50] này mình sửa gì ạ bây giờ cái chữ Excel mà lặp lại hai lần đi đấy các bạn ạ tư
+[18:53] mà lặp lại hai lần đi đấy các bạn ạ tư nhá Thì như vậy Ở đây là gì đấy cảm thấy
+[18:55] nhá Thì như vậy Ở đây là gì đấy cảm thấy chứ cứ tìm thấy cái chữ Excel thì nó sẽ
+[18:58] chứ cứ tìm thấy cái chữ Excel thì nó sẽ thay ngòi bút để gọi bởi ghế ta thì bạn
+[19:01] thay ngòi bút để gọi bởi ghế ta thì bạn thấy ông Cái ô này là cứ tìm thấy Excel
+[19:03] thấy ông Cái ô này là cứ tìm thấy Excel thì nó sẽ thay ngòi bút đúng không Bây
+[19:05] thì nó sẽ thay ngòi bút đúng không Bây giờ có tích lũy và công thức này còn sửa
+[19:06] giờ có tích lũy và công thức này còn sửa nhé Thì cái thành phần cuối cùng của Đây
+[19:09] nhé Thì cái thành phần cuối cùng của Đây có phải là nếu như mà cái tham số cuối
+[19:12] có phải là nếu như mà cái tham số cuối cùng của cái hòm xuất huyết tiêu này mà
+[19:13] cùng của cái hòm xuất huyết tiêu này mà là số 2 kết số 2 này nghĩa là gì Tức là
+[19:16] là số 2 kết số 2 này nghĩa là gì Tức là cái chữ Excel thứ hai thì nó mới thay
+[19:19] cái chữ Excel thứ hai thì nó mới thay thế thôi đúng không còn cái Excel đầu
+[19:21] thế thôi đúng không còn cái Excel đầu tiên này nó sẽ không thay thế gọi em tơ
+[19:23] tiên này nó sẽ không thay thế gọi em tơ này cao thấy chưa thì cái ít sao đầu
+[19:25] này cao thấy chưa thì cái ít sao đầu tiên nó sẽ không thay thế vẫn giữ nguyên
+[19:26] tiên nó sẽ không thay thế vẫn giữ nguyên và nó sẽ thay thế từ cái Excel thứ hai
+[19:29] và nó sẽ thay thế từ cái Excel thứ hai thôi là nó sẽ đổi thành word lại đây là
+[19:32] thôi là nó sẽ đổi thành word lại đây là cái is number là cái ý nghĩa của nó là
+[19:35] cái is number là cái ý nghĩa của nó là như vậy nhá lại nếu như bạn bên một đây
+[19:37] như vậy nhá lại nếu như bạn bên một đây nó sẽ trả lời gì đấy thì nó chỉ thay cái
+[19:40] nó sẽ trả lời gì đấy thì nó chỉ thay cái vị trí xem đầu tiên này thôi còn cái vị
+[19:42] vị trí xem đầu tiên này thôi còn cái vị trí xem thứ hai thì nó sẽ không thay thế
+[19:44] trí xem thứ hai thì nó sẽ không thay thế là có đi đổ vào đây ạ
+[19:46] là có đi đổ vào đây ạ các bạn bỏ giống nhá thì nó sẽ thay thế
+[19:48] các bạn bỏ giống nhá thì nó sẽ thay thế toàn bộ cứ thấy Excel thì nó sẽ thay thế
+[19:50] toàn bộ cứ thấy Excel thì nó sẽ thay thế của Word không ạ Cái hàng này thì mình
+[19:53] của Word không ạ Cái hàng này thì mình hay dùng hơn là cái hàng hết bởi vì cái
+[19:55] hay dùng hơn là cái hàng hết bởi vì cái hành giết chết thì nó lại dùng diện nó
+[19:57] hành giết chết thì nó lại dùng diện nó lại phải phụ thuộc và cái vị trí bắt đầu
+[19:58] lại phải phụ thuộc và cái vị trí bắt đầu rồi và đến ký tự cơ thì đôi chim nó thức
+[20:01] rồi và đến ký tự cơ thì đôi chim nó thức cảm hơn cái hành sắp xếp tim thì với
+[20:04] cảm hơn cái hành sắp xếp tim thì với trường học của gà thì gà hay dùng cái
+[20:05] trường học của gà thì gà hay dùng cái hành suốt kiếp yêu hơn Tiếp theo là cái
+[20:08] hành suốt kiếp yêu hơn Tiếp theo là cái hàng Tết nhá cái hàng Tech nó sẽ dùng để
+[20:10] hàng Tết nhá cái hàng Tech nó sẽ dùng để làm gì Nó sẽ thay đổi các định dạng đấy
+[20:12] làm gì Nó sẽ thay đổi các định dạng đấy bây giờ cạn Ví dụ nhé các bạn sẽ bằng
+[20:14] bây giờ cạn Ví dụ nhé các bạn sẽ bằng bằng Tech để gọi xe mở ngoặc ra cái
+[20:18] bằng Tech để gọi xe mở ngoặc ra cái value Giả sử mình muốn say rượu mình
+[20:20] value Giả sử mình muốn say rượu mình muốn cái số 0.9 nhá 0.95 đi Đấy mình
+[20:25] muốn cái số 0.9 nhá 0.95 đi Đấy mình muốn thay cái 0.95 này về các bạn Phần
+[20:27] muốn thay cái 0.95 này về các bạn Phần trăm đúng không Thì bạn Rịa các đầu tiên
+[20:29] trăm đúng không Thì bạn Rịa các đầu tiên là cái vali chính là cái số 0.95 cần
+[20:32] là cái vali chính là cái số 0.95 cần phải lại cái format nó mình sẽ thay về
+[20:34] phải lại cái format nó mình sẽ thay về phần trăm bốn con con sẽ mở ngoặc kép ra
+[20:35] phần trăm bốn con con sẽ mở ngoặc kép ra bây giờ mình sẽ thay đổi về cái định
+[20:38] bây giờ mình sẽ thay đổi về cái định chạm Phần trăm đúng không thì các bạn
+[20:39] chạm Phần trăm đúng không thì các bạn ghi cho mình là gì Thằng này chấm gì ạ
+[20:41] ghi cho mình là gì Thằng này chấm gì ạ chấm Không không
+[20:44] chấm Không không về sau đó bạn để các thêm cái chữ phần
+[20:46] về sau đó bạn để các thêm cái chữ phần trăm và nữa các bạn đóng ngoặc kép ạ Đấy
+[20:47] trăm và nữa các bạn đóng ngoặc kép ạ Đấy cái này là gì Cái này là đổi định dạng
+[20:50] cái này là gì Cái này là đổi định dạng về phần trăm nhá các bạn về cái phần
+[20:52] về phần trăm nhá các bạn về cái phần tăng chấm công không thì sau này mình sẽ
+[20:53] tăng chấm công không thì sau này mình sẽ giải thích cho bạn rõ hơn nhá thì trước
+[20:56] giải thích cho bạn rõ hơn nhá thì trước mắt các bạn biển thế này cho mình nhé
+[20:58] mắt các bạn biển thế này cho mình nhé Hãy gọi em tơ đợi cảm thấy nhá như vậy
+[21:01] Hãy gọi em tơ đợi cảm thấy nhá như vậy cái số 95 sẽ đổi về địa 95 phần trăm bây
+[21:04] cái số 95 sẽ đổi về địa 95 phần trăm bây giờ cái 0.95 mình sẽ thay bằng việc 0.75
+[21:07] giờ cái 0.95 mình sẽ thay bằng việc 0.75 trả lại nhé đây thì nó sẽ là 75 phần
+[21:09] trả lại nhé đây thì nó sẽ là 75 phần trăm Tiếp theo là cái hàm value nhá có
+[21:12] trăm Tiếp theo là cái hàm value nhá có chửi nha như cái Hằng live vừa xong ấy
+[21:14] chửi nha như cái Hằng live vừa xong ấy là các bạn lấy 4 ký tự thì các bạn sẽ
+[21:17] là các bạn lấy 4 ký tự thì các bạn sẽ tách được là năm 2020 nhưng mà cái số
+[21:19] tách được là năm 2020 nhưng mà cái số 2020 này không phải là số đâu mà nó là
+[21:22] 2020 này không phải là số đâu mà nó là tết đấy nếu nhưng mà là số ví dụ các bạn
+[21:25] tết đấy nếu nhưng mà là số ví dụ các bạn Nhập lại 2020 nếu như là số thì nó sẽ
+[21:28] Nhập lại 2020 nếu như là số thì nó sẽ làm ở bên tay phải là cơ còn 20 20 màn
+[21:31] làm ở bên tay phải là cơ còn 20 20 màn đón ở bên tay trái này là thích cơ không
+[21:33] đón ở bên tay trái này là thích cơ không phải là số đâu Thì bây giờ để chuyển cái
+[21:36] phải là số đâu Thì bây giờ để chuyển cái 20 20 này về lại số thì các bạn sử dụng
+[21:38] 20 20 này về lại số thì các bạn sử dụng cái hành vol nhé các bạn Bằng và Lưu các
+[21:41] cái hành vol nhé các bạn Bằng và Lưu các bạn có thể Hiến pháp này thì cái thành
+[21:43] bạn có thể Hiến pháp này thì cái thành phần của cái hàng vali
+[21:44] phần của cái hàng vali tất cả các bạn cần chuyển về dạng số là
+[21:46] tất cả các bạn cần chuyển về dạng số là các diện tích vào đây các bạn enter đợi
+[21:48] các diện tích vào đây các bạn enter đợi thì nó sẽ chuyển về 20 20 Các bạn thấy
+[21:50] thì nó sẽ chuyển về 20 20 Các bạn thấy chứ 20 20 Lúc này nó đã nằm ở bên tay
+[21:53] chứ 20 20 Lúc này nó đã nằm ở bên tay phải này thì nó là số rồi nhá tiếp theo
+[21:56] phải này thì nó là số rồi nhá tiếp theo là hẹp exact khách hàng này là diện nó
+[21:59] là hẹp exact khách hàng này là diện nó sẽ So sánh hai cái chữ kí tự đây ví dụ
+[22:01] sẽ So sánh hai cái chữ kí tự đây ví dụ bạn bằng này ít xác này các bạn có thể
+[22:04] bạn bằng này ít xác này các bạn có thể tắt nhá Thì cái chuỗi đầu tiên ví dụ là
+[22:06] tắt nhá Thì cái chuỗi đầu tiên ví dụ là gì ạ là cái gái xe ở đây đúng không Đấy
+[22:09] gì ạ là cái gái xe ở đây đúng không Đấy phải mì so với cả diện mình sẽ so với
+[22:11] phải mì so với cả diện mình sẽ so với màu kẹp là gái xem họ sẽ đóng ngoặc kép
+[22:14] màu kẹp là gái xem họ sẽ đóng ngoặc kép lại các bạn đó hoặc đơn lại các em tơ
+[22:16] lại các bạn đó hoặc đơn lại các em tơ nếu như nó bằng nhau thì nó sẽ trả lại
+[22:18] nếu như nó bằng nhau thì nó sẽ trả lại kết quả chung đúng không Bây giờ giả sử
+[22:20] kết quả chung đúng không Bây giờ giả sử Nếu như cái ô này mà mình lấy mình cái
+[22:22] Nếu như cái ô này mà mình lấy mình cái Lấy 2 ký tự thôi nhá Đây thì hai cái ô
+[22:26] Lấy 2 ký tự thôi nhá Đây thì hai cái ô hiện cái chữ gà này này là Cái ô thì
+[22:28] hiện cái chữ gà này này là Cái ô thì oc10 với cả cái chữ cái xe nha con tích
+[22:31] oc10 với cả cái chữ cái xe nha con tích nước vào đây lại cái oc10 là cái chữ gà
+[22:33] nước vào đây lại cái oc10 là cái chữ gà và cái chuỗi lái xem nó không bằng nhau
+[22:36] và cái chuỗi lái xem nó không bằng nhau đúng không Thì nó sẽ trả lời quả khô bây
+[22:39] đúng không Thì nó sẽ trả lời quả khô bây giờ ví dụ ở đây mình lấy lấy là 8 ký tự
+[22:41] giờ ví dụ ở đây mình lấy lấy là 8 ký tự nhé các bạn enter đấy thì như vậy
+[22:44] nhé các bạn enter đấy thì như vậy Ừ cái oc10 với cả cái chữ cái xe là bằng
+[22:47] Ừ cái oc10 với cả cái chữ cái xe là bằng nhau thì nó sẽ trả về kết quả là Chu ấy
+[22:50] nhau thì nó sẽ trả về kết quả là Chu ấy có thể lấy lại hàng Nexus Tiếp theo là
+[22:52] có thể lấy lại hàng Nexus Tiếp theo là cái Hàn tra nhá hàng chang là gì ạ Nó sẽ
+[22:55] cái Hàn tra nhá hàng chang là gì ạ Nó sẽ gì à nó sẽ biểu diễn cách mạng cốt từ
+[22:57] gì à nó sẽ biểu diễn cách mạng cốt từ cái số 1 đến 255 về cây dạng ký tự lấy
+[23:00] cái số 1 đến 255 về cây dạng ký tự lấy ví dụ các bạn bằng cha có hiến pháp nhé
+[23:05] ví dụ các bạn bằng cha có hiến pháp nhé tra ví dụ của 65 đi đó sẽ đóng ngoặc đơn
+[23:08] tra ví dụ của 65 đi đó sẽ đóng ngoặc đơn lại gọi enter thì cái số 65 ở đây bản
+[23:11] lại gọi enter thì cái số 65 ở đây bản chất là gì nó sẽ biểu diễn bằng cái kính
+[23:13] chất là gì nó sẽ biểu diễn bằng cái kính chữa tức là cách ký tự a và các bạn hay
+[23:16] chữa tức là cách ký tự a và các bạn hay gọi cái mã code của nó là cái ngã sáu
+[23:18] gọi cái mã code của nó là cái ngã sáu năm cơ đấy gọn hiểu đơn giản là như vậy
+[23:20] năm cơ đấy gọn hiểu đơn giản là như vậy nhé thì sau này mình sẽ nói một số ứng
+[23:22] nhé thì sau này mình sẽ nói một số ứng dụng của cái hàng tra sau giống như cái
+[23:24] dụng của cái hàng tra sau giống như cái kiểu ký tự xuống dòng nhá thì nó lại là
+[23:26] kiểu ký tự xuống dòng nhá thì nó lại là cha 10 cơ để họ sẽ Bằng ví dụ các bạn gõ
+[23:29] cha 10 cơ để họ sẽ Bằng ví dụ các bạn gõ trên gà đấy đấy ạ và này và là cái nối
+[23:33] trên gà đấy đấy ạ và này và là cái nối chuỗi tra gì ạ quận mở ngoặc là số 10
+[23:36] chuỗi tra gì ạ quận mở ngoặc là số 10 này các bạn sẽ đóng mọc đơn lại sau đó
+[23:38] này các bạn sẽ đóng mọc đơn lại sau đó bạn và với cả diện và cái chữ Excel Gọi
+[23:42] bạn và với cả diện và cái chữ Excel Gọi chú ý nhất cái chữ Excel ở đây gọi phản
+[23:43] chú ý nhất cái chữ Excel ở đây gọi phản diện trong
+[23:44] diện trong anh khép đôi mắt Khép cái chân gà cũng
+[23:46] anh khép đôi mắt Khép cái chân gà cũng vậy nhé Phải gọi xe mở ngoặc kép ở đây
+[23:49] vậy nhé Phải gọi xe mở ngoặc kép ở đây là đóng ngoặc kép ở ngoài cùng các bạn
+[23:51] là đóng ngoặc kép ở ngoài cùng các bạn phải có cái dấu bằng rồi đó enter lại
+[23:54] phải có cái dấu bằng rồi đó enter lại gọn kéo rộng ra đấy gọi thấy chứ như vậy
+[23:58] gọn kéo rộng ra đấy gọi thấy chứ như vậy là rẻ cái tra 10 ở đây chính là cái ý tự
+[24:01] là rẻ cái tra 10 ở đây chính là cái ý tự enter lại đây là một cách ứng dụng nhỏ
+[24:04] enter lại đây là một cách ứng dụng nhỏ mình giới thiệu với các bạn nhé Tiếp
+[24:07] mình giới thiệu với các bạn nhé Tiếp theo là cái hàm con tiết khách hàng có
+[24:09] theo là cái hàm con tiết khách hàng có kiếp này là cái Hà mà để diện mà để núi
+[24:12] kiếp này là cái Hà mà để diện mà để núi ký tự với nhau bây giờ sửa Mình muốn kết
+[24:14] ký tự với nhau bây giờ sửa Mình muốn kết nối cái gái xe và cái 220 này lại nhá
+[24:17] nối cái gái xe và cái 220 này lại nhá thì họ sẽ bằng bằng cái khoét hết các
+[24:20] thì họ sẽ bằng bằng cái khoét hết các bạn hiểu chat nhá thì cây chuối ở đây là
+[24:22] bạn hiểu chat nhá thì cây chuối ở đây là gì gái xe này phải cái chuỗi thứ hai là
+[24:25] gì gái xe này phải cái chuỗi thứ hai là cái 2020 lại hoặc là dễ các bạn bỏ dép
+[24:29] cái 2020 lại hoặc là dễ các bạn bỏ dép ra các bạn thích kiểu cách này các bạn
+[24:31] ra các bạn thích kiểu cách này các bạn đóng ngoặc kép lại phải cái tích Bà đây
+[24:34] đóng ngoặc kép lại phải cái tích Bà đây chính là sẽ 5 20 20 để gọi enter đấy thì
+[24:36] chính là sẽ 5 20 20 để gọi enter đấy thì nó sẽ nối lại đẹp nó sẽ gộp cái gái sau
+[24:38] nó sẽ nối lại đẹp nó sẽ gộp cái gái sau này nó thêm cái dấu cách và nó nối với ô
+[24:41] này nó thêm cái dấu cách và nó nối với ô 2020 ở đó đấy ví dụ 20
+[24:44] 2020 ở đó đấy ví dụ 20 em đổi thành điện 20 21 là thế nhé thế
+[24:47] em đổi thành điện 20 21 là thế nhé thế Ngô này là gì gái Seo 2021 Ok như vậy là
+[24:52] Ngô này là gì gái Seo 2021 Ok như vậy là mình đã xong cái bài hướng dẫn các hành
+[24:54] mình đã xong cái bài hướng dẫn các hành xử lý chỗ ở đây nhá Bây giờ mình sẽ xem
+[24:56] xử lý chỗ ở đây nhá Bây giờ mình sẽ xem cái câu hỏi của bài tập ngày hôm nay đây
+[25:02] cái câu hỏi của bài tập ngày hôm nay đây cái câu hỏi của anh Facebook rồi đấy ok
+[25:05] cái câu hỏi của anh Facebook rồi đấy ok câu hỏi của mình là gì ở đây mình có
+[25:06] câu hỏi của mình là gì ở đây mình có thông tin là tên đầy đủ nhá các bạn dùng
+[25:08] thông tin là tên đầy đủ nhá các bạn dùng các cái Hàn và xử lý chuỗi các bạn sẽ
+[25:11] các cái Hàn và xử lý chuỗi các bạn sẽ cách cho mình họ là gì và tên là gì nhá
+[25:12] cách cho mình họ là gì và tên là gì nhá đấy các bạn hãy comment cái câu trả lời
+[25:15] đấy các bạn hãy comment cái câu trả lời của bạn trong cái phần bình luận ở dưới
+[25:17] của bạn trong cái phần bình luận ở dưới video nhá Ok như vậy là mình đã kết thúc
+[25:22] video nhá Ok như vậy là mình đã kết thúc bài học ngày hôm nay ở đây cảm ơn các
+[25:23] bài học ngày hôm nay ở đây cảm ơn các bạn đã theo dõi các bạn nhé Đăng ký Kênh
+[25:26] bạn đã theo dõi các bạn nhé Đăng ký Kênh để cập nhật video mới nhất của gà cũng
+[25:28] để cập nhật video mới nhất của gà cũng như chia sẻ để giúp mọi người của Ngọc
+[25:30] như chia sẻ để giúp mọi người của Ngọc xem nhé Xin chào và hẹn gặp lại à
+[25:44] xem nhé Xin chào và hẹn gặp lại à ừ ừ

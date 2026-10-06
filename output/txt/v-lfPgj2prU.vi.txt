@@ -1,0 +1,882 @@
+[00:01] Xin chào mừng các bạn đến với khóa học excel miễn phí từ cơ bản đến nâng cao
+[00:04] excel miễn phí từ cơ bản đến nâng cao dành cho người mới bắt đầu được thực
+[00:06] dành cho người mới bắt đầu được thực hiện trên kênh YouTube gái Excel bài số
+[00:09] hiện trên kênh YouTube gái Excel bài số 11 định dạng có điều kiện trước khi bắt
+[00:12] 11 định dạng có điều kiện trước khi bắt đầu bài học ngày hôm nay mình cùng giải
+[00:13] đầu bài học ngày hôm nay mình cùng giải bài tập số 10 hôm trước là định dạng
+[00:15] bài tập số 10 hôm trước là định dạng theo nhá đấy các bạn sẽ mở cái câu hỏi
+[00:18] theo nhá đấy các bạn sẽ mở cái câu hỏi của bài số 10 lên câu hỏi của mình là gì
+[00:22] của bài số 10 lên câu hỏi của mình là gì bây giờ mình cần định dạng Làm sao để gì
+[00:24] bây giờ mình cần định dạng Làm sao để gì ạ những cái số mà các bạn Nhập vào đây
+[00:26] ạ những cái số mà các bạn Nhập vào đây nó sẽ có tối thiểu là 5 chữ số những cái
+[00:29] nó sẽ có tối thiểu là 5 chữ số những cái số nào mà các bạn Nhập nhỏ mắt xối thì
+[00:31] số nào mà các bạn Nhập nhỏ mắt xối thì nó sẽ chèn số 0 ở trước đấy để nó đảm
+[00:34] nó sẽ chèn số 0 ở trước đấy để nó đảm bảo là luôn luôn có 5 chữ số nhá đấy các
+[00:36] bảo là luôn luôn có 5 chữ số nhá đấy các bạn thấy ở đây là gì Ví dụ bạn Nhập 123
+[00:38] bạn thấy ở đây là gì Ví dụ bạn Nhập 123 đẹp thế nhắc thì nó sẽ chèn hai chữ số 0
+[00:40] đẹp thế nhắc thì nó sẽ chèn hai chữ số 0 ở đây ví dụ các bạn Nhập 2 3 4 hạn thế
+[00:43] ở đây ví dụ các bạn Nhập 2 3 4 hạn thế Thì nó sẽ chèn hai cái chữ số 0 ở đây
+[00:45] Thì nó sẽ chèn hai cái chữ số 0 ở đây đấy để làm được việc này các bạn làm như
+[00:47] đấy để làm được việc này các bạn làm như sau nhá đầu tiên các bạn sẽ Bôi đen Cái
+[00:49] sau nhá đầu tiên các bạn sẽ Bôi đen Cái vùng dữ liệu mà các bạn cần định dạng
+[00:51] vùng dữ liệu mà các bạn cần định dạng như vậy nhá Sau đó các bạn ấn canh trước
+[00:53] như vậy nhá Sau đó các bạn ấn canh trước một để sẽ vào cái cửa sổ có mắt Xem này
+[00:57] một để sẽ vào cái cửa sổ có mắt Xem này thì trong cái thẻ 5m đây này
+[01:00] thì trong cái thẻ 5m đây này em chọn cái cát tâm đấy thì ở dưới đây
+[01:03] em chọn cái cát tâm đấy thì ở dưới đây các bạn xóa cái Zelo đi các bạn sẽ gõ là
+[01:06] các bạn xóa cái Zelo đi các bạn sẽ gõ là gì Các bạn sẽ gõ cho mình 5 số 012345
+[01:09] gì Các bạn sẽ gõ cho mình 5 số 012345 đợi 5 số 0 ở đây nghĩa là gì Nghĩa là
+[01:12] đợi 5 số 0 ở đây nghĩa là gì Nghĩa là Cái ô này nó sẽ có tối thiểu là 5 cái
+[01:14] Cái ô này nó sẽ có tối thiểu là 5 cái chữ số được hiển thị đúng ạ những cái số
+[01:16] chữ số được hiển thị đúng ạ những cái số mà nó có ít hơn 5 số thì nó sẽ chèn cái
+[01:19] mà nó có ít hơn 5 số thì nó sẽ chèn cái số không trước đấy gọi thấy cho ở đây nó
+[01:21] số không trước đấy gọi thấy cho ở đây nó có cái mẫu ở đây là diện nếu như mà là
+[01:22] có cái mẫu ở đây là diện nếu như mà là 23 thì nó sẽ chèn ba cái chữ số 0 ở trên
+[01:25] 23 thì nó sẽ chèn ba cái chữ số 0 ở trên này đấy các bạn thường bấm ok nhá Đấy
+[01:28] này đấy các bạn thường bấm ok nhá Đấy gọi thấy chưa tất cả các số ở đây nó sẽ
+[01:30] gọi thấy chưa tất cả các số ở đây nó sẽ chèn thêm số 0 Để nó đảm bảo là gì ạ Các
+[01:32] chèn thêm số 0 Để nó đảm bảo là gì ạ Các cái ở đây nó sẽ có là tối thiểu là 5 chữ
+[01:34] cái ở đây nó sẽ có là tối thiểu là 5 chữ số Ok Giả sử đây mình sẽ nhập lại ba tư
+[01:37] số Ok Giả sử đây mình sẽ nhập lại ba tư là thế nhá để gặp em tôi gọn thấy nó sẽ
+[01:39] là thế nhá để gặp em tôi gọn thấy nó sẽ thứ ba cái chữ số 0 ở đâu đấy Nhưng mà
+[01:42] thứ ba cái chữ số 0 ở đâu đấy Nhưng mà nếu như cái số là các bạn Nhập vào nó có
+[01:44] nếu như cái số là các bạn Nhập vào nó có lớn hơn 5 số nhận ví dụ là diện 2 3 4 5
+[01:46] lớn hơn 5 số nhận ví dụ là diện 2 3 4 5 6 7 8 mạnh thế nhá Đấy thì nó sẽ giữ
+[01:49] 6 7 8 mạnh thế nhá Đấy thì nó sẽ giữ nguyên lại Ok như vậy là mình đã xong
+[01:51] nguyên lại Ok như vậy là mình đã xong cái câu hỏi của bài tập số 10 nhé các
+[01:53] cái câu hỏi của bài tập số 10 nhé các bạn sẽ đóng lại Ok mình sẽ vào bài học
+[01:58] bạn sẽ đóng lại Ok mình sẽ vào bài học ngày hôm nay là Định
+[02:00] ngày hôm nay là Định thì các bạn sẽ mở cái file này lên nhá
+[02:04] thì các bạn sẽ mở cái file này lên nhá các bạn chú ý nhé mình sẽ để cái link
+[02:07] các bạn chú ý nhé mình sẽ để cái link tải file thực hành trong phần mô tả thế
+[02:08] tải file thực hành trong phần mô tả thế giới video tốt nhất là các bạn tải về
+[02:11] giới video tốt nhất là các bạn tải về các bạn vừa theo dõi và thực hành cùng
+[02:13] các bạn vừa theo dõi và thực hành cùng mình nhá Nếu như bạn nào mà không biết
+[02:15] mình nhá Nếu như bạn nào mà không biết cách tải về thì các bạn có thể theo dõi
+[02:17] cách tải về thì các bạn có thể theo dõi Cái bài đầu tiên thì trong bài đấy mình
+[02:19] Cái bài đầu tiên thì trong bài đấy mình đã hướng dẫn các bạn là cách chi tiết để
+[02:21] đã hướng dẫn các bạn là cách chi tiết để các bạn tải về thì mỗi một cái file mà
+[02:24] các bạn tải về thì mỗi một cái file mà các bạn tải về Nó là một cái thai nghén
+[02:26] các bạn tải về Nó là một cái thai nghén nó chết chứa hai cái file mà file thực
+[02:29] nó chết chứa hai cái file mà file thực hành và một cái file à câu hỏi để các
+[02:31] hành và một cái file à câu hỏi để các bạn làm bài tập về nhà nhá OK thì các
+[02:34] bạn làm bài tập về nhà nhá OK thì các bạn hiểu định dạng có điều kiện nghĩa là
+[02:35] bạn hiểu định dạng có điều kiện nghĩa là gì ạ Cái định dạng ở đây mà các bạn hay
+[02:38] gì ạ Cái định dạng ở đây mà các bạn hay dùng nhất đấy là các bạn sẽ tô màu hoặc
+[02:40] dùng nhất đấy là các bạn sẽ tô màu hoặc các bạn có thể là gì ạ Các bạn có thể là
+[02:42] các bạn có thể là gì ạ Các bạn có thể là thay đổi phông chữ cỡ chữ các bạn tô đậm
+[02:45] thay đổi phông chữ cỡ chữ các bạn tô đậm đấy Cái mà mọi người hay dùng nhất là
+[02:47] đấy Cái mà mọi người hay dùng nhất là các bạn sẽ tô màu nhưng mà tô màu là Rịa
+[02:49] các bạn sẽ tô màu nhưng mà tô màu là Rịa tô màu có điều kiện đấy thì tức là chỉ
+[02:52] tô màu có điều kiện đấy thì tức là chỉ những cái ôm mà có điều kiện thỏa mãn
+[02:54] những cái ôm mà có điều kiện thỏa mãn thì nó sẽ mới được tô màu nhá Đấy thì
+[02:57] thì nó sẽ mới được tô màu nhá Đấy thì trong bài học ngày hôm nay mình sẽ làm
+[02:59] trong bài học ngày hôm nay mình sẽ làm cho các bạn là tá
+[03:00] cho các bạn là tá khi mà các bạn hay gặp nhất trong cái
+[03:02] khi mà các bạn hay gặp nhất trong cái việc mà định dạng có điều kiện nhá Ở mỗi
+[03:05] việc mà định dạng có điều kiện nhá Ở mỗi một cái ví dụ mình đã để một ít những
+[03:07] một cái ví dụ mình đã để một ít những việc rồi lại rất là thuận lợi cho các
+[03:08] việc rồi lại rất là thuận lợi cho các bạn thực hành đầu tiên mình sẽ được vào
+[03:10] bạn thực hành đầu tiên mình sẽ được vào cái ví dụ thứ nhất ở cái ví dụ thứ nhất
+[03:13] cái ví dụ thứ nhất ở cái ví dụ thứ nhất mình sẽ làm các bạn hai Phần đầu tiên là
+[03:16] mình sẽ làm các bạn hai Phần đầu tiên là các bạn sẽ tô màu mỗi cái phần doanh số
+[03:18] các bạn sẽ tô màu mỗi cái phần doanh số thôi và cái thứ hai là các bạn cho tô
+[03:20] thôi và cái thứ hai là các bạn cho tô màu cả cái hàng tức là cứ cái doanh số
+[03:22] màu cả cái hàng tức là cứ cái doanh số nào mà nó nhỏ hơn 3 nghìn đấy thì các
+[03:25] nào mà nó nhỏ hơn 3 nghìn đấy thì các bạn sẽ tô màu cả hàng đấy coi đây này
+[03:27] bạn sẽ tô màu cả hàng đấy coi đây này các bạn thấy chứ những cái tháng nào mà
+[03:29] các bạn thấy chứ những cái tháng nào mà có doanh số nhỏ hơn 3.000 sẽ tô màu cả
+[03:31] có doanh số nhỏ hơn 3.000 sẽ tô màu cả hàng đấy Còn đây là gì trong các trường
+[03:33] hàng đấy Còn đây là gì trong các trường hợp này là những cái dãy số nào nhắn
+[03:35] hợp này là những cái dãy số nào nhắn 3.000 thì nó chỉ Tô màu cái phần danh
+[03:36] 3.000 thì nó chỉ Tô màu cái phần danh chúa thôi đấy để làm việc này thì mình
+[03:38] chúa thôi đấy để làm việc này thì mình làm như sau nhá đầu tiên các bạn sẽ copy
+[03:40] làm như sau nhá đầu tiên các bạn sẽ copy này lại các bạn chỉ nháy được phải các
+[03:43] này lại các bạn chỉ nháy được phải các bạn copy các bạn sẽ mở ra đây mình sẽ
+[03:46] bạn copy các bạn sẽ mở ra đây mình sẽ làm mới cho các bạn nhá để cậu nhé phải
+[03:47] làm mới cho các bạn nhá để cậu nhé phải các bạn sẽ biết Castle mình sẽ biết
+[03:50] các bạn sẽ biết Castle mình sẽ biết value đi đấy bạn sẽ bấm ok Bây giờ mình
+[03:53] value đi đấy bạn sẽ bấm ok Bây giờ mình sẽ làm các bạn cái phần này nhá đầu tiên
+[03:56] sẽ làm các bạn cái phần này nhá đầu tiên được thì mình sẽ làm cái phần mà tô theo
+[03:58] được thì mình sẽ làm cái phần mà tô theo cái cột doanh số trước thôi thì à
+[04:00] cái cột doanh số trước thôi thì à khi bôi đen cái cột doanh số này sau đó
+[04:04] khi bôi đen cái cột doanh số này sau đó các bạn vào thẻ hôm các bạn vào cái
+[04:07] các bạn vào thẻ hôm các bạn vào cái conditional formatting nhá Thế còn Thúy
+[04:09] conditional formatting nhá Thế còn Thúy nhà ở đây nó sẽ có 1 số cái tùy chọn ở
+[04:11] nhà ở đây nó sẽ có 1 số cái tùy chọn ở trên này đấy thì đầu tiên là cái hay
+[04:14] trên này đấy thì đầu tiên là cái hay like suru đấy nó sẽ có 1 số Cái gì chọn
+[04:17] like suru đấy nó sẽ có 1 số Cái gì chọn mẫu cái glister tức là lớn hơn lesson là
+[04:20] mẫu cái glister tức là lớn hơn lesson là nhỏ hơn bituin ở giữa khi của Tu là bằng
+[04:23] nhỏ hơn bituin ở giữa khi của Tu là bằng đấy Cái Tech giáp cần tên thế ngàn những
+[04:26] đấy Cái Tech giáp cần tên thế ngàn những cái ô nào mà chứa cái chuỗi ký tự đến
+[04:29] cái ô nào mà chứa cái chuỗi ký tự đến đây là về ngày tháng Đây là cái giá trị
+[04:31] đây là về ngày tháng Đây là cái giá trị trùng nhau nhá thì trong cái yêu cầu của
+[04:34] trùng nhau nhá thì trong cái yêu cầu của mình là đang là nhỏ hoặc bằng đúng không
+[04:35] mình là đang là nhỏ hoặc bằng đúng không Thì trong này nó không có nhỏ hơn hoặc
+[04:36] Thì trong này nó không có nhỏ hơn hoặc bằng ở đây nó chỉ là nhỏ hơn thôi đúng
+[04:38] bằng ở đây nó chỉ là nhỏ hơn thôi đúng không thì các bạn sẽ thích vào cái
+[04:40] không thì các bạn sẽ thích vào cái mourou đấy thì nó sẽ tạo ra một cái cửa
+[04:43] mourou đấy thì nó sẽ tạo ra một cái cửa sổ mới là cái lưu for Mac dung á thì nó
+[04:46] sổ mới là cái lưu for Mac dung á thì nó sẽ lựa chọn cái thứ hai này format only
+[04:48] sẽ lựa chọn cái thứ hai này format only sell rát còn tên đấy Thì ở đây còn Thúy
+[04:52] sell rát còn tên đấy Thì ở đây còn Thúy Này gái mà mình lựa chọn ở đây là
+[04:54] Này gái mà mình lựa chọn ở đây là saverin đây trong các phần này các bạn
+[04:56] saverin đây trong các phần này các bạn đặc biệt chú ý cho mình nhá ở đây mình
+[04:58] đặc biệt chú ý cho mình nhá ở đây mình đang chọn là nhỏ hoặc bạn đúng không đấy
+[04:59] đang chọn là nhỏ hoặc bạn đúng không đấy thì
+[05:00] thì Ừ cái leger orito tức là diện nhóm học
+[05:03] Ừ cái leger orito tức là diện nhóm học bằng thì bạn xâm nhập vào đây thì các
+[05:05] bằng thì bạn xâm nhập vào đây thì các bạn sinh nhật số 3 nghìn đấy Bạn thấy ạ
+[05:08] bạn sinh nhật số 3 nghìn đấy Bạn thấy ạ thì nếu như mà cái giá trị nó ngoan
+[05:11] thì nếu như mà cái giá trị nó ngoan 3.000 thì sao thì mình sẽ format Đấy tức
+[05:14] 3.000 thì sao thì mình sẽ format Đấy tức là mình sẽ định dạng đúng ạ Cái trên nhá
+[05:16] là mình sẽ định dạng đúng ạ Cái trên nhá Cái này là cái điều kiện rồi đúng không
+[05:18] Cái này là cái điều kiện rồi đúng không và cái điều kiện này nếu như mà thỏa mãn
+[05:20] và cái điều kiện này nếu như mà thỏa mãn thì các bạn sẽ thích và pho mát đấy tích
+[05:22] thì các bạn sẽ thích và pho mát đấy tích và format để mình bị dạng đúng không Thì
+[05:25] và format để mình bị dạng đúng không Thì ở đây nó sẽ có bốn cái thẻ nạp thẻ
+[05:27] ở đây nó sẽ có bốn cái thẻ nạp thẻ rapper lại chả phone thẻ bơ và thẻ phim
+[05:29] rapper lại chả phone thẻ bơ và thẻ phim thì thông thường các định dạng mà mọi
+[05:31] thì thông thường các định dạng mà mọi người hay dùng nhất thì mọi người chỉ
+[05:32] người hay dùng nhất thì mọi người chỉ dùng cái thẻ phim và cái thẻ Phone này
+[05:34] dùng cái thẻ phim và cái thẻ Phone này thôi Ví dụ mình chọn cái thẻ sim này nhá
+[05:37] thôi Ví dụ mình chọn cái thẻ sim này nhá Nếu mình tô màu giống hệt tới đây đi thì
+[05:39] Nếu mình tô màu giống hệt tới đây đi thì các bạn sẽ chọn cái màu đỏ là màu vàng
+[05:41] các bạn sẽ chọn cái màu đỏ là màu vàng đúng không cái phần Phone này là diện
+[05:43] đúng không cái phần Phone này là diện mình sẽ tô đậm lên đấy các bạn xem bấm
+[05:46] mình sẽ tô đậm lên đấy các bạn xem bấm ok để cậu thấy đây là cái mẫu mà nó sẽ
+[05:49] ok để cậu thấy đây là cái mẫu mà nó sẽ hiển thị các bạn nhá các bạn ở ok đấy
+[05:52] hiển thị các bạn nhá các bạn ở ok đấy Bạn thấy chứ Như vậy là tất cả cái cây
+[05:54] Bạn thấy chứ Như vậy là tất cả cái cây số mà nhỏ hơn 3.000 đã được tô màu rồi
+[05:56] số mà nhỏ hơn 3.000 đã được tô màu rồi đấy ví dụ ở đây đang là 3.000 8 đúng
+[05:59] đấy ví dụ ở đây đang là 3.000 8 đúng không Mình sẽ nhập
+[06:00] không Mình sẽ nhập ở 8 hạng Thế nhá Đấy gọi enter thì lập
+[06:03] ở 8 hạng Thế nhá Đấy gọi enter thì lập tức nó sẽ tô màu đúng không đây ví dụ
+[06:05] tức nó sẽ tô màu đúng không đây ví dụ đang làm 1000 đúng không Mình sẽ đổi
+[06:07] đang làm 1000 đúng không Mình sẽ đổi thành hạ bốn nhìn lại không Enter thì nó
+[06:10] thành hạ bốn nhìn lại không Enter thì nó sẽ không tô màu nữa đấy Đây là cái cách
+[06:13] sẽ không tô màu nữa đấy Đây là cái cách để mình tô màu theo một cái cột dây số
+[06:15] để mình tô màu theo một cái cột dây số thôi Bây giờ mình tô màu cả hàng thì
+[06:17] thôi Bây giờ mình tô màu cả hàng thì mình làm như thế nào thì đầu tiên các
+[06:19] mình làm như thế nào thì đầu tiên các bạn phải bôi đen Cái vùng dữ liệu mà các
+[06:21] bạn phải bôi đen Cái vùng dữ liệu mà các bạn định tô màu đúng không Tức là mình
+[06:23] bạn định tô màu đúng không Tức là mình sẽ Bôi đen cả cái cột là của tháng này
+[06:24] sẽ Bôi đen cả cái cột là của tháng này nhá Đấy và cả cái cột cây số nữa sau đó
+[06:27] nhá Đấy và cả cái cột cây số nữa sau đó các bạn vào thẻ hôm các bạn và
+[06:29] các bạn vào thẻ hôm các bạn và conditional formatting thì với cái
+[06:32] conditional formatting thì với cái trường hợp mà mình tô cả hàng này thì
+[06:34] trường hợp mà mình tô cả hàng này thì các bạn phải chọn cái luôn cho mình nhá
+[06:35] các bạn phải chọn cái luôn cho mình nhá Rồi các bạn sẽ đích xuống dưới cuối cùng
+[06:38] Rồi các bạn sẽ đích xuống dưới cuối cùng Tức là mình sẽ sử dụng các công thức để
+[06:41] Tức là mình sẽ sử dụng các công thức để mình cảm thấy định dạng đúng không lại
+[06:43] mình cảm thấy định dạng đúng không lại các bạn kéo ra đây thịt các bạn sẽ tích
+[06:46] các bạn kéo ra đây thịt các bạn sẽ tích xuống dưới này để các bạn nhiều công
+[06:47] xuống dưới này để các bạn nhiều công thức nhá lại còn sẽ bằng là gì ạ Các bạn
+[06:49] thức nhá lại còn sẽ bằng là gì ạ Các bạn sẽ tích vào cái ô doanh số đầu tiên ở
+[06:52] sẽ tích vào cái ô doanh số đầu tiên ở trên cái vùng và các bạn chọn thì lúc
+[06:54] trên cái vùng và các bạn chọn thì lúc đấy Cái vùng Mình chọn là từ viện từ K6
+[06:56] đấy Cái vùng Mình chọn là từ viện từ K6 này đến l17 đúng không thì các bạn sẽ
+[06:59] này đến l17 đúng không thì các bạn sẽ Ừ Cái ol6 đây là đấy thì bạn chuối nhá
+[07:03] Ừ Cái ol6 đây là đấy thì bạn chuối nhá bên này nó sẽ có đô la trước chữ L và
+[07:06] bên này nó sẽ có đô la trước chữ L và Đôla trước Thứ sáu tôi là nó sẽ cố định
+[07:07] Đôla trước Thứ sáu tôi là nó sẽ cố định Alo Này đợi thì các bạn sẽ ở ngã 4 cho
+[07:09] Alo Này đợi thì các bạn sẽ ở ngã 4 cho mình một hai lần đấy rất là gì ạ Nó sẽ
+[07:13] mình một hai lần đấy rất là gì ạ Nó sẽ cố định cái cột lờ đấy thì nghĩa là cái
+[07:16] cố định cái cột lờ đấy thì nghĩa là cái cột ca này nó sẽ tô màu theo cái cột lờ
+[07:18] cột ca này nó sẽ tô màu theo cái cột lờ đấy còn hiểu ý không ạ Đấy nếu như mà
+[07:21] đấy còn hiểu ý không ạ Đấy nếu như mà cái lượt 6 này thì ạ Mà nhỏ hơn hoặc
+[07:23] cái lượt 6 này thì ạ Mà nhỏ hơn hoặc bằng 3000 nếu như nó nhỏ hoặc bằng 3000
+[07:27] bằng 3000 nếu như nó nhỏ hoặc bằng 3000 thì các bạn sẽ pho mát chứ mà mình sẽ
+[07:28] thì các bạn sẽ pho mát chứ mà mình sẽ định dạng ngọn Đúng không Lấy ví dụ các
+[07:30] định dạng ngọn Đúng không Lấy ví dụ các bạn Phim này mình sẽ tô màu à vàng này
+[07:33] bạn Phim này mình sẽ tô màu à vàng này đi và cái phần phone lại mình sẽ Cún
+[07:36] đi và cái phần phone lại mình sẽ Cún động nhá lại gọi thì bấm ok ok đấy bọn
+[07:39] động nhá lại gọi thì bấm ok ok đấy bọn đấy nhá như vậy đây là cả hàng rồi lại
+[07:42] đấy nhá như vậy đây là cả hàng rồi lại ví dụ cái giá trị này đang làm 1000 ở
+[07:44] ví dụ cái giá trị này đang làm 1000 ở một đúng không Mình sẽ đổi thành 4.500
+[07:46] một đúng không Mình sẽ đổi thành 4.500 hạ thế nhá các bạn enter đây Thì như vậy
+[07:48] hạ thế nhá các bạn enter đây Thì như vậy là cái hàng này nó sẽ không còn được tô
+[07:50] là cái hàng này nó sẽ không còn được tô màu nữa tại vì 4.500 Nó lớn hơn 3.000
+[07:53] màu nữa tại vì 4.500 Nó lớn hơn 3.000 đúng không đây ví dụ Cái ô này đang là
+[07:56] đúng không đây ví dụ Cái ô này đang là diện 3.061 là lớn hơn 3.000 đúng không
+[07:58] diện 3.061 là lớn hơn 3.000 đúng không Bây giờ mình
+[08:00] Bây giờ mình cho ví dụ 2.900 Tức là nó nhỏ hơn 3.000
+[08:03] cho ví dụ 2.900 Tức là nó nhỏ hơn 3.000 các bạn enter đấy thì như vậy cả cái
+[08:05] các bạn enter đấy thì như vậy cả cái hàng tháng 8 này đã được tô màu đấy cảm
+[08:08] hàng tháng 8 này đã được tô màu đấy cảm thấy không khá là hay ạ Ok mình sẽ sang
+[08:11] thấy không khá là hay ạ Ok mình sẽ sang cái ví dụ Thứ hai là mình tô màu như ô
+[08:14] cái ví dụ Thứ hai là mình tô màu như ô mà có doanh số nhỏ hơn ob6 thì các bạn
+[08:17] mà có doanh số nhỏ hơn ob6 thì các bạn chú ý nhá Lúc nãy mình tô màu là gì mình
+[08:19] chú ý nhá Lúc nãy mình tô màu là gì mình đã cố định cái giá trị 3.000 thì bây giờ
+[08:22] đã cố định cái giá trị 3.000 thì bây giờ thay vì cái giá trị 3.000 thì mình sẽ
+[08:24] thay vì cái giá trị 3.000 thì mình sẽ gán vào một cái ô giả sử như cái ôm mình
+[08:26] gán vào một cái ô giả sử như cái ôm mình cần cá là ob6 thì đầu tiên mình sẽ nhập
+[08:28] cần cá là ob6 thì đầu tiên mình sẽ nhập cái giá trị là 3000đ đây lại tức là nó
+[08:31] cái giá trị là 3000đ đây lại tức là nó sẽ tương ứng với cái ví dụ về sau Nhưng
+[08:33] sẽ tương ứng với cái ví dụ về sau Nhưng mà mình sẽ tham chiếu đến cái ô là ob6
+[08:36] mà mình sẽ tham chiếu đến cái ô là ob6 chứ không phải là mình sẽ ráng vào cái
+[08:37] chứ không phải là mình sẽ ráng vào cái giá trị 3.000 đúng ạ Đấy bây giờ để làm
+[08:39] giá trị 3.000 đúng ạ Đấy bây giờ để làm việc này các bạn sẽ copy ra cái vùng dữ
+[08:41] việc này các bạn sẽ copy ra cái vùng dữ liệu mới về nhà các bạn nhá lại gọi Bôi
+[08:43] liệu mới về nhà các bạn nhá lại gọi Bôi đen này các bạn nhớ phải các bạn copy
+[08:45] đen này các bạn nhớ phải các bạn copy bây giờ ví dụ xin cấp visa đây nhá các
+[08:47] bây giờ ví dụ xin cấp visa đây nhá các bạn nhớ được phải này các bạn chọn paste
+[08:49] bạn nhớ được phải này các bạn chọn paste special Mình sẽ chọn vali đi lấy Gọi sẽ
+[08:52] special Mình sẽ chọn vali đi lấy Gọi sẽ bấm ok Một là các bạn làm như thế này
+[08:54] bấm ok Một là các bạn làm như thế này nhá Không có thì ví dụ Các bạn có thể
+[08:56] nhá Không có thì ví dụ Các bạn có thể xóa đi Các bạn nhớ thì phải mình đi hết
+[08:58] xóa đi Các bạn nhớ thì phải mình đi hết đi hoặc là gì ạ Bây giờ mình
+[09:00] đi hoặc là gì ạ Bây giờ mình à Dạ ở đây đi nhá Đấy thì lúc trước là
+[09:02] à Dạ ở đây đi nhá Đấy thì lúc trước là mình định dạng có điều kiện rồi đúng
+[09:03] mình định dạng có điều kiện rồi đúng không Bây giờ để xóa cái bị dạ có điều
+[09:05] không Bây giờ để xóa cái bị dạ có điều kiện thì rất là đơn giản thôi các bạn sẽ
+[09:06] kiện thì rất là đơn giản thôi các bạn sẽ Bôi đen Cái vùng dữ liệu ở đâu đấy cọ
+[09:08] Bôi đen Cái vùng dữ liệu ở đâu đấy cọ xem vào các bạn sẽ vào cái phần
+[09:10] xem vào các bạn sẽ vào cái phần conditional formatting họ sẽ chọn Dẹp
+[09:13] conditional formatting họ sẽ chọn Dẹp cái bạn sẽ chọn cái Crew Tức là mình sẽ
+[09:16] cái bạn sẽ chọn cái Crew Tức là mình sẽ xóa cái Du này đi đúng không để mình sẽ
+[09:18] xóa cái Du này đi đúng không để mình sẽ xóa cái phần mà mình lựa chọn thôi để
+[09:20] xóa cái phần mà mình lựa chọn thôi để còn sơ sinh vào đâu để thì như vậy các
+[09:22] còn sơ sinh vào đâu để thì như vậy các cô đây là không được tô màu nữa đúng
+[09:23] cô đây là không được tô màu nữa đúng không Bây giờ mình sẽ làm ở đây nhá đầu
+[09:25] không Bây giờ mình sẽ làm ở đây nhá đầu tiên các bạn sẽ Bôi đen Cái doanh số mà
+[09:28] tiên các bạn sẽ Bôi đen Cái doanh số mà các bạn cần tô màu đúng không ạ Rồi sau
+[09:29] các bạn cần tô màu đúng không ạ Rồi sau đó các bạn sẽ vào cái thẻ hô các bạn và
+[09:32] đó các bạn sẽ vào cái thẻ hô các bạn và con disk format tinh thì với cái trường
+[09:34] con disk format tinh thì với cái trường hợp mà rẻ mình sẽ Tô màu những cái cây
+[09:36] hợp mà rẻ mình sẽ Tô màu những cái cây số mà nó nhỏ như một cái ô là ob6 đấy
+[09:38] số mà nó nhỏ như một cái ô là ob6 đấy thì các bạn chọn cái lu này để mình làm
+[09:41] thì các bạn chọn cái lu này để mình làm nhá Đấy thì với trường hợp này các bạn
+[09:46] nhá Đấy thì với trường hợp này các bạn sẽ thích vào cái dưới này để mình nhập
+[09:47] sẽ thích vào cái dưới này để mình nhập công thức Đúng không các bạn thân bằng
+[09:49] công thức Đúng không các bạn thân bằng bằng diện các bạn sẽ tích và cái ô doanh
+[09:51] bằng diện các bạn sẽ tích và cái ô doanh số đầu tiên ở đây này để chắc là cái Ôi
+[09:53] số đầu tiên ở đây này để chắc là cái Ôi S6 đã chọn xe gì Các bạn thân F4 cho
+[09:56] S6 đã chọn xe gì Các bạn thân F4 cho mình 1 2 3 lần đợi Tức là mình không cố
+[09:59] mình 1 2 3 lần đợi Tức là mình không cố định đi cả đúng
+[10:00] định đi cả đúng có quyền áp dụng công thức cho một cái ô
+[10:02] có quyền áp dụng công thức cho một cái ô này giống như là cho toàn bộ cái ôm mình
+[10:04] này giống như là cho toàn bộ cái ôm mình chọn ở dưới này đấy mà gì ạ Mà nhỏ hoặc
+[10:07] chọn ở dưới này đấy mà gì ạ Mà nhỏ hoặc bằng thay vì lúc nãy mình nhỏ hơn hoặc
+[10:10] bằng thay vì lúc nãy mình nhỏ hơn hoặc bằng 3000 không thì mình sẽ tích Chọn
+[10:11] bằng 3000 không thì mình sẽ tích Chọn vào cái ô này là ob6 thì các bạn Thúy
+[10:14] vào cái ô này là ob6 thì các bạn Thúy nhá riêng cái ob6 thì bạn sẽ vẫn để đô
+[10:17] nhá riêng cái ob6 thì bạn sẽ vẫn để đô la trước B và trước sáu để Tại vì sao
+[10:20] la trước B và trước sáu để Tại vì sao lại cái ob6 này luôn luôn cố định các
+[10:22] lại cái ob6 này luôn luôn cố định các cách tháng khác thì các doanh số đó đều
+[10:24] cách tháng khác thì các doanh số đó đều so sánh với cả ob6 cho nên là cái B6 này
+[10:27] so sánh với cả ob6 cho nên là cái B6 này các bạn cứ để nguyên như mình là có đô
+[10:29] các bạn cứ để nguyên như mình là có đô la trước B và Đôla chết sáu lúc đấy thì
+[10:32] la trước B và Đôla chết sáu lúc đấy thì nếu như mà gì ạ Cái danh số này nhỏ hơn
+[10:33] nếu như mà gì ạ Cái danh số này nhỏ hơn ob6 thì các bạn sẽ format Thế là mình sẽ
+[10:36] ob6 thì các bạn sẽ format Thế là mình sẽ bị giam nó nhá lại cái phone nhá ở đây
+[10:39] bị giam nó nhá lại cái phone nhá ở đây là thèm phone không có phải rất sôi động
+[10:41] là thèm phone không có phải rất sôi động này cái phần Phi đây ví dụ mình tô màu
+[10:44] này cái phần Phi đây ví dụ mình tô màu này đi Mình không thích mò vàng nữa thì
+[10:47] này đi Mình không thích mò vàng nữa thì mình sẽ chọn những màu xanh này chẳng
+[10:48] mình sẽ chọn những màu xanh này chẳng hạn nha các bạn sẽ bấm ok ok đấy bạn đấy
+[10:51] hạn nha các bạn sẽ bấm ok ok đấy bạn đấy chứ như vậy là toàn bộ các doanh số nó
+[10:52] chứ như vậy là toàn bộ các doanh số nó nhỏ hơn 3.000 ở đây nó đã được tô màu đó
+[10:55] nhỏ hơn 3.000 ở đây nó đã được tô màu đó Bây giờ mình sẽ thay 3.000 và 1.000 hạ
+[10:57] Bây giờ mình sẽ thay 3.000 và 1.000 hạ thế các bạn enter thì như vậy
+[11:00] thế các bạn enter thì như vậy em có cái danh số nào nhỏ 1.000 cả đúng
+[11:01] em có cái danh số nào nhỏ 1.000 cả đúng không Thì nó sẽ không tô màu bây giờ ví
+[11:03] không Thì nó sẽ không tô màu bây giờ ví dụ mình tăng lên là diện 2000 đi đó lại
+[11:07] dụ mình tăng lên là diện 2000 đi đó lại thì những cái ôm mà doanh số nhỏ 2000 nó
+[11:09] thì những cái ôm mà doanh số nhỏ 2000 nó đã được tô màu đúng không Bây giờ ví dụ
+[11:10] đã được tô màu đúng không Bây giờ ví dụ là 10.000 đợi thì toàn bộ các cô này đều
+[11:14] là 10.000 đợi thì toàn bộ các cô này đều nhỏ 10.000 bát tô màu đúng không lại Bây
+[11:16] nhỏ 10.000 bát tô màu đúng không lại Bây giờ mình sẽ cho về bang Hình như lúc đầu
+[11:17] giờ mình sẽ cho về bang Hình như lúc đầu nhá Đấy bạn thấy không ra làm hai Okay
+[11:21] nhá Đấy bạn thấy không ra làm hai Okay tiếp theo mình cho tô màu cả hàng đúng
+[11:23] tiếp theo mình cho tô màu cả hàng đúng không Chỉ đầu tiên các bạn sẽ Bôi đen
+[11:25] không Chỉ đầu tiên các bạn sẽ Bôi đen Cái vùng dữ liệu của mình ở đây Đấy tức
+[11:27] Cái vùng dữ liệu của mình ở đây Đấy tức là gì từ cái ô G6 đến cái ô diện ố h17
+[11:31] là gì từ cái ô G6 đến cái ô diện ố h17 đây này sau đó bạn vào thẻ hô các bạn và
+[11:34] đây này sau đó bạn vào thẻ hô các bạn và con this new format tinh là các bạn sẽ
+[11:36] con this new format tinh là các bạn sẽ chọn cho mình là cái lu đó thì các bạn
+[11:39] chọn cho mình là cái lu đó thì các bạn sẽ thích vào cái cuối cùng này để các
+[11:41] sẽ thích vào cái cuối cùng này để các bạn là công thức nhé mình kéo ra đây lại
+[11:45] bạn là công thức nhé mình kéo ra đây lại thì có ở đây còn sẽ bằng gì ạ bằng các
+[11:47] thì có ở đây còn sẽ bằng gì ạ bằng các bạn sẽ tích và cái ô dân số đầu tiên của
+[11:50] bạn sẽ tích và cái ô dân số đầu tiên của cái vùng bình chọn này thì cũng như cái
+[11:52] cái vùng bình chọn này thì cũng như cái bài trước rồi các bạn sẽ nhấn bố cho
+[11:53] bài trước rồi các bạn sẽ nhấn bố cho mình một hai lần đấy tức là rẻ mình sẽ
+[11:57] mình một hai lần đấy tức là rẻ mình sẽ cố định đô la trước cái cục hát này thôi
+[11:58] cố định đô la trước cái cục hát này thôi đấy tình
+[12:00] đấy tình ừ giờ này sẽ ăn theo màu của cái cô khác
+[12:03] ừ giờ này sẽ ăn theo màu của cái cô khác đúng ạ Nếu như mà h6o diện và nhỏ hoặc
+[12:06] đúng ạ Nếu như mà h6o diện và nhỏ hoặc bằng bằng cái ô B6 ở đây đấy thì B6 này
+[12:09] bằng bằng cái ô B6 ở đây đấy thì B6 này nó phải luôn luôn cố định trước B và
+[12:11] nó phải luôn luôn cố định trước B và trước sau nhắn tin là các bạn sẽ không
+[12:12] trước sau nhắn tin là các bạn sẽ không bấm F4 gì ở cái Obi 62 đâu đấy thì nếu
+[12:16] bấm F4 gì ở cái Obi 62 đâu đấy thì nếu như mà nói nhỏ Nobi 6 thì các bạn sẽ vào
+[12:18] như mà nói nhỏ Nobi 6 thì các bạn sẽ vào pho mát đúng không lại khi ở đây mình sẽ
+[12:21] pho mát đúng không lại khi ở đây mình sẽ tô màu xanh này đi lại cái phone ở đây
+[12:24] tô màu xanh này đi lại cái phone ở đây mình sẽ tố lượng nhá để các bạn nếu mà
+[12:27] mình sẽ tố lượng nhá để các bạn nếu mà thích cái màu chữ ở đây ví dụ KL mình sẽ
+[12:29] thích cái màu chữ ở đây ví dụ KL mình sẽ cho màu đỏ đi chẳng hạn thế nhá ở thì
+[12:31] cho màu đỏ đi chẳng hạn thế nhá ở thì bạn sẽ bấm ok thì đây là cái mẫu mà nó
+[12:33] bạn sẽ bấm ok thì đây là cái mẫu mà nó hiển thị đúng không gọi thì bấm ok đấy
+[12:35] hiển thị đúng không gọi thì bấm ok đấy Bạn thấy chứ Thì như vậy toàn bộ các
+[12:37] Bạn thấy chứ Thì như vậy toàn bộ các cách tháng mà nó có doanh thu mà nhỏ hơn
+[12:39] cách tháng mà nó có doanh thu mà nhỏ hơn 3.000 ở đây thì nó sẽ tô màu cả hàng lại
+[12:42] 3.000 ở đây thì nó sẽ tô màu cả hàng lại ví dụ đây mình sẽ đổi thành 5.000 để bạn
+[12:46] ví dụ đây mình sẽ đổi thành 5.000 để bạn thấy cho lúc này rất là nhiều hàng đã
+[12:47] thấy cho lúc này rất là nhiều hàng đã được thì đã được tô màu và được chữ màu
+[12:50] được thì đã được tô màu và được chữ màu đỏ và tố đậu đúng ạ lại rất là hai ạ Ok
+[12:55] đỏ và tố đậu đúng ạ lại rất là hai ạ Ok sang ví dụ thứ ba là việc mình sẽ Tô màu
+[12:57] sang ví dụ thứ ba là việc mình sẽ Tô màu những cái khách hàng mới ở đây nhá
+[13:00] những cái khách hàng mới ở đây nhá Ừ cái năm 2019 mình có một cái tập khách
+[13:03] Ừ cái năm 2019 mình có một cái tập khách hàng là như thế này mình sẽ làm ở đây
+[13:05] hàng là như thế này mình sẽ làm ở đây cho các bạn hai cái ví dụ một tờ gì ạ
+[13:07] cho các bạn hai cái ví dụ một tờ gì ạ trong cái năm 2020 này mình sẽ kiểm tra
+[13:09] trong cái năm 2020 này mình sẽ kiểm tra là có những khách hàng nào là khách hàng
+[13:11] là có những khách hàng nào là khách hàng mới đúng ạ thì các khách hàng mới dọn
+[13:13] mới đúng ạ thì các khách hàng mới dọn thấy chưa đã được tô màu ở đây là rất là
+[13:15] thấy chưa đã được tô màu ở đây là rất là đẹp ạ còn trong cái ví dụ ở bên này thì
+[13:18] đẹp ạ còn trong cái ví dụ ở bên này thì nó sẽ tô màu cả hàng Tức là mình luôn
+[13:20] nó sẽ tô màu cả hàng Tức là mình luôn luôn làm hai cái ví dụ một là các bạn sẽ
+[13:22] luôn làm hai cái ví dụ một là các bạn sẽ Tô màu cái khách hàng mà nó mới thôi và
+[13:24] Tô màu cái khách hàng mà nó mới thôi và hay là các bạn sẽ tô màu cả cái của
+[13:26] hay là các bạn sẽ tô màu cả cái của doanh thu thế nào mình dẫn tô màu toàn
+[13:28] doanh thu thế nào mình dẫn tô màu toàn bộ cả cái hàng nhé thì đây là cái kết
+[13:31] bộ cả cái hàng nhé thì đây là cái kết quả mình đã làm rồi bây giờ mình sẽ xóa
+[13:32] quả mình đã làm rồi bây giờ mình sẽ xóa đi mình làm mới từ đầu nha các bạn sẽ
+[13:34] đi mình làm mới từ đầu nha các bạn sẽ Bôi đen Cái vùng dữ liệu của các bạn đấy
+[13:36] Bôi đen Cái vùng dữ liệu của các bạn đấy Sau đó bạn vào cái thẻ hôm này các bạn
+[13:39] Sau đó bạn vào cái thẻ hôm này các bạn vào conditional formatting các bạn chọn
+[13:41] vào conditional formatting các bạn chọn đấy clooney các bạn chọn cái đầu tiên
+[13:43] đấy clooney các bạn chọn cái đầu tiên đây này tức là mình sẽ xóa những cái
+[13:45] đây này tức là mình sẽ xóa những cái định dạng cho những cái xe mà mình Bôi
+[13:46] định dạng cho những cái xe mà mình Bôi đen thôi lại các bạn sẽ chọn cái trên
+[13:48] đen thôi lại các bạn sẽ chọn cái trên này đấy thì những cái Cell mình Bôi đen
+[13:50] này đấy thì những cái Cell mình Bôi đen nó sẽ xóa định dạng đi thì đầu tiên nhá
+[13:53] nó sẽ xóa định dạng đi thì đầu tiên nhá mình sẽ kiểm tra những khách hàng nào là
+[13:55] mình sẽ kiểm tra những khách hàng nào là khách hàng mới đúng không Thì bây giờ để
+[13:57] khách hàng mới đúng không Thì bây giờ để kiểm tra cái khách hàng nào là cách làm
+[13:58] kiểm tra cái khách hàng nào là cách làm mới đúng không thì các bạn sử dùng
+[14:00] mới đúng không thì các bạn sử dùng tin tức là mình sẽ đến gì ạ Mình sẽ đến
+[14:02] tin tức là mình sẽ đến gì ạ Mình sẽ đến trong các tập khách hàng này này có
+[14:04] trong các tập khách hàng này này có khách hàng nào mà không nằm trong cái
+[14:05] khách hàng nào mà không nằm trong cái này không Nếu như mà kết quả là bằng
+[14:07] này không Nếu như mà kết quả là bằng không thì chứng tỏ là khách hàng mới nhá
+[14:09] không thì chứng tỏ là khách hàng mới nhá Đây mình sẽ làm công thức ở Cái ô này
+[14:11] Đây mình sẽ làm công thức ở Cái ô này thế này các bạn sẽ bằng để các bạn có
+[14:13] thế này các bạn sẽ bằng để các bạn có thể bằng cái hàng cao ít thấy cái vào
+[14:16] thể bằng cái hàng cao ít thấy cái vào cái ghét nhé các bạn ấn mũi tên xuống
+[14:17] cái ghét nhé các bạn ấn mũi tên xuống gọi tương tác này Ví dụ mình làm cái kz
+[14:20] gọi tương tác này Ví dụ mình làm cái kz đi thì đầu tiên là cái vùng điều kiện
+[14:23] đi thì đầu tiên là cái vùng điều kiện đúng không thì con sẽ chọn toàn bộ cái
+[14:25] đúng không thì con sẽ chọn toàn bộ cái danh sách các máy khách hàng cũ ở đây
+[14:27] danh sách các máy khách hàng cũ ở đây tức là khách hàng của năm 2019 đây này
+[14:29] tức là khách hàng của năm 2019 đây này đấy các bạn sẽ nhấn F4 để cố định nhá
+[14:31] đấy các bạn sẽ nhấn F4 để cố định nhá phẩy mình kiểm tra của kẻ khách hàng này
+[14:35] phẩy mình kiểm tra của kẻ khách hàng này đấy Còn em chơi Đấy tức là lớn như bằng
+[14:38] đấy Còn em chơi Đấy tức là lớn như bằng 1 đi thì khách hàng này là khách hàng đã
+[14:40] 1 đi thì khách hàng này là khách hàng đã có của năm 2019 rồi Như vậy khách hàng
+[14:42] có của năm 2019 rồi Như vậy khách hàng này không phải là khách hàng mới đúng
+[14:43] này không phải là khách hàng mới đúng không để họ thích lúc vào đây đây thì
+[14:46] không để họ thích lúc vào đây đây thì những cái khách hàng nào mà bằng không
+[14:47] những cái khách hàng nào mà bằng không này là khách hàng mới lại con thấy cho
+[14:49] này là khách hàng mới lại con thấy cho thì khá là nhiều khách hàng mà bằng
+[14:50] thì khá là nhiều khách hàng mà bằng không đấy Cái cách mình làm mình như vậy
+[14:52] không đấy Cái cách mình làm mình như vậy nha Bây giờ mình sẽ xóa đi và mình sẽ
+[14:55] nha Bây giờ mình sẽ xóa đi và mình sẽ định dạng có điều kiện thì đầu tiên các
+[14:57] định dạng có điều kiện thì đầu tiên các bạn sẽ Bôi đen Cái vùng khách hàng của
+[14:59] bạn sẽ Bôi đen Cái vùng khách hàng của cái năm mới là năm
+[15:00] cái năm mới là năm Ừ Rồi sau đó thì các bạn vào thẻ hôm các
+[15:05] Ừ Rồi sau đó thì các bạn vào thẻ hôm các bạn vào thì con đi xin được format tinh
+[15:07] bạn vào thì con đi xin được format tinh Các bạn chọn cho mình là lâu rồi này thì
+[15:11] Các bạn chọn cho mình là lâu rồi này thì các bạn sẽ thích vào cái cuối cùng để
+[15:12] các bạn sẽ thích vào cái cuối cùng để mình sử dụng công thức nhá Đợi thì mình
+[15:14] mình sử dụng công thức nhá Đợi thì mình sẽ dùng cái hàm cao áp hoặc ASD các bạn
+[15:16] sẽ dùng cái hàm cao áp hoặc ASD các bạn sẽ bằng đấy ạ bằng cao ý ghét đi hả Thế
+[15:21] sẽ bằng đấy ạ bằng cao ý ghét đi hả Thế con sẽ mở ngoặc ra các bạn sẽ chọn một
+[15:23] con sẽ mở ngoặc ra các bạn sẽ chọn một và các bạn chọn cả 1B hoặc các bạn chọn
+[15:25] và các bạn chọn cả 1B hoặc các bạn chọn toàn bộ khách hàng này không đấy ví dụ
+[15:26] toàn bộ khách hàng này không đấy ví dụ mình Chọn toàn bộ khách hàng này rồi Các
+[15:29] mình Chọn toàn bộ khách hàng này rồi Các bạn chú ý nhá cái cao ít cái vùng điều
+[15:31] bạn chú ý nhá cái cao ít cái vùng điều kiện ở đây thì nó có đôla rồi cho các
+[15:34] kiện ở đây thì nó có đôla rồi cho các bạn không sửa thì cả lâu nhé tại vì cái
+[15:35] bạn không sửa thì cả lâu nhé tại vì cái vùng này luôn là cố định đúng không đấy
+[15:37] vùng này luôn là cố định đúng không đấy phẩy Đến Theo các điều kiện gì đến theo
+[15:40] phẩy Đến Theo các điều kiện gì đến theo cái khách hàng đầu tiên ở đây là cái S6
+[15:42] cái khách hàng đầu tiên ở đây là cái S6 thì các bạn sẽ nhấn F4 cho mình 1 2 3
+[15:44] thì các bạn sẽ nhấn F4 cho mình 1 2 3 lần Tức là cái S6 này không có đôla thì
+[15:47] lần Tức là cái S6 này không có đôla thì cả đúng không Tại vì mình sẽ áp dụng cho
+[15:48] cả đúng không Tại vì mình sẽ áp dụng cho các cái khách hàng ở dưới này nữa rồi
+[15:51] các cái khách hàng ở dưới này nữa rồi các bạn đóng mọc lại để xong cái làm cá
+[15:53] các bạn đóng mọc lại để xong cái làm cá tép nhá mà nó bằng điện mà nó bằng 0 tức
+[15:57] tép nhá mà nó bằng điện mà nó bằng 0 tức là nó không có trong các tàu khách hàng
+[15:58] là nó không có trong các tàu khách hàng cũ thì gọi cho phòng mà
+[16:00] cũ thì gọi cho phòng mà ý nghĩa là nó là khách hàng mới đó ví dụ
+[16:03] ý nghĩa là nó là khách hàng mới đó ví dụ mình sẽ tô động này khi ở đây mình sẽ
+[16:05] mình sẽ tô động này khi ở đây mình sẽ cho cái màu này nhá lại Tùy các bạn Các
+[16:07] cho cái màu này nhá lại Tùy các bạn Các bạn thích màu gì thì bọn tôi Ok mình sẽ
+[16:10] bạn thích màu gì thì bọn tôi Ok mình sẽ ok đấy bọn đấy chứ như vậy lên là gái xe
+[16:13] ok đấy bọn đấy chứ như vậy lên là gái xe bốn là khách hàng mới này Đây là khách
+[16:14] bốn là khách hàng mới này Đây là khách hàng mới để những cái khách hàng nào tô
+[16:16] hàng mới để những cái khách hàng nào tô đậm thì nào khách hàng mới đúng không
+[16:17] đậm thì nào khách hàng mới đúng không thấy ví dụ cái gái se1 ở đây các bạn
+[16:20] thấy ví dụ cái gái se1 ở đây các bạn thích đốt bạn sửa là diện gái xe 4 thả
+[16:22] thích đốt bạn sửa là diện gái xe 4 thả thấy nha các bạn enter thì lúc này bên
+[16:24] thấy nha các bạn enter thì lúc này bên này cái thứ 4 là cái thằng cụ và gái sau
+[16:26] này cái thứ 4 là cái thằng cụ và gái sau một sẽ là khách hàng mới thì ăn đu này
+[16:28] một sẽ là khách hàng mới thì ăn đu này nhá OK thì tương tự nhá để tô màu toàn
+[16:32] nhá OK thì tương tự nhá để tô màu toàn bộ hàng thì các bạn sẽ Bôi đen cái phần
+[16:34] bộ hàng thì các bạn sẽ Bôi đen cái phần khách hàng và doanh thu đấy các bạn Bôi
+[16:37] khách hàng và doanh thu đấy các bạn Bôi đen toàn bộ cái vùng dữ liệu khách hàng
+[16:39] đen toàn bộ cái vùng dữ liệu khách hàng và doanh thu sau đó bạn vào thẻ hô các
+[16:41] và doanh thu sau đó bạn vào thẻ hô các bạn vào conditional formatting đời Các
+[16:43] bạn vào conditional formatting đời Các bạn sẽ vào cái lu các bạn sẽ tích và cái
+[16:46] bạn sẽ vào cái lu các bạn sẽ tích và cái cuối cùng để mình sử dụng công thức nha
+[16:48] cuối cùng để mình sử dụng công thức nha các bạn thân bằng điện bằng cao USD các
+[16:52] các bạn thân bằng điện bằng cao USD các bạn mở ngoặc ra thì bạn sẽ Bôi đen toàn
+[16:54] bạn mở ngoặc ra thì bạn sẽ Bôi đen toàn bộ khách hàng cũ và các bạn tất cả các
+[16:55] bộ khách hàng cũ và các bạn tất cả các cột bên này nhá Đấy có tất cả búp bê
+[16:58] cột bên này nhá Đấy có tất cả búp bê cũng được đấy phải gì ạ
+[17:00] cũng được đấy phải gì ạ đi theo cái khách hàng ở đây là cái
+[17:02] đi theo cái khách hàng ở đây là cái khách hàng đầu tiên hát chào đúng không
+[17:04] khách hàng đầu tiên hát chào đúng không riêng ph6 là các bạn phải lớn gấp 4 cho
+[17:06] riêng ph6 là các bạn phải lớn gấp 4 cho mình một hai lần các bạn chỉ ấn hai lần
+[17:08] mình một hai lần các bạn chỉ ấn hai lần tôi tại vì sao ạ tại vì cái cụ y này là
+[17:11] tôi tại vì sao ạ tại vì cái cụ y này là của doanh thu nó sẽ ăn màu theo cuốn Hát
+[17:12] của doanh thu nó sẽ ăn màu theo cuốn Hát Này Cho nên nếu như mà các bạn bỏ đô la
+[17:15] Này Cho nên nếu như mà các bạn bỏ đô la trước khi hát mà nó sẽ không đúng lên
+[17:16] trước khi hát mà nó sẽ không đúng lên nhá đây thì ở đây nó phải là đô la hát
+[17:18] nhá đây thì ở đây nó phải là đô la hát xong là số 6 luôn cái nào nó sẽ cố định
+[17:20] xong là số 6 luôn cái nào nó sẽ cố định con hát và cột y là ngọn ăn theo màu của
+[17:23] con hát và cột y là ngọn ăn theo màu của cái quần hát này các bạn xem đó ngược
+[17:25] cái quần hát này các bạn xem đó ngược lại để xong cái hàm kpf nhá Nếu như kết
+[17:28] lại để xong cái hàm kpf nhá Nếu như kết quả của cái hàm cao f này mà bằng không
+[17:30] quả của cái hàm cao f này mà bằng không thì có bạn xem pho mát để rất là khách
+[17:32] thì có bạn xem pho mát để rất là khách hàng mới đúng không Đây mình cũng tương
+[17:34] hàng mới đúng không Đây mình cũng tương tự các bạn vào thẻ phim đây mình sẽ tô
+[17:36] tự các bạn vào thẻ phim đây mình sẽ tô màu ví dụ là màu xanh này đi đấy phone
+[17:39] màu ví dụ là màu xanh này đi đấy phone là mình sẽ tô đậm đi lại gằn phải bấm ok
+[17:42] là mình sẽ tô đậm đi lại gằn phải bấm ok ok đấy bạn thấy cho như vậy Những khách
+[17:44] ok đấy bạn thấy cho như vậy Những khách hàng mới là nó giống hệt bên này rồi
+[17:46] hàng mới là nó giống hệt bên này rồi nhưng mà nó sẽ tô gì cả cái phần doanh
+[17:48] nhưng mà nó sẽ tô gì cả cái phần doanh thu ở đây là rất là hai ạ sang ví dụ thứ
+[17:52] thu ở đây là rất là hai ạ sang ví dụ thứ tư là việc mình tô màu những khách hàng
+[17:54] tư là việc mình tô màu những khách hàng cũ tức là này cái này nó lại ngược với
+[17:56] cũ tức là này cái này nó lại ngược với cả cái gì nó lại ngược cả với cái bài số
+[17:59] cả cái gì nó lại ngược cả với cái bài số 3 này thì
+[18:00] 3 này thì khi mà hàng cũ đó tô màu thôi lại kiểu
+[18:02] khi mà hàng cũ đó tô màu thôi lại kiểu như là cái nhà thân thiết đấy thì với
+[18:04] như là cái nhà thân thiết đấy thì với bài này nhá thì các bạn sẽ làm về nhà
+[18:06] bài này nhá thì các bạn sẽ làm về nhà cho mình nhá Đây là bài tập về nhà cho
+[18:07] cho mình nhá Đây là bài tập về nhà cho các bạn nhá Đấy bởi vì cái này nó giống
+[18:09] các bạn nhá Đấy bởi vì cái này nó giống hệt với cả cái bài số 3 thôi thì cái bài
+[18:12] hệt với cả cái bài số 3 thôi thì cái bài số 3 thay vì là kpf kia nó bằng không ấy
+[18:15] số 3 thay vì là kpf kia nó bằng không ấy thì các bạn có thể dán là cave mà lớn
+[18:17] thì các bạn có thể dán là cave mà lớn hơn không nó chỉ khác là như thế thôi
+[18:19] hơn không nó chỉ khác là như thế thôi nhá thì các bạn sẽ làm cho mình cái này
+[18:21] nhá thì các bạn sẽ làm cho mình cái này ở bài tập về nhà nhá Ok mình sẽ sang cái
+[18:26] ở bài tập về nhà nhá Ok mình sẽ sang cái bài số 5 là Tô màu những ngày cuối tuần
+[18:27] bài số 5 là Tô màu những ngày cuối tuần tức là thứ 7 và chủ nhật đấy thì đây là
+[18:30] tức là thứ 7 và chủ nhật đấy thì đây là cái tô theo một ngày đây là tô cả hàng
+[18:32] cái tô theo một ngày đây là tô cả hàng đấy và nâng cao là thứ Bảy thì tôi một
+[18:36] đấy và nâng cao là thứ Bảy thì tôi một màu và chủ nhật thì tôi một mặc đấy bạn
+[18:38] màu và chủ nhật thì tôi một mặc đấy bạn thấy cho ví dụ thứ bảy là màu này chủ
+[18:40] thấy cho ví dụ thứ bảy là màu này chủ nhật là màu này đấy thì đây mình sẽ tô
+[18:42] nhật là màu này đấy thì đây mình sẽ tô màu thế nào mình bị dạng theo ba cái ứng
+[18:45] màu thế nào mình bị dạng theo ba cái ứng dụng này nhá lại đầu tiên các bạn sẽ Bôi
+[18:46] dụng này nhá lại đầu tiên các bạn sẽ Bôi đen này phải gọn xem vào thì hôm các bạn
+[18:49] đen này phải gọn xem vào thì hôm các bạn vào conditional formatting các bạn sẽ
+[18:51] vào conditional formatting các bạn sẽ vào cái clip rudy là các bạn chọn cái
+[18:53] vào cái clip rudy là các bạn chọn cái chuyện này tức là mình sẽ bỏ với định
+[18:55] chuyện này tức là mình sẽ bỏ với định dạng cho những cá Excel mà mình đen đúng
+[18:57] dạng cho những cá Excel mà mình đen đúng ạ muốn xác định
+[19:00] ạ muốn xác định Ừ nó là thứ bảy hay chủ nhật rất là cuối
+[19:02] Ừ nó là thứ bảy hay chủ nhật rất là cuối tuần thì các bạn sẽ dùng cái hàng
+[19:03] tuần thì các bạn sẽ dùng cái hàng Birthday nhá các bạn Chậm bằng này vui
+[19:05] Birthday nhá các bạn Chậm bằng này vui đây thì các bạn ấn mũi tên xuống này khi
+[19:09] đây thì các bạn ấn mũi tên xuống này khi mà cái chữ đây nó được số lượng các bạn
+[19:10] mà cái chữ đây nó được số lượng các bạn sẽ tát nhá là các bạn chọn cái này trong
+[19:13] sẽ tát nhá là các bạn chọn cái này trong cách hàn quốc gia này lại các bạn em
+[19:14] cách hàn quốc gia này lại các bạn em chơi đấy thì ở đây nhá Nó là cái kiểu
+[19:17] chơi đấy thì ở đây nhá Nó là cái kiểu ngày tháng các bạn sẽ vào cái thẻ hôm
+[19:19] ngày tháng các bạn sẽ vào cái thẻ hôm các bạn chân trong cái diện trong cái
+[19:21] các bạn chân trong cái diện trong cái Nam bộ Phong ăn này các bạn sẽ chọn cho
+[19:23] Nam bộ Phong ăn này các bạn sẽ chọn cho mình là Zelo tư lặng cái kết quả của
+[19:25] mình là Zelo tư lặng cái kết quả của cách Hàn Quốc Đây này nó bằng 5 đúng
+[19:27] cách Hàn Quốc Đây này nó bằng 5 đúng không còn sẽ kết thúc vào đâu đấy thì
+[19:29] không còn sẽ kết thúc vào đâu đấy thì các bạn gửi cho mình nhá cái hàng which
+[19:31] các bạn gửi cho mình nhá cái hàng which đây nó sẽ trả về gì nếu như mà bằng 1
+[19:34] đây nó sẽ trả về gì nếu như mà bằng 1 thì nó là chủ nhật còn nếu như mà nó
+[19:37] thì nó là chủ nhật còn nếu như mà nó bằng từ 2 đến 7 thì nó tương ứng là thứ
+[19:39] bằng từ 2 đến 7 thì nó tương ứng là thứ 2 đến thứ 7 cho nên các bạn chỉ cần lưu
+[19:41] 2 đến thứ 7 cho nên các bạn chỉ cần lưu ý cho mình nếu như mà chủ nhật thì nó
+[19:43] ý cho mình nếu như mà chủ nhật thì nó bằng một còn thứ Bảy thì nó bằng bật đấy
+[19:45] bằng một còn thứ Bảy thì nó bằng bật đấy thì như vậy Ở đây mình sẽ dùng cái Hà
+[19:48] thì như vậy Ở đây mình sẽ dùng cái Hà mong á cứ làm Mình sẽ định dạng những
+[19:50] mong á cứ làm Mình sẽ định dạng những cái này này với cái hành bước đây mà nó
+[19:52] cái này này với cái hành bước đây mà nó bằng bảy gọi bằng 1 thì mới sách tô màu
+[19:55] bằng bảy gọi bằng 1 thì mới sách tô màu đúng không Đây đây là mình sẽ dùng cái
+[19:57] đúng không Đây đây là mình sẽ dùng cái Hà mít để mình biểu diễn cho các bạn dễ
+[19:59] Hà mít để mình biểu diễn cho các bạn dễ hiểu không tức
+[20:00] hiểu không tức em lấy thứ cho bạn ở đây rồi nha Bây giờ
+[20:02] em lấy thứ cho bạn ở đây rồi nha Bây giờ mình sẽ Bôi đen cái phần ngày ở đây này
+[20:05] mình sẽ Bôi đen cái phần ngày ở đây này Đấy gọi sẽ vào thì hôm các bạn và con đi
+[20:07] Đấy gọi sẽ vào thì hôm các bạn và con đi sơ lược marketing Các bạn chọn new rồi
+[20:09] sơ lược marketing Các bạn chọn new rồi đấy thì ở đây lại sẽ tích vào cái cuối
+[20:14] đấy thì ở đây lại sẽ tích vào cái cuối này để qua sử dụng công thức này các bạn
+[20:15] này để qua sử dụng công thức này các bạn bằng cho mình ở đây các bạn phải bằng O
+[20:18] bằng cho mình ở đây các bạn phải bằng O đúng không Tại sao lại lo nghĩa là gì
+[20:20] đúng không Tại sao lại lo nghĩa là gì chỉ cần một trong hai cái là chỉ cần nó
+[20:23] chỉ cần một trong hai cái là chỉ cần nó bằng thứ bảy chủ nhật thì mình tô màu
+[20:24] bằng thứ bảy chủ nhật thì mình tô màu đây tại mì điều kiện ở đây là nó yêu cầu
+[20:26] đây tại mì điều kiện ở đây là nó yêu cầu là tô màu ngày cuối tuần mà các bạn
+[20:28] là tô màu ngày cuối tuần mà các bạn không thể dùng em được các em thì không
+[20:29] không thể dùng em được các em thì không bao giờ xảy ra đúng không một ngày thì
+[20:31] bao giờ xảy ra đúng không một ngày thì không bao giờ là thứ 7 và chủ nhật được
+[20:33] không bao giờ là thứ 7 và chủ nhật được đến một ngày nó chỉ là hoặc là thứ 7
+[20:35] đến một ngày nó chỉ là hoặc là thứ 7 hoặc là chủ nhật hoặc là không là thứ 7
+[20:37] hoặc là chủ nhật hoặc là không là thứ 7 và chủ nhật ấy thì cho nên là đêm mình
+[20:39] và chủ nhật ấy thì cho nên là đêm mình phải dùng mong á nhiều bạn rất là hay
+[20:41] phải dùng mong á nhiều bạn rất là hay nhầm là các bạn cứ hiểu là thứ 7 + chủ
+[20:44] nhầm là các bạn cứ hiểu là thứ 7 + chủ nhật thì bạn dùng em này nhiều khi các
+[20:46] nhật thì bạn dùng em này nhiều khi các bạn hiểu là như vậy là không đúng đâu
+[20:48] bạn hiểu là như vậy là không đúng đâu nhé ko là liệu là Quick đây này với đây
+[20:52] nhé ko là liệu là Quick đây này với đây cạn của mở ngoặc của cái ông này ở đây
+[20:54] cạn của mở ngoặc của cái ông này ở đây đấy các bạn sẽ nhấn F4 1 2 3 lần đấy các
+[20:58] đấy các bạn sẽ nhấn F4 1 2 3 lần đấy các bạn đóng ngoặc lại mà bằng
+[21:00] bạn đóng ngoặc lại mà bằng khi mà băng 7 đúng không phẩy cái gửi
+[21:04] khi mà băng 7 đúng không phẩy cái gửi thức lôgic thứ hai là nhẹ good day của
+[21:08] thức lôgic thứ hai là nhẹ good day của mở ngoặc vẫn là cái ngày đầu tiên là cái
+[21:10] mở ngoặc vẫn là cái ngày đầu tiên là cái OVA 5 là các bạn f412 3 lần các bạn đóng
+[21:14] OVA 5 là các bạn f412 3 lần các bạn đóng ngoặc lại nó bằng bằng 1 bằng 1 lần chủ
+[21:16] ngoặc lại nó bằng bằng 1 bằng 1 lần chủ nhật đúng không các bạn xem đóng ngoặc
+[21:17] nhật đúng không các bạn xem đóng ngoặc đơn lại để xong cái Hà ngon này đấy thì
+[21:20] đơn lại để xong cái Hà ngon này đấy thì như vậy mình đã xong cái biểu thức điều
+[21:22] như vậy mình đã xong cái biểu thức điều kiện ở đây là diệt một là nó là thứ 7
+[21:24] kiện ở đây là diệt một là nó là thứ 7 hoặc đó là Chủ Nhật lại nếu như mà nó mà
+[21:27] hoặc đó là Chủ Nhật lại nếu như mà nó mà xảy ra thì bạn sẽ format được đây trong
+[21:32] xảy ra thì bạn sẽ format được đây trong cái thẻ Phone này mình sẽ tô đậm nhá
+[21:33] cái thẻ Phone này mình sẽ tô đậm nhá phim này Ví dụ mình tô màu xanh này đi
+[21:36] phim này Ví dụ mình tô màu xanh này đi Hãy họ sẽ bấm ok các bạn muốn ok đấy Bạn
+[21:39] Hãy họ sẽ bấm ok các bạn muốn ok đấy Bạn thấy chưa Như vậy những cái ngày thứ 7
+[21:40] thấy chưa Như vậy những cái ngày thứ 7 và chủ nhật đã được tô màu rồi đây ở đây
+[21:42] và chủ nhật đã được tô màu rồi đây ở đây là có thứ rồi nhắc Cậu đấy giờ thứ bảy
+[21:44] là có thứ rồi nhắc Cậu đấy giờ thứ bảy chủ nhật thứ bảy này thì tương tự tô màu
+[21:47] chủ nhật thứ bảy này thì tương tự tô màu cả hàng nó giống hệt mấy cả tô màu theo
+[21:49] cả hàng nó giống hệt mấy cả tô màu theo cái cục ngày này thôi Nhưng mà mình sẽ
+[21:51] cái cục ngày này thôi Nhưng mà mình sẽ Bôi đen mà Bôi đen cả cái còn ngày và cổ
+[21:53] Bôi đen mà Bôi đen cả cái còn ngày và cổ thứ rồi đấy đấy các bạn sẽ vào thì hôm
+[21:55] thứ rồi đấy đấy các bạn sẽ vào thì hôm nhá các bạn sẽ bảo con reseller hosting
+[21:58] nhá các bạn sẽ bảo con reseller hosting hệ mình sẽ vào lu bu
+[22:00] hệ mình sẽ vào lu bu a-class tích xuống cuối này để mình nhập
+[22:03] a-class tích xuống cuối này để mình nhập công thức nào ở đây là bằng việc vẫn là
+[22:05] công thức nào ở đây là bằng việc vẫn là cái Hà Nho thôi mở ngoặc Birthday trước
+[22:11] cái Hà Nho thôi mở ngoặc Birthday trước đây của mở ngoặc nha cọ xát tích là cái
+[22:13] đây của mở ngoặc nha cọ xát tích là cái ngày đầu tiên của cái vùng mà mình chọn
+[22:14] ngày đầu tiên của cái vùng mà mình chọn này chính là em năm các bạn F4 cho mình
+[22:16] này chính là em năm các bạn F4 cho mình một hai lần thì riêng các trường hợp này
+[22:19] một hai lần thì riêng các trường hợp này thì làn da cái đôla nó phải trước của e
+[22:21] thì làn da cái đôla nó phải trước của e Thì nghĩa là cái của ép nó ăn màu theo
+[22:23] Thì nghĩa là cái của ép nó ăn màu theo cái của em này Đấy Wendy của em lắm đúng
+[22:25] cái của em này Đấy Wendy của em lắm đúng không mà mở đóng ngoặc lại mà băng điện
+[22:27] không mà mở đóng ngoặc lại mà băng điện bằng một là chủ nhật đi phẩy hoặc là gì
+[22:30] bằng một là chủ nhật đi phẩy hoặc là gì ạ good day của mở ngoặc là họ sẽ tích và
+[22:35] ạ good day của mở ngoặc là họ sẽ tích và kệ em này các bạn gấp 412 là đóng ngoặc
+[22:38] kệ em này các bạn gấp 412 là đóng ngoặc đơn lại để xong cái Hàn Quốc đây này mà
+[22:40] đơn lại để xong cái Hàn Quốc đây này mà bằng bằng 7 đúng không đấy thì họ sẽ
+[22:42] bằng bằng 7 đúng không đấy thì họ sẽ đóng ngoặc đơn lại để xong cái Hà mong
+[22:44] đóng ngoặc đơn lại để xong cái Hà mong này nếu như là gì ạ bằng thứ bảy chủ
+[22:47] này nếu như là gì ạ bằng thứ bảy chủ nhật thì các bạn format đấy để mình vẫn
+[22:50] nhật thì các bạn format đấy để mình vẫn là màu xanh thôn ở đây là số động lại
+[22:53] là màu xanh thôn ở đây là số động lại gọn bằng ok ok đấy đoạn rồi chứ Khá là
+[22:56] gọn bằng ok ok đấy đoạn rồi chứ Khá là đẹp được tiếp theo là gì Cái thứ 7 II
+[23:00] đẹp được tiếp theo là gì Cái thứ 7 II ô tô một màu và chủ nhật thì tôi muốn
+[23:01] ô tô một màu và chủ nhật thì tôi muốn màu đấy thì thực ra cái này là mình làm
+[23:04] màu đấy thì thực ra cái này là mình làm việc mình sẽ làm 2 lần tức là một lần
+[23:06] việc mình sẽ làm 2 lần tức là một lần mình làm cho thứ 7 và một lần mình làm
+[23:08] mình làm cho thứ 7 và một lần mình làm cho chủ nhật để nó chỉ khác là thế thôi
+[23:10] cho chủ nhật để nó chỉ khác là thế thôi đầu tiên là diện Ví dụ ở đây mình tô màu
+[23:13] đầu tiên là diện Ví dụ ở đây mình tô màu cả hàng đúng không thì các bạn lại Bôi
+[23:14] cả hàng đúng không thì các bạn lại Bôi đen toàn bộ hàng này đấy các bạn sẽ vào
+[23:16] đen toàn bộ hàng này đấy các bạn sẽ vào cái thẻ hô các bạn và con đi xâm lược
+[23:18] cái thẻ hô các bạn và con đi xâm lược marketing của mình chọn là News để họ sẽ
+[23:23] marketing của mình chọn là News để họ sẽ tích Bà Rịa có thể tích và cái cuối cùng
+[23:25] tích Bà Rịa có thể tích và cái cuối cùng để sử dụng công thức nhanh mình chắc
+[23:27] để sử dụng công thức nhanh mình chắc bằng việc riêng trường hợp này các bạn
+[23:28] bằng việc riêng trường hợp này các bạn lại không cần dùng là maurice tại vì ở
+[23:30] lại không cần dùng là maurice tại vì ở đây là gì à Thứ Bảy mới tô một màu và
+[23:32] đây là gì à Thứ Bảy mới tô một màu và chủ nhật là tôi một mảnh Tức là mình làm
+[23:34] chủ nhật là tôi một mảnh Tức là mình làm lại 2 lần đúng không mình chỉ cần rượu
+[23:36] lại 2 lần đúng không mình chỉ cần rượu ích wish ray của mở ngoặc các bạn xuất
+[23:39] ích wish ray của mở ngoặc các bạn xuất kích vào điện cái đầu tiên của ông này
+[23:41] kích vào điện cái đầu tiên của ông này là H5 đây này các bạn f412 lần các bạn
+[23:45] là H5 đây này các bạn f412 lần các bạn đóng ngoặc lại mà bằng đầu tiên Ví dụ
+[23:47] đóng ngoặc lại mà bằng đầu tiên Ví dụ mình làm cho chủ nhật trước nhá mà bằng
+[23:49] mình làm cho chủ nhật trước nhá mà bằng 1 thì mình sẽ format đấy ví dụ chủ nhật
+[23:52] 1 thì mình sẽ format đấy ví dụ chủ nhật thì là mình tốt động này phim là mình sẽ
+[23:55] thì là mình tốt động này phim là mình sẽ cho cái màu xanh này nhá để chủ nhật thì
+[23:58] cho cái màu xanh này nhá để chủ nhật thì là màu xanh các bạn bông ok
+[24:00] là màu xanh các bạn bông ok Ừ ok đấy còn thấy nhé Như vậy là chủ
+[24:02] Ừ ok đấy còn thấy nhé Như vậy là chủ nhật là màu xanh tiếp theo mình lại tô
+[24:04] nhật là màu xanh tiếp theo mình lại tô màu cho cái phần thứ bảy nhá Đây cái
+[24:06] màu cho cái phần thứ bảy nhá Đây cái vùng dữ liệu của mình vẫn đang được lựa
+[24:08] vùng dữ liệu của mình vẫn đang được lựa chọn rồi đúng không các bạn lại vào thì
+[24:09] chọn rồi đúng không các bạn lại vào thì hôm các bạn và con đi xâm lược marketing
+[24:12] hôm các bạn và con đi xâm lược marketing mình yêu rồi đoạn xuống cuối để cho công
+[24:15] mình yêu rồi đoạn xuống cuối để cho công thức ở đây mình bằng nhé When they wish
+[24:19] thức ở đây mình bằng nhé When they wish they của mở ngoặc là cái ô thì năm ở đây
+[24:21] they của mở ngoặc là cái ô thì năm ở đây lại các bạn f412 lần các bạn đóng hoặc
+[24:24] lại các bạn f412 lần các bạn đóng hoặc lạnh bằng điện bằng 7 lúc đấy mình làm
+[24:26] lạnh bằng điện bằng 7 lúc đấy mình làm chủ nhật là bằng một từ đúng không Thì
+[24:28] chủ nhật là bằng một từ đúng không Thì mình làm thứ bảy là bằng 7 thì mình sẽ
+[24:30] mình làm thứ bảy là bằng 7 thì mình sẽ format khi này Ví dụ mình cho cái màu
+[24:32] format khi này Ví dụ mình cho cái màu màu vàng đấy đi nhá phone nhá phone mình
+[24:36] màu vàng đấy đi nhá phone nhá phone mình chỗ chợ ví dụ cái chữ mình cho màu đỏ đi
+[24:37] chỗ chợ ví dụ cái chữ mình cho màu đỏ đi lại chủ nhật thì màu đỏ là nghỉ đúng
+[24:39] lại chủ nhật thì màu đỏ là nghỉ đúng không thể gọi cho bấm ok đấy bạn đấy chứ
+[24:42] không thể gọi cho bấm ok đấy bạn đấy chứ Thì như vậy Thứ 7 ở đây là diện màu vàng
+[24:44] Thì như vậy Thứ 7 ở đây là diện màu vàng bôi đậm và chữ màu đỏ còn Chủ nhật là
+[24:47] bôi đậm và chữ màu đỏ còn Chủ nhật là màu xanh và tô đậm nó cũng sẽ rất là hay
+[24:50] màu xanh và tô đậm nó cũng sẽ rất là hay sang cái ví dụ thứ sáu là mì tôm vào
+[24:53] sang cái ví dụ thứ sáu là mì tôm vào những ô mà 5 ngày tới năm khác tức là gì
+[24:56] những ô mà 5 ngày tới năm khác tức là gì ạ Giả sử cái yêu cầu của mình ở đây là
+[24:58] ạ Giả sử cái yêu cầu của mình ở đây là mình yêu cầu Tô màu những ngày
+[25:00] mình yêu cầu Tô màu những ngày à mà nó thuộc cái năm từ năm 2016 đến
+[25:03] à mà nó thuộc cái năm từ năm 2016 đến năm 2018 thì mình sẽ tô màu thôi đúng
+[25:04] năm 2018 thì mình sẽ tô màu thôi đúng không Thì đầu tiên để tô màu thì mình
+[25:07] không Thì đầu tiên để tô màu thì mình phải tách được ngăn ra đúng không thể
+[25:08] phải tách được ngăn ra đúng không thể loại thực bằng cái Hà Mi ra các bạn đánh
+[25:10] loại thực bằng cái Hà Mi ra các bạn đánh tát nhá thì gọi sẽ tích và cái ô ngày
+[25:12] tát nhá thì gọi sẽ tích và cái ô ngày tháng các bạn enter thì nó sẽ trả về kết
+[25:15] tháng các bạn enter thì nó sẽ trả về kết quả năm đúng không Thì nếu như mà để nó
+[25:17] quả năm đúng không Thì nếu như mà để nó nhận trong năm 2016 đến 2018 thì các bạn
+[25:20] nhận trong năm 2016 đến 2018 thì các bạn có thể dùng cái hàm em đúng không en của
+[25:23] có thể dùng cái hàm em đúng không en của cái em à diện lớn học bằng 2016 và nhỏ
+[25:25] cái em à diện lớn học bằng 2016 và nhỏ được bằng 2018 thì mình mới tô màu đúng
+[25:27] được bằng 2018 thì mình mới tô màu đúng không ạ Đấy là cái ý tưởng nhé Bây giờ
+[25:29] không ạ Đấy là cái ý tưởng nhé Bây giờ mình xóa đi thì đầu tiên mình sẽ Bôi đen
+[25:31] mình xóa đi thì đầu tiên mình sẽ Bôi đen mình sẽ bỏ cái định dạng này chưa đã nhá
+[25:34] mình sẽ bỏ cái định dạng này chưa đã nhá Để mình làm từ đầu mà đã chọn và thẻ hôm
+[25:37] Để mình làm từ đầu mà đã chọn và thẻ hôm các bạn và con reseller hosting mình sẽ
+[25:39] các bạn và con reseller hosting mình sẽ xóa cái Judy mình Mình sẽ chọn cái
+[25:42] xóa cái Judy mình Mình sẽ chọn cái clorua này nhá hải quan sẽ chọn cái trên
+[25:44] clorua này nhá hải quan sẽ chọn cái trên này mình sẽ xóa những cái định dạng cho
+[25:46] này mình sẽ xóa những cái định dạng cho cái ôm trọn thôi Đấy bây giờ bắt đầu
+[25:48] cái ôm trọn thôi Đấy bây giờ bắt đầu mình làm mới lại từ đầu nhé đầu tiên các
+[25:51] mình làm mới lại từ đầu nhé đầu tiên các bạn sẽ Bôi đen Cái vùng dữ liệu mà các
+[25:52] bạn sẽ Bôi đen Cái vùng dữ liệu mà các bạn cần tô màu này các bạn vào thẻ Hôm
+[25:55] bạn cần tô màu này các bạn vào thẻ Hôm con đi sẽ được pho mát tinh Các bạn chọn
+[25:57] con đi sẽ được pho mát tinh Các bạn chọn newsroom đấy à
+[26:00] newsroom đấy à anh ở đây bạn sẽ thích và dưới này mình
+[26:02] anh ở đây bạn sẽ thích và dưới này mình sử dụng công thức nhá các bạn sẽ bằng là
+[26:04] sử dụng công thức nhá các bạn sẽ bằng là gì ạ Bây giờ mình phải dùng cái điều
+[26:06] gì ạ Bây giờ mình phải dùng cái điều kiện là lại ăn rồi đúng không em nó nằm
+[26:09] kiện là lại ăn rồi đúng không em nó nằm trong khoảng mà Thì mình sẽ dùng cái hộp
+[26:11] trong khoảng mà Thì mình sẽ dùng cái hộp em em của dì của khách hàng is a kia của
+[26:14] em em của dì của khách hàng is a kia của mở ngoặc các bạn rất thích vào cái ô đầu
+[26:17] mở ngoặc các bạn rất thích vào cái ô đầu tiên của cái vùng dữ liệu là C4 các bạn
+[26:18] tiên của cái vùng dữ liệu là C4 các bạn sẽ nhấn F4 1 2 3 lần là yêu của cái ngày
+[26:23] sẽ nhấn F4 1 2 3 lần là yêu của cái ngày tháng của oc4 này mà lớn hơn hoặc bằng
+[26:25] tháng của oc4 này mà lớn hơn hoặc bằng điện 2016 đây quạt xuất hiện còn phẩm
+[26:29] điện 2016 đây quạt xuất hiện còn phẩm cái điều kiện thứ hai là gì ạ là vẫn là
+[26:32] cái điều kiện thứ hai là gì ạ là vẫn là cái hàng bia này thôi còn mở ngoặc ra
+[26:34] cái hàng bia này thôi còn mở ngoặc ra vẫn là của Okay bố thí Bạn có thể gọi
+[26:36] vẫn là của Okay bố thí Bạn có thể gọi trực tiếp là C4 vào đây cũng được nhá
+[26:38] trực tiếp là C4 vào đây cũng được nhá Đấy đóng ngoặc đơn lại mà dịp nhỏ hơn
+[26:41] Đấy đóng ngoặc đơn lại mà dịp nhỏ hơn hoặc bằng 2018 đấy cọ sơn đóng ngoặc đơn
+[26:45] hoặc bằng 2018 đấy cọ sơn đóng ngoặc đơn lại đã xong cái hàm em này Đấy Như vậy
+[26:47] lại đã xong cái hàm em này Đấy Như vậy là mình đã xong cái biểu thức lôgic là
+[26:49] là mình đã xong cái biểu thức lôgic là cái Hà mint rất là những cái ô nào mà
+[26:51] cái Hà mint rất là những cái ô nào mà thỏa mãn là việc cái năm của nó trong
+[26:53] thỏa mãn là việc cái năm của nó trong cái khoản từ 2016 đến 2018 nhá thì mình
+[26:55] cái khoản từ 2016 đến 2018 nhá thì mình sẽ format Đây Thôn ở đây ví dụ là mình
+[26:59] sẽ format Đây Thôn ở đây ví dụ là mình Tôn
+[27:00] Tôn ở giữa màu đỏ đi khi nào mình chọn màu
+[27:03] ở giữa màu đỏ đi khi nào mình chọn màu vàng nhé các bạn nói ok ok đấy Bạn thấy
+[27:06] vàng nhé các bạn nói ok ok đấy Bạn thấy chưa thì Những cái ô nào ấy mà có năm là
+[27:09] chưa thì Những cái ô nào ấy mà có năm là trong 2016 đang 18 thì nói cho tô màu
+[27:11] trong 2016 đang 18 thì nói cho tô màu đấy bây giờ ví dụ đây là 2017 mình sửa
+[27:13] đấy bây giờ ví dụ đây là 2017 mình sửa thành 2019 nhá Đấy thì nó sẽ không tô
+[27:15] thành 2019 nhá Đấy thì nó sẽ không tô màu nữa Đang 2016 đó là mình sửa đây
+[27:18] màu nữa Đang 2016 đó là mình sửa đây 2014 đấy đấy thì nó sẽ không tô màu nữa
+[27:20] 2014 đấy đấy thì nó sẽ không tô màu nữa đánh với đội đang là 2015 lấy cạ xóa đi
+[27:23] đánh với đội đang là 2015 lấy cạ xóa đi cọ sửa đây 2010 17 cảm thấy nó sẽ tô màu
+[27:26] cọ sửa đây 2010 17 cảm thấy nó sẽ tô màu rất là đẹp sang ví dụ thứ bảy là rẻ mình
+[27:31] rất là đẹp sang ví dụ thứ bảy là rẻ mình sẽ Tô màu những ô theo khoảng thời gian
+[27:32] sẽ Tô màu những ô theo khoảng thời gian ở bên ngoài rất là dễ những cái ô nào mà
+[27:35] ở bên ngoài rất là dễ những cái ô nào mà nó trong khoảng từ ngày đến ngày này thì
+[27:38] nó trong khoảng từ ngày đến ngày này thì mình sẽ tô màu lên đấy Cái này cũng khá
+[27:40] mình sẽ tô màu lên đấy Cái này cũng khá là hay đấy Đấy cách ngày từ ngày đến
+[27:42] là hay đấy Đấy cách ngày từ ngày đến ngày mình sẽ là nhập từ bên ngoài vào
+[27:44] ngày mình sẽ là nhập từ bên ngoài vào nhá Đấy thì đầu tiên mình sẽ xóa cái quy
+[27:47] nhá Đấy thì đầu tiên mình sẽ xóa cái quy luật cũ đi để mình hướng dẫn các bạn trả
+[27:48] luật cũ đi để mình hướng dẫn các bạn trả lại từ đầu nhá các bạn sẽ Bôi đen này
+[27:51] lại từ đầu nhá các bạn sẽ Bôi đen này cao đẳng giờ thì hôm mình sẽ bà con đi
+[27:53] cao đẳng giờ thì hôm mình sẽ bà con đi xâm lược marketing kreide Đợi mình sẽ
+[27:56] xâm lược marketing kreide Đợi mình sẽ chọn bên này thì đầu tiên là gì
+[28:00] chọn bên này thì đầu tiên là gì ô tô đen Cái vùng dữ liệu mà có định tô
+[28:02] ô tô đen Cái vùng dữ liệu mà có định tô màu đó các bạn sẽ vào thẻ hôm này các
+[28:05] màu đó các bạn sẽ vào thẻ hôm này các bạn và con Lisa được for Mac tinh mình
+[28:06] bạn và con Lisa được for Mac tinh mình sẽ là liu riu để đoạn phân tích ở dưới
+[28:08] sẽ là liu riu để đoạn phân tích ở dưới này để mình sử dụng công thức nhắc lại
+[28:11] này để mình sử dụng công thức nhắc lại tức là mình cho tô màu trong khoảng đúng
+[28:13] tức là mình cho tô màu trong khoảng đúng không thì cậu sẽ bằng này đấy bạn có thể
+[28:16] không thì cậu sẽ bằng này đấy bạn có thể diện bằng em nhé Em của mở ngoặc đấy Thì
+[28:20] diện bằng em nhé Em của mở ngoặc đấy Thì cái ngày này là cái OVA 4 không các bạn
+[28:23] cái ngày này là cái OVA 4 không các bạn sẽ ở nhà cấp 4 1 2 3 lần Bà Rịa nhỏ hơn
+[28:26] sẽ ở nhà cấp 4 1 2 3 lần Bà Rịa nhỏ hơn rồi bằng viện bằng cái ngày đến ngày ở
+[28:29] rồi bằng viện bằng cái ngày đến ngày ở đây đúng không phải nhá thì đến cái các
+[28:32] đây đúng không phải nhá thì đến cái các bạn sẽ rất là cái bốn này các bạn gấp 4
+[28:34] bạn sẽ rất là cái bốn này các bạn gấp 4 1 2 3 lần mà diện mà lớn hơn hoặc bằng
+[28:38] 1 2 3 lần mà diện mà lớn hơn hoặc bằng bằng cái ô từ ngày ở đây đấy bạn chú
+[28:41] bằng cái ô từ ngày ở đây đấy bạn chú nhắc cái ô B4 và C4 tức là từ ngày đến
+[28:44] nhắc cái ô B4 và C4 tức là từ ngày đến ngày thì các bạn luôn cố định Họ đây các
+[28:46] ngày thì các bạn luôn cố định Họ đây các bạn đấy B4 và C bố luôn cố định tại vì
+[28:48] bạn đấy B4 và C bố luôn cố định tại vì mình sẽ định dạng cho cái ô dưới này vẫn
+[28:50] mình sẽ định dạng cho cái ô dưới này vẫn tham chiếu đến hai cái ô B4 và C4 đấy
+[28:53] tham chiếu đến hai cái ô B4 và C4 đấy các bạn sẽ đóng ngoặc lại màn Tức là cái
+[28:56] các bạn sẽ đóng ngoặc lại màn Tức là cái hạ men này nó thỏa mãn thì bạn sẽ gì Các
+[28:58] hạ men này nó thỏa mãn thì bạn sẽ gì Các bạn thấy pho mát đúng không vì sẽ là
+[29:00] bạn thấy pho mát đúng không vì sẽ là Ừ dạo này chữ màu đỏ đúng không Và Thẻ
+[29:03] Ừ dạo này chữ màu đỏ đúng không Và Thẻ phim mình cho màu vàng chọn bấm ok ok
+[29:06] phim mình cho màu vàng chọn bấm ok ok đấy Bạn thấy chứ Thì như vậy Những cái
+[29:09] đấy Bạn thấy chứ Thì như vậy Những cái Oh ở đây nó nằm trong khoảng này rồi thì
+[29:11] Oh ở đây nó nằm trong khoảng này rồi thì nó sẽ tô màu đây ví dụ mình sẽ từ 2010
+[29:14] nó sẽ tô màu đây ví dụ mình sẽ từ 2010 10 đi nó enter đợi thì hai ô dưới này là
+[29:17] 10 đi nó enter đợi thì hai ô dưới này là 2015 sẽ được tô màu đúng không đây ví dụ
+[29:21] 2015 sẽ được tô màu đúng không đây ví dụ 2018 mình đổi thành điện 20 30 đi thì
+[29:25] 2018 mình đổi thành điện 20 30 đi thì như vậy là diệt toàn bộ đã được tô màu
+[29:26] như vậy là diệt toàn bộ đã được tô màu đây mình sẽ quay về ban đầu nhá nghĩ đó
+[29:30] đây mình sẽ quay về ban đầu nhá nghĩ đó là 2020 2018 đi đúng không ạ Ví dụ ở đây
+[29:35] là 2020 2018 đi đúng không ạ Ví dụ ở đây nhá Đang là tôm mai anh 18 vòng Ví dụ
+[29:38] nhá Đang là tôm mai anh 18 vòng Ví dụ mình đổi thành 2019 đi đấy thì nó sẽ
+[29:40] mình đổi thành 2019 đi đấy thì nó sẽ không tô màu nữa Còn đây là 2016 mình
+[29:43] không tô màu nữa Còn đây là 2016 mình đổi thành 2009 đi thì nó sẽ không tô màu
+[29:45] đổi thành 2009 đi thì nó sẽ không tô màu nữa nó rất là hai ạ Ok sang ví dụ cuối
+[29:49] nữa nó rất là hai ạ Ok sang ví dụ cuối cùng là gì ạ Mình sẽ Tô màu những cái
+[29:51] cùng là gì ạ Mình sẽ Tô màu những cái sản phẩm mà hết hạ đấy Cái này cũng khá
+[29:53] sản phẩm mà hết hạ đấy Cái này cũng khá là hay đấy Tức là mình cũng tô màu theo
+[29:56] là hay đấy Tức là mình cũng tô màu theo cái cột sản phẩm và mình rất tô màu cả
+[29:59] cái cột sản phẩm và mình rất tô màu cả cái
+[30:00] cái A và cái ngày hết hạn nhá Đấy thì giả sử
+[30:03] A và cái ngày hết hạn nhá Đấy thì giả sử là gì ạ Đây là cái ô mà lại lấy ngày hôm
+[30:05] là gì ạ Đây là cái ô mà lại lấy ngày hôm nay đợi thì hôm nay mình thực hành cái
+[30:07] nay đợi thì hôm nay mình thực hành cái video này là ngày 28 tháng 10 đúng không
+[30:09] video này là ngày 28 tháng 10 đúng không Đây thì nó sẽ tùy thuộc vào cái ngày mà
+[30:11] Đây thì nó sẽ tùy thuộc vào cái ngày mà bạn thực hành thì có thể nó sẽ là ngày
+[30:13] bạn thực hành thì có thể nó sẽ là ngày 30 hay 31 tháng 10 gì đấy hoặc là sang
+[30:16] 30 hay 31 tháng 10 gì đấy hoặc là sang tháng 11 thì phụ thuộc vào cái này các
+[30:18] tháng 11 thì phụ thuộc vào cái này các bạn thực hành nhá Đấy thì đây mình có
+[30:20] bạn thực hành nhá Đấy thì đây mình có thông tin được thì mình có sản phẩm vào
+[30:22] thông tin được thì mình có sản phẩm vào ngày hết hạn rồi những cái trường hợp
+[30:23] ngày hết hạn rồi những cái trường hợp nào Cái ngày hết hạn mà nó nhỏ hơn cái
+[30:26] nào Cái ngày hết hạn mà nó nhỏ hơn cái ngày tôi đây tức là cái ngày hôm nay nó
+[30:27] ngày tôi đây tức là cái ngày hôm nay nó qua cái này rồi thì nghĩa là cái sản
+[30:30] qua cái này rồi thì nghĩa là cái sản phẩm đã hết hạn đúng không còn những cái
+[30:32] phẩm đã hết hạn đúng không còn những cái ngày hết hạn nào ở đây mà nó lớn hơn cái
+[30:34] ngày hết hạn nào ở đây mà nó lớn hơn cái ngày hôm nay thì chắc là nó vẫn còn hạn
+[30:36] ngày hôm nay thì chắc là nó vẫn còn hạn sử dụng đúng không Trong các ví dụ này
+[30:38] sử dụng đúng không Trong các ví dụ này của mình đang toàn là nhỏ hơn cái ngày
+[30:40] của mình đang toàn là nhỏ hơn cái ngày hôm nay bây giờ mình sẽ sửa lại mít nhé
+[30:41] hôm nay bây giờ mình sẽ sửa lại mít nhé đây ví dụ đây là 25 tháng 11 đi đấy để
+[30:46] đây ví dụ đây là 25 tháng 11 đi đấy để còn thấy chưa thì lúc này nó không tô
+[30:47] còn thấy chưa thì lúc này nó không tô màu nữa đây là ví dụ tháng 12 đấy Đây là
+[30:51] màu nữa đây là ví dụ tháng 12 đấy Đây là nam việc đây là năm 2021 hạn thế đấy bây
+[30:55] nam việc đây là năm 2021 hạn thế đấy bây giờ cái ngày hẹn ạ Bôi đen này các bạn
+[30:57] giờ cái ngày hẹn ạ Bôi đen này các bạn tăng C để copy cái đoạn sẽ tích vào ô
+[30:59] tăng C để copy cái đoạn sẽ tích vào ô này các
+[31:00] này các thì các bạn tết Castle để mình sẽ tiết
+[31:04] thì các bạn tết Castle để mình sẽ tiết ra Các bạn bấm ok đấy thì như vậy là gì
+[31:07] ra Các bạn bấm ok đấy thì như vậy là gì ạ Đây những cái ô nào mà dẹp hết hạn thì
+[31:09] ạ Đây những cái ô nào mà dẹp hết hạn thì nó cho tô màu cả hàng lên lại thì giả sử
+[31:12] nó cho tô màu cả hàng lên lại thì giả sử Cái này của mình là như thế này bây giờ
+[31:15] Cái này của mình là như thế này bây giờ bạn sẽ Bôi đen Cái vùng dữ liệu của mình
+[31:16] bạn sẽ Bôi đen Cái vùng dữ liệu của mình nhá Đấy mình sẽ xóa cái định dạng cũng
+[31:19] nhá Đấy mình sẽ xóa cái định dạng cũng lên các bạn vào thẻ hôm các bạn vào
+[31:21] lên các bạn vào thẻ hôm các bạn vào conditional formatting kludi các bạn sẽ
+[31:24] conditional formatting kludi các bạn sẽ chọn ở trên này Bây giờ mình sẽ làm mới
+[31:28] chọn ở trên này Bây giờ mình sẽ làm mới nhé thì đầu tiên mình cho tô màu mỗi cái
+[31:30] nhé thì đầu tiên mình cho tô màu mỗi cái cột sản phẩm thôi đúng không đấy thì đầu
+[31:33] cột sản phẩm thôi đúng không đấy thì đầu tiên là thì các bạn sẽ bôi tôi đem cái
+[31:35] tiên là thì các bạn sẽ bôi tôi đem cái của sản phẩm là cái này rất là ngay Mặc
+[31:37] của sản phẩm là cái này rất là ngay Mặc dù mình dựa vào cái này hết hạn nhưng mà
+[31:39] dù mình dựa vào cái này hết hạn nhưng mà để tô màu cái cục sản phẩm thì mình sẽ
+[31:41] để tô màu cái cục sản phẩm thì mình sẽ Bôi đen Cái cục sản phẩm nhá Đấy sau đó
+[31:43] Bôi đen Cái cục sản phẩm nhá Đấy sau đó bạn vào thẻ hôm các bạn và con this
+[31:45] bạn vào thẻ hôm các bạn và con this lượng pho mát tinh khỏi gọi chọn cho
+[31:47] lượng pho mát tinh khỏi gọi chọn cho mình là nhẹ luôn thì họ sẽ tích vào cái
+[31:49] mình là nhẹ luôn thì họ sẽ tích vào cái ô dưới cùng để mình sử dụng công thức
+[31:51] ô dưới cùng để mình sử dụng công thức nha các bạn chất bằng bằng gì ạ bằng Nếu
+[31:55] nha các bạn chất bằng bằng gì ạ bằng Nếu Nhưng mà cái này ở đây tức là cái ôm C6
+[31:57] Nhưng mà cái này ở đây tức là cái ôm C6 các bạn sẽ nhấn bố cho mình 1 2
+[32:00] các bạn sẽ nhấn bố cho mình 1 2 à mà gì ạ Mà nhỏ hơn nhỏ hơn cái ngày
+[32:04] à mà gì ạ Mà nhỏ hơn nhỏ hơn cái ngày hôm nay lại của Cái ô thì đây là cái ô
+[32:07] hôm nay lại của Cái ô thì đây là cái ô hát hay này thì cái hai này phải cố định
+[32:09] hát hay này thì cái hai này phải cố định tại vì mình sẽ áp dụng các định dạng này
+[32:11] tại vì mình sẽ áp dụng các định dạng này cho cái ô dưới này Cho nên hay phải là
+[32:13] cho cái ô dưới này Cho nên hay phải là cố định Tức là nó ngon Cái ngày hôm nay
+[32:15] cố định Tức là nó ngon Cái ngày hôm nay thì nghĩa là nó hết hạn rồi đúng không
+[32:17] thì nghĩa là nó hết hạn rồi đúng không Thì gọi cho format này Đấy cái thẻ phim
+[32:20] Thì gọi cho format này Đấy cái thẻ phim này mình sẽ tô màu màu vàng nhá Phone
+[32:23] này mình sẽ tô màu màu vàng nhá Phone này mình sẽ cho chữ động
+[32:24] này mình sẽ cho chữ động ở Bà Rịa màu đỏ lên phải gọi cho ok ok
+[32:29] ở Bà Rịa màu đỏ lên phải gọi cho ok ok đấy Bạn thấy chứ như vậy sản phẩm 2 sản
+[32:31] đấy Bạn thấy chứ như vậy sản phẩm 2 sản phẩm 3 sản phẩm năm là gì là hết hạn rồi
+[32:33] phẩm 3 sản phẩm năm là gì là hết hạn rồi đấy Cái ngày hết hạn là 15 tháng 4 mà
+[32:35] đấy Cái ngày hết hạn là 15 tháng 4 mà hôm nay là 28 tháng 10 rồi thế nào rồi
+[32:37] hôm nay là 28 tháng 10 rồi thế nào rồi nhé Đây cũng thế Đây là hạn là mùng 4
+[32:40] nhé Đây cũng thế Đây là hạn là mùng 4 tháng 8 mà đây là gì 28 tháng mưa đây
+[32:43] tháng 8 mà đây là gì 28 tháng mưa đây cũng vậy nhá 22 tháng 7 là hết hạn rồi
+[32:45] cũng vậy nhá 22 tháng 7 là hết hạn rồi Thì bây giờ mình sẽ tô cả hàng thì nó
+[32:47] Thì bây giờ mình sẽ tô cả hàng thì nó cũng giống như cái trên mình chỉ khác là
+[32:49] cũng giống như cái trên mình chỉ khác là mình cho Model cả sản phẩm càng ngày hết
+[32:52] mình cho Model cả sản phẩm càng ngày hết hạn đúng không các bạn vào thẻ hôm
+[32:54] hạn đúng không các bạn vào thẻ hôm conditional formatting lại gọi chọn cái
+[32:57] conditional formatting lại gọi chọn cái lu lại các bạn chọn cái cuối cùng để
+[33:01] lu lại các bạn chọn cái cuối cùng để mình làm công thức nhé các bạn sẽ bằng
+[33:03] mình làm công thức nhé các bạn sẽ bằng với ạ Các bạn sẽ chọn cái ngày thế nào ở
+[33:06] với ạ Các bạn sẽ chọn cái ngày thế nào ở đây là cái ô S6 là các bạn f412 lần đấy
+[33:10] đây là cái ô S6 là các bạn f412 lần đấy thì như vậy là cố định kết của em này
+[33:12] thì như vậy là cố định kết của em này đúng không Mà gì ạ Mà nhỏ hơn cái ô khác
+[33:16] đúng không Mà gì ạ Mà nhỏ hơn cái ô khác hay này là cái ngày hôm nay thì bọn
+[33:19] hay này là cái ngày hôm nay thì bọn format Nữa phần ở đây đúng không tô đậm
+[33:22] format Nữa phần ở đây đúng không tô đậm màu đỏ đi
+[33:24] màu đỏ đi tô màu đỏ và tô vàng Khá là đẹp đấy Mình
+[33:28] tô màu đỏ và tô vàng Khá là đẹp đấy Mình sẽ chọn cái này nhá tớ gọi cho bấm ok để
+[33:30] sẽ chọn cái này nhá tớ gọi cho bấm ok để vẫn thế chứ lúc này nó sẽ tô màu cả cái
+[33:32] vẫn thế chứ lúc này nó sẽ tô màu cả cái sản phẩm và ngắn hạn luôn rất là hai ạ
+[33:35] sản phẩm và ngắn hạn luôn rất là hai ạ Ok như vậy mình xong cái phần hướng dẫn
+[33:37] Ok như vậy mình xong cái phần hướng dẫn định dạng có điều kiện của ngày hôm nay
+[33:38] định dạng có điều kiện của ngày hôm nay nhá Bây giờ mình sẽ mở cái câu hỏi cho
+[33:41] nhá Bây giờ mình sẽ mở cái câu hỏi cho cái bài tập về nhà nhé các bạn mở cái
+[33:46] cái bài tập về nhà nhé các bạn mở cái file câu hỏi này lên thì trong cái câu
+[33:50] file câu hỏi này lên thì trong cái câu hỏi này mình sẽ làm ba cái ví dụ đấy thì
+[33:52] hỏi này mình sẽ làm ba cái ví dụ đấy thì đầu tiên là gì ạ Cái khu vực phía Bắc
+[33:54] đầu tiên là gì ạ Cái khu vực phía Bắc thì mới cho tô màu xanh này khu vực miền
+[33:57] thì mới cho tô màu xanh này khu vực miền Trung bị cho tô màu cam và khu miền Nam
+[33:59] Trung bị cho tô màu cam và khu miền Nam mình sẽ tô màu này mình chiếc tô màu ở
+[34:01] mình sẽ tô màu này mình chiếc tô màu ở cái cụt Cô Tô màu này nhá của giây nhá
+[34:03] cái cụt Cô Tô màu này nhá của giây nhá Đấy con cái Cách thứ 2 là diện mình sẽ
+[34:07] Đấy con cái Cách thứ 2 là diện mình sẽ tô màu theo cái phần trăm Hoàn thành đấy
+[34:10] tô màu theo cái phần trăm Hoàn thành đấy thì giả sử các phần trong hoàn thành
+[34:11] thì giả sử các phần trong hoàn thành mình sẽ lấy ở bên này các bạn Thúy nhá
+[34:13] mình sẽ lấy ở bên này các bạn Thúy nhá trong cái bài số một này cách 1 này thì
+[34:16] trong cái bài số một này cách 1 này thì cái phần trăm hoàn thành mình sẽ lấy cái
+[34:17] cái phần trăm hoàn thành mình sẽ lấy cái thực hiện cho kế hoạch đúng không con
+[34:19] thực hiện cho kế hoạch đúng không con cái Cách thứ hai là cái ví dụ ở đây mình
+[34:22] cái Cách thứ hai là cái ví dụ ở đây mình sẽ lấy cái phần trăm hoàn thành từ cái
+[34:24] sẽ lấy cái phần trăm hoàn thành từ cái cách 1 này
+[34:24] cách 1 này Ừ nhưng mà mình sẽ tô màu theo cái phần
+[34:27] Ừ nhưng mà mình sẽ tô màu theo cái phần trăm hoàn thành từ 0 đến 50 phần trăm
+[34:29] trăm hoàn thành từ 0 đến 50 phần trăm thì mình cho tô màu xanh 50 đến 80 tỉnh
+[34:31] thì mình cho tô màu xanh 50 đến 80 tỉnh màu cam và lớn hơn 80 thì màu xám đấy
+[34:34] màu cam và lớn hơn 80 thì màu xám đấy lấy thịt trong cái cách ba này nó giống
+[34:36] lấy thịt trong cái cách ba này nó giống như cách 2 nhưng mà gì nó sẽ hiện cả cái
+[34:39] như cách 2 nhưng mà gì nó sẽ hiện cả cái giá trị lên đấy đấy là cái bài tập về
+[34:41] giá trị lên đấy đấy là cái bài tập về nhà cho các bạn nhá Ok mình cho đóng cái
+[34:43] nhà cho các bạn nhá Ok mình cho đóng cái vai rồi đấy Ok như vậy là mình đã kết
+[34:46] vai rồi đấy Ok như vậy là mình đã kết thúc bài học này Hôm nay ở đây cảm ơn
+[34:48] thúc bài học này Hôm nay ở đây cảm ơn các bạn đã theo dõi các bạn nhỏ đăng kí
+[34:50] các bạn đã theo dõi các bạn nhỏ đăng kí kênh để cập nhật video mới nhất của gà
+[34:52] kênh để cập nhật video mới nhất của gà cũng như chia sẻ để giúp mọi người cùng
+[34:54] cũng như chia sẻ để giúp mọi người cùng học cách xem nhé Xin chào và hẹn gặp lại
+[34:58] học cách xem nhé Xin chào và hẹn gặp lại [âm nhạc]

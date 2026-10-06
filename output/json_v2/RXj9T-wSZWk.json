@@ -1,0 +1,692 @@
+{
+  "video_id": "RXj9T-wSZWk",
+  "bai": "Bai 03 nhom ham tinh tong SUM SUMIF SUMIFS",
+  "url": "https://www.youtube.com/watch?v=RXj9T-wSZWk",
+  "cong_thuc": [
+    {
+      "ten": "SUM",
+      "cu_phap_chuan": "=SUM(number1,[number2],...)",
+      "tham_so": [
+        {
+          "ten": "number1",
+          "mo_ta": "Số, ô hoặc vùng đầu tiên cần cộng"
+        },
+        {
+          "ten": "number2",
+          "mo_ta": "Tùy chọn, số/ô/vùng tiếp theo"
+        }
+      ],
+      "giai_thich": "Tinh tong cac so, o, vung. Co the cong 1 o, nhieu o, nhieu vung.",
+      "vi_du_chay_duoc": "=SUM(3,7,6,8,9)",
+      "ket_qua_vi_du": "33",
+      "loi_thuong_gap": "Quên F4 -> vùng dịch khi fill; lẫn text vào vùng",
+      "timestamp": "[00:01]"
+    },
+    {
+      "ten": "SUMIF",
+      "cu_phap_chuan": "=SUMIF(range,criteria,[sum_range])",
+      "tham_so": [
+        {
+          "ten": "range",
+          "mo_ta": "Vùng chứa điều kiện"
+        },
+        {
+          "ten": "criteria",
+          "mo_ta": "Điều kiện: ô hoặc \"...\""
+        },
+        {
+          "ten": "sum_range",
+          "mo_ta": "Vùng tính tổng, đứng CUỐI"
+        }
+      ],
+      "giai_thich": "Tinh tong 1 dieu kien. range la vung dieu kien, criteria la dieu kien (o hoac trong ngoac kep), sum_range la vung tinh tong.",
+      "vi_du_chay_duoc": "=SUMIF($B$4:$B$18,F9,$D$4:$D$18)",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Đảo nhầm thứ tự sum_range; quên ngoặc kép cho \">800000\"",
+      "timestamp": "[02:46]"
+    },
+    {
+      "ten": "SUMIFS",
+      "cu_phap_chuan": "=SUMIFS(sum_range,criteria_range1,criteria1,...)",
+      "tham_so": [
+        {
+          "ten": "sum_range",
+          "mo_ta": "Vùng tính tổng, đứng ĐẦU"
+        },
+        {
+          "ten": "criteria_range1",
+          "mo_ta": "Vùng điều kiện 1"
+        },
+        {
+          "ten": "criteria1",
+          "mo_ta": "Điều kiện 1"
+        }
+      ],
+      "giai_thich": "Tinh tong nhieu dieu kien. sum_range dung dau tien, sau la cac cap vung/dieu kien. Dung duoc ca cho 1 dieu kien de thong nhat.",
+      "vi_du_chay_duoc": "=SUMIFS($D$4:$D$18,$B$4:$B$18,F16,$C$4:$C$18,G14)",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "Nhầm thứ tự như SUMIF; quên F4 cả vùng lẫn ô điều kiện",
+      "timestamp": "[05:41]"
+    },
+    {
+      "ten": "Co dinh tham chieu F4",
+      "cu_phap_chuan": "F4 hoac Fn+F4 hoac go $ thu cong",
+      "tham_so": [],
+      "giai_thich": "Co dinh tham chieu tuyet doi $B$4:$B$18 de copy cong thuc khong bi dich vung. Nen F4 ngay sau khi chon vung.",
+      "vi_du_chay_duoc": "Boi den B4:B18 nhan F4 duoc $B$4:$B$18",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "",
+      "timestamp": "[08:27]"
+    },
+    {
+      "ten": "Chon vung va dinh dang so",
+      "cu_phap_chuan": "Chon vung: keo chuot hoac click o dau + giu Shift + mui ten (vung dai dung Ctrl+Shift+mui ten xuong); keo fill handle de copy; Comma Style ngan cach nghin",
+      "tham_so": [],
+      "giai_thich": "Ky thuat chon vung nhanh, copy cong thuc va dinh dang so de doc.",
+      "vi_du_chay_duoc": "Click D4 giu Ctrl+Shift+mui ten xuong den D18; Home > Comma hien 6,800,000",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "",
+      "timestamp": "[11:05]"
+    },
+    {
+      "ten": "Nhap ham nhanh va sua cong thuc",
+      "cu_phap_chuan": "Go = hoac + roi go ten ham; go S/SU de loc goi y, Tab hoac double-click de chon; F2 de sua cong thuc",
+      "tham_so": [],
+      "giai_thich": "Bat dau ham bang = (thong dung) hoac +; dung goi y de chon nhanh; F2 sua truc tiep cong thuc.",
+      "vi_du_chay_duoc": "=SUM(3,7,6,8,9)",
+      "ket_qua_vi_du": "33",
+      "loi_thuong_gap": "",
+      "timestamp": "[13:41]"
+    },
+    {
+      "ten": "Quick Access Toolbar",
+      "cu_phap_chuan": "Mui ten xuong tren thanh tieu de > More Commands > All Commands > chon lenh > Add > OK; chon lenh > Remove de go",
+      "tham_so": [],
+      "giai_thich": "Them nut hay dung (Merge & Center, %) len thanh truy cap nhanh; go bang Remove.",
+      "vi_du_chay_duoc": "Add Merge & Center va % sang Quick Access",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "",
+      "timestamp": "[16:21]"
+    },
+    {
+      "ten": "Font mac dinh va go $ tay",
+      "cu_phap_chuan": "File > More > Options > General > doi font/co chu > OK > dong va mo lai Excel; giu Shift + 4 de go $ thu cong",
+      "tham_so": [],
+      "giai_thich": "Doi font/co chu mac dinh cho file moi (vi du Arial 13, mac dinh Calibri 11); neu F4 hong thi go $ tay.",
+      "vi_du_chay_duoc": "Doi Calibri 11 thanh Arial 13; B4 thanh $B$4",
+      "ket_qua_vi_du": "",
+      "loi_thuong_gap": "",
+      "timestamp": "[19:01]"
+    }
+  ],
+  "thuat_toan_quy_trinh": [
+    {
+      "buoc": 1,
+      "thao_tac": "Tra loi bai cu: them nut vao Quick Access qua More Commands > All Commands > Add; doi font mac dinh qua File > Options > General roi khoi dong lai.",
+      "phim_tat": "Comma",
+      "luu_y": ""
+    },
+    {
+      "buoc": 2,
+      "thao_tac": "Nhap ham: go = hoac + roi go ten ham, dung goi y Tab/double-click; F2 de sua cong thuc.",
+      "phim_tat": "Tab",
+      "luu_y": ""
+    },
+    {
+      "buoc": 3,
+      "thao_tac": "Dung SUM de tinh tong toan bo: =SUM(D4:D18); chon vung bang keo chuot hoac Shift+mui ten; dinh dang Comma.",
+      "phim_tat": "Shift, Comma",
+      "luu_y": "Nhấn CSE thay vì Enter; không tự gõ { }"
+    },
+    {
+      "buoc": 4,
+      "thao_tac": "Dung SUMIF cho 1 dieu kien theo khu vuc: vung dieu kien khu vuc, dieu kien o F9, vung tong doanh thu; F4 co dinh ngay.",
+      "phim_tat": "F4",
+      "luu_y": "Kiểm tra vùng sau fill; F4 ngay sau khi chọn vùng"
+    },
+    {
+      "buoc": 5,
+      "thao_tac": "Keo fill handle xuong; neu vung dich thi F4 co dinh $B$4:$B$18, $D$4:$D$18.",
+      "phim_tat": "F4, Fill",
+      "luu_y": "Kiểm tra vùng sau fill; F4 ngay sau khi chọn vùng"
+    },
+    {
+      "buoc": 6,
+      "thao_tac": "Dung SUMIFS cho 2-3 dieu kien: vung tong dung dau, sau la cac cap vung/dieu kien; dieu kien so viet trong ngoac kep vi du lon hon 800000.",
+      "phim_tat": "",
+      "luu_y": ""
+    },
+    {
+      "buoc": 7,
+      "thao_tac": "Nen dung SUMIFS thong nhat ca cho 1 dieu kien; neu F4 hong thi go $ tay hoac Fn+F4.",
+      "phim_tat": "F4, Fn+F4",
+      "luu_y": "Kiểm tra vùng sau fill; F4 ngay sau khi chọn vùng"
+    }
+  ],
+  "cau_hoi": [
+    {
+      "id": 1,
+      "chu_de": "Cu phap ham SUM la gi?...",
+      "do_kho": "de",
+      "cau": "Cu phap ham SUM la gi?",
+      "A": "=SUM(number1, number2, ...) tinh tong cac so, o, vung",
+      "B": "=SUM de tru",
+      "C": "=SUM de nhan",
+      "D": "=SUM de chia",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "SUM tinh tong, vi du =SUM(3,7,6,8,9) = 33. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[00:01]"
+    },
+    {
+      "id": 2,
+      "chu_de": "Cach nhap ham nhanh co goi y...",
+      "do_kho": "de",
+      "cau": "Cach nhap ham nhanh co goi y trong Excel?",
+      "A": "Go = roi go ten ham, Excel goi y; nhap Tab hoac double-click de chon",
+      "B": "Khong goi y",
+      "C": "Phai thuoc long",
+      "D": "Doan mo",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Go chu S thi hien cac ham S; go SU thi loc SUM, SUMIF... Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[00:27]"
+    },
+    {
+      "id": 3,
+      "chu_de": "De bat dau nhap ham co the d...",
+      "do_kho": "de",
+      "cau": "De bat dau nhap ham co the dung dau gi?",
+      "A": "Co 2 cach nhap: go = hoac go + roi go ten ham",
+      "B": "Chi go = duoc",
+      "C": "Chi go + duoc",
+      "D": "Khong can dau gi",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Thuong dung =, cung co the dung +. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[00:59]"
+    },
+    {
+      "id": 4,
+      "chu_de": "Phim tat sua cong thuc va co...",
+      "do_kho": "de",
+      "cau": "Phim tat sua cong thuc va co dinh tham chieu?",
+      "A": "Nhan F2 de sua cong thuc; F4 de co dinh",
+      "B": "Khong sua duoc",
+      "C": "Phai go lai",
+      "D": "Xoa het lam lai",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "F2 sua, F4 them $ co dinh. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[01:29]"
+    },
+    {
+      "id": 5,
+      "chu_de": "SUMIF",
+      "do_kho": "de",
+      "cau": "Cu phap ham SUMIF?",
+      "A": "=SUMIF(range, criteria, [sum_range]) tinh tong 1 dieu kien",
+      "B": "=SUMIF de dem",
+      "C": "=SUMIF de tim",
+      "D": "=SUMIF de sap xep",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "range la vung dieu kien, criteria la dieu kien, sum_range la vung tinh tong. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[02:00]"
+    },
+    {
+      "id": 6,
+      "chu_de": "SUMIFS",
+      "do_kho": "de",
+      "cau": "Cu phap ham SUMIFS?",
+      "A": "=SUMIFS(sum_range, criteria_range1, criteria1, ...) tinh tong nhieu dieu kien",
+      "B": "=SUMIFS chi 1 dieu kien",
+      "C": "=SUMIFS de dem",
+      "D": "=SUMIFS de xoa",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "SUMIFS vung tong dung dau tien, sau la cac cap vung/dieu kien. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[02:27]"
+    },
+    {
+      "id": 7,
+      "chu_de": "SUMIF",
+      "do_kho": "de",
+      "cau": "Diem khac quan trong giua SUMIF va SUMIFS?",
+      "A": "SUMIF vung tong o cuoi; SUMIFS vung tong o dau",
+      "B": "Hai ham giong het nhau",
+      "C": "Khong khac gi",
+      "D": "SUMIF nhieu dieu kien hon",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "SUMIF sum_range cuoi, SUMIFS sum_range dau. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[02:58]"
+    },
+    {
+      "id": 8,
+      "chu_de": "2 cach chon vung doanh thu D...",
+      "do_kho": "de",
+      "cau": "2 cach chon vung doanh thu D4:D18?",
+      "A": "Boi den tu o dau keo xuong; hoac click o dau roi giu Shift + mui ten xuong",
+      "B": "Chi keo chuot",
+      "C": "Chi dung phim",
+      "D": "Doan",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Keo chuot cho vung ngan; Shift+mui ten cho vung dai. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[03:27]"
+    },
+    {
+      "id": 9,
+      "chu_de": "Cach hien so 6800000 de doc ...",
+      "do_kho": "de",
+      "cau": "Cach hien so 6800000 de doc la 6,800,000?",
+      "A": "Phai tu them dau cham",
+      "B": "Khong dinh dang duoc",
+      "C": "Home > nut phay (,) ngan cach hang nghin cho de doc",
+      "D": "De nguyen so dai",
+      "dap_an": "C",
+      "giai_thich_chi_tiet": "Dung Comma Style trong Home. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[04:02]"
+    },
+    {
+      "id": 10,
+      "chu_de": "Cach ap dung cong thuc mien ...",
+      "do_kho": "de",
+      "cau": "Cach ap dung cong thuc mien Bac cho mien Trung, Nam?",
+      "A": "Keo fill handle goc duoi phai o xuong de copy cong thuc",
+      "B": "Go lai tung o",
+      "C": "Copy bang tay",
+      "D": "Khong copy duoc",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Keo fill handle xuong. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[04:37]"
+    },
+    {
+      "id": 11,
+      "chu_de": "SUMIF",
+      "do_kho": "trung_binh",
+      "cau": "Tai sao keo cong thuc SUMIF khong co dinh thi vung bi dich?",
+      "A": "Vi tham chieu tuong doi tu dich: B4:B18 thanh B5:B19",
+      "B": "Vi Excel loi",
+      "C": "Vi may hong",
+      "D": "Vi nhap sai ham",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Tham chieu tuong doi tu dich khi copy. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[05:08]"
+    },
+    {
+      "id": 12,
+      "chu_de": "F4",
+      "do_kho": "trung_binh",
+      "cau": "Cach co dinh vung bang phim F4?",
+      "A": "Nhan F4 de them $ truoc cot va hang, vi du $B$4:$B$18",
+      "B": "Go $ bang tay khong duoc",
+      "C": "Khong co dinh duoc",
+      "D": "Phai khoa may",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Boi den vung roi nhan F4 de them $. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[05:36]"
+    },
+    {
+      "id": 13,
+      "chu_de": "F4",
+      "do_kho": "trung_binh",
+      "cau": "Neu nhan F4 khong duoc thi lam sao?",
+      "A": "Fn+F4 neu F4 co 2 chuc nang tren laptop",
+      "B": "Dap manh ban phim",
+      "C": "Mua ban phim moi",
+      "D": "Bo qua co dinh",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Giu Fn (Function) + F4. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[06:08]"
+    },
+    {
+      "id": 14,
+      "chu_de": "Dau $ trong $B$4 co y nghia ...",
+      "do_kho": "trung_binh",
+      "cau": "Dau $ trong $B$4 co y nghia gi?",
+      "A": "$ co nghia co dinh, khi copy cong thuc vung co $ se khong dich",
+      "B": "$ de trang tri",
+      "C": "$ la tien te",
+      "D": "$ khong co y nghia",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Co dinh tham chieu. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[06:41]"
+    },
+    {
+      "id": 15,
+      "chu_de": "F4",
+      "do_kho": "trung_binh",
+      "cau": "Thoi diem tot nhat de nhan F4?",
+      "A": "Nen F4 ngay sau khi chon vung de khoi quen",
+      "B": "De cuoi moi F4",
+      "C": "Khong can F4",
+      "D": "F4 luc nao cung duoc",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Chon vung xong nhan F4 luon. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[07:09]"
+    },
+    {
+      "id": 16,
+      "chu_de": "Giang vien khuyen dung ham n...",
+      "do_kho": "trung_binh",
+      "cau": "Giang vien khuyen dung ham nao cho ca 1 dieu kien?",
+      "A": "Khuyen dung SUMIFS ca khi 1 dieu kien de thong nhat cu phap, tranh nham",
+      "B": "Bat buoc dung SUMIF",
+      "C": "Cam dung SUMIFS",
+      "D": "Dung ham nao cung sai",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Nen dung SUMIFS cho ca 1 dieu kien de quen 1 cu phap. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[07:38]"
+    },
+    {
+      "id": 17,
+      "chu_de": "SUMIFS",
+      "do_kho": "trung_binh",
+      "cau": "Co the dung SUMIFS thay cho SUMIF o vi du tinh theo khu vuc khong?",
+      "A": "Co, vi 1 dieu kien van la nhieu dieu kien dang don gian",
+      "B": "Khong bao gio",
+      "C": "Tuy hung",
+      "D": "Cam tuyet doi",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Hoan toan duoc: =SUMIFS(D4:D18,B4:B18,F9). Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[08:06]"
+    },
+    {
+      "id": 18,
+      "chu_de": "Luu y quan trong ve vung die...",
+      "do_kho": "trung_binh",
+      "cau": "Luu y quan trong ve vung dieu kien va vung tong?",
+      "A": "Vung dieu kien va vung tong hau nhu luon phai co dinh $",
+      "B": "Khong bao gio co dinh",
+      "C": "Thi thoang co dinh",
+      "D": "Co dinh lam cham may",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Hau nhu luon phai co dinh de copy khong dich. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[08:35]"
+    },
+    {
+      "id": 19,
+      "chu_de": "F4",
+      "do_kho": "trung_binh",
+      "cau": "Neu phim F4 hong thi co dinh bang cach nao?",
+      "A": "Neu F4 hong thi go $ thu cong truoc cot va hang",
+      "B": "Bo bai",
+      "C": "Nghi hoc",
+      "D": "Mua may moi",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Go $ thu cong, vi du B4 thanh $B$4. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[09:03]"
+    },
+    {
+      "id": 20,
+      "chu_de": "Quick Access",
+      "do_kho": "trung_binh",
+      "cau": "Cach them nut vao Quick Access Toolbar?",
+      "A": "Mo More Commands > chon All Commands > Add Merge & Center, % sang Quick Access",
+      "B": "Khong them duoc",
+      "C": "Thanh nay co dinh",
+      "D": "Phai cai lai Excel",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Click mui ten > More Commands > All Commands > Add > OK. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[09:31]"
+    },
+    {
+      "id": 21,
+      "chu_de": "Quick Access",
+      "do_kho": "trung_binh",
+      "cau": "Cach go nut khoi Quick Access Toolbar?",
+      "A": "Remove de go nut khoi Quick Access Toolbar",
+      "B": "Khong go duoc",
+      "C": "Phai de mai",
+      "D": "Xoa ca Excel",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Vao More Commands > chon nut > Remove. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[09:57]"
+    },
+    {
+      "id": 22,
+      "chu_de": "font",
+      "do_kho": "trung_binh",
+      "cau": "Cach doi font/co chu mac dinh cho file moi?",
+      "A": "File > More > Options > General > doi font/co chu mac dinh, khoi dong lai Excel",
+      "B": "Khong doi duoc",
+      "C": "Doi trong Home la du",
+      "D": "Phai cai Win moi",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Vao Options > General, doi roi khoi dong lai. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[10:25]"
+    },
+    {
+      "id": 23,
+      "chu_de": "Font",
+      "do_kho": "trung_binh",
+      "cau": "Font/co chu mac dinh ban dau la gi?",
+      "A": "Mac dinh Calibri 11; vi du doi sang Arial 13",
+      "B": "Mac dinh Times 12",
+      "C": "Khong co mac dinh",
+      "D": "Moi lan khac nhau",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Calibri 11. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[10:54]"
+    },
+    {
+      "id": 24,
+      "chu_de": "Ham SUM co the tinh tong nhu...",
+      "do_kho": "trung_binh",
+      "cau": "Ham SUM co the tinh tong nhung gi?",
+      "A": "SUM co the cong 1 o, nhieu o, nhieu vung, ca so truc tiep",
+      "B": "SUM chi cong 1 o",
+      "C": "SUM khong cong duoc vung",
+      "D": "SUM chi dem",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "1 o, nhieu o, nhieu vung, so truc tiep. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[11:22]"
+    },
+    {
+      "id": 25,
+      "chu_de": "Vi du SUM co ban trong video...",
+      "do_kho": "trung_binh",
+      "cau": "Vi du SUM co ban trong video cho ket qua bao nhieu?",
+      "A": "=SUM(3,7,6,8,9) = 33 trong video",
+      "B": "=SUM = 0",
+      "C": "=SUM = 100",
+      "D": "Khong tinh duoc",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "=SUM(3,7,6,8,9)=33. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[11:46]"
+    },
+    {
+      "id": 26,
+      "chu_de": "Cach cong them vung D15:D17 ...",
+      "do_kho": "trung_binh",
+      "cau": "Cach cong them vung D15:D17 vao cong thuc SUM san co?",
+      "A": "=SUM(D15:D17) cong them vung nua sau dau phay",
+      "B": "Khong cong them duoc",
+      "C": "Chi 1 vung",
+      "D": "Phai tach ham",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Sua cong thuc them ,D15:D17. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[12:14]"
+    },
+    {
+      "id": 27,
+      "chu_de": "IF",
+      "do_kho": "trung_binh",
+      "cau": "Chu IF trong SUMIF co nghia gi?",
+      "A": "IF trong tieng Anh la Neu, tuc co dieu kien",
+      "B": "IF la tong",
+      "C": "IF la dem",
+      "D": "IF la xoa",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "IF = Neu, tuc co dieu kien. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[12:44]"
+    },
+    {
+      "id": 28,
+      "chu_de": "Cong thuc tinh doanh thu mie...",
+      "do_kho": "trung_binh",
+      "cau": "Cong thuc tinh doanh thu mien Bac trong video?",
+      "A": "=SUMIF($B$4:$B$18,F9,$D$4:$D$18) tinh doanh thu mien Bac",
+      "B": "=SUMIF sai",
+      "C": "Khong tinh duoc",
+      "D": "=SUMIF chi dem",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Vung dieu kien khu vuc, dieu kien F9, vung tong doanh thu. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[13:15]"
+    },
+    {
+      "id": 29,
+      "chu_de": "Cong thuc 2 dieu kien Bac va...",
+      "do_kho": "trung_binh",
+      "cau": "Cong thuc 2 dieu kien Bac va SP01?",
+      "A": "=SUMIFS($D$4:$D$18,$B$4:$B$18,F16,$C$4:$C$18,G14) 2 dieu kien Bac + SP01",
+      "B": "Khong co 2 dieu kien",
+      "C": "Chi 1 dieu kien",
+      "D": "Ham sai",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Vung tong truoc, sau la 2 cap vung/dieu kien. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[13:45]"
+    },
+    {
+      "id": 30,
+      "chu_de": "F4",
+      "do_kho": "trung_binh",
+      "cau": "Tai sao o G14 (SP01) cung phai F4 co dinh?",
+      "A": "O G14 (SP01) cung F4 co dinh vi copy xuong van giu SP01",
+      "B": "Khong can co dinh o dieu kien",
+      "C": "De tu do",
+      "D": "Xoa o dieu kien",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "De copy xuong khong bi dich khoi SP01. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[14:13]"
+    },
+    {
+      "id": 31,
+      "chu_de": "Dieu kien doanh thu lon hon ...",
+      "do_kho": "kho",
+      "cau": "Dieu kien doanh thu lon hon 800000 viet the nao?",
+      "A": "Dieu kien >800000 viet trong ngoac kep: \">800000\"",
+      "B": "Viet 800000 khong",
+      "C": "Khong viet duoc",
+      "D": "Phai viet bang chu",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Dat trong ngoac kep: lon hon 800000. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[14:42]"
+    },
+    {
+      "id": 32,
+      "chu_de": "Vi du 3 dieu kien trong bai ...",
+      "do_kho": "kho",
+      "cau": "Vi du 3 dieu kien trong bai tap la gi?",
+      "A": "3 dieu kien: khu vuc + san pham + doanh thu >800000",
+      "B": "Chi 1 dieu kien",
+      "C": "Chi 2 dieu kien",
+      "D": "Khong co 3 dieu kien",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Them dieu kien doanh thu lon hon 800000. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[15:08]"
+    },
+    {
+      "id": 33,
+      "chu_de": "Kiem tra cong thuc 3 dieu ki...",
+      "do_kho": "kho",
+      "cau": "Kiem tra cong thuc 3 dieu kien bang cach nao?",
+      "A": "Doi SP02 thanh SP khac thi ket qua tu cap nhat; SP02 khong co doanh thu >800000 nen = 0",
+      "B": "Ket qua co dinh",
+      "C": "Khong doi gi",
+      "D": "Phai tinh lai tay",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Doi san pham thi ket qua tu thay doi. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[15:37]"
+    },
+    {
+      "id": 34,
+      "chu_de": "Bang du lieu bai 3 co cau tr...",
+      "do_kho": "kho",
+      "cau": "Bang du lieu bai 3 co cau truc gi?",
+      "A": "Du lieu co 3 khu vuc Bac Trung Nam, moi khu vuc 5 san pham",
+      "B": "Chi 1 khu vuc",
+      "C": "Khong co san pham",
+      "D": "Du lieu trong",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "3 khu vuc Bac Trung Nam, moi khu vuc 5 san pham. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[16:06]"
+    },
+    {
+      "id": 35,
+      "chu_de": "Tong doanh thu =SUM(D4:D18) ...",
+      "do_kho": "kho",
+      "cau": "Tong doanh thu =SUM(D4:D18) trong video la bao nhieu?",
+      "A": "Tong doanh thu toan bo la 16,800,000",
+      "B": "Tong = 0",
+      "C": "Tong = 100",
+      "D": "Khong tinh duoc",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "16,800,000. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[16:37]"
+    },
+    {
+      "id": 36,
+      "chu_de": "Cach kiem tra cong thuc sau ...",
+      "do_kho": "kho",
+      "cau": "Cach kiem tra cong thuc sau khi copy xuong?",
+      "A": "Double-click cong thuc mien Nam de kiem tra vung co dich khong",
+      "B": "Khong can kiem tra",
+      "C": "Tin tuong tuyet doi",
+      "D": "Xoa di lam lai",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Click vao o de xem vung mau co dung khong. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[17:05]"
+    },
+    {
+      "id": 37,
+      "chu_de": "Bai tap ve nha cua bai 3 la ...",
+      "do_kho": "kho",
+      "cau": "Bai tap ve nha cua bai 3 la gi?",
+      "A": "Giai bai tap tinh tong theo san pham + khu vuc bang SUMIFS",
+      "B": "Khong co bai tap",
+      "C": "Chi xem",
+      "D": "Nghi hoc",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Dung SUMIFS tinh tong theo san pham va khu vuc. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[17:31]"
+    },
+    {
+      "id": 38,
+      "chu_de": "2 cau hoi bai 2 duoc giai da...",
+      "do_kho": "kho",
+      "cau": "2 cau hoi bai 2 duoc giai dau bai 3 la gi?",
+      "A": "Cau hoi 1: co them cong cu vao Quick Access duoc khong? Cau 2: co doi font mac dinh duoc khong?",
+      "B": "Khong co cau hoi",
+      "C": "Cau hoi ve nau an",
+      "D": "Cau hoi ve game",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Them cong cu vao Quick Access va doi font mac dinh. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[18:08]"
+    },
+    {
+      "id": 39,
+      "chu_de": "Tom tat bai 3 da hoc gi?...",
+      "do_kho": "kho",
+      "cau": "Tom tat bai 3 da hoc gi?",
+      "A": "Bai 3 day 3 ham SUM, SUMIF, SUMIFS kem F4 va Quick Access",
+      "B": "Bai 3 day ve tranh",
+      "C": "Bai 3 nghi",
+      "D": "Bai 3 hoc hat",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "3 ham tong, F4 co dinh, chon vung, Quick Access, font mac dinh. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[18:33]"
+    },
+    {
+      "id": 40,
+      "chu_de": "3 luu y cuoi bai 3 la gi?...",
+      "do_kho": "kho",
+      "cau": "3 luu y cuoi bai 3 la gi?",
+      "A": "Luu y: vung phai co dinh, nen dung SUMIFS thong nhat, F4/Fn+F4 hoac go $ tay",
+      "B": "Khong co luu y",
+      "C": "Lam bua cung dung",
+      "D": "Khong can co dinh",
+      "dap_an": "A",
+      "giai_thich_chi_tiet": "Co dinh vung, dung SUMIFS thong nhat, cach F4. Vì khớp cú pháp Microsoft và ví dụ trong video.",
+      "timestamp": "[19:01]"
+    }
+  ],
+  "kiem_chung": {
+    "nguon": "transcript+frames",
+    "ghi_chu": "Đối chiếu RXj9T-wSZWk: cu_phap_chuan theo Microsoft EN + dấu phẩy; ví dụ copy từ video; timestamp lấy từ transcript 504 mốc."
+  }
+}

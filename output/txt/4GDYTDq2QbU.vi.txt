@@ -1,0 +1,668 @@
+[00:01] Xin chào mừng các bạn đến với khoa học excel miễn phí từ cơ bản đến nâng cao
+[00:04] excel miễn phí từ cơ bản đến nâng cao dành cho người mới bắt đầu được thực
+[00:06] dành cho người mới bắt đầu được thực hiện trên kênh YouTube gái Excel bài số
+[00:09] hiện trên kênh YouTube gái Excel bài số 12 special trong Excel trước khi đi vào
+[00:12] 12 special trong Excel trước khi đi vào bài số 12 mình sẽ giải câu hỏi của bài
+[00:14] bài số 12 mình sẽ giải câu hỏi của bài số 11 hôm trước nhá đây các bạn sẽ mở
+[00:17] số 11 hôm trước nhá đây các bạn sẽ mở cái câu hỏi lên ok ở đây mình sẽ có ba
+[00:22] cái câu hỏi lên ok ở đây mình sẽ có ba cái câu hỏi câu hỏi thứ nhất là mình sẽ
+[00:24] cái câu hỏi câu hỏi thứ nhất là mình sẽ tô màu thay đổi theo khu vực Đấy tức là
+[00:27] tô màu thay đổi theo khu vực Đấy tức là rẻ miền Bắc mình sẽ tô màu xanh miền
+[00:29] rẻ miền Bắc mình sẽ tô màu xanh miền Trung mình sẽ tô màu vàng và miền Nam
+[00:31] Trung mình sẽ tô màu vàng và miền Nam mình sẽ tô cái màu xám ấy thì ở cái câu
+[00:35] mình sẽ tô cái màu xám ấy thì ở cái câu hỏi số 2 ấy là mình sẽ tô màu theo cái
+[00:37] hỏi số 2 ấy là mình sẽ tô màu theo cái tỷ lệ phần trăm để từ 0 đến 50 phần trăm
+[00:39] tỷ lệ phần trăm để từ 0 đến 50 phần trăm hoàn thành thì sẽ ra màu xanh từ 50 đến
+[00:42] hoàn thành thì sẽ ra màu xanh từ 50 đến 80 chị sẽ làm màu vàng và lớn hơn 80 thì
+[00:45] 80 chị sẽ làm màu vàng và lớn hơn 80 thì sẽ là màu xám đấy con cái Cách thứ ba là
+[00:48] sẽ là màu xám đấy con cái Cách thứ ba là mình sẽ tô màu giống như cách 2 nhưng mà
+[00:50] mình sẽ tô màu giống như cách 2 nhưng mà mình sẽ có cả cái giá trị ở cái phần tô
+[00:53] mình sẽ có cả cái giá trị ở cái phần tô màu đấy thì đầu tiên mình sẽ làm cái câu
+[00:56] màu đấy thì đầu tiên mình sẽ làm cái câu hỏi số 1 là mình sẽ tô màu thay đổi cho
+[00:58] hỏi số 1 là mình sẽ tô màu thay đổi cho khu vực đúng ạ thì ở đây
+[01:00] khu vực đúng ạ thì ở đây ý là cái sản phẩm theo khu vực Còn đây
+[01:03] ý là cái sản phẩm theo khu vực Còn đây là cái kế hoạch Đây là cái kết quả thực
+[01:05] là cái kế hoạch Đây là cái kết quả thực hiện nhá Thì cái phần trăm hoàn thành
+[01:07] hiện nhá Thì cái phần trăm hoàn thành các bằng lại các bạn sẽ vàng là các bạn
+[01:08] các bằng lại các bạn sẽ vàng là các bạn lấy cái kết quả thực hiện các bạn chia
+[01:10] lấy cái kết quả thực hiện các bạn chia cho chia cho kế hoạch để các bạn enter
+[01:12] cho chia cho kế hoạch để các bạn enter thì nó sẽ ra là 90 phần trăm của các bạn
+[01:14] thì nó sẽ ra là 90 phần trăm của các bạn thích lúc nhá thì để tô màu nha các bạn
+[01:17] thích lúc nhá thì để tô màu nha các bạn sẽ bằng này các bạn sẽ lấy một trăm phần
+[01:19] sẽ bằng này các bạn sẽ lấy một trăm phần trăm thì một trăm phần trăm chín mươi
+[01:21] trăm thì một trăm phần trăm chín mươi một Đúng không các bạn lấy 1 - rẻ - cái
+[01:24] một Đúng không các bạn lấy 1 - rẻ - cái phần trong hoàn thành thì nó sẽ ra là
+[01:26] phần trong hoàn thành thì nó sẽ ra là cái phần trăm không hoàn thành thì tại
+[01:28] cái phần trăm không hoàn thành thì tại sao mình lại dùng cái phần trăm không
+[01:29] sao mình lại dùng cái phần trăm không hoàn thành thì lát nữa mình sẽ giải
+[01:30] hoàn thành thì lát nữa mình sẽ giải thích cho các bạn nhé để các bạn sẽ kéo
+[01:32] thích cho các bạn nhé để các bạn sẽ kéo xuống đây thì bây giờ mình sẽ tô màu cho
+[01:35] xuống đây thì bây giờ mình sẽ tô màu cho cái câu hỏi số 1 nhé các bạn sẽ Bôi đen
+[01:38] cái câu hỏi số 1 nhé các bạn sẽ Bôi đen Cái vùng mà các bạn cần tô màu đúng ạ
+[01:40] Cái vùng mà các bạn cần tô màu đúng ạ sau đó các bạn vào thẻ hôm các bạn vào
+[01:42] sau đó các bạn vào thẻ hôm các bạn vào con đi sợ nộp format tinh Các bạn chọn
+[01:45] con đi sợ nộp format tinh Các bạn chọn Milo đây sau đó bạn sẽ tích vào cái giấy
+[01:49] Milo đây sau đó bạn sẽ tích vào cái giấy cùng Tức là mình sẽ sử dụng công thức để
+[01:51] cùng Tức là mình sẽ sử dụng công thức để mình tạo cái định dạng có điều kiện
+[01:53] mình tạo cái định dạng có điều kiện không ạ thì các bạn bằng nhá thì các bạn
+[01:55] không ạ thì các bạn bằng nhá thì các bạn sẽ thích vào cái ô đầu tiên của cái phần
+[01:57] sẽ thích vào cái ô đầu tiên của cái phần khu vực ở đây này chính là Osram các bạn
+[01:59] khu vực ở đây này chính là Osram các bạn sẽ
+[02:00] sẽ a123 lần Tức là mình sẽ bỏ đô la hết đi
+[02:03] a123 lần Tức là mình sẽ bỏ đô la hết đi đúng không ạ Mình sẽ áp dụng cái quy tắc
+[02:05] đúng không ạ Mình sẽ áp dụng cái quy tắc này cho các cái ô dưới này nữa đấy nếu
+[02:08] này cho các cái ô dưới này nữa đấy nếu như hoặc bằng lượng bằng mổ kéo ra là
+[02:10] như hoặc bằng lượng bằng mổ kéo ra là bằng cái khu vực Miền Bắc đó các bạn sẽ
+[02:12] bằng cái khu vực Miền Bắc đó các bạn sẽ nó khép lại nếu như bằng phía bát ngát
+[02:15] nó khép lại nếu như bằng phía bát ngát thì các bạn sẽ định dạng này các bạn và
+[02:16] thì các bạn sẽ định dạng này các bạn và format đấy các bạn sẽ vào cái thẻ phim
+[02:20] format đấy các bạn sẽ vào cái thẻ phim nhá mình sẽ tô màu theo yêu cầu miền Bắc
+[02:22] nhá mình sẽ tô màu theo yêu cầu miền Bắc là màu xanh lá cây đây đúng không các
+[02:24] là màu xanh lá cây đây đúng không các bạn sẽ thích ở đây để cậu sẽ bấm ok cho
+[02:26] bạn sẽ thích ở đây để cậu sẽ bấm ok cho mình nhá Đợi như vậy đây là miền Bắc các
+[02:29] mình nhá Đợi như vậy đây là miền Bắc các bạn xem ok đấy thì các miền Bắc đã được
+[02:31] bạn xem ok đấy thì các miền Bắc đã được tô đậm rồi tương tự mình sẽ làm cho cái
+[02:34] tô đậm rồi tương tự mình sẽ làm cho cái miền Trung và miền Nam là màu nhu cầu
+[02:36] miền Trung và miền Nam là màu nhu cầu thế này đúng ạ để các bạn vẫn có thể hô
+[02:38] thế này đúng ạ để các bạn vẫn có thể hô các bạn vào con đi xe lửa pháp Marketing
+[02:40] các bạn vào con đi xe lửa pháp Marketing Mình sẽ chọn cái lu các bạn thích xuống
+[02:43] Mình sẽ chọn cái lu các bạn thích xuống dưới để sử dụng công suất nha các bạn
+[02:44] dưới để sử dụng công suất nha các bạn bằng này các bạn sẽ thích vào cái ô khu
+[02:46] bằng này các bạn sẽ thích vào cái ô khu vực ở đây là xe lam các bạn ở mép 4 1 2
+[02:48] vực ở đây là xe lam các bạn ở mép 4 1 2 3 lần hoặc bằng ghẹ bằng mở ngoặc kép ra
+[02:51] 3 lần hoặc bằng ghẹ bằng mở ngoặc kép ra là miền Trung ở đây này các bạn đóng
+[02:52] là miền Trung ở đây này các bạn đóng ngoặc kép ạ nếu như ba miền chung thì
+[02:54] ngoặc kép ạ nếu như ba miền chung thì bạn sẽ format này các bạn vẫn còn thì
+[02:57] bạn sẽ format này các bạn vẫn còn thì pin nhá ở đây là mình màu vàng văn các
+[03:00] pin nhá ở đây là mình màu vàng văn các Ừ Ok đã gọn của Mochi thì như vậy mình
+[03:04] Ừ Ok đã gọn của Mochi thì như vậy mình đã tôi xong miền Bắc và miền Trung rồi
+[03:05] đã tôi xong miền Bắc và miền Trung rồi đúng không Mình sẽ làm tương tự cho miền
+[03:06] đúng không Mình sẽ làm tương tự cho miền Nam nhé các bạn vẫn còn trẻ hôm này và
+[03:09] Nam nhé các bạn vẫn còn trẻ hôm này và con đi xâm lược maketing vẫn là cái lu
+[03:11] con đi xâm lược maketing vẫn là cái lu đấy các bạn sẽ thích xuống dưới này bạn
+[03:14] đấy các bạn sẽ thích xuống dưới này bạn bằng nhá các bạn thích vào cái ô C5 này
+[03:17] bằng nhá các bạn thích vào cái ô C5 này các bạn F4 cho mình 3 lần 123 đấy mặt
+[03:21] các bạn F4 cho mình 3 lần 123 đấy mặt bằng việc bằng một phép ra các bạn sẽ
+[03:23] bằng việc bằng một phép ra các bạn sẽ thích là gì Các bạn sẽ bằng cái miền Nam
+[03:25] thích là gì Các bạn sẽ bằng cái miền Nam vào đây các bạn đó chép lại nếu như bằng
+[03:27] vào đây các bạn đó chép lại nếu như bằng miền Nam thì các bạn sẽ format này Đấy
+[03:30] miền Nam thì các bạn sẽ format này Đấy màu xám đây các bạn sẽ thích vào cái màu
+[03:32] màu xám đây các bạn sẽ thích vào cái màu này đi đã chọn xong bấm ok các bạn Ok
+[03:36] này đi đã chọn xong bấm ok các bạn Ok thì như vậy mình đã tô màu Xong cho các
+[03:39] thì như vậy mình đã tô màu Xong cho các cái khu vực ở đây đúng không ạ đại nếu
+[03:41] cái khu vực ở đây đúng không ạ đại nếu mình Bắc thì là màu xanh miền Trung thì
+[03:43] mình Bắc thì là màu xanh miền Trung thì là màu vàng và Việt Nam là màu xám thì
+[03:46] là màu vàng và Việt Nam là màu xám thì bây giờ tại sao mình lại kiếm phần trăm
+[03:48] bây giờ tại sao mình lại kiếm phần trăm ở đây nhá thì có bạn lại tạo một cái cái
+[03:50] ở đây nhá thì có bạn lại tạo một cái cái định dạng có điều kiện nữa Cái này rất
+[03:52] định dạng có điều kiện nữa Cái này rất là hay này phải có bạn bè này sau đó gọi
+[03:55] là hay này phải có bạn bè này sau đó gọi vào thì hôm các bạn vào con đi rừng được
+[03:57] vào thì hôm các bạn vào con đi rừng được phát minh Gọi Chọn newsroom I
+[04:00] phát minh Gọi Chọn newsroom I ý thì cái này nha các bạn chọn cái trên
+[04:03] ý thì cái này nha các bạn chọn cái trên cùng ở đây chứ là mình sẽ định dạng theo
+[04:05] cùng ở đây chứ là mình sẽ định dạng theo dựa vào cái giá trị của nó đúng không
+[04:06] dựa vào cái giá trị của nó đúng không đấy ở dưới cái format tay này các bạn sẽ
+[04:09] đấy ở dưới cái format tay này các bạn sẽ chọn cho mình là Cái đây ta ba rồi thì
+[04:12] chọn cho mình là Cái đây ta ba rồi thì gọi chú nhá ở đây cái phần trăm hoàn
+[04:14] gọi chú nhá ở đây cái phần trăm hoàn thành thì thông thường nó sẽ là từ 0 đến
+[04:16] thành thì thông thường nó sẽ là từ 0 đến 100 phần trăm đúng không Thì ở đây mình
+[04:19] 100 phần trăm đúng không Thì ở đây mình sẽ có cái tùy chọn là minimap và men thì
+[04:21] sẽ có cái tùy chọn là minimap và men thì cái kiểu mini mod là gì mình cho kiểu số
+[04:24] cái kiểu mini mod là gì mình cho kiểu số đi cái kiểu mặt maximum mình cũng chọn
+[04:26] đi cái kiểu mặt maximum mình cũng chọn kiểu số đi để cái nhỏ nhất là không có
+[04:29] kiểu số đi để cái nhỏ nhất là không có cái lớn nhất thì sẽ là một rất là một
+[04:31] cái lớn nhất thì sẽ là một rất là một trăm phần trăm nữa cái Sulli pin thì
+[04:34] trăm phần trăm nữa cái Sulli pin thì mình sẽ tô màu gì đúng không cái KL thì
+[04:35] mình sẽ tô màu gì đúng không cái KL thì mình sẽ tô màu trắng đấy Còn cái Border
+[04:38] mình sẽ tô màu trắng đấy Còn cái Border đây nhá thì các bạn sẽ là lâu Golden đấy
+[04:41] đây nhá thì các bạn sẽ là lâu Golden đấy con cái dễ cái ba dai sừn nó còn thích
+[04:43] con cái dễ cái ba dai sừn nó còn thích vào đây các bạn xem tô việc mình cho tôi
+[04:45] vào đây các bạn xem tô việc mình cho tôi từ phải qua trái thì lát nữa mình sẽ
+[04:47] từ phải qua trái thì lát nữa mình sẽ giải thích cho các bạn nhá Đấy Ok các
+[04:49] giải thích cho các bạn nhá Đấy Ok các bạn sẽ thích và cái bìa các bạn sẽ thích
+[04:50] bạn sẽ thích và cái bìa các bạn sẽ thích vào cái sâu ba only lại là tớ là gì ạ Nó
+[04:53] vào cái sâu ba only lại là tớ là gì ạ Nó sẽ tô màu nhưng mà nó sẽ ảnh cái giá trị
+[04:55] sẽ tô màu nhưng mà nó sẽ ảnh cái giá trị đi Tức là nó ẩn cái giá trị số đây này
+[04:57] đi Tức là nó ẩn cái giá trị số đây này lại có thể bấm ok thì à
+[05:00] lại có thể bấm ok thì à Ừ thì cho bạn ạ đấy gọi thế chưa Lúc này
+[05:03] Ừ thì cho bạn ạ đấy gọi thế chưa Lúc này là gì ạ Bạn này đã hoàn thành 90 phần
+[05:05] là gì ạ Bạn này đã hoàn thành 90 phần trăm này thì cái màu xanh này nó sẽ tô
+[05:07] trăm này thì cái màu xanh này nó sẽ tô đến 90 phần trăm bạn này là 76 phần trăm
+[05:09] đến 90 phần trăm bạn này là 76 phần trăm thì đây là 76 phần trăm đấy hai mươi
+[05:11] thì đây là 76 phần trăm đấy hai mươi phần trăm thì là hai mươi phần trăm đây
+[05:13] phần trăm thì là hai mươi phần trăm đây lại Bây giờ các bạn xem vào thì hôm này
+[05:16] lại Bây giờ các bạn xem vào thì hôm này mình sẽ bỏ con đi sửa pháp Marketing Các
+[05:18] mình sẽ bỏ con đi sửa pháp Marketing Các bạn chọn cái marylou này đấy thì cái lu
+[05:21] bạn chọn cái marylou này đấy thì cái lu của mình là cái này cho ba vừa xong đúng
+[05:23] của mình là cái này cho ba vừa xong đúng không Thì gọi sự tích vào cái đây cho 3
+[05:24] không Thì gọi sự tích vào cái đây cho 3 sau đó bạn chọn edit rồi bây giờ mình sẽ
+[05:27] sau đó bạn chọn edit rồi bây giờ mình sẽ giải thích cho các bạn nhé Thứ nhất là
+[05:30] giải thích cho các bạn nhé Thứ nhất là cái sâu bio-life thế nào nó sẽ ẩn cái số
+[05:32] cái sâu bio-life thế nào nó sẽ ẩn cái số phần trăm ở đây đi đúng ạ Còn cái
+[05:35] phần trăm ở đây đi đúng ạ Còn cái minimem và maximun thì con hiểu rồi đúng
+[05:36] minimem và maximun thì con hiểu rồi đúng không thì thông thường cái kế hoạch hoàn
+[05:38] không thì thông thường cái kế hoạch hoàn thành là từ 0 đến 100 phần trăm cho nên
+[05:40] thành là từ 0 đến 100 phần trăm cho nên mình chính là ở đây là kiểu số và từ
+[05:42] mình chính là ở đây là kiểu số và từ không đến một đấy tiếp theo là gì À cái
+[05:45] không đến một đấy tiếp theo là gì À cái KL mình sẽ tô màu là việc mình sẽ tô màu
+[05:47] KL mình sẽ tô màu là việc mình sẽ tô màu trắng này các bạn thấy cho cái phần màu
+[05:49] trắng này các bạn thấy cho cái phần màu trắng ở đây là mười phần trăm thì nó sẽ
+[05:51] trắng ở đây là mười phần trăm thì nó sẽ rìa nó sẽ chính là bằng một trăm phần
+[05:53] rìa nó sẽ chính là bằng một trăm phần trăm - cần trong Hoàn thành đấy tôi là
+[05:55] trăm - cần trong Hoàn thành đấy tôi là bạn chất ở đây cái màu trắng đây này là
+[05:57] bạn chất ở đây cái màu trắng đây này là mình đã tô với giá trị ngược với cái giá
+[05:59] mình đã tô với giá trị ngược với cái giá trị
+[06:00] trị tin tức là phần trăm chiêu Hoàn thành
+[06:01] tin tức là phần trăm chiêu Hoàn thành đấy thì như vậy cái khoảng trắng ở đây
+[06:04] đấy thì như vậy cái khoảng trắng ở đây là phần trăm chưa hoàn thành Đấy con cái
+[06:07] là phần trăm chưa hoàn thành Đấy con cái ra Internet Thế là mình sẽ thực hiện
+[06:09] ra Internet Thế là mình sẽ thực hiện mình sẽ tô từ phải qua trái đây này Đấy
+[06:11] mình sẽ tô từ phải qua trái đây này Đấy thì như vậy đây rất là đẹp rồi nó không
+[06:13] thì như vậy đây rất là đẹp rồi nó không Ví dụ cái bạn này thực hiện được là diện
+[06:15] Ví dụ cái bạn này thực hiện được là diện 50 thôi nhé còn thay đổi đây đấy thì cậu
+[06:18] 50 thôi nhé còn thay đổi đây đấy thì cậu thấy chưa thì chỉ là làm ơn trong hoàn
+[06:20] thấy chưa thì chỉ là làm ơn trong hoàn thành Ví dụ ở đây là gì đây là 30 thôi
+[06:21] thành Ví dụ ở đây là gì đây là 30 thôi còn thấy cho thì chỉ có ba mươi phần
+[06:23] còn thấy cho thì chỉ có ba mươi phần trăm hoàn thành không để rất là hai ạ Ok
+[06:27] trăm hoàn thành không để rất là hai ạ Ok mình sẽ sang cái câu hỏi số 2 ở đây cái
+[06:30] mình sẽ sang cái câu hỏi số 2 ở đây cái phần trăm hoàn thành nhá mình giả sử
+[06:31] phần trăm hoàn thành nhá mình giả sử mình bà mẹ mình sẽ gán là bằng cái hoàn
+[06:34] mình bà mẹ mình sẽ gán là bằng cái hoàn thành ở bên này lại các bạn enter thì nó
+[06:36] thành ở bên này lại các bạn enter thì nó sẽ ra ba mươi phần trăm Ok cái tô màu
+[06:40] sẽ ra ba mươi phần trăm Ok cái tô màu thì các bạn cũng làm ngược lại thôi các
+[06:42] thì các bạn cũng làm ngược lại thôi các bạn sẽ bằng đấy ạ bạn các bạn lấy 1 - gì
+[06:44] bạn sẽ bằng đấy ạ bạn các bạn lấy 1 - gì ạ - Cái phần trăm hoàn thành Đây thì nó
+[06:47] ạ - Cái phần trăm hoàn thành Đây thì nó sẽ ra là còn lại là phần trăm trưởng
+[06:49] sẽ ra là còn lại là phần trăm trưởng thành đúng không các bạn kéo xuống đây
+[06:51] thành đúng không các bạn kéo xuống đây đấy Thì bây giờ mình sẽ làm việc mình sẽ
+[06:54] đấy Thì bây giờ mình sẽ làm việc mình sẽ làm giống như cách một thôi ạ thay vì
+[06:55] làm giống như cách một thôi ạ thay vì Bắc Trung Nam thì mình sẽ khống chế ở
+[06:57] Bắc Trung Nam thì mình sẽ khống chế ở cái ngũ hoàn thành này thì đầu tiên các
+[06:59] cái ngũ hoàn thành này thì đầu tiên các bạn sẽ gì em
+[06:59] bạn sẽ gì em Hà Nội dung mà các bạn cần tô màu nhé
+[07:02] Hà Nội dung mà các bạn cần tô màu nhé sau đó bạn vào thẻ hôm này các bạn và
+[07:05] sau đó bạn vào thẻ hôm này các bạn và con disk format Pink Các bạn chọn use
+[07:07] con disk format Pink Các bạn chọn use đấy thì ở dưới này nhé các bạn vẫn là sử
+[07:11] đấy thì ở dưới này nhé các bạn vẫn là sử dụng công thức Đúng không các bạn sẽ
+[07:13] dụng công thức Đúng không các bạn sẽ bằng này thì đây các bạn sẽ dùng với từ
+[07:15] bằng này thì đây các bạn sẽ dùng với từ 0 đến 50 phần trăm nhá lại thì bạn có
+[07:17] 0 đến 50 phần trăm nhá lại thì bạn có thể dùng các hàm Em đi Hà mint là gì ạ
+[07:20] thể dùng các hàm Em đi Hà mint là gì ạ Em của cái gì của các phần trăm hoàn
+[07:22] Em của cái gì của các phần trăm hoàn thành ở đây ạ ấy thì bọn chúng nhắc cái
+[07:25] thành ở đây ạ ấy thì bọn chúng nhắc cái này các bạn ở ghép 4 1 2 3 lần đấy nếu
+[07:28] này các bạn ở ghép 4 1 2 3 lần đấy nếu như mà phần trăm hoàn thành ở đây mà dị
+[07:29] như mà phần trăm hoàn thành ở đây mà dị ạ lớn hơn hoặc bằng 0 phẩy lại thỏa mãn
+[07:35] ạ lớn hơn hoặc bằng 0 phẩy lại thỏa mãn điều kiện tiếp theo là gì vẫn là cái
+[07:37] điều kiện tiếp theo là gì vẫn là cái phần trăm hoàn thành ở đây lại các bạn
+[07:39] phần trăm hoàn thành ở đây lại các bạn f412 ba lần mà diện nhỏ hơn hoặc bằng đi
+[07:42] f412 ba lần mà diện nhỏ hơn hoặc bằng đi để nhỏ hơn hoặc bằng 50 phần trăm đúng
+[07:45] để nhỏ hơn hoặc bằng 50 phần trăm đúng không Vậy thì gọi cho nó ngoác lại tức
+[07:48] không Vậy thì gọi cho nó ngoác lại tức là nó sẽ nằm trong khoảng từ 0 đến 50
+[07:49] là nó sẽ nằm trong khoảng từ 0 đến 50 phần trăm thì bạn sẽ pho mát đúng không
+[07:51] phần trăm thì bạn sẽ pho mát đúng không Rồi các bạn vào cái thẻ phim này mình sẽ
+[07:54] Rồi các bạn vào cái thẻ phim này mình sẽ cho màu xanh này đi để họ sẽ không Ok
+[07:56] cho màu xanh này đi để họ sẽ không Ok lại gọi bằng Ok thì như vậy là dị hợm
+[07:59] lại gọi bằng Ok thì như vậy là dị hợm đây từng
+[08:00] đây từng số trang bạn thấy chứ là tô màu xanh rồi
+[08:02] số trang bạn thấy chứ là tô màu xanh rồi thì các bạn chú ý nhé cái phần mà dịp
+[08:04] thì các bạn chú ý nhé cái phần mà dịp cái phần mà mình tô màu nó vẫn đang được
+[08:06] cái phần mà mình tô màu nó vẫn đang được Ballad rồi cho nên các bạn không cần
+[08:08] Ballad rồi cho nên các bạn không cần phải bôi đen nữa các bạn vẫn có thể hôm
+[08:10] phải bôi đen nữa các bạn vẫn có thể hôm này các bạn chọn con đi sửa hosting mình
+[08:13] này các bạn chọn con đi sửa hosting mình sẽ là lưu lại gọi sẽ chọn cái dưới này
+[08:15] sẽ là lưu lại gọi sẽ chọn cái dưới này để mình sử dụng công thức này các bạn
+[08:17] để mình sử dụng công thức này các bạn bằng viện vàng em em của mở ngoặc nhá
+[08:20] bằng viện vàng em em của mở ngoặc nhá các bạn vẫn tích và cái phần trăm hoàn
+[08:22] các bạn vẫn tích và cái phần trăm hoàn thành vào đây là K5 này các bạn f412 ba
+[08:25] thành vào đây là K5 này các bạn f412 ba lần mà dẹp mà lớn hơn 50 phần trăm để
+[08:29] lần mà dẹp mà lớn hơn 50 phần trăm để Tức là trong cái khoảng 50 đến 80 phần
+[08:31] Tức là trong cái khoảng 50 đến 80 phần trăm nhé Phải thì còn có thể gọi trực
+[08:33] trăm nhé Phải thì còn có thể gọi trực tiếp luôn là K5 để chọn không cần phải
+[08:35] tiếp luôn là K5 để chọn không cần phải tích vào cái Ok nữa nhé Mà gì ạ Mà nhỏ
+[08:38] tích vào cái Ok nữa nhé Mà gì ạ Mà nhỏ hơn hoặc bằng 80 phần trăm đúng không
+[08:41] hơn hoặc bằng 80 phần trăm đúng không Tức là trong cái khoảng thứ hai này có
+[08:44] Tức là trong cái khoảng thứ hai này có sự đóng ngoặc lại để nếu như nó nằm
+[08:46] sự đóng ngoặc lại để nếu như nó nằm trong khoảng này thì họ sẽ format Tức là
+[08:48] trong khoảng này thì họ sẽ format Tức là mình sẽ định dạng nó đúng không Mình sẽ
+[08:50] mình sẽ định dạng nó đúng không Mình sẽ chọn cái màu vàng này thì các bạn bấm ok
+[08:52] chọn cái màu vàng này thì các bạn bấm ok ok để như vậy vì xong cái màu vàng rồi
+[08:55] ok để như vậy vì xong cái màu vàng rồi đúng không Bây giờ còn lại là lớn hơn 80
+[08:57] đúng không Bây giờ còn lại là lớn hơn 80 phần trăm thì mình sẽ tô màu xám đấy Các
+[09:00] phần trăm thì mình sẽ tô màu xám đấy Các Ừ hôm nào con đi sửa mắt tinh larue để
+[09:04] Ừ hôm nào con đi sửa mắt tinh larue để mình sẽ thích bạn đây sử dụng công thức
+[09:05] mình sẽ thích bạn đây sử dụng công thức các bạn bằng này đấy ạ Ở đây cái phần
+[09:09] các bạn bằng này đấy ạ Ở đây cái phần cuối cùng thì bạn không phải dùng hàm em
+[09:10] cuối cùng thì bạn không phải dùng hàm em nữa đúng không đây Các bạn sẽ gọi là K5
+[09:13] nữa đúng không đây Các bạn sẽ gọi là K5 luôn vẫn là cái Ok Nam đấy mà dị lớn hơn
+[09:15] luôn vẫn là cái Ok Nam đấy mà dị lớn hơn Cám ơn phần trăm thì bạn sẽ format đấy
+[09:19] Cám ơn phần trăm thì bạn sẽ format đấy là màu xám đúng không Này các bạn sẽ
+[09:21] là màu xám đúng không Này các bạn sẽ chọn cái môn này các bạn muốn ok ok đấy
+[09:25] chọn cái môn này các bạn muốn ok ok đấy thì như vậy mình đã tô màu rồi đúng
+[09:27] thì như vậy mình đã tô màu rồi đúng không Ok Bây giờ mình sẽ làm được cái
+[09:29] không Ok Bây giờ mình sẽ làm được cái cách một nhá thì đầu tiên các bạn sẽ mua
+[09:31] cách một nhá thì đầu tiên các bạn sẽ mua đem cái vùng dữ liệu này đấy các bạn xem
+[09:34] đem cái vùng dữ liệu này đấy các bạn xem vào đây các bạn sẽ vào thì hôm các bạn
+[09:35] vào đây các bạn sẽ vào thì hôm các bạn và con đi sửa format tinh các bạn sẽ
+[09:38] và con đi sửa format tinh các bạn sẽ chọn cái use đấy thì các bạn vẫn là chọn
+[09:41] chọn cái use đấy thì các bạn vẫn là chọn cái trên cùng này nhá đấy cậu chết chọn
+[09:43] cái trên cùng này nhá đấy cậu chết chọn để ở đây cái phần format tay mình sẽ
+[09:45] để ở đây cái phần format tay mình sẽ chọn nó diện đây cho ba Đấy cái phần
+[09:47] chọn nó diện đây cho ba Đấy cái phần minimem ở đây là mình sẽ chọn nó làm bờ
+[09:49] minimem ở đây là mình sẽ chọn nó làm bờ cái maximum đây mình sẽ là năm bờ đúng ạ
+[09:51] cái maximum đây mình sẽ là năm bờ đúng ạ nữa thì đây là không vào đây là một rồi
+[09:56] nữa thì đây là không vào đây là một rồi cái phần khan ở đây thì mình sẽ cho màu
+[09:58] cái phần khan ở đây thì mình sẽ cho màu trắng đây cái bơ Daddy
+[10:00] trắng đây cái bơ Daddy từ bao đời đúng không các phần 3
+[10:01] từ bao đời đúng không các phần 3 Direction được đây nhá thì mình sẽ cho
+[10:03] Direction được đây nhá thì mình sẽ cho từ phải qua trái đây các bạn sẽ thích
+[10:05] từ phải qua trái đây các bạn sẽ thích chọn râu boli Tức là mình sẽ không sâu
+[10:08] chọn râu boli Tức là mình sẽ không sâu cái giá trị ở đây ra đây là 70 phần trăm
+[10:10] cái giá trị ở đây ra đây là 70 phần trăm này 25 phần trăm bảy mươi phần trăm đấy
+[10:11] này 25 phần trăm bảy mươi phần trăm đấy thì những cái giá trị này nó sẽ bị ẩn đi
+[10:13] thì những cái giá trị này nó sẽ bị ẩn đi và nó chỉ sâu cái phần diện tích của
+[10:15] và nó chỉ sâu cái phần diện tích của phần trăm hoàn thành thôi nhá phải gọi
+[10:18] phần trăm hoàn thành thôi nhá phải gọi cho bố Ok đấy vẫn này chưa Nó giống hệt
+[10:20] cho bố Ok đấy vẫn này chưa Nó giống hệt với cả cái tô màu đây rồi rất là đẹp ạ
+[10:22] với cả cái tô màu đây rồi rất là đẹp ạ Ok Xem câu hỏi thứ ba là gì mình sẽ tô
+[10:25] Ok Xem câu hỏi thứ ba là gì mình sẽ tô màu thay đổi theo phần trăm hoàn thành +
+[10:27] màu thay đổi theo phần trăm hoàn thành + giá trị đấy rất là chị ạ Cái phần trăm
+[10:30] giá trị đấy rất là chị ạ Cái phần trăm hoàn thành ở đây mình cũng tô màu lên và
+[10:32] hoàn thành ở đây mình cũng tô màu lên và cái màu đây thì mình sẽ giống là cái câu
+[10:34] cái màu đây thì mình sẽ giống là cái câu hỏi số 2 Đấy cái phần trăm hoàn thành Ví
+[10:37] hỏi số 2 Đấy cái phần trăm hoàn thành Ví dụ mình vẫn là bằng cái kết quả đây nhá
+[10:38] dụ mình vẫn là bằng cái kết quả đây nhá Đấy con kéo xuống Ok cái phần tô màu
+[10:44] Đấy con kéo xuống Ok cái phần tô màu gọng vẫn là gì vẫn là bằng 1 - cái phần
+[10:46] gọng vẫn là gì vẫn là bằng 1 - cái phần trăm hoàn thành Tức là mình sẽ Tô màu
+[10:48] trăm hoàn thành Tức là mình sẽ Tô màu cái phần trăm không hoàn thành là màu
+[10:49] cái phần trăm không hoàn thành là màu trắng nữa Đấy cái phần tô màu ở đây nó
+[10:53] trắng nữa Đấy cái phần tô màu ở đây nó sẽ giống hệt với cái phần tô màu đây thì
+[10:55] sẽ giống hệt với cái phần tô màu đây thì cách đơn giản là gì Các bạn sẽ Bôi đen
+[10:56] cách đơn giản là gì Các bạn sẽ Bôi đen Cái vùng dữ liệu mà các bạn ở tô màu
+[10:58] Cái vùng dữ liệu mà các bạn ở tô màu chiếc đấy Này các bạn chọn
+[11:00] chiếc đấy Này các bạn chọn sự kiện ở đây này các bạn xem tiếp vào
+[11:02] sự kiện ở đây này các bạn xem tiếp vào cái chổi trong cái thẻ hôm nhá Để sau đó
+[11:04] cái chổi trong cái thẻ hôm nhá Để sau đó còn sẽ format cho cái phần câu hỏi số 3
+[11:07] còn sẽ format cho cái phần câu hỏi số 3 đây Đấy thấy chưa Nó sẽ giống hệt cái
+[11:09] đây Đấy thấy chưa Nó sẽ giống hệt cái này rồi lại rất là hai ạ Bây giờ mình sẽ
+[11:12] này rồi lại rất là hai ạ Bây giờ mình sẽ Tô màu cái số này này đấy thì nó màu nó
+[11:14] Tô màu cái số này này đấy thì nó màu nó giống như thế này thì các bạn rất là đơn
+[11:15] giống như thế này thì các bạn rất là đơn giản các bạn Bôi đen Cái cùng dữ liệu ở
+[11:17] giản các bạn Bôi đen Cái cùng dữ liệu ở đây đấy các bạn xem vào thì các bạn và
+[11:19] đây đấy các bạn xem vào thì các bạn và thẻ hôm các bạn và con disk format tinh
+[11:21] thẻ hôm các bạn và con disk format tinh Các bạn chọn resolve đấy Ở đây mình sẽ
+[11:24] Các bạn chọn resolve đấy Ở đây mình sẽ thích cái dưới này để mình sử dụng công
+[11:26] thích cái dưới này để mình sử dụng công thức nha các bạn sẽ bằng điện bằng em em
+[11:33] thức nha các bạn sẽ bằng điện bằng em em của mở ngoặc nhá Thì cái phần trăm hoàn
+[11:35] của mở ngoặc nhá Thì cái phần trăm hoàn thành Đây chính là gì chính là cái kia
+[11:37] thành Đây chính là gì chính là cái kia Nam các bạn ạ f412 ba lần mà diện mà lớn
+[11:40] Nam các bạn ạ f412 ba lần mà diện mà lớn hơn hoặc bằng không phải dạng vẫn là phê
+[11:44] hơn hoặc bằng không phải dạng vẫn là phê lắm các bạn gõ luôn là bên năm mà dị nhỏ
+[11:46] lắm các bạn gõ luôn là bên năm mà dị nhỏ hơn hoặc bằng diện 50 phần trăm các bạn
+[11:51] hơn hoặc bằng diện 50 phần trăm các bạn sẽ đóng ngoặc lại nếu như mà thỏa mãn
+[11:52] sẽ đóng ngoặc lại nếu như mà thỏa mãn các điều kiện này tức là nó sẽ nằm trong
+[11:55] các điều kiện này tức là nó sẽ nằm trong khoảng từ 0 đến 50 phần trăm thì chọn
+[11:57] khoảng từ 0 đến 50 phần trăm thì chọn format đấy thì gọi thêm vào cái phần
+[11:59] format đấy thì gọi thêm vào cái phần phone nhé mình
+[12:00] phone nhé mình hai chữ thôi Mình sẽ không tô màu cái ô
+[12:02] hai chữ thôi Mình sẽ không tô màu cái ô ở đây thì bạn sẽ là tô đậm này và các
+[12:06] ở đây thì bạn sẽ là tô đậm này và các bạn cho phần KL ví dụ là mình trong màu
+[12:08] bạn cho phần KL ví dụ là mình trong màu xanh này đi lại họ sẽ bảo OK các bạn sẽ
+[12:12] xanh này đi lại họ sẽ bảo OK các bạn sẽ bấm ok đấy thì nó sẽ màu xanh tương ứng
+[12:14] bấm ok đấy thì nó sẽ màu xanh tương ứng với bên này tương tự bây giờ mình sẽ làm
+[12:17] với bên này tương tự bây giờ mình sẽ làm cho cái màu cam nhé các bạn lại Bôi đen
+[12:18] cho cái màu cam nhé các bạn lại Bôi đen Cái vùng dữ liệu đây mình vẫn và thẻ hôm
+[12:21] Cái vùng dữ liệu đây mình vẫn và thẻ hôm con nên sơ lược marketing Nero lại ra sự
+[12:26] con nên sơ lược marketing Nero lại ra sự tích vào đây để mình sử dụng công thức
+[12:27] tích vào đây để mình sử dụng công thức này các bạn bằng em em của mở ngoặc nhá
+[12:30] này các bạn bằng em em của mở ngoặc nhá thì vẫn là cái Ok năm đúng không Mà gì ạ
+[12:33] thì vẫn là cái Ok năm đúng không Mà gì ạ Mà lớn hơn 50 phần trăm phẩy và rẻ vẫn
+[12:39] Mà lớn hơn 50 phần trăm phẩy và rẻ vẫn là cái B5 mà diện nhỏ hơn hoặc bằng gì
+[12:42] là cái B5 mà diện nhỏ hơn hoặc bằng gì 80 phần trăm phải thì bạn sẽ nóng hoặc
+[12:46] 80 phần trăm phải thì bạn sẽ nóng hoặc lạnh các bạn sẽ format cho nó mình sẽ
+[12:48] lạnh các bạn sẽ format cho nó mình sẽ vào cái thẻ phone nhá Chữ đậm này vì rất
+[12:51] vào cái thẻ phone nhá Chữ đậm này vì rất color mình sẽ cho nó máu và bé gạch bấm
+[12:54] color mình sẽ cho nó máu và bé gạch bấm ok ok đấy Gọi cho cái giá trị ở đây nó
+[12:59] ok ok đấy Gọi cho cái giá trị ở đây nó là màu vàng
+[13:00] là màu vàng Ừ cái phần tô màu rồi chỉ còn lại là cái
+[13:02] Ừ cái phần tô màu rồi chỉ còn lại là cái màu của lớn hơn 80 phần trăm thôi bạn
+[13:05] màu của lớn hơn 80 phần trăm thôi bạn Bôi đen này và thẻ hôm conditional
+[13:08] Bôi đen này và thẻ hôm conditional formatting lại chọn im ru đấy mình tích
+[13:10] formatting lại chọn im ru đấy mình tích vào đây để sử dụng công thức nhắc các
+[13:12] vào đây để sử dụng công thức nhắc các bạn bằng ghẹ thì với các trường hợp cuối
+[13:14] bạn bằng ghẹ thì với các trường hợp cuối này các bạn không cần phải dùng hàm em
+[13:16] này các bạn không cần phải dùng hàm em nữa tại vì nó chỉ có một cái giá trị là
+[13:17] nữa tại vì nó chỉ có một cái giá trị là lớn hơn 80 phần trăm đúng không đấy thì
+[13:20] lớn hơn 80 phần trăm đúng không đấy thì làm vi nam diện lớn hơn 80 phần trăm Hãy
+[13:24] làm vi nam diện lớn hơn 80 phần trăm Hãy thì các bạn sẽ format lại gọn xem vào
+[13:27] thì các bạn sẽ format lại gọn xem vào cái thẻ phone mình sẽ tô đậm và mình sẽ
+[13:29] cái thẻ phone mình sẽ tô đậm và mình sẽ cho màu là gì ạ đây ví dụ là màu sáng
+[13:31] cho màu là gì ạ đây ví dụ là màu sáng nay đi Bạn muốn Ok Ok đó cảm thấy chứ
+[13:35] nay đi Bạn muốn Ok Ok đó cảm thấy chứ rất là hai ạ Ok như vậy là mình đã xong
+[13:38] rất là hai ạ Ok như vậy là mình đã xong cái câu hỏi của bài số 11 nhá Thì bây
+[13:40] cái câu hỏi của bài số 11 nhá Thì bây giờ Họ sẽ đóng lại mình cho vào cái bài
+[13:42] giờ Họ sẽ đóng lại mình cho vào cái bài tập số 12 của hôm nay các bạn chú ý nhé
+[13:53] tập số 12 của hôm nay các bạn chú ý nhé mình sẽ để cái link tải file thực hành
+[13:54] mình sẽ để cái link tải file thực hành trong phần mô tả cái dưới video thì tốt
+[13:57] trong phần mô tả cái dưới video thì tốt nhất là các bạn tải về các bạn vừa theo
+[13:59] nhất là các bạn tải về các bạn vừa theo dõi và nữ
+[14:00] dõi và nữ Ừ nếu như bạn nào mà không biết cách tải
+[14:02] Ừ nếu như bạn nào mà không biết cách tải về thì các bạn xem lại cái bài đầu tiên
+[14:04] về thì các bạn xem lại cái bài đầu tiên thì trong bài đấy mình đã hướng dẫn các
+[14:06] thì trong bài đấy mình đã hướng dẫn các bạn là cách chi tiết để các bạn tải về
+[14:08] bạn là cách chi tiết để các bạn tải về nhá Thì cái file mà mình tải về sẽ là
+[14:11] nhá Thì cái file mà mình tải về sẽ là file nén nó sẽ có 2 file 1 file file
+[14:14] file nén nó sẽ có 2 file 1 file file thực hành chính là cái file mà các bạn
+[14:15] thực hành chính là cái file mà các bạn đang xem này và cái file thứ 2 là cái
+[14:18] đang xem này và cái file thứ 2 là cái file câu hỏi để các bạn làm bài tập về
+[14:20] file câu hỏi để các bạn làm bài tập về nhà nhá Đấy thì trong bài tập ngày hôm
+[14:23] nhà nhá Đấy thì trong bài tập ngày hôm nay mình sẽ sử dụng cái kết cho dù trong
+[14:25] nay mình sẽ sử dụng cái kết cho dù trong Excel thì nội dung của hôm nay sẽ gồm 10
+[14:28] Excel thì nội dung của hôm nay sẽ gồm 10 cái ứng dụng của cái kết Castle luôn đấy
+[14:31] cái ứng dụng của cái kết Castle luôn đấy castell nghĩa là gì Nghĩa là mình chưa
+[14:33] castell nghĩa là gì Nghĩa là mình chưa dán đặc biệt để Thông thường thì các bạn
+[14:36] dán đặc biệt để Thông thường thì các bạn hãy copy Tuyết nhé ví dụ các bạn copy
+[14:38] hãy copy Tuyết nhé ví dụ các bạn copy Kyo này các bạn nháy thì phải gọi copy
+[14:39] Kyo này các bạn nháy thì phải gọi copy đoạn trích ra đây này các bạn có thể ấn
+[14:42] đoạn trích ra đây này các bạn có thể ấn can trên V thì đây là cái kết thông
+[14:45] can trên V thì đây là cái kết thông thường thôi đúng không còn cái kết đặc
+[14:46] thường thôi đúng không còn cái kết đặc biệt là gì xinh nháy chuột phải vào một
+[14:48] biệt là gì xinh nháy chuột phải vào một ô mà các bạn cần Tuyết Các bạn chọn
+[14:49] ô mà các bạn cần Tuyết Các bạn chọn Tuyết cao su đấy thì trong Bài học này
+[14:52] Tuyết cao su đấy thì trong Bài học này Hôm nay mình sẽ hướng dẫn các bạn 10 ứng
+[14:54] Hôm nay mình sẽ hướng dẫn các bạn 10 ứng dụng rất là hay của cải quyết cho số này
+[14:56] dụng rất là hay của cải quyết cho số này nhá ở đây mình sẽ ấn cancel đi lại bị
+[14:58] nhá ở đây mình sẽ ấn cancel đi lại bị xóa cái này đi
+[15:00] xóa cái này đi Ừ thì mỗi một cái ứng dụng sẽ ở một cái
+[15:03] Ừ thì mỗi một cái ứng dụng sẽ ở một cái shit tiếng Việt đúng không Thì đầu tiên
+[15:04] shit tiếng Việt đúng không Thì đầu tiên Vì sẽ làm Rẻ mình sẽ sử dụng cái copy
+[15:07] Vì sẽ làm Rẻ mình sẽ sử dụng cái copy format thì giả sử đây là cái format của
+[15:11] format thì giả sử đây là cái format của cái 5 năm 2020 đấy Cái format này mình
+[15:14] cái 5 năm 2020 đấy Cái format này mình đã làm rất là đẹp rồi chẳng hạn thì nhá
+[15:16] đã làm rất là đẹp rồi chẳng hạn thì nhá Thì bây giờ mình có dữ liệu của năm 2021
+[15:18] Thì bây giờ mình có dữ liệu của năm 2021 nó sẽ giống như là cái format của năm
+[15:21] nó sẽ giống như là cái format của năm 2020 nhưng mà nó vẫn là ở đây là cái
+[15:24] 2020 nhưng mà nó vẫn là ở đây là cái kiểu của nó là dữ liệu thôi nó chưa có
+[15:26] kiểu của nó là dữ liệu thôi nó chưa có tô màu hay là kẻ khung gì cả đúng không
+[15:27] tô màu hay là kẻ khung gì cả đúng không Bây giờ mình muốn áp cái format Tức là
+[15:30] Bây giờ mình muốn áp cái format Tức là cái định dạng của cái 5 20 20 này cho
+[15:33] cái định dạng của cái 5 20 20 này cho 520 21 thì mình làm như thế nào đấy thì
+[15:36] 520 21 thì mình làm như thế nào đấy thì đầu tiên là bạn sẽ Bôi đen Cái vùng dữ
+[15:37] đầu tiên là bạn sẽ Bôi đen Cái vùng dữ liệu ở đây rồi còn sẽ nhớ về phải này
+[15:40] liệu ở đây rồi còn sẽ nhớ về phải này các bạn sẽ copy đấy Sau đó các bạn Bôi
+[15:43] các bạn sẽ copy đấy Sau đó các bạn Bôi đen Cái vùng mà dữ liệu các bạn muốn
+[15:45] đen Cái vùng mà dữ liệu các bạn muốn định dạng giống như cái phần mà mình
+[15:47] định dạng giống như cái phần mà mình copy ở đây nhá các bạn sẽ nhấn chuột
+[15:49] copy ở đây nhá các bạn sẽ nhấn chuột phải này các bạn chọn biết perso đấy và
+[15:52] phải này các bạn chọn biết perso đấy và các bạn sẽ thích chọn là gì Các bạn sẽ
+[15:54] các bạn sẽ thích chọn là gì Các bạn sẽ thích chọn là pháo mát ở đây để tiếc là
+[15:56] thích chọn là pháo mát ở đây để tiếc là mình chưa biết cái format ở bên này sang
+[15:57] mình chưa biết cái format ở bên này sang bên này luôn đấy Bạn bấm ok đấy
+[16:00] bên này luôn đấy Bạn bấm ok đấy vì vậy nó lấy nguyên cái định dạng của
+[16:02] vì vậy nó lấy nguyên cái định dạng của bên này Đấy Ok xanh chạy ứng dụng thứ
+[16:06] bên này Đấy Ok xanh chạy ứng dụng thứ hai của cái pass cho dù là gì ạ Mình sẽ
+[16:08] hai của cái pass cho dù là gì ạ Mình sẽ có cái danh sách chọn xuống ở đây đấy
+[16:11] có cái danh sách chọn xuống ở đây đấy thì giả sử mình có Đây là cái danh sách
+[16:13] thì giả sử mình có Đây là cái danh sách xổ xuống nhá Đây này các bạn sẽ tích vào
+[16:15] xổ xuống nhá Đây này các bạn sẽ tích vào cái hình tam giác ở đây này cái danh
+[16:17] cái hình tam giác ở đây này cái danh sách xổ xuống ở đây nó sẽ có cái kiểu
+[16:19] sách xổ xuống ở đây nó sẽ có cái kiểu giới tính ví dụ là các bạn chọn nữ thì
+[16:21] giới tính ví dụ là các bạn chọn nữ thì nó sẽ là nữ hoặc là Nam thì là Nam hoặc
+[16:23] nó sẽ là nữ hoặc là Nam thì là Nam hoặc các bạn có thể chọn khác ở đây đấy thì
+[16:26] các bạn có thể chọn khác ở đây đấy thì cái này gọi là cái danh sách xổ xuống
+[16:27] cái này gọi là cái danh sách xổ xuống hay còn gọi là dropdownlist nhá Thì bây
+[16:29] hay còn gọi là dropdownlist nhá Thì bây giờ cái giới tính ở đây nó chưa có tùy
+[16:31] giờ cái giới tính ở đây nó chưa có tùy chọn đúng không ạ Bây giờ làm sao để
+[16:32] chọn đúng không ạ Bây giờ làm sao để mình copy được cái danh sách xổ xuống từ
+[16:34] mình copy được cái danh sách xổ xuống từ đây từ bên này sang bên này Đấy cách rất
+[16:37] đây từ bên này sang bên này Đấy cách rất đơn giản các bạn sẽ thích vào cái ô mà
+[16:38] đơn giản các bạn sẽ thích vào cái ô mà nó đã có cái danh sách xổ xuống rồi đúng
+[16:41] nó đã có cái danh sách xổ xuống rồi đúng không các bạn nhảy chuột phải là các bạn
+[16:42] không các bạn nhảy chuột phải là các bạn chọn copy đấy Bây giờ con bọ đen cái
+[16:45] chọn copy đấy Bây giờ con bọ đen cái phần giới tính mà các bạn định p đúng
+[16:47] phần giới tính mà các bạn định p đúng không để còn nhỏ rất phẳng Các bạn chọn
+[16:50] không để còn nhỏ rất phẳng Các bạn chọn vestal đấy thì gọi sẽ chọn vào rìa Các
+[16:54] vestal đấy thì gọi sẽ chọn vào rìa Các bạn chọn và cái validation ở đây để gọi
+[16:57] bạn chọn và cái validation ở đây để gọi sẽ bảo Ok đấy chứ Thì như vậy
+[17:00] sẽ bảo Ok đấy chứ Thì như vậy ý của từng cái họ tên này nó đã có cái
+[17:02] ý của từng cái họ tên này nó đã có cái danh sách xổ xuống ở đây để chọn rồi
+[17:04] danh sách xổ xuống ở đây để chọn rồi đúng không Ví dụ gãy sẽ sáng là Nam để
+[17:06] đúng không Ví dụ gãy sẽ sáng là Nam để các bạn thích và gà đi theo 7 là nữ đợi
+[17:09] các bạn thích và gà đi theo 7 là nữ đợi gãy CO2 ở đây ví dụ là giới tính khác
+[17:11] gãy CO2 ở đây ví dụ là giới tính khác đời thì cứ như vậy nha các bạn đã có một
+[17:13] đời thì cứ như vậy nha các bạn đã có một cái danh sách sổ hướng rồi là rất là hai
+[17:15] cái danh sách sổ hướng rồi là rất là hai ạ cái cách mà tạm một cái danh sách xổ
+[17:17] ạ cái cách mà tạm một cái danh sách xổ xuống này như thế nào ấy thì sau này về
+[17:19] xuống này như thế nào ấy thì sau này về cái phần thủ thuật thì nghỉ sớm nói cái
+[17:21] cái phần thủ thuật thì nghỉ sớm nói cái phần này cho các bạn thì trong bài học
+[17:23] phần này cho các bạn thì trong bài học hôm nay thì tiện thể mình sẽ nói luôn
+[17:24] hôm nay thì tiện thể mình sẽ nói luôn bây giờ ví dụ Cái ô này mình cần tạo cái
+[17:27] bây giờ ví dụ Cái ô này mình cần tạo cái giấy kính như cái ôm bên này nhá thì các
+[17:29] giấy kính như cái ôm bên này nhá thì các bạn sẽ thích vào cái ô đây sau đó toàn
+[17:31] bạn sẽ thích vào cái ô đây sau đó toàn vào thẻ data Các bạn chọn rẻ
+[17:33] vào thẻ data Các bạn chọn rẻ data-validation ở đây đấy thì trong cái
+[17:38] data-validation ở đây đấy thì trong cái thẻ setting này cái mục câu lâu bạn sẽ
+[17:39] thẻ setting này cái mục câu lâu bạn sẽ chọn cho mình là Lead đấy các bạn sẽ
+[17:42] chọn cho mình là Lead đấy các bạn sẽ tích và cái quần sọt và các bạn gõ các
+[17:44] tích và cái quần sọt và các bạn gõ các cái kiểu giới tính khác nhau đúng không
+[17:45] cái kiểu giới tính khác nhau đúng không Ví dụ ở đây là nam này nó phải nữ này
+[17:48] Ví dụ ở đây là nam này nó phải nữ này lại phải khác nhá đại Ví dụ mình có ba
+[17:53] lại phải khác nhá đại Ví dụ mình có ba cái kiểu dự tính này các bạn sẽ bấm ok
+[17:54] cái kiểu dự tính này các bạn sẽ bấm ok đấy còn thấy chưa thì như vậy là cái ôm
+[17:57] đấy còn thấy chưa thì như vậy là cái ôm này nó đã có cái danh sách xổ xuống rồi
+[17:58] này nó đã có cái danh sách xổ xuống rồi lại rất là hai ạ
+[18:00] lại rất là hai ạ Em tải ứng dụng thứ ba là mình sẽ
+[18:03] Em tải ứng dụng thứ ba là mình sẽ Converse đấy thì giả sử những cái số
+[18:05] Converse đấy thì giả sử những cái số liệu ở đây là số dương bây giờ mình muốn
+[18:07] liệu ở đây là số dương bây giờ mình muốn chuyển cái cái cái số này thành số âm
+[18:09] chuyển cái cái cái số này thành số âm thì mình nhạc như thế nào thì rất đơn
+[18:11] thì mình nhạc như thế nào thì rất đơn giản nữa các bạn sẽ tạo một cái số vào
+[18:13] giản nữa các bạn sẽ tạo một cái số vào đây là cái số âm một nhá sau đó gọn nhớ
+[18:15] đây là cái số âm một nhá sau đó gọn nhớ phải vào đây Các bạn chọn copy đấy Bây
+[18:18] phải vào đây Các bạn chọn copy đấy Bây giờ các bạn Bôi đen Cái vùng dữ liệu mà
+[18:19] giờ các bạn Bôi đen Cái vùng dữ liệu mà các bạn muốn chuyển từ số dương xanh
+[18:21] các bạn muốn chuyển từ số dương xanh siêu âm này để các bạn có thể nhớ hết
+[18:23] siêu âm này để các bạn có thể nhớ hết phải các bạn chọn kết Castle này các bạn
+[18:26] phải các bạn chọn kết Castle này các bạn sẽ chọn cái Monte flag đấy thì nghĩa là
+[18:28] sẽ chọn cái Monte flag đấy thì nghĩa là gì Nghĩa là cái ô mà mình Bôi đen để
+[18:31] gì Nghĩa là cái ô mà mình Bôi đen để mình biết Cho số này nó sẽ nhân với cái
+[18:33] mình biết Cho số này nó sẽ nhân với cái ô mà lúc đấy mình kaki chính là nhân với
+[18:35] ô mà lúc đấy mình kaki chính là nhân với ông một cái thì nghĩa là nó sẽ chuyển về
+[18:37] ông một cái thì nghĩa là nó sẽ chuyển về số âm gái gọi sếp bấm ok đấy thì như vậy
+[18:40] số âm gái gọi sếp bấm ok đấy thì như vậy toàn bộ cái xuống đây đã chuyển về hội
+[18:41] toàn bộ cái xuống đây đã chuyển về hội âm ngược lại rất là hai ạ Tiếp theo là
+[18:46] âm ngược lại rất là hai ạ Tiếp theo là cái transpose thì ví dụ ở đây cái dữ
+[18:48] cái transpose thì ví dụ ở đây cái dữ liệu của mình nó đang được bố trí theo
+[18:50] liệu của mình nó đang được bố trí theo chiều dọc Thế là cho cột đúng ạ Bây giờ
+[18:52] chiều dọc Thế là cho cột đúng ạ Bây giờ mình muốn chuyển cái dữ liệu của mình
+[18:54] mình muốn chuyển cái dữ liệu của mình thành hành để thì mình làm như thế nào
+[18:56] thành hành để thì mình làm như thế nào đấy thì mình sẽ trang bầu Tức là mình sẽ
+[18:58] đấy thì mình sẽ trang bầu Tức là mình sẽ biết cho dù là Trang
+[19:00] biết cho dù là Trang em dùng số liệu này nhá chỉ đầu tiên các
+[19:02] em dùng số liệu này nhá chỉ đầu tiên các bạn sẽ Bôi đen Cái vùng dữ liệu mà các
+[19:03] bạn sẽ Bôi đen Cái vùng dữ liệu mà các bạn muốn trang Tông tức là muốn chuyển
+[19:05] bạn muốn trang Tông tức là muốn chuyển hàng thành cột hoặc là cô Thành Hà Nội
+[19:06] hàng thành cột hoặc là cô Thành Hà Nội các bạn sẽ nhấn chuột phải các bạn chọn
+[19:08] các bạn sẽ nhấn chuột phải các bạn chọn copy đấy Sau đó các bạn chọn cái ô mà
+[19:11] copy đấy Sau đó các bạn chọn cái ô mà các bạn muốn sâu nhắc Ví dụ mình chọn
+[19:13] các bạn muốn sâu nhắc Ví dụ mình chọn cái ô E3 này mình muốn transport Đến đây
+[19:16] cái ô E3 này mình muốn transport Đến đây lại còn nhớ được phải các bạn chọn paste
+[19:18] lại còn nhớ được phải các bạn chọn paste special và các bạn tích chọn là cái
+[19:21] special và các bạn tích chọn là cái trang store lại Bây giờ các bạn bấm ok
+[19:23] trang store lại Bây giờ các bạn bấm ok để gọi thấy chưa Chỉ cái dữ liệu của
+[19:25] để gọi thấy chưa Chỉ cái dữ liệu của mình ở đây đang là cột thì mình sẽ
+[19:26] mình ở đây đang là cột thì mình sẽ chuyển thành hạ đây là hàng theo họ tên
+[19:28] chuyển thành hạ đây là hàng theo họ tên có nên là hàng doanh thu đấy rất là hay
+[19:31] có nên là hàng doanh thu đấy rất là hay còn đang từ hàng mà bạn muốn chuyển
+[19:33] còn đang từ hàng mà bạn muốn chuyển thành cột nhá các bạn Bôi đen cái phần
+[19:35] thành cột nhá các bạn Bôi đen cái phần hàng này các bạn ấy thì phải các bạn
+[19:36] hàng này các bạn ấy thì phải các bạn copy các bạn tích vào cái ô mà các bạn
+[19:38] copy các bạn tích vào cái ô mà các bạn muốn chuyển đổi thành cột nha các bạn
+[19:40] muốn chuyển đổi thành cột nha các bạn nhớ phải piece Special Các bạn bấm
+[19:43] nhớ phải piece Special Các bạn bấm transport đấy ok đấy thì nó lại chuyển
+[19:46] transport đấy ok đấy thì nó lại chuyển về hiện đang từ hàng thành về cột Tiếp
+[19:51] về hiện đang từ hàng thành về cột Tiếp theo là cái value nhá thì giả sử ở đây
+[19:53] theo là cái value nhá thì giả sử ở đây mình có cái đơn giá là đô bây giờ mình
+[19:56] mình có cái đơn giá là đô bây giờ mình chuyển về Việt Nam đồng thì ví dụ cái tỷ
+[19:58] chuyển về Việt Nam đồng thì ví dụ cái tỷ giá hiện tại đang là 23
+[20:00] giá hiện tại đang là 23 Ý mình là ví dụ thôi thì bạn sẽ suy ra
+[20:02] Ý mình là ví dụ thôi thì bạn sẽ suy ra được ở đây Việt Nam đồng là bao nhiêu
+[20:03] được ở đây Việt Nam đồng là bao nhiêu đấy Bây giờ mình muốn cái giá trị này nó
+[20:06] đấy Bây giờ mình muốn cái giá trị này nó cố định nó không là công thức nữa đấy
+[20:09] cố định nó không là công thức nữa đấy còn thấy cho con chó thì nó sẽ thực hiện
+[20:11] còn thấy cho con chó thì nó sẽ thực hiện cũng rất là B6000 23.3 bây giờ mình muốn
+[20:13] cũng rất là B6000 23.3 bây giờ mình muốn cái này thành ra lưu nhá tức là khi bạn
+[20:15] cái này thành ra lưu nhá tức là khi bạn sửa một cái số bắt kìa đây là ví dụ mình
+[20:17] sửa một cái số bắt kìa đây là ví dụ mình sửa lấy hai bạn thì cái giá trị này nó
+[20:19] sửa lấy hai bạn thì cái giá trị này nó không thay đổi đúng không Thì bây giờ
+[20:20] không thay đổi đúng không Thì bây giờ gọi Bôi đen Cái vùng dữ liệu mà bạn muốn
+[20:21] gọi Bôi đen Cái vùng dữ liệu mà bạn muốn con Thành vali là các bạn nghe hiện phải
+[20:23] con Thành vali là các bạn nghe hiện phải Coffee đấy còn Nhật phải các bạn chọn
+[20:25] Coffee đấy còn Nhật phải các bạn chọn vessel đấy và các bạn sẽ chọn cái vali ở
+[20:28] vessel đấy và các bạn sẽ chọn cái vali ở đây Các bạn bấm ok đợi thì như vậy Ở đây
+[20:31] đây Các bạn bấm ok đợi thì như vậy Ở đây nó thành cái giá trị rồi nó không phải
+[20:33] nó thành cái giá trị rồi nó không phải là công thức nữa Ok xanh cái ứng dụng
+[20:36] là công thức nữa Ok xanh cái ứng dụng thứ sáu là mình sẽ copy cái độ rộng cột
+[20:38] thứ sáu là mình sẽ copy cái độ rộng cột thì giả sử như cái độ rộng của cái quý 1
+[20:41] thì giả sử như cái độ rộng của cái quý 1 Tức là cái cột C này này là độ rộng này
+[20:43] Tức là cái cột C này này là độ rộng này là đẹp rồi mình muốn ba cái túi này thứ
+[20:45] là đẹp rồi mình muốn ba cái túi này thứ hai thứ ba cái bốn độ rộng nó đang khác
+[20:47] hai thứ ba cái bốn độ rộng nó đang khác nhau nó cùng độ rộng với quý 1 đợi thì
+[20:49] nhau nó cùng độ rộng với quý 1 đợi thì các bạn làm như thế nào thì các bạn sẽ
+[20:51] các bạn làm như thế nào thì các bạn sẽ tích vào một ô bất kỳ của cái cột C này
+[20:53] tích vào một ô bất kỳ của cái cột C này nhá đầy sau đó bạn nhớ là phải còn copy
+[20:55] nhá đầy sau đó bạn nhớ là phải còn copy Bôi đen 32 ô là gì từ D6 đến S6 này ạ
+[21:00] Bôi đen 32 ô là gì từ D6 đến S6 này ạ thì các bạn sẽ nhớ về phải các bạn chọn
+[21:02] thì các bạn sẽ nhớ về phải các bạn chọn special đấy và các bạn thích và cái rĩa
+[21:05] special đấy và các bạn thích và cái rĩa her which tức là tiệm mình sẽ copy cái
+[21:08] her which tức là tiệm mình sẽ copy cái độ rộng của cái cột C này cho ba cái cột
+[21:11] độ rộng của cái cột C này cho ba cái cột df đấy bạn sẽ bấm ok đấy còn thấy chưa
+[21:14] df đấy bạn sẽ bấm ok đấy còn thấy chưa thì như vậy ba cái cột des này Nó sẽ độ
+[21:17] thì như vậy ba cái cột des này Nó sẽ độ rộng cột nó gái luôn bằng cái cuộc sống
+[21:18] rộng cột nó gái luôn bằng cái cuộc sống này sang đây ứng dụng tiếp theo là mình
+[21:22] này sang đây ứng dụng tiếp theo là mình sẽ chuyển cách thành số thì bạn chú ý
+[21:24] sẽ chuyển cách thành số thì bạn chú ý nha Giả sử đây là cái số liệu doanh thu
+[21:27] nha Giả sử đây là cái số liệu doanh thu của các bạn này chỉ thông thường các dữ
+[21:29] của các bạn này chỉ thông thường các dữ liệu mà các bạn X3 từ hệ thống ra ạ thì
+[21:31] liệu mà các bạn X3 từ hệ thống ra ạ thì nhìn vậy thì có ảnh hưởng là số thôi
+[21:33] nhìn vậy thì có ảnh hưởng là số thôi Nhưng mà thực ra nó không phải là số đây
+[21:34] Nhưng mà thực ra nó không phải là số đây à nếu như là số ví dụ các bạn Nhật 97 ở
+[21:37] à nếu như là số ví dụ các bạn Nhật 97 ở đây Nếu như là số thì nó sẽ làm ở bên
+[21:39] đây Nếu như là số thì nó sẽ làm ở bên phải Còn đây là nằm ở bên trái rồi cho
+[21:41] phải Còn đây là nằm ở bên trái rồi cho nên Đây là cái Tết chứ không phải là số
+[21:43] nên Đây là cái Tết chứ không phải là số đấy Bây giờ mình muốn chuyển cái này về
+[21:46] đấy Bây giờ mình muốn chuyển cái này về số thì các bạn làm như thế nào đây thì
+[21:48] số thì các bạn làm như thế nào đây thì mình sẽ tạo một cái ô ở bên ngoài nhà
+[21:50] mình sẽ tạo một cái ô ở bên ngoài nhà cái số một nhá Đợi các bạn tin nhắn thì
+[21:52] cái số một nhá Đợi các bạn tin nhắn thì phải các bạn copy cái số một này sau đó
+[21:55] phải các bạn copy cái số một này sau đó các bạn Bôi đen Cái vùng dữ liệu mà các
+[21:57] các bạn Bôi đen Cái vùng dữ liệu mà các bạn muốn nó chuyển thành số đấy các bạn
+[21:59] bạn muốn nó chuyển thành số đấy các bạn sẽ nhắn được
+[22:00] sẽ nhắn được Các bạn chọn paste special lại bạn sẽ
+[22:02] Các bạn chọn paste special lại bạn sẽ chọn làm entreprise đây các bạn xem bấm
+[22:05] chọn làm entreprise đây các bạn xem bấm ok thì như vậy các cái tech5 vừa xong ấy
+[22:07] ok thì như vậy các cái tech5 vừa xong ấy thì nó sẽ nhấn ngồi ở đây lại thịt nó sẽ
+[22:10] thì nó sẽ nhấn ngồi ở đây lại thịt nó sẽ tự động chuyển về số luôn sẽ rất là hai
+[22:12] tự động chuyển về số luôn sẽ rất là hai ạ tiếp theo là mình muốn thêm các giá
+[22:17] ạ tiếp theo là mình muốn thêm các giá trị vào vùng cái giá trị đang có đúng ạ
+[22:20] trị vào vùng cái giá trị đang có đúng ạ thì bây giờ giả sử mình có doanh thu
+[22:22] thì bây giờ giả sử mình có doanh thu từng ngày nhé bây giờ mình muốn bổ sung
+[22:24] từng ngày nhé bây giờ mình muốn bổ sung doanh thu rất là Cái ô này sẽ được tăng
+[22:26] doanh thu rất là Cái ô này sẽ được tăng thêm là ba trăm ô này sẽ được tăng thêm
+[22:28] thêm là ba trăm ô này sẽ được tăng thêm mà 200 Đấy thì mình làm như thế nào Đầu
+[22:31] mà 200 Đấy thì mình làm như thế nào Đầu tiên các bạn sẽ Bôi đen Cái vùng dữ liệu
+[22:32] tiên các bạn sẽ Bôi đen Cái vùng dữ liệu mà các bạn cần bổ sung này các bạn nháy
+[22:34] mà các bạn cần bổ sung này các bạn nháy chuột phải các bạn copy Sau đó các bạn
+[22:37] chuột phải các bạn copy Sau đó các bạn Bôi đen Cái vùng dữ liệu mà bạn muốn nó
+[22:40] Bôi đen Cái vùng dữ liệu mà bạn muốn nó được tăng thêm của các phần bổ sung Ở
+[22:42] được tăng thêm của các phần bổ sung Ở đây các bạn nháy phải các bạn chọn
+[22:44] đây các bạn nháy phải các bạn chọn brussel và các bạn chọn cái S đây kệ ở
+[22:48] brussel và các bạn chọn cái S đây kệ ở đây nghĩa là gì những cái dữ liệu cũ này
+[22:49] đây nghĩa là gì những cái dữ liệu cũ này nó sẽ được tăng thêm cái phần bổ sung
+[22:50] nó sẽ được tăng thêm cái phần bổ sung rồi ta có thể bấm ok đấy còn đấy chứ nó
+[22:53] rồi ta có thể bấm ok đấy còn đấy chứ nó sẽ được tăng thêm thì đang là 97 tăng
+[22:55] sẽ được tăng thêm thì đang là 97 tăng thêm 300 thành 397 được à
+[23:00] thêm 300 thành 397 được à ở xa cái ứng dụng tiếp theo là mình sẽ
+[23:01] ở xa cái ứng dụng tiếp theo là mình sẽ chuyển Lumpur về phần trăm giả sử mới
+[23:04] chuyển Lumpur về phần trăm giả sử mới nhắc quyết định cái ở đây là phần trăm
+[23:05] nhắc quyết định cái ở đây là phần trăm mà trong khi các bạn Nhập vào các bạn
+[23:07] mà trong khi các bạn Nhập vào các bạn lại thiếu cái chữ phần trăm bây giờ mình
+[23:09] lại thiếu cái chữ phần trăm bây giờ mình muốn chuyển là diện 97 thành 97 phần
+[23:11] muốn chuyển là diện 97 thành 97 phần trăm năm mươi tám thành 58 phần trăm thì
+[23:13] trăm năm mươi tám thành 58 phần trăm thì mình làm như thế nào thì mình sẽ tạo một
+[23:15] mình làm như thế nào thì mình sẽ tạo một cái ô có giá trị là 100 các bạn nhé chia
+[23:17] cái ô có giá trị là 100 các bạn nhé chia phải lại các bạn copy cái ô 100 này sau
+[23:20] phải lại các bạn copy cái ô 100 này sau đó bạn Bôi đen Cái vùng dữ liệu mà các
+[23:22] đó bạn Bôi đen Cái vùng dữ liệu mà các bạn muốn chuyển về thành dạng phần trăm
+[23:24] bạn muốn chuyển về thành dạng phần trăm nhá các bạn nháy chuột phải các bạn chọn
+[23:26] nhá các bạn nháy chuột phải các bạn chọn thistle và bạn chọn cái device này tức
+[23:30] thistle và bạn chọn cái device này tức là gì ạ Tức là những cái ô ở bên lành là
+[23:32] là gì ạ Tức là những cái ô ở bên lành là cái danh thu nó sẽ chia cho một trăm vào
+[23:34] cái danh thu nó sẽ chia cho một trăm vào đây đấy Gọi cho bấm ok để tìm nó sẽ
+[23:36] đây đấy Gọi cho bấm ok để tìm nó sẽ chuyển về cái kết quả là diện đang 97 nó
+[23:39] chuyển về cái kết quả là diện đang 97 nó chuyển về thành công chấm chín bậc đó
+[23:41] chuyển về thành công chấm chín bậc đó thì ở đây rất đơn giản các bạn vào thì
+[23:43] thì ở đây rất đơn giản các bạn vào thì hôm này các bạn chọn phần trăm nữa là
+[23:44] hôm này các bạn chọn phần trăm nữa là sau đây Thì như vậy Lúc đấy là 97 đã
+[23:47] sau đây Thì như vậy Lúc đấy là 97 đã được chuyển về chính 7 phần trăm năm
+[23:48] được chuyển về chính 7 phần trăm năm mươi tám đã được chuyển về 58 phần trăm
+[23:50] mươi tám đã được chuyển về 58 phần trăm rất là hai ạ Ok mình sẽ xa cái ứng dụng
+[23:54] rất là hai ạ Ok mình sẽ xa cái ứng dụng cuối cùng ứng dụng thứ 10 Tức là mình
+[23:56] cuối cùng ứng dụng thứ 10 Tức là mình muốn tăng 15 phần trăm mỗi giá trị ở đây
+[23:58] muốn tăng 15 phần trăm mỗi giá trị ở đây đấy thì để
+[24:00] đấy thì để ở phần trăm mỗi giá trị ở đây mình sẽ
+[24:02] ở phần trăm mỗi giá trị ở đây mình sẽ tạo một cái ở đây là thế ạ Mình sẽ lấy
+[24:04] tạo một cái ở đây là thế ạ Mình sẽ lấy một trăm phần trăm + mấy cái phần trăm
+[24:06] một trăm phần trăm + mấy cái phần trăm mà mình muốn tăng thêm thế nào đây là
+[24:07] mà mình muốn tăng thêm thế nào đây là tăng thêm 15 phần trăm thì mình sẽ lấy
+[24:09] tăng thêm 15 phần trăm thì mình sẽ lấy một trăm phần trăm cộng với cả 15 phần
+[24:11] một trăm phần trăm cộng với cả 15 phần trăm đấy thì nó sẽ ra kết quả là 115
+[24:13] trăm đấy thì nó sẽ ra kết quả là 115 phần trăm các bạn sẽ nhấn chuột phải vào
+[24:15] phần trăm các bạn sẽ nhấn chuột phải vào cái ô 115 phần trăm vào đây là các bạn
+[24:16] cái ô 115 phần trăm vào đây là các bạn sẽ Coffee sau đó bạn Bôi đen Cái vùng dữ
+[24:19] sẽ Coffee sau đó bạn Bôi đen Cái vùng dữ liệu mà bạn muốn tăng lên 15 phần trăm
+[24:21] liệu mà bạn muốn tăng lên 15 phần trăm nhá các bạn nhảy rất phải này các bạn
+[24:23] nhá các bạn nhảy rất phải này các bạn chọn hết cho show đấy và các bạn bấm rẽ
+[24:26] chọn hết cho show đấy và các bạn bấm rẽ Các bạn bấm apply tức là bản chất là cái
+[24:28] Các bạn bấm apply tức là bản chất là cái giá trị này nó sẽ nhân thêm 115 phần
+[24:31] giá trị này nó sẽ nhân thêm 115 phần trăm được thì nghĩa là nó tăng thêm 15
+[24:33] trăm được thì nghĩa là nó tăng thêm 15 phần trăm các bạn sẽ bậm ok đấy thì như
+[24:36] phần trăm các bạn sẽ bậm ok đấy thì như vậy đây là giá trị về phần trăm nha các
+[24:38] vậy đây là giá trị về phần trăm nha các bạn có thể vào thì hôm các bạn thích và
+[24:40] bạn có thể vào thì hôm các bạn thích và cái dấu phẩy ở đây tức là mình sẽ chuyển
+[24:42] cái dấu phẩy ở đây tức là mình sẽ chuyển về cái dạng bình thường là dạng số thôi
+[24:43] về cái dạng bình thường là dạng số thôi đợi thì cái số này nó đã được tăng lên
+[24:45] đợi thì cái số này nó đã được tăng lên thành 115 phần trăm được rất là hai ạ
+[24:49] thành 115 phần trăm được rất là hai ạ thì như vậy mình đã xong cái bài hướng
+[24:51] thì như vậy mình đã xong cái bài hướng dẫn của hôm nay nhé Bây giờ mình sẽ xem
+[24:53] dẫn của hôm nay nhé Bây giờ mình sẽ xem cái phần câu hỏi nó như thế nào Câu hỏi
+[24:57] cái phần câu hỏi nó như thế nào Câu hỏi của bài số 12 này à
+[25:00] của bài số 12 này à Ừ đấy thì ở đây mình sẽ dùng ba cái sít
+[25:04] Ừ đấy thì ở đây mình sẽ dùng ba cái sít thế nào mình sẽ có ba cái câu hỏi cho
+[25:06] thế nào mình sẽ có ba cái câu hỏi cho cái bài Sống 12 nhé Tức là mình sẽ
+[25:08] cái bài Sống 12 nhé Tức là mình sẽ chuyển diện mình sẽ chuyển cái doanh thu
+[25:10] chuyển diện mình sẽ chuyển cái doanh thu này về dạng số với hai cách một là mình
+[25:12] này về dạng số với hai cách một là mình thêm số 0 hoặc là nói trên cho một Đúng
+[25:14] thêm số 0 hoặc là nói trên cho một Đúng rồi đấy thì cái cách mà mình hướng dẫn
+[25:16] rồi đấy thì cái cách mà mình hướng dẫn lúc nãy vừa xong là mình nhiên lĩnh một
+[25:18] lúc nãy vừa xong là mình nhiên lĩnh một bây giờ mình sẽ làm niệm mình sẽ chuyển
+[25:20] bây giờ mình sẽ làm niệm mình sẽ chuyển cái tích thành số dựa vào hai cái cách
+[25:23] cái tích thành số dựa vào hai cái cách này chúng mình sẽ thêm 01 chia cho một
+[25:25] này chúng mình sẽ thêm 01 chia cho một cái ví dụ thứ hai của bài tập về nhà là
+[25:28] cái ví dụ thứ hai của bài tập về nhà là gì mình muốn bớt lại thì ở cái kia là
+[25:30] gì mình muốn bớt lại thì ở cái kia là mình tăng thêm thì cái câu hỏi về nhà là
+[25:32] mình tăng thêm thì cái câu hỏi về nhà là bây giờ mình muốn giảm đi Tức là 397
+[25:35] bây giờ mình muốn giảm đi Tức là 397 mình muốn giảm đi 300 thì nó phải còn là
+[25:37] mình muốn giảm đi 300 thì nó phải còn là chỉ vậy thôi là Cái ô này nó phải giảng
+[25:39] chỉ vậy thôi là Cái ô này nó phải giảng về là 97 đúng không Này phải giảm đi 200
+[25:41] về là 97 đúng không Này phải giảm đi 200 thì nó sẽ còn nó 58 đấy tiếp theo là
+[25:45] thì nó sẽ còn nó 58 đấy tiếp theo là mình giảm 15 phần trăm đấy thì cái hướng
+[25:47] mình giảm 15 phần trăm đấy thì cái hướng dẫn vừa xong mà mình tăng 15 phần trăm
+[25:49] dẫn vừa xong mà mình tăng 15 phần trăm thì bây giờ là bớt đi 15 phần trăm thì
+[25:50] thì bây giờ là bớt đi 15 phần trăm thì mình làm như thế nào đây là ba cái câu
+[25:52] mình làm như thế nào đây là ba cái câu hỏi của bài số 12 nhé Ok như vậy là mình
+[25:57] hỏi của bài số 12 nhé Ok như vậy là mình đã kết thúc bài học ngày hôm nay ở đây
+[25:58] đã kết thúc bài học ngày hôm nay ở đây cảm ơn các bạn đã theo
+[26:00] cảm ơn các bạn đã theo chào các bạn nhỏ đăng kí kênh để cập
+[26:02] chào các bạn nhỏ đăng kí kênh để cập nhật video mới nhất của gà cũng như chia
+[26:04] nhật video mới nhất của gà cũng như chia sẻ để giúp mọi người cùng học Excel nhé
+[26:06] sẻ để giúp mọi người cùng học Excel nhé Xin chào và hẹn gặp lại ở

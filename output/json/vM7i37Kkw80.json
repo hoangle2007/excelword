@@ -1,0 +1,434 @@
+{
+  "video_id": "vM7i37Kkw80",
+  "bai": "Bai 24 - Record Macro (ghi macro tu dong)",
+  "url": "https://www.youtube.com/watch?v=vM7i37Kkw80",
+  "cong_thuc": [
+    "Developer tab: Right-click Ribbon > Customize the Ribbon > tick Developer (neu chua co).",
+    "Developer > Record Macro: mo hop thoại dat ten (viet lien, khong dau), shortcut key (nen bo trong tranh trung), Store in: This Workbook, Description tuy y.",
+    "Stop Recording (nut vuong o Developer hoac thanh trang thai): dung ghi sau khi lam xong thao tac.",
+    "Sub GhiMacro() ... End Sub: khung chuong trinh macro sinh ra trong Module (Alt+F11 xem).",
+    "' (dau nhay don): bien dong thanh ghi chu; dung de vo hieu hoa lenh nhu Range(\"D9\").Select.",
+    "Selection.* : lenh ap len vung dang chon; xoa dong Range(\"D9\").Select de macro chay cho moi o.",
+    "Developer > Insert > Button (Form Control): ve nut, gán macro trong Assign Macro; Right-click > Edit Text doi ten nut.",
+    "Shape (Insert > Shapes) + Right-click > Assign Macro: dung hinh lam nut bam dep hon.",
+    "Sheets(\"Du lieu 1\").Select: lenh nhay toi sheet chi dinh (record duoc khi click qua sheet).",
+    "Copy nut: Ctrl+keo nut hoac Copy/Paste; nut copy giu nguyen macro duoc gan.",
+    "Ctrl + mui ten xuong: nhay toi dong cuoi vung (dung trong macro nhap lieu de tim dong trong).",
+    "Use Relative References (Developer): BAT truoc khi ghi doan dich chuyen tuong doi (nhap lieu tu dong).",
+    "Paste Special > Transpose: xoay du lieu cot thanh hang khi nhap lieu (record thao tac nay).",
+    "Ctrl+T + Advanced Filter: chuan hoa vung du lieu truoc khi record macro tim kiem.",
+    "Luu file .xlsm (Excel Macro-Enabled Workbook) de giu lai macro; .xlsx se mat macro.",
+    "Alt+F11 + View > Immediate (Ctrl+G): mo VBE xem Module/Sub sinh ra khi Record; mo song song de hoc lenh (VLOOKUP, Filter, Format).",
+    "Home > Clear > Clear Formats: xoa dinh dang vung test truoc khi bam nut chay macro de thay ro ket qua."
+  ],
+  "thuat_toan_quy_trinh": [
+    "Buoc 1: bat the Developer (Customize Ribbon); chuan bi cac sheet: Main (muc luc), Du lieu 1/2/3, Input, Data, Tim kiem.",
+    "Buoc 2 (muc luc): ve Shape 'Du lieu thang 1', Record Macro ten Thang1 (This Workbook) > click sang sheet Du lieu 1 > Stop; Assign macro vao shape. Lap lai Thang2/Thang3.",
+    "Buoc 3 (nut ve): record macro QuayLaiMain (click ve sheet Main) > tao nut 'Quay lai muc luc' tren moi sheet du lieu, gan macro; copy nut cho nhanh.",
+    "Buoc 4 (nhap lieu): tao nut 'Cap nhat'; Record: copy vung nhap Input > sang Data, click o dau (B3), Ctrl+mui ten xuong, BAT Use Relative References, mui ten xuong 1 o, Paste Special Transpose, TAT nut tuong doi, ve Input xoa trang, Stop; gan macro vao nut.",
+    "Buoc 5 (tim kiem): chuan hoa vung bang Ctrl+T; record cac buoc Advanced Filter theo dieu kien (Ho Nguyen, Gioi tinh Nu...) roi gan vao nut Tim kiem / Tim moi.",
+    "Buoc 6: mo VBE (Alt+F11), xoa dong Range co dinh thua, them ghi chu; test moi nut 2-3 lan, luu file .xlsm."
+  ],
+  "cau_hoi": [
+    {
+      "id": 1,
+      "cau": "Record Macro la gi?",
+      "A": "Cong cu ghi lai thao tac de tu sinh code VBA",
+      "B": "Phan mem diet virus",
+      "C": "Tro choi",
+      "D": "May in",
+      "dap_an": "A",
+      "giai_thich": "Khong biet lenh van record roi xem code de hoc."
+    },
+    {
+      "id": 2,
+      "cau": "Record Macro nam o the nao?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Developer",
+      "C": "View",
+      "D": "File",
+      "dap_an": "B",
+      "giai_thich": "Neu chua co thi bat trong Customize Ribbon."
+    },
+    {
+      "id": 3,
+      "cau": "Bat the Developer bang cach nao?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Cai lai Win",
+      "C": "Right-click Ribbon > Customize the Ribbon > tick Developer",
+      "D": "Goi dien",
+      "dap_an": "C",
+      "giai_thich": "Tick Developer ben phai roi OK."
+    },
+    {
+      "id": 4,
+      "cau": "Khi dat ten macro can chu y gi?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Viet tuy y co dau",
+      "C": "Dat ten dai",
+      "D": "Viet lien, khong dau/cach",
+      "dap_an": "D",
+      "giai_thich": "Ten co dau cach se bao loi khi chay."
+    },
+    {
+      "id": 5,
+      "cau": "O Shortcut key khi record nen?",
+      "A": "Bo trong neu khong can thiet",
+      "B": "Dat dai",
+      "C": "Dat trung Ctrl+C",
+      "D": "Dat het",
+      "dap_an": "A",
+      "giai_thich": "Trung phim tat san se xung dot, chay sai."
+    },
+    {
+      "id": 6,
+      "cau": "Store macro in: This Workbook nghia la?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Chi chay trong file nay",
+      "C": "Chay tren web",
+      "D": "Chay tren dien thoai",
+      "dap_an": "B",
+      "giai_thich": "This Workbook gioi han pham vi file hien tai."
+    },
+    {
+      "id": 7,
+      "cau": "Personal Macro Workbook dung khi nao?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Muon xoa",
+      "C": "Muon macro dung chung moi file",
+      "D": "Khong bao gio",
+      "dap_an": "C",
+      "giai_thich": "Luu ca nhan de mo file nao cung chay duoc."
+    },
+    {
+      "id": 8,
+      "cau": "Nut dung ghi macro la nut nao?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Nut tam giac",
+      "C": "Nut tron",
+      "D": "Nut vuong Stop Recording",
+      "dap_an": "D",
+      "giai_thich": "Nam o Developer hoac thanh trang thai duoi man hinh."
+    },
+    {
+      "id": 9,
+      "cau": "Code macro duoc luu o dau?",
+      "A": "Module trong cua so Visual Basic (VBA)",
+      "B": "Notepad",
+      "C": "Paint",
+      "D": "Trinh duyet",
+      "dap_an": "A",
+      "giai_thich": "Moi lan record sinh 1 Module chua Sub...End Sub."
+    },
+    {
+      "id": 10,
+      "cau": "Mo cua so Visual Basic bang?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Alt+F11 hoac Developer > Visual Basic",
+      "C": "Ctrl+Alt+Del",
+      "D": "Shift+F1",
+      "dap_an": "B",
+      "giai_thich": "VBE hien code song song de theo doi khi record."
+    },
+    {
+      "id": 11,
+      "cau": "Khung mot macro bat dau va ket thuc bang?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Begin...Finish",
+      "C": "Sub Ten() ... End Sub",
+      "D": "Open...Close",
+      "dap_an": "C",
+      "giai_thich": "Moi macro la mot Sub co ten viet lien."
+    },
+    {
+      "id": 12,
+      "cau": "Dong chu xanh trong code la gi?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Loi",
+      "C": "Virus",
+      "D": "Ghi chu (sau dau ')",
+      "dap_an": "D",
+      "giai_thich": "Dau nhay don bien dong thanh chu thich."
+    },
+    {
+      "id": 13,
+      "cau": "Moi thao tac dinh dang (bold, mau, ke khung) khi record se?",
+      "A": "Sinh 1 doan code tuong ung",
+      "B": "Khong sinh gi",
+      "C": "Xoa file",
+      "D": "Tat may",
+      "dap_an": "A",
+      "giai_thich": "Bold/mau/ke khung/gach chan deu co lenh rieng."
+    },
+    {
+      "id": 14,
+      "cau": "Dong Range(\"D9\").Select dau macro co y nghia?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Macro chi chay dung o D9",
+      "C": "Xoa het",
+      "D": "Khong y nghia",
+      "dap_an": "B",
+      "giai_thich": "Record nho ca o bat dau, muon tong quat phai xoa."
+    },
+    {
+      "id": 15,
+      "cau": "Muon macro dinh dang ap cho moi o duoc chon thi?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Giu nguyen",
+      "C": "Xoa (hoac ' vo hieu) dong Range co dinh, giu Selection",
+      "D": "Tat may",
+      "dap_an": "C",
+      "giai_thich": "Selection la vung dang chon linh hoat."
+    },
+    {
+      "id": 16,
+      "cau": "Tao nut bam chay macro bang?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Ve tay",
+      "C": "Chup anh",
+      "D": "Developer > Insert > Button (Form Control)",
+      "dap_an": "D",
+      "giai_thich": "Ve nut roi chon macro trong Assign Macro."
+    },
+    {
+      "id": 17,
+      "cau": "Doi chu tren nut bang?",
+      "A": "Right-click > Edit Text",
+      "B": "Gõ truc tiep",
+      "C": "Khong doi duoc",
+      "D": "Xoa lam lai",
+      "dap_an": "A",
+      "giai_thich": "Edit Text cho phep sua nhan nut."
+    },
+    {
+      "id": 18,
+      "cau": "Dung hinh Shape lam nut thi gan macro bang?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Right-click Shape > Assign Macro",
+      "C": "Nhan doi",
+      "D": "Xoa",
+      "dap_an": "B",
+      "giai_thich": "Shape dep hon nut mac dinh, cung gan macro."
+    },
+    {
+      "id": 19,
+      "cau": "Hai nut (Button va Shape) cung gan 1 macro thi?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Chay khac",
+      "C": "Chay giong nhau",
+      "D": "Treo",
+      "dap_an": "C",
+      "giai_thich": "Nut chi la vo, code chay la nhu nhau."
+    },
+    {
+      "id": 20,
+      "cau": "Truoc khi test nut dinh dang nen?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "De nguyen",
+      "C": "Xoa sheet",
+      "D": "Clear Formats vung test (Home > Clear)",
+      "dap_an": "D",
+      "giai_thich": "Clear de thay ro macro to mau/ke khung lai."
+    },
+    {
+      "id": 21,
+      "cau": "De lam muc luc nhay sheet can record gi?",
+      "A": "Click sang sheet dich (sinh Sheets(...).Select)",
+      "B": "Go van ban",
+      "C": "Ve hinh",
+      "D": "Nghe nhac",
+      "dap_an": "A",
+      "giai_thich": "Record nho thao tac chuyen sheet."
+    },
+    {
+      "id": 22,
+      "cau": "Lenh Sheets(\"Du lieu 1\").Select co tac dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Nhay toi sheet Du lieu 1",
+      "C": "Doi ten",
+      "D": "An sheet",
+      "dap_an": "B",
+      "giai_thich": "Day la lenh dieu huong chinh cua muc luc."
+    },
+    {
+      "id": 23,
+      "cau": "Nut 'Quay lai muc luc' tren moi sheet du lieu gan macro nao?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Thang1",
+      "C": "QuayLaiMain (record click ve sheet Main)",
+      "D": "Thang3",
+      "dap_an": "C",
+      "giai_thich": "Record 1 macro ve Main roi gan cho moi nut."
+    },
+    {
+      "id": 24,
+      "cau": "Copy nhanh 1 nut sang sheet khac bang?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Chup man hinh",
+      "C": "Viet lai",
+      "D": "Copy/Paste hoac Ctrl+keo",
+      "dap_an": "D",
+      "giai_thich": "Nut copy giu nguyen macro da gan."
+    },
+    {
+      "id": 25,
+      "cau": "Tieu de 'Bang muc luc' can giua nhieu cot bang?",
+      "A": "Format Cells > Alignment > Center Across Selection",
+      "B": "Merge",
+      "C": "Xoa",
+      "D": "Gop file",
+      "dap_an": "A",
+      "giai_thich": "Can giua ma khong merge, tien record."
+    },
+    {
+      "id": 26,
+      "cau": "Trong macro nhap lieu, kho khan nhat la gi?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Ghi dung dong trong tiep theo, khong de len dong cu",
+      "C": "Ve nut",
+      "D": "Dat ten",
+      "dap_an": "B",
+      "giai_thich": "Phai ket hop Ctrl+mui ten + Relative moi dung."
+    },
+    {
+      "id": 27,
+      "cau": "Ctrl + mui ten xuong trong sheet Data de?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Xoa het",
+      "C": "Nhay toi dong cuoi co du lieu",
+      "D": "In",
+      "dap_an": "C",
+      "giai_thich": "Tu dong dau nhay xuong day de them tiep."
+    },
+    {
+      "id": 28,
+      "cau": "Use Relative References BAT khi nao?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Luc mo may",
+      "C": "Khi tat may",
+      "D": "Truoc doan nhay xuong 1 o de ghi tuong doi",
+      "dap_an": "D",
+      "giai_thich": "Bat thi buoc mui ten moi dich chuyen theo vi tri."
+    },
+    {
+      "id": 29,
+      "cau": "Dau hieu nut Relative dang BAT la?",
+      "A": "Nut hoi chim/mờ khac thuong",
+      "B": "Phat sang",
+      "C": "Keu",
+      "D": "Tat han",
+      "dap_an": "A",
+      "giai_thich": "Bieu tuong thay doi trang thai khi kich hoat."
+    },
+    {
+      "id": 30,
+      "cau": "Sau khi paste xong phai lam gi voi nut Relative?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Tat (nhan lai de nha)",
+      "C": "Xoa",
+      "D": "An",
+      "dap_an": "B",
+      "giai_thich": "Chi bat cho 1 buoc nhay, xong tat keo anh huong lan sau."
+    },
+    {
+      "id": 31,
+      "cau": "Paste Special > Transpose de?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Xoa",
+      "C": "Xoay cot thanh hang (du lieu nhap doc -> ghi ngang)",
+      "D": "Doi mau",
+      "dap_an": "C",
+      "giai_thich": "Input nhap doc, Data luu ngang nen phai xoay."
+    },
+    {
+      "id": 32,
+      "cau": "Sau khi record nhap lieu xong phai?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "De nguyen",
+      "C": "Xoa macro",
+      "D": "Ve Input xoa trang o nhap roi Stop",
+      "dap_an": "D",
+      "giai_thich": "Xoa de lan sau nhap moi sach se."
+    },
+    {
+      "id": 33,
+      "cau": "Test macro nhap lieu bang cach?",
+      "A": "Nhap NV moi > bam Cap nhat > sang Data kiem tra",
+      "B": "Doan",
+      "C": "Nho nguoi",
+      "D": "Bo qua",
+      "dap_an": "A",
+      "giai_thich": "VD NV so 4 'Ga Excel' phai them dung dong."
+    },
+    {
+      "id": 34,
+      "cau": "Macro tim kiem trong bai dung cong cu nao?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Advanced Filter tren vung chuan (Ctrl+T)",
+      "C": "Tim mat",
+      "D": "Ho guong",
+      "dap_an": "B",
+      "giai_thich": "Record cac buoc loc nang cao theo Ho/Ten/Gioi tinh."
+    },
+    {
+      "id": 35,
+      "cau": "Truoc khi record macro loc can?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Xoa het",
+      "C": "Chuan hoa vung bang Ctrl+T (Table)",
+      "D": "Uong ca phe",
+      "dap_an": "C",
+      "giai_thich": "Table giu vung loc on dinh khi them dong."
+    },
+    {
+      "id": 36,
+      "cau": "Nut 'Tim moi' (xoa dieu kien) de?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Trang tri",
+      "C": "Tang am",
+      "D": "Xoa loc cu truoc khi tim tieu chi moi",
+      "dap_an": "D",
+      "giai_thich": "Xoa ket qua cu roi nhap Ho/Gioi tinh moi."
+    },
+    {
+      "id": 37,
+      "cau": "Vi du tim Ho Nguyen + Nu cho may ket qua?",
+      "A": "1 ban (vua Ho Nguyen vua Nu)",
+      "B": "Tat ca",
+      "C": "0",
+      "D": "100",
+      "dap_an": "A",
+      "giai_thich": "Loc ket hop 2 dieu kien chi con 1 ban."
+    },
+    {
+      "id": 38,
+      "cau": "Loi ich record doi voi nguoi khong biet lap trinh?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Van tao duoc cong cu tu dong nhu muc luc/nhap lieu",
+      "C": "Chi de xem",
+      "D": "Lam cham",
+      "dap_an": "B",
+      "giai_thich": "Bam record, Excel viet code ho."
+    },
+    {
+      "id": 39,
+      "cau": "Muon xem lenh VLOOKUP duoc record ra sao thi?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Doan",
+      "C": "Record thao tac go VLOOKUP roi mo VBE xem",
+      "D": "Xoa",
+      "dap_an": "C",
+      "giai_thich": "Cach hoc lenh moi: record roi doc code."
+    },
+    {
+      "id": 40,
+      "cau": "File co macro khi luu phai chon dinh dang gi?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": ".xlsx",
+      "C": ".txt",
+      "D": ".xlsm (Macro-Enabled Workbook)",
+      "dap_an": "D",
+      "giai_thich": ".xlsx se lam mat macro khi mo lai."
+    }
+  ]
+}

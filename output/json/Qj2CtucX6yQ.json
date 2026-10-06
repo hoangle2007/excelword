@@ -1,0 +1,438 @@
+{
+  "video_id": "Qj2CtucX6yQ",
+  "bai": "Bai 21 - Cong thuc mang (Array Formulas)",
+  "url": "https://www.youtube.com/watch?v=Qj2CtucX6yQ",
+  "cong_thuc": [
+    "SUM(B3:B7*C3:C7) + Ctrl+Shift+Enter: tinh tong tien = tong(soluong*dongia) tren ca mang, thay cho nhieu o phu.",
+    "=MAX(C2:C8-B2:B8) mang: tang truong cao nhat = max(doanhthu2020-doanhthu2019) theo tung cong ty.",
+    "=MIN(C2:C8-B2:B8) mang: tang truong thap nhat, nhan CSE de ra mang hieu.",
+    "=SUM(ISERROR(B3:B9)*1) mang + CSE: dem o loi (video hien B3:B9: 67,23,#N/A,#NAME?,blank,\"\",#DIV/0!); ISERROR tra TRUE/FALSE, *1 chuyen ve 1/0 roi SUM.",
+    "=SUM(--ISERROR(B3:B9)): hai dau tru -- tuong duong *1, chuyen TRUE/FALSE ve so (video hien B3:B9).",
+    "=SUM(ISBLANK(B3:B9)*1) mang: dem o trong; ISBLANK=TRUE chi voi o that su rong, chuoi \"\" khong tinh.",
+    "=SUM((NOT(ISBLANK(B3:B9)))*1) hay SUM((ISBLANK(...)=FALSE)*1): dem o khong trong.",
+    "=MAX(IF((A3:A11=\"Cao\")*(B3:B11=\"Thap\"),C3:C11)) mang: diem lon nhat voi 2 dieu kien (dau * la AND).",
+    "=MIN(IF((dk1)*(dk2),vung_diem)): diem nho nhat theo nhieu dieu kien.",
+    "=COUNT(MATCH(G2:G5,vung,0)): dem so o thuoc tap {1,2,5,7}; MATCH tim thay tra vi tri (>0), COUNT dem so.",
+    "=SUM(MID(B3,ROW(INDIRECT(\"1:\"&LEN(B3))),1)*1) mang: tong cac chu so; ROW+INDIRECT tao day 1..n, MID tach tung ky tu.",
+    "=SUM(ROW(INDIRECT(A2&\":\"&B2))) hoac SUM(INDEX...): tong day so tu so-bat-dau den so-ket-thuc, vi du 2..100 = 5049.",
+    "=AVERAGE(ROW(INDIRECT(A2&\":\"&B2))): trung binh day so, vi du 1..100 = 50.5.",
+    "Nhan Ctrl+Shift+Enter (CSE): ket thuc cong thuc mang; Excel tu them { } hai dau, khong tu go ngoac nhon.",
+    "=SUMPRODUCT(B2:B6*C2:C6)/SUM(B2:B6)=24.05% (frame 15:20): cach thay CSE khi tinh % hoan thanh du an; frame hien chu 'Ham SUMPRODUCT' 24.05%, khoi nhan Ctrl+Shift+Enter.",
+    "=COUNT(MATCH(A1:D11,G2:G5,0)) + CSE =16 (frame 23:40): dem so o thuoc tap {1,2,5,7} tren vung A1:D11; MATCH(...,0) tim chinh xac, COUNT dem so tim thay.",
+    "{=SUM(MID(B3,ROW(INDIRECT(\"1:\"&LEN(B3))),1)*1)} =16 voi B3=565 (frame 28:40 + Evaluate Formula): LEN lay 3, ROW+INDIRECT tao {1;2;3}, MID tach 5,6,5 roi *1 ep so.",
+    "Loc unique bang COUNTIF+MATCH+INDEX (vi du 9, 30:00): dem so lan xuat hien truoc do, MATCH tim vi tri dau, INDEX lay ten duy nhat; phuc tap, can Evaluate tung buoc.",
+    "Vi tri hoc vien diem cao nhat (vi du 10, 33:20): cong thuc mang nang cao ket hop MAX+IF+MATCH theo dieu kien, video goi y tu hoc them."
+  ],
+  "thuat_toan_quy_trinh": [
+    "Buoc 1: mo file Bai 21, bat Enable Editing; xac dinh vung mang (so luong, don gia, vung loi/rong, dieu kien).",
+    "Buoc 2: go cong thuc tham chieu ca vung thay vi tung o (vi du =SUM(B3:B7*C3:C7)).",
+    "Buoc 3: nhan giu Ctrl+Shift roi Enter (thay vi Enter) de kich hoat mang; kiem tra dau { } xuat hien.",
+    "Buoc 4: dung Formulas > Evaluate Formula de chay tung buoc, xem mang nhan/tru va tong hop ket qua.",
+    "Buoc 5: voi TRUE/FALSE (ISERROR/ISBLANK/IF) nhan *1 hoac them -- de ep ve 1/0 truoc khi SUM.",
+    "Buoc 6: voi nhieu dieu kien dung (dk1)*(dk2) trong IF (nhan = AND logic) roi boc MAX/MIN ngoai cung.",
+    "Buoc 7: thay doi du lieu goc (vi du sua doanh thu) va quan sat ket qua mang tu cap nhat; doi chieu voi cach tinh thu cong.",
+    "Buoc 8: bai tap ve nha: tim doanh thu NHO NHAT nhung >0 bang =MIN(IF(vung>0,vung)) + CSE, bo qua o bang 0."
+  ],
+  "cau_hoi": [
+    {
+      "id": 1,
+      "cau": "Cong thuc mang (array formula) khac cong thuc thuong o diem nao?",
+      "A": "Xu ly nhieu gia tri (mang) trong 1 cong thuc",
+      "B": "Khong dung trong bai hoc nay",
+      "C": "Khong can nhan Enter",
+      "D": "Chi dung cho van ban",
+      "dap_an": "A",
+      "giai_thich": "Mang tham chieu ca vung va tra ket qua tong hop trong mot o."
+    },
+    {
+      "id": 2,
+      "cau": "De ket thuc mot cong thuc mang phai nhan to hop nao?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Ctrl+Shift+Enter",
+      "C": "Alt+Enter",
+      "D": "Shift+Enter",
+      "dap_an": "B",
+      "giai_thich": "Giu Ctrl+Shift roi Enter, Excel tu them ngoac nhon."
+    },
+    {
+      "id": 3,
+      "cau": "Dau hieu nhan biet mot o dang chua cong thuc mang la gi?",
+      "A": "O co mau nen xanh",
+      "B": "Khong dung trong bai hoc nay",
+      "C": "Cong thuc hien trong { }",
+      "D": "Co them ky tu $",
+      "dap_an": "C",
+      "giai_thich": "Excel tu dong them { } quanh cong thuc mang."
+    },
+    {
+      "id": 4,
+      "cau": "=SUM(B3:B7*C3:C7) dung de lam gi?",
+      "A": "Cong tien tung dong roi SUM",
+      "B": "Khong dung trong bai hoc nay",
+      "C": "Nhan o B3 voi C7",
+      "D": "Nhan 2 mang so-luong va don-gia roi tong mot lan",
+      "dap_an": "D",
+      "giai_thich": "B3:B7 nhan tuong ung C3:C7 roi SUM, khoi can cot phu."
+    },
+    {
+      "id": 5,
+      "cau": "Vi sao phai nhan Ctrl+Shift+Enter cho cong thuc tren?",
+      "A": "De Excel tinh theo che do mang",
+      "B": "Khong dung trong bai hoc nay",
+      "C": "De luu file",
+      "D": "De xuong dong",
+      "dap_an": "A",
+      "giai_thich": "Khong CSE thi phep nhan mang khong tong hop dung."
+    },
+    {
+      "id": 6,
+      "cau": "Ham nao dem so o loi trong vung B3:B9? (video hien B3:B9)",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "=SUM(ISERROR(D3:D9)*1) + CSE",
+      "C": "=SUM(D3:D9)",
+      "D": "=AVERAGE(D3:D9)",
+      "dap_an": "B",
+      "giai_thich": "ISERROR tra TRUE/FALSE, *1 ep ve so roi SUM."
+    },
+    {
+      "id": 7,
+      "cau": "Tac dung cua *1 (hoac --) sau ISERROR/ISBLANK la gi?",
+      "A": "Trang tri",
+      "B": "Khong dung trong bai hoc nay",
+      "C": "Chuyen TRUE/FALSE ve 1/0",
+      "D": "Xoa loi",
+      "dap_an": "C",
+      "giai_thich": "SUM chi cong duoc so nen phai ep kieu."
+    },
+    {
+      "id": 8,
+      "cau": "=SUM(--ISERROR(D3:D9)) cho ket qua nao neu co 3 o loi?",
+      "A": "0",
+      "B": "Khong dung trong bai hoc nay",
+      "C": "TRUE",
+      "D": "3",
+      "dap_an": "D",
+      "giai_thich": "3 gia tri TRUE thanh 3 so 1, tong bang 3."
+    },
+    {
+      "id": 9,
+      "cau": "Ham nao kiem tra mot o co phai o trong that su?",
+      "A": "ISBLANK",
+      "B": "ISERROR",
+      "C": "ISTEXT",
+      "D": "ISNUMBER",
+      "dap_an": "A",
+      "giai_thich": "ISBLANK=TRUE chi khi o rong that, chuoi \"\" van la FALSE."
+    },
+    {
+      "id": 10,
+      "cau": "O chua =\"\" (chuoi rong) thi ISBLANK tra ve gi?",
+      "A": "TRUE",
+      "B": "FALSE",
+      "C": "#N/A",
+      "D": "0",
+      "dap_an": "B",
+      "giai_thich": "Vi o chua cong thuc nen khong phai o trong."
+    },
+    {
+      "id": 11,
+      "cau": "Cong thuc dem o KHONG trong la gi?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "=COUNTBLANK(vung)",
+      "C": "=SUM((NOT(ISBLANK(vung)))*1) + CSE",
+      "D": "=COUNTA(vung) + Enter",
+      "dap_an": "C",
+      "giai_thich": "NOT dao nguoc roi ep so va SUM theo mang."
+    },
+    {
+      "id": 12,
+      "cau": "=MAX(C2:C8-B2:B8) + CSE tinh gi?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Tong 2 nam",
+      "C": "Trung binh 2 nam",
+      "D": "Hieu lon nhat giua 2 nam",
+      "dap_an": "D",
+      "giai_thich": "Lay mang 2020 tru mang 2019 roi lay max."
+    },
+    {
+      "id": 13,
+      "cau": "Muon tinh tang truong thap nhat dung ham nao boc ngoai?",
+      "A": "MIN",
+      "B": "MAX",
+      "C": "SUM",
+      "D": "COUNT",
+      "dap_an": "A",
+      "giai_thich": "MIN cua mang hieu = muc tang thap nhat."
+    },
+    {
+      "id": 14,
+      "cau": "Sua mot gia tri doanh thu goc thi ket qua MAX/MIN mang se?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Tu cap nhat ngay",
+      "C": "Bi mat",
+      "D": "Khong doi",
+      "dap_an": "B",
+      "giai_thich": "Cong thuc tham chieu dong nen tu tinh lai."
+    },
+    {
+      "id": 15,
+      "cau": "De tinh diem lon nhat khi Rui ro=Cao VA Doanh thu=Thap dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "=MAX(C3:C11)",
+      "C": "=MAX(IF((A3:A11=\"Cao\")*(B3:B11=\"Thap\"),C3:C11)) + CSE",
+      "D": "=VLOOKUP(...)",
+      "dap_an": "C",
+      "giai_thich": "Dau * noi 2 dieu kien kieu AND trong IF."
+    },
+    {
+      "id": 16,
+      "cau": "Trong cong thuc tren, dau * giua 2 bieu thuc logic co y nghia?",
+      "A": "Nhan so hoc",
+      "B": "Khong dung trong bai hoc nay",
+      "C": "Phep OR",
+      "D": "Phep AND (ca 2 dung moi tinh)",
+      "dap_an": "D",
+      "giai_thich": "TRUE*TRUE=1, chi dong thoa ca 2 moi duoc lay."
+    },
+    {
+      "id": 17,
+      "cau": "Tinh diem NHO NHAT voi 2 dieu kien thi doi ham ngoai thanh gi?",
+      "A": "MIN",
+      "B": "MAX",
+      "C": "SUM",
+      "D": "AVERAGE",
+      "dap_an": "A",
+      "giai_thich": "Giu nguyen IF dieu kien, doi MAX thanh MIN."
+    },
+    {
+      "id": 18,
+      "cau": "=COUNT(MATCH(A1:D11,G2:G5,0)) dem cai gi? (ket qua 16)",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "So o thuoc tap {1,2,5,7}",
+      "C": "So o loi",
+      "D": "So o rong",
+      "dap_an": "B",
+      "giai_thich": "MATCH tim thay tra vi tri, COUNT dem so lan thay."
+    },
+    {
+      "id": 19,
+      "cau": "Tham so 0 trong MATCH(...,0) nghia la?",
+      "A": "Tim tuong doi",
+      "B": "Khong dung trong bai hoc nay",
+      "C": "Tim chinh xac",
+      "D": "Bo qua",
+      "dap_an": "C",
+      "giai_thich": "0 = exact match, bat buoc khi dem theo tap gia tri."
+    },
+    {
+      "id": 20,
+      "cau": "LEN(B3) trong bai tong chu so dung de?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Tinh tong luon",
+      "C": "Xoa khoang trang",
+      "D": "Dem so ky tu de tao day 1..n",
+      "dap_an": "D",
+      "giai_thich": "Do dai chuoi quyet dinh so lan tach MID."
+    },
+    {
+      "id": 21,
+      "cau": "ROW(INDIRECT(\"1:\"&LEN(B3))) tao ra gi?",
+      "A": "Mang {1;2;3;...;n}",
+      "B": "So ngau nhien",
+      "C": "Ngay thang",
+      "D": "Chuoi van ban",
+      "dap_an": "A",
+      "giai_thich": "Day so thu tu lam start_num cho MID."
+    },
+    {
+      "id": 22,
+      "cau": "MID(so,k,1) trong bai co tac dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Lay ky tu thu k",
+      "C": "Noi chuoi",
+      "D": "In hoa",
+      "dap_an": "B",
+      "giai_thich": "Tach tung chu so ra khoi con so."
+    },
+    {
+      "id": 23,
+      "cau": "Vi sao cuoi MID phai *1?",
+      "A": "De trang tri",
+      "B": "Khong dung trong bai hoc nay",
+      "C": "Ep ky tu so dang text ve so that",
+      "D": "De chia",
+      "dap_an": "C",
+      "giai_thich": "MID tra text, *1 ep ve so moi SUM duoc."
+    },
+    {
+      "id": 24,
+      "cau": "So 565 cho tong chu so bang bao nhieu?",
+      "A": "10",
+      "B": "Khong dung trong bai hoc nay",
+      "C": "15",
+      "D": "16",
+      "dap_an": "D",
+      "giai_thich": "5+6+5=16, cong thuc mang tra 16."
+    },
+    {
+      "id": 25,
+      "cau": "=SUM(ROW(INDIRECT(A2&\":\"&B2))) voi A2=2,B2=100 cho?",
+      "A": "5049",
+      "B": "100",
+      "C": "102",
+      "D": "5050",
+      "dap_an": "A",
+      "giai_thich": "Tong cac so nguyen tu 2 den 100."
+    },
+    {
+      "id": 26,
+      "cau": "=AVERAGE(ROW(INDIRECT(1&\":\"&100))) cho?",
+      "A": "50",
+      "B": "50.5",
+      "C": "100",
+      "D": "51",
+      "dap_an": "B",
+      "giai_thich": "Trung binh 1..100 = (1+100)/2."
+    },
+    {
+      "id": 27,
+      "cau": "INDEX(A2&\":\"&B2) trong meo ROW+INDEX dung de?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Sap xep",
+      "C": "Tao tham chieu dang text thanh vung that",
+      "D": "Ve bieu do",
+      "dap_an": "C",
+      "giai_thich": "Noi dia chi kieu \"2:5\" roi bien thanh vung."
+    },
+    {
+      "id": 28,
+      "cau": "Cong cu nao giup xem tung buoc chay cua cong thuc mang?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Spell Check",
+      "C": "Protect Sheet",
+      "D": "Evaluate Formula (Formulas)",
+      "dap_an": "D",
+      "giai_thich": "Evaluate chay tung phep nhan/tru/tong de hieu."
+    },
+    {
+      "id": 29,
+      "cau": "Co duoc tu go { } quanh cong thuc mang khong?",
+      "A": "Khong, Excel tu them khi CSE",
+      "B": "Khong dung trong bai hoc nay",
+      "C": "Tuy y",
+      "D": "Chi go 1 ben",
+      "dap_an": "A",
+      "giai_thich": "Tu go ngoac nhon se thanh text, phai CSE."
+    },
+    {
+      "id": 30,
+      "cau": "Sua/Xoa 1 o trong vung mang nhieu o se?",
+      "A": "Tu do",
+      "B": "Excel bao loi, phai xu ly ca vung",
+      "C": "Tu nhan doi",
+      "D": "Khong sao",
+      "dap_an": "B",
+      "giai_thich": "Mang nhieu o rang buoc chung, khong sua le."
+    },
+    {
+      "id": 31,
+      "cau": "SUMPRODUCT co the thay CSE trong truong hop nao?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Ve bieu do",
+      "C": "Tong tich 2 mang",
+      "D": "Goi macro",
+      "dap_an": "C",
+      "giai_thich": "SUMPRODUCT xu ly mang san, thuong khong can CSE."
+    },
+    {
+      "id": 32,
+      "cau": "Ket qua =SUM(B3:B7*C3:C7) trong bai hoc bang?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "8000",
+      "C": "8100",
+      "D": "8198",
+      "dap_an": "D",
+      "giai_thich": "Dung nhu cach tinh thu cong tong tien."
+    },
+    {
+      "id": 33,
+      "cau": "Bai tap ve nha cuoi video yeu cau gi?",
+      "A": "Tim doanh thu nho nhat nhung >0",
+      "B": "Ve bieu do tron",
+      "C": "Ghi macro",
+      "D": "Xoa sheet",
+      "dap_an": "A",
+      "giai_thich": "=MIN(IF(vung>0,vung)) + CSE, bo qua o 0."
+    },
+    {
+      "id": 34,
+      "cau": "Vi sao phai loai o 0 khi tim min?",
+      "A": "0 lam dep",
+      "B": "Nhieu thang nghi khong co doanh thu (=0) se keo min ve 0",
+      "C": "0 khong phai so",
+      "D": "Excel cam",
+      "dap_an": "B",
+      "giai_thich": "Chi xet o >0 moi ra min co y nghia."
+    },
+    {
+      "id": 35,
+      "cau": "=MIN(IF(vung>0,vung)) phai ket thuc bang?",
+      "A": "Enter thuong",
+      "B": "Khong dung trong bai hoc nay",
+      "C": "Ctrl+Shift+Enter",
+      "D": "Tab",
+      "dap_an": "C",
+      "giai_thich": "IF tra mang nen phai CSE."
+    },
+    {
+      "id": 36,
+      "cau": "Muon dem so o chua 1 trong 4 gia tri {1,2,5,7} dung?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "COUNTIF don",
+      "C": "SUM don",
+      "D": "COUNT + MATCH mang",
+      "dap_an": "D",
+      "giai_thich": "MATCH tung gia tri trong tap roi COUNT."
+    },
+    {
+      "id": 37,
+      "cau": "De tach loc danh sach duy nhat (unique) video goi y ham nao?",
+      "A": "Ket hop COUNTIF + MATCH + INDEX (mang)",
+      "B": "Chi dung SUM",
+      "C": "Chi dung NOW",
+      "D": "Chi dung TODAY",
+      "dap_an": "A",
+      "giai_thich": "Dem so lan xuat hien truoc do de lay lan dau."
+    },
+    {
+      "id": 38,
+      "cau": "Loi #DIV/0! trong vi du duoc tao bang cach nao?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "=1/0",
+      "C": "=\"abc\"",
+      "D": "=TODAY()",
+      "dap_an": "B",
+      "giai_thich": "Chia cho 0 de minh hoa ISERROR bat loi."
+    },
+    {
+      "id": 39,
+      "cau": "Loi ich lon nhat cua cong thuc mang theo bai?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Lam may cham vinh vien",
+      "C": "Gon, khoi cot phu, tu cap nhat",
+      "D": "Xoa du lieu",
+      "dap_an": "C",
+      "giai_thich": "Mot cong thuc thay nhieu buoc trung gian."
+    },
+    {
+      "id": 40,
+      "cau": "Muon tinh tong tien truc tiep khong can cot phu trung gian dung cach nao?",
+      "A": "Khong dung trong bai hoc nay",
+      "B": "Nhan tay tung dong",
+      "C": "Doan mo",
+      "D": "Dung cong thuc mang =SUM(soluong*dongia) + CSE",
+      "dap_an": "D",
+      "giai_thich": "Mang nhan 2 vung va tong mot lan, gon nhat."
+    }
+  ]
+}

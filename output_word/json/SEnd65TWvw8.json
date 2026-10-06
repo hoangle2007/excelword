@@ -1,0 +1,347 @@
+{
+ "bai": 19,
+ "cau_hoi": [
+  {
+   "A": "Bôi đen rồi Ctrl+D (hoặc mũi tên Font) > Advanced > Spacing",
+   "B": "Nhấn Alt + F4",
+   "C": "Vào File > Print",
+   "D": "Nhấn Ctrl + A",
+   "cau": "Đường mở hộp giãn chữ (Character Spacing) là?",
+   "dap_an": "A",
+   "giai_thich": "Bôi đen, Ctrl+D mở Font, sang tab Advanced.",
+   "id": 1,
+   "muc_do": "de"
+  },
+  {
+   "A": "Advanced (trong hộp Font)",
+   "B": "Font (chọn font)",
+   "C": "Review",
+   "D": "View",
+   "cau": "Tùy chỉnh giãn chữ nằm ở tab nào của hộp Font?",
+   "dap_an": "A",
+   "giai_thich": "Tab Advanced chứa Spacing (giãn) và Position.",
+   "id": 2,
+   "muc_do": "de"
+  },
+  {
+   "A": "Spacing (trong Advanced)",
+   "B": "Font Size",
+   "C": "Font Color",
+   "D": "Page Size",
+   "cau": "Mục chỉnh khoảng cách giữa các ký tự tên là?",
+   "dap_an": "A",
+   "giai_thich": "Spacing: Normal/Expanded/Condensed + By pt.",
+   "id": 3,
+   "muc_do": "de"
+  },
+  {
+   "A": "Expanded",
+   "B": "Condensed",
+   "C": "Normal",
+   "D": "Hidden",
+   "cau": "Muốn chữ thưa ra (giãn rộng) thì chọn?",
+   "dap_an": "A",
+   "giai_thich": "Expanded làm khoảng cách rộng ra.",
+   "id": 4,
+   "muc_do": "de"
+  },
+  {
+   "A": "Condensed",
+   "B": "Expanded",
+   "C": "Normal",
+   "D": "Bold",
+   "cau": "Muốn chữ khít lại (nén) thì chọn?",
+   "dap_an": "A",
+   "giai_thich": "Condensed thu hẹp khoảng cách.",
+   "id": 5,
+   "muc_do": "de"
+  },
+  {
+   "A": "Normal",
+   "B": "Expanded",
+   "C": "Condensed",
+   "D": "Superscript",
+   "cau": "Muốn về mặc định thì chọn?",
+   "dap_an": "A",
+   "giai_thich": "Normal là khoảng cách chuẩn.",
+   "id": 6,
+   "muc_do": "de"
+  },
+  {
+   "A": "By ... pt (ví dụ 1pt, 2pt...)",
+   "B": "Tính bằng cm",
+   "C": "Tính bằng inch",
+   "D": "Không nhập số",
+   "cau": "Sau khi chọn Expanded/Condensed thì nhập gì tiếp?",
+   "dap_an": "A",
+   "giai_thich": "Nhập số pt ở ô By (ví dụ 1-2pt).",
+   "id": 7,
+   "muc_do": "de"
+  },
+  {
+   "A": "OK",
+   "B": "Cancel",
+   "C": "Esc",
+   "D": "Alt+F4",
+   "cau": "Sau khi chỉnh Spacing xong nhấn gì?",
+   "dap_an": "A",
+   "giai_thich": "OK để áp dụng.",
+   "id": 8,
+   "muc_do": "de"
+  },
+  {
+   "A": "Bôi đen phần cần giãn trước",
+   "B": "Nhấn Ctrl+S trước",
+   "C": "Tắt máy trước",
+   "D": "In trước",
+   "cau": "Bước 1 bắt buộc khi giãn chữ là?",
+   "dap_an": "A",
+   "giai_thich": "Phải bôi đen 2 đoạn đầu như ví dụ.",
+   "id": 9,
+   "muc_do": "de"
+  },
+  {
+   "A": "Mọi phiên bản Word đều làm tương tự",
+   "B": "Mỗi bản khác nhau hoàn toàn",
+   "C": "Bản cũ không giãn được",
+   "D": "Bản mới không giãn được",
+   "cau": "Giãn chữ trên các bản Word thì?",
+   "dap_an": "A",
+   "giai_thich": "Áp dụng mọi phiên bản.",
+   "id": 10,
+   "muc_do": "de"
+  },
+  {
+   "A": "Ctrl+D",
+   "B": "Ctrl+S",
+   "C": "Ctrl+A",
+   "D": "Ctrl+O",
+   "cau": "Phím tắt mở hộp Font để giãn chữ là?",
+   "dap_an": "A",
+   "giai_thich": "Ctrl+D mở hộp Font.",
+   "id": 11,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Mũi tên chéo góc nhóm Font trên Home",
+   "B": "Nút nguồn",
+   "C": "Nút Start",
+   "D": "Nút Wifi",
+   "cau": "Ngoài Ctrl+D, còn mở hộp Font bằng cách nào?",
+   "dap_an": "A",
+   "giai_thich": "Nhấp mũi tên góc nhóm Font trên Home.",
+   "id": 12,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "pt (points)",
+   "B": "cm",
+   "C": "inch",
+   "D": "kg",
+   "cau": "Đơn vị của giãn chữ là?",
+   "dap_an": "A",
+   "giai_thich": "Tính bằng pt (1pt, 2pt...).",
+   "id": 13,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Đoạn giãn rộng hơn đoạn 3 giữ nguyên",
+   "B": "Không khác gì",
+   "C": "Đoạn giãn hẹp hơn",
+   "D": "Mất chữ",
+   "cau": "Dấu hiệu giãn chữ thành công trong video là?",
+   "dap_an": "A",
+   "giai_thich": "2 đoạn đầu thưa hơn đoạn 3 đối chứng.",
+   "id": 14,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Expanded + tăng By pt",
+   "B": "Condensed + tăng By",
+   "C": "Normal",
+   "D": "Tắt máy",
+   "cau": "Muốn chữ thưa hơn nữa thì?",
+   "dap_an": "A",
+   "giai_thich": "Giữ Expanded, tăng số pt ở By.",
+   "id": 15,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Preview xem trước trong hộp Font",
+   "B": "Không xem được",
+   "C": "Phải in mới thấy",
+   "D": "Phải khởi động lại",
+   "cau": "Xem trước giãn chữ ở đâu?",
+   "dap_an": "A",
+   "giai_thich": "Khung Preview dưới hộp Font.",
+   "id": 16,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Giãn chữ (ký tự) khác giãn dòng (dòng) và giãn đoạn",
+   "B": "Ba khái niệm giống nhau",
+   "C": "Giãn chữ là giãn dòng",
+   "D": "Giãn chữ là giãn lề",
+   "cau": "Phân biệt giãn chữ với giãn dòng/đoạn?",
+   "dap_an": "A",
+   "giai_thich": "Chữ: khoảng ký tự; dòng: khoảng dòng; đoạn: Before/After.",
+   "id": 17,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Tiêu đề, bìa, banner cần nhấn mạnh",
+   "B": "Văn bản dài thường",
+   "C": "Bảng số liệu dày",
+   "D": "Mọi văn bản",
+   "cau": "Khi nào nên giãn chữ Expanded?",
+   "dap_an": "A",
+   "giai_thich": "Tiêu đề/bìa cần thoáng, nghệ thuật.",
+   "id": 18,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Chỉ giãn 1-3pt, tránh quá thưa khó đọc",
+   "B": "Giãn 10pt cho đẹp",
+   "C": "Giãn càng to càng tốt",
+   "D": "Không giới hạn",
+   "cau": "Mức giãn hợp lý cho văn bản thường là?",
+   "dap_an": "A",
+   "giai_thich": "1-2pt là đủ; quá to gây rời rạc.",
+   "id": 19,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Bôi cả 2 đoạn rồi chỉnh 1 lần",
+   "B": "Chỉnh từng chữ",
+   "C": "Chỉnh từng dòng",
+   "D": "Tạo file mới",
+   "cau": "Muốn giãn đều 2 đoạn cùng lúc thì?",
+   "dap_an": "A",
+   "giai_thich": "Bôi cả 2 rồi chỉnh chung.",
+   "id": 20,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Về Normal (hoặc Spacing Normal) rồi OK",
+   "B": "Không về được",
+   "C": "Phải tạo file mới",
+   "D": "Phải cài lại Word",
+   "cau": "Muốn hủy giãn chữ về mặc định thì?",
+   "dap_an": "A",
+   "giai_thich": "Mở lại Advanced > Spacing Normal > OK.",
+   "id": 21,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Scale (%) phóng to/thu chữ; Spacing giãn khoảng",
+   "B": "Hai mục giống nhau",
+   "C": "Scale là giãn chữ",
+   "D": "Spacing là cỡ chữ",
+   "cau": "Phân biệt Scale và Spacing trong tab Advanced?",
+   "dap_an": "A",
+   "giai_thich": "Scale % độ to chữ; Spacing khoảng giữa chữ.",
+   "id": 22,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Position Raised/Lowered nâng/hạ chữ khỏi dòng cơ sở",
+   "B": "Position là giãn chữ",
+   "C": "Không có Position",
+   "D": "Position là font",
+   "cau": "Mục Position trong Advanced dùng để?",
+   "dap_an": "A",
+   "giai_thich": "Nâng/hạ chữ so với baseline (ví dụ tạo hiệu ứng).",
+   "id": 23,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Kerning (tự động chỉnh cặp ký tự khó như AV, To)",
+   "B": "Không có kerning",
+   "C": "Kerning là font",
+   "D": "Kerning là màu",
+   "cau": "Tùy chọn Kerning for fonts trong Advanced là?",
+   "dap_an": "A",
+   "giai_thich": "Tự co khoảng cặp ký tự đặc biệt cho đều mắt.",
+   "id": 24,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Condensed quá đà gây dính chữ, khó đọc, lỗi khi in",
+   "B": "Condensed luôn đẹp",
+   "C": "Không bao giờ lỗi",
+   "D": "Càng nén càng tốt",
+   "cau": "Rủi ro khi lạm dụng Condensed là?",
+   "dap_an": "A",
+   "giai_thich": "Chữ dính, khó đọc, nhất là cỡ nhỏ.",
+   "id": 25,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Expanded quá đà gây rời rạc, tốn chỗ, mất chuyên nghiệp",
+   "B": "Expanded luôn đẹp",
+   "C": "Không bao giờ lỗi",
+   "D": "Càng giãn càng tốt",
+   "cau": "Rủi ro khi lạm dụng Expanded là?",
+   "dap_an": "A",
+   "giai_thich": "Thưa quá gây rời, tốn dòng/trang.",
+   "id": 26,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Giãn chữ + in đậm/tăng cỡ cho tiêu đề nổi bật",
+   "B": "Chỉ giãn là đủ",
+   "C": "Chỉ in đậm là đủ",
+   "D": "Không cần định dạng",
+   "cau": "Combo làm tiêu đề bìa đẹp là?",
+   "dap_an": "A",
+   "giai_thich": "Kết hợp giãn, đậm, cỡ to, căn giữa.",
+   "id": 27,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Copy giữ nguyên giãn chữ theo định dạng ký tự",
+   "B": "Mất giãn khi copy",
+   "C": "Thành ảnh",
+   "D": "Thành file khác",
+   "cau": "Sao chép đoạn giãn chữ sang chỗ khác thì?",
+   "dap_an": "A",
+   "giai_thich": "Spacing là thuộc tính ký tự, đi theo khi copy.",
+   "id": 28,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Clear Formatting (Home) hoặc về Normal",
+   "B": "Không xóa được",
+   "C": "Phải gõ lại",
+   "D": "Phải cài lại Word",
+   "cau": "Muốn xóa sạch giãn + định dạng về thường thì?",
+   "dap_an": "A",
+   "giai_thich": "Bôi đen rồi Home > Clear Formatting hoặc Font Normal.",
+   "id": 29,
+   "muc_do": "kho"
+  },
+  {
+   "A": "3 bước: bôi đen > Ctrl+D > Advanced > Spacing Expanded/Condensed + By pt > OK",
+   "B": "Chỉ 1 bước",
+   "C": "Có 10 bước",
+   "D": "Không có bước nào",
+   "cau": "Tóm tắt 3 bước giãn chữ trong video là?",
+   "dap_an": "A",
+   "giai_thich": "Bôi đen, mở Font Advanced, chọn Spacing + pt, OK.",
+   "id": 30,
+   "muc_do": "kho"
+  }
+ ],
+ "ky_nang": [
+  {
+   "duong_dan_menu": "Home > Font Dialog (mũi tên) / Ctrl+D > Advanced > Spacing",
+   "giai_thich": "Bôi đen trước; đơn vị pt; xem Preview trước khi OK.",
+   "phim_tat": "Ctrl + D",
+   "ten": "Giãn chữ (Character Spacing)",
+   "thao_tac": "Bôi đen, Ctrl+D, sang Advanced, Spacing chọn Expanded/Condensed + By pt (ví dụ 2pt), OK.",
+   "vi_du": "Bôi 2 đoạn đầu > Expanded 2pt > OK, thưa hơn đoạn 3."
+  }
+ ],
+ "url": "https://www.youtube.com/watch?v=SEnd65TWvw8",
+ "video_id": "SEnd65TWvw8"
+}

@@ -1,0 +1,532 @@
+{
+  "bai": "Bai 01 thao tac co ban voi file Excel",
+  "cau_hoi": [
+    {
+      "A": "Nhan Start, go Excel, Enter roi chon Blank workbook",
+      "B": "Nhan nut nguon may tinh",
+      "C": "Mo trinh duyet web",
+      "D": "Rut dien may tinh",
+      "cau": "Cach khoi dong Excel va tao file trang moi?",
+      "dap_an": "A",
+      "giai_thich": "Nhan Start, go Excel, chon Blank workbook de mo file trang.",
+      "id": 1
+    },
+    {
+      "A": "File > Save > chon noi luu > dat ten > Save",
+      "B": "Nhan Alt+F4 de luu",
+      "C": "Rut USB ra la luu",
+      "D": "Tat may la tu luu",
+      "cau": "Cach dat ten va luu file lan dau?",
+      "dap_an": "A",
+      "giai_thich": "Cau nay kiem tra hieu nham: dap an dung la File > Save > chon noi luu > dat ten.",
+      "id": 2
+    },
+    {
+      "A": "O la thanh cong cu",
+      "B": "O la toan bo bang tinh",
+      "C": "O (Cell) la giao cua 1 cot va 1 hang",
+      "D": "O la ten file",
+      "cau": "O (Cell) trong Excel la gi?",
+      "dap_an": "C",
+      "giai_thich": "Moi o duoc tao boi 1 cot va 1 hang, vi du B2.",
+      "id": 3
+    },
+    {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "Cot duoc danh so bang chu cai A,B,C...; hang danh so 1,2,3...",
+      "cau": "Cot va hang trong Excel duoc danh dau the nao?",
+      "dap_an": "D",
+      "giai_thich": "Cot la chu cai, hang la so.",
+      "id": 4
+    },
+    {
+      "A": "Name Box hien dia chi o dang chon, vi du B2, E7, F2",
+      "B": "Name Box de go van ban",
+      "C": "Name Box de luu file",
+      "D": "Name Box de in an",
+      "cau": "Name Box co tac dung gi?",
+      "dap_an": "A",
+      "giai_thich": "Name Box hien ten/dia chi o dang chon.",
+      "id": 5
+    },
+    {
+      "A": "Tu Excel 2007 co hon 1 trieu hang va hon 16000 cot",
+      "B": "Excel khong gioi han gi",
+      "C": "Excel co 1 hang 1 cot",
+      "D": "Excel chi co 10 hang 10 cot",
+      "cau": "Kich thuoc trang tinh Excel tu 2007 tro di?",
+      "dap_an": "A",
+      "giai_thich": "Hon 1 trieu hang va hon 16000 cot.",
+      "id": 6
+    },
+    {
+      "A": "Chi co kieu anh",
+      "B": "Chi co kieu so",
+      "C": "Kieu chuoi (Text) vi du Ho ten; kieu ngay thang; kieu so; kieu cong thuc",
+      "D": "Khong co kieu du lieu",
+      "cau": "4 kieu du lieu pho bien trong Excel la gi?",
+      "dap_an": "C",
+      "giai_thich": "Chuoi, ngay thang, so, cong thuc.",
+      "id": 7
+    },
+    {
+      "A": "Nhan Enter, nhan mui ten, hoac click chuot sang o khac",
+      "B": "Nhan nut nguon",
+      "C": "Tat Excel",
+      "D": "Xoa o di",
+      "cau": "Cach ket thuc nhap lieu trong mot o?",
+      "dap_an": "A",
+      "giai_thich": "Bam Enter, mui ten hoac click o khac.",
+      "id": 8
+    },
+    {
+      "A": "Nhap thang truoc ngay sau nam, vi du 9/25/2020",
+      "B": "Nhap gio truoc",
+      "C": "Nhap ten truoc",
+      "D": "Nhap tuy y",
+      "cau": "Mac dinh nhap ngay thang trong Excel kieu My the nao?",
+      "dap_an": "A",
+      "giai_thich": "Mac dinh thang/ngay/nam.",
+      "id": 9
+    },
+    {
+      "A": "Bat dau bang dau = roi chon vung, vi du =SUM(B4:D4)",
+      "B": "Bat dau bang chu cai",
+      "C": "Khong can dau gi",
+      "D": "Bat dau bang dau cham",
+      "cau": "Cong thuc tinh tong diem trong video duoc nhap the nao?",
+      "dap_an": "A",
+      "giai_thich": "Cong thuc bat dau bang dau =, noi dung dung la A.",
+      "id": 10
+    },
+    {
+      "A": "Them sheet: nhan dau + ben canh Sheet1",
+      "B": "Khong the them sheet",
+      "C": "Phai cai lai Excel",
+      "D": "Phai mua them sheet",
+      "cau": "Cach them sheet moi nhanh nhat?",
+      "dap_an": "A",
+      "giai_thich": "Nhan dau + de them sheet.",
+      "id": 11
+    },
+    {
+      "A": "Double-click ten sheet roi go ten moi, Enter",
+      "B": "Khong the doi ten sheet",
+      "C": "Phai xoa sheet roi tao lai",
+      "D": "Doi ten sheet: double-click hoac chuot phai > Rename",
+      "cau": "Cach doi ten sheet?",
+      "dap_an": "D",
+      "giai_thich": "Double-click hoac chuot phai > Rename.",
+      "id": 12
+    },
+    {
+      "A": "Giu Ctrl + keo tab sheet sang vi tri moi de copy sheet",
+      "B": "Khong the copy sheet",
+      "C": "Copy bang cach chup anh",
+      "D": "Copy bang cach viet lai",
+      "cau": "Meo copy mot sheet nhanh?",
+      "dap_an": "A",
+      "giai_thich": "Giu Ctrl + keo chuot trai tab sheet.",
+      "id": 13
+    },
+    {
+      "A": "Chuot phai vao sheet > Insert > Worksheet",
+      "B": "Chuot phai vao o bat ky",
+      "C": "Nhan Enter",
+      "D": "Tat may",
+      "cau": "Cach khac de chen sheet bang menu chuot phai?",
+      "dap_an": "A",
+      "giai_thich": "Chuot phai vao tab sheet > Insert.",
+      "id": 14
+    },
+    {
+      "A": "Chuot phai vao tab sheet > Move or Copy, chon Create a copy",
+      "B": "Keo tha tu do",
+      "C": "Copy bang keo giay",
+      "D": "Khong the di chuyen sheet",
+      "cau": "Lenh Move or Copy sheet co tac dung gi?",
+      "dap_an": "A",
+      "giai_thich": "De di chuyen hoac tao ban copy cua sheet.",
+      "id": 15
+    },
+    {
+      "A": "Giu chuot trai vao tab sheet va keo den vi tri moi",
+      "B": "Phai xoa het roi lam lai",
+      "C": "Khong the sap xep sheet",
+      "D": "Sap xep sheet: giu chuot trai keo tab sheet den vi tri mong muon",
+      "cau": "Cach sap xep thu tu cac sheet?",
+      "dap_an": "D",
+      "giai_thich": "Keo tha tab sheet.",
+      "id": 16
+    },
+    {
+      "A": "Chuot phai vao sheet > Delete; chon nhieu sheet bang Ctrl+click roi Delete",
+      "B": "Khong the xoa sheet",
+      "C": "Xoa ca file",
+      "D": "Xoa bang cach tat dien",
+      "cau": "Cach xoa mot hoac nhieu sheet?",
+      "dap_an": "A",
+      "giai_thich": "Chuot phai > Delete; giu Ctrl de chon nhieu sheet.",
+      "id": 17
+    },
+    {
+      "A": "Chuot phai > Tab Color de chon mau",
+      "B": "To mau bang but long",
+      "C": "Khong the to mau",
+      "D": "To mau tu dong",
+      "cau": "Cach to mau cho ten sheet?",
+      "dap_an": "A",
+      "giai_thich": "Chuot phai > Tab Color.",
+      "id": 18
+    },
+    {
+      "A": "Keo duong vien cot de rong/hep; double-click de vua khit o dai nhat",
+      "B": "Khong doi duoc do rong cot",
+      "C": "Phai cai lai Excel",
+      "D": "Chi de mac dinh",
+      "cau": "Cach dieu chinh do rong cot?",
+      "dap_an": "A",
+      "giai_thich": "Keo bien hoac double-click de AutoFit.",
+      "id": 19
+    },
+    {
+      "A": "Chon nhieu cot roi keo se dan deu bang nhau",
+      "B": "Khong chon duoc nhieu cot",
+      "C": "Chi chinh tung cot",
+      "D": "Chon nhieu cot lien ke bang cach boi den hoac Ctrl+click cot cach nhau",
+      "cau": "Cach chon nhieu cot?",
+      "dap_an": "D",
+      "giai_thich": "Boi den hoac giu Ctrl+click.",
+      "id": 20
+    },
+    {
+      "A": "Chuot phai vao tieu de cot > Insert de chen cot; chon 2 cot roi Insert se chen 2 cot",
+      "B": "Khong chen duoc cot",
+      "C": "Chen bang cach ve them",
+      "D": "Chen cot phai mua them",
+      "cau": "Cach chen them cot?",
+      "dap_an": "A",
+      "giai_thich": "Chuot phai > Insert.",
+      "id": 21
+    },
+    {
+      "A": "Chon cot > chuot phai > Delete",
+      "B": "Nhan Enter de xoa cot",
+      "C": "Xoa cot: chon cot roi chuot phai > Delete hoac phim Delete",
+      "D": "Khong xoa duoc cot",
+      "cau": "Cach xoa cot?",
+      "dap_an": "C",
+      "giai_thich": "Chon cot roi Delete.",
+      "id": 22
+    },
+    {
+      "A": "Keo duong vien hang; double-click de vua khit",
+      "B": "Khong doi duoc chieu cao hang",
+      "C": "Chieu cao hang: keo bien duoi tieu de hang hoac double-click AutoFit",
+      "D": "Phai do bang thuoc",
+      "cau": "Cach dieu chinh chieu cao hang?",
+      "dap_an": "C",
+      "giai_thich": "Keo bien hoac double-click.",
+      "id": 23
+    },
+    {
+      "A": "Chon hang > chuot phai > Insert de chen; > Delete de xoa",
+      "B": "Khong chen duoc hang",
+      "C": "Khong xoa duoc hang",
+      "D": "Chen/xoa hang: chuot phai vao so hang > Insert/Delete",
+      "cau": "Cach chen va xoa hang?",
+      "dap_an": "D",
+      "giai_thich": "Chuot phai vao so hang > Insert/Delete.",
+      "id": 24
+    },
+    {
+      "A": "Chon hang, dua chuot ra bien den khi co 4 mui ten roi keo de di chuyen hang",
+      "B": "Khong di chuyen duoc hang",
+      "C": "Phai copy tay",
+      "D": "Phai go lai",
+      "cau": "Cach di chuyen mot hang?",
+      "dap_an": "A",
+      "giai_thich": "Keo khi tro thanh 4 mui ten.",
+      "id": 25
+    },
+    {
+      "A": "Chon cot, keo khi co 4 mui ten; cot cu se rong, can Delete",
+      "B": "Cot tu mat",
+      "C": "Di chuyen cot: chon cot roi keo bang bieu tuong 4 mui ten",
+      "D": "Khong di chuyen duoc cot",
+      "cau": "Cach di chuyen mot cot?",
+      "dap_an": "A",
+      "giai_thich": "Tuong tu hang.",
+      "id": 26
+    },
+    {
+      "A": "Giu Shift + keo de chen hang/cot vao giua ma khong ghi de",
+      "B": "Keo thuong la du",
+      "C": "Chen bang cach chen du lieu: giu Shift trong khi keo vung de chen",
+      "D": "Khong co cach chen",
+      "cau": "Cach chen (insert) hang/cot bang keo-tha?",
+      "dap_an": "C",
+      "giai_thich": "Giu Shift + keo de chen.",
+      "id": 27
+    },
+    {
+      "A": "Boi den vung roi go ten vao Name Box, Enter de dat ten vung",
+      "B": "Khong dat ten duoc",
+      "C": "Dat ten phai nho lap trinh",
+      "D": "Dat ten vung: chon vung, go ten vao Name Box, Enter; mo lai qua dropdown",
+      "cau": "Cach dat ten cho mot vung du lieu?",
+      "dap_an": "D",
+      "giai_thich": "Go ten vao Name Box.",
+      "id": 28
+    },
+    {
+      "A": "File > Save de cap nhat trang thai gan nhat",
+      "B": "Khong can luu",
+      "C": "Luu tu dong mai mai",
+      "D": "Tat la luu",
+      "cau": "Lenh Save co tac dung gi khi file da co ten?",
+      "dap_an": "A",
+      "giai_thich": "Save cap nhat trang thai gan nhat.",
+      "id": 29
+    },
+    {
+      "A": "File > Save As de tao file copy moi, vi du them 2021",
+      "B": "Save As de xoa file",
+      "C": "Save As de tat may",
+      "D": "Save As giong het Save",
+      "cau": "Lenh Save As co tac dung gi?",
+      "dap_an": "A",
+      "giai_thich": "Save As tao file moi tu file hien tai.",
+      "id": 30
+    },
+    {
+      "A": "Nhan X tren cua so hoac File > Close; Alt+F4 de dong nhanh",
+      "B": "Rut dien de dong",
+      "C": "Dong file: nhan X, File > Close hoac Alt+F4",
+      "D": "Khong dong duoc",
+      "cau": "Cach dong file Excel?",
+      "dap_an": "C",
+      "giai_thich": "Nhan X, Close hoac Alt+F4.",
+      "id": 31
+    },
+    {
+      "A": "Double-click file trong thu muc; mo tu Recent; File > Open > Browse",
+      "B": "Chi mo duoc 1 cach",
+      "C": "Khong mo duoc file",
+      "D": "Mo file: double-click, chon tu Recent, hoac Open > Browse den thu muc",
+      "cau": "Co may cach mo file da luu?",
+      "dap_an": "D",
+      "giai_thich": "3 cach: double-click, Recent, Open/Browse.",
+      "id": 32
+    },
+    {
+      "A": "Chuot phai vao file > Delete hoac chon file nhan Delete; muon lay lai vao Recycle Bin > Restore",
+      "B": "Khong xoa duoc file",
+      "C": "Xoa la mat vinh vien",
+      "D": "Xoa bang cach dot may",
+      "cau": "Cach xoa va khoi phuc file Excel trong Windows?",
+      "dap_an": "A",
+      "giai_thich": "Delete de xoa, Restore trong Recycle Bin de lay lai.",
+      "id": 33
+    },
+    {
+      "A": "Vi moi sheet la 1 phong/nhan vien/thang/lop, giup quan ly truc quan",
+      "B": "Vi thich nhieu sheet",
+      "C": "Vi sheet dep",
+      "D": "Khong can nhieu sheet",
+      "cau": "Tai sao can nhieu sheet trong mot file?",
+      "dap_an": "A",
+      "giai_thich": "Moi sheet quan ly 1 phong/nhan vien/thang.",
+      "id": 34
+    },
+    {
+      "A": "Giu Ctrl + click de chon nhieu sheet/cot cach nhau",
+      "B": "Khong chon duoc nhieu",
+      "C": "Chon nhieu doi tuong cach nhau: giu Ctrl roi click tung sheet/cot/hang",
+      "D": "Chi chon duoc 1",
+      "cau": "Cach chon nhieu sheet/cot khong lien ke?",
+      "dap_an": "C",
+      "giai_thich": "Giu Ctrl + click.",
+      "id": 35
+    },
+    {
+      "A": "Thu nho, Minimize, Maximaze cua so qua cac nut goc phai",
+      "B": "Khong phong to duoc",
+      "C": "Chi de 1 co",
+      "D": "Dieu chinh cua so Excel: nut thu nho, minimize xuong taskbar, maximize toan man hinh",
+      "cau": "Cach thu nho/phong to cua so Excel?",
+      "dap_an": "D",
+      "giai_thich": "Dung cac nut goc phai tren.",
+      "id": 36
+    },
+    {
+      "A": "Nhap 9/25/2020 duoc hieu la ngay thang; nhap sai dinh dang se thanh Text nam ben trai",
+      "B": "Nhap the nao cung dung",
+      "C": "Khong can quan tam dinh dang",
+      "D": "Tat ca deu la so",
+      "cau": "Dau hieu nhan biet nhap ngay thang dung?",
+      "dap_an": "A",
+      "giai_thich": "Dung thi can phai, sai thanh Text can trai.",
+      "id": 37
+    },
+    {
+      "A": "Tra loi trong comment duoi video",
+      "B": "Khong can tra loi",
+      "C": "Cau hoi bai 1: Save vs Save As giong/khac nhau? Co doi dinh dang nhap ngay thang duoc khong?",
+      "D": "Cau hoi khong quan trong",
+      "cau": "Hai cau hoi bai tap ve nha cua bai 1 la gi?",
+      "dap_an": "C",
+      "giai_thich": "So sanh Save/Save As va doi dinh dang ngay thang.",
+      "id": 38
+    },
+    {
+      "A": "Keo rong cot C de hien du Ho ten Nguyen Van A",
+      "B": "De nguyen cot hep",
+      "C": "Xoa cot ho ten",
+      "D": "Mo rong cot: keo bien hoac double-click giua 2 tieu de cot de hien du noi dung",
+      "cau": "Khi ten Nguyen Van A bi che khuat thi lam gi?",
+      "dap_an": "A",
+      "giai_thich": "Keo rong hoac double-click AutoFit.",
+      "id": 39
+    },
+    {
+      "A": "Nhap lieu xong can luu file de cap nhat du lieu",
+      "B": "Khong can luu",
+      "C": "Nhap xong la xong",
+      "D": "Ket thuc bai: da biet khoi dong, nhap lieu, thao tac sheet/hang/cot, luu/mo/dong/xoa file",
+      "cau": "Tom tat bai 1 da hoc duoc nhung gi?",
+      "dap_an": "D",
+      "giai_thich": "Hoc khoi dong, o, kieu du lieu, sheet, hang cot, luu/mo file.",
+      "id": 40
+    }
+  ],
+  "cong_thuc": [
+    {
+      "cu_phap": "Start > go Excel > Blank workbook",
+      "giai_thich": "Khoi dong Excel va tao file trang moi.",
+      "ten": "Khoi dong va tao file moi",
+      "vi_du": "Nhan Start, go Excel, Enter, chon Blank workbook"
+    },
+    {
+      "cu_phap": "File > Save > chon thu muc > dat ten > Save",
+      "giai_thich": "Dat ten va luu file lan dau.",
+      "ten": "Luu file lan dau",
+      "vi_du": "Luu ra Desktop\\Excel co ban den nang cao\\Bai 1 voi ten Bai so 1 lam quen voi Excel"
+    },
+    {
+      "cu_phap": "Dia chi o = Ten cot + So hang, vi du B2",
+      "giai_thich": "Moi o la giao cua 1 cot (chu cai) va 1 hang (so). Name Box hien dia chi o dang chon.",
+      "ten": "Dia chi o (Cell) va Name Box",
+      "vi_du": "Click o cot B hang 2 thi Name Box hien B2; o cot E hang 7 hien E7"
+    },
+    {
+      "cu_phap": "Text / Date / Number / Formula",
+      "giai_thich": "4 kieu du lieu pho bien: chuoi, ngay thang (mac dinh thang/ngay/nam), so, cong thuc bat dau bang dau =.",
+      "ten": "4 kieu du lieu",
+      "vi_du": "Ho ten: Nguyen Van A; Ngay sinh: 9/25/2020; Diem: 8; Tong: =SUM(B4:D4) = 27"
+    },
+    {
+      "cu_phap": "Nhap xong > Enter / mui ten / click o khac",
+      "giai_thich": "Ket thuc nhap lieu bang Enter de xuong o duoi, mui ten hoac click chuot.",
+      "ten": "Ket thuc nhap lieu",
+      "vi_du": "Go Ho ten xong nhan Enter"
+    },
+    {
+      "cu_phap": "Keo bien cot / double-click giua 2 tieu de cot",
+      "giai_thich": "Mo rong, thu hep hoac AutoFit do rong cot vua khit o dai nhat. Chon nhieu cot roi keo se dan deu.",
+      "ten": "Dieu chinh do rong cot",
+      "vi_du": "Double-click giua C va D de cot Ho ten vua Nguyen Van A"
+    },
+    {
+      "cu_phap": "Chuot phai tieu de cot > Insert / Delete",
+      "giai_thich": "Chen cot moi vao truoc cot dang chon; chon nhieu cot thi chen/xoa nhieu cot. Ctrl+click de chon cot cach nhau.",
+      "ten": "Chen / Xoa cot",
+      "vi_du": "Chuot phai cot F > Insert de chen cot Diem Tieng Anh; chon F:G > Insert de chen 2 cot"
+    },
+    {
+      "cu_phap": "Chuot phai so hang > Insert / Delete",
+      "giai_thich": "Chen hang moi len tren hang dang chon; xoa hang tuong tu. Keo bien hang de doi chieu cao.",
+      "ten": "Chen / Xoa hang va doi chieu cao",
+      "vi_du": "Chuot phai hang 4 > Insert de chen them ban Nguyen Thi B"
+    },
+    {
+      "cu_phap": "Chon hang/cot khi co mui ten 4 huong roi keo; giu Shift+keo de chen",
+      "giai_thich": "Di chuyen hang, cot hoac vung du lieu bang keo-tha. Giu Shift khi keo de chen vao giua thay vi ghi de.",
+      "ten": "Di chuyen va chen bang keo-tha",
+      "vi_du": "Keo hang 2 xuong hang 6; giu Shift keo cot Ngay sinh vao giua C va D"
+    },
+    {
+      "cu_phap": "Nhan dau + / chuot phai tab sheet > Insert > Worksheet",
+      "giai_thich": "Them sheet moi vao file.",
+      "ten": "Them sheet moi",
+      "vi_du": "Nhan dau + canh Sheet1 de co Sheet2, Sheet3"
+    },
+    {
+      "cu_phap": "Double-click ten sheet / chuot phai > Rename > go ten > Enter",
+      "giai_thich": "Doi ten sheet thanh Phong Tai chinh, Phong To chuc...",
+      "ten": "Doi ten sheet",
+      "vi_du": "Doi Sheet1 thanh Phong Tai chinh"
+    },
+    {
+      "cu_phap": "Giu Ctrl + keo tab sheet / chuot phai > Move or Copy > Create a copy",
+      "giai_thich": "Copy sheet hoac di chuyen sheet bang keo tab. Keo tab de sap xep thu tu.",
+      "ten": "Copy, di chuyen, sap xep sheet",
+      "vi_du": "Giu Ctrl keo Phong Tai chinh de tao Phong Tai chinh (2) roi doi thanh Phong Ke hoach"
+    },
+    {
+      "cu_phap": "Chuot phai tab sheet > Delete / Tab Color",
+      "giai_thich": "Xoa sheet; giu Ctrl de chon nhieu sheet roi xoa nhieu. To mau tab de phan biet.",
+      "ten": "Xoa va to mau sheet",
+      "vi_du": "Chuot phai Phong To chuc > Delete; Tab Color do cho Phong Ke hoach"
+    },
+    {
+      "cu_phap": "Chon vung > go ten vao Name Box > Enter",
+      "giai_thich": "Dat ten cho vung du lieu de chon nhanh qua dropdown Name Box.",
+      "ten": "Dat ten vung",
+      "vi_du": "Chon vung du lieu dat ten Phong Tai chinh"
+    },
+    {
+      "cu_phap": "File > Save",
+      "giai_thich": "Cap nhat trang thai gan nhat cua file da co ten.",
+      "ten": "Save",
+      "vi_du": "Sau khi them Phong Ke hoach thi File > Save"
+    },
+    {
+      "cu_phap": "File > Save As > chon noi > dat ten moi > Save",
+      "giai_thich": "Tao file copy moi tu file hien tai, dung khi lam phien ban 2020, 2021.",
+      "ten": "Save As",
+      "vi_du": "Tu file 2020 Save As thanh file 2021"
+    },
+    {
+      "cu_phap": "X / File > Close / Alt+F4; mo bang double-click, Recent, Open > Browse",
+      "giai_thich": "Dong va mo file. Co 3 cach mo: double-click, file gan nhat, Open/Browse.",
+      "ten": "Dong / Mo file",
+      "vi_du": "Nhan X de dong; mo lai tu Recent Bai so 1"
+    },
+    {
+      "cu_phap": "Chuot phai vao file > Delete hoac chon file nhan phim Delete; Recycle Bin > chuot phai file > Restore",
+      "giai_thich": "Xoa file Excel trong Windows; file bi xoa vao thung rac, muon lay lai thi Restore.",
+      "ten": "Xoa va khoi phuc file",
+      "vi_du": "Xoa file 2021 roi vao Recycle Bin > Restore de lay lai"
+    },
+    {
+      "cu_phap": "Nut - thu nho, nut vuong maximize toan man hinh, Minimize xuong taskbar (goc phai tren); Alt+F4 dong nhanh file",
+      "giai_thich": "Dieu chinh cua so Excel de vua lam vua mo thu muc; Alt+F4 dong nhanh file.",
+      "ten": "Thu nho / Phong to cua so Excel",
+      "vi_du": "Nhan nut giua de mo rong Excel toan man hinh"
+    }
+  ],
+  "thuat_toan_quy_trinh": [
+    "Buoc 1: Khoi dong Excel tu Start, chon Blank workbook, File > Save As de dat ten va chon thu muc luu.",
+    "Buoc 2: Hieu o (Cell) la giao cot (chu cai) va hang (so); quan sat Name Box de biet dia chi o.",
+    "Buoc 3: Nhap 4 kieu du lieu: chuoi (Ho ten), ngay thang (thang/ngay/nam), so (diem), cong thuc (bat dau bang =). Ket thuc bang Enter.",
+    "Buoc 4: Dieu chinh do rong cot, chieu cao hang bang keo hoac double-click AutoFit.",
+    "Buoc 5: Chen/xoa cot va hang bang chuot phai > Insert/Delete; di chuyen bang keo khi co 4 mui ten, giu Shift+keo de chen.",
+    "Buoc 6: Them sheet bang dau +, doi ten bang double-click/Rename, copy bang Ctrl+keo, sap xep bang keo tab, xoa bang Delete, to mau bang Tab Color.",
+    "Buoc 7: Dat ten vung qua Name Box de quan ly; File > Save de luu, Save As de tao ban moi, mo lai tu Recent hoac Browse."
+  ],
+  "url": "https://www.youtube.com/watch?v=t-RLqZ-FZuo",
+  "video_id": "t-RLqZ-FZuo"
+}

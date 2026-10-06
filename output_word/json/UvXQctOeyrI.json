@@ -1,0 +1,363 @@
+{
+ "bai": 17,
+ "cau_hoi": [
+  {
+   "A": "Gõ H2O thường rồi Ctrl + = để bật/tắt chỉ số dưới",
+   "B": "Nhấn Ctrl + S",
+   "C": "Nhấn Alt + F4",
+   "D": "Vào File > Print",
+   "cau": "Cách 1 viết chỉ số dưới (H2O) bằng phím tắt là?",
+   "dap_an": "A",
+   "giai_thich": "Gõ H O, Ctrl+= rồi gõ 2, Ctrl+= để về thường.",
+   "id": 1,
+   "muc_do": "de"
+  },
+  {
+   "A": "Ctrl + = (Ctrl cộng dấu bằng)",
+   "B": "Ctrl + S",
+   "C": "Ctrl + A",
+   "D": "Ctrl + P",
+   "cau": "Phím tắt bật/tắt Subscript (chỉ số dưới) là?",
+   "dap_an": "A",
+   "giai_thich": "Ctrl+= bật, nhấn lại để tắt về bình thường.",
+   "id": 2,
+   "muc_do": "de"
+  },
+  {
+   "A": "Nhấp icon X₂ (Subscript) trên Home rồi gõ số",
+   "B": "Nhấn Alt + F4",
+   "C": "Vào File > Options",
+   "D": "Nhấn Ctrl + O",
+   "cau": "Cách 2 viết chỉ số dưới bằng chuột là?",
+   "dap_an": "A",
+   "giai_thich": "Nhấp X₂ để bật, gõ số, nhấp lại để tắt.",
+   "id": 3,
+   "muc_do": "de"
+  },
+  {
+   "A": "Home > Font > X₂",
+   "B": "Insert > Picture",
+   "C": "Layout > Margins",
+   "D": "View > Ruler",
+   "cau": "Icon X₂ nằm ở đâu trên Ribbon?",
+   "dap_an": "A",
+   "giai_thich": "Nhóm Font trong thẻ Home.",
+   "id": 4,
+   "muc_do": "de"
+  },
+  {
+   "A": "Ctrl+D mở Font, tích Subscript, OK",
+   "B": "Nhấn Ctrl + S",
+   "C": "Nhấn Alt + F4",
+   "D": "Vào File > Print",
+   "cau": "Cách 3 viết chỉ số dưới bằng hộp thoại Font là?",
+   "dap_an": "A",
+   "giai_thich": "Ctrl+D mở Font, tích Subscript, OK; xong bỏ tích để về thường.",
+   "id": 5,
+   "muc_do": "de"
+  },
+  {
+   "A": "Ctrl + D",
+   "B": "Ctrl + S",
+   "C": "Ctrl + A",
+   "D": "Ctrl + O",
+   "cau": "Phím tắt mở hộp thoại Font là?",
+   "dap_an": "A",
+   "giai_thich": "Ctrl+D mở hộp Font.",
+   "id": 6,
+   "muc_do": "de"
+  },
+  {
+   "A": "Subscript",
+   "B": "Superscript",
+   "C": "Strikethrough",
+   "D": "Small Caps",
+   "cau": "Tùy chọn chỉ số dưới trong hộp Font tên là?",
+   "dap_an": "A",
+   "giai_thich": "Tích Subscript để viết chỉ số dưới.",
+   "id": 7,
+   "muc_do": "de"
+  },
+  {
+   "A": "H₂O (số 2 nhỏ nằm dưới)",
+   "B": "H2O to bằng nhau",
+   "C": "H²O",
+   "D": "HO2",
+   "cau": "Kết quả đúng của công thức nước với chỉ số dưới là?",
+   "dap_an": "A",
+   "giai_thich": "Số 2 nhỏ, thấp xuống dưới chân chữ H.",
+   "id": 8,
+   "muc_do": "de"
+  },
+  {
+   "A": "CO₂, H₂SO₄",
+   "B": "CO2, H2SO4 thường",
+   "C": "CO², H²SO⁴",
+   "D": "C O 2 rời rạc",
+   "cau": "Ví dụ công thức hóa học cần chỉ số dưới là?",
+   "dap_an": "A",
+   "giai_thich": "Số trong công thức hóa học viết dưới chân.",
+   "id": 9,
+   "muc_do": "de"
+  },
+  {
+   "A": "Cách 1 và 2 nhanh, đơn giản; cách 3 phức tạp hơn",
+   "B": "Cách 3 nhanh nhất",
+   "C": "Cả 3 như nhau",
+   "D": "Không cách nào nhanh",
+   "cau": "Đánh giá 3 cách trong video là?",
+   "dap_an": "A",
+   "giai_thich": "Nên dùng cách 1 (phím) hoặc 2 (X₂); cách 3 demo thêm.",
+   "id": 10,
+   "muc_do": "de"
+  },
+  {
+   "A": "Gõ nội dung thường trước (H O) rồi mới bật Subscript gõ số",
+   "B": "Bật Subscript từ đầu",
+   "C": "Không cần gõ thường",
+   "D": "Gõ số trước chữ sau",
+   "cau": "Thứ tự gõ H2O đúng là?",
+   "dap_an": "A",
+   "giai_thich": "Gõ H O thường, bật Subscript, gõ 2.",
+   "id": 11,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Nhấn lại Ctrl+= để tắt, gõ tiếp bình thường",
+   "B": "Nhấn Enter",
+   "C": "Tắt Word",
+   "D": "Khởi động lại",
+   "cau": "Sau khi gõ số 2 dưới chân, làm gì để gõ tiếp thường?",
+   "dap_an": "A",
+   "giai_thich": "Nhấn lại Ctrl+= để tắt Subscript.",
+   "id": 12,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Nhấp lại X₂ để tắt",
+   "B": "Nhấn Alt + F4",
+   "C": "Tắt máy",
+   "D": "Xóa bài",
+   "cau": "Sau khi gõ chỉ số bằng icon X₂, làm gì để về thường?",
+   "dap_an": "A",
+   "giai_thich": "Nhấp lại X₂ để tắt chế độ dưới chân.",
+   "id": 13,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Bỏ tích Subscript rồi OK",
+   "B": "Tích thêm Superscript",
+   "C": "Nhấn Cancel",
+   "D": "Tắt máy",
+   "cau": "Trong hộp Font, muốn về gõ thường thì?",
+   "dap_an": "A",
+   "giai_thich": "Ctrl+D, bỏ tích Subscript, OK.",
+   "id": 14,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Dấu nháy thu nhỏ, tụt xuống dưới là đang ở Subscript",
+   "B": "Dấu nháy to ra",
+   "C": "Dấu nháy biến mất",
+   "D": "Không thấy gì",
+   "cau": "Dấu hiệu đang ở chế độ chỉ số dưới là?",
+   "dap_an": "A",
+   "giai_thich": "Con trỏ nhỏ lại, nằm thấp xuống chân dòng.",
+   "id": 15,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Ctrl+Shift+F cũng mở Font (tùy bản)",
+   "B": "Không có phím nào khác",
+   "C": "Chỉ có Ctrl+D",
+   "D": "Phải vào File",
+   "cau": "Ngoài Ctrl+D, còn phím nào mở hộp Font?",
+   "dap_an": "A",
+   "giai_thich": "Ctrl+Shift+F cũng mở Font trên nhiều bản.",
+   "id": 16,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "X₂ là dưới chân; X² là trên đầu (mũ)",
+   "B": "Hai icon giống nhau",
+   "C": "X₂ là mũ",
+   "D": "X² là dưới chân",
+   "cau": "Phân biệt icon X₂ và X² là?",
+   "dap_an": "A",
+   "giai_thich": "X₂ Subscript dưới; X² Superscript mũ trên.",
+   "id": 17,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Bôi đen số rồi mới nhấp X₂/Ctrl+= cũng được",
+   "B": "Bắt buộc gõ mới",
+   "C": "Không bôi được",
+   "D": "Phải xóa gõ lại",
+   "cau": "Đã gõ H2O thường, muốn hạ số 2 xuống thì?",
+   "dap_an": "A",
+   "giai_thich": "Bôi số 2 rồi nhấn Ctrl+= hoặc X₂.",
+   "id": 18,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Hóa học (H2O, CO2), toán (a1, a2)",
+   "B": "Chỉ dùng cho tiêu đề",
+   "C": "Chỉ dùng cho ảnh",
+   "D": "Không dùng bao giờ",
+   "cau": "Chỉ số dưới thường dùng cho loại nội dung nào?",
+   "dap_an": "A",
+   "giai_thich": "Công thức hóa học, chỉ số dãy số...",
+   "id": 19,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Gõ O₂ rồi tắt Subscript mới gõ tiếp, tránh cả cụm bị tụt",
+   "B": "Cứ gõ liên tục",
+   "C": "Không cần tắt",
+   "D": "Tắt Word",
+   "cau": "Lỗi hay gặp là quên tắt Subscript thì?",
+   "dap_an": "A",
+   "giai_thich": "Chữ sau cũng bị tụt xuống; phải tắt ngay sau số.",
+   "id": 20,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Chọn đúng Subscript, không nhầm Superscript",
+   "B": "Chọn bừa",
+   "C": "Tích cả hai",
+   "D": "Không tích gì",
+   "cau": "Lưu ý trong hộp Font khi viết H2O là?",
+   "dap_an": "A",
+   "giai_thich": "Tích Subscript; Superscript là số mũ trên đầu.",
+   "id": 21,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Ctrl+= bật/tắt nhanh, hợp gõ liên tục",
+   "B": "Hộp Font nhanh hơn",
+   "C": "Icon X₂ chậm nhất",
+   "D": "Không có khác biệt",
+   "cau": "Vì sao cách phím tắt hợp gõ công thức dài?",
+   "dap_an": "A",
+   "giai_thich": "Tay không rời bàn phím, bật/tắt liên tục nhanh.",
+   "id": 22,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Ctrl + Shift + = là số mũ trên (Superscript)",
+   "B": "Ctrl + = là số mũ",
+   "C": "Hai phím giống nhau",
+   "D": "Không có phím mũ",
+   "cau": "Phân biệt Ctrl+= và Ctrl+Shift+= là?",
+   "dap_an": "A",
+   "giai_thich": "Ctrl+= dưới chân; Ctrl+Shift+= mũ trên.",
+   "id": 23,
+   "muc_do": "kho"
+  },
+  {
+   "A": "a₁, a₂ dùng Subscript; a² dùng Superscript",
+   "B": "Cả hai dùng chung",
+   "C": "Không phân biệt",
+   "D": "Đều là mũ",
+   "cau": "Trong toán, a1 (dãy số) và a² (bình phương) khác nhau?",
+   "dap_an": "A",
+   "giai_thich": "Dãy số dùng dưới chân; lũy thừa dùng mũ trên.",
+   "id": 24,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Bôi số 2 rồi Ctrl+= lần nữa để nhả về thường",
+   "B": "Xóa gõ lại",
+   "C": "Không sửa được",
+   "D": "Tạo file mới",
+   "cau": "Đã hạ nhầm số thành chỉ số dưới, muốn nhả lên thì?",
+   "dap_an": "A",
+   "giai_thich": "Bôi số đó rồi nhấn lại Ctrl+= / bỏ X₂.",
+   "id": 25,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Equation (Insert > Equation) cho công thức phức tạp",
+   "B": "Subscript đủ cho mọi công thức",
+   "C": "Không cần Equation",
+   "D": "Equation chỉ để trang trí",
+   "cau": "Khi công thức quá phức tạp (phân số, tích phân) thì?",
+   "dap_an": "A",
+   "giai_thich": "Dùng Insert > Equation thay vì Subscript thủ công.",
+   "id": 26,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Subscript chỉ hạ thấp + thu nhỏ; không phải công thức toán chuẩn",
+   "B": "Subscript là công thức chuẩn",
+   "C": "Subscript tự căn phân số",
+   "D": "Subscript tự đánh số",
+   "cau": "Giới hạn của Subscript thủ công là?",
+   "dap_an": "A",
+   "giai_thich": "Chỉ trình bày visual, không có ngữ nghĩa toán.",
+   "id": 27,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Sao chép H₂O giữ nguyên định dạng Subscript",
+   "B": "Mất định dạng",
+   "C": "Thành ảnh",
+   "D": "Thành file khác",
+   "cau": "Copy công thức có chỉ số dưới sang chỗ khác thì?",
+   "dap_an": "A",
+   "giai_thich": "Định dạng Subscript đi theo khi copy/paste.",
+   "id": 28,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Font chữ khác nhau vẫn giữ vị trí dưới chân, chỉ khác kiểu",
+   "B": "Đổi font mất Subscript",
+   "C": "Đổi font thành mũ",
+   "D": "Không đổi font được",
+   "cau": "Đổi font sau khi viết chỉ số dưới thì?",
+   "dap_an": "A",
+   "giai_thich": "Subscript là thuộc tính ký tự, giữ khi đổi font.",
+   "id": 29,
+   "muc_do": "kho"
+  },
+  {
+   "A": "3 cách: phím, icon, hộp Font; nên dùng 1 trong 2 cách đầu",
+   "B": "Chỉ có 1 cách",
+   "C": "Có 5 cách",
+   "D": "Không có cách nào",
+   "cau": "Tóm tắt bài học chỉ số dưới là?",
+   "dap_an": "A",
+   "giai_thich": "Phím Ctrl+=, icon X₂, hộp Font Subscript.",
+   "id": 30,
+   "muc_do": "kho"
+  }
+ ],
+ "ky_nang": [
+  {
+   "duong_dan_menu": "Không có (bàn phím)",
+   "giai_thich": "Nhanh nhất khi gõ công thức; nhấn lại để tắt.",
+   "phim_tat": "Ctrl + = (bật/tắt)",
+   "ten": "Chỉ số dưới bằng phím tắt",
+   "thao_tac": "Gõ H O thường, nhấn Ctrl+=, gõ 2, nhấn lại Ctrl+= để về thường.",
+   "vi_du": "Gõ H2O thành H₂O."
+  },
+  {
+   "duong_dan_menu": "Home > Font > X₂ (Subscript)",
+   "giai_thich": "Trực quan bằng chuột; nhấp lại để tắt.",
+   "phim_tat": "Không có",
+   "ten": "Chỉ số dưới bằng icon X₂",
+   "thao_tac": "Gõ nội dung thường, nhấp X₂, gõ chỉ số, nhấp lại X₂ để về thường.",
+   "vi_du": "Nhấp X₂ rồi gõ 2 trong H2O."
+  },
+  {
+   "duong_dan_menu": "Home > Font Dialog > Font > Subscript (Ctrl+D)",
+   "giai_thich": "Phức tạp hơn, demo để biết; nhớ bỏ tích để về thường.",
+   "phim_tat": "Ctrl + D",
+   "ten": "Chỉ số dưới bằng hộp Font",
+   "thao_tac": "Gõ thường, Ctrl+D, tích Subscript, OK, gõ số; xong Ctrl+D bỏ tích, OK.",
+   "vi_du": "Tích Subscript để gõ 2 trong H₂SO₄."
+  }
+ ],
+ "url": "https://www.youtube.com/watch?v=UvXQctOeyrI",
+ "video_id": "UvXQctOeyrI"
+}

@@ -1,0 +1,253 @@
+[00:02] Xin chào mừng bạn quay trở lại kênh tin học Đỗ Bảo Nam vào lúc video ngày hôm
+[00:05] học Đỗ Bảo Nam vào lúc video ngày hôm nay đô Bảo Nam Block sẽ chia sẻ với bạn
+[00:07] nay đô Bảo Nam Block sẽ chia sẻ với bạn một số thao tác cơ bản thương dung trong
+[00:10] một số thao tác cơ bản thương dung trong Word
+[00:11] Word khuyên và nút mình đăng dung chính là út
+[00:14] khuyên và nút mình đăng dung chính là út 2021 phiên bản này có giao diện giống
+[00:17] 2021 phiên bản này có giao diện giống hai với bản Microsoft 365 ở thời điểm
+[00:20] hai với bản Microsoft 365 ở thời điểm hiện tại
+[00:20] hiện tại và so với các phiên bản cũ hơn như 2019
+[00:25] và so với các phiên bản cũ hơn như 2019 2016 2013 thì word 2021 Nhìn hơi khác
+[00:31] 2016 2013 thì word 2021 Nhìn hơi khác một chút so với các phiên bản kia
+[00:34] một chút so với các phiên bản kia Tuy nhiên các thao tác cơ bản chốt thi ở
+[00:38] Tuy nhiên các thao tác cơ bản chốt thi ở các phiên bản Word khác nhau đều tương
+[00:41] các phiên bản Word khác nhau đều tương tự nhau
+[00:42] tự nhau và ngay bây giờ mình sẽ đi vào một số
+[00:45] và ngay bây giờ mình sẽ đi vào một số thao tác cơ bản thường dùng trong Word
+[00:49] thao tác cơ bản thường dùng trong Word hao tác thứ nhất chính là nhóm thao tác
+[00:52] hao tác thứ nhất chính là nhóm thao tác đóng mở và lưu file which Ví dụ như
+[00:55] đóng mở và lưu file which Ví dụ như Facebook mà bạn đang nhìn thấy trên màn
+[00:58] Facebook mà bạn đang nhìn thấy trên màn hình
+[01:00] hình ở đây đóng vai út bạn đưa chuột vào dấu
+[01:03] ở đây đóng vai út bạn đưa chuột vào dấu ích ở góc trên cùng bên phải Và bạn chỉ
+[01:07] ích ở góc trên cùng bên phải Và bạn chỉ cần nhấp Chú sáng vào đây để đóng vai
+[01:09] cần nhấp Chú sáng vào đây để đóng vai một
+[01:09] một hoặc Mạnh có thể khiến tàu phím tắt đó
+[01:12] hoặc Mạnh có thể khiến tàu phím tắt đó làm phim am + F4 trên bàn phím
+[01:15] làm phim am + F4 trên bàn phím như vậy mình đã đóng Facebook vừa thôi
+[01:19] như vậy mình đã đóng Facebook vừa thôi tiếp theo mình sẽ chia sẻ xanh thao tác
+[01:22] tiếp theo mình sẽ chia sẻ xanh thao tác đó là mở một file mới
+[01:24] đó là mở một file mới ví dụ nếu bạn đang ở ngoài desktop bạn
+[01:28] ví dụ nếu bạn đang ở ngoài desktop bạn có thể click đúp vào vai ai cần Vuốt để
+[01:30] có thể click đúp vào vai ai cần Vuốt để mở file which
+[01:32] mở file which xóm bạn chọn đó anh chắc coment để mở
+[01:36] xóm bạn chọn đó anh chắc coment để mở một phút mới không có nội dung như vậy
+[01:39] một phút mới không có nội dung như vậy mình là tạo một tay ôm mới
+[01:41] mình là tạo một tay ôm mới và để tắt cái bút Này nếu như bạn không
+[01:44] và để tắt cái bút Này nếu như bạn không lưu và chỉ cần kích vào cái giúp ích
+[01:47] lưu và chỉ cần kích vào cái giúp ích Hoặc bạn có lời đau buốt từ menu start
+[01:52] Hoặc bạn có lời đau buốt từ menu start bằng cách clip cháy vào cái step
+[01:55] bằng cách clip cháy vào cái step sao cho icloud ở menu that I em và bạn
+[02:01] sao cho icloud ở menu that I em và bạn vẫn chọn cho anh cái của mình để tạo một
+[02:03] vẫn chọn cho anh cái của mình để tạo một Facebook trắng
+[02:05] Facebook trắng da sẽ bây giờ mình sẽ gọi nhanh một vài
+[02:07] da sẽ bây giờ mình sẽ gọi nhanh một vài nội dung Chào mừng bạn
+[02:09] nội dung Chào mừng bạn [âm nhạc]
+[02:21] mà bây giờ mình sẽ thực hiện theo khác Hương thấy hốt này cách nhanh nhất bạn
+[02:23] Hương thấy hốt này cách nhanh nhất bạn hãy dùng phím tắt đó lại bạn dùng tổ hợp
+[02:26] hãy dùng phím tắt đó lại bạn dùng tổ hợp phím là control + s Trên bàn phím
+[02:29] phím là control + s Trên bàn phím sau đó bạn chọn thư mục profile
+[02:32] sau đó bạn chọn thư mục profile ví dụ đây mình sẽ được ra desktop
+[02:36] ví dụ đây mình sẽ được ra desktop và bạn đặt tên file Ví dụ như chào mừng
+[02:45] và bạn nhấp vào xếp để lưu Facebook này như vậy là xong
+[02:47] như vậy là xong ngoài cách này bạn cũng có thể kích hoạt
+[02:50] ngoài cách này bạn cũng có thể kích hoạt file trên menu
+[02:52] file trên menu sau đó chọn xếp
+[02:54] sau đó chọn xếp Hoặc bạn có thể nhấp vào sếp em để lưu
+[02:57] Hoặc bạn có thể nhấp vào sếp em để lưu thành một pháp khác à Ừ thôi Bây giờ
+[03:00] thành một pháp khác à Ừ thôi Bây giờ mình sẽ quay trở lại
+[03:03] mình sẽ quay trở lại Ngoài ra để mở một forward đã có ở trong
+[03:07] Ngoài ra để mở một forward đã có ở trong máy tính thì bạn có thể nhấn tổ phím đó
+[03:09] máy tính thì bạn có thể nhấn tổ phím đó là catalo
+[03:11] là catalo và bạn tin đến Facebook mà bạn thân Mở
+[03:14] và bạn tin đến Facebook mà bạn thân Mở ví dụ số 4 này
+[03:17] ví dụ số 4 này các thao tác thường dùng trong Word và
+[03:20] các thao tác thường dùng trong Word và như vậy Vừa rồi mình đã chia sẻ xong các
+[03:22] như vậy Vừa rồi mình đã chia sẻ xong các thao tác
+[03:26] đóng mà vào facebook
+[03:35] Tiếp theo mình sẽ sang nhóm thao tác thứ hai đó là thao tác bố đen hay còn gọi là
+[03:38] hai đó là thao tác bố đen hay còn gọi là chọn văn bản
+[03:46] ví dụ bây giờ mình sẽ gọi nhanh một vài nội dung
+[03:46] nội dung [âm nhạc]
+[03:53] [âm nhạc] Ví dụ như thế này mà mình biết một đoạn
+[03:56] Ví dụ như thế này mà mình biết một đoạn nữa vào đây
+[04:03] khi bôi đen một loại nào đó khi bạn chỉ cần đưa chuột vào cái điểm đầu cần mô
+[04:06] cần đưa chuột vào cái điểm đầu cần mô đen ví dụ bây giờ mình Bôi đen Cái dòng
+[04:08] đen ví dụ bây giờ mình Bôi đen Cái dòng chữ là đỗ vào Nam blog thì mạnh đưa
+[04:12] chữ là đỗ vào Nam blog thì mạnh đưa chuột vào điểm đầu cần mô đen sau đó
+[04:14] chuột vào điểm đầu cần mô đen sau đó click và giữ chuột trái di chuyển đến
+[04:17] click và giữ chuột trái di chuyển đến điểm cuối đó là điều này như vậy là bạn
+[04:20] điểm cuối đó là điều này như vậy là bạn đã bôi đen xong
+[04:22] đã bôi đen xong trong trường hợp bạn muốn Bôi đen nhiều
+[04:24] trong trường hợp bạn muốn Bôi đen nhiều nội dung hơn thì bạn có thể thực hiện
+[04:26] nội dung hơn thì bạn có thể thực hiện tương tự ví dụ mình Bôi đen cả một cái
+[04:28] tương tự ví dụ mình Bôi đen cả một cái câu này
+[04:30] câu này ngoài ra mình có một cách khác để bạn
+[04:32] ngoài ra mình có một cách khác để bạn mua đen nhanh hơn ví dụ bây giờ mình
+[04:35] mua đen nhanh hơn ví dụ bây giờ mình muốn mua đem toàn bộ cái đoạn này thì
+[04:37] muốn mua đem toàn bộ cái đoạn này thì bạn chỉ cần đưa chuột vào cái điểm đầu
+[04:40] bạn chỉ cần đưa chuột vào cái điểm đầu của đoạn cần mô đen
+[04:43] của đoạn cần mô đen sau đó bạn Nhấn và giữ phím ship
+[04:46] sau đó bạn Nhấn và giữ phím ship Kích và điểm cuối của các bạn cần mô đen
+[04:49] Kích và điểm cuối của các bạn cần mô đen như vậy bạn đã bôi đen một đoạn có độ
+[04:52] như vậy bạn đã bôi đen một đoạn có độ giác bất kỳ theo ý muốn
+[04:55] giác bất kỳ theo ý muốn tiếp theo mình sẽ sang nhóm thao tác thứ
+[04:58] tiếp theo mình sẽ sang nhóm thao tác thứ ba đó là cá Vì sao chép cắt dán hoặc xóa
+[05:02] ba đó là cá Vì sao chép cắt dán hoặc xóa văn bản
+[05:14] ví dụ bây giờ mình muốn sao chép đoạn văn bản này và dán xuống cái đoạn cuối
+[05:17] văn bản này và dán xuống cái đoạn cuối cùng thì đầu tiên bạn chỉ cần bôi đen
+[05:20] cùng thì đầu tiên bạn chỉ cần bôi đen cái phần nội dung cần sao chép
+[05:23] cái phần nội dung cần sao chép sau đó bạn có thể biến to phím là
+[05:26] sau đó bạn có thể biến to phím là control C trên bàn phím
+[05:29] control C trên bàn phím Hoặc bạn có thể tới chân phải
+[05:32] Hoặc bạn có thể tới chân phải chạm copy Tuy nhiên bạn nên dùng phím
+[05:35] chạm copy Tuy nhiên bạn nên dùng phím tắt cho nhanh
+[05:36] tắt cho nhanh để sao chép bạn nhấn tổ hợp phím Control
+[05:39] để sao chép bạn nhấn tổ hợp phím Control C
+[05:40] C sau khi đã sao chép xong bạn đưa con trỏ
+[05:44] sau khi đã sao chép xong bạn đưa con trỏ chuột vào vị trí cần dán Ví dụ mình muốn
+[05:47] chuột vào vị trí cần dán Ví dụ mình muốn dán vào vị trí này
+[05:49] dán vào vị trí này và bạn nhấn cho phím Control V để dán
+[05:53] và bạn nhấn cho phím Control V để dán văn bản vừa sao chép
+[05:54] văn bản vừa sao chép như vậy mình đã thực hiện xong thao tác
+[05:57] như vậy mình đã thực hiện xong thao tác sao chép và dán vàng cho sẽ cắt toàn văn
+[06:01] sao chép và dán vàng cho sẽ cắt toàn văn bản nào đó ví dụ đoạn văn bản này thì
+[06:04] bản nào đó ví dụ đoạn văn bản này thì đầu tiên bạn vẫn bôi lên đó
+[06:07] đầu tiên bạn vẫn bôi lên đó sau đó bạn nhấn tổ hợp phím can thận ích
+[06:11] sau đó bạn nhấn tổ hợp phím can thận ích và bạn có thể dán vào bất kỳ vị trí nào
+[06:13] và bạn có thể dán vào bất kỳ vị trí nào Ví dụ như vị trí trên đầu tiên thời hạn
+[06:16] Ví dụ như vị trí trên đầu tiên thời hạn thì bạn cần đưa con trỏ chuột vào đúng
+[06:19] thì bạn cần đưa con trỏ chuột vào đúng cái vị trí mà bạn cần dán sau đó bạn
+[06:22] cái vị trí mà bạn cần dán sau đó bạn nghiến conton V để dán văn bản mà bạn
+[06:25] nghiến conton V để dán văn bản mà bạn vừa cắt tương tự để xóa một đoạn văn bản
+[06:28] vừa cắt tương tự để xóa một đoạn văn bản nào đón thì bạn chỉ cần bôi đen văn bản
+[06:31] nào đón thì bạn chỉ cần bôi đen văn bản cần xóa
+[06:32] cần xóa sau đó bạn chỉ cần nhấn phím delete trên
+[06:35] sau đó bạn chỉ cần nhấn phím delete trên bàn phím để xóa văn bản
+[06:37] bàn phím để xóa văn bản như vậy là xong
+[06:45] Tiếp theo mình sẽ sang nhóm thao tác thứ tư đó là nhóm thao tác radio và undo hay
+[06:49] tư đó là nhóm thao tác radio và undo hay nói cách khác đó là khôi phục thao tác
+[06:51] nói cách khác đó là khôi phục thao tác vừa thực hiện hiện lại các thao tác mà
+[06:53] vừa thực hiện hiện lại các thao tác mà bạn đã lưu ý
+[07:01] cho [âm nhạc]
+[07:14] ví dụ bây giờ mình sẽ copy cái dòng đỗ vào Nam vào lúc này nên phía trên này
+[07:16] vào Nam vào lúc này nên phía trên này mình copy được nghe giọng đi
+[07:19] mình copy được nghe giọng đi bây giờ để khôi phục thao tác Bạn vừa
+[07:22] bây giờ để khôi phục thao tác Bạn vừa hiện có nghĩa là cứ thắc mình vừa dán
+[07:27] hiện có nghĩa là cứ thắc mình vừa dán Cái dòng chữ đâu vào năm mà lúc đầu tiên
+[07:29] Cái dòng chữ đâu vào năm mà lúc đầu tiên này thì bạn chỉ cần nhấn tổ hợp phím
+[07:32] này thì bạn chỉ cần nhấn tổ hợp phím Control Z
+[07:33] Control Z như vậy dòng chữ thứ hai của mình đã
+[07:35] như vậy dòng chữ thứ hai của mình đã không còn
+[07:36] không còn và đẩy khôi phục lại cho tóc rồi bạn
+[07:39] và đẩy khôi phục lại cho tóc rồi bạn nhấn cháu phím Control y như vậy dòng
+[07:43] nhấn cháu phím Control y như vậy dòng chữ đôi 35 ốc lại hiện ra
+[07:44] chữ đôi 35 ốc lại hiện ra tiếp theo mình sẽ sang nhóm thao tác thứ
+[07:48] tiếp theo mình sẽ sang nhóm thao tác thứ 5
+[07:48] 5 các thao tác định dạng văn bản
+[08:00] ví dụ trong đoạn văn bản này ạ Bây giờ mình sẽ định dạng để cho cái chữ căn đều
+[08:04] mình sẽ định dạng để cho cái chữ căn đều sang hai bên thì đầu tiên bạn cần phải
+[08:07] sang hai bên thì đầu tiên bạn cần phải modem văn bản cần đình ra
+[08:09] modem văn bản cần đình ra sau đó trong tab home
+[08:11] sau đó trong tab home mạnh Click vào cái icon đó là thân đều
+[08:15] mạnh Click vào cái icon đó là thân đều sang hai bên Hoặc bạn có thể nhấn tàu
+[08:18] sang hai bên Hoặc bạn có thể nhấn tàu phím là controls
+[08:20] phím là controls nếu bạn muốn căn sang phải bạn Click vào
+[08:23] nếu bạn muốn căn sang phải bạn Click vào icon camera phải
+[08:25] icon camera phải hoặc ăn trái hoặc căn giữa và bây giờ
+[08:29] hoặc ăn trái hoặc căn giữa và bây giờ mình sẽ căn 2 bên
+[08:32] mình sẽ căn 2 bên Nếu bạn muốn thay đổi kiểu chữ thì trong
+[08:36] Nếu bạn muốn thay đổi kiểu chữ thì trong tôi bác Phong này vạn chọn 10 chữ phù
+[08:39] tôi bác Phong này vạn chọn 10 chữ phù hợp Ví dụ ở đây mình sẽ chọn kiểu phông
+[08:42] hợp Ví dụ ở đây mình sẽ chọn kiểu phông chữ
+[08:43] chữ ví dụ kiểu phông chữ này đi
+[08:47] ví dụ kiểu phông chữ này đi đã tử cung chứ Mẫu giáo đi như thế này
+[08:49] đã tử cung chứ Mẫu giáo đi như thế này đi
+[08:51] đi trong trường hợp bạn muốn tăng kích
+[08:53] trong trường hợp bạn muốn tăng kích thước của chữ thi ở trong cái phần cưa
+[08:56] thước của chữ thi ở trong cái phần cưa chữ này tôi là không sai Bạn phải chọn
+[08:59] chữ này tôi là không sai Bạn phải chọn cơ chế phuộc ở kênh 14
+[09:02] cơ chế phuộc ở kênh 14 Hoặc bạn có thể kích vào cái chữ an toàn
+[09:05] Hoặc bạn có thể kích vào cái chữ an toàn này để tăng kích thước chứ
+[09:08] này để tăng kích thước chứ Hai có thích và chữa nhỏ này để giảm
+[09:10] Hai có thích và chữa nhỏ này để giảm kích cho chứ
+[09:12] kích cho chứ nếu bạn muốn viết chữ in đậm bạn dịch
+[09:15] nếu bạn muốn viết chữ in đậm bạn dịch vào cái chữ B hoặc nhấn tổ hợp phím game
+[09:18] vào cái chữ B hoặc nhấn tổ hợp phím game Zombie
+[09:19] Zombie Nếu bạn muốn viết chữ in nghiêng bạn
+[09:22] Nếu bạn muốn viết chữ in nghiêng bạn thích vào cái chữ này hoặc nhấn tổ hợp
+[09:25] thích vào cái chữ này hoặc nhấn tổ hợp phím Control đi ngắn
+[09:27] phím Control đi ngắn Nếu bạn muốn viết chữ gạch chân thì bạn
+[09:30] Nếu bạn muốn viết chữ gạch chân thì bạn kích vào cái chữ này Hoặc bạn có thể
+[09:34] kích vào cái chữ này Hoặc bạn có thể nhấn tàu phím là Kangaroo Ví dụ ở đây
+[09:37] nhấn tàu phím là Kangaroo Ví dụ ở đây mình sẽ này như thế này
+[09:39] mình sẽ này như thế này như vậy Vừa rồi mình vừa thực hiện nhanh
+[09:42] như vậy Vừa rồi mình vừa thực hiện nhanh một số thao tác căn chỉnh văn bản
+[09:44] một số thao tác căn chỉnh văn bản tiếp theo mình sẽ chuyển sang teves 6 đó
+[09:49] tiếp theo mình sẽ chuyển sang teves 6 đó là trên ảnh Word
+[09:56] gian hàng nó vuốt là một cái công việc khá thường gặp khi soạn thảo văn bản ra
+[09:59] khá thường gặp khi soạn thảo văn bản ra để trên ảnh thì các anh như sau đầu tiên
+[10:02] để trên ảnh thì các anh như sau đầu tiên bạn chọn vị trí Cần chèn thì bạn cần đưa
+[10:06] bạn chọn vị trí Cần chèn thì bạn cần đưa dấu ngay chuột vào đúng với chính cần
+[10:07] dấu ngay chuột vào đúng với chính cần trên ảnh
+[10:08] trên ảnh sau đó bạn vào Insert trên menu
+[10:12] sau đó bạn vào Insert trên menu chọn picture
+[10:14] chọn picture Ford Transit device
+[10:16] Ford Transit device đối với một số cái phiên bản Word cũ thì
+[10:20] đối với một số cái phiên bản Word cũ thì bạn chỉ cần chọn picture là được tuy
+[10:22] bạn chỉ cần chọn picture là được tuy nhiên lên mình đang dùng bút 2021 do lại
+[10:25] nhiên lên mình đang dùng bút 2021 do lại bạn cần trọng giữ device để tìm đến hình
+[10:28] bạn cần trọng giữ device để tìm đến hình ảnh trong máy tính
+[10:29] ảnh trong máy tính và mạng tìm đến thư mục chứa ảnh
+[10:32] và mạng tìm đến thư mục chứa ảnh ví dụ thư mục này
+[10:42] sau đó bạn chụp ảnh cơn sen và Click vào Insert
+[10:42] Insert như vậy ảnh đã được chèn vào Facebook ở
+[10:47] như vậy ảnh đã được chèn vào Facebook ở các video tiếp theo đâu bảo nằm với Đức
+[10:49] các video tiếp theo đâu bảo nằm với Đức sẽ chia sẻ chi tiết hơn về các thao tác
+[10:52] sẽ chia sẻ chi tiết hơn về các thao tác trên ảnh cũng như là một số thiết lập
+[10:54] trên ảnh cũng như là một số thiết lập cho ảnh khi chèn vào văn bản bây giờ giả
+[10:57] cho ảnh khi chèn vào văn bản bây giờ giả sử của mình sẽ chỉnh cho cái hình ảnh
+[10:59] sử của mình sẽ chỉnh cho cái hình ảnh nhỏ a
+[11:06] tiếp theo mình sẽ sang một nhóm thao tác nữa nó thật trên bảng word
+[11:16] Ví dụ mình sẽ chèn vào vị trí này thì đầu tiên bạn vẫn đưa cái dấu nháy
+[11:19] thì đầu tiên bạn vẫn đưa cái dấu nháy chuột vào vị trí Cần xem
+[11:21] chuột vào vị trí Cần xem sau đó bạn vào Insert trên menu
+[11:25] sau đó bạn vào Insert trên menu chọn thấy bồ
+[11:27] chọn thấy bồ hoa văn vẽ đúng số dòng cũng như số cột
+[11:31] hoa văn vẽ đúng số dòng cũng như số cột bạn cần chèn ví dụ bây giờ mình sẽ chèm
+[11:34] bạn cần chèn ví dụ bây giờ mình sẽ chèm 4 cụt 3 dòng như thế này
+[11:37] 4 cụt 3 dòng như thế này và mình có thể nhập cái thông tin vào
+[11:41] và mình có thể nhập cái thông tin vào đây
+[11:42] đây để chuyển nhanh giữa các cô thì bạn có
+[11:44] để chuyển nhanh giữa các cô thì bạn có thể nhấn phím pháp
+[11:56] và để điều chỉnh kích thước của các cô này cũng như các dòng thì bạn đưa con
+[11:58] này cũng như các dòng thì bạn đưa con chuột vào
+[12:00] chuột vào những đường kẻ này
+[12:01] những đường kẻ này khi con ruột chuyển sang hình mũi tên
+[12:03] khi con ruột chuyển sang hình mũi tên như bạn nhìn thấy trên màn hình thì bạn
+[12:06] như bạn nhìn thấy trên màn hình thì bạn kéo để điều chỉnh kích thước
+[12:15] ví dụ trong trường hợp bạn có 3 dòng nhưng bạn muốn thêm dữ liệu khác thì bạn
+[12:18] nhưng bạn muốn thêm dữ liệu khác thì bạn chỉ cần đưa chuột vào cái ô cuối cùng và
+[12:21] chỉ cần đưa chuột vào cái ô cuối cùng và bạn hiến pháp thì nó sẽ tự sinh ra một
+[12:24] bạn hiến pháp thì nó sẽ tự sinh ra một dòng mới
+[12:25] dòng mới và trong quá trình soạn thảo văn bản bạn
+[12:29] và trong quá trình soạn thảo văn bản bạn nhớ nhấn cho phím Control s thường xuyên
+[12:31] nhớ nhấn cho phím Control s thường xuyên để lưu lại các thao tác mà bạn đã tự
+[12:33] để lưu lại các thao tác mà bạn đã tự nhiên
+[12:34] nhiên và như vậy Vừa rồi đâu bạn nam và đức đã
+[12:37] và như vậy Vừa rồi đâu bạn nam và đức đã chia sẻ nhanh với bạn một số thao tác cơ
+[12:39] chia sẻ nhanh với bạn một số thao tác cơ bản thường dùng trong Word
+[12:41] bản thường dùng trong Word ở các video tiếp theo Đỗ Bảo Nam vào lúc
+[12:44] ở các video tiếp theo Đỗ Bảo Nam vào lúc sẽ đi vào một số cái nội dung chuyên đề
+[12:46] sẽ đi vào một số cái nội dung chuyên đề chi tiết để các bạn hiểu rõ hơn sâu hơn
+[12:50] chi tiết để các bạn hiểu rõ hơn sâu hơn và nếu bạn thấy câu này của mình hay và
+[12:53] và nếu bạn thấy câu này của mình hay và hữu ích và đáng ngờ và ngay Và chia sẻ
+[12:56] hữu ích và đáng ngờ và ngay Và chia sẻ quyết hôn để ủng hộ Đỗ Bảo Nam và Đốc ở
+[12:58] quyết hôn để ủng hộ Đỗ Bảo Nam và Đốc ở Đông thai Nếu bạn chưa đăng ký Kênh đỗ
+[13:01] Đông thai Nếu bạn chưa đăng ký Kênh đỗ vào Nam lúc thì bạn hãy nhấp vào nút
+[13:03] vào Nam lúc thì bạn hãy nhấp vào nút đăng ký
+[13:05] đăng ký A và chọn từ tượng hình chuông chọn tất
+[13:09] A và chọn từ tượng hình chuông chọn tất cả để đăng ký cũng như nhận thêm các Đâu
+[13:11] cả để đăng ký cũng như nhận thêm các Đâu Huy khác Cảm ơn bạn đã theo dõi video
+[13:14] Huy khác Cảm ơn bạn đã theo dõi video Xin chào và hẹn gặp lại bạn ở các video
+[13:17] Xin chào và hẹn gặp lại bạn ở các video tiếp theo

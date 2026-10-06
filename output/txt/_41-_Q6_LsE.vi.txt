@@ -1,0 +1,439 @@
+[00:01] Xin chào mừng các bạn đến với khóa học excel miễn phí từ cơ bản đến nâng cao
+[00:03] excel miễn phí từ cơ bản đến nâng cao dành cho người mới bắt đầu được thực
+[00:06] dành cho người mới bắt đầu được thực hiện trên kênh YouTube và Excel bài số 5
+[00:09] hiện trên kênh YouTube và Excel bài số 5 hành điều kiện ít và men Hà Nho trước
+[00:12] hành điều kiện ít và men Hà Nho trước khi vào bài 5 thì mình sẽ giải bài tập
+[00:14] khi vào bài 5 thì mình sẽ giải bài tập của bài số 4 hôm trước nhé Ok bài số 4
+[00:19] của bài số 4 hôm trước nhé Ok bài số 4 hôm trước là kết quả thi cuối quá Ở đây
+[00:20] hôm trước là kết quả thi cuối quá Ở đây bây giờ mình cần diện mình cần tính là
+[00:23] bây giờ mình cần diện mình cần tính là số thí sinh động tức là điểm trung bình
+[00:25] số thí sinh động tức là điểm trung bình lớn hơn bằng Sáu đúng không đấy thì ở
+[00:27] lớn hơn bằng Sáu đúng không đấy thì ở đây mình phải đến rồi đúng không có nên
+[00:28] đây mình phải đến rồi đúng không có nên là số thí sinh thì mình phải đến rồi
+[00:30] là số thí sinh thì mình phải đến rồi nhưng mà lại là số thí sinh đậu quá Thế
+[00:32] nhưng mà lại là số thí sinh đậu quá Thế là mình phải đếm có điều kiện như video
+[00:34] là mình phải đếm có điều kiện như video Mình nói rồi các bạn có thể dùng làm cao
+[00:36] Mình nói rồi các bạn có thể dùng làm cao ít hoặc KW nhé
+[00:37] ít hoặc KW nhé cho ví dụ mình tất cả là cos đi lại ấn
+[00:41] cho ví dụ mình tất cả là cos đi lại ấn mũi tên xuống này các bạn tác thì đầu
+[00:44] mũi tên xuống này các bạn tác thì đầu tiên là cái vùng điều kiện Đúng không
+[00:45] tiên là cái vùng điều kiện Đúng không các bạn sẽ Bôi đen toàn bộ trên vùng
+[00:47] các bạn sẽ Bôi đen toàn bộ trên vùng điều kiện của điểm trung bình người đã
+[00:48] điều kiện của điểm trung bình người đã lấy cần phải điều kiện là diện lớn nước
+[00:51] lấy cần phải điều kiện là diện lớn nước lọc bằng 6 loa cả các bạn sẽ bỏ qua phép
+[00:53] lọc bằng 6 loa cả các bạn sẽ bỏ qua phép các bạn sẽ ghi lại diện lớn hơn hoặc
+[00:54] các bạn sẽ ghi lại diện lớn hơn hoặc bảng 6 các bạn đóng ngoặc kép lại các
+[00:57] bảng 6 các bạn đóng ngoặc kép lại các bạn đó đơn gọi enter thì như vậy là có 5
+[01:00] bạn đó đơn gọi enter thì như vậy là có 5 thí sinh mà lớn hơn bằng 60 Ok sang công
+[01:03] thí sinh mà lớn hơn bằng 60 Ok sang công thứ 2 là diện số thí sinh rất là nhóm 6
+[01:05] thứ 2 là diện số thí sinh rất là nhóm 6 luôn thế là nó ngược lại với kia các bạn
+[01:07] luôn thế là nó ngược lại với kia các bạn vẫn bằng ca ghép này các bạn tát nhá thì
+[01:10] vẫn bằng ca ghép này các bạn tát nhá thì đầu tiên các bạn bôi lên toàn bộ cái
+[01:12] đầu tiên các bạn bôi lên toàn bộ cái vùng điện trung bình ở đây đúng không
+[01:13] vùng điện trung bình ở đây đúng không cần phải là các bạn mở két ra cậu CV là
+[01:16] cần phải là các bạn mở két ra cậu CV là diện nhỏ hơn 6 Họ sẽ đóng và kéo lại còn
+[01:18] diện nhỏ hơn 6 Họ sẽ đóng và kéo lại còn đó còn đơn ạ Đấy Như vậy là có 3 thí
+[01:20] đó còn đơn ạ Đấy Như vậy là có 3 thí sinh lấy 3 thí sinh là thiện một này các
+[01:23] sinh lấy 3 thí sinh là thiện một này các bạn giữ gần chôn nhớ hai này ba này có 3
+[01:26] bạn giữ gần chôn nhớ hai này ba này có 3 bạn này là nhỏ hơn 6A
+[01:28] bạn này là nhỏ hơn 6A a tiếp theo là diện số thí sinh có điểm
+[01:30] a tiếp theo là diện số thí sinh có điểm trung bình lớp 8 Thì cái này nó cũng
+[01:33] trung bình lớp 8 Thì cái này nó cũng giống như là thí sinh đậu rồi nhá đấy
+[01:35] giống như là thí sinh đậu rồi nhá đấy các bạn cũng bằng các em mình Tát nữa
+[01:40] các bạn cũng bằng các em mình Tát nữa các bạn Bôi đen toàn bộ vùng điện trung
+[01:42] các bạn Bôi đen toàn bộ vùng điện trung bình này là các bạn phải là còn mở các
+[01:46] bình này là các bạn phải là còn mở các em à còn ghi là diện lớn hơn hoặc bằng 8
+[01:48] em à còn ghi là diện lớn hơn hoặc bằng 8 + đóng ngoặc kép dấu ngoặc đơn này là
+[01:50] + đóng ngoặc kép dấu ngoặc đơn này là như vậy có một thí sinh luôn đúng không
+[01:51] như vậy có một thí sinh luôn đúng không Đây thí sinh này đâu số thí sinh đậu và
+[01:55] Đây thí sinh này đâu số thí sinh đậu và điểm Pixel lớn nước năm lại như vậy cô
+[01:57] điểm Pixel lớn nước năm lại như vậy cô này là có hai điều kiện được Điều kiện
+[01:59] này là có hai điều kiện được Điều kiện thứ nhất là động cơ và điều kiện thứ hai
+[02:01] thứ nhất là động cơ và điều kiện thứ hai là điểm Excel và lớn lắm đúng không Tại
+[02:03] là điểm Excel và lớn lắm đúng không Tại sao bằng này kbps đầu tiên là cái cùng
+[02:07] sao bằng này kbps đầu tiên là cái cùng Điều kiện thứ nhất là đậu chứ còn mua
+[02:08] Điều kiện thứ nhất là đậu chứ còn mua đèn cái điện cho mình này đấy vẫn phải
+[02:10] đèn cái điện cho mình này đấy vẫn phải các bạn mở két ra có ghi là diện lớn hơn
+[02:12] các bạn mở két ra có ghi là diện lớn hơn hoặc bằng Sáu đúng không cho nó hoặc các
+[02:15] hoặc bằng Sáu đúng không cho nó hoặc các bạn như vậy các bạn so với phấn đấu rồi
+[02:17] bạn như vậy các bạn so với phấn đấu rồi đó cần phải là cái vùng điều kiện thứ
+[02:19] đó cần phải là cái vùng điều kiện thứ hai là cái niệm Pixel đó các bạn Bôi đen
+[02:20] hai là cái niệm Pixel đó các bạn Bôi đen toàn bộ cái vùng để video là cần phải
+[02:22] toàn bộ cái vùng để video là cần phải rồi sao lớn mùng 5 mũi nhọn mỏ két là nó
+[02:25] rồi sao lớn mùng 5 mũi nhọn mỏ két là nó ghi là lớn hơn 5 điều kiện là lớn hơn
+[02:27] ghi là lớn hơn 5 điều kiện là lớn hơn năm rồi các bạn nó hoặc
+[02:28] năm rồi các bạn nó hoặc Em hãy gọi enter như vậy có 4 thí sinh
+[02:31] Em hãy gọi enter như vậy có 4 thí sinh thôi tiếp theo là điện số thí sinh đậu
+[02:35] thôi tiếp theo là điện số thí sinh đậu này để đi xe lớn hơn 5 và word là lớn
+[02:37] này để đi xe lớn hơn 5 và word là lớn nước 8 quá đây là ba điều kiện rồi nhé
+[02:39] nước 8 quá đây là ba điều kiện rồi nhé Đời Gọi bụng bằng trang web này à
+[02:42] Đời Gọi bụng bằng trang web này à có điều kiện thứ nhất là đậu đúng không
+[02:44] có điều kiện thứ nhất là đậu đúng không Biển trung bình phải mở két ra lớn hơn
+[02:48] Biển trung bình phải mở két ra lớn hơn hoặc 36 nóng bằng kép lại phải tiếp theo
+[02:51] hoặc 36 nóng bằng kép lại phải tiếp theo là gì Excel người nữa Nam đúng không
+[02:54] là gì Excel người nữa Nam đúng không phải đoạn mở Hoặc ra lớn hơn 5 đóng
+[02:58] phải đoạn mở Hoặc ra lớn hơn 5 đóng ngoặc kép phải tiếp theo điều kiện ba là
+[03:00] ngoặc kép phải tiếp theo điều kiện ba là vuốt lớn lớp 8 quá phút này
+[03:03] vuốt lớn lớp 8 quá phút này em phải gặp mở két dao động nhiên lớn
+[03:05] em phải gặp mở két dao động nhiên lớn hơn 8 gọi nó kép dấu ngoặc đơn ạ hoặc
+[03:08] hơn 8 gọi nó kép dấu ngoặc đơn ạ hoặc enter là nó sẽ bằng không Bây giờ không
+[03:11] enter là nó sẽ bằng không Bây giờ không phải buốt lớn 8 đi mà buốt lớn hơn cá
+[03:13] phải buốt lớn 8 đi mà buốt lớn hơn cá mày cao lớn hơn 6 đi thích và đã bị word
+[03:15] mày cao lớn hơn 6 đi thích và đã bị word lớn Sáu đi
+[03:16] lớn Sáu đi ở lại thì lúc này có 3 thí sinh đã như
+[03:19] ở lại thì lúc này có 3 thí sinh đã như vậy Ở đây là có ba điều kiện nếu như mà
+[03:20] vậy Ở đây là có ba điều kiện nếu như mà hút được hơn 6 nhé cái cậu thích đúng
+[03:23] hút được hơn 6 nhé cái cậu thích đúng rồi đây ví dụ lớn hơn 60 thì như vậy là
+[03:25] rồi đây ví dụ lớn hơn 60 thì như vậy là có 3 thí sinh tất cả đúng không Ok như
+[03:28] có 3 thí sinh tất cả đúng không Ok như vậy mình đã xong cái phần câu hỏi của
+[03:30] vậy mình đã xong cái phần câu hỏi của bài số 4 nhé còn đóng lại thì ở đây mình
+[03:33] bài số 4 nhé còn đóng lại thì ở đây mình sẽ không lưu còn các bạn thì bọn lưu bạn
+[03:36] sẽ không lưu còn các bạn thì bọn lưu bạn Ok sang bài số 5 các bạn thích vào đây
+[03:38] Ok sang bài số 5 các bạn thích vào đây Các bạn thấy nhất nếu như bạn nào không
+[03:40] Các bạn thấy nhất nếu như bạn nào không biết cách mà tải cái file thực hành về
+[03:42] biết cách mà tải cái file thực hành về đấy thì các bạn xem lại cái bài đầu tiên
+[03:44] đấy thì các bạn xem lại cái bài đầu tiên nhá trong bài đấy mình đã hướng dẫn chi
+[03:46] nhá trong bài đấy mình đã hướng dẫn chi tiết cách để tải file về rồi đó bây giờ
+[03:48] tiết cách để tải file về rồi đó bây giờ mình sẽ kích vào đây để mình mở file lên
+[03:51] mình sẽ kích vào đây để mình mở file lên Ok mình sẽ bảo cái sức nội dung thì
+[03:55] Ok mình sẽ bảo cái sức nội dung thì trong bài học hôm nay mình sẽ hướng dẫn
+[03:56] trong bài học hôm nay mình sẽ hướng dẫn các bạn là bốn cái phần đầu tiên là khi
+[03:59] các bạn là bốn cái phần đầu tiên là khi nào thì mình sử dụng hàm ít và cú pháp
+[04:00] nào thì mình sử dụng hàm ít và cú pháp của hàm ếch công nghiệp cách sử dụng
+[04:03] của hàm ếch công nghiệp cách sử dụng hàng VIP đơn và ít lòng nhau và kết hợp
+[04:06] hàng VIP đơn và ít lòng nhau và kết hợp với các hàng khác và ở đây cụ thể là Hà
+[04:08] với các hàng khác và ở đây cụ thể là Hà men và bong á mình sẽ vào cái phần chi
+[04:11] men và bong á mình sẽ vào cái phần chi tiết rồi khi nào thì mình sử dụng hạt ít
+[04:14] tiết rồi khi nào thì mình sử dụng hạt ít khi giá trị của một gen phụ thuộc vào 1
+[04:16] khi giá trị của một gen phụ thuộc vào 1 anh ở đây mình sẽ làm cái ví dụ nhắc đến
+[04:19] anh ở đây mình sẽ làm cái ví dụ nhắc đến và tổng giá lớn hơn 100 thì giảm giá 10
+[04:21] và tổng giá lớn hơn 100 thì giảm giá 10 phần trăm còn không có đi không giảm giá
+[04:23] phần trăm còn không có đi không giảm giá đấy thiệu đây mình đã có hai cái ví dụ
+[04:25] đấy thiệu đây mình đã có hai cái ví dụ rồi nếu như mà tầm giá 105 đúng không
+[04:27] rồi nếu như mà tầm giá 105 đúng không Chắc là lớn hơn 100 thì sẽ là giảm giá
+[04:29] Chắc là lớn hơn 100 thì sẽ là giảm giá 10 phần trăm còn trong trường hợp và
+[04:31] 10 phần trăm còn trong trường hợp và tổng giá nhỏ hơn hoặc bằng 100 rất là ví
+[04:33] tổng giá nhỏ hơn hoặc bằng 100 rất là ví dụ đây bằng 30 thì cái giảm giá sẽ là
+[04:35] dụ đây bằng 30 thì cái giảm giá sẽ là không phần trăm đấy đấy là cái yêu cầu
+[04:38] không phần trăm đấy đấy là cái yêu cầu bây giờ mình sẽ dùng cái hàm gì thì mình
+[04:41] bây giờ mình sẽ dùng cái hàm gì thì mình sẽ phải dùng làm ít đúng thì cú pháp của
+[04:43] sẽ phải dùng làm ít đúng thì cú pháp của Hà mít sẽ gồm ba thành phần đầu tiên là
+[04:46] Hà mít sẽ gồm ba thành phần đầu tiên là cái biểu thức lôgic Tức là ví dụ ở đây
+[04:48] cái biểu thức lôgic Tức là ví dụ ở đây nhắc mình phải so sánh trong là cái tổng
+[04:50] nhắc mình phải so sánh trong là cái tổng giá so với 100 đúng không Nếu bạn nó lớn
+[04:53] giá so với 100 đúng không Nếu bạn nó lớn hơn đấy thì vẫn sẽ trả về cái kết quả
+[04:54] hơn đấy thì vẫn sẽ trả về cái kết quả Chu này và ngược lại đứa nhỏ hơn hoặc
+[04:57] Chu này và ngược lại đứa nhỏ hơn hoặc bằng 100 thì mình sẽ trả về kết quả khô
+[04:59] bằng 100 thì mình sẽ trả về kết quả khô là đạt bây giờ mình sẽ làm đấy bài này
+[05:02] là đạt bây giờ mình sẽ làm đấy bài này nhá ví dụ tổng giá đây đúng không Đấy và
+[05:05] nhá ví dụ tổng giá đây đúng không Đấy và cái giảm giá này còn đây là cái biểu
+[05:07] cái giảm giá này còn đây là cái biểu thức lôgic nhá lại thì cái giảm giá này
+[05:09] thức lôgic nhá lại thì cái giảm giá này đấy bạn thích đút vào đây còn kiểm tra
+[05:11] đấy bạn thích đút vào đây còn kiểm tra này thì đầu tiên các biểu thức lôgic nhá
+[05:13] này thì đầu tiên các biểu thức lôgic nhá là nó sẽ So sánh cái H9 với cả 100
+[05:16] là nó sẽ So sánh cái H9 với cả 100 về chất so sánh kết tổng giá ở đây với
+[05:19] về chất so sánh kết tổng giá ở đây với cả 100 để sang cái phần này diện nếu như
+[05:22] cả 100 để sang cái phần này diện nếu như mà cái tổng giá này lớn hơn 100 thì nó
+[05:24] mà cái tổng giá này lớn hơn 100 thì nó sẽ trả về là giảm giá 10 phần trăm đây
+[05:26] sẽ trả về là giảm giá 10 phần trăm đây đúng không Còn đây là diện nếu như mà
+[05:28] đúng không Còn đây là diện nếu như mà cái tổng giá này không lớn hơn 100 tức
+[05:31] cái tổng giá này không lớn hơn 100 tức là nhỏ hơn hoặc bằng 100 thì mình sẽ trả
+[05:32] là nhỏ hơn hoặc bằng 100 thì mình sẽ trả về kết quả Không phần trăm thì trong cái
+[05:35] về kết quả Không phần trăm thì trong cái ví dụ đây cái tổng giá bán ở đây là 30
+[05:37] ví dụ đây cái tổng giá bán ở đây là 30 nó nhỏ hơn hoặc bằng 100 thì đâm ra nó
+[05:39] nó nhỏ hơn hoặc bằng 100 thì đâm ra nó sẽ trả về cái quả không các bạn enter là
+[05:41] sẽ trả về cái quả không các bạn enter là bạn thấy được không bây giờ ví dụ là 105
+[05:44] bạn thấy được không bây giờ ví dụ là 105 nhé đấy còn thấy như nó sẽ bằng chu Tại
+[05:47] nhé đấy còn thấy như nó sẽ bằng chu Tại vì sao 105 nó sẽ lớn hơn 100 đứng ra nó
+[05:49] vì sao 105 nó sẽ lớn hơn 100 đứng ra nó sẽ trả về kết quả ở cái tham số thứ hai
+[05:52] sẽ trả về kết quả ở cái tham số thứ hai cho Hà mít này và lưu ý Tu Đúng rồi đấy
+[05:55] cho Hà mít này và lưu ý Tu Đúng rồi đấy là cái cách sử dụng và Mít Ok mình sẽ
+[05:59] là cái cách sử dụng và Mít Ok mình sẽ vào một cái ví dụ cụ thể trong cái bài
+[06:01] vào một cái ví dụ cụ thể trong cái bài học hôm nay nhá thì mình sẽ có khá nhiều
+[06:03] học hôm nay nhá thì mình sẽ có khá nhiều ví dụ để mình làm quen với cái Hà mít ở
+[06:06] ví dụ để mình làm quen với cái Hà mít ở đây giả sử mình có danh sách là cái sinh
+[06:08] đây giả sử mình có danh sách là cái sinh viên nên là giới tính ngày sinh ngoại
+[06:11] viên nên là giới tính ngày sinh ngoại hình đầy đạo đức và đây là điểm trung
+[06:13] hình đầy đạo đức và đây là điểm trung bình câu thứ nhất là mình phải xác định
+[06:15] bình câu thứ nhất là mình phải xác định xem là đội chuyển ở
+[06:16] xem là đội chuyển ở có điều kiện ở đây ghi là gì Điểm trung
+[06:19] có điều kiện ở đây ghi là gì Điểm trung bình lớn hơn hoặc bằng 7 là đỗ không thì
+[06:22] bình lớn hơn hoặc bằng 7 là đỗ không thì trượt đúng không Lại gọi sẽ bằng này các
+[06:25] trượt đúng không Lại gọi sẽ bằng này các bạn tấn pháp này biểu thức lôgic là diện
+[06:28] bạn tấn pháp này biểu thức lôgic là diện chính là cái điểm trung bình dưới đây mà
+[06:30] chính là cái điểm trung bình dưới đây mà yêu cầu đây là diện lớn hơn hoặc bằng 7
+[06:32] yêu cầu đây là diện lớn hơn hoặc bằng 7 đúng không mà lớn hơn hoặc bằng 7 thì
+[06:35] đúng không mà lớn hơn hoặc bằng 7 thì phải Nếu nhưng mà lớn bằng 7 đúng không
+[06:36] phải Nếu nhưng mà lớn bằng 7 đúng không Thì cái giá trị trả về nước đúng là thì
+[06:39] Thì cái giá trị trả về nước đúng là thì bạn sẽ ghi là gì đỗ đỗ vào các bạn sẽ
+[06:41] bạn sẽ ghi là gì đỗ đỗ vào các bạn sẽ tích trữ ít nhé hoặc gọn Huy chế độ ra
+[06:43] tích trữ ít nhé hoặc gọn Huy chế độ ra được lại phải ngược lại thì là gì ngược
+[06:47] được lại phải ngược lại thì là gì ngược đã chắc là nó không lớn nó bằng 7 nghĩa
+[06:48] đã chắc là nó không lớn nó bằng 7 nghĩa là nhà văn bản thì bạn thành như là
+[06:50] là nhà văn bản thì bạn thành như là trượt gái gọi nó hoặc ép nó hoặc đơn ạ
+[06:52] trượt gái gọi nó hoặc ép nó hoặc đơn ạ Gọi enter lại như vậy bạn này là 8,5 lần
+[06:55] Gọi enter lại như vậy bạn này là 8,5 lần đúng không Bây giờ các bạn sẵn tích vào
+[06:58] đúng không Bây giờ các bạn sẵn tích vào cái góc dưới bên phải có tích lũy vào
+[07:00] cái góc dưới bên phải có tích lũy vào đâu đấy thì như vậy chỉ có duy nhất bạn
+[07:02] đâu đấy thì như vậy chỉ có duy nhất bạn hãy chưa Thôi vì bạn này là được 6 điểm
+[07:04] hãy chưa Thôi vì bạn này là được 6 điểm lại Bởi Ví dụ ở đây 7 và mình sửa đấy
+[07:06] lại Bởi Ví dụ ở đây 7 và mình sửa đấy xấu nhá các bạn thấy chứ nó sẽ thành
+[07:08] xấu nhá các bạn thấy chứ nó sẽ thành chưa bây giờ ở đây lại 7 đây là đỗ xanh
+[07:12] chưa bây giờ ở đây lại 7 đây là đỗ xanh cái câu hỏi thứ hai là trưởng thành nhá
+[07:15] cái câu hỏi thứ hai là trưởng thành nhá bây giờ từ 18 tuổi trở
+[07:16] bây giờ từ 18 tuổi trở anh là trưởng thành đúng ạ cái trưởng
+[07:19] anh là trưởng thành đúng ạ cái trưởng thành thì mình tính tuổi nhá thì đầu
+[07:22] thành thì mình tính tuổi nhá thì đầu tiên mình phải xác định được cái năm
+[07:23] tiên mình phải xác định được cái năm ngay tức là năm của cái ngày hiện tại
+[07:24] ngay tức là năm của cái ngày hiện tại cái này hiện tại thì ở đây mình sẽ dùng
+[07:27] cái này hiện tại thì ở đây mình sẽ dùng hàm Today là nó sẽ bằng cái hành tung
+[07:29] hàm Today là nó sẽ bằng cái hành tung đây hãy gọi đến Top này họ sẽ đóng ngoặc
+[07:31] đây hãy gọi đến Top này họ sẽ đóng ngoặc đơn luôn thì cái hạn Today nó sẽ trả về
+[07:34] đơn luôn thì cái hạn Today nó sẽ trả về ngày hiện tại đúng không người hiện tại
+[07:35] ngày hiện tại đúng không người hiện tại ví dụ cách ngày mà mình đang ghi cái
+[07:37] ví dụ cách ngày mà mình đang ghi cái video này là ngày ngày mùng 8 tháng 10
+[07:39] video này là ngày ngày mùng 8 tháng 10 đây này Đây tháng trước ngày sau đúng
+[07:41] đây này Đây tháng trước ngày sau đúng không Bây giờ để đến 5 nhá thì bạn sẽ
+[07:43] không Bây giờ để đến 5 nhá thì bạn sẽ dùng cái Hà Mi a i a của Cái ô này thì
+[07:46] dùng cái Hà Mi a i a của Cái ô này thì nó sẽ trả về cái khoảng năm rồi con sẽ
+[07:48] nó sẽ trả về cái khoảng năm rồi con sẽ đóng ngoặc lại lại thì nó sẽ trả về 2020
+[07:50] đóng ngoặc lại lại thì nó sẽ trả về 2020 nữa Còn nếu như bạn bằng này các bạn lấy
+[07:53] nữa Còn nếu như bạn bằng này các bạn lấy cái thằng kia của cái năm sinh của các
+[07:55] cái thằng kia của cái năm sinh của các bạn này là oc3 thời hạn sẽ ra gì hai
+[07:58] bạn này là oc3 thời hạn sẽ ra gì hai nghìn bốn này gọi lên từ đấy thì nó sẽ
+[08:00] nghìn bốn này gọi lên từ đấy thì nó sẽ hai nghìn lẻ một thì như vậy cái số tuổi
+[08:03] hai nghìn lẻ một thì như vậy cái số tuổi đây sẽ bằng gì bằng lên năm ở đây này
+[08:05] đây sẽ bằng gì bằng lên năm ở đây này Các sẽ - cái nhau mà Đây đó họ hiểu cái
+[08:08] Các sẽ - cái nhau mà Đây đó họ hiểu cái công thức tính tuổi con đây mình sẽ lấy
+[08:10] công thức tính tuổi con đây mình sẽ lấy cái Hà Mi A của cái này tôi đây mình -
+[08:12] cái Hà Mi A của cái này tôi đây mình - cái hả Mia của cái ngày sinh này mình sẽ
+[08:14] cái hả Mia của cái ngày sinh này mình sẽ ra được số tuổi và mình sẽ so sánh với
+[08:16] ra được số tuổi và mình sẽ so sánh với cả
+[08:16] cả từ 18 tuổi trở lên đúng không Lại ở đây
+[08:19] từ 18 tuổi trở lên đúng không Lại ở đây mình sẽ bằng này ít nếu như mà diện đầu
+[08:23] mình sẽ bằng này ít nếu như mà diện đầu tiên mình lấy 5 hiện tại nha các bạn để
+[08:25] tiên mình lấy 5 hiện tại nha các bạn để ý là của mở ngoặc của cái hàm Today nó
+[08:28] ý là của mở ngoặc của cái hàm Today nó gọn Xem mở ngoặc đơn dấu ngoặc đơn là
+[08:30] gọn Xem mở ngoặc đơn dấu ngoặc đơn là xong hàng to đây này các bạn đóng ngoặc
+[08:32] xong hàng to đây này các bạn đóng ngoặc đơn để 60 Hà Mi A thì như vậy kia của
+[08:34] đơn để 60 Hà Mi A thì như vậy kia của các hạt Today này là lấy được cái năm
+[08:36] các hạt Today này là lấy được cái năm nay ví dụ Năm nay mình đang làm cái này
+[08:38] nay ví dụ Năm nay mình đang làm cái này là 2020 nó sẽ trả về kết quả 20 20 Thế
+[08:42] là 2020 nó sẽ trả về kết quả 20 20 Thế bạn - gì ạ - của khách hàng is a các
+[08:45] bạn - gì ạ - của khách hàng is a các loại đơn sát nhé yêu của cái năm sinh
+[08:47] loại đơn sát nhé yêu của cái năm sinh của các bạn này là ở lấy ví dụ là 2000
+[08:49] của các bạn này là ở lấy ví dụ là 2000 không thì 2020 và - 2000 được bằng 20
+[08:52] không thì 2020 và - 2000 được bằng 20 đấy con sẽ đóng mọc lại là xong cái Hàm
+[08:54] đấy con sẽ đóng mọc lại là xong cái Hàm Yên này nếu như cái biểu thức này mà
+[08:56] Yên này nếu như cái biểu thức này mà diện lớn hơn hoặc bằng bằng 18 đấy thì
+[09:01] diện lớn hơn hoặc bằng bằng 18 đấy thì cần phải có trả về kết quả gì là trưởng
+[09:03] cần phải có trả về kết quả gì là trưởng thành đúng không Ví dụ là tê tê là
+[09:05] thành đúng không Ví dụ là tê tê là trưởng thành đúng không có sự đóng ngoặc
+[09:07] trưởng thành đúng không có sự đóng ngoặc kép lại phải nếu như ngược lại mà không
+[09:09] kép lại phải nếu như ngược lại mà không lớn bằng 18 tuổi là nhỏ 18 do cảm ứng
+[09:11] lớn bằng 18 tuổi là nhỏ 18 do cảm ứng của mụn màu hoặc ghép các bạn sẽ ghi lại
+[09:13] của mụn màu hoặc ghép các bạn sẽ ghi lại diện chưa trưởng thành chưa TP đi lại đã
+[09:16] diện chưa trưởng thành chưa TP đi lại đã sợ đó
+[09:16] sợ đó cả các bạn ạ Gọi enter lại như vậy bạn
+[09:20] cả các bạn ạ Gọi enter lại như vậy bạn là trưởng thành đúng không Tại vì Năm
+[09:21] là trưởng thành đúng không Tại vì Năm nay là năm 2020 và - 2000 thì nó sẽ ra
+[09:24] nay là năm 2020 và - 2000 thì nó sẽ ra là 20 tuổi vẫn tiếp bước vào đây Đấy như
+[09:28] là 20 tuổi vẫn tiếp bước vào đây Đấy như vậy Ở đây có từng đấy bạn trên trưởng
+[09:30] vậy Ở đây có từng đấy bạn trên trưởng thành năm bạn trên trưởng thành nhá tiếp
+[09:32] thành năm bạn trên trưởng thành nhá tiếp theo là gì mình sẽ xác định yêu hay
+[09:34] theo là gì mình sẽ xác định yêu hay không yêu ở đây mình làm theo vui một tí
+[09:36] không yêu ở đây mình làm theo vui một tí nhá thì nếu như ngoại hình xinh thì là
+[09:38] nhá thì nếu như ngoại hình xinh thì là yêu đúng không lại nó chỉ có một điều
+[09:40] yêu đúng không lại nó chỉ có một điều kiện cho yêu này thì bảng ý nếu như mở
+[09:44] kiện cho yêu này thì bảng ý nếu như mở ngoặc 2 biểu thức lôgic Ở đây các bạn sẽ
+[09:45] ngoặc 2 biểu thức lôgic Ở đây các bạn sẽ thích là cái phần gọi hình giờ đây là
+[09:47] thích là cái phần gọi hình giờ đây là Yuri hay này bóng bằng diện bằng màu kép
+[09:50] Yuri hay này bóng bằng diện bằng màu kép là xinh có sẽ đóng hoặc kẹp lại còn phải
+[09:53] là xinh có sẽ đóng hoặc kẹp lại còn phải lại thì Cậu chả phải gọi là yêu còn nóng
+[09:56] lại thì Cậu chả phải gọi là yêu còn nóng và khép lại phải ngược lại không sinh
+[09:58] và khép lại phải ngược lại không sinh đúng không Thế là xấu lạ thì khi là gì
+[10:00] đúng không Thế là xấu lạ thì khi là gì không yêu họ đóng ngoặc kép đó bạn đơn
+[10:03] không yêu họ đóng ngoặc kép đó bạn đơn lại enter hiệu bạn này xinh đúng không
+[10:06] lại enter hiệu bạn này xinh đúng không điều không ai có thể đưa vào đây như vậy
+[10:10] điều không ai có thể đưa vào đây như vậy có bốn bạn là yêu nhé Bốn Bạn là không
+[10:11] có bốn bạn là yêu nhé Bốn Bạn là không yêu tiếp theo là liệu mình sẽ làm với
+[10:14] yêu tiếp theo là liệu mình sẽ làm với sếp loạn thì cái xếp loại này thì mình
+[10:16] sếp loạn thì cái xếp loại này thì mình tủ bếp lò nhau nhé nếu như vậy điểm
+[10:19] tủ bếp lò nhau nhé nếu như vậy điểm trung bình nhỏ hơn năm thì là kém nhỏ
+[10:22] trung bình nhỏ hơn năm thì là kém nhỏ hơn 7 thì là trung bình và nhỏ hơn 8 thì
+[10:24] hơn 7 thì là trung bình và nhỏ hơn 8 thì đặt khá còn lại là giỏi đúng không Đấy
+[10:27] đặt khá còn lại là giỏi đúng không Đấy thì mình sẽ loại đầu tiên họ sẽ bằng ít
+[10:29] thì mình sẽ loại đầu tiên họ sẽ bằng ít à nếu như vậy điểm trung bình chọn sẽ
+[10:33] à nếu như vậy điểm trung bình chọn sẽ tích vào cái ô F2 lần mà rẻ đầu tiên là
+[10:36] tích vào cái ô F2 lần mà rẻ đầu tiên là ngắn năm đúng không cần phải cao bạn sẽ
+[10:39] ngắn năm đúng không cần phải cao bạn sẽ trả về kết quả gì Các bạn yếu còn đóng
+[10:42] trả về kết quả gì Các bạn yếu còn đóng ngoặc kép lại phải ngược lạ Nếu như
+[10:44] ngoặc kép lại phải ngược lạ Nếu như không phải nhỏ nằm đúng là Cọ lại lồng
+[10:45] không phải nhỏ nằm đúng là Cọ lại lồng thêm một cái mít nữa Nếu nhưng vẫn là
+[10:47] thêm một cái mít nữa Nếu nhưng vẫn là cái cái F2 này và diện nhỏ hơn 7 phải
+[10:52] cái cái F2 này và diện nhỏ hơn 7 phải cần phải cắt mổ ghép các bạn trả về cả
+[10:54] cần phải cắt mổ ghép các bạn trả về cả là trung bình TP còn đấu hoặc em lại
+[10:57] là trung bình TP còn đấu hoặc em lại phải mình nhận thêm một cái ít nữa ngược
+[10:59] phải mình nhận thêm một cái ít nữa ngược lạ mở ngoặc Nếu như mà Rịa vẫn là cái
+[11:02] lạ mở ngoặc Nếu như mà Rịa vẫn là cái điểm trung bình này và nhỏ ấn 8 thì là
+[11:05] điểm trung bình này và nhỏ ấn 8 thì là khá đúng không nhỏ hơn tám còn phải phát
+[11:09] khá đúng không nhỏ hơn tám còn phải phát nổ và ghép lại bọn chẳng thấy bà khát
+[11:10] nổ và ghép lại bọn chẳng thấy bà khát nấu và phép ạ Vẫn phải thì ở đây còn lại
+[11:13] nấu và phép ạ Vẫn phải thì ở đây còn lại mỗi môi trường ở cuối cùng thôi tức là
+[11:15] mỗi môi trường ở cuối cùng thôi tức là trường hợp còn lại thì là giả
+[11:16] trường hợp còn lại thì là giả em không cần phải thêm hạt mít nào nữa
+[11:18] em không cần phải thêm hạt mít nào nữa tao mở ra gọn sẽ ghi là giỏi chọn đóng
+[11:21] tao mở ra gọn sẽ ghi là giỏi chọn đóng ngoặc kép lại bạn đóng học lại đưa này
+[11:24] ngoặc kép lại bạn đóng học lại đưa này để xong hạt mít thứ ba là dòng đơn lại
+[11:26] để xong hạt mít thứ ba là dòng đơn lại để xong rồi ý thứ 2 đóng ngoặc đơn lại
+[11:28] để xong rồi ý thứ 2 đóng ngoặc đơn lại Để sau nhà bếp đầu tiên gặp enter thì
+[11:30] Để sau nhà bếp đầu tiên gặp enter thì như vậy bạn để nó sẽ ra là giỏi đúng
+[11:32] như vậy bạn để nó sẽ ra là giỏi đúng không có thích lúc này Đấy 8,5 lần giỏi
+[11:35] không có thích lúc này Đấy 8,5 lần giỏi 7 là khá 7,5 lần khá là tán là do đại có
+[11:39] 7 là khá 7,5 lần khá là tán là do đại có mỗi bạn này thôi là trung bình còn lại
+[11:41] mỗi bạn này thôi là trung bình còn lại toàn khá mới do tiếp theo là mình phải
+[11:44] toàn khá mới do tiếp theo là mình phải xác định mục tiêu đấy nhá đầu tiên được
+[11:48] xác định mục tiêu đấy nhá đầu tiên được gì ở đây mình sẽ có ba cái mục tiêu yêu
+[11:51] gì ở đây mình sẽ có ba cái mục tiêu yêu với điều kiện là gì ạ điều kiện là hạnh
+[11:53] với điều kiện là gì ạ điều kiện là hạnh kiểm tốt người điểm chúng mình lớn 7 và
+[11:56] kiểm tốt người điểm chúng mình lớn 7 và xinh đấy thì như vậy đây mình phải dùng
+[11:59] xinh đấy thì như vậy đây mình phải dùng cái Hà men nhá mình làm em thì mình xem
+[12:01] cái Hà men nhá mình làm em thì mình xem là gì ba cái điều kiện thì có thỏa mãn
+[12:03] là gì ba cái điều kiện thì có thỏa mãn hay không Nếu bạn điều kiện để thỏa mãn
+[12:04] hay không Nếu bạn điều kiện để thỏa mãn thì mình sẽ mình rất yêu đúng không biết
+[12:08] thì mình sẽ mình rất yêu đúng không biết dùng cái hộp em để mình xác định này
+[12:10] dùng cái hộp em để mình xác định này tiếp theo là diện làm bạn với điều kiện
+[12:13] tiếp theo là diện làm bạn với điều kiện là gì nếu như mà không phải là người yêu
+[12:15] là gì nếu như mà không phải là người yêu hoặc là
+[12:16] hoặc là Ừ đợi thì ở đây mình sẽ dùng cái hả mong
+[12:19] Ừ đợi thì ở đây mình sẽ dùng cái hả mong á thì ngược lại của cái hạt ít này mình
+[12:22] á thì ngược lại của cái hạt ít này mình sẽ thêm với hàm oở đây đây và cuối cùng
+[12:25] sẽ thêm với hàm oở đây đây và cuối cùng là cái đạo đức kém thì mình sẽ không
+[12:26] là cái đạo đức kém thì mình sẽ không chơi không yêu mà cũng không làm bạn và
+[12:29] chơi không yêu mà cũng không làm bạn và mình cũng không chơi luôn đấy nó Tức là
+[12:31] mình cũng không chơi luôn đấy nó Tức là cái mục tiêu của mình chỉ có ba cái mục
+[12:33] cái mục tiêu của mình chỉ có ba cái mục tiêu một vợ yêu hay là bạn và ba là
+[12:35] tiêu một vợ yêu hay là bạn và ba là không chơi thì trước khi bắt đầu mình
+[12:37] không chơi thì trước khi bắt đầu mình cho giới thiệu qua về các bạn về cái hầm
+[12:39] cho giới thiệu qua về các bạn về cái hầm lôgic để gọi xóa này đi đầu tiên là cái
+[12:42] lôgic để gọi xóa này đi đầu tiên là cái hòm em thì các bạn hàm em ấy thì đây là
+[12:45] hòm em thì các bạn hàm em ấy thì đây là men nó có các biểu thức lôgic thì ở đây
+[12:48] men nó có các biểu thức lôgic thì ở đây gì ạ Nó chỉ là các biểu thức lôgic thôi
+[12:50] gì ạ Nó chỉ là các biểu thức lôgic thôi nó sẽ trả về kết quả Chu nếu như tất cả
+[12:54] nó sẽ trả về kết quả Chu nếu như tất cả các biểu thức lôgic ở đây là đúng khoản
+[12:56] các biểu thức lôgic ở đây là đúng khoản là mo thì lại ngược lại đó trả về biểu
+[12:58] là mo thì lại ngược lại đó trả về biểu thức chu Nếu như một trong các biểu thức
+[12:59] thức chu Nếu như một trong các biểu thức lôgic ở đây là đúng còn ngược lại thì nó
+[13:02] lôgic ở đây là đúng còn ngược lại thì nó sẽ trả về kết quả ngược lại nhé các bạn
+[13:04] sẽ trả về kết quả ngược lại nhé các bạn bạn này Ví dụ ở đây mình em tắt mở ngoặc
+[13:07] bạn này Ví dụ ở đây mình em tắt mở ngoặc em Nếu như mình xác định đã yêu chẳng
+[13:08] em Nếu như mình xác định đã yêu chẳng hạn thế nhá thì gì ạ đạo đức phải bằng
+[13:11] hạn thế nhá thì gì ạ đạo đức phải bằng tốt đúng không Này Đạo Đức ở đây bảng
+[13:14] tốt đúng không Này Đạo Đức ở đây bảng diện mở két là tốt chọn đó hoặc
+[13:16] diện mở két là tốt chọn đó hoặc ở địa điểm trung bình lớp bằng 7 hội
+[13:19] ở địa điểm trung bình lớp bằng 7 hội điểm trung bình người ta lớn hơn hoặc
+[13:22] điểm trung bình người ta lớn hơn hoặc bằng diệt bằng 7 phẩy và diện ngoại hình
+[13:29] bằng diệt bằng 7 phẩy và diện ngoại hình xinh tới bằng này mở hoặc sinh ông mày
+[13:33] xinh tới bằng này mở hoặc sinh ông mày hơi bị yêu cầu cao bạn có con yên tâm
+[13:34] hơi bị yêu cầu cao bạn có con yên tâm thì bạn thấy nó trả về Chu Thì bạn này
+[13:37] thì bạn thấy nó trả về Chu Thì bạn này chắc chắn yêu rồi đúng không đấy bạn này
+[13:39] chắc chắn yêu rồi đúng không đấy bạn này có mỗi bạn là yêu thôi Đây chúng mình
+[13:42] có mỗi bạn là yêu thôi Đây chúng mình đến bài đạo đức tốt và xinh quá yêu luôn
+[13:45] đến bài đạo đức tốt và xinh quá yêu luôn đúng không ở đây mình xác định o nhé lại
+[13:48] đúng không ở đây mình xác định o nhé lại như vậy còn lại ở đây là 6 ông này bởi
+[13:50] như vậy còn lại ở đây là 6 ông này bởi ông này là không thể yêu được rồi thì
+[13:52] ông này là không thể yêu được rồi thì mình xem là bảy ông này Xem không nào
+[13:54] mình xem là bảy ông này Xem không nào chơi được nhé Đúng không Ở đây cái ao là
+[13:58] chơi được nhé Đúng không Ở đây cái ao là gì mình xem cái phần Điều kiện thứ Hai
+[13:59] gì mình xem cái phần Điều kiện thứ Hai nhé không phải là người yêu hoặc là đạo
+[14:01] nhé không phải là người yêu hoặc là đạo đức trung bình tức là gì nếu như mà
+[14:04] đức trung bình tức là gì nếu như mà không phải là người yêu và đạo đức là
+[14:06] không phải là người yêu và đạo đức là trung bình hoặc là tốt đúng không Chúng
+[14:08] trung bình hoặc là tốt đúng không Chúng mình mà làm bạn được thì tốt phải làm
+[14:09] mình mà làm bạn được thì tốt phải làm bạn chứ Thì mình chỉ cần bằng này các
+[14:11] bạn chứ Thì mình chỉ cần bằng này các bạn cũng lo ở đây Các mở ngoặc họ thì
+[14:14] bạn cũng lo ở đây Các mở ngoặc họ thì được xem đạo đức này có bằng mở ngoặc ra
+[14:16] được xem đạo đức này có bằng mở ngoặc ra là
+[14:16] là ở trận đấu hoặc ép bạn phải hoặc là diện
+[14:20] ở trận đấu hoặc ép bạn phải hoặc là diện Đạo Đức ở đây mở bằng mở ngoặc kép là
+[14:23] Đạo Đức ở đây mở bằng mở ngoặc kép là trung bình các đóng ngoặc kép dấu ngoặc
+[14:25] trung bình các đóng ngoặc kép dấu ngoặc đơn lại gặp enter là xu thì riêng đã yêu
+[14:30] đơn lại gặp enter là xu thì riêng đã yêu rồi thì mình không tính rồi đúng không
+[14:31] rồi thì mình không tính rồi đúng không yêu này bây giờ phôi nhé Thì những ông
+[14:33] yêu này bây giờ phôi nhé Thì những ông này Chu này là bạn này Chu là bạn Chu là
+[14:35] này Chu này là bạn này Chu là bạn Chu là bạn Sau đó bạn thứ hai cái phone này
+[14:37] bạn Sau đó bạn thứ hai cái phone này iPhone là vì xem lại đấy kém kém như vậy
+[14:40] iPhone là vì xem lại đấy kém kém như vậy là mình hai ông này nó không chơi nữa
+[14:42] là mình hai ông này nó không chơi nữa bây giờ mình sẽ làm nhé mình xóa cái này
+[14:44] bây giờ mình sẽ làm nhé mình xóa cái này đi đây là mình viết cho các bạn để hiểu
+[14:47] đi đây là mình viết cho các bạn để hiểu cái hay cái hàng lôgic là men vào thôi
+[14:49] cái hay cái hàng lôgic là men vào thôi nhé cậu sẽ bằng đầu tiên là ít nếu như
+[14:52] nhé cậu sẽ bằng đầu tiên là ít nếu như mà gì Các bạn sẽ dùng cái Hà mint + mở
+[14:54] mà gì Các bạn sẽ dùng cái Hà mint + mở ngoặc thì ở đây là gì đầu tiên mình sẽ
+[14:57] ngoặc thì ở đây là gì đầu tiên mình sẽ yêu trước nhá đầu tiên hạnh kiểm tốt
+[14:59] yêu trước nhá đầu tiên hạnh kiểm tốt đúng không Mà đã lúc tốt là E2 Bà Nguyệt
+[15:02] đúng không Mà đã lúc tốt là E2 Bà Nguyệt mở két ra là tốt đâu mà khép lại phải
+[15:05] mở két ra là tốt đâu mà khép lại phải biểu thức lôgic thứ hai là điểm trung
+[15:07] biểu thức lôgic thứ hai là điểm trung bình lớn đẩy quá điểm trung bình ở đây
+[15:08] bình lớn đẩy quá điểm trung bình ở đây lớn hơn bằng 7 phẩy cái biểu thức luôn
+[15:13] lớn hơn bằng 7 phẩy cái biểu thức luôn Thứ ba là phải xinh hơn đúng không ngoại
+[15:15] Thứ ba là phải xinh hơn đúng không ngoại hình ở đây à
+[15:16] hình ở đây à ở Brazil đóng ngoặc kép đóng nắp đỡ nặng
+[15:20] ở Brazil đóng ngoặc kép đóng nắp đỡ nặng Nếu như mà em thấy rất là thỏa mãn ba
+[15:22] Nếu như mà em thấy rất là thỏa mãn ba cái điều kiện này thì cần phải trả về
+[15:24] cái điều kiện này thì cần phải trả về kết quả hiện là yêu hay là nó khép lại
+[15:27] kết quả hiện là yêu hay là nó khép lại phải ngược lại không yêu tức là một
+[15:29] phải ngược lại không yêu tức là một trong ba cái điều kiện này không thỏa
+[15:31] trong ba cái điều kiện này không thỏa mãn nó cậu sẽ ít thêm nữa bây giờ bạn sử
+[15:34] mãn nó cậu sẽ ít thêm nữa bây giờ bạn sử dụng với Hà ngon nhá Nếu như Bà Rịa thứ
+[15:37] dụng với Hà ngon nhá Nếu như Bà Rịa thứ nhất là không phải người yêu này ở đây
+[15:39] nhất là không phải người yêu này ở đây phải làm và chứ không phải là hoạt được
+[15:41] phải làm và chứ không phải là hoạt được và đạo đức là lớn vòng trung bình cơ thì
+[15:43] và đạo đức là lớn vòng trung bình cơ thì ở đây là o diện Đạo Đức ở đây thì mình
+[15:45] ở đây là o diện Đạo Đức ở đây thì mình sẽ ghi là gì Đạo Đức ở đây bằng việc mở
+[15:48] sẽ ghi là gì Đạo Đức ở đây bằng việc mở ngoặc kép ra là tốt cậu sân đấu khép lại
+[15:51] ngoặc kép ra là tốt cậu sân đấu khép lại phải gửi cho tôi thích thứ hai là dị vẫn
+[15:53] phải gửi cho tôi thích thứ hai là dị vẫn là E2 ở đây bằng tốt hoặc là bằng trung
+[15:57] là E2 ở đây bằng tốt hoặc là bằng trung bình đúng không trung bình họ nó khép
+[16:02] bình đúng không trung bình họ nó khép lại còn đóng ngoặc đơn để xong là mong á
+[16:04] lại còn đóng ngoặc đơn để xong là mong á phải Nếu như mà thỏa mãn một trong hai
+[16:06] phải Nếu như mà thỏa mãn một trong hai điều kiện này các bạn sẽ trả về Cái bản
+[16:08] điều kiện này các bạn sẽ trả về Cái bản gì là bạn đã cạn dấu ngoặc kép lại phải
+[16:11] gì là bạn đã cạn dấu ngoặc kép lại phải còn lại gì Các bạn mở ngoặc là không
+[16:12] còn lại gì Các bạn mở ngoặc là không chơi à
+[16:16] chơi à Có thể bạn sẽ đóng ngoặc kép dấu ngoặc
+[16:18] Có thể bạn sẽ đóng ngoặc kép dấu ngoặc đơn lại đã hạn vip thứ 2 đóng ngoặc đơn
+[16:21] đơn lại đã hạn vip thứ 2 đóng ngoặc đơn ở sau hãy đầu tiên đã ra Master nhận
+[16:24] ở sau hãy đầu tiên đã ra Master nhận lãnh thuế nhà ở đây không phải là hoặc
+[16:26] lãnh thuế nhà ở đây không phải là hoặc độc vào đây phải là và đấy không yêu mà
+[16:28] độc vào đây phải là và đấy không yêu mà không yêu không ạ và đã Đức lớn và bằng
+[16:31] không yêu không ạ và đã Đức lớn và bằng trung bình nhé Mình ghi là lớn vào trung
+[16:32] trung bình nhé Mình ghi là lớn vào trung bình để cho dễ hiểu tốt là trung bình mà
+[16:34] bình để cho dễ hiểu tốt là trung bình mà lại thì đoạn tích ở đây còn tính độ và
+[16:38] lại thì đoạn tích ở đây còn tính độ và đây đấy như vậy Có mỗi bạn đã yêu thôi
+[16:40] đây đấy như vậy Có mỗi bạn đã yêu thôi còn hai ông này nó không chơi tại vì sao
+[16:43] còn hai ông này nó không chơi tại vì sao ông này là đạo đức kém không chơi được
+[16:45] ông này là đạo đức kém không chơi được kể cả sinh đây là giỏi mà cứ đạo đức kém
+[16:48] kể cả sinh đây là giỏi mà cứ đạo đức kém là mình không chơi lại quan điểm là như
+[16:50] là mình không chơi lại quan điểm là như vậy nhé Thì Ok mình sẽ xong cái phần này
+[16:53] vậy nhé Thì Ok mình sẽ xong cái phần này rồi nhá như vậy mình đã xong cái bài tập
+[16:56] rồi nhá như vậy mình đã xong cái bài tập của khách hàng được biết ít lại Bây giờ
+[16:57] của khách hàng được biết ít lại Bây giờ mình sẽ xem cái bài tập về nhà cho các
+[17:00] mình sẽ xem cái bài tập về nhà cho các bạn nhá Đang các bạn tích vào giải bài
+[17:05] bạn nhá Đang các bạn tích vào giải bài tập về nhà à
+[17:07] tập về nhà à anh đợi cả thứ nhắc cái bài tập về nhà
+[17:10] anh đợi cả thứ nhắc cái bài tập về nhà là gì câu hỏi điền vào cột ghi chú theo
+[17:13] là gì câu hỏi điền vào cột ghi chú theo tiêu chuẩn sau lại những học sinh nào có
+[17:15] tiêu chuẩn sau lại những học sinh nào có đạo đức tốt này có điểm trung bình từ 4
+[17:17] đạo đức tốt này có điểm trung bình từ 4 trở lên hoặc những học sinh đó có đạo
+[17:19] trở lên hoặc những học sinh đó có đạo đức trung bình có điểm trung bình lớn
+[17:21] đức trung bình có điểm trung bình lớn năm trở lên thì ghi lên lớp còn lại nở
+[17:23] năm trở lên thì ghi lên lớp còn lại nở lớp Tức là mình sẽ xác định là bạn nào
+[17:26] lớp Tức là mình sẽ xác định là bạn nào nên nước và bạn nào ở lại nước nhá Đây
+[17:28] nên nước và bạn nào ở lại nước nhá Đây thì con sẽ làm với bài này cho mình Ok
+[17:32] thì con sẽ làm với bài này cho mình Ok như vậy là mình đã kết thúc bài học ngày
+[17:34] như vậy là mình đã kết thúc bài học ngày hôm nay ở đây cảm ơn các bạn đã theo dõi
+[17:36] hôm nay ở đây cảm ơn các bạn đã theo dõi các bạn nhớ đăng ký Kênh để cập nhật
+[17:38] các bạn nhớ đăng ký Kênh để cập nhật video mới nhất của gà cũng như chia sẻ
+[17:41] video mới nhất của gà cũng như chia sẻ để giúp mọi người cùng học Excel nhé Xin
+[17:43] để giúp mọi người cùng học Excel nhé Xin chào và hẹn gặp lại à

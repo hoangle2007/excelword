@@ -1,0 +1,363 @@
+{
+ "bai": 8,
+ "cau_hoi": [
+  {
+   "A": "Chọn vị trí cần thêm rồi Layout > Insert Right/Below...",
+   "B": "Nhấn Alt + F4",
+   "C": "Vào File > Print",
+   "D": "Nhấn Ctrl + S",
+   "cau": "Cách 1 thêm 1 cột/dòng bằng thanh Ribbon là?",
+   "dap_an": "A",
+   "giai_thich": "Chọn cột/dòng mốc rồi vào Layout chọn Insert.",
+   "id": 1,
+   "muc_do": "de"
+  },
+  {
+   "A": "Chuột phải > Insert > Insert Columns to the Right/Left...",
+   "B": "Nhấn Ctrl + A",
+   "C": "Nhấn Ctrl + S",
+   "D": "Vào View > Ruler",
+   "cau": "Cách 2 thêm cột/dòng bằng chuột phải là?",
+   "dap_an": "A",
+   "giai_thich": "Chuột phải vào vị trí cần thêm rồi chọn Insert.",
+   "id": 2,
+   "muc_do": "de"
+  },
+  {
+   "A": "Insert Columns to the Right",
+   "B": "Delete Columns",
+   "C": "Merge Cells",
+   "D": "Split Cells",
+   "cau": "Muốn thêm 1 cột vào bên phải vị trí chuột thì chọn?",
+   "dap_an": "A",
+   "giai_thich": "Insert Columns to the Right thêm cột bên phải.",
+   "id": 3,
+   "muc_do": "de"
+  },
+  {
+   "A": "Insert Columns to the Left",
+   "B": "Delete Rows",
+   "C": "Merge Cells",
+   "D": "Print",
+   "cau": "Muốn thêm 1 cột vào bên trái thì chọn?",
+   "dap_an": "A",
+   "giai_thich": "Insert Columns to the Left thêm cột bên trái.",
+   "id": 4,
+   "muc_do": "de"
+  },
+  {
+   "A": "Insert Rows Above / Below",
+   "B": "Delete Table",
+   "C": "Merge Cells",
+   "D": "Save As",
+   "cau": "Muốn thêm 1 dòng phía trên/dưới thì chọn?",
+   "dap_an": "A",
+   "giai_thich": "Insert Rows Above (trên) hoặc Below (dưới).",
+   "id": 5,
+   "muc_do": "de"
+  },
+  {
+   "A": "Bắt buộc phải nhấp vào bảng để hiện thẻ Design/Layout",
+   "B": "Không cần nhấp vào bảng",
+   "C": "Phải tắt Word",
+   "D": "Phải rút điện",
+   "cau": "Vì sao không thấy thẻ Design/Layout khi thêm cột?",
+   "dap_an": "A",
+   "giai_thich": "Phải nhấp vào bảng thì 2 thẻ bảng mới hiện.",
+   "id": 6,
+   "muc_do": "de"
+  },
+  {
+   "A": "Layout (Table Layout)",
+   "B": "Home",
+   "C": "Insert (chung)",
+   "D": "File",
+   "cau": "Nút Insert Rows/Columns khi thêm bằng Ribbon nằm ở thẻ nào?",
+   "dap_an": "A",
+   "giai_thich": "Thẻ Layout dành cho bảng (Table Layout).",
+   "id": 7,
+   "muc_do": "de"
+  },
+  {
+   "A": "Bôi đen đúng số dòng/cột muốn thêm rồi Insert",
+   "B": "Nhấn Ctrl + S",
+   "C": "Nhấn Alt + F4",
+   "D": "Vào File > Options",
+   "cau": "Muốn thêm nhanh 3 dòng/cột cùng lúc thì làm gì?",
+   "dap_an": "A",
+   "giai_thich": "Bôi đen 3 dòng/cột rồi Insert sẽ thêm đúng 3.",
+   "id": 8,
+   "muc_do": "de"
+  },
+  {
+   "A": "Ctrl + A",
+   "B": "Ctrl + S",
+   "C": "Ctrl + O",
+   "D": "Ctrl + P",
+   "cau": "Phím tắt nào KHÔNG dùng để thêm dòng/cột?",
+   "dap_an": "A",
+   "giai_thich": "Ctrl+A chỉ chọn tất cả, không thêm dòng/cột.",
+   "id": 9,
+   "muc_do": "de"
+  },
+  {
+   "A": "Chọn cột Số điện thoại rồi Insert Right",
+   "B": "Nhấn Delete",
+   "C": "Nhấn Alt + F4",
+   "D": "Vào File > Save",
+   "cau": "Ví dụ trong video thêm cột sau cột Số điện thoại làm thế nào?",
+   "dap_an": "A",
+   "giai_thich": "Nhấp vào cột Số điện thoại rồi Insert Right/Below.",
+   "id": 10,
+   "muc_do": "de"
+  },
+  {
+   "A": "Design và Layout (Table Tools) chỉ hiện khi con trỏ trong bảng",
+   "B": "Luôn hiện mọi lúc",
+   "C": "Không bao giờ hiện",
+   "D": "Chỉ hiện khi in",
+   "cau": "Khi nào thẻ Design/Layout của bảng xuất hiện?",
+   "dap_an": "A",
+   "giai_thich": "Chỉ hiện khi focus nằm trong bảng.",
+   "id": 11,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Chuột phải ngay vào vị trí cần thêm, không cần chọn trước phức tạp",
+   "B": "Bắt buộc vào File > Options",
+   "C": "Bắt buộc khởi động lại máy",
+   "D": "Bắt buộc chuyển sang Excel",
+   "cau": "Ưu điểm của cách chuột phải so với cách Ribbon là?",
+   "dap_an": "A",
+   "giai_thich": "Chuột phải nhanh, thao tác ngay tại vị trí cần thêm.",
+   "id": 12,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Insert Rows Below",
+   "B": "Delete Rows",
+   "C": "Merge Cells",
+   "D": "Split Table",
+   "cau": "Đang ở dòng số 2, muốn thêm dòng mới ngay dưới nó thì chọn?",
+   "dap_an": "A",
+   "giai_thich": "Insert Rows Below thêm dòng phía dưới vị trí hiện tại.",
+   "id": 13,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Bôi đen 3 dòng rồi Insert Below/Above",
+   "B": "Nhấn Ctrl + S 3 lần",
+   "C": "Nhấn Enter 3 lần ngoài bảng",
+   "D": "Vào File > Print 3 lần",
+   "cau": "Thêm nhanh 3 dòng dưới vị trí đã bôi đen thì?",
+   "dap_an": "A",
+   "giai_thich": "Bôi 3 dòng rồi Insert sẽ chèn thêm 3 dòng.",
+   "id": 14,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Bôi đen 2-3 cột rồi Insert Left/Right",
+   "B": "Nhấn Delete",
+   "C": "Nhấn Alt + F4",
+   "D": "Tắt máy",
+   "cau": "Thêm nhanh 2-3 cột thì làm thế nào?",
+   "dap_an": "A",
+   "giai_thich": "Bôi đúng số cột cần thêm rồi Insert Left/Right.",
+   "id": 15,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Chỉ cần bôi một phần của cột, không cần bôi cả cột",
+   "B": "Bắt buộc bôi cả bảng",
+   "C": "Bắt buộc bôi cả trang",
+   "D": "Không được bôi gì",
+   "cau": "Khi bôi để thêm cột, có cần bôi hết cả cột không?",
+   "dap_an": "A",
+   "giai_thich": "Chỉ cần bôi một phần trong các cột đó là được.",
+   "id": 16,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Layout > Insert Right/Left/Above/Below",
+   "B": "Home > Font",
+   "C": "View > Zoom",
+   "D": "File > Share",
+   "cau": "Nhóm lệnh thêm cột/dòng trên Ribbon nằm ở đâu?",
+   "dap_an": "A",
+   "giai_thich": "Nhóm Rows & Columns trong thẻ Layout của bảng.",
+   "id": 17,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Vị trí chèn phụ thuộc ô đang chọn (trái/phải/trên/dưới ô đó)",
+   "B": "Luôn chèn ở đầu bảng",
+   "C": "Luôn chèn ở cuối file",
+   "D": "Chèn ngẫu nhiên",
+   "cau": "Vị trí cột/dòng mới được quyết định bởi?",
+   "dap_an": "A",
+   "giai_thich": "Chèn tương đối so với ô/cột/dòng đang chọn.",
+   "id": 18,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Nhập liệu bình thường vào ô mới sau khi thêm",
+   "B": "Phải tạo bảng mới",
+   "C": "Phải cài lại Word",
+   "D": "Không nhập được",
+   "cau": "Sau khi thêm cột/dòng mới thì làm gì tiếp?",
+   "dap_an": "A",
+   "giai_thich": "Ô mới trống, chỉ việc nhập nội dung vào.",
+   "id": 19,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Cả 2 cách (Ribbon và chuột phải) đều cho kết quả như nhau",
+   "B": "Chỉ Ribbon mới thêm được",
+   "C": "Chỉ chuột phải mới thêm được",
+   "D": "Không cách nào thêm được",
+   "cau": "So sánh 2 cách thêm trong video?",
+   "dap_an": "A",
+   "giai_thich": "Tùy sở thích, kết quả chèn như nhau.",
+   "id": 20,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Muốn thêm N thì bôi đen N dòng/cột",
+   "B": "Muốn thêm N thì nhấn Ctrl N lần",
+   "C": "Muốn thêm N thì lưu N lần",
+   "D": "Muốn thêm N thì in N lần",
+   "cau": "Quy tắc nhớ khi thêm nhiều dòng/cột cùng lúc là?",
+   "dap_an": "A",
+   "giai_thich": "Số lượng bôi đen bằng số lượng muốn chèn thêm.",
+   "id": 21,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Kiểm tra đã chọn đúng cột/dòng mốc trước khi Insert",
+   "B": "Nhấn Alt + F4",
+   "C": "Tắt loa",
+   "D": "Rút mạng",
+   "cau": "Thêm nhầm vị trí thường do nguyên nhân nào?",
+   "dap_an": "A",
+   "giai_thich": "Do chọn sai cột/dòng mốc hoặc sai hướng Left/Right/Above/Below.",
+   "id": 22,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Insert Columns to the Right chèn bên phải, Insert Left chèn bên trái",
+   "B": "Cả hai đều chèn cùng một bên",
+   "C": "Cả hai đều xóa cột",
+   "D": "Cả hai đều gộp ô",
+   "cau": "Phân biệt Right và Left khi thêm cột?",
+   "dap_an": "A",
+   "giai_thich": "Right chèn phải ô đang chọn, Left chèn trái.",
+   "id": 23,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Above chèn trên, Below chèn dưới dòng đang chọn",
+   "B": "Cả hai đều chèn trên",
+   "C": "Cả hai đều xóa dòng",
+   "D": "Cả hai đều tách bảng",
+   "cau": "Phân biệt Above và Below khi thêm dòng?",
+   "dap_an": "A",
+   "giai_thich": "Above chèn phía trên, Below chèn phía dưới.",
+   "id": 24,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Bôi 3 cột rồi Insert Right sẽ thêm 3 cột bên phải khối đã chọn",
+   "B": "Sẽ chỉ thêm 1 cột",
+   "C": "Sẽ xóa 3 cột",
+   "D": "Sẽ gộp 3 cột",
+   "cau": "Bôi 3 cột rồi Insert Columns to the Right thì?",
+   "dap_an": "A",
+   "giai_thich": "Số cột thêm bằng số cột đã bôi, nằm bên phải khối chọn.",
+   "id": 25,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Word 2013/2016/2019/2021 thao tác tương tự nhau",
+   "B": "Mỗi bản một kiểu hoàn toàn khác",
+   "C": "Bản cũ không thêm được",
+   "D": "Bản mới không thêm được",
+   "cau": "Tính tương thích phiên bản của thao tác thêm dòng/cột?",
+   "dap_an": "A",
+   "giai_thich": "Các phiên bản Word thao tác tương tự nhau.",
+   "id": 26,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Ô mới chèn có độ rộng/chiều cao kế thừa, có thể kéo chỉnh lại",
+   "B": "Ô mới không chỉnh được",
+   "C": "Bảng bị khóa sau khi thêm",
+   "D": "Phải tạo bảng mới",
+   "cau": "Kích thước cột/dòng mới chèn thì sao?",
+   "dap_an": "A",
+   "giai_thich": "Kế thừa kích thước hiện tại, kéo đường kẻ để chỉnh.",
+   "id": 27,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Chọn lại đúng vị trí rồi Insert đúng hướng",
+   "B": "Xóa cả bảng làm lại",
+   "C": "Cài lại Word",
+   "D": "Mua máy mới",
+   "cau": "Chèn nhầm hướng (trái thành phải) thì xử lý nhanh là?",
+   "dap_an": "A",
+   "giai_thich": "Ctrl+Z để hoàn tác rồi Insert lại đúng hướng.",
+   "id": 28,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Tab ở ô cuối bảng tự thêm dòng mới (mẹo bổ sung)",
+   "B": "Enter tự thêm cột",
+   "C": "Delete tự thêm dòng",
+   "D": "Esc tự thêm bảng",
+   "cau": "Ngoài 2 cách chính, còn mẹo nào thêm dòng cuối nhanh?",
+   "dap_an": "A",
+   "giai_thich": "Đặt con trỏ ô cuối cùng rồi nhấn Tab sẽ thêm dòng mới.",
+   "id": 29,
+   "muc_do": "kho"
+  },
+  {
+   "A": "2 trường hợp: thêm 1 và thêm nhiều; mỗi trường hợp 2 cách (Ribbon + chuột phải)",
+   "B": "Chỉ có 1 trường hợp 1 cách",
+   "C": "Có 5 trường hợp 5 cách",
+   "D": "Không có cách nào",
+   "cau": "Tóm tắt cấu trúc bài giảng thêm cột/dòng là?",
+   "dap_an": "A",
+   "giai_thich": "2 trường hợp (1 và nhiều) × 2 cách (Layout và chuột phải).",
+   "id": 30,
+   "muc_do": "kho"
+  }
+ ],
+ "ky_nang": [
+  {
+   "duong_dan_menu": "Table Tools > Layout > Rows & Columns > Insert...",
+   "giai_thich": "Phải nhấp vào bảng để hiện thẻ Layout; chọn đúng cột/dòng mốc.",
+   "phim_tat": "Không có",
+   "ten": "Thêm 1 dòng/cột bằng Ribbon",
+   "thao_tac": "Chọn cột/dòng mốc, vào Layout, chọn Insert Right/Left (cột) hoặc Above/Below (dòng).",
+   "vi_du": "Chọn cột Số điện thoại > Insert Right để thêm cột bên phải."
+  },
+  {
+   "duong_dan_menu": "Chuột phải > Insert",
+   "giai_thich": "Nhanh, thao tác ngay tại vị trí chuột.",
+   "phim_tat": "Không có",
+   "ten": "Thêm 1 dòng/cột bằng chuột phải",
+   "thao_tac": "Chuột phải vào vị trí cần thêm, Insert > chọn Right/Left/Above/Below.",
+   "vi_du": "Chuột phải vào cột Số điện thoại > Insert Columns to the Right."
+  },
+  {
+   "duong_dan_menu": "Table Tools > Layout > Insert hoặc Chuột phải > Insert",
+   "giai_thich": "Số lượng thêm bằng số lượng đã bôi đen.",
+   "phim_tat": "Không có",
+   "ten": "Thêm nhiều dòng/cột cùng lúc",
+   "thao_tac": "Bôi đen N dòng/cột, chuột phải hoặc Layout > Insert Above/Below/Left/Right.",
+   "vi_du": "Bôi 3 dòng > Insert Below để thêm 3 dòng; bôi 3 cột > Insert Right để thêm 3 cột."
+  }
+ ],
+ "url": "https://www.youtube.com/watch?v=DC-AAdEa9GU",
+ "video_id": "DC-AAdEa9GU"
+}

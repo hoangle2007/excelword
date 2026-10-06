@@ -1,0 +1,547 @@
+[00:01] Xin chào mừng các bạn đến với khóa học Seo miễn phí từ cơ bản đến nâng cao dành
+[00:04] Seo miễn phí từ cơ bản đến nâng cao dành cho người mới bắt đầu được thực hiện
+[00:06] cho người mới bắt đầu được thực hiện trên kênh YouTube gái Excel bài số 7
+[00:08] trên kênh YouTube gái Excel bài số 7 hành Tìm kiếm với lúc cấp và hát nó cấp
+[00:11] hành Tìm kiếm với lúc cấp và hát nó cấp trước khi đi vào bài số 7 nhưng không
+[00:13] trước khi đi vào bài số 7 nhưng không giải bài tập hôm trước là bài thơ 6 khác
+[00:15] giải bài tập hôm trước là bài thơ 6 khác hành xử lý chuỗi nhé Ok câu hỏi của bài
+[00:20] hành xử lý chuỗi nhé Ok câu hỏi của bài số 6 là gì ạ Ở đây mình có tên đầy đủ
+[00:22] số 6 là gì ạ Ở đây mình có tên đầy đủ bây giờ mình cần tách họ và tên thì với
+[00:25] bây giờ mình cần tách họ và tên thì với cái trường hợp họ thì dễ rồi Đúng Hầu
+[00:27] cái trường hợp họ thì dễ rồi Đúng Hầu như các bạn sẽ làm được nhá các bạn sẽ
+[00:29] như các bạn sẽ làm được nhá các bạn sẽ bằng đấy ạ thì để cách họ tức là nằm ở
+[00:32] bằng đấy ạ thì để cách họ tức là nằm ở bên cây trái Đúng không các bạn sử dụng
+[00:33] bên cây trái Đúng không các bạn sử dụng các hạt lép đấy gọn sẽ cứng cáp thì cái
+[00:36] các hạt lép đấy gọn sẽ cứng cáp thì cái ô đầu tiên mà các bạn cần tách là diện
+[00:38] ô đầu tiên mà các bạn cần tách là diện là cái tên đầy đủ đây tức là ok 4 đúng ạ
+[00:41] là cái tên đầy đủ đây tức là ok 4 đúng ạ phải tiếp theo là diện là cái số kí tự
+[00:44] phải tiếp theo là diện là cái số kí tự các bạn thường tách đúng ạ Mà cái số kí
+[00:46] các bạn thường tách đúng ạ Mà cái số kí tự các bạn cách là rẻ các bạn thân xác
+[00:49] tự các bạn cách là rẻ các bạn thân xác định các số ký tự cần tách bằng cách là
+[00:51] định các số ký tự cần tách bằng cách là các bạn sẽ tìm cái vị trí cái dấu cách
+[00:53] các bạn sẽ tìm cái vị trí cái dấu cách đầu tiên của Cái ô này đúng ạ Đấy mà dị
+[00:57] đầu tiên của Cái ô này đúng ạ Đấy mà dị các vị trí của cái dấu cách nó sẽ khác
+[00:59] các vị trí của cái dấu cách nó sẽ khác nhau
+[01:00] nhau Em thuộc vào tên đúng không để tìm được
+[01:02] Em thuộc vào tên đúng không để tìm được cái vị trí của cái dấu cách đầu tiên gặp
+[01:04] cái vị trí của cái dấu cách đầu tiên gặp có thể dùng cái hàng file Và Hành Sơn
+[01:06] có thể dùng cái hàng file Và Hành Sơn nhá lại Ví dụ mình dùng cái hòm file đi
+[01:08] nhá lại Ví dụ mình dùng cái hòm file đi đây thì thành phần đầu tiên của cây hồng
+[01:10] đây thì thành phần đầu tiên của cây hồng file là điện cái Tech mà mình cần tìm
+[01:13] file là điện cái Tech mà mình cần tìm đúng không có sẽ mở kẹp ra các bạn hãy
+[01:14] đúng không có sẽ mở kẹp ra các bạn hãy nêu cách tức là việc mình cần tìm cái
+[01:16] nêu cách tức là việc mình cần tìm cái dấu cách đúng không phẩy trong cái ôm
+[01:19] dấu cách đúng không phẩy trong cái ôm nào trong cái otn đầy đủ đây chắc là ob4
+[01:21] nào trong cái otn đầy đủ đây chắc là ob4 đúng không vào mình tìm thấy cái vị trí
+[01:23] đúng không vào mình tìm thấy cái vị trí đầu tiên thì bạn không cần nhập các tham
+[01:25] đầu tiên thì bạn không cần nhập các tham số cuối cùng nhá các bạn sẽ đóng ngoặc
+[01:26] số cuối cùng nhá các bạn sẽ đóng ngoặc bạ thì nó sẽ hiểu là tìm từ vị trí đầu
+[01:28] bạ thì nó sẽ hiểu là tìm từ vị trí đầu tiên đấy sau khi mà cái Hàn file này thì
+[01:32] tiên đấy sau khi mà cái Hàn file này thì nó sẽ tìm được cái vị trí dấu cách rồi
+[01:33] nó sẽ tìm được cái vị trí dấu cách rồi đúng không thì các bạn phải - 1 cơ đấy
+[01:35] đúng không thì các bạn phải - 1 cơ đấy Tại vì gì mình sẽ lấy trước cái vị trí
+[01:38] Tại vì gì mình sẽ lấy trước cái vị trí du khách không Ví dụ ở đây là mình lấy
+[01:40] du khách không Ví dụ ở đây là mình lấy cái chữ nguyễn Tức là mình đến cái chữ N
+[01:42] cái chữ nguyễn Tức là mình đến cái chữ N thấp vậy thôi bằng cái dấu cách thì mình
+[01:44] thấp vậy thôi bằng cái dấu cách thì mình không lấy đúng không đấy thì cậu phải -
+[01:46] không lấy đúng không đấy thì cậu phải - 1 lại cậu xe rẻ các bạn sẽ đóng cặp đôi
+[01:49] 1 lại cậu xe rẻ các bạn sẽ đóng cặp đôi lại các em tơ đấy gọi thấy chứ chỉ như
+[01:51] lại các em tơ đấy gọi thấy chứ chỉ như vậy Ở đây mình đã tách được cái phần họ
+[01:52] vậy Ở đây mình đã tách được cái phần họ ở Nga họ sẽ đổ vào đây đấy thì như vậy Ở
+[01:55] ở Nga họ sẽ đổ vào đây đấy thì như vậy Ở đây mình sẽ lấy được toàn bộ các cái họ
+[01:58] đây mình sẽ lấy được toàn bộ các cái họ của các bạn này đúng không ạ
+[02:00] của các bạn này đúng không ạ Ừ để lấy được tên nhá thì có rất là
+[02:02] Ừ để lấy được tên nhá thì có rất là nhiều cách để lấy được tên nhưng mà
+[02:04] nhiều cách để lấy được tên nhưng mà thông thường các cách đấy rất là dài thì
+[02:06] thông thường các cách đấy rất là dài thì hôm nay mình sẽ hướng dẫn các bạn một
+[02:08] hôm nay mình sẽ hướng dẫn các bạn một cách rất là đơn giản thì các thuật toán
+[02:10] cách rất là đơn giản thì các thuật toán của mình nhận diện tất cả các dấu cách ở
+[02:12] của mình nhận diện tất cả các dấu cách ở đây này mình sẽ tăng lên thành 100 số
+[02:14] đây này mình sẽ tăng lên thành 100 số cách này nhá Đấy sau đó mình sẽ lấy phải
+[02:17] cách này nhá Đấy sau đó mình sẽ lấy phải 100 ký tự thì đảm bảo chắc chắn là dẹp
+[02:20] 100 ký tự thì đảm bảo chắc chắn là dẹp lấy được cái tên không ạ thì thông
+[02:22] lấy được cái tên không ạ thì thông thường cái tên của mình thì tối đa là 8
+[02:25] thường cái tên của mình thì tối đa là 8 1 9 thứ tự do đúng không Thì mình lấy
+[02:26] 1 9 thứ tự do đúng không Thì mình lấy 100 là lấy gọi là dự phòng đấy thì sau
+[02:29] 100 là lấy gọi là dự phòng đấy thì sau khi mình lấy 100 người mình sẽ dùng cái
+[02:31] khi mình lấy 100 người mình sẽ dùng cái hàng chim Để mình gọi lại đúng không đấy
+[02:33] hàng chim Để mình gọi lại đúng không đấy thì đầu tiên là mình sẽ nhân cái dấu
+[02:35] thì đầu tiên là mình sẽ nhân cái dấu cách này lên 100 lần bằng cách để mình
+[02:37] cách này lên 100 lần bằng cách để mình sẽ kết hợp với hàng xuất thích cu vào
+[02:39] sẽ kết hợp với hàng xuất thích cu vào cái Hàn việc và cái hàng Red đây nhá Ở
+[02:42] cái Hàn việc và cái hàng Red đây nhá Ở đầu tiên mình sẽ thiện mình nhân cái dấu
+[02:44] đầu tiên mình sẽ thiện mình nhân cái dấu cách nhưng 100 lần nhá lại ví dụ là việc
+[02:46] cách nhưng 100 lần nhá lại ví dụ là việc ngân số cách đây mình sẽ tách ra thành
+[02:48] ngân số cách đây mình sẽ tách ra thành các khách hàng riêng để gọn hiểu này
+[02:50] các khách hàng riêng để gọn hiểu này nhân cái dấu cách thành 100 lần đúng
+[02:53] nhân cái dấu cách thành 100 lần đúng không Để mình viết ra đây để chọn dễ
+[02:55] không Để mình viết ra đây để chọn dễ hiểu rồi cậu sẽ bằng bằng cách sắp xếp
+[02:57] hiểu rồi cậu sẽ bằng bằng cách sắp xếp chim
+[02:57] chim vì thế các thành phần đầu tiên của shop
+[02:59] vì thế các thành phần đầu tiên của shop tung là cái chỗ này đúng không Đấy phải
+[03:01] tung là cái chỗ này đúng không Đấy phải đâu Tech là diệt Kotex các bạn mở két ra
+[03:04] đâu Tech là diệt Kotex các bạn mở két ra các đánh dấu cách các bạn đâu mà cái
+[03:06] các đánh dấu cách các bạn đâu mà cái vàng tức là việc cái chuỗi mà mình cần
+[03:09] vàng tức là việc cái chuỗi mà mình cần nhân lên là cái dấu cách đúng không phải
+[03:11] nhân lên là cái dấu cách đúng không phải cái lưu Tech là Rịa con sẽ dùng cái hàng
+[03:13] cái lưu Tech là Rịa con sẽ dùng cái hàng grab đời cẩn một cái xuống và các ấn top
+[03:15] grab đời cẩn một cái xuống và các ấn top nhá Bạn mở cửa phép ra các bạn đừng có
+[03:18] nhá Bạn mở cửa phép ra các bạn đừng có cách cho bạn đâu có chép và đúng không
+[03:19] cách cho bạn đâu có chép và đúng không phải mình xin dâng cái dấu cạnh nhảy lên
+[03:22] phải mình xin dâng cái dấu cạnh nhảy lên 100 lần rồi các bạn sẽ đóng đóng ngoặc
+[03:24] 100 lần rồi các bạn sẽ đóng đóng ngoặc đơn như vậy Mình đóng ngoặc đơn Để mình
+[03:26] đơn như vậy Mình đóng ngoặc đơn Để mình xong các em ghét vậy thì tức là diện
+[03:28] xong các em ghét vậy thì tức là diện mình sẽ thay cái dấu cách thì mình sẽ
+[03:30] mình sẽ thay cái dấu cách thì mình sẽ bằng 100 lần cái dấu cách rất là mình sẽ
+[03:33] bằng 100 lần cái dấu cách rất là mình sẽ nhân cái dấu cách đây 100 lần đúng không
+[03:34] nhân cái dấu cách đây 100 lần đúng không Đấy cái tham số cuối cùng là việc mình
+[03:36] Đấy cái tham số cuối cùng là việc mình cho bỏ trống nhá Đấy cứ là tất cả các
+[03:39] cho bỏ trống nhá Đấy cứ là tất cả các dấu cách trong cái chỗ này nó sẽ được
+[03:41] dấu cách trong cái chỗ này nó sẽ được nhân lên 100 lần với bọn em tôi cho mình
+[03:42] nhân lên 100 lần với bọn em tôi cho mình đấy còn thấy cho đây rồi cách rất là dài
+[03:45] đấy còn thấy cho đây rồi cách rất là dài để Nguyễn Thị Ngân ở đây này Đấy tiếp
+[03:48] để Nguyễn Thị Ngân ở đây này Đấy tiếp theo mình sẽ dùng cái hàm dai nhá lại
+[03:51] theo mình sẽ dùng cái hàm dai nhá lại cảm like để mình sẽ mình lấy phải 100 ký
+[03:53] cảm like để mình sẽ mình lấy phải 100 ký tự đi các bạn sẽ bằng đấy ạ Các bạn sẽ
+[03:55] tự đi các bạn sẽ bằng đấy ạ Các bạn sẽ bằng cái hàm right i
+[03:57] bằng cái hàm right i A và các bạn cần tác chính là cái ô mà
+[03:59] A và các bạn cần tác chính là cái ô mà sau khi đoạn nhân giống khách lên đúng
+[04:00] sau khi đoạn nhân giống khách lên đúng không phải 100 họ sẽ đóng ngoặc đơn thể
+[04:03] không phải 100 họ sẽ đóng ngoặc đơn thể gọi enter thì như vậy còn thấy nó sẽ lấy
+[04:06] gọi enter thì như vậy còn thấy nó sẽ lấy được cái chữ tâm và địa trước cái chữ
+[04:08] được cái chữ tâm và địa trước cái chữ tâm này là rất là nhiều dấu cách cái chữ
+[04:10] tâm này là rất là nhiều dấu cách cái chữ tâm này là diện nó có 3 từ đúng không
+[04:12] tâm này là diện nó có 3 từ đúng không cho nên nó sẽ còn 97 ví dụ khách nữa rồi
+[04:15] cho nên nó sẽ còn 97 ví dụ khách nữa rồi cuối cùng với dân dùng cái hàng chim lại
+[04:18] cuối cùng với dân dùng cái hàng chim lại các siêu thị ở đây mình chụp bằng này
+[04:19] các siêu thị ở đây mình chụp bằng này chim gọi ấn pháp của cái ô và sau khi
+[04:23] chim gọi ấn pháp của cái ô và sau khi bạn lấy phải Đây nha Còn enter đấy nó sẽ
+[04:26] bạn lấy phải Đây nha Còn enter đấy nó sẽ được về cái chữ tâm Các bạn thấy đấy Ở
+[04:28] được về cái chữ tâm Các bạn thấy đấy Ở đây mình đã giải thích cho bạn các cái
+[04:30] đây mình đã giải thích cho bạn các cái Hà mà mình làm nhé Mình diễn giải từng
+[04:32] Hà mà mình làm nhé Mình diễn giải từng bước một cho gọn dễ hiểu này ở đây mình
+[04:33] bước một cho gọn dễ hiểu này ở đây mình sẽ làm luôn mình sẽ lâm hàm nhá đấy Họ
+[04:35] sẽ làm luôn mình sẽ lâm hàm nhá đấy Họ sẽ bằng bằng chim chim của mở ngoặc gọi
+[04:39] sẽ bằng bằng chim chim của mở ngoặc gọi xem dùng cái Android Đúng không Đây cái
+[04:41] xem dùng cái Android Đúng không Đây cái hàng dai của gì của cái sắp chiếu ở đây
+[04:44] hàng dai của gì của cái sắp chiếu ở đây này cái tách ở đây chính là dịp chính là
+[04:49] này cái tách ở đây chính là dịp chính là cái cách ban đầu đây này phải âu tách
+[04:51] cái cách ban đầu đây này phải âu tách thì các bạn xem mở ngoặc kép ra bạn đánh
+[04:54] thì các bạn xem mở ngoặc kép ra bạn đánh dấu cách chọn đóng ngoặc kép vàng đấy
+[04:55] dấu cách chọn đóng ngoặc kép vàng đấy cậu phải cái newtech là gì nhỉ
+[04:57] cậu phải cái newtech là gì nhỉ anh rep lại quả rượu mở két cho cách
+[05:01] anh rep lại quả rượu mở két cho cách đóng ngoặc kép phải các mình sẽ một nhân
+[05:04] đóng ngoặc kép phải các mình sẽ một nhân 100 lần với số cắt Nên uống các bạn sẽ
+[05:06] 100 lần với số cắt Nên uống các bạn sẽ đóng mọc lại sau khi hợp này ta sẽ đóng
+[05:08] đóng mọc lại sau khi hợp này ta sẽ đóng ngoặc lại để xong cái hàng sắt yêu đúng
+[05:10] ngoặc lại để xong cái hàng sắt yêu đúng không phải cái số ký tự mà có cần lấy là
+[05:13] không phải cái số ký tự mà có cần lấy là gì thì cứ lấy 100 ký tự của cái hàng
+[05:15] gì thì cứ lấy 100 ký tự của cái hàng like rồi đấy các bạn xem đóng ngoặc đơn
+[05:17] like rồi đấy các bạn xem đóng ngoặc đơn để xong cao ra bạn đóng ngoặc đơn lại
+[05:19] để xong cao ra bạn đóng ngoặc đơn lại xong nè chim đấy này thấy rất là nắng
+[05:21] xong nè chim đấy này thấy rất là nắng Đấy mình đã tìm được cái học tên ở đây
+[05:24] Đấy mình đã tìm được cái học tên ở đây là tân rồi đấy vẫn thích đút vào đây
+[05:26] là tân rồi đấy vẫn thích đút vào đây Okay khá là hai cái này rất là ngắn nhá
+[05:28] Okay khá là hai cái này rất là ngắn nhá Nếu như bạn tham khảo trên mạng thì nó
+[05:31] Nếu như bạn tham khảo trên mạng thì nó rất là nhiều hàm phức tạp đúng không Thì
+[05:34] rất là nhiều hàm phức tạp đúng không Thì đây Mình chỉ dùng 4 làm với hàm chim và
+[05:35] đây Mình chỉ dùng 4 làm với hàm chim và like Sub Team hàng Red nhưng mà cái cú
+[05:38] like Sub Team hàng Red nhưng mà cái cú pháp của nó rất là ngắn nhá Ok như vậy
+[05:41] pháp của nó rất là ngắn nhá Ok như vậy mình đã xong cái câu hỏi của bài tập số
+[05:42] mình đã xong cái câu hỏi của bài tập số 6 nhé Bây giờ mình sẽ vào bài số 7 là
+[05:47] 6 nhé Bây giờ mình sẽ vào bài số 7 là cái hành Tìm kiếm Vlookup hlookup các
+[05:50] cái hành Tìm kiếm Vlookup hlookup các chú ý mình sẽ đẻ cái link tải file của
+[05:52] chú ý mình sẽ đẻ cái link tải file của cái bài số 7 này trong phần mô tả cái
+[05:54] cái bài số 7 này trong phần mô tả cái dưới video tốt nhất là các bạn tải về
+[05:56] dưới video tốt nhất là các bạn tải về các bạn vừa theo dõi
+[05:57] các bạn vừa theo dõi Ừ Nếu như các bạn không biết cách tải về
+[06:00] Ừ Nếu như các bạn không biết cách tải về thì bạn có thể theo dõi các bài đầu tiên
+[06:02] thì bạn có thể theo dõi các bài đầu tiên mình đã hướng dẫn chi tiết cách để các
+[06:05] mình đã hướng dẫn chi tiết cách để các bạn tải file thực hành về nhá Bây giờ
+[06:07] bạn tải file thực hành về nhá Bây giờ mình sẽ mở cái file của bài tập hôm nay
+[06:17] các bạn chú ý nhé cái hàm Vlookup và cái hàm hlookup là một trong những hàm quan
+[06:19] hàm hlookup là một trong những hàm quan trọng nhất của Excel đặc biệt là w khi
+[06:23] trọng nhất của Excel đặc biệt là w khi các bạn đi làm thì Hầu như các bạn dùng
+[06:25] các bạn đi làm thì Hầu như các bạn dùng w cấp rất là nhiều khác nó cấp thì dùng
+[06:27] w cấp rất là nhiều khác nó cấp thì dùng rất là hạn chế thôi Và nếu như mà có
+[06:30] rất là hạn chế thôi Và nếu như mà có thành khảo vui Cốc Cốc này thì hầu như
+[06:32] thành khảo vui Cốc Cốc này thì hầu như là công việc của bạn sẽ nhẹ đi rất là
+[06:34] là công việc của bạn sẽ nhẹ đi rất là nhiều đấy lại thịt cọ Thúy Nga ở đây
+[06:36] nhiều đấy lại thịt cọ Thúy Nga ở đây mình đã giới thiệu cú pháp của các hàm
+[06:38] mình đã giới thiệu cú pháp của các hàm Vlookup rồi đúng không ạ Cái hàm Vlookup
+[06:40] Vlookup rồi đúng không ạ Cái hàm Vlookup nó sẽ gồm 4 thành phần đầu tiên là cái
+[06:43] nó sẽ gồm 4 thành phần đầu tiên là cái lúc cấp value Tức là cái giá trị mà con
+[06:45] lúc cấp value Tức là cái giá trị mà con cần dò tìm đây cái thứ hai là cái thai
+[06:48] cần dò tìm đây cái thứ hai là cái thai của orc Tức là cái bảng các bạn cần tìm
+[06:51] của orc Tức là cái bảng các bạn cần tìm tức là bạn tìm kiếm ở đâu đấy và cái thứ
+[06:54] tức là bạn tìm kiếm ở đâu đấy và cái thứ ba là lớn như bạn tìm thấy cái giá trị
+[06:57] ba là lớn như bạn tìm thấy cái giá trị lấy rồi
+[06:57] lấy rồi ở cột mà toàn cần lấy kết quả là cái cột
+[07:01] ở cột mà toàn cần lấy kết quả là cái cột thứ mấy và cái tham số cuối cùng là các
+[07:03] thứ mấy và cái tham số cuối cùng là các bạn cần tìm kiếm chính xác hay là không
+[07:05] bạn cần tìm kiếm chính xác hay là không Chính xác đấy và cái hòm help cũng gọi
+[07:08] Chính xác đấy và cái hòm help cũng gọi nhá cái hào hát lúc cấp thì nó giống hệt
+[07:10] nhá cái hào hát lúc cấp thì nó giống hệt với cả cái lúc cấp nó chỉ khác nhau là
+[07:12] với cả cái lúc cấp nó chỉ khác nhau là gì ạ Kết bảng giá trị giò này cái
+[07:15] gì ạ Kết bảng giá trị giò này cái Vlookup thì cái bảng giá trị do nó sẽ
+[07:17] Vlookup thì cái bảng giá trị do nó sẽ được bố trí theo cột là bơ Tây cổ đại
+[07:19] được bố trí theo cột là bơ Tây cổ đại ghê là ở đây là vertical trong khi cái
+[07:21] ghê là ở đây là vertical trong khi cái hàm hát lúc các bệnh Thì cái bảng giá
+[07:23] hàm hát lúc các bệnh Thì cái bảng giá trị do đó lại được bố trí theo hàng nha
+[07:25] trị do đó lại được bố trí theo hàng nha Đó là ho oriental đấy thì ở đây mình sẽ
+[07:29] Đó là ho oriental đấy thì ở đây mình sẽ làm ví dụ cho bạn hiểu nhé Ở đây mình sẽ
+[07:32] làm ví dụ cho bạn hiểu nhé Ở đây mình sẽ có hai cái ví dụ về Vlookup và hlookup
+[07:34] có hai cái ví dụ về Vlookup và hlookup đây thì ở đây còn chửi nhá ở đây mình sẽ
+[07:37] đây thì ở đây còn chửi nhá ở đây mình sẽ phê lúc cấp là gì ạ Tức là mình có cái
+[07:40] phê lúc cấp là gì ạ Tức là mình có cái họ tên được bố trí theo chiều dọc tức là
+[07:42] họ tên được bố trí theo chiều dọc tức là do cột lại cho lên mình sẽ dùng Vlookup
+[07:44] do cột lại cho lên mình sẽ dùng Vlookup còn trong cái ví dụ Haruka ở đây thì cái
+[07:47] còn trong cái ví dụ Haruka ở đây thì cái họ tên ở đây này lại được bố trí tiêu
+[07:49] họ tên ở đây này lại được bố trí tiêu hàng để tức là theo cái chiều nha Cho
+[07:51] hàng để tức là theo cái chiều nha Cho nên mình phải dùng hát gấp vậy thì các
+[07:53] nên mình phải dùng hát gấp vậy thì các bạn sẽ tích vào đây đầu tiên mình sẽ
+[07:55] bạn sẽ tích vào đây đầu tiên mình sẽ dùng cái Vlookup trước nhá các bạn sẽ
+[07:56] dùng cái Vlookup trước nhá các bạn sẽ tích và cái ô tô
+[07:57] tích và cái ô tô ở miền Nam các bạn sẽ bằng bằng viên lúc
+[08:00] ở miền Nam các bạn sẽ bằng bằng viên lúc cấp để cá Tấn tác vào này thì cách thành
+[08:03] cấp để cá Tấn tác vào này thì cách thành phần đầu tiên là cái giá trị trọn thần
+[08:05] phần đầu tiên là cái giá trị trọn thần tìm đúng không Tức là mình cần tìm thấy
+[08:07] tìm đúng không Tức là mình cần tìm thấy ông Võ Quốc Việt đây này Đấy khoán phải
+[08:10] ông Võ Quốc Việt đây này Đấy khoán phải này cái thành phần thứ hai là cái thay
+[08:12] này cái thành phần thứ hai là cái thay bố ơi Tức là cái bảng giá trị rò Tức là
+[08:15] bố ơi Tức là cái bảng giá trị rò Tức là mình cần tìm thấy ông Võ Quốc Việt ở đâu
+[08:16] mình cần tìm thấy ông Võ Quốc Việt ở đâu mình cần tìm ở cái vùng giá trị ở đây
+[08:19] mình cần tìm ở cái vùng giá trị ở đây đúng ạ đấy các bạn phải các thành phần
+[08:22] đúng ạ đấy các bạn phải các thành phần thứ ba là gì Tôi là sau khi mình tìm
+[08:25] thứ ba là gì Tôi là sau khi mình tìm được cái ông Võ Quốc gia này rồi thì
+[08:26] được cái ông Võ Quốc gia này rồi thì mình lấy cái thông tin gì đây giả sử
+[08:29] mình lấy cái thông tin gì đây giả sử mình tìm được cái ông có Quốc Việt ở đây
+[08:30] mình tìm được cái ông có Quốc Việt ở đây nhá Đấy thì mình cần lấy cái thông tin
+[08:32] nhá Đấy thì mình cần lấy cái thông tin gì ở đây nó yêu cầu là mình cần tìm điện
+[08:34] gì ở đây nó yêu cầu là mình cần tìm điện thoại đúng không Thì mình xem cái ông Võ
+[08:36] thoại đúng không Thì mình xem cái ông Võ Quốc Việt thì điện thoại nó làm ở cuộn
+[08:38] Quốc Việt thì điện thoại nó làm ở cuộn thứ mấy đây đầu tiên là họ tên là cuộc
+[08:40] thứ mấy đây đầu tiên là họ tên là cuộc thứ nhất này thành phố là cụ thứ hai và
+[08:42] thứ nhất này thành phố là cụ thứ hai và cái điện thoại là cụ thứ ba đúng không
+[08:44] cái điện thoại là cụ thứ ba đúng không Thì ở đây cái cục trả về là cuộc số 3
+[08:46] Thì ở đây cái cục trả về là cuộc số 3 phẩy thành phần cuối cùng ở đây mình cần
+[08:49] phẩy thành phần cuối cùng ở đây mình cần tìm là gì mình cần tìm kiếm chính xác
+[08:51] tìm là gì mình cần tìm kiếm chính xác nhá thì lát nữa cái phần mà tìm kiếm
+[08:53] nhá thì lát nữa cái phần mà tìm kiếm không chính xác là tìm kiếm tương đối
+[08:54] không chính xác là tìm kiếm tương đối thì mình sẽ sang cái sim bên cạnh này là
+[08:57] thì mình sẽ sang cái sim bên cạnh này là k
+[08:57] k em sau nhé Thì ở đây mình cần tìm chính
+[09:00] em sau nhé Thì ở đây mình cần tìm chính xác thì bạn gõ khô hoặc là gõ không nhá
+[09:02] xác thì bạn gõ khô hoặc là gõ không nhá Đây phone thì tương ứng với không có họ
+[09:06] Đây phone thì tương ứng với không có họ sẽ đóng ngoặc đơn lại lại gọi enter lại
+[09:08] sẽ đóng ngoặc đơn lại lại gọi enter lại vẫn thấy chứ như vậy điện thoại của bạn
+[09:10] vẫn thấy chứ như vậy điện thoại của bạn Võ Quốc Việt ở đây là điện 0985 này 22 4
+[09:13] Võ Quốc Việt ở đây là điện 0985 này 22 4 5 6 năm rồi bây giờ sửa mình thay cái Võ
+[09:16] 5 6 năm rồi bây giờ sửa mình thay cái Võ Quốc Việt bằng gì bằng cái vặn Nguyễn
+[09:18] Quốc Việt bằng gì bằng cái vặn Nguyễn Văn Ba này đi Hãy chọn tích vào đây con
+[09:20] Văn Ba này đi Hãy chọn tích vào đây con đó là Diện Nguyễn Văn Thoại enter đấy
+[09:23] đó là Diện Nguyễn Văn Thoại enter đấy bạn thấy cho cái điện thoại này thay đổi
+[09:25] bạn thấy cho cái điện thoại này thay đổi rồi bây giờ giả sử các bạn Nguyễn Văn
+[09:28] rồi bây giờ giả sử các bạn Nguyễn Văn Ban này mình gõ vào gái xem có lại inter
+[09:30] Ban này mình gõ vào gái xem có lại inter đấy Con gì cho Nếu như mà cái tên mà nó
+[09:33] đấy Con gì cho Nếu như mà cái tên mà nó không tìm thấy thì nó sẽ báo về cái kết
+[09:35] không tìm thấy thì nó sẽ báo về cái kết quả gót oval các bạn chuối nhà nhiều khi
+[09:37] quả gót oval các bạn chuối nhà nhiều khi các bạn tìm nghị các bạn thấy nó Vidal
+[09:39] các bạn tìm nghị các bạn thấy nó Vidal này không phải là lỗi đâu Tức là các bạn
+[09:41] này không phải là lỗi đâu Tức là các bạn dù hàng rất là đúng nhưng mà do cái giá
+[09:44] dù hàng rất là đúng nhưng mà do cái giá trị các bạn tìm kiếm nó không có trong
+[09:46] trị các bạn tìm kiếm nó không có trong cái bảng giá trị dò cho nên nó sẽ trả về
+[09:48] cái bảng giá trị dò cho nên nó sẽ trả về kết quả là lót Vâng ở đây đó các bạn chú
+[09:52] kết quả là lót Vâng ở đây đó các bạn chú ý là như vậy nhá ở đây Mình sẽ lưu lại
+[09:53] ý là như vậy nhá ở đây Mình sẽ lưu lại như vậy nếu như nó tìm thấy nó sẽ trả về
+[09:56] như vậy nếu như nó tìm thấy nó sẽ trả về kết quả đây à
+[09:57] kết quả đây à cho sức chuối cho mình nhá cái hàm
+[10:00] cho sức chuối cho mình nhá cái hàm Vlookup này là gì ạ Cái giá trị các bạn
+[10:03] Vlookup này là gì ạ Cái giá trị các bạn tìm kiếm ở đây này Ở đây lớn như cạn thì
+[10:05] tìm kiếm ở đây này Ở đây lớn như cạn thì họ tên nhá Thì cái bảng giá trị dò các
+[10:07] họ tên nhá Thì cái bảng giá trị dò các bạn phải tìm cái họ tên đầu tiên đấy Bây
+[10:09] bạn phải tìm cái họ tên đầu tiên đấy Bây giờ giả sử với họ tên đấy nó không phải
+[10:11] giờ giả sử với họ tên đấy nó không phải nằm ở đây mà nó làm ở cái phần thành phố
+[10:13] nằm ở đây mà nó làm ở cái phần thành phố này nhé Bây giờ bạn sẽ Bôi đen cái phần
+[10:15] này nhé Bây giờ bạn sẽ Bôi đen cái phần thành phố này Đấy cận kéo sang đây Bạn
+[10:18] thành phố này Đấy cận kéo sang đây Bạn giữ phím ship cho mình nhá sau này mình
+[10:21] giữ phím ship cho mình nhá sau này mình sẽ hướng dẫn các bạn một số các thủ
+[10:22] sẽ hướng dẫn các bạn một số các thủ thuật về cái việc mà di chuyển này sau
+[10:24] thuật về cái việc mà di chuyển này sau nhá các bạn rất hiếm ship nhá Đợi khi mà
+[10:26] nhá các bạn rất hiếm ship nhá Đợi khi mà nó có anh gạch dọc như thế này được thì
+[10:28] nó có anh gạch dọc như thế này được thì các bạn sẽ bỏ cái thiệt trái ra và các
+[10:30] các bạn sẽ bỏ cái thiệt trái ra và các bạn bỏ tiền ship đấy Bây giờ mình sẽ xóa
+[10:33] bạn bỏ tiền ship đấy Bây giờ mình sẽ xóa cái này đi nha nếu như mà anh để tìm
+[10:35] cái này đi nha nếu như mà anh để tìm điện thoại lúc này thì các bạn lại phải
+[10:37] điện thoại lúc này thì các bạn lại phải làm lại nhà các bạn sẽ bằng với lúc cấp
+[10:38] làm lại nhà các bạn sẽ bằng với lúc cấp này các bạn phát nhá thì cái Thành Phần
+[10:41] này các bạn phát nhá thì cái Thành Phần đầu tiên là cái giá trị do thì vẫn là
+[10:43] đầu tiên là cái giá trị do thì vẫn là cái ông Nguyễn Văn Ban này đúng không
+[10:44] cái ông Nguyễn Văn Ban này đúng không phẩy và Rịa cái thành phần thứ hai là
+[10:46] phẩy và Rịa cái thành phần thứ hai là bảng giá trị giò thịt các bạn thôi nhá ở
+[10:49] bảng giá trị giò thịt các bạn thôi nhá ở đây mình tìm họ tên đúng không cho lên
+[10:51] đây mình tìm họ tên đúng không cho lên cái bảng giá trị do các bạn phải bôi đen
+[10:52] cái bảng giá trị do các bạn phải bôi đen từ cái sân họ tên đây tức là cái cột đầu
+[10:55] từ cái sân họ tên đây tức là cái cột đầu tiên của cái bảng giá trị do nó
+[10:57] tiên của cái bảng giá trị do nó thì nó phải chứa cái họ tên mà mình cần
+[10:59] thì nó phải chứa cái họ tên mà mình cần tìm đấy cần phải này thì lúc này cái
+[11:02] tìm đấy cần phải này thì lúc này cái điện thoại ở đây có phải là làm ở cuộn
+[11:03] điện thoại ở đây có phải là làm ở cuộn thứ hai các bạn tính từ cái cột họ tên ở
+[11:05] thứ hai các bạn tính từ cái cột họ tên ở đây cơ 12 đấy còn phẩy hai hỏi bạn phải
+[11:09] đây cơ 12 đấy còn phẩy hai hỏi bạn phải không các bạn enter thì lúc này nó mới
+[11:11] không các bạn enter thì lúc này nó mới ra thôi Còn nếu như mà diện các bạn cái
+[11:13] ra thôi Còn nếu như mà diện các bạn cái bảng giá trị rò đây không phải là từ
+[11:15] bảng giá trị rò đây không phải là từ thiện từ cột C mà các bạn hãy tìm từ cột
+[11:17] thiện từ cột C mà các bạn hãy tìm từ cột bê nhé ví dụ mình thay cái C này bằng B
+[11:19] bê nhé ví dụ mình thay cái C này bằng B Các bạn thấy chứ lúc này nó sẽ bôi đậm
+[11:21] Các bạn thấy chứ lúc này nó sẽ bôi đậm thử cột bê và giả sử mình tìm ở cây số 3
+[11:24] thử cột bê và giả sử mình tìm ở cây số 3 về với cái câu trả lời thứ ba Các em Thơ
+[11:25] về với cái câu trả lời thứ ba Các em Thơ thì nó sẽ báo lỗi nhanh đấy Tại vì gì ạ
+[11:28] thì nó sẽ báo lỗi nhanh đấy Tại vì gì ạ Cái giá trị mà các bạn tìm ở đây là cái
+[11:30] Cái giá trị mà các bạn tìm ở đây là cái họ tên thì cái bảng giá trị do các bạn
+[11:33] họ tên thì cái bảng giá trị do các bạn phải bôi đen từ cái phần họ tên đó đấy
+[11:36] phải bôi đen từ cái phần họ tên đó đấy là cái đặc biệt nghĩ là như vậy nhé Ở
+[11:38] là cái đặc biệt nghĩ là như vậy nhé Ở đây mình đã có một số ghi chú mình nốt
+[11:40] đây mình đã có một số ghi chú mình nốt lại rồi nhé tiếp theo là mình sẽ giới
+[11:43] lại rồi nhé tiếp theo là mình sẽ giới thiệu về cái hòm hát lúc cấp thì cái hàm
+[11:45] thiệu về cái hòm hát lúc cấp thì cái hàm hát nước cấp giống hệt cái hàm Vlookup
+[11:47] hát nước cấp giống hệt cái hàm Vlookup thôi cú pháp nó giống hệt nhau nhưng nó
+[11:49] thôi cú pháp nó giống hệt nhau nhưng nó chỉ khác là thực hiện là cái bảng giá
+[11:51] chỉ khác là thực hiện là cái bảng giá trị giỏ nó sẽ được bố trí theo hàng
+[11:53] trị giỏ nó sẽ được bố trí theo hàng ngang lại ở đây mình sẽ bằng luôn là hát
+[11:55] ngang lại ở đây mình sẽ bằng luôn là hát lúc cấp các bạn đánh tát nhá thì
+[11:57] lúc cấp các bạn đánh tát nhá thì ở trên là giá trị giò vẫn là cái ông họ
+[12:00] ở trên là giá trị giò vẫn là cái ông họ tên ở đây ví dụ ở đây là Nguyễn Duy
+[12:02] tên ở đây ví dụ ở đây là Nguyễn Duy Dương đúng không cần phải lại cái thành
+[12:04] Dương đúng không cần phải lại cái thành phần thứ hai là bảng giá trị dò lại vẫn
+[12:06] phần thứ hai là bảng giá trị dò lại vẫn là cái gì họ tên rồi đấy hãy gọi chú ý
+[12:08] là cái gì họ tên rồi đấy hãy gọi chú ý nhé Ở đây mình cần tìm cái Nguyễn Duy
+[12:11] nhé Ở đây mình cần tìm cái Nguyễn Duy Dương cho nên khách hàng đầu tiên nó
+[12:12] Dương cho nên khách hàng đầu tiên nó phải chứa cái tên lại ở đây cái hàng đầu
+[12:16] phải chứa cái tên lại ở đây cái hàng đầu tiên hàng số 12 đúng không Đấy nó phải
+[12:17] tiên hàng số 12 đúng không Đấy nó phải chứa cái tên này phẩm tiếp theo là gì
+[12:20] chứa cái tên này phẩm tiếp theo là gì anh cái hàng trả về vì ở đây là hát lúc
+[12:22] anh cái hàng trả về vì ở đây là hát lúc cấp đúng không là tìm kiếm cho hàng mà
+[12:23] cấp đúng không là tìm kiếm cho hàng mà thịt xa hàng trả về Bây giờ mình cần tìm
+[12:26] thịt xa hàng trả về Bây giờ mình cần tìm điện thoại đúng không Thì cái hàng của
+[12:28] điện thoại đúng không Thì cái hàng của mình là dễ từ cái hàng Họ tên Đây là một
+[12:30] mình là dễ từ cái hàng Họ tên Đây là một này thằng Thành phố là hay và cái hàng
+[12:32] này thằng Thành phố là hay và cái hàng điện thoại là hành số 3 đúng không phẩy
+[12:34] điện thoại là hành số 3 đúng không phẩy 3 phẩy không có sóng hoặc lại xong Hà
+[12:37] 3 phẩy không có sóng hoặc lại xong Hà lúc cho bạn enter đấy thì như vậy mình
+[12:39] lúc cho bạn enter đấy thì như vậy mình sẽ xong được là cái diện cái điện thoại
+[12:41] sẽ xong được là cái diện cái điện thoại của bạn Nguyễn Duy Dương bây giờ giả sử
+[12:43] của bạn Nguyễn Duy Dương bây giờ giả sử mình không phải là tìm điện thoại đi
+[12:45] mình không phải là tìm điện thoại đi đúng không mà mình tìm là lương đi chẳng
+[12:47] đúng không mà mình tìm là lương đi chẳng ở đây mình là Tiền lương lại thì lương ở
+[12:50] ở đây mình là Tiền lương lại thì lương ở đây lại hàng trả về là hằng số mấy họ
+[12:53] đây lại hàng trả về là hằng số mấy họ tên là một này thành phố là hai điện
+[12:54] tên là một này thành phố là hai điện thoại là ba ngày tuyển dụng 4 và lương
+[12:56] thoại là ba ngày tuyển dụng 4 và lương là năm
+[12:57] là năm ở đây thì cái hàng giả về sẽ là hằng số
+[12:59] ở đây thì cái hàng giả về sẽ là hằng số 5 các loại enter đây như vậy đây là
+[13:02] 5 các loại enter đây như vậy đây là lương thì cái hành với laptop cũng vậy
+[13:04] lương thì cái hành với laptop cũng vậy nha mình quay lại cái hành với lúc có
+[13:05] nha mình quay lại cái hành với lúc có một tí bây giờ mình thích bước vào đây
+[13:07] một tí bây giờ mình thích bước vào đây mình sửa là gì thì chắc tìm từ cái cột C
+[13:09] mình sửa là gì thì chắc tìm từ cái cột C các bạn enter đây Thì như vậy là gì ạ
+[13:12] các bạn enter đây Thì như vậy là gì ạ Cái điện thoại là cái cái điện thoại bạn
+[13:15] Cái điện thoại là cái cái điện thoại bạn kích đúp vào đây và số ba đây mình sẽ xử
+[13:19] kích đúp vào đây và số ba đây mình sẽ xử lý số 2 Đấy nó sẽ ra là điện thoại đúng
+[13:21] lý số 2 Đấy nó sẽ ra là điện thoại đúng không Bây giờ giả sử mình không phải là
+[13:22] không Bây giờ giả sử mình không phải là tìm điện thoại mà tìm ngày tuyển dụng
+[13:24] tìm điện thoại mà tìm ngày tuyển dụng lên đúng không ngày tuyển dụng nhé lại
+[13:26] lên đúng không ngày tuyển dụng nhé lại ví dụ này tuyển dụng thịt cách cột ngày
+[13:29] ví dụ này tuyển dụng thịt cách cột ngày tuyển dụng là Rịa các bạn tính từ cái họ
+[13:30] tuyển dụng là Rịa các bạn tính từ cái họ tên này nhá họ tên là một điện thoại là
+[13:32] tên này nhá họ tên là một điện thoại là hai này chuyển nhượng là ba đúng không
+[13:34] hai này chuyển nhượng là ba đúng không Thì bạn Tĩnh bước vào đây Bạn sửa số 2
+[13:36] Thì bạn Tĩnh bước vào đây Bạn sửa số 2 đường số 3 đấy thì nó sẽ ra là ngày sử
+[13:39] đường số 3 đấy thì nó sẽ ra là ngày sử dụng Còn nếu như mà các bạn thay số 3 và
+[13:41] dụng Còn nếu như mà các bạn thay số 3 và số 4 quả trứng nước và còn sửa số 4 là
+[13:43] số 4 quả trứng nước và còn sửa số 4 là các bạn enter đấy thì nó sẽ ra là diện
+[13:45] các bạn enter đấy thì nó sẽ ra là diện là lương các bạn đổi định dạng nhá bạn
+[13:48] là lương các bạn đổi định dạng nhá bạn sẽ vào cái thẻ hôm các bạn tích và cái
+[13:49] sẽ vào cái thẻ hôm các bạn tích và cái dấu phẩy lại thì nó sẽ ra là lương đây
+[13:52] dấu phẩy lại thì nó sẽ ra là lương đây của bạn diễn Nguyễn Văn Ba là lương thì
+[13:53] của bạn diễn Nguyễn Văn Ba là lương thì 7 9 2 8 4 rồi bây giờ ví dụ mình thay
+[13:57] 7 9 2 8 4 rồi bây giờ ví dụ mình thay bằng gì ạ
+[13:57] bằng gì ạ Lê Hoàng Bảo chị nhé mình sửa thì Hoàng
+[14:00] Lê Hoàng Bảo chị nhé mình sửa thì Hoàng Bà chị này gọi enter đây như vậy là gì ạ
+[14:04] Bà chị này gọi enter đây như vậy là gì ạ lương của bạn Hoàng bảo chị này là 61800
+[14:08] lương của bạn Hoàng bảo chị này là 61800 tháng 3 Đây là cách sử dụng của hàng
+[14:10] tháng 3 Đây là cách sử dụng của hàng Vlookup và hlookup nhá Ok mình sẽ sang
+[14:15] Vlookup và hlookup nhá Ok mình sẽ sang một cái ví dụ là gì ạ phê lúc cấp mà tìm
+[14:17] một cái ví dụ là gì ạ phê lúc cấp mà tìm tương đối thì lúc đấy toàn chú ý nhá cái
+[14:20] tương đối thì lúc đấy toàn chú ý nhá cái hàm Vlookup ở đây này còn tích vào đây
+[14:22] hàm Vlookup ở đây này còn tích vào đây hoặc kích vào đây bạn thấy là thì lúc
+[14:25] hoặc kích vào đây bạn thấy là thì lúc này là rẽ cái giá trị Cuối Cùng Ở đây là
+[14:27] này là rẽ cái giá trị Cuối Cùng Ở đây là cái phạm vi Tìm kiếm mình bằng không
+[14:29] cái phạm vi Tìm kiếm mình bằng không đúng không Thì khi nào thì mình dùng cái
+[14:31] đúng không Thì khi nào thì mình dùng cái phạm vi Tìm kiếm bằng một lại các bạn
+[14:34] phạm vi Tìm kiếm bằng một lại các bạn xanh này còn dùng cái một ở đấy trong
+[14:37] xanh này còn dùng cái một ở đấy trong các trường hợp mà giá trị xác định mà
+[14:38] các trường hợp mà giá trị xác định mà làm cho một khoảng bạn hiểu Hiếu ạ làm
+[14:41] làm cho một khoảng bạn hiểu Hiếu ạ làm trong một khoảng nhá thì ví dụ ở đây là
+[14:43] trong một khoảng nhá thì ví dụ ở đây là gì ạ Cái bảng xếp loại đi đó làm cho một
+[14:45] gì ạ Cái bảng xếp loại đi đó làm cho một khoản ví dụ trong khoảng từ 0 đến 5 thì
+[14:48] khoản ví dụ trong khoảng từ 0 đến 5 thì lại Biển trung bình đúng không Đấy thì
+[14:50] lại Biển trung bình đúng không Đấy thì mình sẽ tìm là cái phạm vi Tìm kiếm
+[14:51] mình sẽ tìm là cái phạm vi Tìm kiếm người sẽ tìm là kết quả một Tức là mình
+[14:53] người sẽ tìm là kết quả một Tức là mình sẽ tìm kiếm tương đối nhá đây làm trung
+[14:56] sẽ tìm kiếm tương đối nhá đây làm trung bình là trong khoảng từ 5 đến 6
+[14:57] bình là trong khoảng từ 5 đến 6 ở đây là khoảng Còn nếu như mà các bạn
+[15:00] ở đây là khoảng Còn nếu như mà các bạn dùng các hàm ít như cái bài số 5 đấy Mà
+[15:01] dùng các hàm ít như cái bài số 5 đấy Mà Cọ xếp loại ở đây mà theo cây nguyên tắc
+[15:05] Cọ xếp loại ở đây mà theo cây nguyên tắc này thì có rất là nhiều hoặc ít đều nhau
+[15:06] này thì có rất là nhiều hoặc ít đều nhau là chí phải Nếu nhỏ Long thì yếu là
+[15:09] là chí phải Nếu nhỏ Long thì yếu là những 6 lần ngón 7 nhóm tao đấy rất là
+[15:12] những 6 lần ngón 7 nhóm tao đấy rất là nhiều hạt mít giống nhau đấy là cái cách
+[15:14] nhiều hạt mít giống nhau đấy là cái cách mà các bạn có thể dùng làm ít mà nhiều
+[15:15] mà các bạn có thể dùng làm ít mà nhiều bạn hãy dùng nhé Thì mình sẽ hướng dẫn
+[15:18] bạn hãy dùng nhé Thì mình sẽ hướng dẫn các bạn là cái cách dùng viên cao cấp
+[15:19] các bạn là cái cách dùng viên cao cấp rất là đơn giản không để làm những việc
+[15:21] rất là đơn giản không để làm những việc này mà các bạn tránh phải dùng cái Hà
+[15:23] này mà các bạn tránh phải dùng cái Hà mít làm bạn rất là nhiều lần trong
+[15:25] mít làm bạn rất là nhiều lần trong trường hợp mà các bạn muốn xếp loạn đấy
+[15:27] trường hợp mà các bạn muốn xếp loạn đấy thì trong các ví dụ này là tiện mình
+[15:29] thì trong các ví dụ này là tiện mình muốn xếp loại cái họ tên ở đây dựa vào
+[15:31] muốn xếp loại cái họ tên ở đây dựa vào điểm trung bình nhá Nếu như là gì từ 0
+[15:33] điểm trung bình nhá Nếu như là gì từ 0 đến 5 thì là loại yếu này từ 5 đến 6 là
+[15:36] đến 5 thì là loại yếu này từ 5 đến 6 là trung bình từ 6 đến 7 giờ chúng mình khá
+[15:38] trung bình từ 6 đến 7 giờ chúng mình khá đấy cái chắc nó ở bên này Ở đây các bạn
+[15:41] đấy cái chắc nó ở bên này Ở đây các bạn sẽ thích và cái ô gì oc4 Các bạn sẽ bằng
+[15:43] sẽ thích và cái ô gì oc4 Các bạn sẽ bằng bằng cái lúc cấp các bạn tác thì cái giá
+[15:46] bằng cái lúc cấp các bạn tác thì cái giá trị mà còn cần tìm kiếm là gì Là cái
+[15:49] trị mà còn cần tìm kiếm là gì Là cái biệt trung bình ở đây tức là đẹp Tôi cần
+[15:52] biệt trung bình ở đây tức là đẹp Tôi cần tìm kiếm cái điểm trung bình là 5.9 này
+[15:53] tìm kiếm cái điểm trung bình là 5.9 này đúng không phải tiếp theo là diện là cái
+[15:57] đúng không phải tiếp theo là diện là cái Ừ rồi ok mình rất thích vào cái bảng giá
+[16:00] Ừ rồi ok mình rất thích vào cái bảng giá trị do ở đây là cái bảng xếp loại này
+[16:02] trị do ở đây là cái bảng xếp loại này nhá đấy các bạn phải tiếp theo là gì Là
+[16:06] nhá đấy các bạn phải tiếp theo là gì Là cái cột trả về nếu như mà tôi tìm được
+[16:09] cái cột trả về nếu như mà tôi tìm được cái điện trung bình này có trả về là
+[16:10] cái điện trung bình này có trả về là diệt là cầu số 3 đúng không Từ cái điểm
+[16:12] diệt là cầu số 3 đúng không Từ cái điểm trung bình nhà rồi Cô trả về là cuộc số
+[16:14] trung bình nhà rồi Cô trả về là cuộc số 3 phần cuối cùng là diện là cách sạn
+[16:17] 3 phần cuối cùng là diện là cách sạn Viên Tìm kiếm thì cái thứ nhá ở đây mình
+[16:19] Viên Tìm kiếm thì cái thứ nhá ở đây mình không thể tìm chính xác được đúng ạ Tại
+[16:21] không thể tìm chính xác được đúng ạ Tại vì 5.9 nó không có cái giá trị ở trong
+[16:23] vì 5.9 nó không có cái giá trị ở trong bảng do tin này đúng không ạ 5.9 thì nó
+[16:26] bảng do tin này đúng không ạ 5.9 thì nó nằm trong cái khoảng từ 5 đến 6 để cho
+[16:28] nằm trong cái khoảng từ 5 đến 6 để cho nên cái thành phần cuối cùng là cái phạm
+[16:30] nên cái thành phần cuối cùng là cái phạm vi Tìm kiếm các bạn phải là một hoặc bà
+[16:32] vi Tìm kiếm các bạn phải là một hoặc bà Chu là tìm tương đối với Ví dụ mình gõ
+[16:34] Chu là tìm tương đối với Ví dụ mình gõ Chu cũng được đấy các bạn xem đóng lại
+[16:36] Chu cũng được đấy các bạn xem đóng lại để các enter thì nó sẽ trả về cái quả gì
+[16:39] để các enter thì nó sẽ trả về cái quả gì ạ đây trả về kết quả được xếp loại đây
+[16:41] ạ đây trả về kết quả được xếp loại đây là từ 0 đến 5 thì bạn thích nước vào đây
+[16:43] là từ 0 đến 5 thì bạn thích nước vào đây mình sửa thì những lúc này cái cột trả
+[16:45] mình sửa thì những lúc này cái cột trả về không phải là cuộc số 3 là cầu số 2
+[16:46] về không phải là cuộc số 3 là cầu số 2 Đấy cái cột nốt lại là mình ghi chú gọi
+[16:49] Đấy cái cột nốt lại là mình ghi chú gọi enter đợi thì nó sẽ trả về trung bình
+[16:51] enter đợi thì nó sẽ trả về trung bình đúng không Bây giờ mình sẽ thích lúc nhá
+[16:53] đúng không Bây giờ mình sẽ thích lúc nhá Còn chú ý bây giờ còn tinh lúc nó sẽ bị
+[16:56] Còn chú ý bây giờ còn tinh lúc nó sẽ bị báo lỗi ở một số trường hợp
+[16:57] báo lỗi ở một số trường hợp Ừ lát nữa mình sẽ chết cho các bạn này
+[16:59] Ừ lát nữa mình sẽ chết cho các bạn này còn thích nút bên đấy Bạn thấy chứ ba
+[17:02] còn thích nút bên đấy Bạn thấy chứ ba cái trường hợp này nó sẽ báo lỗi tại vì
+[17:04] cái trường hợp này nó sẽ báo lỗi tại vì sao Bởi cậu sẽ tiếp bước vào đây còn
+[17:05] sao Bởi cậu sẽ tiếp bước vào đây còn thấy đấy thì các bạn xếp loại nó sẽ bị
+[17:08] thấy đấy thì các bạn xếp loại nó sẽ bị dịch xuống đây thấy tại sao nó lại bị
+[17:10] dịch xuống đây thấy tại sao nó lại bị dịch tại vì mình áp dụng với công thức
+[17:12] dịch tại vì mình áp dụng với công thức này cho các cái ô dưới này thì khi mà
+[17:14] này cho các cái ô dưới này thì khi mà các bạn áp dụng công thức cho các ống
+[17:16] các bạn áp dụng công thức cho các ống giấy này ạ thì cái phạm vi Tìm kiếm nó
+[17:18] giấy này ạ thì cái phạm vi Tìm kiếm nó sẽ bị dịch chuyển theo thì như vậy là gì
+[17:20] sẽ bị dịch chuyển theo thì như vậy là gì ạ Cái công thức ban đầu mình phải cố
+[17:22] ạ Cái công thức ban đầu mình phải cố định được cái phạm vi Tìm kiếm cơ đấy
+[17:24] định được cái phạm vi Tìm kiếm cơ đấy như vậy là cái công thức ban đầu mình
+[17:25] như vậy là cái công thức ban đầu mình chưa cố định phạm vi Tìm kiếm thế là
+[17:27] chưa cố định phạm vi Tìm kiếm thế là mình chưa có đô la trước các bạn vi Tìm
+[17:30] mình chưa có đô la trước các bạn vi Tìm kiếm cho nên nó sẽ bị dịch chuyển lại họ
+[17:31] kiếm cho nên nó sẽ bị dịch chuyển lại họ sẽ tích và cái ô C4 này để còn sửa công
+[17:34] sẽ tích và cái ô C4 này để còn sửa công thức nhé các bạn Facebook với ô C4 này
+[17:36] thức nhé các bạn Facebook với ô C4 này Bây giờ cậu sẽ Model Cái gì ạ từ E 4:10
+[17:39] Bây giờ cậu sẽ Model Cái gì ạ từ E 4:10 là sau đó các bạn F4 nhá để diện để cố
+[17:42] là sau đó các bạn F4 nhá để diện để cố định cái bảng giá trị do này sau khi các
+[17:45] định cái bảng giá trị do này sau khi các bạn ở F4 còn thấy chứ cái chuyện Donal
+[17:47] bạn ở F4 còn thấy chứ cái chuyện Donal nó sẽ trước hàng sẽ cột của các phạm vi
+[17:49] nó sẽ trước hàng sẽ cột của các phạm vi này nếu như bạn nào mà bấm F4 không được
+[17:51] này nếu như bạn nào mà bấm F4 không được thì các sẽ bấm cái tăng sức F4 nhá các
+[17:54] thì các sẽ bấm cái tăng sức F4 nhá các bạn enter rồi Bây giờ con sẽ thích Bữa
+[17:56] bạn enter rồi Bây giờ con sẽ thích Bữa nay còn thương Tĩnh buộc cô
+[17:57] nay còn thương Tĩnh buộc cô Ừ đợi thì như vậy Gì ạ Các Cái ô này đã
+[18:01] Ừ đợi thì như vậy Gì ạ Các Cái ô này đã đúng rồi nhé Bây giờ mình sẽ kết thúc ở
+[18:02] đúng rồi nhé Bây giờ mình sẽ kết thúc ở đây còn kiểm tra lại đấy Cái phạm vi Tìm
+[18:04] đây còn kiểm tra lại đấy Cái phạm vi Tìm kiếm lúc này nó sẽ cố định không bị di
+[18:05] kiếm lúc này nó sẽ cố định không bị di chuyển phải tại vì ở đây mình đã có cái
+[18:07] chuyển phải tại vì ở đây mình đã có cái đôla chứa kháng của chiếc cầu rồi đúng
+[18:09] đôla chứa kháng của chiếc cầu rồi đúng không đấy còn chửi nhá tất cả cái vùng
+[18:13] không đấy còn chửi nhá tất cả cái vùng tham chiếu tới à Cái bảng giá trị rò thì
+[18:15] tham chiếu tới à Cái bảng giá trị rò thì các bạn phải cố định nó cho mình nhá Tại
+[18:17] các bạn phải cố định nó cho mình nhá Tại vì sao Hầu như các công thức của mình
+[18:19] vì sao Hầu như các công thức của mình mình được áp dụng cho các cái ô khác
+[18:20] mình được áp dụng cho các cái ô khác nhau cho nên cái bảng giá trị do các bạn
+[18:22] nhau cho nên cái bảng giá trị do các bạn cần phải cố định bằng cách là các bạn sẽ
+[18:25] cần phải cố định bằng cách là các bạn sẽ bấm phím tắt này F4 nhá Đấy là cái hết
+[18:27] bấm phím tắt này F4 nhá Đấy là cái hết sức lưu ý cho mình Đây là cái cách để
+[18:29] sức lưu ý cho mình Đây là cái cách để các ứng dụng các hàm Vlookup trong
+[18:31] các ứng dụng các hàm Vlookup trong trường hợp này mình tìm gần đúng nhá các
+[18:33] trường hợp này mình tìm gần đúng nhá các bạn chui Nhát Để làm được cái việc này
+[18:35] bạn chui Nhát Để làm được cái việc này còn chú ý cho mình là gì ạ Cái điện
+[18:38] còn chú ý cho mình là gì ạ Cái điện trung bình có phải sắp xếp giữa từ nhỏ
+[18:39] trung bình có phải sắp xếp giữa từ nhỏ đến lớn lại Nếu như các bạn sắp xếp từ
+[18:41] đến lớn lại Nếu như các bạn sắp xếp từ lớn đến nhỏ là các bạn không ra đâu bây
+[18:42] lớn đến nhỏ là các bạn không ra đâu bây giờ ví dụ các bạn sắp xếp từ lớn đến nhỏ
+[18:44] giờ ví dụ các bạn sắp xếp từ lớn đến nhỏ nhá bạn Bôi đen này các bạn sẽ vào cái
+[18:48] nhá bạn Bôi đen này các bạn sẽ vào cái thẻ data Các bạn cứ làm cho mình đi các
+[18:50] thẻ data Các bạn cứ làm cho mình đi các bạn sẽ sắp xếp từ Z đến nhà cá thích vào
+[18:52] bạn sẽ sắp xếp từ Z đến nhà cá thích vào đây sau này mình sẽ giới thiệu một số
+[18:54] đây sau này mình sẽ giới thiệu một số các thủ thuật sau nhé Hãy chọn ở đây đấy
+[18:56] các thủ thuật sau nhé Hãy chọn ở đây đấy Bạn thấy chứ gì
+[18:57] Bạn thấy chứ gì Ma Kết quả đây tôi sẽ báo lỗi ngay đấy
+[18:59] Ma Kết quả đây tôi sẽ báo lỗi ngay đấy cho nên nhờ là gì ạ là cái điện trung
+[19:02] cho nên nhờ là gì ạ là cái điện trung bình ở đây các bạn phải sắp xếp từ nhỏ
+[19:04] bình ở đây các bạn phải sắp xếp từ nhỏ đến lớn Bây giờ mình sẽ lưu lại để bạn
+[19:06] đến lớn Bây giờ mình sẽ lưu lại để bạn thấy chứ Kết quả là ok rồi nhé Gọi chú
+[19:10] thấy chứ Kết quả là ok rồi nhé Gọi chú nhắc cái hàm Vlookup nó có một số các
+[19:13] nhắc cái hàm Vlookup nó có một số các nhược điểm là nhược điểm là gì ạ là cái
+[19:16] nhược điểm là nhược điểm là gì ạ là cái các bạn cần tìm kiếm có phải làm ở bên
+[19:18] các bạn cần tìm kiếm có phải làm ở bên phải giá trị dò tìm tức là gì ạ Mình
+[19:21] phải giá trị dò tìm tức là gì ạ Mình đang cần tìm cái ngày tuyển dụng đấy dựa
+[19:24] đang cần tìm cái ngày tuyển dụng đấy dựa vào cái họ tên đúng không Thì cái ngày
+[19:25] vào cái họ tên đúng không Thì cái ngày tuyển dụng nó phải làm ở bên phải của
+[19:27] tuyển dụng nó phải làm ở bên phải của cái trường họ tên ở đây nhưng nếu như
+[19:29] cái trường họ tên ở đây nhưng nếu như cái họ tên đi mà nó làm sau cái ngày
+[19:31] cái họ tên đi mà nó làm sau cái ngày tuyển dụng hoặc là lương Tức là ví dụ nó
+[19:33] tuyển dụng hoặc là lương Tức là ví dụ nó làm ở cuối cùng một đây thì các bạn
+[19:34] làm ở cuối cùng một đây thì các bạn không thể dùng cái góc cấp được rồi lúc
+[19:36] không thể dùng cái góc cấp được rồi lúc đấy các bạn buộc phải dùng cái hàm index
+[19:38] đấy các bạn buộc phải dùng cái hàm index đồng nát thì cái hàm index và mét này
+[19:40] đồng nát thì cái hàm index và mét này mình sẽ giới thiệu trong các bài học sau
+[19:42] mình sẽ giới thiệu trong các bài học sau là cái bài học về các hàm Excel quan
+[19:45] là cái bài học về các hàm Excel quan trọng khác nhá Đợi thì trong phạm vi của
+[19:46] trọng khác nhá Đợi thì trong phạm vi của wh lúc cao Hôm nay thì mình sẽ không
+[19:49] wh lúc cao Hôm nay thì mình sẽ không giới thiệu cách hàm index và Mít Ok Bây
+[19:52] giới thiệu cách hàm index và Mít Ok Bây giờ mình sẽ xem cái câu hỏi về nhà của
+[19:55] giờ mình sẽ xem cái câu hỏi về nhà của cái bài tập hôm nay là về W
+[19:57] cái bài tập hôm nay là về W đi câu hỏi Ok câu hỏi cho bài tập về nhà
+[20:03] đi câu hỏi Ok câu hỏi cho bài tập về nhà là như sau ngã ở đây mình có biểu giá
+[20:05] là như sau ngã ở đây mình có biểu giá phòng Đây là loại Phòng đây là đơn giá
+[20:07] phòng Đây là loại Phòng đây là đơn giá tuần và đơn giản này Bây giờ các bạn cần
+[20:09] tuần và đơn giản này Bây giờ các bạn cần xác định cho mình nó được ra tuần là bao
+[20:10] xác định cho mình nó được ra tuần là bao nhiêu và đơn giản này của các loại Phòng
+[20:12] nhiêu và đơn giản này của các loại Phòng là bao nhiêu nhé tương tự với hạt nước
+[20:14] là bao nhiêu nhé tương tự với hạt nước khác cũng vậy nha ở đây mình có các loại
+[20:16] khác cũng vậy nha ở đây mình có các loại phòng là được bố trí theo hàng ngang thì
+[20:18] phòng là được bố trí theo hàng ngang thì các bạn cần xác định cho mình đã đứng ra
+[20:20] các bạn cần xác định cho mình đã đứng ra quần là bao nhiêu và đơn giản này là bao
+[20:22] quần là bao nhiêu và đơn giản này là bao nhiêu đấy câu hỏi về nhà nó cũng đơn
+[20:24] nhiêu đấy câu hỏi về nhà nó cũng đơn giản như vậy thôi Ok như vậy là mình đã
+[20:27] giản như vậy thôi Ok như vậy là mình đã kết thúc bài học ngày hôm nay ở đây cảm
+[20:30] kết thúc bài học ngày hôm nay ở đây cảm ơn các bạn đã theo dõi các bạn nhớ đăng
+[20:31] ơn các bạn đã theo dõi các bạn nhớ đăng ký Kênh để cập nhật video mới nhất của
+[20:33] ký Kênh để cập nhật video mới nhất của gà cũng như chia sẻ để giúp mọi người
+[20:35] gà cũng như chia sẻ để giúp mọi người cùng học Excel nhé Xin chào và hẹn gặp
+[20:38] cùng học Excel nhé Xin chào và hẹn gặp lại ở

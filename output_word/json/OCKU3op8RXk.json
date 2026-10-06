@@ -1,0 +1,401 @@
+{
+ "video_id": "OCKU3op8RXk",
+ "bai": "Cài font chữ mặc định trong Word",
+ "url": "https://www.youtube.com/watch?v=OCKU3op8RXk",
+ "ky_nang": [
+  {
+   "ten": "Mở hộp thoại Font",
+   "thao_tac": "Nhấn Ctrl+Shift+F hoặc Ctrl+D; hoặc Home > nhóm Font > mũi tên mở rộng",
+   "duong_dan_menu": "Home > Font > mũi tên mở rộng",
+   "phim_tat": "Ctrl+Shift+F hoặc Ctrl+D",
+   "giai_thich": "Hộp thoại Font là nơi đặt font mặc định.",
+   "vi_du": "Ctrl+D mở hộp thoại Font"
+  },
+  {
+   "ten": "Chọn font mặc định",
+   "thao_tac": "Chọn Font: Arial (hoặc Times New Roman theo yêu cầu)",
+   "duong_dan_menu": "Home > Font > Font",
+   "phim_tat": "",
+   "giai_thich": "Chọn họ chữ dùng cho mọi văn bản mới.",
+   "vi_du": "Font Arial"
+  },
+  {
+   "ten": "Chọn kiểu và cỡ chữ",
+   "thao_tac": "Font style: Regular; Size: 11 (hoặc 13/14)",
+   "duong_dan_menu": "Home > Font > Style/Size",
+   "phim_tat": "",
+   "giai_thich": "Video chọn Regular, cỡ 11.",
+   "vi_du": "Regular, 11"
+  },
+  {
+   "ten": "Đặt làm mặc định",
+   "thao_tac": "Nhấn Set As Default > chọn All documents based on the Normal template > OK",
+   "duong_dan_menu": "Font dialog > Set As Default",
+   "phim_tat": "",
+   "giai_thich": "Lưu lựa chọn thành mặc định cho mọi file mới.",
+   "vi_du": "Set As Default > All documents"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "cau": "Phím tắt mở hộp thoại Font trong video là gì?",
+   "lua_chon": {
+    "A": "Ctrl+F",
+    "B": "Ctrl+Shift+F",
+    "C": "Ctrl+G",
+    "D": "Ctrl+L"
+   },
+   "dap_an": "B",
+   "muc_do": "dễ",
+   "giai_thich": "Video nhấn Ctrl+Shift+F; Ctrl+D cũng mở được."
+  },
+  {
+   "cau": "Ngoài phím tắt, mở hộp thoại Font bằng cách nào?",
+   "lua_chon": {
+    "A": "Mũi tên nhỏ góc nhóm Font thẻ Home",
+    "B": "Nút Save",
+    "C": "Nút Print",
+    "D": "Thanh cuộn"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Click mũi tên ở góc nhóm Font."
+  },
+  {
+   "cau": "Font mặc định video chọn là gì?",
+   "lua_chon": {
+    "A": "Calibri",
+    "B": "Arial",
+    "C": "Verdana",
+    "D": "Tahoma"
+   },
+   "dap_an": "B",
+   "muc_do": "dễ",
+   "giai_thich": "Video chọn Arial."
+  },
+  {
+   "cau": "Kiểu chữ video chọn là gì?",
+   "lua_chon": {
+    "A": "Bold",
+    "B": "Italic",
+    "C": "Regular",
+    "D": "Bold Italic"
+   },
+   "dap_an": "C",
+   "muc_do": "dễ",
+   "giai_thich": "Kiểu thông thường Regular."
+  },
+  {
+   "cau": "Cỡ chữ video chọn là bao nhiêu?",
+   "lua_chon": {
+    "A": "14",
+    "B": "12",
+    "C": "11",
+    "D": "26"
+   },
+   "dap_an": "C",
+   "muc_do": "dễ",
+   "giai_thich": "Video chọn cỡ 11."
+  },
+  {
+   "cau": "Nút nào lưu font thành mặc định?",
+   "lua_chon": {
+    "A": "Set As Default",
+    "B": "OK luôn",
+    "C": "Cancel",
+    "D": "Print"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Phải nhấn Set As Default."
+  },
+  {
+   "cau": "Sau Set As Default phải chọn tùy chọn nào?",
+   "lua_chon": {
+    "A": "This document only",
+    "B": "All documents based on the Normal template",
+    "C": "No documents",
+    "D": "Web only"
+   },
+   "dap_an": "B",
+   "muc_do": "dễ",
+   "giai_thich": "Chọn All documents để áp dụng mọi file mới."
+  },
+  {
+   "cau": "Mở file Word mới để kiểm tra bằng phím nào?",
+   "lua_chon": {
+    "A": "Ctrl+N",
+    "B": "Ctrl+O",
+    "C": "Ctrl+W",
+    "D": "Ctrl+Q"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Ctrl+N mở file mới thấy Arial 11."
+  },
+  {
+   "cau": "Thẻ nào chứa nhóm Font?",
+   "lua_chon": {
+    "A": "Insert",
+    "B": "Home",
+    "C": "Layout",
+    "D": "View"
+   },
+   "dap_an": "B",
+   "muc_do": "dễ",
+   "giai_thich": "Nhóm Font nằm thẻ Home."
+  },
+  {
+   "cau": "Ctrl+D trong Word có tác dụng gì?",
+   "lua_chon": {
+    "A": "Mở hộp thoại Font",
+    "B": "Xóa văn bản",
+    "C": "Lưu file",
+    "D": "In file"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Ctrl+D mở Font dialog."
+  },
+  {
+   "cau": "Vì sao phải nhấn Set As Default thay vì chỉ OK?",
+   "lua_chon": {
+    "A": "OK chỉ đổi chỗ đang chọn; Set As Default mới lưu cho file mới sau này",
+    "B": "OK làm hỏng máy",
+    "C": "Set As Default để trang trí",
+    "D": "Không khác gì"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Video nhấn mạnh điểm này."
+  },
+  {
+   "cau": "Font style Regular nghĩa là gì?",
+   "lua_chon": {
+    "A": "Chữ thường, không đậm không nghiêng",
+    "B": "Chữ đậm",
+    "C": "Chữ nghiêng",
+    "D": "Chữ gạch chân"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Regular là kiểu thông thường."
+  },
+  {
+   "cau": "Size trong hộp thoại Font là gì?",
+   "lua_chon": {
+    "A": "Cỡ chữ (pt)",
+    "B": "Màu chữ",
+    "C": "Khoảng cách dòng",
+    "D": "Lề giấy"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Size là cỡ chữ."
+  },
+  {
+   "cau": "Nếu muốn cỡ 13 cho luận văn thì làm sao?",
+   "lua_chon": {
+    "A": "Vẫn các bước trên nhưng chọn Size 13 rồi Set As Default",
+    "B": "Không đổi được",
+    "C": "Phải cài lại Word",
+    "D": "Đổi cỡ màn hình"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Chỉ thay số cỡ rồi lưu mặc định."
+  },
+  {
+   "cau": "Tùy chọn All documents based on Normal có nghĩa gì?",
+   "lua_chon": {
+    "A": "Áp dụng cho mọi văn bản mới dùng mẫu Normal",
+    "B": "Chỉ file hiện tại",
+    "C": "Chỉ máy in",
+    "D": "Chỉ tiêu đề"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Normal là mẫu mặc định của Word."
+  },
+  {
+   "cau": "Dấu hiệu font mặc định đã đổi thành công?",
+   "lua_chon": {
+    "A": "Mở file mới thấy Arial 11 sẵn",
+    "B": "Máy kêu",
+    "C": "Màn hình đổi màu",
+    "D": "Mất hết chữ"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Video mở file mới kiểm tra."
+  },
+  {
+   "cau": "Muốn mở Font dialog từ thẻ Home thì click đâu?",
+   "lua_chon": {
+    "A": "Mũi tên chéo góc dưới-bên phải nhóm Font",
+    "B": "Nút B",
+    "C": "Nút U",
+    "D": "Thước kẻ"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Icon launcher góc nhóm Font."
+  },
+  {
+   "cau": "Phím Ctrl+Shift+F gồm những phím nào?",
+   "lua_chon": {
+    "A": "Ctrl + Shift + F",
+    "B": "Ctrl + F",
+    "C": "Shift + F",
+    "D": "Alt + F"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Đúng tổ hợp 3 phím."
+  },
+  {
+   "cau": "Nếu chọn This document only thì điều gì xảy ra?",
+   "lua_chon": {
+    "A": "Chỉ file hiện tại đổi, file mới sau không đổi",
+    "B": "Mọi file đều đổi",
+    "C": "Word lỗi",
+    "D": "Mất font"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Phải chọn All documents mới có tác dụng lâu dài."
+  },
+  {
+   "cau": "Font Arial thuộc nhóm nào?",
+   "lua_chon": {
+    "A": "Font không chân (sans-serif), dễ đọc trên màn hình",
+    "B": "Font chữ thư pháp",
+    "C": "Font biểu tượng",
+    "D": "Font mã vạch"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Arial là sans-serif phổ biến."
+  },
+  {
+   "cau": "Cỡ 11pt phù hợp cho?",
+   "lua_chon": {
+    "A": "Văn bản thông thường, tiết kiệm trang mà vẫn dễ đọc",
+    "B": "Tiêu đề pano",
+    "C": "Chữ ký",
+    "D": "Mã QR"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "11pt là cỡ văn bản phổ biến."
+  },
+  {
+   "cau": "Sau khi OK ở hộp thoại xác nhận thì nhấn gì nữa?",
+   "lua_chon": {
+    "A": "OK để đóng hộp thoại Font",
+    "B": "Tắt máy",
+    "C": "Xóa chữ",
+    "D": "In ngay"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Nhấn OK hoàn tất."
+  },
+  {
+   "cau": "Mẫu Normal.dotm lưu ở đâu?",
+   "lua_chon": {
+    "A": "Trong thư mục Templates của user trên máy đó",
+    "B": "Trên mạng",
+    "C": "Trong máy in",
+    "D": "Trong USB"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Mẫu Normal lưu cục bộ theo user."
+  },
+  {
+   "cau": "Đổi font mặc định có ảnh hưởng file cũ không?",
+   "lua_chon": {
+    "A": "Không, chỉ file mới tạo sau đó",
+    "B": "Có, đổi hết mọi file cũ",
+    "C": "Xóa hết file cũ",
+    "D": "Đổi cả Excel"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "File cũ giữ định dạng đã lưu."
+  },
+  {
+   "cau": "Vì sao cùng thao tác dùng được cho Word 2013-2021?",
+   "lua_chon": {
+    "A": "Vì hộp thoại Font và Normal template không đổi qua các bản",
+    "B": "Vì Microsoft quên cập nhật",
+    "C": "Vì video đoán",
+    "D": "Vì máy giống nhau"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Các bản Word giữ nguyên cơ chế này."
+  },
+  {
+   "cau": "Nếu mở Word thấy vẫn Calibri 11 thì nguyên nhân?",
+   "lua_chon": {
+    "A": "Chưa nhấn Set As Default hoặc chọn nhầm This document only",
+    "B": "Chưa bật máy",
+    "C": "Chưa có điện",
+    "D": "Do virus chắc chắn"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Lỗi phổ biến là quên bước lưu mặc định."
+  },
+  {
+   "cau": "Regular + 11pt + Arial tạo ra?",
+   "lua_chon": {
+    "A": "Văn bản thường dễ đọc, chuẩn công sở",
+    "B": "Tiêu đề nghệ thuật",
+    "C": "Chữ đậm nghiêng",
+    "D": "Chữ ẩn"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Đúng combo video chọn."
+  },
+  {
+   "cau": "Muốn font mặc định là Times New Roman 13 thì?",
+   "lua_chon": {
+    "A": "Làm đúng quy trình, chọn Times New Roman + Regular + 13 + Set As Default All documents",
+    "B": "Không thể",
+    "C": "Phải mua Word mới",
+    "D": "Đổi hệ điều hành"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Quy trình giống hệt, chỉ đổi giá trị."
+  },
+  {
+   "cau": "Thứ tự đúng các bước cài font mặc định?",
+   "lua_chon": {
+    "A": "Mở Font dialog > chọn Font/Style/Size > Set As Default > All documents > OK > kiểm tra file mới",
+    "B": "OK trước rồi mở dialog",
+    "C": "Tắt máy rồi mở",
+    "D": "In rồi mới cài"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Đúng trình tự video hướng dẫn."
+  },
+  {
+   "cau": "Kết luận video?",
+   "lua_chon": {
+    "A": "File mới đã sẵn Arial 11 nhờ Set As Default All documents",
+    "B": "Không đổi được",
+    "C": "Phải đổi mỗi lần",
+    "D": "Chỉ đổi được 1 lần"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Video mở file mới chứng minh thành công."
+  }
+ ]
+}

@@ -1,0 +1,525 @@
+{
+  "video_id": "Mh7pkYVP3tk",
+  "bai": "Bai 17 bao ve du lieu: Kiem soat nhap lieu, Protect File/Sheet/Range",
+  "url": "https://www.youtube.com/watch?v=Mh7pkYVP3tk",
+  "cong_thuc": [
+    {
+      "ten": "Kiem soat So von >=0",
+      "cong_thuc": "Data > Validation > Allow: Whole number, Data: greater than or equal to, Minimum: 0",
+      "giai_thich": "Chi cho nhap so nguyen >=0, chan so am va text.",
+      "vi_du": "Nhap 1 OK; -1 hoac 'Gai Excel' bao loi"
+    },
+    {
+      "ten": "LEFT lay ky tu dau",
+      "cong_thuc": "=LEFT(o,1)",
+      "giai_thich": "Lay 1 ky tu dau de kiem tra co phai text. Dung ghep voi VALUE/ISNUMBER.",
+      "vi_du": "=LEFT('G123',1) -> 'G'"
+    },
+    {
+      "ten": "Kiem tra ky tu dau la text",
+      "cong_thuc": "=NOT(ISNUMBER(VALUE(LEFT(o,1))))",
+      "giai_thich": "VALUE(text) loi, ISNUMBER FALSE, NOT TRUE nghia la ky tu dau la text.",
+      "vi_du": "G123: LEFT=G, VALUE loi, TRUE la text; 1234: LEFT=1, VALUE=1, FALSE"
+    },
+    {
+      "ten": "Kiem tra 3 ky tu sau la so",
+      "cong_thuc": "=ISNUMBER(VALUE(RIGHT(o,3)))",
+      "giai_thich": "RIGHT lay 3 ky tu cuoi, VALUE chuyen sang so, ISNUMBER TRUE nghia la so.",
+      "vi_du": "RIGHT G123 la 123 -> VALUE 123 -> ISNUMBER TRUE"
+    },
+    {
+      "ten": "Kiem tra do dai =4",
+      "cong_thuc": "=LEN(o)=4",
+      "giai_thich": "Ma cong ty bat buoc 4 ky tu.",
+      "vi_du": "LEN(G123)=4 TRUE; LEN(G12345)=6 FALSE"
+    },
+    {
+      "ten": "Gop 3 dieu kien ma cong ty",
+      "cong_thuc": "=AND(NOT(ISNUMBER(VALUE(LEFT(o,1)))),ISNUMBER(VALUE(RIGHT(o,3))),LEN(o)=4)",
+      "giai_thich": "AND yeu cau ca 3 TRUE: dau la text, 3 sau la so, dai 4. Dung lam Custom Validation.",
+      "vi_du": "=AND(NOT(ISNUMBER(VALUE(LEFT(B2,1)))),ISNUMBER(VALUE(RIGHT(B2,3))),LEN(B2)=4); G123 TRUE, 1234 FALSE, ABC FALSE"
+    },
+    {
+      "ten": "Protect Workbook (ma mo file)",
+      "cong_thuc": "File > Info > Protect Workbook > Encrypt with Password",
+      "giai_thich": "Dat mat khau mo file. Quen mat khau khong mo duoc. Nhap sai bao loi.",
+      "vi_du": "Dat 123 > xac nhan 123 > Save > mo lai doi password"
+    },
+    {
+      "ten": "Protect Sheet",
+      "cong_thuc": "Review > Protect Sheet > nhap password > OK > xac nhan",
+      "giai_thich": "Khoa sheet khong cho sua. Bo khoa: Review > Unprotect Sheet + nhap dung password.",
+      "vi_du": "Protect sheet Tong hop 123; click sua bi chan; Unprotect nhap 123 moi sua duoc"
+    },
+    {
+      "ten": "Bao ve vung trong sheet (Unlock all -> Lock vung)",
+      "cong_thuc": "Chon all > Format Cells > Protection > bo Locked; boi den vung can khoa > tich Locked; Review > Protect Sheet",
+      "giai_thich": "Mac dinh moi o deu Locked nhung chi co tac dung khi Protect Sheet. Nen mo het roi chi Locked vung quan trong (Don vi/Don gia/Thanh tien).",
+      "vi_du": "Ctrl+A bo Locked > chon C:E tich Locked > Protect Sheet pass GX; sua So luong duoc, sua Don gia bi chan; Thanh tien = So luong*Don gia, SUM tong"
+    },
+    {
+      "ten": "Khoa + An cong thuc (Locked + Hidden)",
+      "cong_thuc": "Ctrl+G > Special > Formulas > OK; Format Cells > Protection > Locked + Hidden; Review > Protect Sheet",
+      "giai_thich": "Formulas chon het o chua cong thuc; Hidden giup khong hien cong thuc tren Formula Bar khi Protect.",
+      "vi_du": "Chon formulas > Locked+Hidden > Protect 456/123; click o tong khong sua duoc va khong thay cong thuc"
+    }
+  ],
+  "thuat_toan_quy_trinh": [
+    {
+      "ten": "Kiem soat So von la so >=0",
+      "cac_buoc": [
+        "Boi den vung So von",
+        "Data > Data Validation > Allow: Whole number",
+        "Data: greater than or equal to, Minimum 0",
+        "OK; thu nhap -1/text bao loi, nhap 1 OK"
+      ]
+    },
+    {
+      "ten": "Xay dung cong thuc ma G123 (text+3 so, dai 4)",
+      "cac_buoc": [
+        "DK1: NOT(ISNUMBER(VALUE(LEFT(o,1)))) de check dau la text",
+        "DK2: ISNUMBER(VALUE(RIGHT(o,3))) de check 3 sau la so",
+        "DK3: LEN(o)=4",
+        "Gop: =AND(DK1,DK2,DK3); copy (bo dau ' de hien cong thuc) vao Validation Custom"
+      ]
+    },
+    {
+      "ten": "Bao ve file bang mat khau",
+      "cac_buoc": [
+        "File > Info > Protect Workbook > Encrypt with Password",
+        "Nhap password (vd 123, nen dat kho) > OK",
+        "Xac nhan lai > OK > Save",
+        "Dong mo lai: bat nhap password; sai bao loi"
+      ]
+    },
+    {
+      "ten": "Bao ve sheet",
+      "cac_buoc": [
+        "Review > Protect Sheet",
+        "Nhap password > OK > xac nhan",
+        "Thu sua: bi chan",
+        "Bo bao ve: Review > Unprotect Sheet + password"
+      ]
+    },
+    {
+      "ten": "Bao ve vung Don vi/Don gia/Thanh tien",
+      "cac_buoc": [
+        "Chon toan sheet > Format Cells > Protection > bo Locked > OK",
+        "Boi den vung can bao ve (giu Ctrl chon nhieu) > Format Cells > tich Locked",
+        "Review > Protect Sheet + password",
+        "Kiem tra: sua So luong duoc + cong thuc tu cap nhat; sua vung khoa bi chan"
+      ]
+    },
+    {
+      "ten": "Khoa toan bo o chua cong thuc + an cong thuc",
+      "cac_buoc": [
+        "Ctrl+A > Format Cells > bo Locked (mo het)",
+        "Ctrl+G > Special > Formulas > OK (chon het o cong thuc)",
+        "Chuot phai > Format Cells > tich Locked (+ Hidden neu muon an)",
+        "Review > Protect Sheet; kiem tra: o thuong sua duoc, o cong thuc bi chan va khong hien tren Formula Bar"
+      ]
+    }
+  ],
+  "cau_hoi": [
+    {
+      "id": 1,
+      "cau": "So von phai la kieu gi?",
+      "A": "So nguyen >=0 (Whole number, >=0)",
+      "B": "Text",
+      "C": "So am",
+      "D": "Ngay thang",
+      "dap_an": "A",
+      "giai_thich": "Whole number >=0 chan text va so am."
+    },
+    {
+      "id": 2,
+      "cau": "Ap dung: So von phai la kieu gi?",
+      "A": "So nguyen >=0 (Whole number, >=0)",
+      "B": "Text",
+      "C": "So am",
+      "D": "Ngay thang",
+      "dap_an": "A",
+      "giai_thich": "Whole number >=0 chan text va so am."
+    },
+    {
+      "id": 3,
+      "cau": "Nhap -1 vao So von da validation thi sao?",
+      "A": "Bao loi ngay",
+      "B": "Van OK",
+      "C": "Tu xoa",
+      "D": "Tat may",
+      "dap_an": "A",
+      "giai_thich": "Vi <0 vi pham Minimum 0."
+    },
+    {
+      "id": 4,
+      "cau": "Ap dung: Nhap -1 vao So von da validation thi sao?",
+      "A": "Bao loi ngay",
+      "B": "Van OK",
+      "C": "Tu xoa",
+      "D": "Tat may",
+      "dap_an": "A",
+      "giai_thich": "Vi <0 vi pham Minimum 0."
+    },
+    {
+      "id": 5,
+      "cau": "Nhap 'Gai Excel' vao So von thi sao?",
+      "A": "Bao loi, chi cho nhap so",
+      "B": "Van OK",
+      "C": "Tu doi thanh 0",
+      "D": "Khong sao",
+      "dap_an": "A",
+      "giai_thich": "Whole number loai text."
+    },
+    {
+      "id": 6,
+      "cau": "Ap dung: Nhap 'Gai Excel' vao So von thi sao?",
+      "A": "Bao loi, chi cho nhap so",
+      "B": "Van OK",
+      "C": "Tu doi thanh 0",
+      "D": "Khong sao",
+      "dap_an": "A",
+      "giai_thich": "Whole number loai text."
+    },
+    {
+      "id": 7,
+      "cau": "Ma cong ty co may dieu kien?",
+      "A": "3: dau la text, 3 sau la so, dai 4",
+      "B": "1",
+      "C": "2",
+      "D": "5",
+      "dap_an": "A",
+      "giai_thich": "G123 la mau dat ca 3."
+    },
+    {
+      "id": 8,
+      "cau": "Ap dung: Ma cong ty co may dieu kien?",
+      "A": "3: dau la text, 3 sau la so, dai 4",
+      "B": "1",
+      "C": "2",
+      "D": "5",
+      "dap_an": "A",
+      "giai_thich": "G123 la mau dat ca 3."
+    },
+    {
+      "id": 9,
+      "cau": "Ham lay 1 ky tu dau la gi?",
+      "A": "LEFT",
+      "B": "RIGHT",
+      "C": "MID",
+      "D": "LEN",
+      "dap_an": "A",
+      "giai_thich": "LEFT(o,1) lay chu cai dau vd G."
+    },
+    {
+      "id": 10,
+      "cau": "Ap dung: Ham lay 1 ky tu dau la gi?",
+      "A": "LEFT",
+      "B": "RIGHT",
+      "C": "MID",
+      "D": "LEN",
+      "dap_an": "A",
+      "giai_thich": "LEFT(o,1) lay chu cai dau vd G."
+    },
+    {
+      "id": 11,
+      "cau": "Vi sao VALUE(LEFT) voi 'G' bao VALUE#?",
+      "A": "Vi G la text khong doi sang so duoc",
+      "B": "Vi loi mang",
+      "C": "Vi sai font",
+      "D": "Vi thieu RAM",
+      "dap_an": "A",
+      "giai_thich": "VALUE chi doi chuoi so; text gay loi, dung de nhan biet text."
+    },
+    {
+      "id": 12,
+      "cau": "Ap dung: Vi sao VALUE(LEFT) voi 'G' bao VALUE#?",
+      "A": "Vi G la text khong doi sang so duoc",
+      "B": "Vi loi mang",
+      "C": "Vi sai font",
+      "D": "Vi thieu RAM",
+      "dap_an": "A",
+      "giai_thich": "VALUE chi doi chuoi so; text gay loi, dung de nhan biet text."
+    },
+    {
+      "id": 13,
+      "cau": "Ham kiem tra co phai so la gi?",
+      "A": "ISNUMBER",
+      "B": "ISTEXT",
+      "C": "ISBLANK",
+      "D": "ISERROR",
+      "dap_an": "A",
+      "giai_thich": "ISNUMBER(VALUE(...)) TRUE nghia la so."
+    },
+    {
+      "id": 14,
+      "cau": "Ap dung: Ham kiem tra co phai so la gi?",
+      "A": "ISNUMBER",
+      "B": "ISTEXT",
+      "C": "ISBLANK",
+      "D": "ISERROR",
+      "dap_an": "A",
+      "giai_thich": "ISNUMBER(VALUE(...)) TRUE nghia la so."
+    },
+    {
+      "id": 15,
+      "cau": "Ham lay 3 ky tu cuoi la gi?",
+      "A": "RIGHT(o,3)",
+      "B": "LEFT(o,3)",
+      "C": "MID(o,3)",
+      "D": "LEN(o,3)",
+      "dap_an": "A",
+      "giai_thich": "RIGHT lay 123 tu G123."
+    },
+    {
+      "id": 16,
+      "cau": "Ap dung: Ham lay 3 ky tu cuoi la gi?",
+      "A": "RIGHT(o,3)",
+      "B": "LEFT(o,3)",
+      "C": "MID(o,3)",
+      "D": "LEN(o,3)",
+      "dap_an": "A",
+      "giai_thich": "RIGHT lay 123 tu G123."
+    },
+    {
+      "id": 17,
+      "cau": "Ham do do dai chuoi la gi?",
+      "A": "LEN",
+      "B": "LEFT",
+      "C": "RIGHT",
+      "D": "VALUE",
+      "dap_an": "A",
+      "giai_thich": "LEN(G123)=4."
+    },
+    {
+      "id": 18,
+      "cau": "Ap dung: Ham do do dai chuoi la gi?",
+      "A": "LEN",
+      "B": "LEFT",
+      "C": "RIGHT",
+      "D": "VALUE",
+      "dap_an": "A",
+      "giai_thich": "LEN(G123)=4."
+    },
+    {
+      "id": 19,
+      "cau": "Ham gop 3 dieu kien bat buoc TRUE la gi?",
+      "A": "AND",
+      "B": "OR",
+      "C": "NOT",
+      "D": "IF",
+      "dap_an": "A",
+      "giai_thich": "AND chi TRUE khi ca 3 TRUE."
+    },
+    {
+      "id": 20,
+      "cau": "Ap dung: Ham gop 3 dieu kien bat buoc TRUE la gi?",
+      "A": "AND",
+      "B": "OR",
+      "C": "NOT",
+      "D": "IF",
+      "dap_an": "A",
+      "giai_thich": "AND chi TRUE khi ca 3 TRUE."
+    },
+    {
+      "id": 21,
+      "cau": "Nhap 1234 vao ma cong ty thi sao?",
+      "A": "Sai DK1 (dau khong phai text)",
+      "B": "Dung",
+      "C": "Sai DK3",
+      "D": "Sai DK2",
+      "dap_an": "A",
+      "giai_thich": "1234 dai 4 va 3 sau la so nhung dau la so nen FALSE."
+    },
+    {
+      "id": 22,
+      "cau": "Ap dung: Nhap 1234 vao ma cong ty thi sao?",
+      "A": "Sai DK1 (dau khong phai text)",
+      "B": "Dung",
+      "C": "Sai DK3",
+      "D": "Sai DK2",
+      "dap_an": "A",
+      "giai_thich": "1234 dai 4 va 3 sau la so nhung dau la so nen FALSE."
+    },
+    {
+      "id": 23,
+      "cau": "Nhap ABCD vao ma thi sai dieu kien nao?",
+      "A": "DK2 (3 sau khong phai so)",
+      "B": "DK3",
+      "C": "DK1",
+      "D": "Khong sai",
+      "dap_an": "A",
+      "giai_thich": "ABCD dai 4, dau la text nhung 3 ky tu sau la text nen DK2 FALSE."
+    },
+    {
+      "id": 24,
+      "cau": "Ap dung: Nhap ABCD vao ma thi sai dieu kien nao?",
+      "A": "DK2 (3 sau khong phai so)",
+      "B": "DK3",
+      "C": "DK1",
+      "D": "Khong sai",
+      "dap_an": "A",
+      "giai_thich": "ABCD dai 4, dau la text nhung 3 ky tu sau la text nen DK2 FALSE."
+    },
+    {
+      "id": 25,
+      "cau": "Nhap G12345 thi sai gi?",
+      "A": "DK3 (dai >4)",
+      "B": "DK1",
+      "C": "DK2",
+      "D": "Khong sai",
+      "dap_an": "A",
+      "giai_thich": "Du dai du dieu kien khac nhung LEN<>4."
+    },
+    {
+      "id": 26,
+      "cau": "Ap dung: Nhap G12345 thi sai gi?",
+      "A": "DK3 (dai >4)",
+      "B": "DK1",
+      "C": "DK2",
+      "D": "Khong sai",
+      "dap_an": "A",
+      "giai_thich": "Du dai du dieu kien khac nhung LEN<>4."
+    },
+    {
+      "id": 27,
+      "cau": "Dau ' truoc cong thuc de lam gi?",
+      "A": "De hien cong thuc dang text cho nguoi xem",
+      "B": "De chay nhanh",
+      "C": "De luu file",
+      "D": "De in",
+      "dap_an": "A",
+      "giai_thich": "Copy cong thuc kem dau ' de doc, khi dung nho bo dau."
+    },
+    {
+      "id": 28,
+      "cau": "Ap dung: Dau ' truoc cong thuc de lam gi?",
+      "A": "De hien cong thuc dang text cho nguoi xem",
+      "B": "De chay nhanh",
+      "C": "De luu file",
+      "D": "De in",
+      "dap_an": "A",
+      "giai_thich": "Copy cong thuc kem dau ' de doc, khi dung nho bo dau."
+    },
+    {
+      "id": 29,
+      "cau": "Bao ve file mo o dau?",
+      "A": "File > Info > Protect Workbook > Encrypt with Password",
+      "B": "Insert > Chart",
+      "C": "Data > Sort",
+      "D": "Home > Font",
+      "dap_an": "A",
+      "giai_thich": "Duong dan chuan dat password mo file."
+    },
+    {
+      "id": 30,
+      "cau": "Ap dung: Bao ve file mo o dau?",
+      "A": "File > Info > Protect Workbook > Encrypt with Password",
+      "B": "Insert > Chart",
+      "C": "Data > Sort",
+      "D": "Home > Font",
+      "dap_an": "A",
+      "giai_thich": "Duong dan chuan dat password mo file."
+    },
+    {
+      "id": 31,
+      "cau": "Nhap sai password mo file thi sao?",
+      "A": "Bao loi, dong file, chi con Excel trang",
+      "B": "Van mo duoc",
+      "C": "Tu sua pass",
+      "D": "Xoa file",
+      "dap_an": "A",
+      "giai_thich": "Phai nhap dung moi mo."
+    },
+    {
+      "id": 32,
+      "cau": "Ap dung: Nhap sai password mo file thi sao?",
+      "A": "Bao loi, dong file, chi con Excel trang",
+      "B": "Van mo duoc",
+      "C": "Tu sua pass",
+      "D": "Xoa file",
+      "dap_an": "A",
+      "giai_thich": "Phai nhap dung moi mo."
+    },
+    {
+      "id": 33,
+      "cau": "Bao ve sheet o the nao?",
+      "A": "Review > Protect Sheet",
+      "B": "Insert > Sheet",
+      "C": "File > New",
+      "D": "Data > Filter",
+      "dap_an": "A",
+      "giai_thich": "Nhap pass 2 lan de khoa sheet."
+    },
+    {
+      "id": 34,
+      "cau": "Ap dung: Bao ve sheet o the nao?",
+      "A": "Review > Protect Sheet",
+      "B": "Insert > Sheet",
+      "C": "File > New",
+      "D": "Data > Filter",
+      "dap_an": "A",
+      "giai_thich": "Nhap pass 2 lan de khoa sheet."
+    },
+    {
+      "id": 35,
+      "cau": "Sau khi Protect Sheet, click sua thi sao?",
+      "A": "Bi chan khong cho sua",
+      "B": "Van sua duoc",
+      "C": "Tu mo khoa",
+      "D": "Xoa sheet",
+      "dap_an": "A",
+      "giai_thich": "Sheet da khoa."
+    },
+    {
+      "id": 36,
+      "cau": "Ap dung: Sau khi Protect Sheet, click sua thi sao?",
+      "A": "Bi chan khong cho sua",
+      "B": "Van sua duoc",
+      "C": "Tu mo khoa",
+      "D": "Xoa sheet",
+      "dap_an": "A",
+      "giai_thich": "Sheet da khoa."
+    },
+    {
+      "id": 37,
+      "cau": "Bo bao ve sheet lam the nao?",
+      "A": "Review > Unprotect Sheet + nhap dung pass",
+      "B": "Xoa file",
+      "C": "Nhan Esc",
+      "D": "Tat may",
+      "dap_an": "A",
+      "giai_thich": "Can dung password luc khoa."
+    },
+    {
+      "id": 38,
+      "cau": "Ap dung: Bo bao ve sheet lam the nao?",
+      "A": "Review > Unprotect Sheet + nhap dung pass",
+      "B": "Xoa file",
+      "C": "Nhan Esc",
+      "D": "Tat may",
+      "dap_an": "A",
+      "giai_thich": "Can dung password luc khoa."
+    },
+    {
+      "id": 39,
+      "cau": "Vi sao phai bo Locked toan sheet truoc khi khoa vung?",
+      "A": "Vi mac dinh moi o deu Locked",
+      "B": "Vi dep",
+      "C": "Vi nhanh",
+      "D": "Khong can",
+      "dap_an": "A",
+      "giai_thich": "Neu khong bo thi Protect se khoa het."
+    },
+    {
+      "id": 40,
+      "cau": "Ap dung: Vi sao phai bo Locked toan sheet truoc khi khoa vung?",
+      "A": "Vi mac dinh moi o deu Locked",
+      "B": "Vi dep",
+      "C": "Vi nhanh",
+      "D": "Khong can",
+      "dap_an": "A",
+      "giai_thich": "Neu khong bo thi Protect se khoa het."
+    }
+  ]
+}

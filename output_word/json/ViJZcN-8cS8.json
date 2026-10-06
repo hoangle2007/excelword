@@ -1,0 +1,401 @@
+{
+ "video_id": "ViJZcN-8cS8",
+ "bai": "Tìm và thay thế từ trong Word (Find & Replace)",
+ "url": "https://www.youtube.com/watch?v=ViJZcN-8cS8",
+ "ky_nang": [
+  {
+   "ten": "Tìm kiếm với Ctrl+F",
+   "thao_tac": "Nhấn Ctrl+F > gõ từ khóa vào ô Navigation > Enter, click từng kết quả",
+   "duong_dan_menu": "Home > Find",
+   "phim_tat": "Ctrl+F",
+   "giai_thich": "Word bôi vàng mọi vị trí khớp, đếm số kết quả.",
+   "vi_du": "Tìm 'đỗ bảo 5 lúc' được 8 kết quả"
+  },
+  {
+   "ten": "Mở thay thế với Ctrl+H",
+   "thao_tac": "Nhấn Ctrl+H mở Find and Replace",
+   "duong_dan_menu": "Home > Replace",
+   "phim_tat": "Ctrl+H",
+   "giai_thich": "Hộp thoại có 2 ô Find what / Replace with.",
+   "vi_du": "Ctrl+H"
+  },
+  {
+   "ten": "Nhập từ gốc và từ mới",
+   "thao_tac": "Find what: từ cũ; Replace with: từ viết hoa mới",
+   "duong_dan_menu": "Home > Replace > Find what / Replace with",
+   "phim_tat": "",
+   "giai_thich": "Nhập chính xác cả hai.",
+   "vi_du": "Find cũ, Replace IN HOA"
+  },
+  {
+   "ten": "Thay từng chỗ hoặc tất cả",
+   "thao_tac": "Replace: thay 1; Replace All: thay hết + OK",
+   "duong_dan_menu": "Find and Replace > Replace / Replace All",
+   "phim_tat": "",
+   "giai_thich": "Video dùng Replace All được 8 chỗ.",
+   "vi_du": "Replace All > 8 replacements > OK"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "cau": "Phím tắt tìm kiếm là gì?",
+   "lua_chon": {
+    "A": "Ctrl+F",
+    "B": "Ctrl+G",
+    "C": "Ctrl+H",
+    "D": "Ctrl+K"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Ctrl+F mở Navigation tìm."
+  },
+  {
+   "cau": "Từ khóa gõ vào đâu?",
+   "lua_chon": {
+    "A": "Ô tìm kiếm khung Navigation bên trái",
+    "B": "Thanh địa chỉ",
+    "C": "Ô mật khẩu",
+    "D": "Thước kẻ"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Ô Find."
+  },
+  {
+   "cau": "Kết quả tìm được hiển thị sao?",
+   "lua_chon": {
+    "A": "Bôi vàng và đếm số kết quả",
+    "B": "Biến mất",
+    "C": "In ra",
+    "D": "Kêu lên"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Video thấy 8 kết quả bôi vàng."
+  },
+  {
+   "cau": "Video tìm được bao nhiêu kết quả?",
+   "lua_chon": {
+    "A": "8",
+    "B": "3",
+    "C": "1",
+    "D": "100"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Đúng số video nêu."
+  },
+  {
+   "cau": "Phím tắt thay thế là gì?",
+   "lua_chon": {
+    "A": "Ctrl+H",
+    "B": "Ctrl+F",
+    "C": "Ctrl+S",
+    "D": "Ctrl+P"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Ctrl+H mở Replace."
+  },
+  {
+   "cau": "Ô nhập từ cần tìm trong Replace là?",
+   "lua_chon": {
+    "A": "Find what",
+    "B": "Replace with",
+    "C": "Go to",
+    "D": "Font"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Find what là từ gốc."
+  },
+  {
+   "cau": "Ô nhập từ mới là?",
+   "lua_chon": {
+    "A": "Replace with",
+    "B": "Find what",
+    "C": "Search",
+    "D": "Help"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Replace with là từ thay."
+  },
+  {
+   "cau": "Nút thay 1 chỗ là?",
+   "lua_chon": {
+    "A": "Replace",
+    "B": "Replace All",
+    "C": "Find Next",
+    "D": "Close"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Replace thay từng cái."
+  },
+  {
+   "cau": "Nút thay tất cả là?",
+   "lua_chon": {
+    "A": "Replace All",
+    "B": "Replace",
+    "C": "Undo",
+    "D": "Print"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Video dùng Replace All."
+  },
+  {
+   "cau": "Sau Replace All phải nhấn gì?",
+   "lua_chon": {
+    "A": "OK xác nhận rồi đóng hộp thoại",
+    "B": "Tắt máy",
+    "C": "Xóa chữ",
+    "D": "In ngay"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "OK > Close."
+  },
+  {
+   "cau": "Click từng kết quả tìm để làm gì?",
+   "lua_chon": {
+    "A": "Nhảy đến đúng vị trí từ đó trong bài",
+    "B": "Xóa từ",
+    "C": "Copy từ",
+    "D": "In từ"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Điều hướng nhanh."
+  },
+  {
+   "cau": "Find Next có tác dụng gì?",
+   "lua_chon": {
+    "A": "Nhảy tới vị trí khớp tiếp theo",
+    "B": "Thay chữ",
+    "C": "Xóa chữ",
+    "D": "Lưu file"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Duyệt từng chỗ."
+  },
+  {
+   "cau": "Vì sao nên dùng Replace All khi đổi tên đồng loạt?",
+   "lua_chon": {
+    "A": "Nhanh, đủ 8/8 chỗ, không sót",
+    "B": "Chậm",
+    "C": "Sai",
+    "D": "Mất chữ"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Video thay 8 chỗ 1 lần."
+  },
+  {
+   "cau": "Rủi ro của Replace All là?",
+   "lua_chon": {
+    "A": "Thay nhầm cả từ chứa chuỗi con; nên kiểm tra",
+    "B": "Không rủi ro",
+    "C": "Mất máy",
+    "D": "Cháy màn hình"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Cần Match whole word khi cần."
+  },
+  {
+   "cau": "Muốn phân biệt hoa/thường khi tìm thì tick gì?",
+   "lua_chon": {
+    "A": "Match case",
+    "B": "Match all",
+    "C": "Find all",
+    "D": "Replace all"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "More >> Match case."
+  },
+  {
+   "cau": "Muốn tìm nguyên từ (không dính từ khác) tick gì?",
+   "lua_chon": {
+    "A": "Find whole words only",
+    "B": "Match case",
+    "C": "Wildcards",
+    "D": "Sounds like"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Tránh thay nhầm chuỗi con."
+  },
+  {
+   "cau": "Nút More >> trong Replace để làm gì?",
+   "lua_chon": {
+    "A": "Mở tùy chọn nâng cao (Match case, Whole words...)",
+    "B": "Thêm chữ",
+    "C": "Xóa chữ",
+    "D": "Tắt máy"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Mở rộng tìm kiếm."
+  },
+  {
+   "cau": "Hoàn tác sau Replace All nhầm bằng gì?",
+   "lua_chon": {
+    "A": "Ctrl+Z",
+    "B": "Ctrl+Y",
+    "C": "Ctrl+S",
+    "D": "Ctrl+X"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Undo khôi phục."
+  },
+  {
+   "cau": "Navigation pane ngoài tìm chữ còn tìm gì?",
+   "lua_chon": {
+    "A": "Headings, Pages, Results",
+    "B": "Mạng",
+    "C": "Mực in",
+    "D": "Virus"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "3 tab điều hướng."
+  },
+  {
+   "cau": "Find trong Home thuộc nhóm nào?",
+   "lua_chon": {
+    "A": "Editing",
+    "B": "Font",
+    "C": "Paragraph",
+    "D": "Styles"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Nhóm Editing góc phải."
+  },
+  {
+   "cau": "Muốn thay định dạng (màu/cỡ) thì dùng gì?",
+   "lua_chon": {
+    "A": "More >> Format trong Replace",
+    "B": "Gõ tay",
+    "C": "Chụp ảnh",
+    "D": "In ra tô màu"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Replace cả định dạng."
+  },
+  {
+   "cau": "Tìm ký tự đặc biệt (xuống dòng, tab) thì?",
+   "lua_chon": {
+    "A": "More >> Special chọn Paragraph Mark, Tab...",
+    "B": "Không tìm được",
+    "C": "Gõ tay",
+    "D": "Bỏ qua"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Special liệt kê ký tự ẩn."
+  },
+  {
+   "cau": "Video thay từ thường thành dạng nào?",
+   "lua_chon": {
+    "A": "VIẾT HOA hoàn toàn",
+    "B": "Viết thường",
+    "C": "Xóa trắng",
+    "D": "In đậm"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Đúng nội dung video."
+  },
+  {
+   "cau": "Nếu Find what bỏ trống mà Replace All thì?",
+   "lua_chon": {
+    "A": "Word báo lỗi/phải nhập từ tìm",
+    "B": "Thay cả bài",
+    "C": "Xóa bài",
+    "D": "Tắt Word"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Phải có chuỗi tìm."
+  },
+  {
+   "cau": "Muốn tìm 'an' mà không dính 'ban' 'lan'?",
+   "lua_chon": {
+    "A": "Tick Find whole words only",
+    "B": "Tick Match case",
+    "C": "Gõ AN",
+    "D": "Không thể"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Whole words tách từ độc lập."
+  },
+  {
+   "cau": "Wildcards dùng để?",
+   "lua_chon": {
+    "A": "Tìm theo mẫu (ví dụ d??? cho 4 ký tự)",
+    "B": "Vẽ hình",
+    "C": "Chèn nhạc",
+    "D": "Tắt máy"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Use wildcards tìm mẫu."
+  },
+  {
+   "cau": "Muốn thay 8 chỗ nhưng xem từng chỗ trước thì?",
+   "lua_chon": {
+    "A": "Nhấn Find Next rồi Replace từng cái thay vì Replace All",
+    "B": "Nhắm mắt thay",
+    "C": "Đoán",
+    "D": "Xóa hết"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "An toàn khi văn bản quan trọng."
+  },
+  {
+   "cau": "Thông báo sau Replace All cho biết gì?",
+   "lua_chon": {
+    "A": "Số vị trí đã thay (video: 8 replacements)",
+    "B": "Số trang",
+    "C": "Số virus",
+    "D": "Số ảnh"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Hộp thoại báo số lượng."
+  },
+  {
+   "cau": "Muốn tìm trong cả file dài nhiều trang nhanh nhất?",
+   "lua_chon": {
+    "A": "Ctrl+F gõ 1 lần thấy hết và đếm, không cần lăn chuột dò",
+    "B": "Đọc từng trang",
+    "C": "In ra đọc",
+    "D": "Nhờ người khác"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Đúng lợi ích Find."
+  },
+  {
+   "cau": "Quy trình thay thế hoàn chỉnh?",
+   "lua_chon": {
+    "A": "Ctrl+H > Find what > Replace with > Replace All > OK > Close > kiểm tra",
+    "B": "Mở file rồi tắt",
+    "C": "Gõ tay từng chỗ",
+    "D": "Copy sang Paint"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Đúng các bước video."
+  }
+ ]
+}

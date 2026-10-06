@@ -1,0 +1,401 @@
+{
+ "video_id": "tFoYWXq7oWA",
+ "bai": "Viết số mũ và ký hiệu độ trong Word",
+ "url": "https://www.youtube.com/watch?v=tFoYWXq7oWA",
+ "ky_nang": [
+  {
+   "ten": "Bật/tắt số mũ bằng phím tắt",
+   "thao_tac": "Nhấn Ctrl+Shift+= để bật superscript, gõ mũ, nhấn lại để về thường",
+   "duong_dan_menu": "",
+   "phim_tat": "Ctrl+Shift+=",
+   "giai_thich": "Cách nhanh nhất viết 2 mũ x-1.",
+   "vi_du": "Gõ 2, Ctrl+Shift+=, gõ x-1, Ctrl+Shift+="
+  },
+  {
+   "ten": "Bật số mũ bằng nút x²",
+   "thao_tac": "Home > nút Superscript (x²), gõ mũ, nhấn lại để tắt",
+   "duong_dan_menu": "Home > Superscript (x²)",
+   "phim_tat": "",
+   "giai_thich": "Nút x² trên ribbon.",
+   "vi_du": "Click x² rồi gõ mũ"
+  },
+  {
+   "ten": "Số mũ bằng hộp thoại Font",
+   "thao_tac": "Ctrl+D > tick Superscript > OK; bỏ tick để về thường",
+   "duong_dan_menu": "Home > Font dialog > Superscript",
+   "phim_tat": "Ctrl+D",
+   "giai_thich": "Cách 3, nhiều thao tác hơn.",
+   "vi_du": "Tick Superscript > OK"
+  },
+  {
+   "ten": "Chèn ký hiệu độ ° bằng mẹo",
+   "thao_tac": "Tìm 'độ C' trên Google/copy ký tự ° rồi dán vào Word",
+   "duong_dan_menu": "",
+   "phim_tat": "",
+   "giai_thich": "Không cần nhớ mã, copy ° dán vào.",
+   "vi_du": "Copy ° dán thành 25°C"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "cau": "Phím tắt viết số mũ trong video là gì?",
+   "lua_chon": {
+    "A": "Ctrl+Shift+=",
+    "B": "Ctrl+B",
+    "C": "Ctrl+I",
+    "D": "Ctrl+Z"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Tổ hợp Ctrl+Shift+dấu bằng."
+  },
+  {
+   "cau": "Ví dụ video viết là gì?",
+   "lua_chon": {
+    "A": "2 mũ x-1",
+    "B": "2+2",
+    "C": "ax+b",
+    "D": "100 độ"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Video viết 2^(x-1)."
+  },
+  {
+   "cau": "Sau khi gõ phần mũ muốn về chữ thường thì?",
+   "lua_chon": {
+    "A": "Nhấn lại Ctrl+Shift+=",
+    "B": "Nhấn Enter",
+    "C": "Tắt máy",
+    "D": "Xóa đi"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Nhấn lại để tắt superscript."
+  },
+  {
+   "cau": "Nút số mũ trên ribbon ký hiệu gì?",
+   "lua_chon": {
+    "A": "x²",
+    "B": "x2",
+    "C": "2x",
+    "D": "X"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Nút Superscript hình x²."
+  },
+  {
+   "cau": "Nút x² nằm ở thẻ nào?",
+   "lua_chon": {
+    "A": "Home nhóm Font",
+    "B": "Insert",
+    "C": "Layout",
+    "D": "View"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Cạnh Bold/Italic."
+  },
+  {
+   "cau": "Mở hộp thoại Font bằng phím nào?",
+   "lua_chon": {
+    "A": "Ctrl+D",
+    "B": "Ctrl+F",
+    "C": "Ctrl+G",
+    "D": "Ctrl+H"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Ctrl+D hoặc Ctrl+Shift+F."
+  },
+  {
+   "cau": "Trong Font dialog tick ô nào để thành số mũ?",
+   "lua_chon": {
+    "A": "Superscript",
+    "B": "Subscript",
+    "C": "Bold",
+    "D": "Italic"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Superscript là chỉ số trên."
+  },
+  {
+   "cau": "Subscript là gì?",
+   "lua_chon": {
+    "A": "Chỉ số dưới (ví dụ H2O)",
+    "B": "Chỉ số trên",
+    "C": "Chữ đậm",
+    "D": "Chữ nghiêng"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Ngược với superscript."
+  },
+  {
+   "cau": "Ký hiệu độ C viết thế nào?",
+   "lua_chon": {
+    "A": "Số + ° + C (25°C)",
+    "B": "Số + C",
+    "C": "Số + o + C",
+    "D": "Số + * + C"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Dùng ký tự °."
+  },
+  {
+   "cau": "Mẹo chèn ° trong video là gì?",
+   "lua_chon": {
+    "A": "Google 'độ C' rồi copy ° dán vào",
+    "B": "Vẽ tay",
+    "C": "Chụp ảnh",
+    "D": "Đoán"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Cách mẹo nhanh không cần nhớ mã."
+  },
+  {
+   "cau": "Khi bật superscript, dấu nháy chuột thế nào?",
+   "lua_chon": {
+    "A": "Nhảy lên phía trên, cỡ nhỏ lại",
+    "B": "To ra",
+    "C": "Biến mất",
+    "D": "Xuống dưới"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Dấu hiệu superscript đang bật."
+  },
+  {
+   "cau": "Vì sao phải tắt superscript sau khi gõ mũ?",
+   "lua_chon": {
+    "A": "Không tắt thì chữ tiếp theo cũng thành mũ",
+    "B": "Máy hỏng",
+    "C": "Hết pin",
+    "D": "Mất file"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Phải nhấn lại để về thường."
+  },
+  {
+   "cau": "Ctrl+Shift+= nhấn lần 2 có tác dụng gì?",
+   "lua_chon": {
+    "A": "Tắt superscript về chữ thường",
+    "B": "Xóa chữ",
+    "C": "Lưu file",
+    "D": "In file"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Bật/tắt luân phiên."
+  },
+  {
+   "cau": "Cách nút x² và phím tắt khác nhau ở điểm nào?",
+   "lua_chon": {
+    "A": "Cùng kết quả; nút dùng chuột, phím tắt nhanh hơn",
+    "B": "Khác kết quả",
+    "C": "Nút chỉ trang trí",
+    "D": "Phím tắt xóa chữ"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Cả hai đều bật superscript."
+  },
+  {
+   "cau": "Cách Font dialog phức tạp hơn vì sao?",
+   "lua_chon": {
+    "A": "Nhiều click: mở dialog > tick > OK, rồi lặp lại để tắt",
+    "B": "Phải gõ code",
+    "C": "Phải khởi động lại",
+    "D": "Phải trả phí"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Video nhận xét vậy."
+  },
+  {
+   "cau": "Muốn sửa mũ đã gõ thì?",
+   "lua_chon": {
+    "A": "Bôi đen phần mũ rồi tắt/bật superscript hoặc gõ lại",
+    "B": "Không sửa được",
+    "C": "Xóa cả dòng",
+    "D": "Gõ đè ngoài"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Bôi đen rồi đổi định dạng."
+  },
+  {
+   "cau": "Viết H2O (số 2 dưới) dùng gì?",
+   "lua_chon": {
+    "A": "Subscript",
+    "B": "Superscript",
+    "C": "Bold",
+    "D": "Underline"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Chỉ số dưới là subscript."
+  },
+  {
+   "cau": "Phím tắt subscript là gì?",
+   "lua_chon": {
+    "A": "Ctrl+= (Ctrl + dấu bằng)",
+    "B": "Ctrl+Shift+=",
+    "C": "Ctrl+B",
+    "D": "Ctrl+S"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Ctrl+= bật subscript."
+  },
+  {
+   "cau": "Copy ° từ Google rồi làm gì?",
+   "lua_chon": {
+    "A": "Paste (Ctrl+V) vào Word rồi chỉnh cỡ cho hợp",
+    "B": "In ra dán giấy",
+    "C": "Chụp ảnh",
+    "D": "Ghi nhớ"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Ctrl+V dán."
+  },
+  {
+   "cau": "Ngoài °, mẹo copy còn dùng cho ký tự nào?",
+   "lua_chon": {
+    "A": "Mọi ký tự đặc biệt khó nhớ (π, ±, √...)",
+    "B": "Chỉ °",
+    "C": "Không dùng được",
+    "D": "Chỉ số"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Mẹo chung cho ký tự đặc biệt."
+  },
+  {
+   "cau": " superscript thực chất là gì?",
+   "lua_chon": {
+    "A": "Định dạng đẩy chữ lên trên và thu nhỏ, không phải chèn ảnh",
+    "B": "Chèn ảnh",
+    "C": "Đổi font",
+    "D": "Xoay chữ"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Nên copy/bỏ định dạng dễ."
+  },
+  {
+   "cau": "Bôi đen chữ mũ rồi nhấn Clear Formatting thì?",
+   "lua_chon": {
+    "A": "Mất superscript về chữ thường",
+    "B": "Mất chữ",
+    "C": "Đậm hơn",
+    "D": "To hơn"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Clear xóa định dạng trên."
+  },
+  {
+   "cau": "Viết 2^(x-1) đúng thứ tự phím?",
+   "lua_chon": {
+    "A": "Gõ 2 > Ctrl+Shift+= > gõ x-1 > Ctrl+Shift+= > gõ tiếp",
+    "B": "Gõ mũ trước",
+    "C": "Nhấn phím sau khi tắt máy",
+    "D": "Gõ tất cả rồi tô màu"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Đúng quy trình video."
+  },
+  {
+   "cau": "Nếu quên tắt superscript và gõ tiếp 1 đoạn dài?",
+   "lua_chon": {
+    "A": "Cả đoạn thành mũ; khắc phục: bôi đen > tắt superscript",
+    "B": "Mất đoạn đó",
+    "C": "Máy treo",
+    "D": "Không sao"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Bôi đen rồi bỏ Superscript."
+  },
+  {
+   "cau": "Trong Font dialog, Superscript nằm nhóm nào?",
+   "lua_chon": {
+    "A": "Effects",
+    "B": "Font color",
+    "C": "Size",
+    "D": "Language"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Ô tick Effects."
+  },
+  {
+   "cau": "So sánh tốc độ 4 cách?",
+   "lua_chon": {
+    "A": "Phím tắt nhanh nhất; nút x² nhanh; Font dialog chậm; copy ° nhanh cho ký hiệu",
+    "B": "Như nhau",
+    "C": "Font dialog nhanh nhất",
+    "D": "Copy chậm nhất"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Đúng đánh giá video."
+  },
+  {
+   "cau": "Viết m² (mét vuông) nhanh nhất?",
+   "lua_chon": {
+    "A": "Gõ m > Ctrl+Shift+= > gõ 2 > Ctrl+Shift+=",
+    "B": "Vẽ số 2",
+    "C": "Chèn ảnh",
+    "D": "Gõ m2"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Áp dụng đúng phím tắt."
+  },
+  {
+   "cau": "Viết 25°C hoàn chỉnh?",
+   "lua_chon": {
+    "A": "Gõ 25 > dán ° > gõ C",
+    "B": "Gõ 250C",
+    "C": "Gõ 25oC cỡ thường",
+    "D": "Gõ 25*C"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "° là ký tự riêng, không phải chữ o."
+  },
+  {
+   "cau": "Muốn mũ có 2 ký tự x-1 thì phải?",
+   "lua_chon": {
+    "A": "Bật superscript rồi gõ liền x-1 rồi mới tắt",
+    "B": "Gõ từng ký tự rồi bật",
+    "C": "Gõ xong mới bôi đen",
+    "D": "Không gõ được"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Gõ liền trong trạng thái mũ."
+  },
+  {
+   "cau": "Tóm tắt 4 cách trong video?",
+   "lua_chon": {
+    "A": "Phím tắt Ctrl+Shift+=; nút x²; Font dialog Superscript; copy ° cho độ C",
+    "B": "Chỉ 1 cách",
+    "C": "Chỉ 2 cách",
+    "D": "Không có cách nào"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Đủ 4 cách video dạy."
+  }
+ ]
+}

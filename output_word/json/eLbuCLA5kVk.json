@@ -1,0 +1,401 @@
+{
+ "video_id": "eLbuCLA5kVk",
+ "bai": "3 cách thụt đầu dòng trong Word (Indent)",
+ "url": "https://www.youtube.com/watch?v=eLbuCLA5kVk",
+ "ky_nang": [
+  {
+   "ten": "Thụt đầu dòng bằng Tab",
+   "thao_tac": "Đặt con trỏ đầu dòng > nhấn Tab",
+   "duong_dan_menu": "",
+   "phim_tat": "Tab",
+   "giai_thich": "Nhanh nhất cho 1 dòng.",
+   "vi_du": "Đầu dòng + Tab"
+  },
+  {
+   "ten": "Chỉnh khoảng Tab bằng Paragraph",
+   "thao_tac": "Chuột phải > Paragraph > Special: First line > By: 1cm > OK",
+   "duong_dan_menu": "Chuột phải > Paragraph > First line",
+   "phim_tat": "",
+   "giai_thich": "Chuẩn hóa khoảng thụt (mặc định 1.27cm, video đổi 1cm).",
+   "vi_du": "First line By 1cm"
+  },
+  {
+   "ten": "Kéo thước Ruler",
+   "thao_tac": "Đặt con trỏ vào đoạn > kéo marker First Line Indent trên Ruler",
+   "duong_dan_menu": "View > Ruler",
+   "phim_tat": "",
+   "giai_thich": "Kéo trực quan trên thước.",
+   "vi_du": "Kéo marker trên 1cm"
+  },
+  {
+   "ten": "Thụt hàng loạt nhiều đoạn",
+   "thao_tac": "Bôi đen nhiều đoạn > Paragraph > First line 1cm > OK",
+   "duong_dan_menu": "Chuột phải > Paragraph > First line",
+   "phim_tat": "",
+   "giai_thich": "Áp cùng lúc cho nhiều đoạn.",
+   "vi_du": "Bôi đen 3 đoạn > First line 1cm"
+  }
+ ],
+ "cau_hoi": [
+  {
+   "cau": "Cách nhanh nhất thụt 1 dòng là gì?",
+   "lua_chon": {
+    "A": "Nhấn Tab đầu dòng",
+    "B": "Gõ 5 dấu cách",
+    "C": "Enter",
+    "D": "Xóa dòng"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Video: Tab là nhanh nhất."
+  },
+  {
+   "cau": "Trước khi nhấn Tab phải làm gì?",
+   "lua_chon": {
+    "A": "Đặt con trỏ vào đầu dòng",
+    "B": "Tắt máy",
+    "C": "In ra",
+    "D": "Xóa chữ"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Đúng bước 1."
+  },
+  {
+   "cau": "Mở hộp thoại Paragraph bằng cách nào?",
+   "lua_chon": {
+    "A": "Chuột phải > Paragraph",
+    "B": "Nhấn Enter",
+    "C": "Tắt Word",
+    "D": "Rút điện"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Đúng video."
+  },
+  {
+   "cau": "Trong Paragraph chọn mục nào để thụt dòng đầu?",
+   "lua_chon": {
+    "A": "Special: First line",
+    "B": "Hanging",
+    "C": "None",
+    "D": "Justify"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "First line = dòng đầu."
+  },
+  {
+   "cau": "Video đặt khoảng thụt bao nhiêu?",
+   "lua_chon": {
+    "A": "1cm",
+    "B": "5cm",
+    "C": "10cm",
+    "D": "0cm"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Từ 1.27cm giảm còn 1cm."
+  },
+  {
+   "cau": "Mặc định First line của Word là bao nhiêu?",
+   "lua_chon": {
+    "A": "1.27cm (0.5 inch)",
+    "B": "1cm",
+    "C": "2cm",
+    "D": "5cm"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "0.5 inch = 1.27cm."
+  },
+  {
+   "cau": "Cách 2 thao tác trên đâu?",
+   "lua_chon": {
+    "A": "Thanh Ruler (thước)",
+    "B": "Thanh taskbar",
+    "C": "Bàn phím",
+    "D": "Máy in"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Kéo marker trên Ruler."
+  },
+  {
+   "cau": "Muốn thụt 3 đoạn cùng lúc thì?",
+   "lua_chon": {
+    "A": "Bôi đen 3 đoạn rồi Paragraph > First line",
+    "B": "Tab từng dòng",
+    "C": "Gõ cách từng dòng",
+    "D": "Không thể"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "Bôi đen rồi làm 1 lần."
+  },
+  {
+   "cau": "Hiện thước Ruler vào đâu?",
+   "lua_chon": {
+    "A": "View > tick Ruler",
+    "B": "File > Save",
+    "C": "Home > Bold",
+    "D": "Insert > Table"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "View > Ruler."
+  },
+  {
+   "cau": "Sau khi chỉnh Paragraph nhấn gì?",
+   "lua_chon": {
+    "A": "OK",
+    "B": "Cancel",
+    "C": "Delete",
+    "D": "Print"
+   },
+   "dap_an": "A",
+   "muc_do": "dễ",
+   "giai_thich": "OK lưu."
+  },
+  {
+   "cau": "Vì sao không nên gõ nhiều dấu cách để thụt?",
+   "lua_chon": {
+    "A": "Khoảng cách lệch, khó đều, sửa khổ giấy là vỡ",
+    "B": "Nhanh hơn",
+    "C": "Đẹp hơn",
+    "D": "Chuẩn hơn"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Tab/First line chuẩn hơn Space."
+  },
+  {
+   "cau": "First line khác Hanging ở điểm nào?",
+   "lua_chon": {
+    "A": "First: thụt dòng đầu; Hanging: thụt từ dòng 2 trở đi",
+    "B": "Giống nhau",
+    "C": "Hanging xóa dòng đầu",
+    "D": "First xóa dòng cuối"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Đúng định nghĩa."
+  },
+  {
+   "cau": "Marker nào trên Ruler là First Line?",
+   "lua_chon": {
+    "A": "Tam giác trên cùng",
+    "B": "Tam giác dưới",
+    "C": "Hình vuông",
+    "D": "Thước dọc"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Tam giác trên = First line."
+  },
+  {
+   "cau": "Kéo nhầm cả hình vuông dưới thì sao?",
+   "lua_chon": {
+    "A": "Thụt cả đoạn (left indent) chứ không chỉ dòng đầu",
+    "B": "Mất chữ",
+    "C": "Xóa đoạn",
+    "D": "Tắt máy"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Vuông = Left indent cả đoạn."
+  },
+  {
+   "cau": "By 1cm nghĩa là?",
+   "lua_chon": {
+    "A": "Dòng đầu thụt vào 1cm so với lề trái",
+    "B": "Cả bài thụt 1cm",
+    "C": "Lề giấy 1cm",
+    "D": "Cỡ chữ 1cm"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Đúng ý nghĩa."
+  },
+  {
+   "cau": "Muốn bỏ thụt đầu dòng thì?",
+   "lua_chon": {
+    "A": "Special: None > OK",
+    "B": "Xóa đoạn",
+    "C": "Tắt máy",
+    "D": "Đổi font"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "None gỡ indent."
+  },
+  {
+   "cau": "Tab và First line khác nhau thế nào?",
+   "lua_chon": {
+    "A": "Tab chèn 1 ký tự; First line là định dạng đoạn, chuẩn và sửa hàng loạt được",
+    "B": "Giống nhau",
+    "C": "Tab chuẩn hơn",
+    "D": "First line sai"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "First line chuyên nghiệp hơn."
+  },
+  {
+   "cau": "Dấu hiệu đoạn đã có First line?",
+   "lua_chon": {
+    "A": "Dòng đầu tự thụt khi Enter đoạn mới cùng style",
+    "B": "Mất chữ",
+    "C": "Đổi màu",
+    "D": "Kêu lên"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Định dạng đoạn lan theo."
+  },
+  {
+   "cau": "Muốn mọi đoạn mới đều thụt 1cm thì?",
+   "lua_chon": {
+    "A": "Đặt First line rồi cập nhật Style Normal hoặc Set Default",
+    "B": "Gõ Tab mãi",
+    "C": "Không thể",
+    "D": "Cài lại Word"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Lưu vào style/mặc định."
+  },
+  {
+   "cau": "Bôi đen rồi Tab thì sao?",
+   "lua_chon": {
+    "A": "Thụt cả khối sang phải (tăng left indent)",
+    "B": "Chỉ dòng đầu",
+    "C": "Xóa khối",
+    "D": "Không gì"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Tab cả khối = indent khối."
+  },
+  {
+   "cau": "Shift+Tab khi bôi đen khối thì?",
+   "lua_chon": {
+    "A": "Giảm thụt (outdent)",
+    "B": "Tăng thụt",
+    "C": "Xóa",
+    "D": "Lưu"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "Ngược với Tab."
+  },
+  {
+   "cau": "1.27cm từ đâu ra?",
+   "lua_chon": {
+    "A": "0.5 inch x 2.54",
+    "B": "Ngẫu nhiên",
+    "C": "1cm + 0.27",
+    "D": "Đoán"
+   },
+   "dap_an": "A",
+   "muc_do": "trung bình",
+   "giai_thich": "0.5*2.54=1.27."
+  },
+  {
+   "cau": "Vì sao video đổi 1.27 về 1cm?",
+   "lua_chon": {
+    "A": "Chẵn, gọn, hợp trình bày Việt Nam",
+    "B": "Cho khó",
+    "C": "Cho vui",
+    "D": "Máy yêu cầu"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "1cm dễ nhớ, đều."
+  },
+  {
+   "cau": "Đoạn đã Tab rồi lại áp First line 1cm thì?",
+   "lua_chon": {
+    "A": "Có thể thụt gấp đôi (Tab + format); nên xóa Tab thừa",
+    "B": "Không sao",
+    "C": "Mất chữ",
+    "D": "Đẹp hơn"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Tránh cộng dồn."
+  },
+  {
+   "cau": "Hiện ký tự Tab (mũi tên) bằng cách nào?",
+   "lua_chon": {
+    "A": "Show/Hide ¶",
+    "B": "In ra",
+    "C": "Zoom",
+    "D": "Tắt máy"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "¶ hiện Tab/Enter."
+  },
+  {
+   "cau": "Trong luận văn, thụt đầu dòng chuẩn kèm?",
+   "lua_chon": {
+    "A": "First line + giãn dòng + căn đều Justify",
+    "B": "Chỉ thụt",
+    "C": "Chỉ màu",
+    "D": "Chỉ in đậm"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Combo trình bày chuẩn."
+  },
+  {
+   "cau": "Kéo Ruler mà không thấy Ruler thì?",
+   "lua_chon": {
+    "A": "View > Ruler để hiện; kiểm tra đang ở Print Layout",
+    "B": "Bỏ qua",
+    "C": "Đoán",
+    "D": "Tắt Word"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Ruler chỉ hiện ở chế độ phù hợp."
+  },
+  {
+   "cau": "Muốn thụt treo (dòng 2 trở đi) cho tài liệu tham khảo?",
+   "lua_chon": {
+    "A": "Special: Hanging + By khoảng cần",
+    "B": "First line",
+    "C": "None",
+    "D": "Tab"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Hanging cho bibliography."
+  },
+  {
+   "cau": "Muốn kiểm tra 3 đoạn đã đều 1cm?",
+   "lua_chon": {
+    "A": "Bôi đen > Paragraph thấy First line By 1cm + quan sát Ruler",
+    "B": "Đoán mắt",
+    "C": "In ra đo",
+    "D": "Hỏi người khác"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Kiểm tra dialog + ruler."
+  },
+  {
+   "cau": "Tóm tắt 3 cách video?",
+   "lua_chon": {
+    "A": "Tab nhanh; Ruler trực quan; Paragraph First line chuẩn + hàng loạt",
+    "B": "Chỉ Tab",
+    "C": "Chỉ Ruler",
+    "D": "Không cách nào"
+   },
+   "dap_an": "A",
+   "muc_do": "khó",
+   "giai_thich": "Đủ 3 cách."
+  }
+ ]
+}

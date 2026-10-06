@@ -1,0 +1,25 @@
+[00:00] Chào mừng bạn đến với kênh tin học đấu bảo Nam Baroque.
+[00:03] Ví do ngày nay, đấu bảo Nam Baroque sẽ chia sẻ với bạn cách suy ngang một chàng dây bất kỳ trong uất, áp dụng chiến mọi phiên bản uất.
+[00:13] Và trong đội dung ví do này, đấu bảo Nam Baroque sẽ chia thảnh hai phần.
+[00:19] Phần 1, suy ngang chàng dây cho toàn bộ phái uất, ở đây phái uất này mình chỉ có một chàng duy nhất.
+[00:27] Bây giờ, bây giờ mình sẽ chuyển các đoạn này sang một chàng mới và tạo thành bát chàng.
+[00:39] Như vậy bạn thấy mình đã có 3 chàng dây.
+[00:45] Các bước để suy ngang chàng dây cho toàn bộ phái uất bạn thực hiện như sao?
+[00:52] Bước thứ nhất, bạn gích vào lấy áo về menu.
+[00:59] Sao đó bạn nhấp chuột vào orient tây sình và cho khổ dĩ ngang là landscape.
+[01:10] Như vậy, mình vừa suy ngang chàng dây cho toàn bộ phái uất.
+[01:16] Và bây giờ mình sẽ nhấn can trên z để chờ lại chẳng khái ban đầu.
+[01:22] Tiếp theo, đối bỏ nằm rất sẽ sang phần thứ 2, suy ngang một chàng dây bất kỳ.
+[01:30] Bây giờ mình sẽ suy ngang chàng dây thứ 2, thì các bước bạn thực hiện như sao?
+[01:38] Bước thứ nhất bạn bôi đen nổi dung cần suy ngang chàng dây, bây giờ ở đây mình sẽ bôi đen toàn bộ nổi dung ở chàng thứ 2.
+[01:49] Sao đó bước thứ 2, bạn vẫn vào lấy áo và tìm đến cái bóc paste setup.
+[01:56] Tại đây bạn sẽ nhấp chuột vào cái ai cần hình bối tên ở góc dưới bên phải của bóc paste setup.
+[02:05] Như vậy, mình đã mở cái cửa sổ paste setup ra.
+[02:11] Tại cửa sổ này, bạn cho khổ dĩ ngang landscape.
+[02:18] Sao đó?
+[02:19] Trong phần app lý tu này, bạn chọn cho mình selected, có nghĩa là suy ngang chàng dây cho cái nổi dung mà mình đã chọn.
+[02:31] Và tiếp theo, bạn click vào OK để bắt đầu suy ngang chàng dây.
+[02:38] Trong chừng hợp bạn thấy có một chàng chắng được tạo ra bạn chỉ cần suá cái chàng chắng này đi.
+[02:47] Như vậy, mình vừa suy ngang chàng dây thứ 2, và chàng đầu cũng như chàng thứ 3 vẫn giữ nguyên.
+[02:57] Và như vậy, trong nổi dung vui đồ của rồi, đấu bỏ nằm bước vừa chia sẻ với bạn cách suy ngang chàng dây cho toàn bộ fireworks, hoặc cho một chàng dây bất kỳ nó đó.
+[03:09] Cảm ơn bạn đã theo dõi vui đồ, Xin chào và hẹn gặp này bạn ở góc vui đồ tên theo.

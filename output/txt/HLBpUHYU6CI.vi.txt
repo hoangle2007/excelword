@@ -1,0 +1,445 @@
+[00:01] Xin chào mừng các bạn đến với khoa học excel miễn phí từ cơ bản đến nâng cao
+[00:04] excel miễn phí từ cơ bản đến nâng cao dành cho người mới bắt đầu được thực
+[00:06] dành cho người mới bắt đầu được thực hiện trên kênh YouTube là Excel bài số
+[00:08] hiện trên kênh YouTube là Excel bài số 22 tạo báo cáo động đất lót trước khi
+[00:12] 22 tạo báo cáo động đất lót trước khi bắt đầu vào bài học số 22 mình sẽ giải
+[00:14] bắt đầu vào bài học số 22 mình sẽ giải cái câu hỏi của bài tập số 2 một hôm
+[00:16] cái câu hỏi của bài tập số 2 một hôm trước nhé yêu cầu của Đề Bà Rịa mình rất
+[00:20] trước nhé yêu cầu của Đề Bà Rịa mình rất tính cái giá trị nhỏ nhất mà lớn không
+[00:23] tính cái giá trị nhỏ nhất mà lớn không Nhá cái ly ở đây mình sẽ ghi là địa lớn
+[00:25] Nhá cái ly ở đây mình sẽ ghi là địa lớn không đấy nếu như bạn tính lên bình
+[00:27] không đấy nếu như bạn tính lên bình thường thì nó sẽ ra là không đúng không
+[00:29] thường thì nó sẽ ra là không đúng không Tại vì những cái ô này có những cái
+[00:31] Tại vì những cái ô này có những cái tháng mà các bạn này nó không làm gì cả
+[00:33] tháng mà các bạn này nó không làm gì cả đúng không Thì doanh thu nó sẽ bằng
+[00:34] đúng không Thì doanh thu nó sẽ bằng không đấy có rất nhiều tháng và các bạn
+[00:36] không đấy có rất nhiều tháng và các bạn ấy bằng không Bây giờ mình sẽ tính cái
+[00:38] ấy bằng không Bây giờ mình sẽ tính cái doanh thu nhỏ nhất mà là diện phải lớn
+[00:40] doanh thu nhỏ nhất mà là diện phải lớn hơn không đấy thì mình làm như thế nào
+[00:42] hơn không đấy thì mình làm như thế nào để họ sẽ bằng nhá thì tính nhỏ nhất thì
+[00:44] để họ sẽ bằng nhá thì tính nhỏ nhất thì bạn phải dùng hàm yên rồi đúng không ạ
+[00:45] bạn phải dùng hàm yên rồi đúng không ạ nhìn các bạn mở Hoặc ra thì bạn sử dụng
+[00:48] nhìn các bạn mở Hoặc ra thì bạn sử dụng cái hàng ít nhá ít là dễ cái biểu thức
+[00:50] cái hàng ít nhá ít là dễ cái biểu thức lôgic của mình là toàn bộ cái vùng dữ
+[00:52] lôgic của mình là toàn bộ cái vùng dữ liệu ở đây Đấy nó sẽ diện lớn đúng không
+[00:54] liệu ở đây Đấy nó sẽ diện lớn đúng không nó ấy cần phải nhắn nếu như lớn không
+[00:57] nó ấy cần phải nhắn nếu như lớn không hiện gì à Có sao vẫn trả về cái vùng rữa
+[01:00] hiện gì à Có sao vẫn trả về cái vùng rữa tin tức là mình chỉ xét những cái ô lớn
+[01:02] tin tức là mình chỉ xét những cái ô lớn không Thôi để mình hiểu đơn giản là như
+[01:04] không Thôi để mình hiểu đơn giản là như vậy tao sẽ đóng ngoặc lại để xong cái Hà
+[01:06] vậy tao sẽ đóng ngoặc lại để xong cái Hà mít này có thể dẫn đóng ngoặc đơn lại để
+[01:08] mít này có thể dẫn đóng ngoặc đơn lại để xong Hà Min và các bạn giữ cần ship ở
+[01:11] xong Hà Min và các bạn giữ cần ship ở nhà thơ đấy thì nó sẽ trả về 13 Họ sẽ
+[01:14] nhà thơ đấy thì nó sẽ trả về 13 Họ sẽ tiếp bước vào đây ví dụ về U13 mình sẽ
+[01:17] tiếp bước vào đây ví dụ về U13 mình sẽ thay bằng điện bằng 223 ảnh thế nhá chọn
+[01:19] thay bằng điện bằng 223 ảnh thế nhá chọn enter lấy thì lúc này nhỏ nhất là 21 là
+[01:22] enter lấy thì lúc này nhỏ nhất là 21 là giá trị ở đây và nó sẽ bỏ qua những cái
+[01:24] giá trị ở đây và nó sẽ bỏ qua những cái ô mà có giá trị không nhá Đấy tương tự ở
+[01:26] ô mà có giá trị không nhá Đấy tương tự ở đây cũng thế nhá Ok mình sẽ đóng lại
+[01:30] đây cũng thế nhá Ok mình sẽ đóng lại mình sẽ vào bài học ngày hôm nay là bài
+[01:33] mình sẽ vào bài học ngày hôm nay là bài khá là hay mình sẽ tạo một cái báo có
+[01:35] khá là hay mình sẽ tạo một cái báo có động tác bóp nhé các bạn sẽ thích đút
+[01:37] động tác bóp nhé các bạn sẽ thích đút vào đây Okay Đây là cái vùng dữ liệu của
+[01:41] vào đây Okay Đây là cái vùng dữ liệu của mình nhá đại dữ liệu của mình rất là lớn
+[01:43] mình nhá đại dữ liệu của mình rất là lớn này để cả năm trở xuống này Đấy là có
+[01:46] này để cả năm trở xuống này Đấy là có gần 5.000 dòng nữa đấy để tạo đ-sport
+[01:50] gần 5.000 dòng nữa đấy để tạo đ-sport thì mình sẽ sử dụng Viber table vào
+[01:52] thì mình sẽ sử dụng Viber table vào slicer nhé Thì như bài học file word
+[01:54] slicer nhé Thì như bài học file word table mình đã hướng dẫn được trước rồi
+[01:56] table mình đã hướng dẫn được trước rồi thì trước khi bắt đầu tạo cái bios thấy
+[01:59] thì trước khi bắt đầu tạo cái bios thấy bổ thì tốt nhất
+[02:00] bổ thì tốt nhất Anh chuyển cái vùng dữ liệu này thành
+[02:02] Anh chuyển cái vùng dữ liệu này thành thay bộ trước để làm gì để cái dữ liệu
+[02:04] thay bộ trước để làm gì để cái dữ liệu nó sẽ tự động nó sẽ cập nhật khi mà các
+[02:06] nó sẽ tự động nó sẽ cập nhật khi mà các bạn thêm dữ liệu mới vào đúng ạ Đấy thì
+[02:09] bạn thêm dữ liệu mới vào đúng ạ Đấy thì đầu tiên mình sẽ tạo thay đổi cho cái
+[02:11] đầu tiên mình sẽ tạo thay đổi cho cái vùng dữ liệu các bạn sẽ thích bằng ô bất
+[02:12] vùng dữ liệu các bạn sẽ thích bằng ô bất kỳ sau đó gọn xem vào cái thẻ Insert và
+[02:15] kỳ sau đó gọn xem vào cái thẻ Insert và các bạn sẽ thích cái Thay bồ đây hoặc là
+[02:17] các bạn sẽ thích cái Thay bồ đây hoặc là gì à cao sẽ ấn can t đấy thì nó sẽ có
+[02:21] gì à cao sẽ ấn can t đấy thì nó sẽ có một cái cửa sổ created thay bộ được hiện
+[02:23] một cái cửa sổ created thay bộ được hiện ra đúng không nó sẽ lựa chọn từ việc đầu
+[02:25] ra đúng không nó sẽ lựa chọn từ việc đầu tiên đến với yêu cuối cùng các bạn Nhớ
+[02:28] tiên đến với yêu cuối cùng các bạn Nhớ thích chọn mai thấy bố hết đời nhá này
+[02:30] thích chọn mai thấy bố hết đời nhá này sau đó bạn sẽ thích ok đấy thì như vậy
+[02:33] sau đó bạn sẽ thích ok đấy thì như vậy cái vùng dữ liệu của mình đã được tạo
+[02:34] cái vùng dữ liệu của mình đã được tạo thành Tây mồm bên trái này là cái thấy
+[02:37] thành Tây mồm bên trái này là cái thấy buồn đêm thì đây là tên mặc định nhá các
+[02:40] buồn đêm thì đây là tên mặc định nhá các bạn có thể dùng cái tên này hoặc các bạn
+[02:41] bạn có thể dùng cái tên này hoặc các bạn đổi tên cũng được ví dụ mình đổi tên là
+[02:43] đổi tên cũng được ví dụ mình đổi tên là diện dữ liệu đi cái và Họ sẽ ở Master
+[02:48] diện dữ liệu đi cái và Họ sẽ ở Master thì như vậy mình đã có một cách thay bồ
+[02:51] thì như vậy mình đã có một cách thay bồ dữ liệu rồi đúng không Bây giờ các bạn
+[02:52] dữ liệu rồi đúng không Bây giờ các bạn xem vào thẻ Insert này các bạn sẽ chọn
+[02:54] xem vào thẻ Insert này các bạn sẽ chọn bài post thêm đấy thì một cái cửa sổ
+[02:57] bài post thêm đấy thì một cái cửa sổ christie's Facebook tê bồ đã hiện ra
+[02:59] christie's Facebook tê bồ đã hiện ra đúng không
+[03:00] đúng không từ đó tạo pivot table chính là cái tên
+[03:02] từ đó tạo pivot table chính là cái tên dữ liệu mà nói với mình Đạt bạn đấy
+[03:03] dữ liệu mà nói với mình Đạt bạn đấy Ngoài ra thì ở đây nó sẽ có hai cái tùy
+[03:06] Ngoài ra thì ở đây nó sẽ có hai cái tùy chọn là diễn tạo cái xít để chứa file
+[03:08] chọn là diễn tạo cái xít để chứa file word p.bồ thông thường mình sẽ thích vào
+[03:10] word p.bồ thông thường mình sẽ thích vào đây tức là mình sẽ tạo một cái xít mới
+[03:12] đây tức là mình sẽ tạo một cái xít mới đúng không các bạn sẽ bấm ok thì như vậy
+[03:14] đúng không các bạn sẽ bấm ok thì như vậy nó sẽ tạo của cái sim mới là ship hay là
+[03:17] nó sẽ tạo của cái sim mới là ship hay là cái ship mà chứa file Portable đúng
+[03:18] cái ship mà chứa file Portable đúng không Thì đầu tiên nhá mình sẽ kéo hiện
+[03:21] không Thì đầu tiên nhá mình sẽ kéo hiện ví dụ mình sẽ kéo cái trường năm và lâu
+[03:22] ví dụ mình sẽ kéo cái trường năm và lâu này trường tháng mình sẽ kéo vào đây Đấy
+[03:26] này trường tháng mình sẽ kéo vào đây Đấy cái doanh thu còn sẽ kéo xuống đây đấy
+[03:29] cái doanh thu còn sẽ kéo xuống đây đấy ngoài ra nhé bạn sẽ vào cái thẻ design
+[03:32] ngoài ra nhé bạn sẽ vào cái thẻ design này cái phần Zippo gian mình sẽ chọn là
+[03:34] này cái phần Zippo gian mình sẽ chọn là sâu Winter Ballad đi tiếp theo bạn sẽ
+[03:38] sâu Winter Ballad đi tiếp theo bạn sẽ chuyển sang cái thẻ like nhé Mình sẽ
+[03:40] chuyển sang cái thẻ like nhé Mình sẽ chọn cái Viber trả lại đây đấy thì với
+[03:43] chọn cái Viber trả lại đây đấy thì với cái trường hợp mà này thì có thể ví dụ
+[03:45] cái trường hợp mà này thì có thể ví dụ mình chọn cái chặt đầu tiên này đi chọn
+[03:47] mình chọn cái chặt đầu tiên này đi chọn ca lần này nhá lại gọi sân bấm ok thì
+[03:50] ca lần này nhá lại gọi sân bấm ok thì như vậy đây là cái dữ liệu về doanh thu
+[03:52] như vậy đây là cái dữ liệu về doanh thu họ sẽ nhấn chuột phải vào đây các bạn sẽ
+[03:55] họ sẽ nhấn chuột phải vào đây các bạn sẽ chọn 2 ô này lên lại mình không cần các
+[03:57] chọn 2 ô này lên lại mình không cần các thông tin này cái tôi tờ bạn tích vào
+[03:59] thông tin này cái tôi tờ bạn tích vào đây Bạn bấm delete
+[04:00] đây Bạn bấm delete anh Thái Cái đây là cái tiêu đề đúng
+[04:02] anh Thái Cái đây là cái tiêu đề đúng không còn sẽ thích lúc vào đây ví dụ
+[04:03] không còn sẽ thích lúc vào đây ví dụ mình đi lại doanh thu lại Ví dụ mình cho
+[04:09] mình đi lại doanh thu lại Ví dụ mình cho căn sang phải đi cả có thể tích vào đây
+[04:13] căn sang phải đi cả có thể tích vào đây này các bạn sẽ bỏ cái rồi lại đi lại
+[04:15] này các bạn sẽ bỏ cái rồi lại đi lại mình sẽ không cần yêu biết lại đây Bây
+[04:17] mình sẽ không cần yêu biết lại đây Bây giờ mình rất thích vào giá trị mất kìa
+[04:19] giờ mình rất thích vào giá trị mất kìa đây nhá Sau đó bạn sẽ nhấn phải lại mình
+[04:22] đây nhá Sau đó bạn sẽ nhấn phải lại mình sẽ format đây ta series đấy và mình sẽ
+[04:26] sẽ format đây ta series đấy và mình sẽ rẻ mình sẽ con nhỏ cái khác này lại nhìn
+[04:28] rẻ mình sẽ con nhỏ cái khác này lại nhìn nó đẹp hơn đúng không Lại cậu sẽ đóng
+[04:34] nó đẹp hơn đúng không Lại cậu sẽ đóng cái này lại nhé ok lại bạn thấy cho mình
+[04:40] cái này lại nhé ok lại bạn thấy cho mình đã có một cái doanh thu khá là đẹp rồi
+[04:41] đã có một cái doanh thu khá là đẹp rồi mình sẽ con nhỏ cái này lại bây giờ nhắc
+[04:46] mình sẽ con nhỏ cái này lại bây giờ nhắc bạn thấy mình sẽ nháy chuột phải vào cái
+[04:48] bạn thấy mình sẽ nháy chuột phải vào cái này các bạn sẽ chọn gì mình sẽ chọn pho
+[04:50] này các bạn sẽ chọn gì mình sẽ chọn pho mát
+[04:51] mát bộ sạc LG sản xuất tích vào điện đây là
+[04:55] bộ sạc LG sản xuất tích vào điện đây là trong cái thẻ khi like Là người cho vào
+[04:58] trong cái thẻ khi like Là người cho vào cái phần Bưu đời Các bạn sẽ chọn với số
+[05:00] cái phần Bưu đời Các bạn sẽ chọn với số nice Life Ví dụ mình chọn màu là màu cam
+[05:03] nice Life Ví dụ mình chọn màu là màu cam đi Vĩnh màu cam là cái Độ rộng là cái
+[05:05] đi Vĩnh màu cam là cái Độ rộng là cái quýt này mình sẽ đẻ là gì mình cho đẻ 3t
+[05:09] quýt này mình sẽ đẻ là gì mình cho đẻ 3t đi hoặc hai thì các bạn nhé đấy các bạn
+[05:11] đi hoặc hai thì các bạn nhé đấy các bạn thấy bao nhiêu thì ví dụ như thứ ba là
+[05:13] thấy bao nhiêu thì ví dụ như thứ ba là đẹp các bạn kéo xuống dưới mình sẽ chọn
+[05:15] đẹp các bạn kéo xuống dưới mình sẽ chọn lâu KL các hàng cây góc này nó sẽ bỏ lại
+[05:19] lâu KL các hàng cây góc này nó sẽ bỏ lại lại nhìn nó đẹp hơn của hoa quả sẽ đóng
+[05:20] lại nhìn nó đẹp hơn của hoa quả sẽ đóng này quá đấy Đây là cái bộ đồ này màu cam
+[05:23] này quá đấy Đây là cái bộ đồ này màu cam và diện nó sẽ Bó này ạ bây giờ diện mình
+[05:26] và diện nó sẽ Bó này ạ bây giờ diện mình sẽ tạo một cái sim mới thích vào dấu
+[05:27] sẽ tạo một cái sim mới thích vào dấu cộng này các bạn sẽ tích lũy vào đây
+[05:29] cộng này các bạn sẽ tích lũy vào đây mình sẽ sửa tên Ví dụ mình đi đã Sports
+[05:36] đấy Cái dancesport này gọi sẽ kéo ra ngoài nhá lại cái ship hay là cái
+[05:38] ngoài nhá lại cái ship hay là cái Facebook thì vừa xong các bạn có thể
+[05:39] Facebook thì vừa xong các bạn có thể tích nước vào đây mình sẽ ghi là giữa
+[05:41] tích nước vào đây mình sẽ ghi là giữa doanh thu đã gặp m bây giờ có suy nháy
+[05:44] doanh thu đã gặp m bây giờ có suy nháy chuột phải vào cái file gốc Tràm này còn
+[05:46] chuột phải vào cái file gốc Tràm này còn Coffee các bạn chuyển sang cái đã sport
+[05:48] Coffee các bạn chuyển sang cái đã sport nhé đấy bạn sẽ thích ở đây bạn sẽ ăn
+[05:50] nhé đấy bạn sẽ thích ở đây bạn sẽ ăn chương v e
+[05:51] chương v e 3 cách là mình sẽ copy cái trả lại thôi
+[05:56] 3 cách là mình sẽ copy cái trả lại thôi Ví dụ mình sẽ ko nhỏ này lại Bây giờ
+[06:01] Ví dụ mình sẽ ko nhỏ này lại Bây giờ mình sẽ trang trí với sport này nhá lại
+[06:04] mình sẽ trang trí với sport này nhá lại Bây giờ mình sẽ mình sẽ tích và cái bát
+[06:06] Bây giờ mình sẽ mình sẽ tích và cái bát sport này mình sẽ vào cái alike các bạn
+[06:08] sport này mình sẽ vào cái alike các bạn sẽ chọn là insolite đi mình sẽ chọn là
+[06:10] sẽ chọn là insolite đi mình sẽ chọn là diện năm này tháng này khu vực nhà phân
+[06:13] diện năm này tháng này khu vực nhà phân phối đã mình sắp tạo 4S hay sơn lại họ
+[06:17] phối đã mình sắp tạo 4S hay sơn lại họ sẽ tích bằng 5 nhá mình có 35 thì hẳn
+[06:18] sẽ tích bằng 5 nhá mình có 35 thì hẳn Thế nhá Mình sẽ vào với ôsin người rất
+[06:21] Thế nhá Mình sẽ vào với ôsin người rất để nó thành ba cái cột này lại năm mình
+[06:25] để nó thành ba cái cột này lại năm mình sẽ để lên trên này lại các bạn sẽ kéo
+[06:34] sẽ để lên trên này lại các bạn sẽ kéo sang góc này nhé Tiếp theo là cái tháng
+[06:36] sang góc này nhé Tiếp theo là cái tháng nha cậu thích vào đây ví dụ mình cho là
+[06:38] nha cậu thích vào đây ví dụ mình cho là bốn tháng rồi đi lại đây là cái vùng
+[06:49] bốn tháng rồi đi lại đây là cái vùng điều khiển nhé Tiếp theo là cái
+[06:51] điều khiển nhé Tiếp theo là cái cho ví dụ mình khu vực thì mình có thể
+[06:53] cho ví dụ mình khu vực thì mình có thể Cứ để ba khu vực hoặc là mình khu vực
+[06:56] Cứ để ba khu vực hoặc là mình khu vực 1973 này đi Hạnh ca nhà phân phối bạn
+[07:07] 1973 này đi Hạnh ca nhà phân phối bạn tích vào đây ví dụ mình sẽ cho là hai
+[07:09] tích vào đây ví dụ mình sẽ cho là hai đây mình sẽ đẻ ra hai cục quá Ok thì các
+[07:17] đây mình sẽ đẻ ra hai cục quá Ok thì các bạn sẽ co kéo nào cho phù hợp với cả cái
+[07:20] bạn sẽ co kéo nào cho phù hợp với cả cái vùng ĐT mà các bạn mong muốn nhé tiếp
+[07:22] vùng ĐT mà các bạn mong muốn nhé tiếp theo mình sẽ tạo một cái các bạn sẽ
+[07:24] theo mình sẽ tạo một cái các bạn sẽ thích vào cái bios mà về doanh thu là
+[07:26] thích vào cái bios mà về doanh thu là đấy các bạn giữ cần chôn và các bạn giữ
+[07:28] đấy các bạn giữ cần chôn và các bạn giữ được trái còn kéo nhé Tức là mình sẽ
+[07:30] được trái còn kéo nhé Tức là mình sẽ copy cái sân này ra một cái sim mới Tức
+[07:32] copy cái sân này ra một cái sim mới Tức là mình sẽ tạo một cái cốc sạc từ cái
+[07:35] là mình sẽ tạo một cái cốc sạc từ cái mình đã có nhá mình tạo nhanh tiếp theo
+[07:37] mình đã có nhá mình tạo nhanh tiếp theo mình sẽ tạo cái gì anh Doanh thu theo Ví
+[07:40] mình sẽ tạo cái gì anh Doanh thu theo Ví dụ mình theo khu vực hạn thế nhá Cái nào
+[07:42] dụ mình theo khu vực hạn thế nhá Cái nào mà có cần theo dõi thì gọi làm nhá mình
+[07:44] mà có cần theo dõi thì gọi làm nhá mình sẽ thích và ra còn vào thể like nhé mày
+[07:47] sẽ thích và ra còn vào thể like nhé mày chọn cái kiểu lít ở đây thì là gì ạ Mình
+[07:51] chọn cái kiểu lít ở đây thì là gì ạ Mình sẽ
+[07:51] sẽ ở khu vực đã rạch kéo khu vực vào cái
+[07:55] ở khu vực đã rạch kéo khu vực vào cái Leesin này Đấy cảm thấy bây giờ mình sẽ
+[07:58] Leesin này Đấy cảm thấy bây giờ mình sẽ nháy chuột phải vào đây mình dẫn đổi cái
+[08:00] nháy chuột phải vào đây mình dẫn đổi cái kiểu tràn nhé các bạn chọn là chào trên
+[08:03] kiểu tràn nhé các bạn chọn là chào trên trà xanh đấy Gọi sẽ chọn cái like lại đi
+[08:05] trà xanh đấy Gọi sẽ chọn cái like lại đi đấy Chắc bấm ok thì như vậy Cái đồ thị
+[08:08] đấy Chắc bấm ok thì như vậy Cái đồ thị này nó sẽ biểu diễn like này đấy bạn có
+[08:11] này nó sẽ biểu diễn like này đấy bạn có thể diện ko rất nhớ được sản Coffee luôn
+[08:13] thể diện ko rất nhớ được sản Coffee luôn mình sẽ xanh đấy cẩn desktop mà các bạn
+[08:16] mình sẽ xanh đấy cẩn desktop mà các bạn canvê luôn mình hết cái đất bóp này nhá
+[08:19] canvê luôn mình hết cái đất bóp này nhá Để bây giờ mình sẽ kéo cái đã post này
+[08:21] Để bây giờ mình sẽ kéo cái đã post này để nó bằng cái cái này nói tiền thì lên
+[08:24] để nó bằng cái cái này nói tiền thì lên đây à
+[08:28] đây à ở đây là cái cách mà chọn bố trí nhìn
+[08:31] ở đây là cái cách mà chọn bố trí nhìn cho nó đẹp thôi ví dụ là doanh thu theo
+[08:33] cho nó đẹp thôi ví dụ là doanh thu theo khu vực chẳng hạn đấy đúng không Bạn
+[08:37] khu vực chẳng hạn đấy đúng không Bạn thích ở đây mình sẽ sửa lại doanh thu
+[08:38] thích ở đây mình sẽ sửa lại doanh thu này theo khu vực
+[08:41] này theo khu vực Ừ anh thu hiện theo khu vực Quốc Bây giờ
+[08:51] Ừ anh thu hiện theo khu vực Quốc Bây giờ có thật sự thích vào dấu cộng này mình
+[08:53] có thật sự thích vào dấu cộng này mình sẽ thêm cái Legend vào đây mình sẽ biết
+[08:57] sẽ thêm cái Legend vào đây mình sẽ biết là màu làm miền nào đúng không còn kéo
+[09:00] là màu làm miền nào đúng không còn kéo lên đây mình kéo ngang ra à
+[09:06] lên đây mình kéo ngang ra à ừ ừ
+[09:13] ở lại miền Bắc một nào miền Nam một màu thì chung nghiệp nào có bạn nhìn này thì
+[09:15] thì chung nghiệp nào có bạn nhìn này thì còn thấy là Việt Nam Doanh thu là cao
+[09:17] còn thấy là Việt Nam Doanh thu là cao nhất đúng không miền Trung là doanh thư
+[09:19] nhất đúng không miền Trung là doanh thư thứ hai và miền Bắc là doanh thu thấp
+[09:20] thứ hai và miền Bắc là doanh thu thấp nhất đấy các bạn sẽ tích và cái màu này
+[09:23] nhất đấy các bạn sẽ tích và cái màu này nhá Đấy sau đó bạn nhấp nháy chuột phải
+[09:25] nhá Đấy sau đó bạn nhấp nháy chuột phải hoặc các bạn có thể ấn can trên một để
+[09:27] hoặc các bạn có thể ấn can trên một để mình hiện cái format date asiri đúng
+[09:30] mình hiện cái format date asiri đúng không đấy bạn chú ý nhau mình sẽ vào cái
+[09:33] không đấy bạn chú ý nhau mình sẽ vào cái phần phim này lăn xuống người cho chọn
+[09:36] phần phim này lăn xuống người cho chọn xin 1like đi Nhìn nó đẹp hơn đúng không
+[09:37] xin 1like đi Nhìn nó đẹp hơn đúng không Đấy nhìn uốn lượn này nó đẹp hơn để họ
+[09:40] Đấy nhìn uốn lượn này nó đẹp hơn để họ sẽ tích và tiếp theo cái đồ thị của miền
+[09:42] sẽ tích và tiếp theo cái đồ thị của miền Trung và hạ thế mình cũng chọn một like
+[09:44] Trung và hạ thế mình cũng chọn một like đi miền Nam Bộ thế Mình rất nhút lại đi
+[09:47] đi miền Nam Bộ thế Mình rất nhút lại đi Đấy nhìn nó đẹp hơn thì như vậy mình đã
+[09:50] Đấy nhìn nó đẹp hơn thì như vậy mình đã có hai cái biểu đồ là gì Một cái là theo
+[09:52] có hai cái biểu đồ là gì Một cái là theo doanh thu theo năm ở đây và các tháng
+[09:54] doanh thu theo năm ở đây và các tháng một cái là chia ra thêm cái phần khu vực
+[09:57] một cái là chia ra thêm cái phần khu vực để mình xem giám sát xem là cái khu vực
+[09:59] để mình xem giám sát xem là cái khu vực nào là tốt nhất đúng không tiếp theo nha
+[10:04] nào là tốt nhất đúng không tiếp theo nha cạn lợi dụng những cái Facebook mình đã
+[10:06] cạn lợi dụng những cái Facebook mình đã có rồi Các bạn có thể nhai phải này các
+[10:08] có rồi Các bạn có thể nhai phải này các bạn ngu copy
+[10:09] bạn ngu copy Ừ để mình sẽ tiết ở đây clip tiếp tục
+[10:12] Ừ để mình sẽ tiết ở đây clip tiếp tục Coffee các bạn tích bảo vệ sinh một này
+[10:15] Coffee các bạn tích bảo vệ sinh một này thì ok Bây giờ mình sẽ tạo một cái về
+[10:17] thì ok Bây giờ mình sẽ tạo một cái về cái sản phẩm nha bạn Facebook và đây là
+[10:19] cái sản phẩm nha bạn Facebook và đây là mình sửa lại ví dụ sản phẩm Top đi top 3
+[10:24] mình sửa lại ví dụ sản phẩm Top đi top 3 đi đấy các bạn sẽ thích và đến biểu đồ
+[10:27] đi đấy các bạn sẽ thích và đến biểu đồ này đúng không các bạn sẽ nháy chuột
+[10:29] này đúng không các bạn sẽ nháy chuột phải này mình sẽ chặn trên trả sau đây
+[10:33] phải này mình sẽ chặn trên trả sau đây mình sẽ chọn những ba này họ sẽ bấm ok
+[10:35] mình sẽ chọn những ba này họ sẽ bấm ok Bây giờ các bạn xem vào cái thẻ alike
+[10:38] Bây giờ các bạn xem vào cái thẻ alike chọn finish này thì bạn sẽ kéo vớ ra bạn
+[10:42] chọn finish này thì bạn sẽ kéo vớ ra bạn bỏ khu vực da bây giờ mình chỉ là sản
+[10:44] bỏ khu vực da bây giờ mình chỉ là sản phẩm hơn đúng không ạ Và còn sẽ kéo sản
+[10:48] phẩm hơn đúng không ạ Và còn sẽ kéo sản phẩm vào đây đấy thì như vậy đấy có 10
+[10:51] phẩm vào đây đấy thì như vậy đấy có 10 sản phẩm Đúng không các bạn tích vào đây
+[10:53] sản phẩm Đúng không các bạn tích vào đây là các bạn sẽ chọn gì ạ ra lưu filter
+[10:57] là các bạn sẽ chọn gì ạ ra lưu filter Mình sẽ chọn tích và cái top 10 đây mình
+[11:00] Mình sẽ chọn tích và cái top 10 đây mình sẽ sửa cái số 10 thì số ba đâu đấy Có ba
+[11:03] sẽ sửa cái số 10 thì số ba đâu đấy Có ba đó không có sẽ bấm ok lấy thì như vậy Ở
+[11:05] đó không có sẽ bấm ok lấy thì như vậy Ở đây nó chỉ hiện ba cái sản phẩm và có
+[11:08] đây nó chỉ hiện ba cái sản phẩm và có doanh thu các bạn nhé việc phải
+[11:09] doanh thu các bạn nhé việc phải khi chọn sọt nha ví dụ từ cao xuống thấp
+[11:12] khi chọn sọt nha ví dụ từ cao xuống thấp đấy thì cái đồ thị nó lại ngược lại các
+[11:14] đấy thì cái đồ thị nó lại ngược lại các bạn sẽ thích vào bên trái này các bạn
+[11:16] bạn sẽ thích vào bên trái này các bạn nhé chuột phải và chọn format axit lại
+[11:20] nhé chuột phải và chọn format axit lại các bạn sẽ năng xuống dưới này các bạn
+[11:23] các bạn sẽ năng xuống dưới này các bạn sẽ tích vào cái masteri in reverse này
+[11:25] sẽ tích vào cái masteri in reverse này đã xem bấm Ok vậy thì như vậy là diện
+[11:29] đã xem bấm Ok vậy thì như vậy là diện cái Doanh thu cao nhất là nó đã được lên
+[11:32] cái Doanh thu cao nhất là nó đã được lên trên rồi bây giờ cái số này Ví dụ mình
+[11:39] trên rồi bây giờ cái số này Ví dụ mình muốn cho nó xuống dưới nhé Cả thích là
+[11:40] muốn cho nó xuống dưới nhé Cả thích là cái số này gọi nhá được phải là pho mát
+[11:43] cái số này gọi nhá được phải là pho mát các bạn thân lăn xuống này mình sẽ chọn
+[11:45] các bạn thân lăn xuống này mình sẽ chọn cái này bổ đây để trong cái phần level
+[11:48] cái này bổ đây để trong cái phần level post từng contac đây mình sẽ chọn là
+[11:49] post từng contac đây mình sẽ chọn là diện họ sẽ tinh và hai đấy thì mình sẽ
+[11:52] diện họ sẽ tinh và hai đấy thì mình sẽ chuyển cái giá trị nó xuống dưới nhé lại
+[11:56] chuyển cái giá trị nó xuống dưới nhé lại như vậy Mình có doanh thu + tích vào đây
+[11:57] như vậy Mình có doanh thu + tích vào đây mình trước đổi tên là diện top 3 sản
+[12:00] mình trước đổi tên là diện top 3 sản phẩm đúng không top 3 sản phẩm sẽ giải
+[12:05] phẩm đúng không top 3 sản phẩm sẽ giải thích ở đây chọn phân tích và cái dấu
+[12:07] thích ở đây chọn phân tích và cái dấu cộng này nha các bạn sẽ chọn gì ạ
+[12:09] cộng này nha các bạn sẽ chọn gì ạ xe bồn ở đây này Đấy và đoạn tích và cái
+[12:12] xe bồn ở đây này Đấy và đoạn tích và cái hình tam giác ở đây mình chọn vị trí này
+[12:14] hình tam giác ở đây mình chọn vị trí này đây mình sẽ chọn sypay lại bây giờ cảm
+[12:18] đây mình sẽ chọn sypay lại bây giờ cảm xúc xích mà cái giá trị nhé là người sẽ
+[12:20] xúc xích mà cái giá trị nhé là người sẽ đổi ví dụ mình cho là màu trắng đi sự
+[12:22] đổi ví dụ mình cho là màu trắng đi sự động này các bạn nhớ phải là pho mát để
+[12:26] động này các bạn nhớ phải là pho mát để ta lây bù các bạn ăn xuống dưới nhé các
+[12:29] ta lây bù các bạn ăn xuống dưới nhé các bạn vào cái phần 5 bờ đây này Đây cái
+[12:31] bạn vào cái phần 5 bờ đây này Đây cái pho mát cốt thì mình sẽ diện Thăng này
+[12:33] pho mát cốt thì mình sẽ diện Thăng này phẩy tăng không đấy cậu sân bóng ép để
+[12:37] phẩy tăng không đấy cậu sân bóng ép để như vậy mình chuyển nó về cái kiểu phân
+[12:39] như vậy mình chuyển nó về cái kiểu phân biệt hàng nghìn rồi nhìn rất là đẹp đúng
+[12:40] biệt hàng nghìn rồi nhìn rất là đẹp đúng không Đây như vậy Mình có top 3 sản phẩm
+[12:44] không Đây như vậy Mình có top 3 sản phẩm rồi đúng không Để bạn gì Các bạn nháy
+[12:46] rồi đúng không Để bạn gì Các bạn nháy chuột phải vào cái cô Ba sản phẩm này
+[12:48] chuột phải vào cái cô Ba sản phẩm này các bạn chọn ngu có Coffee creative góp
+[12:51] các bạn chọn ngu có Coffee creative góp ý để mình sẽ chọn cái ship mình sẽ ship
+[12:54] ý để mình sẽ chọn cái ship mình sẽ ship một này bạn Ok ở đây là gì Anh không
+[12:56] một này bạn Ok ở đây là gì Anh không phải là sản phẩm tốt 3 nữa mà sản phẩm
+[12:59] phải là sản phẩm tốt 3 nữa mà sản phẩm diện bác Cường bạn là họ sẽ thích vào
+[13:03] diện bác Cường bạn là họ sẽ thích vào đây Bạn sẽ chọn là vali filter còn chẳng
+[13:07] đây Bạn sẽ chọn là vali filter còn chẳng top 10 này lại Bây giờ mình sẽ
+[13:09] top 10 này lại Bây giờ mình sẽ ở đó mà mình sẽ chọn diệt Bác đây lại
+[13:12] ở đó mà mình sẽ chọn diệt Bác đây lại còn sẽ bấm ok thì như vậy bác đường là
+[13:14] còn sẽ bấm ok thì như vậy bác đường là rồi đúng là con sẽ nhấp phải vào đây
+[13:16] rồi đúng là con sẽ nhấp phải vào đây mình sẽ chọn diện format Asus bạn kéo
+[13:21] mình sẽ chọn diện format Asus bạn kéo xuống dưới mình sẽ bỏ cái này đi Đấy nó
+[13:23] xuống dưới mình sẽ bỏ cái này đi Đấy nó sẽ nhiệt từ thấp chúng ta luôn Bây giờ
+[13:27] sẽ nhiệt từ thấp chúng ta luôn Bây giờ mình sẽ chuyển cái giá trị này xuống
+[13:28] mình sẽ chuyển cái giá trị này xuống dưới nhé bạn nháy cho phải lại các chọn
+[13:29] dưới nhé bạn nháy cho phải lại các chọn format axit đấy Gọi đang xuống đây mình
+[13:33] format axit đấy Gọi đang xuống đây mình sẽ vào đây Cái này thì mình lại là lâu
+[13:37] sẽ vào đây Cái này thì mình lại là lâu đấy ok Cái này không phải là top 3 sản
+[13:41] đấy ok Cái này không phải là top 3 sản phẩm nhưng mà có thể ghi dword tức là ba
+[13:44] phẩm nhưng mà có thể ghi dword tức là ba cái sản phẩm tổ nhất bạn có thể gõ tiếng
+[13:46] cái sản phẩm tổ nhất bạn có thể gõ tiếng Việt nhé Bây giờ mình sẽ lìa còn có thể
+[13:50] Việt nhé Bây giờ mình sẽ lìa còn có thể bây giờ cậu nhớ được phải là mình sẽ
+[13:52] bây giờ cậu nhớ được phải là mình sẽ copy cái top và các bạn vào desktop này
+[13:55] copy cái top và các bạn vào desktop này để cậu có thể can trên V ở đây lại lên
+[14:00] để cậu có thể can trên V ở đây lại lên cái này mình có thể con nhỏ để lại để
+[14:03] cái này mình có thể con nhỏ để lại để mình theo dõi là cái sản phẩm là tồi sản
+[14:05] mình theo dõi là cái sản phẩm là tồi sản phẩm là tốt đúng không ạ Mình có thể con
+[14:06] phẩm là tốt đúng không ạ Mình có thể con nhỏ để lại thôi các bạn vào top này à
+[14:09] nhỏ để lại thôi các bạn vào top này à anh nghe được phải copy mình sẽ passport
+[14:12] anh nghe được phải copy mình sẽ passport các bạn khác trên về đi Đấy đấy thì như
+[14:29] các bạn khác trên về đi Đấy đấy thì như vậy các bạn sẽ ko chỉnh Tùy các bạn nha
+[14:31] vậy các bạn sẽ ko chỉnh Tùy các bạn nha Cái diện tích mà các bạn muốn thể hiện ở
+[14:33] Cái diện tích mà các bạn muốn thể hiện ở Việt Nam Sport này Bây giờ mình muốn
+[14:35] Việt Nam Sport này Bây giờ mình muốn phân bổ theo cái hiện cái cái cái khu
+[14:38] phân bổ theo cái hiện cái cái cái khu vực 2 nhà phân phối đúng không Mình muốn
+[14:39] vực 2 nhà phân phối đúng không Mình muốn biết là cái phần trăm vậy bây giờ mình
+[14:42] biết là cái phần trăm vậy bây giờ mình sẽ tạo một cái phần trăm các bạn có thể
+[14:43] sẽ tạo một cái phần trăm các bạn có thể tích vào đây mình sẽ gì cả các bạn nháy
+[14:45] tích vào đây mình sẽ gì cả các bạn nháy chuột phải tiếp các bạn tận dụng cái này
+[14:47] chuột phải tiếp các bạn tận dụng cái này mua Coffee lại christy to copy bạn xem
+[14:52] mua Coffee lại christy to copy bạn xem bấm ok để bây giờ mình sẽ thích nước vào
+[14:54] bấm ok để bây giờ mình sẽ thích nước vào đây mình sửa là gì cũng có thể ghi là gì
+[14:55] đây mình sửa là gì cũng có thể ghi là gì mình phân bổ theo các khu vực nhá khu
+[14:59] mình phân bổ theo các khu vực nhá khu vực phần trăm đi gái gọi enter có diện
+[15:03] vực phần trăm đi gái gọi enter có diện tích và đây là các bạn có thể nhớ được
+[15:04] tích và đây là các bạn có thể nhớ được phải mình chọn ở trên chai thả Ví dụ
+[15:08] phải mình chọn ở trên chai thả Ví dụ mình cho cái đồ
+[15:09] mình cho cái đồ ở đảo Super Mochi Đây là cái đồ thị cũng
+[15:13] ở đảo Super Mochi Đây là cái đồ thị cũng sẽ thích ở đây mình sẽ ghi là gì Đây là
+[15:15] sẽ thích ở đây mình sẽ ghi là gì Đây là phần trăm theo khu vực đúng không thì
+[15:18] phần trăm theo khu vực đúng không thì các bạn Các bạn muốn tiêu đề là gì thì
+[15:21] các bạn Các bạn muốn tiêu đề là gì thì tùy các bạn đã có thể tích vào cái đồ
+[15:26] tùy các bạn đã có thể tích vào cái đồ thị Hải khoảng kéo rộng đây này Đấy cái
+[15:33] thị Hải khoảng kéo rộng đây này Đấy cái đồ thị này nó đại thì về các bạn các bạn
+[15:44] đồ thị này nó đại thì về các bạn các bạn sẽ kéo làm sao để cho nó vừa đẹp theo ý
+[15:47] sẽ kéo làm sao để cho nó vừa đẹp theo ý của các bạn nhé Bây giờ bạn sẽ tiếp vào
+[15:50] của các bạn nhé Bây giờ bạn sẽ tiếp vào đây mình đang làm theo top 3 sản phẩm
+[15:52] đây mình đang làm theo top 3 sản phẩm của các bạn sẽ kreide các bạn tích vào
+[15:54] của các bạn sẽ kreide các bạn tích vào đây này mình sẽ có ở xem vào cái thẻ
+[15:57] đây này mình sẽ có ở xem vào cái thẻ alarm mình chọn cái Fila đi bây giờ
+[16:00] alarm mình chọn cái Fila đi bây giờ không phải là sản phẩm nữa người đang
+[16:01] không phải là sản phẩm nữa người đang yêu cầu theo khu vực đúng bằng các bạn
+[16:02] yêu cầu theo khu vực đúng bằng các bạn sẽ kéo khu vực vào đây này thì nó sẽ là
+[16:05] sẽ kéo khu vực vào đây này thì nó sẽ là phân bổ theo khu vực Ok các bạn sẽ thích
+[16:08] phân bổ theo khu vực Ok các bạn sẽ thích là cái giá trị này nhá sau đó
+[16:09] là cái giá trị này nhá sau đó có phải là các bạn xe format datalabels
+[16:11] có phải là các bạn xe format datalabels các loại diện tích và cái castelli lên
+[16:14] các loại diện tích và cái castelli lên đấy thì nó sẽ hiện là diện tên và và cái
+[16:17] đấy thì nó sẽ hiện là diện tên và và cái giá trị doanh thu của đây lại rất là đẹp
+[16:19] giá trị doanh thu của đây lại rất là đẹp luôn Các bạn nhớ phải này gọi copy người
+[16:24] luôn Các bạn nhớ phải này gọi copy người sẽ bà dsport này con thích vào đoạn
+[16:26] sẽ bà dsport này con thích vào đoạn canvê để như vậy Mình vẫn có một cái
+[16:28] canvê để như vậy Mình vẫn có một cái dsport về theo khu vực rồi mình sẽ kéo
+[16:40] dsport về theo khu vực rồi mình sẽ kéo một cái diện tích hợp lý nhé Đấy Bây giờ
+[16:43] một cái diện tích hợp lý nhé Đấy Bây giờ mình sẽ phân bổ tiếp 3 cái đ-sport một
+[16:46] mình sẽ phân bổ tiếp 3 cái đ-sport một cái đặt theo khu vực 1 cái làm theo gì ạ
+[16:48] cái đặt theo khu vực 1 cái làm theo gì ạ Ví dụ mình theo nhà phân phối nữa đi
+[16:50] Ví dụ mình theo nhà phân phối nữa đi Mình sẽ làm hai cái nhé Cái khu vực này
+[16:53] Mình sẽ làm hai cái nhé Cái khu vực này có thích một đây các bạn có thể giữ gần
+[16:54] có thích một đây các bạn có thể giữ gần chôn vào tuyệt trái còn kéo ra đây để
+[16:56] chôn vào tuyệt trái còn kéo ra đây để mình copy mình sẽ thích ở đây không phải
+[16:59] mình copy mình sẽ thích ở đây không phải khu vực nữa mà nhà phân phối nhà phân
+[17:02] khu vực nữa mà nhà phân phối nhà phân phối Gọi sẽ tích vào đây cho mình sẽ vào
+[17:06] phối Gọi sẽ tích vào đây cho mình sẽ vào cái thẻ alarm có thể chọn là diện còn
+[17:08] cái thẻ alarm có thể chọn là diện còn chưa chọn cái Philip II
+[17:09] chưa chọn cái Philip II thì mình sẽ bỏ những khu vực ra mình sẽ
+[17:12] thì mình sẽ bỏ những khu vực ra mình sẽ kéo nhà phân phối vào đây đấy các bạn
+[17:15] kéo nhà phân phối vào đây đấy các bạn sân bóng này lại các bạn nhớ phải copy
+[17:19] sân bóng này lại các bạn nhớ phải copy sáng tác bóp sao bạn phết vào đây hai
+[17:31] sáng tác bóp sao bạn phết vào đây hai bạn kéo xuống nhé và cái đồ thị này con
+[17:34] bạn kéo xuống nhé và cái đồ thị này con có thể tích là đây toàn thích thì cả kéo
+[17:35] có thể tích là đây toàn thích thì cả kéo rộng ra thế là nhìn cho nó đẹp các bạn
+[17:38] rộng ra thế là nhìn cho nó đẹp các bạn có thể thêm các cái thành phần nào mà
+[17:40] có thể thêm các cái thành phần nào mà các bạn mong muốn nhé thì trong cái ví
+[17:41] các bạn mong muốn nhé thì trong cái ví dụ này mình chỉ là một số két đơn giản
+[17:45] dụ này mình chỉ là một số két đơn giản như này cho bạn hiểu thôi ạ Đấy bây giờ
+[17:48] như này cho bạn hiểu thôi ạ Đấy bây giờ cái việc cuối cùng là riêng mình rất tạo
+[17:49] cái việc cuối cùng là riêng mình rất tạo một cái collections từ các cái slicer
+[17:52] một cái collections từ các cái slicer này đến các các and sport này đúng là
+[17:54] này đến các các and sport này đúng là con sẽ tích vào cái năm về trước này các
+[17:56] con sẽ tích vào cái năm về trước này các bạn nhớ liệt phải các bạn chọn report
+[17:58] bạn nhớ liệt phải các bạn chọn report Collection đấy các bạn xem là còn cái
+[18:01] Collection đấy các bạn xem là còn cái Facebook thấy bộ nào và chưa thích ở đây
+[18:03] Facebook thấy bộ nào và chưa thích ở đây mình thích hết rồi đúng không thì ok các
+[18:05] mình thích hết rồi đúng không thì ok các bạn nháy chuột phải và cái tháng này các
+[18:07] bạn nháy chuột phải và cái tháng này các bạn chọn report lesson a
+[18:09] bạn chọn report lesson a sự tích hết rồi nhé nếu như mà cái nào
+[18:11] sự tích hết rồi nhé nếu như mà cái nào còn chưa thích thì các bạn hãy thích vào
+[18:13] còn chưa thích thì các bạn hãy thích vào nhé Tại vì mình đang muốn là diện các
+[18:15] nhé Tại vì mình đang muốn là diện các cái slideshare này điều khiển thì nó sẽ
+[18:17] cái slideshare này điều khiển thì nó sẽ có tác dụng trong toàn bộ các cái biểu
+[18:20] có tác dụng trong toàn bộ các cái biểu đồ ở đây là khu vực cũng vậy thành tích
+[18:24] đồ ở đây là khu vực cũng vậy thành tích hết rồi thì gọi ok lại tại nhà phân phối
+[18:27] hết rồi thì gọi ok lại tại nhà phân phối cũng vậy nhé để bạn thấy giới tính hết
+[18:30] cũng vậy nhé để bạn thấy giới tính hết rồi ví dụ những cái này mà chưa thích
+[18:32] rồi ví dụ những cái này mà chưa thích chẳng hạn thế nhá thì có phải tích vào
+[18:34] chẳng hạn thế nhá thì có phải tích vào nhá đấy các bạn muốn Ok thì bây giờ ví
+[18:36] nhá đấy các bạn muốn Ok thì bây giờ ví dụ mình theo dõi này có sự tích năm ví
+[18:38] dụ mình theo dõi này có sự tích năm ví dụ mình muốn kiểm tra năm 2020 đấy nó
+[18:40] dụ mình muốn kiểm tra năm 2020 đấy nó chỉ hiện năm 2020 của toàn bộ các cái
+[18:42] chỉ hiện năm 2020 của toàn bộ các cái biểu đồ này nó sẽ thay đổi theo nếu như
+[18:45] biểu đồ này nó sẽ thay đổi theo nếu như muốn hiện thêm 1 năm nữa nhé thì họ sẽ
+[18:47] muốn hiện thêm 1 năm nữa nhé thì họ sẽ tích vào cái Monte này hãy mình có thể
+[18:49] tích vào cái Monte này hãy mình có thể lựa chọn đồng thời nhiều năm lại cảm
+[18:53] lựa chọn đồng thời nhiều năm lại cảm thấy ẩm rất là hai ạ thì tương tự cái
+[18:56] thấy ẩm rất là hai ạ thì tương tự cái tháng nhé bạn có thể theo dõi một cái
+[18:57] tháng nhé bạn có thể theo dõi một cái thằng bất kỳ nào các bạn mong muốn này
+[18:59] thằng bất kỳ nào các bạn mong muốn này Đấy cảm thấy rất là hai con nếu muốn
+[19:03] Đấy cảm thấy rất là hai con nếu muốn hiện nhiều tháng hoặc phân tích và cái
+[19:04] hiện nhiều tháng hoặc phân tích và cái Monte này để đoạn hiện đấy thì các bạn
+[19:08] Monte này để đoạn hiện đấy thì các bạn sẽ thay đổi theo cái
+[19:09] sẽ thay đổi theo cái cho các bạn biết được là sản phẩm nào là
+[19:11] cho các bạn biết được là sản phẩm nào là tốt nhất tồi nhất và diện cái phần trăm
+[19:15] tốt nhất tồi nhất và diện cái phần trăm ở đây là cái ông này sướng bao nhiêu
+[19:17] ở đây là cái ông này sướng bao nhiêu Nhìn cái biểu đồ này bạn có thể biết
+[19:19] Nhìn cái biểu đồ này bạn có thể biết được nhé để tương tự cái nhà phân phối
+[19:21] được nhé để tương tự cái nhà phân phối khu vực các bạn có thể tích và các điều
+[19:23] khu vực các bạn có thể tích và các điều khiển rất là hay luôn Ok như vậy mình đã
+[19:29] khiển rất là hay luôn Ok như vậy mình đã xong cái phần thực hành nhé các bạn thứ
+[19:32] xong cái phần thực hành nhé các bạn thứ nhất cái câu hỏi của các phần lát bóp
+[19:33] nhất cái câu hỏi của các phần lát bóp này là diện các bạn sẽ làm lại cho mình
+[19:35] này là diện các bạn sẽ làm lại cho mình nha các bạn sẽ thực tập nhiều để các bạn
+[19:36] nha các bạn sẽ thực tập nhiều để các bạn quen đấy Bạn có thể vẽ được cái quay
+[19:39] quen đấy Bạn có thể vẽ được cái quay vuốt và các cái hiển thị hoặc là rẽ các
+[19:41] vuốt và các cái hiển thị hoặc là rẽ các bạn có thể hiển thị phần trăm ở đây nhá
+[19:43] bạn có thể hiển thị phần trăm ở đây nhá ngoài cái phần gì ngoài cái thần số đây
+[19:45] ngoài cái phần gì ngoài cái thần số đây là họ sẽ hiển thị cho mình là cái phần
+[19:47] là họ sẽ hiển thị cho mình là cái phần trăm để các bạn có thể làm thêm cái phần
+[19:49] trăm để các bạn có thể làm thêm cái phần đấy cho mình nhé
+[19:50] đấy cho mình nhé Ừ ok những cái sim này có thể ẩn đi nhé
+[19:52] Ừ ok những cái sim này có thể ẩn đi nhé để các thích là cái sim này các bạn giữ
+[19:54] để các thích là cái sim này các bạn giữ ship và đoạn trích và xếp này Bây giờ
+[19:56] ship và đoạn trích và xếp này Bây giờ bọn nhớ thật phải lại các bạn sẽ hay đi
+[19:58] bọn nhớ thật phải lại các bạn sẽ hay đi tụi mình sẽ ẩn đi đúng không nó chỉ còn
+[20:00] tụi mình sẽ ẩn đi đúng không nó chỉ còn cái les này thôi đấy Ok như vậy là mình
+[20:03] cái les này thôi đấy Ok như vậy là mình đã kết thúc bài học ngày hôm nay ở đây
+[20:05] đã kết thúc bài học ngày hôm nay ở đây cảm ơn các bạn đã theo dõi các bạn nhớ
+[20:07] cảm ơn các bạn đã theo dõi các bạn nhớ đăng ký Kênh để cập nhật video mới nhất
+[20:09] đăng ký Kênh để cập nhật video mới nhất của gà cũng như chia sẻ để giúp mọi
+[20:11] của gà cũng như chia sẻ để giúp mọi người cùng học xem nhé Xin chào và hẹn
+[20:14] người cùng học xem nhé Xin chào và hẹn gặp lại ở

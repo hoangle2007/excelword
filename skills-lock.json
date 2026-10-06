@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "watch": {
+      "source": "khou/watch-video",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "ef98c7146f4cc11adfe4a3d7fe2b9d3cd9115d09b3e9e5bbd13f81f48a8d7a5e"
+    }
+  }
+}

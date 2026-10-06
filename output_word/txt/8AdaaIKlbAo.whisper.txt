@@ -1,0 +1,57 @@
+[00:00] Chào mừng bạn đến với kênh tin học đối bỏ năm bước.
+[00:03] Ví đô ngày nay, đối bỏ năm bước sẽ chia sẻ với bạn cách chia cột trong uất thành 2, 3, 4 hay nhiều phần.
+[00:13] Và trong lời dung của ví đô này, đối bỏ năm bước sẽ chia thành 2 phần chính.
+[00:19] Phần thứ nhất, đối bỏ nó cách chia cột thành 2 hay nhiều phần.
+[00:24] Và phần 2, đối bỏ nó một số cài đặt khi chia cột trong uất.
+[00:29] Và ngày bây giờ, mình sẽ đi vào nổi dung chi diết.
+[00:33] Dạ sửa dưới đây, đối bỏ năm bước đã có một đoạn văn bản.
+[00:38] Bây giờ, mình sẽ nhân vảm thêm để cho cái đoạn uất này nó dài hơn.
+[00:50] Và bây giờ, mình sẽ thực hiện thao tác chia cột thành 2 hay nhiều phần.
+[00:55] Các bước bạn thực hiện như sau.
+[00:57] Bước thứ nhất, bạn bôi đen nổi dung văn bản cần chia.
+[01:01] Ở đây, mình sẽ bôi đen cải nổi dung mà mình vừa có pì.
+[01:08] Sau đó, bước 2, bạn cực vào lấy eo chia menu.
+[01:14] Và chọn cộng, nếu bạn muốn chia văn bản thành 2 cột, bạn chọn 2, nếu bạn muốn chia thành 3, bạn chọn 3,
+[01:24] Nếu bạn muốn chia, văn bản thành 2 cột, nhưng cột bên trái, nhỏ hơn cột bên phải, thì bạn chọn lẹp.
+[01:32] Hoặc, trường gần lại, bạn chọn 3, dạ sửa đây, mình sẽ chia thành 2 cột.
+[01:39] Thì bạn thấy, ngay nập tức, phần văn bản mà mình đã bôi đen đã được chia thành 2 cột.
+[01:45] Trong trường hợp bạn muốn chia cải văn bản thành nhiều cột, thì bạn vẫn bôi đen văn bản cần chia.
+[01:53] Sau đó, trong phần lấy eo, bạn vẫn cực vào cố lOOM, và chọn mò cố lOOM.
+[02:01] Tại đây, bạn hãy nhập cái xấu cột cần chia vào cái bóc cố lOOM này.
+[02:07] Bây giờ đây, mình muốn chia thành 4 cột.
+[02:11] Sau đó, bạn cực vào OK.
+[02:14] Như vậy, bạn đã thấy văn bản của mình đã được chia thành 4 cột.
+[02:19] Tiếp theo, mình ra sáng nổi dung thứ 2, đó là một số cây đặt khi chia cột trong uất.
+[02:28] Đầu tiên, mình sẽ chia sẻ cách chia cột có đừng cẻ ở dưới.
+[02:34] Ở đây, bạn vẫn bôi đen cái phần nổi dung, phần văn bản cần chia cột.
+[02:39] Sau đó, bạn vẫn vào lấy eo, chọn cố lOOM, và chọn mò cố lOOM.
+[02:45] Để tạo đường cẻ ở dưới các cột, thì bạn chỉ cần cực vào cái dòng đó là lái với đuyn.
+[02:55] Sau đó, OK. Như vậy, bạn thấy đã có 1 đường cẻ ở dưới các cột.
+[03:01] Mình sẽ xa 1 đôi dung nữa, đó là điều trình khoảng cách dưới các cột.
+[03:06] Ở đây, bạn thấy khoảng cách dưới các cột khá là dọc.
+[03:10] Bây giờ, mình muốn cho cái khoảng cách này nhỏ, thịt bạn thực hiện như sao?
+[03:17] Bạn vẫn bôi đen cái nổi dung cố bản bản đá chia cột.
+[03:21] Sau đó, vào lấy eo, chọn cố lOOM, và gript vào mò cố lOOM.
+[03:29] Ở cái phần quýt and spacing, bạn có thể điều trình khoảng cách dưới các cột trong phần spacing.
+[03:39] Ở đây, mình sẽ giảm tích thức này xuống 1 cm cho ngạc.
+[03:45] Sau đó, bạn có lấy vào OK.
+[03:48] Thì như vậy, bạn thấy khoảng cách dưới các cột đã được thú nhỏ.
+[03:53] Thế theo, mình sẽ xa 1 phần lớp, đó là chuyển văn bản từ cột này sang cột cái tiếp.
+[04:00] Bây giờ, mình sẽ chuyển cái nổi dung từ cái đoạn thứ này, sang cột.
+[04:05] Bên cây, thịt các bước bạn thực hiện như sao?
+[04:10] Đầu tiên, bạn tập dấu nha chuột và đúng cái vị trí mà bạn muốn chuyển sang cột khác.
+[04:19] Sau đó, bạn vẫn vào lấy eo, và bạn chọn break.
+[04:27] Sau đó, bạn gript vào cố lOOM.
+[04:30] Như vậy, đúng tại cái vị trí mà mình đặt dấu nha chuột đã được chuyển sang cột khác.
+[04:38] Và như vậy, trong đôi dung video bởi rồi, đấu bỏ năm bước đã chia sẻ nhanh với bạn cách chia cột trong uất và một số kỳ đặt khi chia cột.
+[04:48] Cảm ơn bạn đã theo dõi video. Xin chào và hẹn gặp mại bạn ở các video tiếp theo.
+[04:55] Nếu bạn thấy video của mình hay và hữu ích, bạn đã nhập chuột và nai, và chia sẻ video để ủng hộ đấu bỏ năm bước.
+[05:05] Đồng thời, nếu bạn chưa năng ký cây đấu bỏ năm bước, bạn đã nhập chuột và nút đăng ký, và chọn hình chương.
+[05:14] Nhập và tất cả để đăng ký và nhận thêm các video hữu ích từ đấu bỏ năm bước. Xin cảm ơn các bạn.
+[05:21] Ngoài ra bạn có thể tìm kiếm trên hùa với từ khóa đấu bỏ năm bước.
+[05:28] Và chia sẻ cột và nai, đấu bỏ năm bước chứng con.
+[05:33] Hoặc cây nhiều tốt đấu bỏ năm bước để xem thêm các video hữu ích như thủ thật mới tính.
+[05:40] Cách sử dụng các phần mềm như uất hí xeo bảo poi vân vân.
+[05:45] Và bạn có thể chia sẻ cột và nai, đấu bỏ năm bước chứng con.
+[05:48] Để cập nhật, nhưng bài viết hữu ích mới nhất.
+[05:52] Cảm ơn bạn đã theo dõi video. Xin chào và hẹn gặp mọi bạn ở các video tiếp theo.

@@ -1,0 +1,371 @@
+{
+ "bai": 3,
+ "cau_hoi": [
+  {
+   "A": "Kéo chuột trái từ điểm đầu đến điểm cuối",
+   "B": "Nhấn Ctrl + S",
+   "C": "Nhấn Alt + F4",
+   "D": "Vào File > Print",
+   "cau": "Cách bôi đen cơ bản một vài từ ngắn là?",
+   "dap_an": "A",
+   "giai_thich": "Nhấp-giữ chuột trái vào giữa chữ rồi kéo qua vùng cần chọn.",
+   "id": 1,
+   "muc_do": "de"
+  },
+  {
+   "A": "Ctrl + A",
+   "B": "Ctrl + S",
+   "C": "Ctrl + O",
+   "D": "Ctrl + P",
+   "cau": "Phím tắt bôi đen toàn bộ file Word là?",
+   "dap_an": "A",
+   "giai_thich": "Ctrl+A chọn tất cả nội dung.",
+   "id": 2,
+   "muc_do": "de"
+  },
+  {
+   "A": "Đưa chuột ra lề trái dòng, khi thành mũi tên nghiêng thì nhấp/kéo",
+   "B": "Nhấn Ctrl + S",
+   "C": "Vào Insert > Picture",
+   "D": "Nhấn Alt + F4",
+   "cau": "Cách bôi đen nhanh một dòng (cách 1 trong video) là?",
+   "dap_an": "A",
+   "giai_thich": "Ra lề trái dòng, trỏ thành mũi tên nghiêng thì nhấp để chọn 1 dòng.",
+   "id": 3,
+   "muc_do": "de"
+  },
+  {
+   "A": "Giữ Shift + nhấp điểm cuối",
+   "B": "Giữ Alt + nhấp điểm cuối",
+   "C": "Giữ Ctrl + nhấp điểm cuối",
+   "D": "Giữ Tab + nhấp điểm cuối",
+   "cau": "Để bôi đen một đoạn từ vị trí đầu đến vị trí cuối bất kỳ thì giữ phím nào?",
+   "dap_an": "A",
+   "giai_thich": "Đặt con trỏ ở điểm đầu, giữ Shift, nhấp điểm cuối.",
+   "id": 4,
+   "muc_do": "de"
+  },
+  {
+   "A": "Chọn văn bản trước khi copy/cắt/định dạng",
+   "B": "Để trang trí con trỏ",
+   "C": "Để tăng tốc độ mạng",
+   "D": "Để tắt máy nhanh",
+   "cau": "Mục đích của bôi đen văn bản là gì?",
+   "dap_an": "A",
+   "giai_thich": "Phải chọn đối tượng trước rồi mới thực hiện lệnh.",
+   "id": 5,
+   "muc_do": "de"
+  },
+  {
+   "A": "Nhấp 1 lần ở lề trái dòng",
+   "B": "Nhấn Ctrl + S",
+   "C": "Nhấn Ctrl + O",
+   "D": "Vào File > Save",
+   "cau": "Muốn chọn nhanh đúng 1 dòng bằng chuột ở lề trái thì?",
+   "dap_an": "A",
+   "giai_thich": "Nhấp trái 1 lần ở lề trái khi trỏ thành mũi tên nghiêng.",
+   "id": 6,
+   "muc_do": "de"
+  },
+  {
+   "A": "Nhấp đúp vào từ",
+   "B": "Nhấn Ctrl + A",
+   "C": "Nhấn Ctrl + P",
+   "D": "Nhấn Esc",
+   "cau": "Mẹo chọn nhanh 1 từ đơn lẻ là?",
+   "dap_an": "A",
+   "giai_thich": "Nhấp đúp vào từ sẽ chọn cả từ đó.",
+   "id": 7,
+   "muc_do": "de"
+  },
+  {
+   "A": "Nhấp 3 lần vào đoạn văn",
+   "B": "Nhấn Alt + F4",
+   "C": "Nhấn Ctrl + S",
+   "D": "Vào View > Ruler",
+   "cau": "Mẹo chọn nhanh cả 1 đoạn văn (paragraph) là?",
+   "dap_an": "A",
+   "giai_thich": "Nhấp 3 lần liên tiếp vào đoạn để chọn cả đoạn.",
+   "id": 8,
+   "muc_do": "de"
+  },
+  {
+   "A": "Kéo ở lề trái qua nhiều dòng",
+   "B": "Nhấn Ctrl + Z",
+   "C": "Nhấn Ctrl + Y",
+   "D": "Vào File > Options",
+   "cau": "Muốn chọn nhanh nhiều dòng liên tiếp bằng chuột thì?",
+   "dap_an": "A",
+   "giai_thich": "Giữ chuột trái ở lề trái rồi kéo xuống qua các dòng.",
+   "id": 9,
+   "muc_do": "de"
+  },
+  {
+   "A": "Ctrl + A rồi Ctrl + C",
+   "B": "Ctrl + Z",
+   "C": "Alt + F4",
+   "D": "Ctrl + O",
+   "cau": "Muốn sao chép toàn bộ file nhanh nhất thì làm gì?",
+   "dap_an": "A",
+   "giai_thich": "Ctrl+A chọn tất cả rồi Ctrl+C để sao chép.",
+   "id": 10,
+   "muc_do": "de"
+  },
+  {
+   "A": "Đặt con trỏ ở điểm đầu, giữ Shift, nhấp điểm cuối",
+   "B": "Nhấn Ctrl + S rồi Ctrl + V",
+   "C": "Nhấn Alt + Tab",
+   "D": "Vào File > Print",
+   "cau": "Các bước bôi đen 1 đoạn từ 'đầu tiên' đến 'dấu chấm' trong video là?",
+   "dap_an": "A",
+   "giai_thich": "Đặt nháy chuột ở đầu đoạn, giữ Shift, nhấp ở cuối đoạn.",
+   "id": 11,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Vẫn chọn được, chỉ cần bôi một phần của cột/dòng",
+   "B": "Bắt buộc phải bôi cả bảng",
+   "C": "Không thể bôi đen trong bảng",
+   "D": "Phải chuyển bảng thành ảnh",
+   "cau": "Khi bôi đen trong bảng để thêm/xóa dòng cột, cần bôi thế nào?",
+   "dap_an": "A",
+   "giai_thich": "Chỉ cần bôi một phần của cột/dòng, không cần chọn hết.",
+   "id": 12,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Nhả phím Shift sau khi đã nhấp điểm cuối",
+   "B": "Giữ Shift mãi mãi",
+   "C": "Không bao giờ nhả Shift",
+   "D": "Nhấn thêm Alt",
+   "cau": "Sau khi Shift+Click xong thì làm gì?",
+   "dap_an": "A",
+   "giai_thich": "Nhả phím Shift, vùng chọn đã được giữ.",
+   "id": 13,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Bôi đen trước rồi Ctrl+C / Ctrl+X",
+   "B": "Nhấn Ctrl+V trước",
+   "C": "Nhấn Ctrl+S trước",
+   "D": "Tắt máy trước",
+   "cau": "Trước khi sao chép hoặc cắt, bắt buộc phải làm gì?",
+   "dap_an": "A",
+   "giai_thich": "Phải bôi đen nội dung cần sao chép/cắt trước.",
+   "id": 14,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Nhấp ra ngoài vùng chọn hoặc nhấn phím di chuyển",
+   "B": "Nhấn Ctrl + S",
+   "C": "Nhấn Ctrl + A thêm lần nữa",
+   "D": "Tắt màn hình",
+   "cau": "Muốn bỏ bôi đen (hủy vùng chọn) thì làm gì?",
+   "dap_an": "A",
+   "giai_thich": "Nhấp chuột ra chỗ khác hoặc nhấn mũi tên để hủy chọn.",
+   "id": 15,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Giữ Ctrl rồi nhấp/kéo các vùng rời rạc",
+   "B": "Chỉ chọn được 1 vùng duy nhất",
+   "C": "Phải copy từng chữ một",
+   "D": "Không thể chọn nhiều vùng",
+   "cau": "Muốn chọn nhiều vùng rời rạc cùng lúc thì?",
+   "dap_an": "A",
+   "giai_thich": "Giữ Ctrl trong khi kéo/nhấp chọn từng vùng.",
+   "id": 16,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Shift + phím mũi tên để mở rộng vùng chọn từng ký tự/dòng",
+   "B": "Alt + F4",
+   "C": "Ctrl + P",
+   "D": "Ctrl + O",
+   "cau": "Muốn mở rộng vùng chọn bằng bàn phím thì dùng?",
+   "dap_an": "A",
+   "giai_thich": "Giữ Shift + mũi tên trái/phải/lên/xuống để mở rộng.",
+   "id": 17,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Ctrl + Shift + mũi tên để chọn nhanh từng từ/đoạn",
+   "B": "Ctrl + Alt + Delete",
+   "C": "Shift + Esc",
+   "D": "Alt + Space",
+   "cau": "Muốn chọn nhanh từng từ bằng bàn phím thì dùng?",
+   "dap_an": "A",
+   "giai_thich": "Ctrl+Shift+mũi tên chọn nhanh theo từ.",
+   "id": 18,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Chuột ở lề trái thành mũi tên nghiêng là báo hiệu chọn dòng",
+   "B": "Mũi tên nghiêng là báo hiệu lỗi font",
+   "C": "Mũi tên nghiêng là báo hiệu hết pin",
+   "D": "Mũi tên nghiêng là báo hiệu mất mạng",
+   "cau": "Ý nghĩa con trỏ thành mũi tên nghiêng ở lề trái là?",
+   "dap_an": "A",
+   "giai_thich": "Đó là chế độ chọn dòng/đoạn nhanh.",
+   "id": 19,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Bôi đen dòng thứ 2 bằng cách ra đầu dòng rồi nhấp trái",
+   "B": "Nhấn Ctrl + S",
+   "C": "Vào Insert > Table",
+   "D": "Nhấn Alt + F4",
+   "cau": "Ví dụ trong video bôi đen dòng thứ hai thực hiện thế nào?",
+   "dap_an": "A",
+   "giai_thich": "Đưa chuột ra đầu dòng 2, nhấp trái khi thành mũi tên.",
+   "id": 20,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Kéo chuột từ giữa từ rồi di chuyển để mở rộng",
+   "B": "Nhấn nút nguồn",
+   "C": "Rút điện",
+   "D": "Vào File > Info",
+   "cau": "Bôi đen cụm 'Đỗ Bảo Nam Vlog' trong video thực hiện thế nào?",
+   "dap_an": "A",
+   "giai_thich": "Nhấp giữa chữ rồi kéo qua hết cụm cần chọn.",
+   "id": 21,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Ctrl+A khi muốn định dạng/copy toàn bộ file",
+   "B": "Ctrl+A khi muốn lưu file",
+   "C": "Ctrl+A khi muốn in 1 trang",
+   "D": "Ctrl+A khi muốn tắt máy",
+   "cau": "Khi nào nên dùng Ctrl+A?",
+   "dap_an": "A",
+   "giai_thich": "Khi muốn chọn tất cả để copy/định dạng/xóa toàn bộ.",
+   "id": 22,
+   "muc_do": "trung_binh"
+  },
+  {
+   "A": "Chọn sai thì nhấp lại, không ảnh hưởng nội dung",
+   "B": "Chọn sai sẽ xóa file",
+   "C": "Chọn sai sẽ hỏng máy",
+   "D": "Chọn sai sẽ mất mạng",
+   "cau": "Bôi đen nhầm vùng thì hậu quả là gì?",
+   "dap_an": "A",
+   "giai_thich": "Vùng chọn chỉ là tạm thời, chọn lại là được.",
+   "id": 23,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Shift+Click chính xác hơn kéo chuột với văn bản dài nhiều trang",
+   "B": "Kéo chuột luôn chính xác hơn",
+   "C": "Ctrl+A luôn chính xác nhất",
+   "D": "Không có cách nào chính xác",
+   "cau": "Với văn bản dài nhiều trang, cách chọn chính xác nhất là?",
+   "dap_an": "A",
+   "giai_thich": "Kéo chuột dài dễ trượt; Shift+Click điểm đầu-cuối chính xác hơn.",
+   "id": 24,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Đặt điểm đầu ở đầu trang 1, cuộn xuống cuối, Shift+Click ở cuối",
+   "B": "Kéo chuột liên tục 10 phút",
+   "C": "In ra rồi dùng bút dạ",
+   "D": "Chụp màn hình",
+   "cau": "Mẹo chọn văn bản dài nhiều màn hình mà không cần kéo liên tục là?",
+   "dap_an": "A",
+   "giai_thich": "Đặt điểm đầu, cuộn thanh trượt xuống cuối, Shift+Click.",
+   "id": 25,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Nhấp 1 lần chọn 1 dòng, 2 lần chọn 1 đoạn? (sửa: 1 nhấp dòng, 3 nhấp đoạn)",
+   "B": "Số lần nhấp không ảnh hưởng",
+   "C": "Nhấp càng nhiều càng lưu nhanh",
+   "D": "Nhấp 10 lần để tắt máy",
+   "cau": "Phân biệt số lần nhấp ở lề trái: 1 nhấp, 2 nhấp, 3 nhấp?",
+   "dap_an": "A",
+   "giai_thich": "1 nhấp chọn 1 dòng; 2 nhấp chọn 1 đoạn; 3 nhấp chọn toàn bộ.",
+   "id": 26,
+   "muc_do": "kho"
+  },
+  {
+   "A": "F8 bật chế độ Extend rồi dùng mũi tên/nhấp để mở rộng",
+   "B": "F1 để mở rộng",
+   "C": "F12 để mở rộng",
+   "D": "Esc để mở rộng",
+   "cau": "Phím F8 trong chọn văn bản có tác dụng gì?",
+   "dap_an": "A",
+   "giai_thich": "F8 bật Extend Mode, mỗi lần nhấn mở rộng thêm (từ-đoạn-file).",
+   "id": 27,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Ctrl+Click từng câu để chọn nhiều câu rời rạc",
+   "B": "Không thể chọn câu rời rạc",
+   "C": "Phải gõ lại các câu",
+   "D": "Phải in ra cắt dán",
+   "cau": "Muốn bôi đen 3 câu rời rạc ở 3 vị trí khác nhau để cùng in đậm thì?",
+   "dap_an": "A",
+   "giai_thich": "Chọn câu 1, giữ Ctrl rồi chọn tiếp các câu còn lại.",
+   "id": 28,
+   "muc_do": "kho"
+  },
+  {
+   "A": "Chọn từ phải sang trái vẫn cho kết quả vùng chọn như nhau",
+   "B": "Chỉ được chọn từ trái sang phải",
+   "C": "Chọn ngược sẽ xóa file",
+   "D": "Chọn ngược sẽ đảo chữ",
+   "cau": "Hướng kéo chuột (trái→phải hay phải→trái) có ảnh hưởng vùng chọn?",
+   "dap_an": "A",
+   "giai_thich": "Hướng kéo không quan trọng, vùng giữa 2 điểm đều được chọn.",
+   "id": 29,
+   "muc_do": "kho"
+  },
+  {
+   "A": "4 cách: 1 dòng (lề trái), 1/một vài từ (kéo), đoạn bất kỳ (Shift+Click), toàn bộ (Ctrl+A)",
+   "B": "Chỉ có 1 cách duy nhất là Ctrl+A",
+   "C": "Chỉ có 2 cách là kéo và Ctrl+A",
+   "D": "Không có cách nào",
+   "cau": "Tổng kết trong video có mấy cách bôi đen ngang được chia sẻ?",
+   "dap_an": "A",
+   "giai_thich": "Video chia sẻ 4 cách: dòng, từ ngắn, đoạn bất kỳ, toàn bộ file.",
+   "id": 30,
+   "muc_do": "kho"
+  }
+ ],
+ "ky_nang": [
+  {
+   "duong_dan_menu": "Không có (chuột ở lề trái)",
+   "giai_thich": "Nhanh khi chỉ cần chọn 1 dòng để định dạng/xóa.",
+   "phim_tat": "Không có",
+   "ten": "Bôi đen 1 dòng tại lề trái",
+   "thao_tac": "Đưa chuột ra mép ngoài đầu dòng, khi thành mũi tên nghiêng thì nhấp trái (kéo để chọn nhiều dòng).",
+   "vi_du": "Nhấp ở đầu dòng thứ 2 để chọn cả dòng đó."
+  },
+  {
+   "duong_dan_menu": "Không có (chuột + bàn phím)",
+   "giai_thich": "Chính xác cho đoạn dài, không sợ kéo trượt.",
+   "phim_tat": "Shift + Click",
+   "ten": "Bôi đen 1/nhiều đoạn bất kỳ",
+   "thao_tac": "Đặt nháy chuột ở điểm đầu, giữ Shift, nhấp ở điểm cuối, nhả Shift.",
+   "vi_du": "Chọn từ 'đầu tiên' đến 'dấu chấm'."
+  },
+  {
+   "duong_dan_menu": "Không có (chuột)",
+   "giai_thich": "Dùng khi chỉ cần chọn 1 hoặc vài từ để sửa/định dạng.",
+   "phim_tat": "Không có",
+   "ten": "Bôi đen 1/vài từ ngắn",
+   "thao_tac": "Nhấp-giữ chuột trái vào giữa từ rồi kéo qua cụm cần chọn.",
+   "vi_du": "Bôi đen cụm 'Đỗ Bảo Nam Vlog'."
+  },
+  {
+   "duong_dan_menu": "Không có",
+   "giai_thich": "Dùng khi muốn copy/định dạng/xóa toàn bộ file.",
+   "phim_tat": "Ctrl + A",
+   "ten": "Bôi đen toàn bộ file",
+   "thao_tac": "Nhấn Ctrl+A để chọn tất cả nội dung.",
+   "vi_du": "Ctrl+A rồi Ctrl+C để sao chép cả file."
+  }
+ ],
+ "url": "https://www.youtube.com/watch?v=2d6Io7o3fEo",
+ "video_id": "2d6Io7o3fEo"
+}

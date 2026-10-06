@@ -1,0 +1,815 @@
+[00:01] Xin chào mừng các bạn đến với khóa học excel miễn phí từ cơ bản đến nâng cao
+[00:03] excel miễn phí từ cơ bản đến nâng cao dành cho người mới bắt đầu được thực
+[00:06] dành cho người mới bắt đầu được thực hiện trên kênh YouTube Đại Sir Bài số 2
+[00:08] hiện trên kênh YouTube Đại Sir Bài số 2 nhập liệu và làm quen với các thành phần
+[00:11] nhập liệu và làm quen với các thành phần của Excel trước khi bắt đầu vào bài học
+[00:13] của Excel trước khi bắt đầu vào bài học thứ hai thì mình sẽ cùng giải hai cái
+[00:15] thứ hai thì mình sẽ cùng giải hai cái câu hỏi của bài học số 1 nhá câu thứ
+[00:18] câu hỏi của bài học số 1 nhá câu thứ nhất là 2 cái thao tác lưu file xếp và
+[00:21] nhất là 2 cái thao tác lưu file xếp và cfs giống và khác nhau như thế nào thì
+[00:24] cfs giống và khác nhau như thế nào thì đầu tiên ý là giống nhau như thế nào thì
+[00:27] đầu tiên ý là giống nhau như thế nào thì nó giống nhau là diện khi các bạn mở
+[00:29] nó giống nhau là diện khi các bạn mở file lên nó chưa có tên tên mặc định thì
+[00:32] file lên nó chưa có tên tên mặc định thì để đặt tên cho nó thì có bạn có thể dùng
+[00:34] để đặt tên cho nó thì có bạn có thể dùng xếp hoặc xếp em đều được thì như vậy cái
+[00:36] xếp hoặc xếp em đều được thì như vậy cái sếp và sếp s giống nhau và việc nó giống
+[00:38] sếp và sếp s giống nhau và việc nó giống nhau ở cái lúc mà đặt tên pha thì khi mà
+[00:41] nhau ở cái lúc mà đặt tên pha thì khi mà các bạn đặt tên file thì biết xếp và CF
+[00:43] các bạn đặt tên file thì biết xếp và CF là giống nhau đấy còn khác nhau là gì ạ
+[00:45] là giống nhau đấy còn khác nhau là gì ạ Khi mà nó có tên file rồi đấy thì nó hai
+[00:48] Khi mà nó có tên file rồi đấy thì nó hai cái thủ tục lại hoàn toàn khác nhau xếp
+[00:50] cái thủ tục lại hoàn toàn khác nhau xếp Tức là mình sẽ cập nhật cái trạng thái
+[00:52] Tức là mình sẽ cập nhật cái trạng thái gần nhất còn cái phép là mình sẽ tạo ra
+[00:54] gần nhất còn cái phép là mình sẽ tạo ra một cái file mới Đấy đấy là cái khác
+[00:57] một cái file mới Đấy đấy là cái khác nhau nhất là khi có tên rồi ạ thì cái xô
+[01:00] nhau nhất là khi có tên rồi ạ thì cái xô ý là khác nhau Ok sang câu hỏi số 2 là
+[01:03] ý là khác nhau Ok sang câu hỏi số 2 là diện khi mình nhập ngày tháng năm trong
+[01:05] diện khi mình nhập ngày tháng năm trong Excel Vậy thì mình có thể đổi sang cái
+[01:07] Excel Vậy thì mình có thể đổi sang cái mặc định là nhập ngày trước rồi Đến
+[01:09] mặc định là nhập ngày trước rồi Đến tháng Đến 520 thì câu trả lời là hoàn
+[01:12] tháng Đến 520 thì câu trả lời là hoàn toàn có thể nhá chị để đổi được cái này
+[01:14] toàn có thể nhá chị để đổi được cái này thì các bạn làm như sau nhé Thì liệu các
+[01:16] thì các bạn làm như sau nhé Thì liệu các bạn sẽ thích bằng cách xác này các bạn
+[01:17] bạn sẽ thích bằng cách xác này các bạn rõ con số alen đi còn tích vào đây đây
+[01:21] rõ con số alen đi còn tích vào đây đây sau đó bạn sẽ vào đâu ạ thì trong cái
+[01:24] sau đó bạn sẽ vào đâu ạ thì trong cái phần view bye nơi này các bạn sẽ thích
+[01:25] phần view bye nơi này các bạn sẽ thích vào đây các bạn sẽ chọn rồi category đấy
+[01:29] vào đây các bạn sẽ chọn rồi category đấy Sau đó họ diện tích và cải thiện các bạn
+[01:31] Sau đó họ diện tích và cải thiện các bạn sẽ thích ngồi đây lại trên deadtime hoặc
+[01:33] sẽ thích ngồi đây lại trên deadtime hoặc là number format các bạn thích ở đây nhá
+[01:34] là number format các bạn thích ở đây nhá Đấy thì bạn tích vào cái thẻ format ở
+[01:38] Đấy thì bạn tích vào cái thẻ format ở đây nhá thì mặc định khi các bạn cài Win
+[01:40] đây nhá thì mặc định khi các bạn cài Win hoặc là người khác cài Win cho các bạn
+[01:41] hoặc là người khác cài Win cho các bạn đấy thì người ta hay chọn cái format ở
+[01:44] đấy thì người ta hay chọn cái format ở đây là cái kiểu anh nhưng mà anh nghĩ
+[01:46] đây là cái kiểu anh nhưng mà anh nghĩ thì bây giờ mình xin đổi sang cái kiểu
+[01:48] thì bây giờ mình xin đổi sang cái kiểu Việt Nam nữa các bạn thích ở đó lấy toàn
+[01:50] Việt Nam nữa các bạn thích ở đó lấy toàn sẽ nằm xuống dưới các bạn chọn Việt Nam
+[01:52] sẽ nằm xuống dưới các bạn chọn Việt Nam Việt Nam là chữ v thì thường thường nó
+[01:55] Việt Nam là chữ v thì thường thường nó sẽ nằm ở cuối cùng lại các bạn sẽ kéo
+[01:56] sẽ nằm ở cuối cùng lại các bạn sẽ kéo xuống cuối cùng các bạn chọn này Các bạn
+[01:58] xuống cuối cùng các bạn chọn này Các bạn nhìn chữ v Việt Nam
+[02:00] nhìn chữ v Việt Nam Ừ đấy thì khi các bạn chọn Việt Nam thì
+[02:03] Ừ đấy thì khi các bạn chọn Việt Nam thì bạn thấy cho cái soát biết này nó sẽ
+[02:04] bạn thấy cho cái soát biết này nó sẽ chuyển sang điện biết rồi mà nặng kia để
+[02:07] chuyển sang điện biết rồi mà nặng kia để gọi xem bấm offline hãy gọi sếp bấm ok
+[02:10] gọi xem bấm offline hãy gọi sếp bấm ok Bây giờ còn Khởi động Excel lên nhá các
+[02:13] Bây giờ còn Khởi động Excel lên nhá các bạn vào start này còn gọi Excel enter
+[02:16] bạn vào start này còn gọi Excel enter này sao bạn tiếp tục vào đây ví dụ mình
+[02:20] này sao bạn tiếp tục vào đây ví dụ mình kéo rộng cái cục đê này ra nhé để mình
+[02:22] kéo rộng cái cục đê này ra nhé để mình nhập ngày tháng rồi gọi sẽ nhật ví dụ là
+[02:24] nhập ngày tháng rồi gọi sẽ nhật ví dụ là ngày mai nhựa ngày 25 tháng 2 năm bao
+[02:27] ngày mai nhựa ngày 25 tháng 2 năm bao nhiêu 2020 Con ăn cơm đói gọn thế cho
+[02:30] nhiêu 2020 Con ăn cơm đói gọn thế cho thì như vậy Lúc này các bạn sẽ nhập nhập
+[02:33] thì như vậy Lúc này các bạn sẽ nhập nhập ngày trước bà tháng sau và năm thì nó
+[02:34] ngày trước bà tháng sau và năm thì nó mới đúng nhá Còn nếu như bạn Nhập tháng
+[02:36] mới đúng nhá Còn nếu như bạn Nhập tháng trước này ví dụ 02 này ngày bao nhiêu 25
+[02:39] trước này ví dụ 02 này ngày bao nhiêu 25 nếu như bạn Nhập tháng trước nhé 2020
+[02:41] nếu như bạn Nhập tháng trước nhé 2020 thì nó sẽ không đúng Tại vì gì ạ Nó sẽ
+[02:44] thì nó sẽ không đúng Tại vì gì ạ Nó sẽ hiểu là cái kiểu này là cái kiểu Tech
+[02:46] hiểu là cái kiểu này là cái kiểu Tech lại để cho nên các bạn hết sức lưu ý cho
+[02:49] lại để cho nên các bạn hết sức lưu ý cho mình nhé các bạn chú ý nhá mặc định
+[02:51] mình nhé các bạn chú ý nhá mặc định trong Excel Vậy thì nếu như mà kiểu tết
+[02:53] trong Excel Vậy thì nếu như mà kiểu tết thì khi các bạn Nhập vào thì nó sẽ nằm ở
+[02:56] thì khi các bạn Nhập vào thì nó sẽ nằm ở bên trái để bọn nó cho nó sẽ nằm ở góc
+[02:58] bên trái để bọn nó cho nó sẽ nằm ở góc trái này còn cái kiểu ngày tháng
+[03:00] trái này còn cái kiểu ngày tháng Ừ hai cái kiểu số thì nó sẽ nằm ở sát
+[03:02] Ừ hai cái kiểu số thì nó sẽ nằm ở sát bên phải ví dụ các bạn Nhập số 8 vào đây
+[03:03] bên phải ví dụ các bạn Nhập số 8 vào đây thì bạn thấy chứ cái số 8 nó sẽ làm sao
+[03:06] thì bạn thấy chứ cái số 8 nó sẽ làm sao để bên phải để cho nên khi có nhập ngày
+[03:08] để bên phải để cho nên khi có nhập ngày tháng 2 nhập số mà nó làm ở bên trái thì
+[03:11] tháng 2 nhập số mà nó làm ở bên trái thì nó không phải là số đông Các bạn nhìn đi
+[03:13] nó không phải là số đông Các bạn nhìn đi thì bạn tưởng là số 2 ngày tháng nhưng
+[03:15] thì bạn tưởng là số 2 ngày tháng nhưng mà thực chất nó không phải bảo nó là
+[03:16] mà thực chất nó không phải bảo nó là kiểu tích nhá Nó là số vào ngày tháng
+[03:18] kiểu tích nhá Nó là số vào ngày tháng khi mà nó làm ở bên phải đây là cái lưu
+[03:21] khi mà nó làm ở bên phải đây là cái lưu ý cho mình nhé bây giờ để đổi lại gì em
+[03:23] ý cho mình nhé bây giờ để đổi lại gì em để đổi lại cái ngày tháng 5 nhá Mà mình
+[03:25] để đổi lại cái ngày tháng 5 nhá Mà mình muốn nhập tháng trước ngày sau nhá thì
+[03:27] muốn nhập tháng trước ngày sau nhá thì các bạn lại thích vào thì các bạn vào
+[03:29] các bạn lại thích vào thì các bạn vào con chó operon thôi phải có bạn chọn
+[03:31] con chó operon thôi phải có bạn chọn trên bếp xanh hoặc number format đấy
+[03:33] trên bếp xanh hoặc number format đấy Thực ra thì mình khuyên các bạn nên
+[03:35] Thực ra thì mình khuyên các bạn nên chuyển về cái anh Mỹ tại vì ngoài cái
+[03:37] chuyển về cái anh Mỹ tại vì ngoài cái việc nhập ngày tháng này nó rất là nhiều
+[03:39] việc nhập ngày tháng này nó rất là nhiều cái thứ nó liên quan lại thì mình thì
+[03:41] cái thứ nó liên quan lại thì mình thì mình hay dùng cái chuẩn của anh mỹ thì
+[03:43] mình hay dùng cái chuẩn của anh mỹ thì nó phù hợp hơn các tài liệu hướng dẫn nó
+[03:46] nó phù hợp hơn các tài liệu hướng dẫn nó cũng chuẩn hơn nhé để họ sẽ nhìn cái
+[03:49] cũng chuẩn hơn nhé để họ sẽ nhìn cái English và các bạn sẽ chọn để English
+[03:50] English và các bạn sẽ chọn để English của United đây thoại quá sẽ chuyển về
+[03:55] của United đây thoại quá sẽ chuyển về cái này đấy khi con chọn cái nick này
+[03:57] cái này đấy khi con chọn cái nick này nhưng lại tiết Đó thấy chưa Lúc này lại
+[03:59] nhưng lại tiết Đó thấy chưa Lúc này lại gì
+[04:00] gì Vì sao nói Đến Tết Rồi đến Yên các bạn
+[04:02] Vì sao nói Đến Tết Rồi đến Yên các bạn có thể bấm offlife các bạn bằng Ok còn
+[04:05] có thể bấm offlife các bạn bằng Ok còn đóng vai con cho kara này nữa đấy cận
+[04:07] đóng vai con cho kara này nữa đấy cận thế chứ Khi mà các bạn đổi thế Các bạn
+[04:09] thế chứ Khi mà các bạn đổi thế Các bạn thấy là cái này nó lại đổi về diện tháng
+[04:11] thấy là cái này nó lại đổi về diện tháng trước ngày sau đấy và nó lại nằm bên
+[04:13] trước ngày sau đấy và nó lại nằm bên phải bây giờ các bạn Nhập lại nhé ví dụ
+[04:15] phải bây giờ các bạn Nhập lại nhé ví dụ mình nhập không hai này này hay nhau năm
+[04:18] mình nhập không hai này này hay nhau năm 2020 lúc vừa xong rồi mình chọn tháng
+[04:21] 2020 lúc vừa xong rồi mình chọn tháng trước sau đến ngày 5 có các em Thơ đấy
+[04:23] trước sau đến ngày 5 có các em Thơ đấy còn thấy lúc này nó đã nằm ở bên bên
+[04:25] còn thấy lúc này nó đã nằm ở bên bên phải rồi cho nên cái kiểu ngày tháng nay
+[04:27] phải rồi cho nên cái kiểu ngày tháng nay là đúng nhá Đây Ok mình trên đó cái file
+[04:31] là đúng nhá Đây Ok mình trên đó cái file đấy ạ để cậu chứ nhắn Nếu như các bạn
+[04:33] đấy ạ để cậu chứ nhắn Nếu như các bạn bấm Đôn xếp Vậy thì con sẽ đóng cái file
+[04:35] bấm Đôn xếp Vậy thì con sẽ đóng cái file này lại mà không lưu Còn nếu như con bấm
+[04:37] này lại mà không lưu Còn nếu như con bấm cancel thì mình sẽ không đóng cái file
+[04:39] cancel thì mình sẽ không đóng cái file này ạ Đấy Ok mình đóng Mình sẽ đồ Sếp
+[04:42] này ạ Đấy Ok mình đóng Mình sẽ đồ Sếp tôi là mình sẽ không lưu file là tại
+[04:45] tôi là mình sẽ không lưu file là tại mình sẽ đóng lại như vậy mình đã trả lời
+[04:47] mình sẽ đóng lại như vậy mình đã trả lời xong các bạn cái bài số 1 nhé Ok mình sẽ
+[04:51] xong các bạn cái bài số 1 nhé Ok mình sẽ vào cái bài học số 2 nhé các bạn chú ý
+[04:52] vào cái bài học số 2 nhé các bạn chú ý các bạn sẽ tải cái file này về nhé các
+[04:54] các bạn sẽ tải cái file này về nhé các bạn sẽ tải cái folder của bài học số 2
+[04:56] bạn sẽ tải cái folder của bài học số 2 về sau đó các bạn phải đến xanh nhé Còn
+[04:58] về sau đó các bạn phải đến xanh nhé Còn nếu như bạn nào mà chưa biết cách tải
+[05:00] nếu như bạn nào mà chưa biết cách tải các bạn sẽ vào cái bài mở đầu mình đã
+[05:03] các bạn sẽ vào cái bài mở đầu mình đã hướng dẫn chi tiết cách tải file thực
+[05:05] hướng dẫn chi tiết cách tải file thực hành về rồi nhé Bây giờ mình sẽ kết thúc
+[05:06] hành về rồi nhé Bây giờ mình sẽ kết thúc rồi đó đấy trong cái bài thứ hai này
+[05:09] rồi đó đấy trong cái bài thứ hai này mình sẽ yêu cầu các bạn được trẻ con sẽ
+[05:11] mình sẽ yêu cầu các bạn được trẻ con sẽ nhập một cái bảng như thế này mình sẽ
+[05:13] nhập một cái bảng như thế này mình sẽ làm ví dụ luôn cho các bạn thì sau đó
+[05:15] làm ví dụ luôn cho các bạn thì sau đó mình sẽ giới thiệu cho các bạn các cái
+[05:17] mình sẽ giới thiệu cho các bạn các cái thành phần của Excel nhá lại mình sẽ
+[05:21] thành phần của Excel nhá lại mình sẽ đóng cái file này lại Bây giờ mình sẽ
+[05:23] đóng cái file này lại Bây giờ mình sẽ khởi động Excel nhé các bạn thì các bạn
+[05:24] khởi động Excel nhé các bạn thì các bạn nhấn bật xác là gọi Excel lên để gọn
+[05:28] nhấn bật xác là gọi Excel lên để gọn tích vào đây mình sẽ tạo một cái tay
+[05:31] tích vào đây mình sẽ tạo một cái tay trắng nhá Ok Bây giờ các bạn cứ thích
+[05:34] trắng nhá Ok Bây giờ các bạn cứ thích vào cái chữ in sướng này trước đi nha
+[05:35] vào cái chữ in sướng này trước đi nha các bạn tích của Isaac Các bạn sẽ thích
+[05:37] các bạn tích của Isaac Các bạn sẽ thích vào cái picture các bạn sẽ chọn Repair
+[05:41] vào cái picture các bạn sẽ chọn Repair lại các bạn sẽ trỏ đến cái thư mục mà
+[05:44] lại các bạn sẽ trỏ đến cái thư mục mà chứa cái ảnh kia đúng không Lúc đấy Mình
+[05:46] chứa cái ảnh kia đúng không Lúc đấy Mình lưu ở desktop là folds Excel cơ bản đến
+[05:49] lưu ở desktop là folds Excel cơ bản đến nâng cao có sự tích vào cái bài số 2 là
+[05:51] nâng cao có sự tích vào cái bài số 2 là do họ rất thích vào cái ảnh thời khóa
+[05:53] do họ rất thích vào cái ảnh thời khóa biểu này là như vậy mình đã chèn cái ảnh
+[05:55] biểu này là như vậy mình đã chèn cái ảnh vào đây những rồi nhé mình xem cái ảnh
+[05:57] vào đây những rồi nhé mình xem cái ảnh để mình hướng dẫn thực hành các bạn dễ
+[05:59] để mình hướng dẫn thực hành các bạn dễ hiểu này
+[06:00] hiểu này ạ Bây giờ mình sẽ làm một cái bảng mà
+[06:03] ạ Bây giờ mình sẽ làm một cái bảng mà giống hệt cái file ảnh để cho các bạn
+[06:04] giống hệt cái file ảnh để cho các bạn xem nhé đầu tiên các bạn chú ý này ở đây
+[06:07] xem nhé đầu tiên các bạn chú ý này ở đây là gì ạ Cái ở đây là cái cột b này hành
+[06:10] là gì ạ Cái ở đây là cái cột b này hành số 2 mình sẽ làm với nhịp thời gian là
+[06:12] số 2 mình sẽ làm với nhịp thời gian là buổi đúng không cô c Đây là Tiết đúng
+[06:14] buổi đúng không cô c Đây là Tiết đúng không Đấy cái Obi hai này mình sẽ làm
+[06:17] không Đấy cái Obi hai này mình sẽ làm sau nhé mình sẽ là mấy oc2 chất là tiết
+[06:19] sau nhé mình sẽ là mấy oc2 chất là tiết Nha chọn thể tích và Note 2 là mình sẽ
+[06:20] Nha chọn thể tích và Note 2 là mình sẽ ghi là vị tiết để gọi em các bạn ấy mua
+[06:23] ghi là vị tiết để gọi em các bạn ấy mua cho sao phải là tiếp theo mình sẽ là thứ
+[06:25] cho sao phải là tiếp theo mình sẽ là thứ hai này cho m bây giờ còn rất tích bằng
+[06:30] hai này cho m bây giờ còn rất tích bằng ô thứ 2 sau đó bạn hiện các bạn giữ
+[06:32] ô thứ 2 sau đó bạn hiện các bạn giữ chuột trái vào góc dưới ở bên phải này
+[06:34] chuột trái vào góc dưới ở bên phải này khi nó có hiện cái dấu cộng nhỏ thì bạn
+[06:37] khi nó có hiện cái dấu cộng nhỏ thì bạn giữ được trái gọn kéo sang đây để đến
+[06:40] giữ được trái gọn kéo sang đây để đến thứ 6 thôi nhá cái gọi bỏ chạy ra đấy
+[06:43] thứ 6 thôi nhá cái gọi bỏ chạy ra đấy tôi sẽ mặc định điện nó sẽ biển thứ hai
+[06:45] tôi sẽ mặc định điện nó sẽ biển thứ hai thứ ba thứ tư thứ năm thứ sáu giờ các
+[06:46] thứ ba thứ tư thứ năm thứ sáu giờ các bạn đúng không ở đây là ghi chúng không
+[06:49] bạn đúng không ở đây là ghi chúng không đại thì như vậy mình đã tạo xong bây giờ
+[06:52] đại thì như vậy mình đã tạo xong bây giờ tiếp theo là gì ạ Cái cột C3 là tiết một
+[06:55] tiếp theo là gì ạ Cái cột C3 là tiết một đúng không c3 Đây là các bạn sẽ ghi diện
+[06:57] đúng không c3 Đây là các bạn sẽ ghi diện tiết một cái gọi
+[06:59] tiết một cái gọi E là diện 7:30 đúng không 7 giờ hai chấm
+[07:04] E là diện 7:30 đúng không 7 giờ hai chấm này 30 thấy đoạn cách ra đến việc đến 8
+[07:07] này 30 thấy đoạn cách ra đến việc đến 8 giờ 15 cậu sẽ đóng ngoặc đơn lặng lẽ bây
+[07:12] giờ 15 cậu sẽ đóng ngoặc đơn lặng lẽ bây giờ con sẽ tích Đúc vào cái cột C này
+[07:13] giờ con sẽ tích Đúc vào cái cột C này dọn di chuyển giữa của C và 1B nhá còn
+[07:16] dọn di chuyển giữa của C và 1B nhá còn thích đút vào đây nó sẽ mở rộng các cột
+[07:18] thích đút vào đây nó sẽ mở rộng các cột C lại ra hoa các bạn giữ được trái kéo
+[07:19] C lại ra hoa các bạn giữ được trái kéo rộng ra cũng được lại tiếp theo thứ hai
+[07:22] rộng ra cũng được lại tiếp theo thứ hai cái bống nha Còn giữ đây còn kéo này
+[07:24] cái bống nha Còn giữ đây còn kéo này thoại các bạn cứ kéo rộng ra đi để lát
+[07:27] thoại các bạn cứ kéo rộng ra đi để lát nữa mình sẽ đổi tên Bây giờ chọn sẽ
+[07:28] nữa mình sẽ đổi tên Bây giờ chọn sẽ thích đút vào Cái ô này để bạn sửa nha
+[07:30] thích đút vào Cái ô này để bạn sửa nha Đấy ví dụ đây là tiết hay này Đấy thiết
+[07:33] Đấy ví dụ đây là tiết hay này Đấy thiết hai từ bao nhiêu ạ 8:30 đúng không đến
+[07:37] hai từ bao nhiêu ạ 8:30 đúng không đến diện đến 9 giờ 15 lại cậu sẽ tích vào
+[07:40] diện đến 9 giờ 15 lại cậu sẽ tích vào đây đây là kết 3A
+[07:43] đây đây là kết 3A chi tiết 3 thực hiện từ 9 giờ 30 đến 9
+[07:47] chi tiết 3 thực hiện từ 9 giờ 30 đến 9 giờ 10 đến 10 giờ 15 phút lại gọi thích
+[07:50] giờ 10 đến 10 giờ 15 phút lại gọi thích đút vào đây tiết 4 này từ bao nhiêu
+[07:54] đút vào đây tiết 4 này từ bao nhiêu 10:30
+[07:56] 10:30 cho đến 10 giờ 15 mình có 15 phút ra
+[07:59] cho đến 10 giờ 15 mình có 15 phút ra chơi mà ví dụ thế nhá hoặc các bạn em tư
+[08:01] chơi mà ví dụ thế nhá hoặc các bạn em tư này đây tiết 1 của buổi chiều đúng không
+[08:04] này đây tiết 1 của buổi chiều đúng không Buổi chiều là ví dụ ở đây là gì buổi
+[08:06] Buổi chiều là ví dụ ở đây là gì buổi chiều quy định là 13:30 đó 13 giờ 30 đến
+[08:09] chiều quy định là 13:30 đó 13 giờ 30 đến 14 giờ 15 enter này tiếp theo là tiết
+[08:13] 14 giờ 15 enter này tiếp theo là tiết hay để 14:30 đúng không đến bao nhiêu
+[08:18] hay để 14:30 đúng không đến bao nhiêu 15:15 để tọa Thích đua vào đây tiết 3 là
+[08:24] 15:15 để tọa Thích đua vào đây tiết 3 là gì 15 giờ
+[08:26] gì 15 giờ từ 30 đến bao nhiêu 16 giờ bạn thích
+[08:31] từ 30 đến bao nhiêu 16 giờ bạn thích nước vào đây Mình rất thích vào đây mình
+[08:32] nước vào đây Mình rất thích vào đây mình Xoay Số 8 đi Rồi enter đây là hết bốn
+[08:36] Xoay Số 8 đi Rồi enter đây là hết bốn này từ bao nhiêu ạ 16 giờ 30 đến 17 giờ
+[08:41] này từ bao nhiêu ạ 16 giờ 30 đến 17 giờ 15 phút lại các bạn cứ làm đi nhé cái
+[08:45] 15 phút lại các bạn cứ làm đi nhé cái sau mình làm trước để chọn sau đó mình
+[08:47] sau mình làm trước để chọn sau đó mình giải thích cho bạn dễ hiểu thôi tiếp
+[08:49] giải thích cho bạn dễ hiểu thôi tiếp theo là diện từ cái Obi ba đến B6 này
+[08:52] theo là diện từ cái Obi ba đến B6 này đây thì bạn sẽ model từ B3 đến 16 các
+[08:54] đây thì bạn sẽ model từ B3 đến 16 các bạn giữ chuột trái vào ngăn kéo xuống
+[08:56] bạn giữ chuột trái vào ngăn kéo xuống nhá Để sau đó bạn sẽ vào thích vào cái
+[08:59] nhá Để sau đó bạn sẽ vào thích vào cái chữ hôm rồi này các bạn tích vào cái chữ
+[09:00] chữ hôm rồi này các bạn tích vào cái chữ mượt en centos đấy thì như vậy là gì 4U
+[09:03] mượt en centos đấy thì như vậy là gì 4U này sẽ gồm có một Đúng không các bạn sẽ
+[09:05] này sẽ gồm có một Đúng không các bạn sẽ tích luôn vào đây họ sẽ gõ là gìánh sáng
+[09:08] tích luôn vào đây họ sẽ gõ là gìánh sáng cho enter thì tương tự các bạn sẽ
+[09:11] cho enter thì tương tự các bạn sẽ bodil40 ôn này các bạn vào cái chữ hôm
+[09:14] bodil40 ôn này các bạn vào cái chữ hôm này các bạn thích làm ướt em center ở
+[09:15] này các bạn thích làm ướt em center ở đây Ở đây còn thích đút vào đây con sẽ
+[09:18] đây Ở đây còn thích đút vào đây con sẽ gõ thì chiều
+[09:19] gõ thì chiều Con gái bây giờ bạn sẽ giữ cho chai các
+[09:23] Con gái bây giờ bạn sẽ giữ cho chai các Bôi đen hay ô này Tại sao đó bạn vào thẻ
+[09:25] Bôi đen hay ô này Tại sao đó bạn vào thẻ hôm mình sẽ mình sẽ cắn giữa đấy đấy Các
+[09:28] hôm mình sẽ mình sẽ cắn giữa đấy đấy Các bạn nhìn nó đẹp hơn đúng không Bây giờ
+[09:30] bạn nhìn nó đẹp hơn đúng không Bây giờ cái cột bên này mình sẽ kéo rộng ra nhé
+[09:33] cái cột bên này mình sẽ kéo rộng ra nhé Để phạm cái gạch ngang này thì mình lại
+[09:35] Để phạm cái gạch ngang này thì mình lại như thế nào có bạn xinh nháy chuột phải
+[09:37] như thế nào có bạn xinh nháy chuột phải vào Cái ô này để họ sẽ chọn format Cell
+[09:39] vào Cái ô này để họ sẽ chọn format Cell ư
+[09:41] ư Khi mình kéo ra đây các bạn sẽ thích vào
+[09:44] Khi mình kéo ra đây các bạn sẽ thích vào cái phần Border à
+[09:45] cái phần Border à ở lại các bạn sẽ nhìn ở bên dưới này bên
+[09:49] ở lại các bạn sẽ nhìn ở bên dưới này bên phải đây này có cái cái kéo này còn
+[09:50] phải đây này có cái cái kéo này còn thích rồi đấy bạn sẽ bấm ok thì cần thấy
+[09:53] thích rồi đấy bạn sẽ bấm ok thì cần thấy như vậy có 1 cái gạch chéo vào giữa cái
+[09:55] như vậy có 1 cái gạch chéo vào giữa cái cột bên này rồi đó Oh B2 là rồi nó còn
+[09:57] cột bên này rồi đó Oh B2 là rồi nó còn kéo rộng ra thì cậu sẽ tích lũy vào đây
+[09:59] kéo rộng ra thì cậu sẽ tích lũy vào đây mình sẽ ghi là diện thời gian đúng không
+[10:08] các bạn giữa ăn và các bạn bấm enter nhất các bạn giữ phím an các bạn bộ
+[10:09] nhất các bạn giữ phím an các bạn bộ Master ở đây là gì buổi đấy sau đó bọn
+[10:14] Master ở đây là gì buổi đấy sau đó bọn tích chuột nên trước cái chữ thời gian
+[10:17] tích chuột nên trước cái chữ thời gian này Con bấm vô cách để gọi sếp bấm vô
+[10:20] này Con bấm vô cách để gọi sếp bấm vô cách để cái chữ ra này nó sát với góc
+[10:22] cách để cái chữ ra này nó sát với góc bên phải lại đây sau đó bấm enter đấy
+[10:26] bên phải lại đây sau đó bấm enter đấy còn thấy cho như vậy là cái chút thời
+[10:27] còn thấy cho như vậy là cái chút thời gian ở sát bên này mà cái chữ buổi ở
+[10:29] gian ở sát bên này mà cái chữ buổi ở dưới này rất là hay bây giờ còn giữ chữa
+[10:31] dưới này rất là hay bây giờ còn giữ chữa cháy quận Portland nhá từ cái B2 đến
+[10:34] cháy quận Portland nhá từ cái B2 đến diện đến
+[10:35] diện đến u&amp;i 10 đây này để họ xem vào cái thẻ hôm
+[10:38] u&amp;i 10 đây này để họ xem vào cái thẻ hôm phải ta sẽ vào cái dấu tam giác ở đây
+[10:41] phải ta sẽ vào cái dấu tam giác ở đây này các bạn chọn ô ô được à
+[10:44] này các bạn chọn ô ô được à Vì vậy bây giờ mình sẽ Bôi đen để mình
+[10:46] Vì vậy bây giờ mình sẽ Bôi đen để mình sẽ Bôi đen các cái tiêu đề đây nhá Hay
+[10:49] sẽ Bôi đen các cái tiêu đề đây nhá Hay cả rất thích vào đây là màu vàng luôn
+[10:51] cả rất thích vào đây là màu vàng luôn các bạn sẽ tích vào đây còn chọn màu
+[10:52] các bạn sẽ tích vào đây còn chọn màu vàng này chữ màu đỏ đúng không có tích ở
+[10:55] vàng này chữ màu đỏ đúng không có tích ở đây họ sẽ chọn cái màu đỏ này Đấy và có
+[10:58] đây họ sẽ chọn cái màu đỏ này Đấy và có thích bằng chữ bên này để tô đậm này rồi
+[11:00] thích bằng chữ bên này để tô đậm này rồi Ok như vậy là giống rồi đúng không Bây
+[11:03] Ok như vậy là giống rồi đúng không Bây giờ tôi sẽ cập nhật các môn học nhá ở
+[11:04] giờ tôi sẽ cập nhật các môn học nhá ở đây ví dụ thứ hai là toán này gọi hai
+[11:06] đây ví dụ thứ hai là toán này gọi hai chấm là gì cô A là đây là địa lý này hay
+[11:13] chấm là gì cô A là đây là địa lý này hay chấm thầy B khóa này hay chấm OC và văn
+[11:23] chấm thầy B khóa này hay chấm OC và văn hai chấm liệng thầy đê các bạn tích vào
+[11:28] hai chấm liệng thầy đê các bạn tích vào giữa của Xêkô D ngoãn thích lúc này thì
+[11:30] giữa của Xêkô D ngoãn thích lúc này thì như vậy mình đã nhập xong cái mẫu về
+[11:32] như vậy mình đã nhập xong cái mẫu về thời khóa biểu đây rồi nhá tương tự các
+[11:34] thời khóa biểu đây rồi nhá tương tự các bạn có thể nhập cho thứ ba thứ tư thứ
+[11:35] bạn có thể nhập cho thứ ba thứ tư thứ năm thứ sáu và các cái buổi chiều nhá ở
+[11:37] năm thứ sáu và các cái buổi chiều nhá ở đây mình làm mẫu như thế này thôi đấy Ok
+[11:40] đây mình làm mẫu như thế này thôi đấy Ok về các bạn có thể nhấn chuột phải vào
+[11:42] về các bạn có thể nhấn chuột phải vào cái quay trở lại các bạn cắt nó đi
+[11:44] cái quay trở lại các bạn cắt nó đi Ừ thế là mình sẽ xóa ảnh đấy đi không
+[11:46] Ừ thế là mình sẽ xóa ảnh đấy đi không còn cái ảnh nữa đúng không Để như vậy
+[11:47] còn cái ảnh nữa đúng không Để như vậy mình đã xong cái thời khóa biểu này Bây
+[11:49] mình đã xong cái thời khóa biểu này Bây giờ mình sẽ đặt tên file này nha các bạn
+[11:51] giờ mình sẽ đặt tên file này nha các bạn vào thì file các bạn sắp xếp này thì
+[11:53] vào thì file các bạn sắp xếp này thì mình làm thì tốt nhất mình nhập vai đúng
+[11:54] mình làm thì tốt nhất mình nhập vai đúng không đấy còn thấy trước khi gọi là tên
+[11:56] không đấy còn thấy trước khi gọi là tên file nhá thì gọi thích một xét thì nó
+[11:58] file nhá thì gọi thích một xét thì nó mặc định nó cũng nhớ đến cfs Tức là mình
+[12:00] mặc định nó cũng nhớ đến cfs Tức là mình đặt tên file thì cái sếp vff đều là
+[12:02] đặt tên file thì cái sếp vff đều là giống nhau đúng không Lại Mình sẽ lưu
+[12:04] giống nhau đúng không Lại Mình sẽ lưu vào đây cậu xem brow này vì giận rosado
+[12:08] vào đây cậu xem brow này vì giận rosado mình sẽ vào desktop mà tôi Seo cơ bản
+[12:10] mình sẽ vào desktop mà tôi Seo cơ bản đến nâng cao đúng không Mình là bài số 2
+[12:12] đến nâng cao đúng không Mình là bài số 2 Đấy ví dụ bây giờ ạ nhập liệu nghị Đây
+[12:16] Đấy ví dụ bây giờ ạ nhập liệu nghị Đây là thời khóa biểu đại mình đang đặt tên
+[12:21] là thời khóa biểu đại mình đang đặt tên file là nhập liệu thời khóa biểu rồi
+[12:22] file là nhập liệu thời khóa biểu rồi đúng không Bây giờ mình sẽ giới thiệu
+[12:23] đúng không Bây giờ mình sẽ giới thiệu cho các bạn các các thành phần của cái
+[12:25] cho các bạn các các thành phần của cái phái xe này nhá Đây là ca sĩ Thì bạn
+[12:28] phái xe này nhá Đây là ca sĩ Thì bạn biết rồi đúng không đầu tiên là diện
+[12:30] biết rồi đúng không đầu tiên là diện trên cái thanh này gọi là pho L3 đây khi
+[12:32] trên cái thanh này gọi là pho L3 đây khi bạn chó đây này thì nó là format Nếu như
+[12:35] bạn chó đây này thì nó là format Nếu như các Cái ô này mà là tách thì nó sẽ hết ở
+[12:37] các Cái ô này mà là tách thì nó sẽ hết ở đây là cách Còn nếu như ở cổ đây mà công
+[12:40] đây là cách Còn nếu như ở cổ đây mà công thức Nhã ví dụ bạn bằng này năm
+[12:42] thức Nhã ví dụ bạn bằng này năm khi cộng 14 hạn thế nhá Đấy thì nó ra
+[12:44] khi cộng 14 hạn thế nhá Đấy thì nó ra kết quả là trí đúng không khi bạn tích
+[12:46] kết quả là trí đúng không khi bạn tích vào cái ô số 9 đây này thì trên cái
+[12:48] vào cái ô số 9 đây này thì trên cái Thanh pho mua 3 nó sẽ hiện ở huyện công
+[12:50] Thanh pho mua 3 nó sẽ hiện ở huyện công thức chứ không phải là hiện kết quả nhá
+[12:52] thức chứ không phải là hiện kết quả nhá đấy Còn nếu như cái ô là tách thì nó sẽ
+[12:54] đấy Còn nếu như cái ô là tách thì nó sẽ hiện tách còn là công thức thì cái Phong
+[12:56] hiện tách còn là công thức thì cái Phong roba này nó sẽ công thức còn bên trái
+[12:59] roba này nó sẽ công thức còn bên trái đây này là cái lên bóp thì mình đã giải
+[13:01] đây này là cái lên bóp thì mình đã giải thích ở cái video trước rồi đúng không
+[13:02] thích ở cái video trước rồi đúng không thấy mỗi một ơi ở đây thì nó sẽ trong
+[13:05] thấy mỗi một ơi ở đây thì nó sẽ trong cái game móc lại nó sẽ hiển thị là diện
+[13:07] cái game móc lại nó sẽ hiển thị là diện nó ở cột bao nhiêu và hàng bao nhiêu vậy
+[13:09] nó ở cột bao nhiêu và hàng bao nhiêu vậy Còn nếu như chọn lựa chọn một vùng thì
+[13:11] Còn nếu như chọn lựa chọn một vùng thì bạn có thể đặt tên cho nó nhắc tên cái
+[13:12] bạn có thể đặt tên cho nó nhắc tên cái vùng của các bạn tiếp theo mình sẽ giới
+[13:14] vùng của các bạn tiếp theo mình sẽ giới thiệu với các bạn về cái thẻ đấy Cái cái
+[13:17] thiệu với các bạn về cái thẻ đấy Cái cái thẻ là gia vị đầu tiên là cái kẹp file
+[13:19] thẻ là gia vị đầu tiên là cái kẹp file nhá để gọi Stick wi-fi này thì trong cái
+[13:22] nhá để gọi Stick wi-fi này thì trong cái thẻ file đó sẽ có cái thông tin gì đầu
+[13:24] thẻ file đó sẽ có cái thông tin gì đầu tiên là lưu new tức là các bạn sẽ tạo
+[13:26] tiên là lưu new tức là các bạn sẽ tạo một cái file mới đây ví dụ Các bạn thích
+[13:28] một cái file mới đây ví dụ Các bạn thích và lưu này khi gọi tích còn lưu thì nó
+[13:30] và lưu này khi gọi tích còn lưu thì nó sẽ có một số tùy chọn luôn Miu Lê là cái
+[13:32] sẽ có một số tùy chọn luôn Miu Lê là cái Blanc Facebook và một số cái hướng dẫn
+[13:34] Blanc Facebook và một số cái hướng dẫn khác nhé Đây là một số các em biết nhé
+[13:36] khác nhé Đây là một số các em biết nhé Cái template này Thực ra nó khá là những
+[13:39] Cái template này Thực ra nó khá là những dụng Nếu như các bạn định nào Cái gì đấy
+[13:41] dụng Nếu như các bạn định nào Cái gì đấy ví dụ các bạn
+[13:41] ví dụ các bạn Ừ mai mà có lịch chẳng hạn nhất thì đoạn
+[13:43] Ừ mai mà có lịch chẳng hạn nhất thì đoạn lên tick chọn các em viết này thì nó sẽ
+[13:46] lên tick chọn các em viết này thì nó sẽ có rất nhiều cái tem viết về lịch cho
+[13:47] có rất nhiều cái tem viết về lịch cho bạn chọn lấy ví dụ Họ thích là kem đời
+[13:50] bạn chọn lấy ví dụ Họ thích là kem đời này nhá thì nó sẽ có rất là nhựa for này
+[13:52] này nhá thì nó sẽ có rất là nhựa for này có thích ở đây nó sẽ có các cái mẫu
+[13:54] có thích ở đây nó sẽ có các cái mẫu Tablet khác nhau nếu như con ăn thích
+[13:57] Tablet khác nhau nếu như con ăn thích tạo các em viết nào thì gọi chọn nơi cái
+[13:59] tạo các em viết nào thì gọi chọn nơi cái vừa xong mình cũng thấy khá là đẹp nữa
+[14:01] vừa xong mình cũng thấy khá là đẹp nữa đấy các bạn thích cái tem viết này các
+[14:03] đấy các bạn thích cái tem viết này các bạn sẽ chọn cái clip nhá thì trong cái
+[14:07] bạn sẽ chọn cái clip nhá thì trong cái phần này thì thông thường mình rất thích
+[14:08] phần này thì thông thường mình rất thích ở đây để mình sẽ tạo các file mới đây
+[14:10] ở đây để mình sẽ tạo các file mới đây mình thích mở ra đấy là mình sẽ tạo một
+[14:12] mình thích mở ra đấy là mình sẽ tạo một cái file mới Bây giờ mình sẽ bóng lại
+[14:14] cái file mới Bây giờ mình sẽ bóng lại quay lại cái kẹp phanh á thì cái Open
+[14:17] quay lại cái kẹp phanh á thì cái Open thì mình đã giải thích trước lấy rồi
+[14:19] thì mình đã giải thích trước lấy rồi đúng không Open để các bạn mở một cái
+[14:20] đúng không Open để các bạn mở một cái file cái info này là cái thông tin về
+[14:23] file cái info này là cái thông tin về cái file này của mình để đây Các bạn
+[14:25] cái file này của mình để đây Các bạn thấy một số thông tin này à
+[14:27] thấy một số thông tin này à ở đây cái sếp và sếp em thì mình đã nói
+[14:30] ở đây cái sếp và sếp em thì mình đã nói rồi đúng không xếp là mình sẽ lưu với
+[14:31] rồi đúng không xếp là mình sẽ lưu với trạng thái gần nhất CF là mình sẽ tạo
+[14:33] trạng thái gần nhất CF là mình sẽ tạo một cái file mới giống đẹp này capron là
+[14:36] một cái file mới giống đẹp này capron là để mình yên nhá mình in với tài liệu của
+[14:38] để mình yên nhá mình in với tài liệu của mình ra cái xe là export với cả public
+[14:41] mình ra cái xe là export với cả public thì mình rất ít sử dụng trong các phạm
+[14:43] thì mình rất ít sử dụng trong các phạm vi của cái khóa học này mình sẽ không
+[14:44] vi của cái khóa học này mình sẽ không giới thiệu ba cái phần này cái close để
+[14:46] giới thiệu ba cái phần này cái close để mình đóng cái file này ạ để các bạn
+[14:49] mình đóng cái file này ạ để các bạn thích mà nho để các bạn có thể vào
+[14:51] thích mà nho để các bạn có thể vào option này quá thay đổi một số cái gì
+[14:53] option này quá thay đổi một số cái gì chọn nhá Đây là cách kẹp phanh bây giờ
+[14:55] chọn nhá Đây là cách kẹp phanh bây giờ có bạn sự tích mà cái mũi tên này để
+[14:56] có bạn sự tích mà cái mũi tên này để mình quay lại cái file Excel Tiếp theo
+[14:59] mình quay lại cái file Excel Tiếp theo là cái thẻ hôm nhá thì còn chú ý nhất ở
+[15:02] là cái thẻ hôm nhá thì còn chú ý nhất ở mỗi cái thẻ khi đoạn tích vào cái thẻ
+[15:04] mỗi cái thẻ khi đoạn tích vào cái thẻ đây này nó gọi là thẻ này Hôm này Yên
+[15:06] đây này nó gọi là thẻ này Hôm này Yên Sơn này Miss leo này đây khi có ăn tích
+[15:09] Sơn này Miss leo này đây khi có ăn tích bằng cái thẻ thì ở dưới là các cái nhóm
+[15:11] bằng cái thẻ thì ở dưới là các cái nhóm nhóm chức năng của các thẻ đấy ví dụ cái
+[15:14] nhóm chức năng của các thẻ đấy ví dụ cái thẻ hôm này thì cái kèo hôm nó có các
+[15:16] thẻ hôm này thì cái kèo hôm nó có các nhóm chức năng gì ạ Cái clip bóc này
+[15:18] nhóm chức năng gì ạ Cái clip bóc này nhóm chức năng của Phone này like cho
+[15:21] nhóm chức năng của Phone này like cho mình 5 mờ spa đấy thì trong các nhóm này
+[15:24] mình 5 mờ spa đấy thì trong các nhóm này thì nó lại có các cái chức năng cụ thể ở
+[15:27] thì nó lại có các cái chức năng cụ thể ở đây
+[15:27] đây Ừ thì music tìm hiểu qua một số các chức
+[15:30] Ừ thì music tìm hiểu qua một số các chức năng á thì trong phạm vi này nó rất là
+[15:32] năng á thì trong phạm vi này nó rất là dài thì mình sẽ không thể tìm hiểu hết
+[15:34] dài thì mình sẽ không thể tìm hiểu hết thì trong các video tiếp theo thì mình
+[15:36] thì trong các video tiếp theo thì mình vừa làm vừa hướng dẫn các bạn sử dụng
+[15:38] vừa làm vừa hướng dẫn các bạn sử dụng các cái thành phần trong cái cái thẻ này
+[15:40] các cái thành phần trong cái cái thẻ này nhá các bạn chỉ cần hiểu đơn giản đây là
+[15:42] nhá các bạn chỉ cần hiểu đơn giản đây là các cái thẻ điều khiển và xử lý hay là
+[15:44] các cái thẻ điều khiển và xử lý hay là thao tác với cây dữ liệu của các bạn nhá
+[15:46] thao tác với cây dữ liệu của các bạn nhá lại đầu tiên là cái ví dụ cái thẻ phone
+[15:50] lại đầu tiên là cái ví dụ cái thẻ phone nhá Lúc nãy mình đã giải thích rồi chẳng
+[15:51] nhá Lúc nãy mình đã giải thích rồi chẳng hạn thế có thể tô đậm này nếu như bạn
+[15:54] hạn thế có thể tô đậm này nếu như bạn muốn tô đậm nhiều ô Ví dụ mình muốn tôi
+[15:55] muốn tô đậm nhiều ô Ví dụ mình muốn tôi động 2 ôn này Các Model trước này các
+[15:57] động 2 ôn này Các Model trước này các bạn tích vào cái chữ B đấy Bạn thấy chứ
+[15:59] bạn tích vào cái chữ B đấy Bạn thấy chứ nó sẽ mua rượu này còn tất cả với chữ y
+[16:02] nó sẽ mua rượu này còn tất cả với chữ y là in nghiêng đúng không còn tĩnh và cái
+[16:04] là in nghiêng đúng không còn tĩnh và cái chữ mà dưới đây này entried thì là dị nó
+[16:07] chữ mà dưới đây này entried thì là dị nó sẽ gạch chân ở dưới này Đấy nếu cho các
+[16:09] sẽ gạch chân ở dưới này Đấy nếu cho các bạn bỏ chọn thì gọn lại tinh một lần nữa
+[16:11] bạn bỏ chọn thì gọn lại tinh một lần nữa bỏ một lần nữa thì nó sẽ thích bỏ một
+[16:13] bỏ một lần nữa thì nó sẽ thích bỏ một lần nữa này nó sẽ thích đấy Ở đây là cái
+[16:16] lần nữa này nó sẽ thích đấy Ở đây là cái thẻ phone nhá các iPhone rồi Diện Nó sẽ
+[16:19] thẻ phone nhá các iPhone rồi Diện Nó sẽ thay đổi cái kiểu phông chữ đầy ví dụ
+[16:21] thay đổi cái kiểu phông chữ đầy ví dụ các bạn bodil40 ô này nhá sau đó bạn vào
+[16:24] các bạn bodil40 ô này nhá sau đó bạn vào cái thẻ Phone này còn tích và cái phone
+[16:26] cái thẻ Phone này còn tích và cái phone này Gọi thế cho thì
+[16:27] này Gọi thế cho thì bài gọi Bôi đen này nó sẽ hiện iPhone
+[16:30] bài gọi Bôi đen này nó sẽ hiện iPhone mẫu này gọi nhìn này nếu như bạn thấy
+[16:32] mẫu này gọi nhìn này nếu như bạn thấy phone nào mà cái phong ấy nhiều bạn gọi
+[16:34] phone nào mà cái phong ấy nhiều bạn gọi là Phong mình cứ có thể dùng phone không
+[16:37] là Phong mình cứ có thể dùng phone không nhá Đợi thì bạn sẽ chọn cái phong nào mà
+[16:40] nhá Đợi thì bạn sẽ chọn cái phong nào mà có thích này đây ví dụ mình chọn nó
+[16:41] có thích này đây ví dụ mình chọn nó không Này nhá đã cảm thấy chứ Đây là
+[16:44] không Này nhá đã cảm thấy chứ Đây là quan Chọn phông chữ này còn đây là cỡ
+[16:46] quan Chọn phông chữ này còn đây là cỡ chữ đây đây ví dụ Lúc nãy mình bôi 4 cái
+[16:49] chữ đây đây ví dụ Lúc nãy mình bôi 4 cái ô tiêu đề này rồi đúng từ thứ tư đến cái
+[16:51] ô tiêu đề này rồi đúng từ thứ tư đến cái ghi chú này nếu các bạn có thể thay đổi
+[16:52] ghi chú này nếu các bạn có thể thay đổi các khối chữ thăm nhau lại hoặc các bạn
+[16:56] các khối chữ thăm nhau lại hoặc các bạn có thể nhập trực tiếp nhé Nếu như mình
+[16:58] có thể nhập trực tiếp nhé Nếu như mình thích 13 nhà thì gọn gõ 13 của đây các
+[17:00] thích 13 nhà thì gọn gõ 13 của đây các em từ đấy thì cái phông chữ này nó sẽ là
+[17:02] em từ đấy thì cái phông chữ này nó sẽ là 13 hoặc là gì đấy 16 thì tùy các bạn Các
+[17:05] 13 hoặc là gì đấy 16 thì tùy các bạn Các bạn có thể thay đổi phông chữ thì mặc
+[17:07] bạn có thể thay đổi phông chữ thì mặc định nó là 11 đúng không tiếp theo ở đây
+[17:09] định nó là 11 đúng không tiếp theo ở đây là mình sẽ tô màu nhé mình sẽ tô màu cho
+[17:11] là mình sẽ tô màu nhé mình sẽ tô màu cho cái ô đây ví dụ cái tiết này mình bộ này
+[17:15] cái ô đây ví dụ cái tiết này mình bộ này còn tích vào cái tam giác ở đây để các
+[17:17] còn tích vào cái tam giác ở đây để các bạn chọn màu nhá lại Tùy các bạn ví dụ
+[17:20] bạn chọn màu nhá lại Tùy các bạn ví dụ mình chọn cái màu xanh nhà thấy đi đấy
+[17:22] mình chọn cái màu xanh nhà thấy đi đấy thì những cái ôm trọn nó có màu xanh
+[17:23] thì những cái ôm trọn nó có màu xanh nhạt đúng không ạ Đây là cái kiểu màu
+[17:25] nhạt đúng không ạ Đây là cái kiểu màu chữ ví dụ ở đây mình sẽ hiện
+[17:27] chữ ví dụ ở đây mình sẽ hiện Xin chào các bạn sẽ tích ở đây nó sẽ có
+[17:30] Xin chào các bạn sẽ tích ở đây nó sẽ có nhiều bên màu chữ cho bạn chọn Ví dụ
+[17:31] nhiều bên màu chữ cho bạn chọn Ví dụ mình chọn màu tím đi lấy bạn thấy thì
+[17:34] mình chọn màu tím đi lấy bạn thấy thì những cái chữ này nó sẽ màu tím Tiếp
+[17:36] những cái chữ này nó sẽ màu tím Tiếp theo là cái applied mừng nhá Cái ơn
+[17:38] theo là cái applied mừng nhá Cái ơn reitman đây ví dụ như cái ô này mình sẽ
+[17:41] reitman đây ví dụ như cái ô này mình sẽ cắm giữa lên cái giữ ở đây là gì nó sẽ ở
+[17:43] cắm giữa lên cái giữ ở đây là gì nó sẽ ở giữa Cái ô này nó sẽ coi như đây có
+[17:46] giữa Cái ô này nó sẽ coi như đây có thích ở đây lại còn thấy nó sẽ dịch niên
+[17:48] thích ở đây lại còn thấy nó sẽ dịch niên giữa đây có cái còn cái căn giữa này nó
+[17:51] giữa đây có cái còn cái căn giữa này nó sẽ căn giữa nó sẽ nhảy vào đây này các
+[17:53] sẽ căn giữa nó sẽ nhảy vào đây này các bạn sẽ ăn giữa đây Đấy nó sẽ nhảy vào
+[17:54] bạn sẽ ăn giữa đây Đấy nó sẽ nhảy vào đây Thông thường thì cái tiêu đề mình
+[17:57] đây Thông thường thì cái tiêu đề mình thay mô đen và mình sẽ chọn căn giữa ở
+[17:59] thay mô đen và mình sẽ chọn căn giữa ở đây và cắt dựa trên này thích ở đây là
+[18:02] đây và cắt dựa trên này thích ở đây là căn trái Còn đây là gì Các bạn sẽ Xoay
+[18:04] căn trái Còn đây là gì Các bạn sẽ Xoay cái chữ này Nếu được các bạn tích vào
+[18:06] cái chữ này Nếu được các bạn tích vào đây nó sẽ xoay 45 độ này còn thấy cho ạ
+[18:13] sự tích ở đây là giả muốn nợ thuê các bạn Các bạn thích bao nhiêu thì bạn chọn
+[18:15] bạn Các bạn thích bao nhiêu thì bạn chọn cái hòa các bạn thích và cái format Cell
+[18:16] cái hòa các bạn thích và cái format Cell online đây các bạn có thể nhập độ trực
+[18:19] online đây các bạn có thể nhập độ trực tiếp vào đây để thông thường của mình
+[18:21] tiếp vào đây để thông thường của mình thì mình sẽ để nhanh như thế này thì nó
+[18:23] thì mình sẽ để nhanh như thế này thì nó là không độ để còn còn thích bao nhiêu
+[18:25] là không độ để còn còn thích bao nhiêu đội được ăn nhập với Đây nhá lại sang
+[18:27] đội được ăn nhập với Đây nhá lại sang ngang hay dọc thông thường mình sẽ không
+[18:29] ngang hay dọc thông thường mình sẽ không độ là làm nhanh gọn bằng Ok lại thì nó
+[18:31] độ là làm nhanh gọn bằng Ok lại thì nó sẽ quay về nha Đây là một số các thuộc
+[18:33] sẽ quay về nha Đây là một số các thuộc tính nhá Đây là cái kiểu đô la là ví dụ
+[18:36] tính nhá Đây là cái kiểu đô la là ví dụ mình sẽ nhập họ thích và cái số 9 cho
+[18:38] mình sẽ nhập họ thích và cái số 9 cho con thích vào chữ Donal này thì nó sẽ
+[18:40] con thích vào chữ Donal này thì nó sẽ hiểu là cái chữ kiểu tiền tệ của Mỹ là
+[18:42] hiểu là cái chữ kiểu tiền tệ của Mỹ là phần trăm thì nó sẽ chuyển được chín
+[18:44] phần trăm thì nó sẽ chuyển được chín trăm phần trăm đúng không Ví dụ mình
+[18:46] trăm phần trăm đúng không Ví dụ mình nhập vào 0.9 ở đây nhá Còn tích vào đây
+[18:49] nhập vào 0.9 ở đây nhá Còn tích vào đây Nếu như các tích phần trăm thì nó sẽ ra
+[18:51] Nếu như các tích phần trăm thì nó sẽ ra là 90 phần trăm cái dấu phẩy là diện nó
+[18:54] là 90 phần trăm cái dấu phẩy là diện nó sẽ hiển thị với số thập phân này bao
+[18:56] sẽ hiển thị với số thập phân này bao nhiêu số thập phân sau số nguyên không ạ
+[18:58] nhiêu số thập phân sau số nguyên không ạ Đấy ở đây là sẽ tăng giảm với số thập
+[19:00] Đấy ở đây là sẽ tăng giảm với số thập phân để co giãn đây là dạng số thập phân
+[19:03] phân để co giãn đây là dạng số thập phân là đây là tăng số thập phân này thì
+[19:08] là đây là tăng số thập phân này thì tương tự nha một số các chức năng khác
+[19:09] tương tự nha một số các chức năng khác thì mình sẽ giới thiệu
+[19:10] thì mình sẽ giới thiệu a Tiếp theo là cái thẻ Insert Insert Tức
+[19:14] a Tiếp theo là cái thẻ Insert Insert Tức là mình chèn nhá Thì lúc nãy mình đã
+[19:16] là mình chèn nhá Thì lúc nãy mình đã giới thiệu các bạn là mình chảnh rồi lúc
+[19:17] giới thiệu các bạn là mình chảnh rồi lúc đấy mình tràng cái phát ảnh vừa xong
+[19:19] đấy mình tràng cái phát ảnh vừa xong hoặc là các bạn có thể chèn các cái xếp
+[19:22] hoặc là các bạn có thể chèn các cái xếp ở đây mình sẽ chèn các hình dạng và mong
+[19:23] ở đây mình sẽ chèn các hình dạng và mong muốn mẹ chọn giữa trái vọng kéo là đấy
+[19:25] muốn mẹ chọn giữa trái vọng kéo là đấy nó chèn hình dạng nhá đó các bạn thay
+[19:28] nó chèn hình dạng nhá đó các bạn thay đổi style cho nó Đấy là chè thành dạng
+[19:30] đổi style cho nó Đấy là chè thành dạng này cạnh các bạn lại vào lại Insert hoặc
+[19:33] này cạnh các bạn lại vào lại Insert hoặc các bạn có thể vẽ biểu đồ nhá Đấy thì
+[19:36] các bạn có thể vẽ biểu đồ nhá Đấy thì sau này thì trong các bài giảng mình sẽ
+[19:38] sau này thì trong các bài giảng mình sẽ hướng dẫn chi tiết cho các bạn là các
+[19:40] hướng dẫn chi tiết cho các bạn là các cái thẻ Insert mình dùng như thế nào
+[19:41] cái thẻ Insert mình dùng như thế nào hoặc các bạn có thể chèn các biểu tượng
+[19:44] hoặc các bạn có thể chèn các biểu tượng tách này Quốc app này Ví dụ mình gõ cái
+[19:46] tách này Quốc app này Ví dụ mình gõ cái chữ nghệ thuật đấy đi nói ví dụ là cái
+[19:48] chữ nghệ thuật đấy đi nói ví dụ là cái xem đây là các cái wordart các bạn có
+[19:53] xem đây là các cái wordart các bạn có thể xoay nhá Xoay ngang xoay dọc Tùy cậu
+[19:55] thể xoay nhá Xoay ngang xoay dọc Tùy cậu ạ Thế còn lại và lại sợ đi Các bạn có
+[20:00] ạ Thế còn lại và lại sợ đi Các bạn có thể chèn cái simple Tức là mình có thể
+[20:02] thể chèn cái simple Tức là mình có thể che những cái biểu tượng Đặc biệt này
+[20:04] che những cái biểu tượng Đặc biệt này simple lại có những cái kiểu đặc biệt ở
+[20:07] simple lại có những cái kiểu đặc biệt ở đây cái phần phone đấy Bạn sẽ chọn vì
+[20:10] đây cái phần phone đấy Bạn sẽ chọn vì khi chọn chọn cái kiểu gì thì bạn chọn
+[20:13] khi chọn chọn cái kiểu gì thì bạn chọn vào đây ví dụ cái kiểu Linh để nhiều ký
+[20:17] vào đây ví dụ cái kiểu Linh để nhiều ký tự đặc biệt đây là like thứ gì con
+[20:20] tự đặc biệt đây là like thứ gì con Insert đấy Con bấm Grow con đấy chứ cái
+[20:22] Insert đấy Con bấm Grow con đấy chứ cái biểu tượng hai ngón tay rô này các bạn
+[20:24] biểu tượng hai ngón tay rô này các bạn có thể đổi phong này to lên ví dụ mình
+[20:26] có thể đổi phong này to lên ví dụ mình cho là 30 đi đấy bạn thấy cho mình lại
+[20:31] cho là 30 đi đấy bạn thấy cho mình lại quay lại cái resort nhá cái son này cũng
+[20:33] quay lại cái resort nhá cái son này cũng khá nhiều với hai nữa Tiếp theo là cái
+[20:36] khá nhiều với hai nữa Tiếp theo là cái thẻ business hours được kết nối giao này
+[20:38] thẻ business hours được kết nối giao này nó sẽ là những kiểu nó sẽ hiển thị dâm
+[20:41] nó sẽ là những kiểu nó sẽ hiển thị dâm Tức là mình sẽ hiển thiệu cái nền của
+[20:43] Tức là mình sẽ hiển thiệu cái nền của cái file này và dễ cái kết Sắp tới là
+[20:46] cái file này và dễ cái kết Sắp tới là mình sẽ như kiểu là mình thiết lập các
+[20:47] mình sẽ như kiểu là mình thiết lập các trang in nữa đấy ví dụ đây nhá cái trang
+[20:51] trang in nữa đấy ví dụ đây nhá cái trang của mình mặc định nó là triệu đúng rồi
+[20:52] của mình mặc định nó là triệu đúng rồi Các bạn thích và nó sẽ là cái chiều
+[20:54] Các bạn thích và nó sẽ là cái chiều ngang lại mình chọn là chiều dọc cái này
+[20:57] ngang lại mình chọn là chiều dọc cái này thì nó liên quan đến y Tấn này cái sai
+[20:59] thì nó liên quan đến y Tấn này cái sai này này là mình sẽ chờ cái kích cỡ của
+[21:01] này này là mình sẽ chờ cái kích cỡ của cái file này đúng ạ Đây nó có cái kích
+[21:03] cái file này đúng ạ Đây nó có cái kích cỡ ví dụ giấy A4 A3 hay ăn năm thì đấy
+[21:06] cỡ ví dụ giấy A4 A3 hay ăn năm thì đấy thì tùy các bạn nhé
+[21:07] thì tùy các bạn nhé đ.d cách pin LG Tức là mình sẽ lựa chọn
+[21:10] đ.d cách pin LG Tức là mình sẽ lựa chọn vùng in đây ví dụ mình muốn đi vùng này
+[21:12] vùng in đây ví dụ mình muốn đi vùng này thôi thì các bạn sẽ hôn em cái vùng này
+[21:14] thôi thì các bạn sẽ hôn em cái vùng này và các bạn sẽ diện Premier League còn
+[21:16] và các bạn sẽ diện Premier League còn xét nhé Đây thì lúc này nó chỉ in cái
+[21:18] xét nhé Đây thì lúc này nó chỉ in cái vùng mà các bạn chọn thôi Cái backgroud
+[21:20] vùng mà các bạn chọn thôi Cái backgroud các bạn có thể thay đổi cái hình nền của
+[21:22] các bạn có thể thay đổi cái hình nền của wifi này đây ví dụ mình sẽ Việt vì sự
+[21:24] wifi này đây ví dụ mình sẽ Việt vì sự Brown Mình sẽ chọn cái hình nền bất kỳ
+[21:26] Brown Mình sẽ chọn cái hình nền bất kỳ Ví dụ mình chọn cái file vừa xong làm
+[21:28] Ví dụ mình chọn cái file vừa xong làm cái hình nền cho con Insert này Đấy cái
+[21:30] cái hình nền cho con Insert này Đấy cái ảnh này vừa xong nó sẽ thành hình nền
+[21:32] ảnh này vừa xong nó sẽ thành hình nền đấy còn thấy mình có thể mini cái mạnh
+[21:33] đấy còn thấy mình có thể mini cái mạnh rau đi cái tên em này cũng khá là nhiều
+[21:38] rau đi cái tên em này cũng khá là nhiều cái hay đây ví dụ cái chữ này Nó nằm nó
+[21:41] cái hay đây ví dụ cái chữ này Nó nằm nó đè lên cái bát rồi mình nha Bây giờ mình
+[21:43] đè lên cái bát rồi mình nha Bây giờ mình muốn cái chữ để nó nằm dưới cái bát tầm
+[21:44] muốn cái chữ để nó nằm dưới cái bát tầm đấy thì qua sự tích vào cái chữ đây này
+[21:46] đấy thì qua sự tích vào cái chữ đây này các bạn sẽ chọn đấy ạ santu password này
+[21:49] các bạn sẽ chọn đấy ạ santu password này đấy còn được chứ Đây mình sẽ chọn với
+[21:51] đấy còn được chứ Đây mình sẽ chọn với forward thì nó lại chèn lên đấy Còn cái
+[21:54] forward thì nó lại chèn lên đấy Còn cái Online vườn là gì Ví dụ mình rất tạo
+[21:56] Online vườn là gì Ví dụ mình rất tạo nhiều cái các bạn Insert này các bạn sẽ
+[21:58] nhiều cái các bạn Insert này các bạn sẽ Chèn nhiều cái hình dạng khác nhau nhá
+[22:00] Chèn nhiều cái hình dạng khác nhau nhá đây ví dụ mình sẽ cho hai cái hình này
+[22:03] đây ví dụ mình sẽ cho hai cái hình này anh em bây giờ ví dụ mình có nhiều hình
+[22:05] anh em bây giờ ví dụ mình có nhiều hình các bạn giữ cần cho là thích là cái hình
+[22:06] các bạn giữ cần cho là thích là cái hình này để sau đó các bạn ở like đây các bạn
+[22:09] này để sau đó các bạn ở like đây các bạn ví dụ mình căn trái song song với trái
+[22:12] ví dụ mình căn trái song song với trái với nhau lại đấy bọn đấy chứ nó sẽ dịch
+[22:13] với nhau lại đấy bọn đấy chứ nó sẽ dịch sang trái thẳng hàng với cái này rất là
+[22:15] sang trái thẳng hàng với cái này rất là đẹp Nếu như các bạn có nhiều với bác
+[22:17] đẹp Nếu như các bạn có nhiều với bác dùng á thì cái Online này cũng khá là
+[22:19] dùng á thì cái Online này cũng khá là hay đấy tiếp theo mình sẽ giới thiệu các
+[22:23] hay đấy tiếp theo mình sẽ giới thiệu các bạn cái thẻ farmer farmer này thì các
+[22:26] bạn cái thẻ farmer farmer này thì các bạn có thể nhưng xét cái fashion tức là
+[22:28] bạn có thể nhưng xét cái fashion tức là thay vì các bạn gõ trực tiếp thì bạn sẽ
+[22:30] thay vì các bạn gõ trực tiếp thì bạn sẽ nhập cái phân xưởng ở đây các bạn ví dụ
+[22:32] nhập cái phân xưởng ở đây các bạn ví dụ mình chọn cái hòm xong thì nạn thế nhá
+[22:33] mình chọn cái hòm xong thì nạn thế nhá thì gọi cho Chọn từng cái tổng đây đấy
+[22:36] thì gọi cho Chọn từng cái tổng đây đấy là cái inspection the game is for để bị
+[22:39] là cái inspection the game is for để bị rất ít dục cái file em về cũng dùng khá
+[22:43] rất ít dục cái file em về cũng dùng khá là nhiều nhất sau này mình sẽ giới thiệu
+[22:44] là nhiều nhất sau này mình sẽ giới thiệu các bạn cái phần đi filename này Nói
+[22:47] các bạn cái phần đi filename này Nói chung là cái thẻ Fortuner này cũng ít
+[22:48] chung là cái thẻ Fortuner này cũng ít dụng không dùng nhiều lắm nhưng mà cái
+[22:51] dụng không dùng nhiều lắm nhưng mà cái phông nền đặc biệt chú ý cho mình là cái
+[22:53] phông nền đặc biệt chú ý cho mình là cái calculation of xin nhá các là chú nhá Nó
+[22:56] calculation of xin nhá các là chú nhá Nó sẽ có hai cái chế độ mà mình hay dùng là
+[22:58] sẽ có hai cái chế độ mà mình hay dùng là Automatic và men luộc kẻ Automatic là gì
+[23:00] Automatic và men luộc kẻ Automatic là gì Nếu như các bạn chọn cái ô tô
+[23:03] Nếu như các bạn chọn cái ô tô ở đây khi gọi rõ rệt các bạn sẽ bằng này
+[23:05] ở đây khi gọi rõ rệt các bạn sẽ bằng này ví dụ với ô này nhá Có cộng thì các bạn
+[23:08] ví dụ với ô này nhá Có cộng thì các bạn cậu ấy ôm này đấy thì nó sẽ ra là đây
+[23:11] cậu ấy ôm này đấy thì nó sẽ ra là đây mình sẽ đổi dễ gọn vào hôm mà mình sẽ
+[23:13] mình sẽ đổi dễ gọn vào hôm mà mình sẽ đổi vé số nó sẽ là 99 đúng không cái này
+[23:15] đổi vé số nó sẽ là 99 đúng không cái này là vé số này nó sẽ ra 99 đúng không ạ
+[23:18] là vé số này nó sẽ ra 99 đúng không ạ Bây giờ mình sẽ vào cái Fortuner nhá thì
+[23:21] Bây giờ mình sẽ vào cái Fortuner nhá thì nó sẽ nổi mặc định để ví dụ khi ô này
+[23:23] nó sẽ nổi mặc định để ví dụ khi ô này mình sẽ đổi thành nhận cái ô Ví dụ nếu
+[23:25] mình sẽ đổi thành nhận cái ô Ví dụ nếu không nhiên chính là mình đổi thành ngay
+[23:26] không nhiên chính là mình đổi thành ngay nhá thì cái kết quả đây nó sẽ tự động
+[23:28] nhá thì cái kết quả đây nó sẽ tự động tăng lên thành 11 đúng 0902 Cộng 11 mà
+[23:30] tăng lên thành 11 đúng 0902 Cộng 11 mà đấy nhưng mà khi mà cái calculation of
+[23:33] đấy nhưng mà khi mà cái calculation of xin các bạn chọn men rùa đây nhá Đấy có
+[23:36] xin các bạn chọn men rùa đây nhá Đấy có nhìn đây này Nó đang thích cái vào cái
+[23:38] nhìn đây này Nó đang thích cái vào cái chữ men lùa nữa nếu những bạn đổi cái số
+[23:40] chữ men lùa nữa nếu những bạn đổi cái số này Ví dụ mình đổi là mười là Hạnh này
+[23:41] này Ví dụ mình đổi là mười là Hạnh này nhá thì cái công thức này nó không tự
+[23:44] nhá thì cái công thức này nó không tự động cập nhật để con theo đây ví dụ là
+[23:46] động cập nhật để con theo đây ví dụ là ba thế cái công thức này nó không tự
+[23:48] ba thế cái công thức này nó không tự động cập nhật đấy Cái này Cho nên muốn
+[23:50] động cập nhật đấy Cái này Cho nên muốn cầm ra đấy thì đoạn tích lũy vào đây có
+[23:52] cầm ra đấy thì đoạn tích lũy vào đây có bạn enter thì nó mới cập nhật mới tại
+[23:54] bạn enter thì nó mới cập nhật mới tại lại thì thông thường những cái
+[23:56] lại thì thông thường những cái calculation of Shinee các bạn lên để chế
+[23:59] calculation of Shinee các bạn lên để chế độ Automatic là tốt nhất các bạn hạn chế
+[24:02] độ Automatic là tốt nhất các bạn hạn chế để cái men luôn
+[24:03] để cái men luôn Ừ ok tiếp theo là mình sẽ vào cái vợ thẻ
+[24:06] Ừ ok tiếp theo là mình sẽ vào cái vợ thẻ đây ta cái thẻ visa để dùng rất là nhiều
+[24:08] đây ta cái thẻ visa để dùng rất là nhiều khi quan xử lý dữ liệu thì thứ nhất là
+[24:10] khi quan xử lý dữ liệu thì thứ nhất là gì nó có thể lấy được dữ liệu ở bên
+[24:12] gì nó có thể lấy được dữ liệu ở bên ngoài ví dụ từ web này từ cái tách file
+[24:15] ngoài ví dụ từ web này từ cái tách file đấy hoặc ở đây là những cái thành phần
+[24:18] đấy hoặc ở đây là những cái thành phần khá là nâng cao rồi sau này mình sẽ giới
+[24:20] khá là nâng cao rồi sau này mình sẽ giới thiệu Xong cho các bạn nhá Đây là cái
+[24:22] thiệu Xong cho các bạn nhá Đây là cái phép này tức là mình sẽ cập nhật tất cả
+[24:24] phép này tức là mình sẽ cập nhật tất cả cái phần sắp xếp lại cũng khá là hay để
+[24:27] cái phần sắp xếp lại cũng khá là hay để sau này mình sẽ dùng sắp xếp khá nhiều
+[24:29] sau này mình sẽ dùng sắp xếp khá nhiều phim tơ đây ví dụ phân tích về đây nhá
+[24:31] phim tơ đây ví dụ phân tích về đây nhá qua chọn filter đấy bạn thấy cho toàn bộ
+[24:33] qua chọn filter đấy bạn thấy cho toàn bộ các Cái ô này đã có filter các bạn sẽ
+[24:35] các Cái ô này đã có filter các bạn sẽ tích vào đây này Ví dụ mình chọn là gì
+[24:37] tích vào đây này Ví dụ mình chọn là gì cho bạn bỏ đi chọn cái kết một thôi Các
+[24:40] cho bạn bỏ đi chọn cái kết một thôi Các bạn bấm ok thì như vậy nó sẽ lọc lại ở
+[24:42] bạn bấm ok thì như vậy nó sẽ lọc lại ở đây nó chỉ có tiết 1 đấy là cái filter
+[24:44] đây nó chỉ có tiết 1 đấy là cái filter cũng khá là hai ví dụ Bình chrey đi
+[24:47] cũng khá là hai ví dụ Bình chrey đi Dù sau này để mình cho học s Exciter này
+[24:50] Dù sau này để mình cho học s Exciter này cái tactical lầm đấy nhá nhiều cái rất
+[24:54] cái tactical lầm đấy nhá nhiều cái rất là hay trong này mình sẽ giới thiệu Xong
+[24:55] là hay trong này mình sẽ giới thiệu Xong cho các bạn này cái thẻ review cái thẻ
+[24:58] cho các bạn này cái thẻ review cái thẻ review thì nó sẽ có một cái gì thứ nhất
+[25:00] review thì nó sẽ có một cái gì thứ nhất là cái comment đấy ví dụ comment ở đây
+[25:03] là cái comment đấy ví dụ comment ở đây nhá các bạn sẽ lưu comment ở đây ví dụ
+[25:06] nhá các bạn sẽ lưu comment ở đây ví dụ các bạn để bạn xóa đây đầu tiên đây là
+[25:09] các bạn để bạn xóa đây đầu tiên đây là cái tên máy tính để mặc định ví dụ mình
+[25:11] cái tên máy tính để mặc định ví dụ mình đi đại diện ví dụ qua mệt này cô em mệt
+[25:15] đi đại diện ví dụ qua mệt này cô em mệt đây là cái ghi chú thôi Cái Comment này
+[25:18] đây là cái ghi chú thôi Cái Comment này Kobe thay hạn thế nhá OB Thay đại khắc
+[25:23] Kobe thay hạn thế nhá OB Thay đại khắc ghi chú như thế nào người cạnh chó vào
+[25:25] ghi chú như thế nào người cạnh chó vào đây Đấy thì nó sẽ hiện ghi chú bạn nhớ
+[25:27] đây Đấy thì nó sẽ hiện ghi chú bạn nhớ được phải có ạ Có thể đi lấy cái comment
+[25:29] được phải có ạ Có thể đi lấy cái comment Ghi chú đi đấy thì ngoài ra mình hay
+[25:32] Ghi chú đi đấy thì ngoài ra mình hay dùng ở cây phần dưỡng cái Texas và tốt
+[25:35] dùng ở cây phần dưỡng cái Texas và tốt Facebook Tức là mình liên quan đến cái
+[25:37] Facebook Tức là mình liên quan đến cái phần bản vẽ file Ví dụ như mình có một
+[25:39] phần bản vẽ file Ví dụ như mình có một số thông tin mình không muốn cho người
+[25:41] số thông tin mình không muốn cho người khác xoay chỉnh sửa thì mình sẽ dùng cái
+[25:43] khác xoay chỉnh sửa thì mình sẽ dùng cái chức năng Cuốn sách này đây thì trong
+[25:46] chức năng Cuốn sách này đây thì trong treeview thì mình chú ý
+[25:47] treeview thì mình chú ý Ừ rồi comment nữa Tiếp theo là cái thẻ
+[25:51] Ừ rồi comment nữa Tiếp theo là cái thẻ view thẻ vip Mình cũng khá là hay dùng
+[25:53] view thẻ vip Mình cũng khá là hay dùng bây giờ cái view này cái loa mờ là cái
+[25:55] bây giờ cái view này cái loa mờ là cái mặc định cái phái sao rồi mở lên đó là
+[25:57] mặc định cái phái sao rồi mở lên đó là leb đúng không các bạn mà tích chọn cái
+[26:00] leb đúng không các bạn mà tích chọn cái chết Black review lại thì nó sẽ hiển thị
+[26:03] chết Black review lại thì nó sẽ hiển thị cái file này dưới dạng in ấn rồi bạn
+[26:04] cái file này dưới dạng in ấn rồi bạn thấy cho như vậy cái file của mình đang
+[26:06] thấy cho như vậy cái file của mình đang ở hai trang Các bạn nhìn thấy game sọc
+[26:08] ở hai trang Các bạn nhìn thấy game sọc xanh ở đây là hai trang này đây nếu như
+[26:10] xanh ở đây là hai trang này đây nếu như quả tích bằng cái phép leo ấy thì nó sẽ
+[26:12] quả tích bằng cái phép leo ấy thì nó sẽ hiển thị dưới dạng miệng dưới dạng một
+[26:14] hiển thị dưới dạng miệng dưới dạng một cái tờ giấy giống như kiểu giấy A4 của
+[26:15] cái tờ giấy giống như kiểu giấy A4 của mình lại cái trang in đấy còn đấy cho đó
+[26:18] mình lại cái trang in đấy còn đấy cho đó là ở hai Trang đúng không trang 1 đến
+[26:20] là ở hai Trang đúng không trang 1 đến thứ năm thôi mà tranh ở đây là thứ Sáu ở
+[26:22] thứ năm thôi mà tranh ở đây là thứ Sáu ở đó còn các bạn chọn Cát Tường lưu đã
+[26:25] đó còn các bạn chọn Cát Tường lưu đã chọn tùy chỉnh nhá Thông thường thì mình
+[26:27] chọn tùy chỉnh nhá Thông thường thì mình hay để lau mờ còn cái sông này á ví dụ
+[26:31] hay để lau mờ còn cái sông này á ví dụ đây cái sâu Phong đơn đó là hiện nay nếu
+[26:33] đây cái sâu Phong đơn đó là hiện nay nếu bạn bỏ chọn Ở đây còn thấy cái for mất
+[26:35] bạn bỏ chọn Ở đây còn thấy cái for mất đi rồi đấy thì các bạn chú ý nhất nếu
+[26:37] đi rồi đấy thì các bạn chú ý nhất nếu bạn không thấy cái Phong nơi thì bạn vào
+[26:39] bạn không thấy cái Phong nơi thì bạn vào cái thẻ Như Quán Trọ sâu phong l Đây này
+[26:41] cái thẻ Như Quán Trọ sâu phong l Đây này cái thứ biết like đây là gì Nếu như các
+[26:43] cái thứ biết like đây là gì Nếu như các bạn bỏ chọn đây nhá thì tất cả các đường
+[26:44] bạn bỏ chọn đây nhá thì tất cả các đường viền để hiển thị các cái ô khác nhau
+[26:47] viền để hiển thị các cái ô khác nhau à còn hiện ở đây nữa lại cái hết đình
+[26:51] à còn hiện ở đây nữa lại cái hết đình các bạn thích rồi đây thì nó sẽ không
+[26:53] các bạn thích rồi đây thì nó sẽ không còn cái tiêu đề nữa nhá Mình thích mà
+[26:55] còn cái tiêu đề nữa nhá Mình thích mà hết tinh thì nó sẽ chọn việc tự thì nó
+[26:57] hết tinh thì nó sẽ chọn việc tự thì nó hiện cái tiêu đề cột và hàng ở đó lại
+[27:00] hiện cái tiêu đề cột và hàng ở đó lại cái Dung là mình sẽ phóng to thu nhỏ cái
+[27:02] cái Dung là mình sẽ phóng to thu nhỏ cái lưu Windows thì liên quan đến việc mở
+[27:04] lưu Windows thì liên quan đến việc mở nhiều wifi hoặc nhiều sheet excel cái
+[27:07] nhiều wifi hoặc nhiều sheet excel cái Philippines khá là hay liên quan đến cố
+[27:08] Philippines khá là hay liên quan đến cố định tiêu đề nhé chẳng hạn như nếu như
+[27:10] định tiêu đề nhé chẳng hạn như nếu như mà cái tiêu đề ở hàng thứ hai là mình
+[27:13] mà cái tiêu đề ở hàng thứ hai là mình muốn cố định tôi là phim mình dịch xuống
+[27:15] muốn cố định tôi là phim mình dịch xuống ấy thì cái hàng thứ hai nó không bị dịch
+[27:17] ấy thì cái hàng thứ hai nó không bị dịch theo đúng không Thì họ sẽ tích và cái
+[27:18] theo đúng không Thì họ sẽ tích và cái hàng thứ ba sau đó có dọn phim Pain và
+[27:21] hàng thứ ba sau đó có dọn phim Pain và các bạn chọn cái đầu tiên này phi Bên
+[27:23] các bạn chọn cái đầu tiên này phi Bên đấy bây giờ có lăn chuột xuống này bạn
+[27:25] đấy bây giờ có lăn chuột xuống này bạn thấy cho thì cái hàng thứ hai nó luôn
+[27:27] thấy cho thì cái hàng thứ hai nó luôn luôn hiện ở đây nó không bị trôi đi đấy
+[27:30] luôn hiện ở đây nó không bị trôi đi đấy đấy là cái chức năng pin khá là hay mình
+[27:33] đấy là cái chức năng pin khá là hay mình lại infiniband đẩy cái thần view nó như
+[27:36] lại infiniband đẩy cái thần view nó như thế thôi nhá xanh cái phần thép này cái
+[27:39] thế thôi nhá xanh cái phần thép này cái thép Vậy thì thông thường thì mình hay
+[27:41] thép Vậy thì thông thường thì mình hay nép mình dùng cái việc mà mình gõ cái
+[27:44] nép mình dùng cái việc mà mình gõ cái công thức đợi thì toàn và ghép các bạn
+[27:46] công thức đợi thì toàn và ghép các bạn thích của thép ở đây này
+[27:47] thích của thép ở đây này Ừ thì nó sẽ hiện cái cửa sổ hét nhé Thì
+[27:50] Ừ thì nó sẽ hiện cái cửa sổ hét nhé Thì tùy cái phiên bản khác nhau Ví dụ mình
+[27:52] tùy cái phiên bản khác nhau Ví dụ mình muốn xem là cái hàm xong nó như thế nào
+[27:55] muốn xem là cái hàm xong nó như thế nào thì bạn gõ xong rồi đấy cậu enter đấy
+[27:59] thì bạn gõ xong rồi đấy cậu enter đấy thì nó sẽ hiện 1 số cái kết quả đây thì
+[28:00] thì nó sẽ hiện 1 số cái kết quả đây thì mặc định Thông thường thì người ta hay
+[28:02] mặc định Thông thường thì người ta hay tìm cái săm phân xưởng ở đây nhất đúng
+[28:04] tìm cái săm phân xưởng ở đây nhất đúng không Samsung phân xưởng tiếng Anh là
+[28:06] không Samsung phân xưởng tiếng Anh là hàng có tính mở lại thì nó sẽ giới thiệu
+[28:09] hàng có tính mở lại thì nó sẽ giới thiệu cho bạn cách sử dụng của cái hòm xong
+[28:10] cho bạn cách sử dụng của cái hòm xong này Đấy nó còn có video coi đây để con
+[28:13] này Đấy nó còn có video coi đây để con dùng nhất Rất là hay Nếu như các bạn là
+[28:15] dùng nhất Rất là hay Nếu như các bạn là không biết cách sử dụng các hành với bạn
+[28:16] không biết cách sử dụng các hành với bạn vào đây theo dõi nhé Ok như vậy mình đã
+[28:20] vào đây theo dõi nhé Ok như vậy mình đã giới thiệu xong các cái thẻ trên này rồi
+[28:22] giới thiệu xong các cái thẻ trên này rồi nhá Còn cái trên này là diện trên này nó
+[28:24] nhá Còn cái trên này là diện trên này nó gọi là các thần Michael Excel tool để
+[28:26] gọi là các thần Michael Excel tool để rất là một suối công cụ hay dùng thì nó
+[28:29] rất là một suối công cụ hay dùng thì nó sẽ để trên mạng ví dụ các bạn chuyển cái
+[28:31] sẽ để trên mạng ví dụ các bạn chuyển cái thẻ nào các bạn chuyển bất cứ cái thẻ
+[28:32] thẻ nào các bạn chuyển bất cứ cái thẻ nào ấy thì cái cuốc setool3 này nó luôn
+[28:35] nào ấy thì cái cuốc setool3 này nó luôn luôn cố định như thế này Đấy nó không hề
+[28:36] luôn cố định như thế này Đấy nó không hề thay đổi đúng không phải ví dụ mình ăn
+[28:38] thay đổi đúng không phải ví dụ mình ăn đu nhá tìm cái ăn đu mình hay dùng thì
+[28:41] đu nhá tìm cái ăn đu mình hay dùng thì mình sẽ thích ở đây thì mình sẽ ăn đu
+[28:43] mình sẽ thích ở đây thì mình sẽ ăn đu các bước vừa xong đấy bước vào xong đang
+[28:44] các bước vừa xong đấy bước vào xong đang là cái những cái kết nghe vì abdul thì
+[28:47] là cái những cái kết nghe vì abdul thì nó sẽ
+[28:47] nó sẽ ở đây nè đây ở đây là cái lum cũng hay
+[28:50] ở đây nè đây ở đây là cái lum cũng hay dùng để thì nó sẽ hiện ở đây Đây là cái
+[28:53] dùng để thì nó sẽ hiện ở đây Đây là cái đĩa Thế là mình sẽ lưu file thì nó cũng
+[28:55] đĩa Thế là mình sẽ lưu file thì nó cũng hay dùng gỡ tích ở đây Đây là cái quy
+[28:57] hay dùng gỡ tích ở đây Đây là cái quy tắc setool3 tiếp theo là ở dưới này nhé
+[29:00] tắc setool3 tiếp theo là ở dưới này nhé cạn túi ở dưới này nó có một số các
+[29:02] cạn túi ở dưới này nó có một số các thành phần Đây là cái phóng to thu nhỏ
+[29:03] thành phần Đây là cái phóng to thu nhỏ Các bạn có thể tích mà cái dấu cộng này
+[29:05] Các bạn có thể tích mà cái dấu cộng này để còn thấy cho cái này nó sẽ to ra hoặc
+[29:08] để còn thấy cho cái này nó sẽ to ra hoặc bạn diện bạn tích vào cái cái nút đây
+[29:10] bạn diện bạn tích vào cái cái nút đây này có bạn giữ cho trái bạn kéo lại thì
+[29:12] này có bạn giữ cho trái bạn kéo lại thì họ sẽ phóng to Có ạ sang trái là thu nhỏ
+[29:14] họ sẽ phóng to Có ạ sang trái là thu nhỏ vậy sang phải là phóng to đấy thì thông
+[29:18] vậy sang phải là phóng to đấy thì thông thường mình hay để là một trăm phần trăm
+[29:19] thường mình hay để là một trăm phần trăm đúng không Đây nó có một số cái phím tắt
+[29:22] đúng không Đây nó có một số cái phím tắt để lo mờ này Đây là Tết me và cái page
+[29:25] để lo mờ này Đây là Tết me và cái page Break preview đại tướng được 3 cái chức
+[29:27] Break preview đại tướng được 3 cái chức năng ở trên này thôi ngoài ra thì các
+[29:29] năng ở trên này thôi ngoài ra thì các bạn Thúy nhất cho mình ở đây là cái
+[29:30] bạn Thúy nhất cho mình ở đây là cái thanh trạng thái là spa Đây là cái vùng
+[29:33] thanh trạng thái là spa Đây là cái vùng này bây giờ ví dụ khi các bạn Bun đ2ô
+[29:35] này bây giờ ví dụ khi các bạn Bun đ2ô này nhá Đấy bạn thấy chứ thì nó sẽ hiện
+[29:38] này nhá Đấy bạn thấy chứ thì nó sẽ hiện một số thông tin là tổng của hai ôm mình
+[29:40] một số thông tin là tổng của hai ôm mình Bôi đen lúc nãy là 16 này cao Đấy Thế là
+[29:43] Bôi đen lúc nãy là 16 này cao Đấy Thế là có hai cái ôm mình bôi và trung bình là
+[29:45] có hai cái ôm mình bôi và trung bình là 8 đấy các bạn có thể lấy được phải
+[29:47] 8 đấy các bạn có thể lấy được phải các bạn thêm các cái hành tương ứng Ví
+[29:49] các bạn thêm các cái hành tương ứng Ví dụ mình chọn là minimart lại mắc thêm
+[29:51] dụ mình chọn là minimart lại mắc thêm nữa để qua sự tích vào ô bất kỳ để mình
+[29:54] nữa để qua sự tích vào ô bất kỳ để mình thoát ra còn thấy cho Đấy nó sẽ hiện cái
+[29:56] thoát ra còn thấy cho Đấy nó sẽ hiện cái điện Min và mắc viên nhỏ nhất là 3 và
+[30:00] điện Min và mắc viên nhỏ nhất là 3 và mắc là 13 đúng không ạ Nếu như các bạn
+[30:02] mắc là 13 đúng không ạ Nếu như các bạn muốn bỏ cái thông tin nào ấy thì bạn
+[30:04] muốn bỏ cái thông tin nào ấy thì bạn nhấn phải các bạn lại thích vào đây đâu
+[30:05] nhấn phải các bạn lại thích vào đây đâu Ví dụ mình bỏ Mini mình để bác thôi Chả
+[30:07] Ví dụ mình bỏ Mini mình để bác thôi Chả thế đấy thì nó mất Min rồi nó chỉ cần
+[30:09] thế đấy thì nó mất Min rồi nó chỉ cần mắt thôi Đây là cái Thanh cái thứ ba
+[30:11] mắt thôi Đây là cái Thanh cái thứ ba cũng rất là hay dùng trong trường hợp
+[30:13] cũng rất là hay dùng trong trường hợp mình Bôi đen nhanh lên ví dụ mình bol4
+[30:15] mình Bôi đen nhanh lên ví dụ mình bol4 ngôn này thì mình biết là diện cao bằng
+[30:17] ngôn này thì mình biết là diện cao bằng 4 tấc là mình lựa chọn 40 ô lại Ví dụ
+[30:20] 4 tấc là mình lựa chọn 40 ô lại Ví dụ mình Bôi đen 32 ôn này thì mặc dù các
+[30:22] mình Bôi đen 32 ôn này thì mặc dù các bạn là bốn ông á Nhưng mà cao ở đây nó
+[30:25] bạn là bốn ông á Nhưng mà cao ở đây nó bằng 3 tức là gì ạ một ô đang rỗng không
+[30:27] bằng 3 tức là gì ạ một ô đang rỗng không có giá trị đúng không ạ Và Các trung
+[30:29] có giá trị đúng không ạ Và Các trung bình ở đây bản chất là trung bình bao
+[30:30] bình ở đây bản chất là trung bình bao thôi nhưng nếu nào rỗi thì nó chứ không
+[30:32] thôi nhưng nếu nào rỗi thì nó chứ không tính vào đây Đấy trung bình là trung
+[30:35] tính vào đây Đấy trung bình là trung bình của ba u đến cũng đến có bao lâu
+[30:37] bình của ba u đến cũng đến có bao lâu thôi bác là 13 và tổng của bao này là 26
+[30:40] thôi bác là 13 và tổng của bao này là 26 đấy Cái tên thứ ba này khá là quan trọng
+[30:42] đấy Cái tên thứ ba này khá là quan trọng Đấy Ok cuối cùng là mình sẽ vào cái phần
+[30:45] Đấy Ok cuối cùng là mình sẽ vào cái phần câu hỏi cho cái video của cái
+[30:47] câu hỏi cho cái video của cái Cả ngày hôm nay câu hỏi thứ nhất là gì
+[30:49] Cả ngày hôm nay câu hỏi thứ nhất là gì Có thể thêm các công cụ khác và phải tan
+[30:52] Có thể thêm các công cụ khác và phải tan truy cập nhanh không là cách cắt và may
+[30:54] truy cập nhanh không là cách cắt và may Quick access toolbar này đây nhỉ Cho mở
+[30:57] Quick access toolbar này đây nhỉ Cho mở cái xe gọi xe mà nơi này các máy quét
+[31:00] cái xe gọi xe mà nơi này các máy quét shuba tốt là mình có thể thêm các cái
+[31:02] shuba tốt là mình có thể thêm các cái chức năng vào đây không lại ví dụ các
+[31:04] chức năng vào đây không lại ví dụ các chức năng là gì Ví dụ cái tăng giữa là
+[31:06] chức năng là gì Ví dụ cái tăng giữa là mình hay dùng hạn thế nhá hoặc là gì cái
+[31:08] mình hay dùng hạn thế nhá hoặc là gì cái tô đậm in nghiêng hoặc là gì đấy hoặc là
+[31:11] tô đậm in nghiêng hoặc là gì đấy hoặc là cái phần trăm mà mình hay dùng ấy thì
+[31:13] cái phần trăm mà mình hay dùng ấy thì mình sẽ kéo lên đây hoặc là cái mất đây
+[31:15] mình sẽ kéo lên đây hoặc là cái mất đây tìm mình muốn kéo cái gì đến nay có được
+[31:17] tìm mình muốn kéo cái gì đến nay có được hay không đây là câu hỏi số 1 nhé câu
+[31:21] hay không đây là câu hỏi số 1 nhé câu hỏi số 2 là mình có thể thay đổi với
+[31:23] hỏi số 2 là mình có thể thay đổi với Phong 2 cỡ chữ mặc định khi tạo một file
+[31:25] Phong 2 cỡ chữ mặc định khi tạo một file mới hay không khi các bạn tạo một cái
+[31:27] mới hay không khi các bạn tạo một cái file mới nhá Thì cái mặc định của nó là
+[31:29] file mới nhá Thì cái mặc định của nó là cái calibri và cái phong là 11 này thì
+[31:32] cái calibri và cái phong là 11 này thì bây giờ mình muốn thì mình có tại một
+[31:34] bây giờ mình muốn thì mình có tại một cái mặt mịn khác ví dụ là có chữ 14 và
+[31:37] cái mặt mịn khác ví dụ là có chữ 14 và cái phong là Arirang để hạn chế hoặc là
+[31:39] cái phong là Arirang để hạn chế hoặc là tham như Roman hạn thế nhé Mình muốn mặc
+[31:41] tham như Roman hạn thế nhé Mình muốn mặc định thì mình có làm được hay không thì
+[31:43] định thì mình có làm được hay không thì đấy là hai cái câu hỏi cho các bạn nhé
+[31:44] đấy là hai cái câu hỏi cho các bạn nhé các bạn hãy comment Đấy phần trả lời ở
+[31:46] các bạn hãy comment Đấy phần trả lời ở phía dưới
+[31:47] phía dưới Ừ Ok như vậy là mình đã kết thúc bài học
+[31:50] Ừ Ok như vậy là mình đã kết thúc bài học ngày hôm nay ở đây cảm ơn các bạn đã
+[31:52] ngày hôm nay ở đây cảm ơn các bạn đã theo dõi các bạn nhớ đăng ký Kênh để cập
+[31:54] theo dõi các bạn nhớ đăng ký Kênh để cập nhật video mới nhất của gà cũng như chia
+[31:56] nhật video mới nhất của gà cũng như chia sẻ để giúp mọi người cùng học Excel nhé
+[31:58] sẻ để giúp mọi người cùng học Excel nhé Xin chào và hẹn gặp lại ở

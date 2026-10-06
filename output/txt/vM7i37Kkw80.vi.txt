@@ -1,0 +1,604 @@
+[00:01] Chào mừng các bạn đến với khóa học excel miễn phí từ cơ bản đến nâng cao dành cho
+[00:04] miễn phí từ cơ bản đến nâng cao dành cho người mới bắt đầu được thực hiện trên
+[00:06] người mới bắt đầu được thực hiện trên kênh YouTube gà Excel bài số 24 record
+[00:10] kênh YouTube gà Excel bài số 24 record macro các bạn sẽ mở cái file này lên nhé
+[00:13] macro các bạn sẽ mở cái file này lên nhé bài học hôm nay gồm có hai phần đầu tiên
+[00:16] bài học hôm nay gồm có hai phần đầu tiên sẽ là giới thiệu về record macro thứ hai
+[00:19] sẽ là giới thiệu về record macro thứ hai là các ví dụ cơ bản và nâng cao ở đây
+[00:21] là các ví dụ cơ bản và nâng cao ở đây mình có ba ví dụ đây trong ví dụ đầu
+[00:24] mình có ba ví dụ đây trong ví dụ đầu tiên ấy Đây là một cái bảng mục lục Khi
+[00:26] tiên ấy Đây là một cái bảng mục lục Khi mà mình tích vào dữ liệu 1 thì nó sẽ
+[00:28] mà mình tích vào dữ liệu 1 thì nó sẽ nhảy về cái shit dữ liệu 1 Sau đó mình
+[00:30] nhảy về cái shit dữ liệu 1 Sau đó mình tích vào đây mình quay về cái trang chủ
+[00:32] tích vào đây mình quay về cái trang chủ ở đây sau đó mình muốn chuyển về dữ liệu
+[00:34] ở đây sau đó mình muốn chuyển về dữ liệu 3 chẳng hạn thì mình sẽ tích vào dữ liệu
+[00:36] 3 chẳng hạn thì mình sẽ tích vào dữ liệu 3 đấy nó sẽ nhảy đến cái shit dữ liệu 3
+[00:38] 3 đấy nó sẽ nhảy đến cái shit dữ liệu 3 ở đây sau đó các bạn tích vào Quay về
+[00:41] ở đây sau đó các bạn tích vào Quay về trang chủ các bạn có thể tích vào dữ
+[00:43] trang chủ các bạn có thể tích vào dữ liệu ha trong ví dụ thứ hai mình giới
+[00:45] liệu ha trong ví dụ thứ hai mình giới thiệu các bạn là các bạn sẽ nhập dữ liệu
+[00:47] thiệu các bạn là các bạn sẽ nhập dữ liệu tự động ở đây ví dụ đây là dữ liệu mà
+[00:50] tự động ở đây ví dụ đây là dữ liệu mà các bạn sau khi nhập bây giờ Giả sử ta
+[00:52] các bạn sau khi nhập bây giờ Giả sử ta nhập thêm một nhân viên mới nhá mã nhân
+[00:54] nhập thêm một nhân viên mới nhá mã nhân viên Ví dụ mình nhập là 4 đi Họ và tên
+[00:57] viên Ví dụ mình nhập là 4 đi Họ và tên là gá Excel
+[01:00] là gá Excel kế hoạch ví dụ kế hoạch Doanh thu là 12
+[01:02] kế hoạch ví dụ kế hoạch Doanh thu là 12 đô chẳng hạn mà mục tiêu ở đây là 15 đấy
+[01:06] đô chẳng hạn mà mục tiêu ở đây là 15 đấy các bạn tích vào nhập liệu đấy các bạn
+[01:08] các bạn tích vào nhập liệu đấy các bạn chuyển sang cái shit data này Đấy mình
+[01:10] chuyển sang cái shit data này Đấy mình đã nhập thêm được cái nhân viên tiếp
+[01:12] đã nhập thêm được cái nhân viên tiếp theo là g Excel đấy ví dụ mình muốn nhập
+[01:15] theo là g Excel đấy ví dụ mình muốn nhập nhân viên mới tiếp tục mình điền vào đây
+[01:17] nhân viên mới tiếp tục mình điền vào đây mã nhân viên tiếp theo là số 5 chẳng hạn
+[01:19] mã nhân viên tiếp theo là số 5 chẳng hạn tên là gì Excel chicken chẳng hạn nhá kế
+[01:23] tên là gì Excel chicken chẳng hạn nhá kế hoạch gì ạ 100 đấy mục tiêu là 120 chẳng
+[01:27] hoạch gì ạ 100 đấy mục tiêu là 120 chẳng hạn các bạn tích vào nhập liệu trong
+[01:29] hạn các bạn tích vào nhập liệu trong trong cái shit data này đã nhập được tên
+[01:31] trong cái shit data này đã nhập được tên nhân viên thứ năm trong ví dụ tiếp theo
+[01:34] nhân viên thứ năm trong ví dụ tiếp theo ấy Mình hướng dẫn các bạn là tìm kiếm
+[01:36] ấy Mình hướng dẫn các bạn là tìm kiếm giả sử ở đây mình có danh sách các sinh
+[01:38] giả sử ở đây mình có danh sách các sinh viên của một trường đại học Ví dụ mình
+[01:41] viên của một trường đại học Ví dụ mình cần tìm bạn nào họ Nguyễn chẳng hạn nhá
+[01:43] cần tìm bạn nào họ Nguyễn chẳng hạn nhá Đấy thì các bạn tích vào gì ạ Tìm kiếm
+[01:46] Đấy thì các bạn tích vào gì ạ Tìm kiếm nó sẽ trả về danh sách các cái bạn mà có
+[01:48] nó sẽ trả về danh sách các cái bạn mà có họ là Nguyễn Nguyễn Văn và Nguyễn Đức ở
+[01:51] họ là Nguyễn Nguyễn Văn và Nguyễn Đức ở đây Đấy Bây giờ ví dụ mình muốn tìm mới
+[01:53] đây Đấy Bây giờ ví dụ mình muốn tìm mới nhá mình sẽ tích vào đây để mình xóa đi
+[01:55] nhá mình sẽ tích vào đây để mình xóa đi giả sử mình tìm cái bạn nào giới tính là
+[01:57] giả sử mình tìm cái bạn nào giới tính là con gái nhá Đấy thì các bạn sẽ tích vào
+[02:00] con gái nhá Đấy thì các bạn sẽ tích vào Tìm kiếm đấy nó sẽ ra danh sách cho các
+[02:02] Tìm kiếm đấy nó sẽ ra danh sách cho các bạn tất cả các bạn nữ ở đây ví dụ mình
+[02:04] bạn tất cả các bạn nữ ở đây ví dụ mình tìm là con gái và tên là và có họ là
+[02:07] tìm là con gái và tên là và có họ là Nguyễn nhá mình sẽ xóa dữ liệu đi mình
+[02:09] Nguyễn nhá mình sẽ xóa dữ liệu đi mình tích vào tìm mới mình tìm là gọ Nguyễn
+[02:12] tích vào tìm mới mình tìm là gọ Nguyễn và điều kiện thứ hai là con gái đấy các
+[02:16] và điều kiện thứ hai là con gái đấy các bạn sẽ tích vào tìm kiếm như vậy chỉ có
+[02:18] bạn sẽ tích vào tìm kiếm như vậy chỉ có một bạn mà thỏa mãn điều kiện là họ mà
+[02:20] một bạn mà thỏa mãn điều kiện là họ mà có họ là Nguyễn và giới tính là gái đấy
+[02:24] có họ là Nguyễn và giới tính là gái đấy Ok Nào mình cùng bắt đầu bài học ngày
+[02:26] Ok Nào mình cùng bắt đầu bài học ngày hôm nay
+[02:37] đây là file dữ liệu mà sau khi các bạn đã tải về nhá các bạn chú ý nhé link tải
+[02:39] đã tải về nhá các bạn chú ý nhé link tải file để các bạn thực hành ở trong phần
+[02:41] file để các bạn thực hành ở trong phần mô tả phía dưới video nhá các bạn có thể
+[02:43] mô tả phía dưới video nhá các bạn có thể tích Vào link để các bạn tải về và các
+[02:45] tích Vào link để các bạn tải về và các bạn thực hành cùng mình record macro ấ
+[02:47] bạn thực hành cùng mình record macro ấ là một cái công cụ trong Excel để các
+[02:50] là một cái công cụ trong Excel để các bạn làm quen với cả lập trình vba record
+[02:53] bạn làm quen với cả lập trình vba record macro ấy thì nó sẽ giúp các bạn là nếu
+[02:56] macro ấy thì nó sẽ giúp các bạn là nếu như mà bạn không biết được cái lệnh nào
+[02:57] như mà bạn không biết được cái lệnh nào Ví dụ như là vl Cup mình sử dụng như như
+[02:59] Ví dụ như là vl Cup mình sử dụng như như thế nào thì các bạn có thể record nó rồi
+[03:01] thế nào thì các bạn có thể record nó rồi các bạn sẽ xem được là cái cách để dùng
+[03:03] các bạn sẽ xem được là cái cách để dùng lệnh vl Cup hoặc là cách tô màu hoặc là
+[03:06] lệnh vl Cup hoặc là cách tô màu hoặc là cách để các bạn filter thì các bạn đều
+[03:09] cách để các bạn filter thì các bạn đều có thể record Sau đó các bạn sẽ biết
+[03:11] có thể record Sau đó các bạn sẽ biết được là cách sử dụng thứ hai là với
+[03:13] được là cách sử dụng thứ hai là với những bạn mà không có khả năng lập trình
+[03:15] những bạn mà không có khả năng lập trình ấy thì các bạn hoàn toàn các bạn có thể
+[03:17] ấy thì các bạn hoàn toàn các bạn có thể sử dụng record macro để các bạn tạo ra
+[03:19] sử dụng record macro để các bạn tạo ra được những cái công cụ mà như vừa nãy
+[03:21] được những cái công cụ mà như vừa nãy mình đã chạy thử cho các bạn nhé thì đầu
+[03:24] mình đã chạy thử cho các bạn nhé thì đầu tiên ý để dùng được record macro ấ thì
+[03:26] tiên ý để dùng được record macro ấ thì các bạn vào thẻ developer này các bạn
+[03:28] các bạn vào thẻ developer này các bạn chú ý nhá Nếu như bạn nào mà không có
+[03:30] chú ý nhá Nếu như bạn nào mà không có cái thẻ developer ấy thì các bạn các bạn
+[03:33] cái thẻ developer ấy thì các bạn các bạn nháy chuột phải vào bất kỳ một cái vị
+[03:35] nháy chuột phải vào bất kỳ một cái vị trí nào trên cái thanh ribon này các bạn
+[03:37] trí nào trên cái thanh ribon này các bạn chọn customizer
+[03:39] chọn customizer ribon đấy thì trong cái Tab customize
+[03:43] ribon đấy thì trong cái Tab customize ribon này Các bạn nhìn sang bên phải đây
+[03:44] ribon này Các bạn nhìn sang bên phải đây này Nó có cái chữ developer đây này nếu
+[03:47] này Nó có cái chữ developer đây này nếu các bạn nào thấy trắng ấy thì các bạn
+[03:48] các bạn nào thấy trắng ấy thì các bạn tích vào đây sau đó các bạn tích ok nhá
+[03:51] tích vào đây sau đó các bạn tích ok nhá thì ở đây mình đã tích rồi thì thôi nhá
+[03:53] thì ở đây mình đã tích rồi thì thôi nhá Đấy sau đó các bạn vào thẻ developer Các
+[03:56] Đấy sau đó các bạn vào thẻ developer Các bạn chọn record macro thì đầu tiên ý nó
+[03:59] bạn chọn record macro thì đầu tiên ý nó sẽ hiện một cái thông báo ở đây là tên
+[04:01] sẽ hiện một cái thông báo ở đây là tên macro các bạn cần đặt tên ở đây thì nó
+[04:04] macro các bạn cần đặt tên ở đây thì nó để mặc định thì các bạn có thể đổi tên
+[04:05] để mặc định thì các bạn có thể đổi tên là gì ạ ghi macro các bạn chú ý nhá tên
+[04:09] là gì ạ ghi macro các bạn chú ý nhá tên thì các bạn phải viết liền và không có
+[04:10] thì các bạn phải viết liền và không có dấu thành phần thứ hai là cái phím tắt
+[04:13] dấu thành phần thứ hai là cái phím tắt mà các bạn có thể cần để các bạn tạo cho
+[04:15] mà các bạn có thể cần để các bạn tạo cho cái macro này thì các bạn có thể đánh
+[04:17] cái macro này thì các bạn có thể đánh hoặc không ạ thì thực sự thì trong Excel
+[04:20] hoặc không ạ thì thực sự thì trong Excel nó có rất nhiều phím tắt thì nếu mà các
+[04:22] nó có rất nhiều phím tắt thì nếu mà các bạn đặt trùng ấy thì nó sẽ dẫn đến xung
+[04:24] bạn đặt trùng ấy thì nó sẽ dẫn đến xung đột và đôi khi nó sẽ chạy sai cho cả
+[04:27] đột và đôi khi nó sẽ chạy sai cho cả macro và cả cái phím tắt kia nữa thì nếu
+[04:30] macro và cả cái phím tắt kia nữa thì nếu mà không thực sự cần thiết ấ thì các bạn
+[04:31] mà không thực sự cần thiết ấ thì các bạn cũng không nên tạo phiếm Tắt ở
+[04:33] cũng không nên tạo phiếm Tắt ở đây tiếp theo ấ là cái thành phần ở đây
+[04:36] đây tiếp theo ấ là cái thành phần ở đây thì có ba cái thành phần để mình lưu cái
+[04:38] thì có ba cái thành phần để mình lưu cái macro này thì một là personal macro
+[04:41] macro này thì một là personal macro workbook hai là new workbook tức là một
+[04:43] workbook hai là new workbook tức là một tạo file mới và thứ ba là Z workbook
+[04:46] tạo file mới và thứ ba là Z workbook thường thì mình sẽ chọn zbook Tức là cái
+[04:48] thường thì mình sẽ chọn zbook Tức là cái g macro này nó chỉ có tác dụng trên cái
+[04:50] g macro này nó chỉ có tác dụng trên cái file này thôi ở đây là cái mô tả thì các
+[04:53] file này thôi ở đây là cái mô tả thì các bạn có thể mô tả bất kỳ các bạn gì Các
+[04:55] bạn có thể mô tả bất kỳ các bạn gì Các bạn muốn ạ ví dụ các bạn mô tả là học
+[04:57] bạn muốn ạ ví dụ các bạn mô tả là học này ghi macro trong Excel chẳng hạn
+[05:02] này ghi macro trong Excel chẳng hạn thế Ok mình tích vào ok thì sau khi các
+[05:05] thế Ok mình tích vào ok thì sau khi các bạn tích ok các bạn sẽ thấy ở đây nó sẽ
+[05:08] bạn tích ok các bạn sẽ thấy ở đây nó sẽ hiện một cái gọi là stop recording trong
+[05:09] hiện một cái gọi là stop recording trong trường hợp mà Nếu các bạn muốn dừng ghi
+[05:11] trường hợp mà Nếu các bạn muốn dừng ghi thì các bạn sẽ tích vào đây Hiện tại thì
+[05:14] thì các bạn sẽ tích vào đây Hiện tại thì mình đang ghi Ok mình sẽ mở cái cửa sổ
+[05:17] mình đang ghi Ok mình sẽ mở cái cửa sổ Visual basic cho các bạn dễ hiểu nha vây
+[05:20] Visual basic cho các bạn dễ hiểu nha vây mình thu nhỏ cái này lại thì sau khi mà
+[05:23] mình thu nhỏ cái này lại thì sau khi mà các bạn bấm record macro ấy thì ngay lập
+[05:25] các bạn bấm record macro ấy thì ngay lập tức ở bên Visual basic này cửa sổ đây nó
+[05:28] tức ở bên Visual basic này cửa sổ đây nó sẽ tạo ra một cái Module ở đây đây đấy
+[05:30] sẽ tạo ra một cái Module ở đây đây đấy Ghi macro đây chính là cái tên mà lúc
+[05:32] Ghi macro đây chính là cái tên mà lúc nấy mình tạo và ở đây là cái ghi chú của
+[05:34] nấy mình tạo và ở đây là cái ghi chú của mình là gì ạ học ghi macro trong
+[05:38] mình là gì ạ học ghi macro trong Excel Giả sử bây giờ mình muốn tô Cái ô
+[05:41] Excel Giả sử bây giờ mình muốn tô Cái ô này nhá tô chữ là bôi đậm đi thì các bạn
+[05:43] này nhá tô chữ là bôi đậm đi thì các bạn vào thẻ home các bạn cho Bôi đậm lên đấy
+[05:46] vào thẻ home các bạn cho Bôi đậm lên đấy xong Ví dụ mình cho màu là màu xanh này
+[05:48] xong Ví dụ mình cho màu là màu xanh này đi xong Bây giờ mình kẻ khung nữa đấy
+[05:52] đi xong Bây giờ mình kẻ khung nữa đấy các bạn sẽ thấy không Mỗi một cái lệnh
+[05:53] các bạn sẽ thấy không Mỗi một cái lệnh tương ứng ý thì ở đây nó sẽ sinh ra một
+[05:55] tương ứng ý thì ở đây nó sẽ sinh ra một cái tập code ở đây ví dụ mình gạch dưới
+[05:57] cái tập code ở đây ví dụ mình gạch dưới nữa chẳng hạn nhá Đấy thì các bạn thấy
+[05:59] nữa chẳng hạn nhá Đấy thì các bạn thấy không ở ở đây là gì ạ underline Đây bây
+[06:01] không ở ở đây là gì ạ underline Đây bây giờ sang bên này nhá mình lại bỏ gạch
+[06:03] giờ sang bên này nhá mình lại bỏ gạch dưới đi đấy thì nó mất cái gạch dưới đi
+[06:06] dưới đi đấy thì nó mất cái gạch dưới đi đy underline đây tức là mỗi một cái thao
+[06:08] đy underline đây tức là mỗi một cái thao tác bên này thì tương ứng là cái g macro
+[06:11] tác bên này thì tương ứng là cái g macro nó sẽ tạo ra một cái tập Lệnh tương ứng
+[06:13] nó sẽ tạo ra một cái tập Lệnh tương ứng với cả cái thao tác ở đây bên này của
+[06:15] với cả cái thao tác ở đây bên này của mình Ok bây giờ mình muốn sử dụng ứng
+[06:18] mình Ok bây giờ mình muốn sử dụng ứng dụng của cái ghi macro cho các cái ô
+[06:20] dụng của cái ghi macro cho các cái ô tiếp theo ở bên này nhá thì mình làm như
+[06:22] tiếp theo ở bên này nhá thì mình làm như thế nào Bây giờ mình sẽ dừng ghi nhá các
+[06:24] thế nào Bây giờ mình sẽ dừng ghi nhá các bạn vào thẻ developer các bạn tích vào
+[06:26] bạn vào thẻ developer các bạn tích vào cái nút vuông đây này Ở đây mình Phóng
+[06:27] cái nút vuông đây này Ở đây mình Phóng to ra các bạn tích vào đây để các bạn
+[06:30] to ra các bạn tích vào đây để các bạn dừng ghi hoặc các bạn có thể tích vào
+[06:31] dừng ghi hoặc các bạn có thể tích vào cái nút này này để các bạn dừng ghi nhá
+[06:33] cái nút này này để các bạn dừng ghi nhá ở đây mình stop đấy sau khi mình stop
+[06:36] ở đây mình stop đấy sau khi mình stop rồi thì như vậy mình đã có một cái macro
+[06:38] rồi thì như vậy mình đã có một cái macro mới là ghi macro bây giờ mình sẽ tạo một
+[06:41] mới là ghi macro bây giờ mình sẽ tạo một cái bom để mình chạy macro nhá đây các
+[06:43] cái bom để mình chạy macro nhá đây các bạn vào thẻ developer các bạn tích vào
+[06:45] bạn vào thẻ developer các bạn tích vào Insert này đấy các bạn có thể tạo cái gì
+[06:47] Insert này đấy các bạn có thể tạo cái gì đây bom ở đây để các bạn chạy nhá đây ví
+[06:50] đây bom ở đây để các bạn chạy nhá đây ví dụ mình tạo bom ở đây là gì ạ Các bạn có
+[06:53] dụ mình tạo bom ở đây là gì ạ Các bạn có thể gán vào luôn và ghi macro đây này
+[06:57] thể gán vào luôn và ghi macro đây này đấy ở đây mình có thể đổi tên nhá các
+[06:59] đấy ở đây mình có thể đổi tên nhá các bạn nháy chuột phải các bạn edit text đi
+[07:01] bạn nháy chuột phải các bạn edit text đi Đấy mình sẽ đổi tên là gì chạy chương
+[07:11] trình Ok đây các bạn nháy chuột phải nhá thì nó các bạn kéo rộng cái này ra Hoặc
+[07:14] thì nó các bạn kéo rộng cái này ra Hoặc là các bạn có thể gì ạ Các bạn vào
+[07:16] là các bạn có thể gì ạ Các bạn vào Insert này các bạn chọn cái hình xave
+[07:18] Insert này các bạn chọn cái hình xave đây này Mình sẽ chọn một cái hình đấy ở
+[07:22] đây này Mình sẽ chọn một cái hình đấy ở hình này cũng được và Mình sẽ bấm và gì
+[07:24] hình này cũng được và Mình sẽ bấm và gì ạ edit text mình cũng ghi là chạy chương
+[07:27] ạ edit text mình cũng ghi là chạy chương trình tức là các bạn có thể dùng cái này
+[07:30] trình tức là các bạn có thể dùng cái này để gán macro hoặc các bạn dùng cái kia
+[07:31] để gán macro hoặc các bạn dùng cái kia cũng đều được ạ Đấy ví dụ mình dùng cái
+[07:33] cũng đều được ạ Đấy ví dụ mình dùng cái này mình nháy chuột phải assign macro
+[07:35] này mình nháy chuột phải assign macro đấy thì hai cái nút này là tương đương
+[07:38] đấy thì hai cái nút này là tương đương nhau tại vì cùng gán đến cái macro kia
+[07:39] nhau tại vì cùng gán đến cái macro kia nhá Đấy mình có thể bỏ cái này
+[07:42] nhá Đấy mình có thể bỏ cái này đi ok Bây giờ mình chạy thử chương trình
+[07:45] đi ok Bây giờ mình chạy thử chương trình nhá Thì trước khi chạy chương trình mình
+[07:47] nhá Thì trước khi chạy chương trình mình sẽ clear format đi nhá mình vào ô này
+[07:48] sẽ clear format đi nhá mình vào ô này mình clear đi Các bạn vào thẻ home này
+[07:51] mình clear đi Các bạn vào thẻ home này xong mình vào clear các bạn clear format
+[07:54] xong mình vào clear các bạn clear format đấy thì cái ô này đã clear rồi Tức là
+[07:56] đấy thì cái ô này đã clear rồi Tức là cái dữ liệu ban đầu của mình Đây bây giờ
+[07:58] cái dữ liệu ban đầu của mình Đây bây giờ mình Bấm CH chương trình này đấy thì nó
+[08:01] mình Bấm CH chương trình này đấy thì nó mặc định là chỉ có cái ô này là bôi đậm
+[08:03] mặc định là chỉ có cái ô này là bôi đậm Thôi bây giờ mình muốn sửa là bây giờ
+[08:05] Thôi bây giờ mình muốn sửa là bây giờ mình tích vào ô nào đấy mình chạy thì nó
+[08:08] mình tích vào ô nào đấy mình chạy thì nó các cái ô nó phải là có format giống Cái
+[08:10] các cái ô nó phải là có format giống Cái ô này cơ thì các bạn làm như thế nào nhá
+[08:12] ô này cơ thì các bạn làm như thế nào nhá Bây giờ mình lại vào cái cửa sổ Visual
+[08:14] Bây giờ mình lại vào cái cửa sổ Visual basic thì các bạn chú ý nhá cái ô D9
+[08:17] basic thì các bạn chú ý nhá cái ô D9 Selection đây này chính là Cái ô này tức
+[08:19] Selection đây này chính là Cái ô này tức là tất cả cái Selection ở đây nó sẽ thay
+[08:21] là tất cả cái Selection ở đây nó sẽ thay bằng ô D9 Tức là nó chỉ có tác dụng
+[08:23] bằng ô D9 Tức là nó chỉ có tác dụng trong cái ô D9 thôi Thì bây giờ mình sẽ
+[08:25] trong cái ô D9 thôi Thì bây giờ mình sẽ bỏ cái lệnh này đi các bạn sẽ bấm cái
+[08:27] bỏ cái lệnh này đi các bạn sẽ bấm cái dấu nháy đơn ở trên này này Coi như nó
+[08:29] dấu nháy đơn ở trên này này Coi như nó sẽ chuyển thành chú tích hoặc các bạn có
+[08:31] sẽ chuyển thành chú tích hoặc các bạn có thể xóa đi nhá đều được bây giờ để chạy
+[08:33] thể xóa đi nhá đều được bây giờ để chạy được cái này như sau Bây giờ mình tích
+[08:34] được cái này như sau Bây giờ mình tích vào ô này các bạn chỉ cần bấm vào chạy
+[08:36] vào ô này các bạn chỉ cần bấm vào chạy chương trình thôi đấy thì thấy chưa tất
+[08:38] chương trình thôi đấy thì thấy chưa tất cả các cái dữ liệu đây đã được gì ạ Đổi
+[08:40] cả các cái dữ liệu đây đã được gì ạ Đổi màu này kẻ khung đấy Bây giờ mình Bôi
+[08:43] màu này kẻ khung đấy Bây giờ mình Bôi đen hết tất cả Đây mình bấm chạy chương
+[08:45] đen hết tất cả Đây mình bấm chạy chương trình đấy Tất Cả Cái ô này đã được tạo ở
+[08:48] trình đấy Tất Cả Cái ô này đã được tạo ở đây đấy thì các bạn chỉ cần xóa cái
+[08:50] đây đấy thì các bạn chỉ cần xóa cái Selection một cái ô đầu tiên thôi là các
+[08:52] Selection một cái ô đầu tiên thôi là các bạn sẽ có thể áp dụng được cho tất cả
+[08:54] bạn sẽ có thể áp dụng được cho tất cả các cái ô ở bên này Đấy là tính năng rất
+[08:56] các cái ô ở bên này Đấy là tính năng rất là tuyệt vời của record macro nhá bây
+[08:59] là tuyệt vời của record macro nhá bây giờ quay trở lại cái chương trình của
+[09:00] giờ quay trở lại cái chương trình của mình nhá Bây giờ mình phóng to lên mình
+[09:04] mình nhá Bây giờ mình phóng to lên mình đóng có thể đóng cái này lại rồi Các bạn
+[09:06] đóng có thể đóng cái này lại rồi Các bạn phóng to này lên bây giờ giả sử ở đây
+[09:10] phóng to này lên bây giờ giả sử ở đây mình có ba cái shit dữ liệu của các
+[09:12] mình có ba cái shit dữ liệu của các tháng đây dữ liệu một là dữ liệu của
+[09:14] tháng đây dữ liệu một là dữ liệu của tháng một dữ liệu hai là của tháng Hai
+[09:16] tháng một dữ liệu hai là của tháng Hai dữ liệu ba là của tháng 3 Đây là cửa sổ
+[09:18] dữ liệu ba là của tháng 3 Đây là cửa sổ main này cửa sổ chính để mình cần tạo
+[09:20] main này cửa sổ chính để mình cần tạo nhá thì đầu tiên các bạn sẽ vào Insert
+[09:23] nhá thì đầu tiên các bạn sẽ vào Insert này các bạn tạo một cái hình đây ví dụ
+[09:27] này các bạn tạo một cái hình đây ví dụ mình tạo một cái hình mới ở đây là gì
+[09:29] mình tạo một cái hình mới ở đây là gì mình có thể đặt tên nha các bạn nháy
+[09:31] mình có thể đặt tên nha các bạn nháy chuột phải các bạn edit text này mình sẽ
+[09:33] chuột phải các bạn edit text này mình sẽ đặt là dữ liệu 1 chẳng hạn thế nhá các
+[09:36] đặt là dữ liệu 1 chẳng hạn thế nhá các bạn có thể đặt bất kỳ hoặc là dữ liệu
+[09:37] bạn có thể đặt bất kỳ hoặc là dữ liệu tháng một cũng được x các bạn co này lại
+[09:40] tháng một cũng được x các bạn co này lại cho nó vừa cái khung này cho đẹp hoặc
+[09:43] cho nó vừa cái khung này cho đẹp hoặc các bạn tích đúp vào đây các bạn căn
+[09:45] các bạn tích đúp vào đây các bạn căn giữa mình vào thẻ home nhá mình căn giữa
+[09:47] giữa mình vào thẻ home nhá mình căn giữa ở đây đấy Nhìn nó sẽ đẹp hơn bây giờ các
+[09:49] ở đây đấy Nhìn nó sẽ đẹp hơn bây giờ các bạn giữ Ctrl và giữ chột trái các bạn
+[09:51] bạn giữ Ctrl và giữ chột trái các bạn kéo xuống Tức là mình sẽ copy cái khung
+[09:53] kéo xuống Tức là mình sẽ copy cái khung này Đấy xong r các bạn giữ chuột trái và
+[09:56] này Đấy xong r các bạn giữ chuột trái và giữ Ctrl các bạn kéo xuống đấy Bây giờ
+[09:58] giữ Ctrl các bạn kéo xuống đấy Bây giờ mình sửa s cái Tech này là dữ liệu tháng
+[10:00] mình sửa s cái Tech này là dữ liệu tháng Hai sửa cái này là dữ liệu tháng 3 bây
+[10:04] Hai sửa cái này là dữ liệu tháng 3 bây giờ mình kẻ khung này chẳng hạn thế các
+[10:06] giờ mình kẻ khung này chẳng hạn thế các bạn có thể tô
+[10:07] bạn có thể tô màu ví dụ đây còn trên này nhá thì ở đây
+[10:11] màu ví dụ đây còn trên này nhá thì ở đây mình sẽ ghi là gì ạ bảng mục lục này Bây
+[10:14] mình sẽ ghi là gì ạ bảng mục lục này Bây giờ các bạn sẽ bô đen Cái dữ liệu từ OC
+[10:17] giờ các bạn sẽ bô đen Cái dữ liệu từ OC đến of này cho mình xong các bạn nháy
+[10:18] đến of này cho mình xong các bạn nháy chuột phải các bạn vào format sell trong
+[10:22] chuột phải các bạn vào format sell trong cái phần alignment đây này các bạn tích
+[10:24] cái phần alignment đây này các bạn tích vào cái phần đây Các bạn chọn Center
+[10:26] vào cái phần đây Các bạn chọn Center across Selection đấy thì nó sẽ chuyển về
+[10:30] across Selection đấy thì nó sẽ chuyển về giữa cái vùng mình lựa chọn đây nhìn rất
+[10:31] giữa cái vùng mình lựa chọn đây nhìn rất là đẹp ạ Ok cái này mình có thể tô màu
+[10:34] là đẹp ạ Ok cái này mình có thể tô màu nhá Ví dụ mình cho màu đậm này đi chữ
+[10:38] nhá Ví dụ mình cho màu đậm này đi chữ động cho mục lục thì mình to lên đấy Ok
+[10:42] động cho mục lục thì mình to lên đấy Ok Bây giờ ta sẽ ghi một cái macro mới nhá
+[10:44] Bây giờ ta sẽ ghi một cái macro mới nhá các bạn tích vào record macro này mình
+[10:46] các bạn tích vào record macro này mình sẽ đặt tên là gì ạ tháng 1 đấy các bạn
+[10:49] sẽ đặt tên là gì ạ tháng 1 đấy các bạn tích ok tức là khi mình tích vào đây thì
+[10:52] tích ok tức là khi mình tích vào đây thì nó sẽ nhảy đến cái shit dữ liệu một ở
+[10:54] nó sẽ nhảy đến cái shit dữ liệu một ở đây đấy thì các bạn sau khi các bạn
+[10:56] đây đấy thì các bạn sau khi các bạn record nhá thì các bạn thấy không ngay
+[10:58] record nhá thì các bạn thấy không ngay cái biểu tượng stop recording để các bạn
+[10:59] cái biểu tượng stop recording để các bạn dừng Nếu các bạn muốn này thì các bạn
+[11:01] dừng Nếu các bạn muốn này thì các bạn chỉ cần tích vào cái dữ liệu tháng một ở
+[11:03] chỉ cần tích vào cái dữ liệu tháng một ở đây đấy thì lập tức này Bây giờ mình mở
+[11:06] đây đấy thì lập tức này Bây giờ mình mở cái cửa sổ Visual basic để các bạn hiểu
+[11:08] cái cửa sổ Visual basic để các bạn hiểu nhá lập tức gì ạ cái shit dữ liệu tháng
+[11:10] nhá lập tức gì ạ cái shit dữ liệu tháng 1 ở đây đã được select đấy rất là đơn
+[11:12] 1 ở đây đã được select đấy rất là đơn giản thế thôi các bạn chỉ cần stop
+[11:14] giản thế thôi các bạn chỉ cần stop recording đấy bây giờ quay được trở lại
+[11:17] recording đấy bây giờ quay được trở lại cái cửa sổ main nhá thì các bạn nháy
+[11:19] cái cửa sổ main nhá thì các bạn nháy chuột phải vào dữ liệu tháng 1 này các
+[11:20] chuột phải vào dữ liệu tháng 1 này các bạn assign macro các bạn sẽ tích vào cái
+[11:23] bạn assign macro các bạn sẽ tích vào cái gì ạ tháng 1 đấy như vậy bây giờ mình
+[11:26] gì ạ tháng 1 đấy như vậy bây giờ mình chỉ cần tích vào dữ liệu tháng 1 ở đây
+[11:27] chỉ cần tích vào dữ liệu tháng 1 ở đây Đấy nó đã nhảy đến dữ liệu tháng th một
+[11:29] Đấy nó đã nhảy đến dữ liệu tháng th một ở đây rồi Rất là hay cho các bạn ạ Thì
+[11:32] ở đây rồi Rất là hay cho các bạn ạ Thì bây giờ mình sẽ tạo một cái bom ở đây để
+[11:33] bây giờ mình sẽ tạo một cái bom ở đây để mình sẽ quay lại cái cửa sổ main ở đây
+[11:35] mình sẽ quay lại cái cửa sổ main ở đây nhá Thì mình cũng ghi một cái macro các
+[11:37] nhá Thì mình cũng ghi một cái macro các bạn tích vào record macro này thì ở đây
+[11:40] bạn tích vào record macro này thì ở đây mình sẽ là gì ạ quay lại này các bạn sẽ
+[11:43] mình sẽ là gì ạ quay lại này các bạn sẽ đặt là các bạn nhớ là viết liền nhá thì
+[11:45] đặt là các bạn nhớ là viết liền nhá thì mình có thể bấm shift trừ này quay lại
+[11:47] mình có thể bấm shift trừ này quay lại đấy quay lại main đi Tức là quay lại cái
+[11:49] đấy quay lại main đi Tức là quay lại cái cửa sổ chính nhá các bạn tích ok đấy thì
+[11:53] cửa sổ chính nhá các bạn tích ok đấy thì các bạn chỉ cần tích vào cái tháng Một
+[11:55] các bạn chỉ cần tích vào cái tháng Một đây mình mở cái cửa sổ Visual basic cho
+[11:58] đây mình mở cái cửa sổ Visual basic cho các bạn dễ hiểu nhá Đây này cái sub quay
+[12:00] các bạn dễ hiểu nhá Đây này cái sub quay lại main đây đã được tạo
+[12:03] lại main đây đã được tạo ra bây giờ các bạn chỉ cần tích vào cái
+[12:05] ra bây giờ các bạn chỉ cần tích vào cái main này này đấy thì nó sẽ lập tức nó
+[12:07] main này này đấy thì nó sẽ lập tức nó tạo một cái dòng lệnh mới là shit main
+[12:09] tạo một cái dòng lệnh mới là shit main đã được select rất là dễ cho các bạn đấy
+[12:12] đã được select rất là dễ cho các bạn đấy để các bạn hiểu thôi Bây giờ mình phóng
+[12:14] để các bạn hiểu thôi Bây giờ mình phóng to lên các bạn stop nhá Đấy như vậy mình
+[12:17] to lên các bạn stop nhá Đấy như vậy mình đã ghi được một cái macro là quay lại
+[12:19] đã ghi được một cái macro là quay lại cái bên này rồi Bây giờ mình sang cái SH
+[12:21] cái bên này rồi Bây giờ mình sang cái SH dữ liệu tháng 1 mình sẽ tạo một cái bom
+[12:31] đây mình ghi là gì ạ Các bạn nháy chuột phải các bạn edit text Mình ghi là gì ạ
+[12:33] phải các bạn edit text Mình ghi là gì ạ quay lại quay lại home nhá thì mình có
+[12:36] quay lại quay lại home nhá thì mình có thể bấm cái mũi tên này cho đẹp quay lại
+[12:40] thể bấm cái mũi tên này cho đẹp quay lại mục lục chẳng hạn nhá đấy các bạn kéo
+[12:44] mục lục chẳng hạn nhá đấy các bạn kéo rộng cái này
+[12:46] rộng cái này ra ok các bạn chú ý nhá trong này các
+[12:49] ra ok các bạn chú ý nhá trong này các bạn có thể chọn những cái hình mà các
+[12:50] bạn có thể chọn những cái hình mà các bạn muốn Ví dụ mình chọn cái hình này đi
+[12:53] bạn muốn Ví dụ mình chọn cái hình này đi Nhìn nó đẹp hơn thì các bạn chỉ cần tích
+[12:56] Nhìn nó đẹp hơn thì các bạn chỉ cần tích vào cái quay mục lục này nó sẽ quay lại
+[12:58] vào cái quay mục lục này nó sẽ quay lại Cửa sổ main Thì bây giờ mình sẽ gán nhá
+[12:59] Cửa sổ main Thì bây giờ mình sẽ gán nhá các bạn nháy chuột phải vào đây các bạn
+[13:01] các bạn nháy chuột phải vào đây các bạn vào assign macro mình sẽ gán vào cái
+[13:03] vào assign macro mình sẽ gán vào cái macro lúc đấy mình ghi là quay lại main
+[13:05] macro lúc đấy mình ghi là quay lại main này Đấy bây giờ các bạn tích vào đây Đấy
+[13:09] này Đấy bây giờ các bạn tích vào đây Đấy nó sẽ quay lại cái cửa sổ main ở đây cho
+[13:10] nó sẽ quay lại cái cửa sổ main ở đây cho các bạn đấy tương tự cho các bạn nhá Bây
+[13:13] các bạn đấy tương tự cho các bạn nhá Bây giờ mình ghi tháng hai nhá mình sẽ không
+[13:14] giờ mình ghi tháng hai nhá mình sẽ không giải thích nữa nhá thì các bạn sẽ vào
+[13:16] giải thích nữa nhá thì các bạn sẽ vào developer các bạn record macro mình sẽ
+[13:19] developer các bạn record macro mình sẽ đặt làở gì ạ tháng hai ok xong mình sẽ
+[13:23] đặt làở gì ạ tháng hai ok xong mình sẽ tích vào cái shit dữ liệu 2 này thôi đấy
+[13:26] tích vào cái shit dữ liệu 2 này thôi đấy xong mình stop lại đấy như vậy mình đã
+[13:29] xong mình stop lại đấy như vậy mình đã có một cái gọi là tháng hai rồi bây giờ
+[13:32] có một cái gọi là tháng hai rồi bây giờ mình quay cửa sổ main mình gán này các
+[13:33] mình quay cửa sổ main mình gán này các bạn nháy vào cái dữ liệu tháng hai mình
+[13:35] bạn nháy vào cái dữ liệu tháng hai mình assign IDE vào cái shit tháng ha ở đây
+[13:39] assign IDE vào cái shit tháng ha ở đây ok thì ở cái shit dữ liệu 2 này mình
+[13:41] ok thì ở cái shit dữ liệu 2 này mình cũng tạo một cái bom nhá thì mình quay
+[13:43] cũng tạo một cái bom nhá thì mình quay lại các bạn quay lại dữ liệu một mình có
+[13:45] lại các bạn quay lại dữ liệu một mình có thể copy này nháy chuột phải copy mình
+[13:48] thể copy này nháy chuột phải copy mình sang dữ liệu hai ở đây mình ctrl V hoặc
+[13:50] sang dữ liệu hai ở đây mình ctrl V hoặc là mình nháy chuột phải mình p nhá p đây
+[13:54] là mình nháy chuột phải mình p nhá p đây dữ liệu 3 cũng thế mình nháy chuột phải
+[13:55] dữ liệu 3 cũng thế mình nháy chuột phải mình p luôn đấy
+[13:59] mình p luôn đấy thì ở đây mình không cần tích nữa các
+[14:00] thì ở đây mình không cần tích nữa các bạn tích vào đây nó đã quay lại mục lục
+[14:02] bạn tích vào đây nó đã quay lại mục lục rồi dữ liệu 2 đây các bạn tích vào nó đã
+[14:05] rồi dữ liệu 2 đây các bạn tích vào nó đã tự quay lại mục lục cho các bạn rồi nhá
+[14:07] tự quay lại mục lục cho các bạn rồi nhá Đây bây giờ mình sẽ tích vào dữ liệu
+[14:09] Đây bây giờ mình sẽ tích vào dữ liệu tháng hai đấy các bạn sẽ thấy dữ liệu
+[14:11] tháng hai đấy các bạn sẽ thấy dữ liệu tháng hai đây Bây giờ mình ghi cái dữ
+[14:13] tháng hai đây Bây giờ mình ghi cái dữ liệu tháng ba nhá các bạn vào developer
+[14:15] liệu tháng ba nhá các bạn vào developer mình record macro Mình ghi ở đây là gì ạ
+[14:17] mình record macro Mình ghi ở đây là gì ạ tháng 3 đấy các bạn tích ok xong các bạn
+[14:21] tháng 3 đấy các bạn tích ok xong các bạn tích vào dữ liệu tháng ba thôi Đấy xong
+[14:23] tích vào dữ liệu tháng ba thôi Đấy xong mình sẽ stop ghi lại Ok bây mình tích
+[14:27] mình sẽ stop ghi lại Ok bây mình tích vào đây để mình quay lại Cửa sổ main nhá
+[14:29] vào đây để mình quay lại Cửa sổ main nhá thì ở đây các bạn chỉ cần nháy chuột
+[14:30] thì ở đây các bạn chỉ cần nháy chuột phải này assign macro mình sẽ assign vào
+[14:33] phải này assign macro mình sẽ assign vào tháng 3 đấy như vậy Xong bây giờ mình
+[14:36] tháng 3 đấy như vậy Xong bây giờ mình tích vào dữ liệu tháng 3 đấy nhảy về
+[14:38] tích vào dữ liệu tháng 3 đấy nhảy về tháng 3 r các bạn quay lại tích vào
+[14:41] tháng 3 r các bạn quay lại tích vào tháng hai đấy nó sẽ sang cái dữ liệu hai
+[14:43] tháng hai đấy nó sẽ sang cái dữ liệu hai mình tích vào quay lại dữ liệu 1 đây Các
+[14:46] mình tích vào quay lại dữ liệu 1 đây Các bạn thấy không và shift 1 mình bấm quay
+[14:49] bạn thấy không và shift 1 mình bấm quay lại Ok sang ví dụ thứ hai là nâng cao
+[14:52] lại Ok sang ví dụ thứ hai là nâng cao nhá thì bạn chú ý nhá ở đây là gì ạ Ở
+[14:55] nhá thì bạn chú ý nhá ở đây là gì ạ Ở đây là mình sẽ tạo cách để mình nhập dữ
+[14:58] đây là mình sẽ tạo cách để mình nhập dữ liệu tự động đấy đấy các bạn chỉ cần
+[14:59] liệu tự động đấy đấy các bạn chỉ cần nhập tên dữ liệu vào đây thôi xong là
+[15:01] nhập tên dữ liệu vào đây thôi xong là các bạn tích vào nhập dữ liệu thì nó sẽ
+[15:04] các bạn tích vào nhập dữ liệu thì nó sẽ nhập dữ liệu mới vào đây cho các bạn thì
+[15:06] nhập dữ liệu mới vào đây cho các bạn thì để làm việc này như sau nhá ở đây mình
+[15:08] để làm việc này như sau nhá ở đây mình tạo một cái bom trước đi Các bạn vào
+[15:10] tạo một cái bom trước đi Các bạn vào Insert hoặc các bạn có thể vào developer
+[15:13] Insert hoặc các bạn có thể vào developer đây mình Insert cái bom vàở đây cũng
+[15:15] đây mình Insert cái bom vàở đây cũng được Tùy các bạn nhá
+[15:17] được Tùy các bạn nhá Đấy mình chưa gán vội mình bấm cancel ở
+[15:20] Đấy mình chưa gán vội mình bấm cancel ở đây ở đây mình nháy phải này mình vào
+[15:23] đây ở đây mình nháy phải này mình vào edit text đấy mình xóa cái này đi mình
+[15:25] edit text đấy mình xóa cái này đi mình sẽ gán là gì ạ cập nhật
+[15:29] sẽ gán là gì ạ cập nhật đâ là chỉ là tên thôi các bạn có thể đặt
+[15:30] đâ là chỉ là tên thôi các bạn có thể đặt tên bất kỳ các bạn muốn nhá bây giờ Giả
+[15:33] tên bất kỳ các bạn muốn nhá bây giờ Giả sử ta nhập một nhân viên mới nhá là nhân
+[15:34] sử ta nhập một nhân viên mới nhá là nhân viên số này họ tên là g
+[15:37] viên số này họ tên là g Excel kế hoạch là 12 mục tiêu là 15 đấy
+[15:42] Excel kế hoạch là 12 mục tiêu là 15 đấy Bây giờ chúng ta làm cách nào để mình
+[15:44] Bây giờ chúng ta làm cách nào để mình tích vào CP nhật đây thì D liệ ở bên này
+[15:46] tích vào CP nhật đây thì D liệ ở bên này nó sẽ điền vào tiếp cái hàng tiếp theo
+[15:48] nó sẽ điền vào tiếp cái hàng tiếp theo thì cái này khó ở cái ch là gì Các bạn
+[15:50] thì cái này khó ở cái ch là gì Các bạn chú ý nhá khó cái ch mà khi bạn copy dữ
+[15:53] chú ý nhá khó cái ch mà khi bạn copy dữ liệu vào đây thì nó sẽ nhảy đến cái ô
+[15:54] liệu vào đây thì nó sẽ nhảy đến cái ô tiếp theo mà Nó không đè cái dữ liệu cũ
+[15:57] tiếp theo mà Nó không đè cái dữ liệu cũ thì nó nâng cao ở chỗ đấy nhá thì đầu
+[15:59] thì nó nâng cao ở chỗ đấy nhá thì đầu tiên các bạn vẫn chọn record macro cho
+[16:01] tiên các bạn vẫn chọn record macro cho mình ở đây mình sẽ đặt là gì ạ Ví dụ
+[16:04] mình ở đây mình sẽ đặt là gì ạ Ví dụ mình đặt là gì cập nhật dữ liệu này đấy
+[16:07] mình đặt là gì cập nhật dữ liệu này đấy các bạn tích vào ok thì đầu tiên các bạn
+[16:10] các bạn tích vào ok thì đầu tiên các bạn sẽ gì ạ Các bạn Bôi đen Cái phần này
+[16:12] sẽ gì ạ Các bạn Bôi đen Cái phần này xong các bạn copy các bạn nháy chuột
+[16:15] xong các bạn copy các bạn nháy chuột phải copy nhá sang cái shit data này này
+[16:19] phải copy nhá sang cái shit data này này đấy thì đầu tiên Các bạn nhớ là các bạn
+[16:20] đấy thì đầu tiên Các bạn nhớ là các bạn tích vào cái ô đầu tiên cho mình ở đây
+[16:22] tích vào cái ô đầu tiên cho mình ở đây là ô B3 Tức là cái hàng đầu tiên cột đầu
+[16:25] là ô B3 Tức là cái hàng đầu tiên cột đầu tiên của mình nhá mình tích vào đây xong
+[16:27] tiên của mình nhá mình tích vào đây xong các bạn giữ Ctrl và mũi ti tiên xuống
+[16:30] các bạn giữ Ctrl và mũi ti tiên xuống đấy xong các bạn sẽ chọn một cái là gì ạ
+[16:32] đấy xong các bạn sẽ chọn một cái là gì ạ Các bạn tích vào cái use relative
+[16:34] Các bạn tích vào cái use relative reference này tức là để lần sau mình có
+[16:37] reference này tức là để lần sau mình có ấy thì nó sẽ tự động nó dịch xuống một
+[16:39] ấy thì nó sẽ tự động nó dịch xuống một tích vào cái này khi các bạn tích xong
+[16:41] tích vào cái này khi các bạn tích xong thì các bạn thấy biểu tượng đấy nó hơi
+[16:42] thì các bạn thấy biểu tượng đấy nó hơi hơi thâm thâm nó mờ mờ đây này Đấy sau
+[16:44] hơi thâm thâm nó mờ mờ đây này Đấy sau các bạn ấn mũi tên xuống đấy ấn mũi tên
+[16:47] các bạn ấn mũi tên xuống đấy ấn mũi tên xuống xuống đây xong các bạn nháy chuột
+[16:49] xuống xuống đây xong các bạn nháy chuột phải này các bạn chọn p spal mình chọn
+[16:53] phải này các bạn chọn p spal mình chọn transpose transpose tức là gì mình sẽ
+[16:56] transpose transpose tức là gì mình sẽ chuyển dữ liệu cột thành hàng hoặc là
+[16:58] chuyển dữ liệu cột thành hàng hoặc là hàng thành cột Tức là mình sẽ chuyển
+[17:00] hàng thành cột Tức là mình sẽ chuyển ngược lại thì ở đây mình tích ok sau khi
+[17:02] ngược lại thì ở đây mình tích ok sau khi mình tích ok xong ấy thì các bạn tích bỏ
+[17:05] mình tích ok xong ấy thì các bạn tích bỏ cái you relative ref này Đấy xong mình
+[17:09] cái you relative ref này Đấy xong mình sẽ quay lại input đấy mình xóa cái dữ
+[17:11] sẽ quay lại input đấy mình xóa cái dữ liệu này đi Đấy Bây giờ mình sẽ stop ghi
+[17:14] liệu này đi Đấy Bây giờ mình sẽ stop ghi nhá Đấy Bây giờ mình sẽ nháy chuột phải
+[17:17] nhá Đấy Bây giờ mình sẽ nháy chuột phải vào cái bom này để mình gán macro này
+[17:19] vào cái bom này để mình gán macro này assign macro mình sẽ gán vào cái macro
+[17:22] assign macro mình sẽ gán vào cái macro là cập nhật dữ liệu bây giờ mình Bây giờ
+[17:25] là cập nhật dữ liệu bây giờ mình Bây giờ các bạn nhìn thấy ở đây nhá Đây có gà
+[17:26] các bạn nhìn thấy ở đây nhá Đây có gà Excel rồi đúng không Bây giờ mình ví dụ
+[17:29] Excel rồi đúng không Bây giờ mình ví dụ cập nhật số 3 ở đây là gì Ví dụ đây là
+[17:32] cập nhật số 3 ở đây là gì Ví dụ đây là Excel chicken
+[17:34] Excel chicken đây kế hoạch là ví dụ 20 mục tiêu là 10
+[17:38] đây kế hoạch là ví dụ 20 mục tiêu là 10 Chẳng hạn bây giờ mình tích vào cập nhật
+[17:41] Chẳng hạn bây giờ mình tích vào cập nhật đấy các bạn thấy chưa ở đây nó sẽ xóa đi
+[17:43] đấy các bạn thấy chưa ở đây nó sẽ xóa đi và ở trong cái phần data này nó đã cập
+[17:45] và ở trong cái phần data này nó đã cập nhật đến cái người thứ ba Ở đây bây giờ
+[17:48] nhật đến cái người thứ ba Ở đây bây giờ ví dụ mình nhập người thứ tư nhá mã Thứ
+[17:50] ví dụ mình nhập người thứ tư nhá mã Thứ tư này họ vào tên là gì ạ Nguyễn Văn A
+[17:54] tư này họ vào tên là gì ạ Nguyễn Văn A đấy kế hoạch là gì kế hoạch là 9 mục
+[17:57] đấy kế hoạch là gì kế hoạch là 9 mục tiêu là 10 9 chẳng hạn đấy các bạn tích
+[18:00] tiêu là 10 9 chẳng hạn đấy các bạn tích vào cập nhật đấy sang cái data này đấy
+[18:03] vào cập nhật đấy sang cái data này đấy các bạn thấy chưa đã cập nhật được nhân
+[18:04] các bạn thấy chưa đã cập nhật được nhân viên thứ tư trong cái này các bạn rất
+[18:06] viên thứ tư trong cái này các bạn rất chú ý cho mình là mình phải sử dụng cái
+[18:08] chú ý cho mình là mình phải sử dụng cái e relative reference này đấy thì nó mới
+[18:11] e relative reference này đấy thì nó mới có tác dụng nhá Còn cái Ctrl và mũi tiên
+[18:14] có tác dụng nhá Còn cái Ctrl và mũi tiên xuống ở đây ấ tức là khi cứ khi nào mình
+[18:15] xuống ở đây ấ tức là khi cứ khi nào mình có thêm một cái nhân viên mới thì mình
+[18:17] có thêm một cái nhân viên mới thì mình bấm Ctrl vào mũi tên xuống ở đây này thì
+[18:20] bấm Ctrl vào mũi tên xuống ở đây này thì nó sẽ xuống đến cái hàng cuối cùng đấy
+[18:22] nó sẽ xuống đến cái hàng cuối cùng đấy Sau đó thì mình sẽ sử dụng cái IR
+[18:24] Sau đó thì mình sẽ sử dụng cái IR relative này này để nó sẽ xuống cái ô
+[18:27] relative này này để nó sẽ xuống cái ô tiếp theo đấy là như thế đấy nhá tiếp
+[18:30] tiếp theo đấy là như thế đấy nhá tiếp theo là mình sang ví dụ Cuối Cùng Ở đây
+[18:31] theo là mình sang ví dụ Cuối Cùng Ở đây là tìm kiếm mình sẽ sử dụng là advan
+[18:34] là tìm kiếm mình sẽ sử dụng là advan filter Ok đây là dữ liệu ban đầu bây giờ
+[18:37] filter Ok đây là dữ liệu ban đầu bây giờ mình sẽ tạo table bằng cách Các bạn bấm
+[18:39] mình sẽ tạo table bằng cách Các bạn bấm Ctrl t nhá Hoặc là các bạn tích vào
+[18:41] Ctrl t nhá Hoặc là các bạn tích vào Insert này đấy các bạn tích vào table
+[18:43] Insert này đấy các bạn tích vào table đây Hoặc là các bạn bấm phím tắt là Ctrl
+[18:45] đây Hoặc là các bạn bấm phím tắt là Ctrl t ở đây này Đấy Ok thì nó sẽ mặc định nó
+[18:49] t ở đây này Đấy Ok thì nó sẽ mặc định nó Bôi đen tất cả cái vùng dữ liệu này của
+[18:50] Bôi đen tất cả cái vùng dữ liệu này của bạn là từ B2 đến j23 các bạn nhớ tích
+[18:53] bạn là từ B2 đến j23 các bạn nhớ tích chọn là My table head header nhá đấy các
+[18:56] chọn là My table head header nhá đấy các bạn tích ok đấy sau khi các bạn tạo
+[18:59] bạn tích ok đấy sau khi các bạn tạo table này Các bạn nhìn thấy chưa các bạn
+[19:00] table này Các bạn nhìn thấy chưa các bạn có thể đổi cái hình mẫu cho nó
+[19:03] có thể đổi cái hình mẫu cho nó đẹp Sau đó thì mình sẽ đặt tên table nhá
+[19:06] đẹp Sau đó thì mình sẽ đặt tên table nhá Cái table 1 là tên mặc định thì mình có
+[19:08] Cái table 1 là tên mặc định thì mình có thể đặt tên là gì ạ dữ liệu cũng được
+[19:10] thể đặt tên là gì ạ dữ liệu cũng được đấy các bạn enter như vậy Mình có một
+[19:13] đấy các bạn enter như vậy Mình có một cái table là tên là dữ liệu rồi nhá Bây
+[19:16] cái table là tên là dữ liệu rồi nhá Bây giờ mình quay trở lại cái tìm kiếm thì
+[19:18] giờ mình quay trở lại cái tìm kiếm thì cái Advance filter các bạn chú ý nhá các
+[19:20] cái Advance filter các bạn chú ý nhá các bạn phải làm trong cái shit tìm kiếm này
+[19:21] bạn phải làm trong cái shit tìm kiếm này này Tại vì khi các bạn copy dữ liệu ấ nó
+[19:24] này Tại vì khi các bạn copy dữ liệu ấ nó chỉ có tác dụng trong cái Active SH thôi
+[19:26] chỉ có tác dụng trong cái Active SH thôi Đấy tức là mình làm ở shit nào thì mình
+[19:28] Đấy tức là mình làm ở shit nào thì mình mới dùng được Advance filter để mình
+[19:30] mới dùng được Advance filter để mình chiết xuất ở trên shit đấy thì đầu tiên
+[19:33] chiết xuất ở trên shit đấy thì đầu tiên nhá để làm Advance filter là đầu tiên
+[19:35] nhá để làm Advance filter là đầu tiên các bạn phải record macro này các bạn
+[19:36] các bạn phải record macro này các bạn vào developer này mình bấm record macro
+[19:40] vào developer này mình bấm record macro mình sẽ đặt ở đây là gì ạ Mình sẽ đặt là
+[19:42] mình sẽ đặt ở đây là gì ạ Mình sẽ đặt là Advance filter đi Đấy mình sẽ đặt này
+[19:45] Advance filter đi Đấy mình sẽ đặt này Advance enter tức là lọc nâng cao đấy
+[19:49] Advance enter tức là lọc nâng cao đấy Đấy mình tích
+[19:51] Đấy mình tích ok thì đầu tiên các bạn tích vào đây nhá
+[19:54] ok thì đầu tiên các bạn tích vào đây nhá tích vào cái ô dưới cái ô thông tin này
+[19:56] tích vào cái ô dưới cái ô thông tin này các bạn vào
+[19:57] các bạn vào Advance V các bạn tích ok này thì ở đây
+[20:01] Advance V các bạn tích ok này thì ở đây trong cái list Range của mình ấy thì
+[20:03] trong cái list Range của mình ấy thì mình tìm ở cái vùng danh sách thơi chứ
+[20:05] mình tìm ở cái vùng danh sách thơi chứ không phải là trong ở đây thì các bạn
+[20:06] không phải là trong ở đây thì các bạn tích vào đây xong mình sẽ quay lại danh
+[20:08] tích vào đây xong mình sẽ quay lại danh sách mình lựa chọn mình Bôi đen tất cả
+[20:11] sách mình lựa chọn mình Bôi đen tất cả đây nhá Khi các bạn Bôi đen Các bạn thấy
+[20:12] đây nhá Khi các bạn Bôi đen Các bạn thấy chưa ở đây nó sẽ đổi tên thành dữ liệu ô
+[20:14] chưa ở đây nó sẽ đổi tên thành dữ liệu ô Đấy tức là cái table của mình là ô và Đ
+[20:18] Đấy tức là cái table của mình là ô và Đ tích vào cái mũi tên này thì sang cái
+[20:21] tích vào cái mũi tên này thì sang cái phần thứ hai là cái tiêu chuẩn lọc nhá
+[20:23] phần thứ hai là cái tiêu chuẩn lọc nhá thì các bạn đây này các bạn sẽ Bôi đen
+[20:25] thì các bạn đây này các bạn sẽ Bôi đen cho mình cái tiêu đề và Bôi đen Cái hàng
+[20:28] cho mình cái tiêu đề và Bôi đen Cái hàng dưới nữ nữa Tức là từ ô B B2 đến Ô j3
+[20:32] dưới nữ nữa Tức là từ ô B B2 đến Ô j3 đấy
+[20:33] đấy đấy tiếp theo là mình sẽ tích vào cái
+[20:36] đấy tiếp theo là mình sẽ tích vào cái copy to N đây này Đấy xong các bạn tích
+[20:38] copy to N đây này Đấy xong các bạn tích vào cái ô copy to đây xong các bạn tích
+[20:41] vào cái ô copy to đây xong các bạn tích vào cái ô kết quả ở dưới này Đấy tức là
+[20:44] vào cái ô kết quả ở dưới này Đấy tức là sau khi mà nó Advance filter thì nó sẽ
+[20:46] sau khi mà nó Advance filter thì nó sẽ copy dữ liệu và cái ô kết quả dưới này
+[20:48] copy dữ liệu và cái ô kết quả dưới này hoặ bạn tích vào ok đấy thì như vậy là
+[20:52] hoặ bạn tích vào ok đấy thì như vậy là nó sẽ copy Tất cả dữ liệu xuống dưới ở
+[20:54] nó sẽ copy Tất cả dữ liệu xuống dưới ở đây Các bạn chú ý nhá vì ở đây là trắng
+[20:56] đây Các bạn chú ý nhá vì ở đây là trắng đâm ra nó sẽ copy toàn bộ dữ liệu đấy
+[20:59] đâm ra nó sẽ copy toàn bộ dữ liệu đấy Bây giờ mình sẽ quay trở lại cái
+[21:01] Bây giờ mình sẽ quay trở lại cái developer và mình stop ghi bây giờ mình
+[21:05] developer và mình stop ghi bây giờ mình sẽ tạo cái bom ở đây để mình tích nhá
+[21:07] sẽ tạo cái bom ở đây để mình tích nhá thì các bạn có thể vào Insert này Đấy
+[21:09] thì các bạn có thể vào Insert này Đấy mình chọn cái bom vào
+[21:17] đây mình sẽ đặt nháy chuột phải các bạn vào edit text này mình sẽ đặt là gì ạ
+[21:20] vào edit text này mình sẽ đặt là gì ạ Tìm kiếm đi hay là lọc cũng được ạ Tìm
+[21:23] Tìm kiếm đi hay là lọc cũng được ạ Tìm kiếm dữ liệu đấy
+[21:31] các bạn tích đúp này mình cho căn giữa này đ mình cho căn giữa Ở đây
+[21:35] này đ mình cho căn giữa Ở đây đy các bạn có thể vào format Mình đổi
+[21:38] đy các bạn có thể vào format Mình đổi cái hình này N các bạn mong muốn
+[21:46] nhá Ví dụ mình để cái hình này đi ok Bây giờ các bạn nháy chuột phải
+[21:49] đi ok Bây giờ các bạn nháy chuột phải này các bạn assign macro mình sẽ gán vào
+[21:52] này các bạn assign macro mình sẽ gán vào cái macro là Advance filter đây này Đấy
+[21:55] cái macro là Advance filter đây này Đấy tức là khi mà mình không nhập gì ở đây ấ
+[21:58] tức là khi mà mình không nhập gì ở đây ấ thì nó sẽ in toàn bộ dữ liệu ở đây cho
+[22:00] thì nó sẽ in toàn bộ dữ liệu ở đây cho các bạn bây giờ ví dụ mình tìm bây giờ
+[22:03] các bạn bây giờ ví dụ mình tìm bây giờ các bạn chú ý nhá mình phải tạo một cái
+[22:04] các bạn chú ý nhá mình phải tạo một cái record macro để mình xóa cái dữ liệu ở
+[22:06] record macro để mình xóa cái dữ liệu ở đây đi Tức là mình xóa dữ liệu cũ đi Nếu
+[22:09] đây đi Tức là mình xóa dữ liệu cũ đi Nếu mình muốn tìm mới nhá thì các bạn cũng
+[22:11] mình muốn tìm mới nhá thì các bạn cũng tạo đây các bạn giữ chuột trái này các
+[22:13] tạo đây các bạn giữ chuột trái này các bạn giữ Ctrl và chuột trái các bạn kéo
+[22:15] bạn giữ Ctrl và chuột trái các bạn kéo xuống đây Đấy tức là mình sẽ tạo một cái
+[22:17] xuống đây Đấy tức là mình sẽ tạo một cái buttom mới hoặc các bạn kéo sang đây
+[22:18] buttom mới hoặc các bạn kéo sang đây cũng được đấy các bạn nháy chột phải
+[22:20] cũng được đấy các bạn nháy chột phải edit text đấy Mình sẽ ở đây mình ghi là
+[22:23] edit text đấy Mình sẽ ở đây mình ghi là gì Xóa dữ liệu xóa dữ liệu cũ
+[22:26] gì Xóa dữ liệu xóa dữ liệu cũ này ok bây giờ mình sẽ tạo record một
+[22:30] này ok bây giờ mình sẽ tạo record một cái macro để mình xóa dữ liệu cũ nhá thì
+[22:32] cái macro để mình xóa dữ liệu cũ nhá thì các bạn sẽ vào gì ạ developer mình
+[22:34] các bạn sẽ vào gì ạ developer mình record macro này các bạn ghi ở đây là gì
+[22:36] record macro này các bạn ghi ở đây là gì ạ Xóa dữ
+[22:44] liệu liệu cũ đấy các bạn tích ok thì các bạn sẽ bô đen ở đây này Bôi đen từ đầu
+[22:46] bạn sẽ bô đen ở đây này Bôi đen từ đầu đến cuối tốt nhất là các bạn giữ Ctrl
+[22:49] đến cuối tốt nhất là các bạn giữ Ctrl shift rồi Các bạn bấm mũi tên xuống này
+[22:51] shift rồi Các bạn bấm mũi tên xuống này tức mình xóa đến hàng cuối cùng cho chắc
+[22:52] tức mình xóa đến hàng cuối cùng cho chắc ho các bạn nháy chuột phải các bạn
+[22:55] ho các bạn nháy chuột phải các bạn Delete Mình sẽ chọn là intro ở đây Tức
+[22:58] Delete Mình sẽ chọn là intro ở đây Tức là mình xóa hết tương tự ở đây các bạn
+[23:01] là mình xóa hết tương tự ở đây các bạn Bôi đen hết ở đây xong các bạn bấm delit
+[23:03] Bôi đen hết ở đây xong các bạn bấm delit nhá bấm delit trên bàn phím này này Đấy
+[23:06] nhá bấm delit trên bàn phím này này Đấy Xong bây giờ mình stop recording này Bây
+[23:11] Xong bây giờ mình stop recording này Bây giờ các bạn nháy truyệt phải này các bạn
+[23:12] giờ các bạn nháy truyệt phải này các bạn gán
+[23:13] gán nhé Đấy mình sẽ gán vào gì nh xóa dữ
+[23:18] nhé Đấy mình sẽ gán vào gì nh xóa dữ liệu Ok bây giờ Xong rồi nhá Bây giờ các
+[23:22] liệu Ok bây giờ Xong rồi nhá Bây giờ các bạn tích vào tìm kiếm Nếu các bạn không
+[23:23] bạn tích vào tìm kiếm Nếu các bạn không nhập dữ liệu gì Các bạn tích tìm kiếm
+[23:25] nhập dữ liệu gì Các bạn tích tìm kiếm này Đấy nó sẽ ra ôn Ở đây bây giờ mình
+[23:27] này Đấy nó sẽ ra ôn Ở đây bây giờ mình tích vào xóa dữ liệu cũ đấy mất hết ở
+[23:29] tích vào xóa dữ liệu cũ đấy mất hết ở đây bây giờ ví dụ mình tìm bạn giới tính
+[23:32] đây bây giờ ví dụ mình tìm bạn giới tính là trai đi tìm con trai xem có bao nhiêu
+[23:35] là trai đi tìm con trai xem có bao nhiêu con trai các bạn tích vào tìm kiếm dữ
+[23:37] con trai các bạn tích vào tìm kiếm dữ liệu đấy như vậy con trai của mình ở đây
+[23:39] liệu đấy như vậy con trai của mình ở đây là có bao nhiêu bạn 11 bạn Vậy mình xóa
+[23:42] là có bao nhiêu bạn 11 bạn Vậy mình xóa dữ liệu cũ đi mình tìm là con gái đi
+[23:44] dữ liệu cũ đi mình tìm là con gái đi Chẳng hạn
+[23:45] Chẳng hạn nhá con gái này các bạn tích vào tìm
+[23:49] nhá con gái này các bạn tích vào tìm kiếm đấy con gái nó sẽ ra là bao nhiêu
+[23:52] kiếm đấy con gái nó sẽ ra là bao nhiêu bạn con gái có 10 bạn thôi bây mình xóa
+[23:55] bạn con gái có 10 bạn thôi bây mình xóa dữ liệu đi bây gi Giả sử mình tìm con
+[23:57] dữ liệu đi bây gi Giả sử mình tìm con gái này và họ là Nguyễn đi Đấy tức là nó
+[24:01] gái này và họ là Nguyễn đi Đấy tức là nó sẽ xảy ra đồng thời nhá thì có bao nhiêu
+[24:03] sẽ xảy ra đồng thời nhá thì có bao nhiêu bạn đấy nó chỉ có một bạn thỏa mãn thôi
+[24:05] bạn đấy nó chỉ có một bạn thỏa mãn thôi tức là Nguyễn Văn và y đây là Yến đâ con
+[24:10] tức là Nguyễn Văn và y đây là Yến đâ con gái các bạn xóa dữ liệu nhé bây giờ ví
+[24:14] gái các bạn xóa dữ liệu nhé bây giờ ví dụ Các bạn muốn tìm cái bạn nào có tổng
+[24:16] dụ Các bạn muốn tìm cái bạn nào có tổng điểm lớn hơn 5 chẳng hạn nhá Bây giờ
+[24:17] điểm lớn hơn 5 chẳng hạn nhá Bây giờ mình xóa đi thì mình chỉ cần ghi ở đây
+[24:19] mình xóa đi thì mình chỉ cần ghi ở đây là lớn hơn 5 Tức là mình sẽ tìm kiếm bạn
+[24:21] là lớn hơn 5 Tức là mình sẽ tìm kiếm bạn nào có tổng điểm lớn hơn 5 chẳng hạn đấy
+[24:23] nào có tổng điểm lớn hơn 5 chẳng hạn đấy các bạn tích Tìm kiếm đấy Ở đây tổng
+[24:25] các bạn tích Tìm kiếm đấy Ở đây tổng điểm lớn hơn 5 thì có bao nhiêu bạn rất
+[24:28] điểm lớn hơn 5 thì có bao nhiêu bạn rất là nhiều bạn 20 bạn lớn hơn 5m lớn hơn
+[24:31] là nhiều bạn 20 bạn lớn hơn 5m lớn hơn năm và là gì ạ là nữ đi Chẳng hạn nhá À
+[24:34] năm và là gì ạ là nữ đi Chẳng hạn nhá À gái đi bây giờ à các bạn phải xóa dữ
+[24:37] gái đi bây giờ à các bạn phải xóa dữ liệu nh ở đây mình sẽ tìm gì ạ Tổng điểm
+[24:40] liệu nh ở đây mình sẽ tìm gì ạ Tổng điểm là lớn hơn 5 này và điều kiện là giới
+[24:43] là lớn hơn 5 này và điều kiện là giới tính là nữ thì có bao nhiêu bạn ở đây là
+[24:46] tính là nữ thì có bao nhiêu bạn ở đây là gái chứ mình nhặt là gái trai gái
+[24:49] gái chứ mình nhặt là gái trai gái đấy đây mình tích vào tìm kiếm dữ liệu
+[24:52] đấy đây mình tích vào tìm kiếm dữ liệu đấy như vậy là giới tính là gái và tổng
+[24:55] đấy như vậy là giới tính là gái và tổng điểm lớn hơn 5 là có chỉ có có chín bạn
+[24:58] điểm lớn hơn 5 là có chỉ có có chín bạn thôi Ok như vậy là mình đã kết thúc bài
+[25:01] thôi Ok như vậy là mình đã kết thúc bài học ngày hôm nay ở đây cảm ơn các bạn đã
+[25:03] học ngày hôm nay ở đây cảm ơn các bạn đã theo dõi các bạn nhớn đăng ký Kênh để
+[25:05] theo dõi các bạn nhớn đăng ký Kênh để cập nhật video mới nhất của gà cũng như
+[25:08] cập nhật video mới nhất của gà cũng như chia sẻ để giúp mọi người cùng học Excel
+[25:10] chia sẻ để giúp mọi người cùng học Excel nhé Xin chào và hẹn gặp lại
+[25:14] nhé Xin chào và hẹn gặp lại [âm nhạc]
