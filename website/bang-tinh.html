@@ -46,9 +46,25 @@
       <h2>Đề bài</h2>
       <div id="tasks"></div>
     </aside>
-    <section aria-label="Bảng tính để làm bài">
+    <section aria-label="Bảng tính để làm bài" id="sheetsec">
       <div id="sheet" style="border:1px solid var(--border);border-radius:10px;overflow:hidden"></div>
       <p class="muted">Mẹo: bấm vào ô cột E (màu vàng) để nhập công thức trả lời.</p>
+    </section>
+    <section aria-label="Soạn thảo văn bản để làm bài" id="docsec" hidden>
+      <div class="toolbar" role="toolbar" aria-label="Thanh định dạng">
+        <button data-cmd="bold"><strong>B</strong></button>
+        <button data-cmd="italic"><em>I</em></button>
+        <button data-cmd="underline"><u>U</u></button>
+        <button data-cmd="justifyLeft">Trái</button>
+        <button data-cmd="justifyCenter">Giữa</button>
+        <button data-cmd="justifyRight">Phải</button>
+        <button data-cmd="heading">Tiêu đề</button>
+        <button data-cmd="list">• Danh sách</button>
+        <button data-cmd="table">Bảng 2×2</button>
+      </div>
+      <div id="docedit" contenteditable="true" aria-label="Vùng soạn thảo văn bản"
+        style="border:1px solid var(--border);border-radius:10px;background:#fff;min-height:320px;padding:1rem"></div>
+      <p class="muted">Bôi đen chữ rồi bấm nút định dạng. Nộp bài để hệ thống kiểm tra định dạng trong văn bản.</p>
     </section>
   </div>
 </main>
@@ -79,6 +95,10 @@ async function loadLesson() {
   const mon = $("mon").value, vid = await currentVid();
   if (!vid) return;
   D = await App.load(`lessons/${mon}_${vid}.json`);
+  const isWord = mon === "word";
+  $("sheetsec").hidden = isWord;
+  $("docsec").hidden = !isWord;
+  if (isWord) { loadDocLesson(); return; }
   const rows = {};
   SAMPLE.forEach((r, ri) => {
     rows[ri] = { cells: {} };
@@ -109,6 +129,7 @@ function renderTasks(done = {}) {
   }).join("") || `<div class="empty">Bài này không có bài tập công thức — hãy làm trắc nghiệm.</div>`;
 }
 function grade() {
+  if ($("mon").value === "word") { gradeWord(); return; }
   const data = xs.getData()[0];
   const rows = (data && data.rows) || {};
   let score = 0;
@@ -122,6 +143,51 @@ function grade() {
   });
   renderTasks(done);
   $("score").textContent = `Đúng ${score}/${targets.length} ô`;
+  document.querySelector(".exam-grid aside").scrollIntoView({ block: "start" });
+}
+/* ---- Word mode: soạn thảo + chấm định dạng ---- */
+const WORD_DOC = `<h2>Báo cáo tuần của phòng kinh doanh</h2><p>Trong tuần qua, đội ngũ đã hoàn thành vượt mức các chỉ tiêu được giao. Doanh số tăng trưởng ổn định ở tất cả các khu vực.</p><p>Các nhiệm vụ trọng tâm tuần tới bao gồm chăm sóc khách hàng cũ, mở rộng thị trường mới và hoàn thiện báo cáo tồn kho.</p><p>Đề nghị các thành viên gửi số liệu về cho trưởng nhóm trước 17 giờ thứ Sáu.</p>`;
+const WORD_DRILLS = [
+  { id: "bold", label: "Bôi đậm dòng tiêu đề", hint: "Bôi đen dòng đầu rồi bấm B", check: r => !!r.querySelector("b,strong") },
+  { id: "italic", label: "In nghiêng 1 cụm từ quan trọng", hint: "Bôi đen vài chữ rồi bấm I", check: r => !!r.querySelector("i,em") },
+  { id: "underline", label: "Gạch chân 1 cụm từ", hint: "Bôi đen rồi bấm U", check: r => !!r.querySelector("u") },
+  { id: "center", label: "Căn giữa 1 đoạn văn", hint: "Đặt con trỏ vào đoạn rồi bấm Giữa", check: r => [...r.querySelectorAll("*")].some(e => (e.style.textAlign || "").toLowerCase() === "center") },
+  { id: "heading", label: "Đặt 1 dòng làm Tiêu đề", hint: "Bôi đen dòng rồi bấm Tiêu đề", check: r => !!r.querySelector("h1,h2,h3") },
+  { id: "list", label: "Tạo danh sách đầu dòng", hint: "Bôi đen các dòng rồi bấm Danh sách", check: r => !!r.querySelector("ul,ol") },
+  { id: "table", label: "Chèn 1 bảng 2×2", hint: "Đặt con trỏ cuối văn bản rồi bấm Bảng 2×2", check: r => !!r.querySelector("table") }
+];
+function loadDocLesson() {
+  $("docedit").innerHTML = WORD_DOC;
+  const items = (D.practice || []).filter(t => t.loai !== "cong_thuc").slice(0, 6);
+  $("tasks").innerHTML =
+    `<div class="card" style="margin-bottom:.75rem"><p><strong>Kỹ năng tự luyện theo bài.</strong> <span class="muted">Tích vào ô khi bạn đã tự làm được trong khung soạn thảo.</span></p>
+    ${items.map(t => `<p><label><input type="checkbox" data-manual> ${App.esc(t.yeu_cau.slice(0, 120))}</label></p>`).join("") || `<p class="muted">Bài này không có bài tập thao tác.</p>`}</div>` +
+    WORD_DRILLS.map((d, i) => `
+    <div class="card" style="margin-bottom:.75rem" data-drill="${d.id}">
+      <p><strong>${i + 1}. ${App.esc(d.label)}</strong></p>
+      <p class="muted" data-wmsg>Gợi ý: ${App.esc(d.hint)}</p>
+    </div>`).join("");
+  document.querySelectorAll("#docsec [data-cmd]").forEach(b => b.addEventListener("click", () => {
+    const cmd = b.dataset.cmd;
+    if (cmd === "heading") document.execCommand("formatBlock", false, "h2");
+    else if (cmd === "list") document.execCommand("insertUnorderedList");
+    else if (cmd === "table") document.execCommand("insertHTML", false, "<table border='1' style='border-collapse:collapse'><tr><td>&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;</td></tr><tr><td>&nbsp;&nbsp;&nbsp;</td><td>&nbsp;&nbsp;&nbsp;</td></tr></table>");
+    else document.execCommand(cmd);
+    $("docedit").focus();
+  }));
+}
+function gradeWord() {
+  const root = $("docedit");
+  let score = 0;
+  WORD_DRILLS.forEach(d => {
+    let ok = false;
+    try { ok = !!d.check(root); } catch { ok = false; }
+    if (ok) score++;
+    const card = document.querySelector(`[data-drill="${d.id}"]`);
+    if (card) card.querySelector("[data-wmsg]").innerHTML = ok ? "<strong>Đúng ✓</strong>" : "<strong>Chưa thấy.</strong> " + App.esc("Gợi ý: " + d.hint);
+  });
+  const manual = document.querySelectorAll("[data-manual]:checked").length;
+  $("score").textContent = `Định dạng đúng ${score}/${WORD_DRILLS.length} · Tự luyện ${manual} mục`;
   document.querySelector(".exam-grid aside").scrollIntoView({ block: "start" });
 }
 async function fillBai(mon) {
