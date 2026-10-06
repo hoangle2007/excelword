@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Bảng tính luyện tập — Excel &amp; Word Lab</title>
+<title>Làm bài trên bảng tính — Excel &amp; Word Lab</title>
 <link rel="stylesheet" href="assets/css/main.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/x-data-spreadsheet@1.1.9/dist/xspreadsheet.css">
 </head>
@@ -24,25 +24,31 @@
   </nav>
 </header>
 <main id="main">
-  <h1>Bảng tính luyện tập ngay trên web</h1>
-  <p class="muted">Bảng tính Excel thu nhỏ: gõ số, gõ công thức có dấu <code>=</code>, rồi bấm chấm. Không cần mở app.</p>
+  <div class="exam-head">
+    <div>
+      <h1>Làm bài trên bảng tính</h1>
+      <p class="muted">Bên trái là đề bài cần làm. Bên phải là bảng tính để làm. Xong bấm <strong>Nộp bài &amp; Chấm</strong> để hệ thống chấm đúng/sai.</p>
+    </div>
+    <div class="exam-submit">
+      <button id="grade" class="btn-lg">Nộp bài &amp; Chấm</button><br>
+      <span class="muted" id="score"></span>
+    </div>
+  </div>
   <div class="toolbar">
     <select id="mon" aria-label="Chọn môn">
       <option value="excel">Excel</option>
       <option value="word">Word</option>
     </select>
     <select id="bai" aria-label="Chọn bài"></select>
-    <button id="grade">Chấm toàn bộ</button>
-    <span class="muted" id="score"></span>
   </div>
-  <div class="lesson-layout">
-    <section aria-label="Bảng tính">
+  <div class="exam-grid">
+    <aside aria-label="Đề bài cần làm">
+      <h2>Đề bài</h2>
+      <div id="tasks"></div>
+    </aside>
+    <section aria-label="Bảng tính để làm bài">
       <div id="sheet" style="border:1px solid var(--border);border-radius:10px;overflow:hidden"></div>
       <p class="muted">Mẹo: bấm vào ô cột E (màu vàng) để nhập công thức trả lời.</p>
-    </section>
-    <section aria-label="Bài tập">
-      <h2>Bài tập của bài này</h2>
-      <div id="tasks"></div>
     </section>
   </div>
 </main>
@@ -115,6 +121,7 @@ function grade() {
   });
   renderTasks(done);
   $("score").textContent = `Đúng ${score}/${targets.length} ô`;
+  document.querySelector(".exam-grid aside").scrollIntoView({ block: "start" });
 }
 async function fillBai(mon) {
   const lessons = await App.load(mon === "word" ? "word_lessons.json" : "excel_lessons.json");
