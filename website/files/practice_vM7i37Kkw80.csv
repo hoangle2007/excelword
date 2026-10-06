@@ -1,0 +1,13 @@
+﻿BÀI TẬP,Bai 24 - Record Macro (ghi macro tu dong)
+"Mở file này trong Excel, làm từng yêu cầu rồi đối chiếu đáp án"
+
+Yêu cầu 1 (thao_tac),"Thực hiện bước: Buoc 1 (Bat Developer + chuan bi sheet): Right-click Ribbon > Customize > tick Developer > Chuan bi Main (muc luc), Du lieu 1/2/3, Input, Data, Tim kiem"
+
+Yêu cầu 2 (thao_tac),Thực hiện bước: Buoc 2 (Muc luc nhay sheet): Ve Shape 'Du lieu thang 1' > Record Thang1 (This Workbook) > click Du lieu 1 > Stop > Assign macro vao shape > Lap Thang2/Thang3 tu
+
+Yêu cầu 3 (thao_tac),Thực hiện bước: Buoc 3 (Nut quay lai + copy nut): Record QuayLaiMain (click ve Main) > tao nut tren moi sheet du lieu > gan macro > Copy/Paste hoac Ctrl+keo nut (giu macro)
+
+Yêu cầu 4 (thao_tac),Thực hiện bước: Buoc 4 (Nhap lieu tu dong (Relative+Transpose)): Tao nut 'Cap nhat' > Record: copy Input > sang Data > B3 > Ctrl+Mui ten xuong > BAT Relative > xuong 1 o > Past
+
+Yêu cầu 5 (thao_tac),"Thực hiện bước: Buoc 5 (Tim kiem Advanced Filter + .xlsm): Ctrl+T chuan hoa vung > record Advanced Filter (Ho Nguyen, Nu...) > gan nut Tim kiem/Tim moi > Alt+F11 xoa dong Range"
+

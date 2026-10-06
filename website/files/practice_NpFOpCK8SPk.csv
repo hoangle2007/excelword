@@ -1,0 +1,13 @@
+﻿BÀI TẬP,"Bai 18 ve bieu do trong Excel: Insert chart, Select Data, Data Label, Legend, Combo + Secondary Axis + Tuong tac"
+"Mở file này trong Excel, làm từng yêu cầu rồi đối chiếu đáp án"
+
+Yêu cầu 1 (thao_tac),"Thực hiện bước: {'ten': 'Ve chart co ban', 'cac_buoc': [{'buoc': 1, 'thao_tac': 'Boi den vung gom tieu de + so lieu (Ten NV + Doanh thu)', 'phim_tat': '', 'luu_y': 'Boi den thi"
+
+Yêu cầu 2 (thao_tac),"Thực hiện bước: {'ten': 'Dao truc + Data Label', 'cac_buoc': [{'buoc': 1, 'thao_tac': 'Double-click truc ten de mo Format Axis', 'phim_tat': 'Ctrl+1', 'luu_y': 'Chon dung truc "
+
+Yêu cầu 3 (thao_tac),"Thực hiện bước: {'ten': 'Select Data + them Ke hoach', 'cac_buoc': [{'buoc': 1, 'thao_tac': 'Click o trong > Insert chart (chart trang) > Chart Design > Select Data', 'phim_tat"
+
+Yêu cầu 4 (thao_tac),"Thực hiện bước: {'ten': 'Combo + Secondary Axis + Gap Width + Marker', 'cac_buoc': [{'buoc': 1, 'thao_tac': 'Them cot % =Thuc hien/Ke hoach, format Percent', 'phim_tat': 'Ctrl+"
+
+Yêu cầu 5 (thao_tac),"Thực hiện bước: {'ten': 'Bieu do tuong tac chon Quy + Total CHAR(10)', 'cac_buoc': [{'buoc': 1, 'thao_tac': 'Copy du lieu sang sheet Loi giai; C2 tao Validation List ON,Quy1..Q"
+

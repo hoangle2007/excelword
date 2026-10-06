@@ -1,0 +1,19 @@
+﻿BÀI TẬP,Bài 01 Thao tác cơ bản với file Excel
+"Mở file này trong Excel, làm từng yêu cầu rồi đối chiếu đáp án"
+
+Yêu cầu 1 (thao_tac),"Thực hiện bước: Khởi động Excel: nhấn Start, gõ Excel, Enter; chọn Blank workbook để mở file trắng (Book1)."
+
+Yêu cầu 2 (thao_tac),"Thực hiện bước: Đặt tên và lưu file ngay: File > Save As > chọn nơi lưu (This PC/Browse, ví dụ Desktop) > gõ tên > Save. Lần sau chỉ cần Save để cập nhật."
+
+Yêu cầu 3 (thao_tac),"Thực hiện bước: Hiểu ô (Cell) = giao của cột (chữ cái) và hàng (số), ví dụ B3. Quan sát Name Box để biết địa chỉ ô đang chọn; thanh Formula Bar hiển thị nội dung thật."
+
+Yêu cầu 4 (thao_tac),"Thực hiện bước: Nhập 4 kiểu dữ liệu: chuỗi (Họ tên), ngày (m/d/yyyy), số (điểm), công thức (bắt đầu bằng =). Kết thúc mỗi ô bằng Enter (xuống), Tab (sang phải)."
+
+Yêu cầu 5 (thao_tac),Thực hiện bước: Điều chỉnh độ rộng cột / cao hàng: kéo biên tiêu đề hoặc double-click để AutoFit; chọn nhiều cột rồi double-click 1 biên để fit hàng loạt.
+
+Yêu cầu 6 (thao_tac),Thực hiện bước: Chèn/xóa cột-hàng: chuột phải tiêu đề > Insert/Delete. Di chuyển: trỏ vào viền vùng tới con trỏ 4 mũi tên rồi kéo; giữ Shift+kéo để chèn (không đè dữ liệu).
+
+Yêu cầu 7 (thao_tac),Thực hiện bước: Quản lý sheet: thêm sheet bằng dấu +; đổi tên bằng double-click tab/Rename; copy bằng Ctrl+kéo tab; kéo tab để sắp xếp; Tab Color để tô màu; Delete để xóa.
+
+Yêu cầu 8 (thao_tac),Thực hiện bước: Đặt tên vùng qua Name Box để quản lý (ví dụ DiemToan); mở lại file từ File > Open > Recent hoặc Browse.
+

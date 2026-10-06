@@ -16,6 +16,7 @@
       <a data-nav="excel" href="excel.html">Excel</a>
       <a data-nav="word" href="word.html">Word</a>
       <a data-nav="cong-thuc" href="cong-thuc.html">Công thức</a>
+      <a data-nav="thuc-hanh" href="thuc-hanh.html">Thực hành</a>
       <a data-nav="trac-nghiem" href="trac-nghiem.html">Trắc nghiệm</a>
     </div>
   </nav>
@@ -30,9 +31,17 @@
       <p>
         <button id="mark-done" class="secondary btn">Đánh dấu đã học xong</button>
         <a id="quiz-full" class="btn" href="trac-nghiem.html">Trắc nghiệm full bài</a>
+        <a id="dl-file" class="btn secondary" href="#">Tải file bài tập</a>
+        <a id="open-app" class="btn secondary" href="#">Mở trong app</a>
+        <a id="go-practice" class="btn secondary" href="thuc-hanh.html">Thực hành</a>
       </p>
       <h2>Các phân đoạn — bấm để tua tới</h2>
       <ol id="chapters" class="chapters"></ol>
+      <h2>Ghi chú của bạn dưới video</h2>
+      <p class="muted">Ghi chú gắn với thời điểm video, lưu trên trình duyệt và đồng bộ lên tài khoản khi có mạng.</p>
+      <p><label for="note-text">Ghi chú<br><input type="text" id="note-text" placeholder="Ví dụ: chỗ này dùng $ để cố định vùng…"></label></p>
+      <p class="btn-row"><button id="note-save">Lưu ghi chú tại điểm đang xem</button></p>
+      <ul id="notes" class="chapters"></ul>
     </section>
     <section aria-label="Nội dung chi tiết">
       <h2>Các bước thao tác trong video</h2>
@@ -105,7 +114,40 @@ App.toggleLessonOn = function (id) {
   if (!d[id]) { d[id] = Date.now(); App.store.set("doneLessons", d); }
 };
 function seekTo(sec) { if (player && player.seekTo) player.seekTo(sec, true); }
-function renderMiniQuiz() {
+function ownerId() {
+  let id = App.store.get("ownerId", null);
+  if (!id) { id = "u" + Math.random().toString(36).slice(2); App.store.set("ownerId", id); }
+  return id;
+}
+function noteKey() { return "notes_" + MON + "_" + VID; }
+async function loadNotes() {
+  let local = App.store.get(noteKey(), []);
+  try {
+    const srv = await App.apiGet(`notes?owner=${ownerId()}&ref=${MON}_${VID}`);
+    if (srv) {
+      const seen = new Set(local.map(n => n.when + "|" + n.text));
+      srv.forEach(n => { if (!seen.has(n.when + "|" + n.text)) local.push({ text: n.text, t: n.t, when: n.when }); });
+      App.store.set(noteKey(), local);
+    }
+  } catch {}
+  renderNotes(local);
+}
+function renderNotes(list) {
+  $("notes").innerHTML = list.length ? list.map((n, i) => `
+    <li><button class="linklike" data-nseek="${n.t == null ? -1 : n.t}">${n.t == null ? "📌" : fmt(n.t)} — ${App.esc(n.text)}</button>
+    <button data-ndel="${i}" aria-label="Xóa ghi chú">✕</button></li>`).join("")
+    : `<li class="muted">Chưa có ghi chú nào.</li>`;
+  document.querySelectorAll("[data-nseek]").forEach(b => b.addEventListener("click", () => {
+    if (+b.dataset.nseek >= 0) seekTo(+b.dataset.nseek);
+  }));
+  document.querySelectorAll("[data-ndel]").forEach(b => b.addEventListener("click", () => {
+    const all = App.store.get(noteKey(), []);
+    all.splice(+b.dataset.ndel, 1);
+    App.store.set(noteKey(), all);
+    renderNotes(all);
+  }));
+}
+async function renderMiniQuiz() {
   const pool = [...D.quiz].sort(() => Math.random() - 0.5).slice(0, 10);
   let score = 0;
   $("mini-quiz").innerHTML = pool.map((q, i) => `
@@ -165,6 +207,26 @@ function renderMiniQuiz() {
   });
   $("new-quiz").addEventListener("click", renderMiniQuiz);
   renderMiniQuiz();
+  const ext = MON === "excel" ? "csv" : "doc";
+  const furl = `files/practice_${VID}.${ext}`;
+  $("dl-file").href = furl;
+  const scheme = MON === "excel" ? "ms-excel" : "ms-word";
+  $("open-app").href = `${scheme}:ofe|u|${location.origin}${location.pathname.replace(/[^/]*$/, "")}${furl}`;
+  $("open-app").textContent = MON === "excel" ? "Mở trong Excel" : "Mở trong Word";
+  $("go-practice").href = `thuc-hanh.html?mon=${MON}&bai=${VID}`;
+  $("note-save").addEventListener("click", async () => {
+    const v = $("note-text").value.trim();
+    if (!v) return;
+    const t = (player && player.getCurrentTime) ? Math.floor(player.getCurrentTime()) : null;
+    const note = { text: v, t, when: new Date().toISOString().slice(0, 16).replace("T", " ") };
+    const all = App.store.get(noteKey(), []);
+    all.unshift(note);
+    App.store.set(noteKey(), all);
+    renderNotes(all);
+    $("note-text").value = "";
+    App.apiPost("notes", { owner: ownerId(), ref: `${MON}_${VID}`, text: v, t });
+  });
+  loadNotes();
   paintState();
 })();
 </script>

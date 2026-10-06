@@ -1,0 +1,35 @@
+﻿BÀI TẬP,Bài 11 Conditional Formatting (Định dạng có điều kiện)
+"Mở file này trong Excel, làm từng yêu cầu rồi đối chiếu đáp án"
+
+Yêu cầu 1 (cong_thuc),"Nhập công thức  theo ví dụ trong bài (kết quả mẫu: =COUNTIF($A$6:$A$15,H6)=0 thì H6 là khách mới)"
+Đáp án,"=COUNTIF($A$6:$A$15,H6)=0 thì H6 là khách mới"
+
+Yêu cầu 2 (cong_thuc),Nhập công thức  theo ví dụ trong bài (kết quả mẫu: =WEEKDAY(A5)=7 là Thứ bảy)
+Đáp án,=WEEKDAY(A5)=7 là Thứ bảy
+
+Yêu cầu 3 (cong_thuc),Nhập công thức  theo ví dụ trong bài (kết quả mẫu: =YEAR(C4)>=2016)
+Đáp án,=YEAR(C4)>=2016
+
+Yêu cầu 4 (cong_thuc),"Nhập công thức  theo ví dụ trong bài (kết quả mẫu: =AND(K5>=0,K5<=50%))"
+Đáp án,"=AND(K5>=0,K5<=50%)"
+
+Yêu cầu 5 (cong_thuc),"Nhập công thức  theo ví dụ trong bài (kết quả mẫu: =OR(WEEKDAY(A5)=7,WEEKDAY(A5)=1))"
+Đáp án,"=OR(WEEKDAY(A5)=7,WEEKDAY(A5)=1)"
+
+Yêu cầu 6 (cong_thuc),Nhập công thức  theo ví dụ trong bài (kết quả mẫu: =C6<$H$2 là đã hết hạn)
+Đáp án,=C6<$H$2 là đã hết hạn
+
+Yêu cầu 7 (cong_thuc),Nhập công thức  theo ví dụ trong bài (kết quả mẫu: =D5/C5 định dạng %)
+Đáp án,=D5/C5 định dạng %
+
+Yêu cầu 8 (cong_thuc),Nhập công thức  theo ví dụ trong bài (kết quả mẫu: =1-K5)
+Đáp án,=1-K5
+
+Yêu cầu 9 (thao_tac),Thực hiện bước: Tô 1 cột theo giá trị cố định: bôi cột Doanh số > Home > Conditional Formatting > Highlight Cells Rules > Less Than > nhập 3000 > chọn màu > OK.
+
+Yêu cầu 10 (thao_tac),"Thực hiện bước: Tô 1 cột theo ô điều kiện $B$6: bôi cột > New Rule > 'Use a formula...' > nhập '=S6<=$B$6' (B6 tuyệt đối, S6 tương đối) > Format > Fill/Font > OK."
+
+Yêu cầu 11 (thao_tac),"Thực hiện bước: Tô CẢ HÀNG theo 1 cột: bôi cả vùng (Tháng:Doanh số) > New Rule > '= $L6<=3000' (cố định cột $L bằng F4 2 lần, thả dòng 6) > Format cả hàng."
+
+Yêu cầu 12 (thao_tac),"Thực hiện bước: Tô cả hàng theo ô ngoài: bôi vùng > '= $H6<=$B$6' (cố định cột $H, B6 tuyệt đối $B$6) > Format. Áp dụng: doanh thu từng tháng so với mục tiêu B6."
+

@@ -16,6 +16,7 @@
       <a data-nav="excel" href="excel.html">Excel</a>
       <a data-nav="word" href="word.html">Word</a>
       <a data-nav="cong-thuc" href="cong-thuc.html">Công thức</a>
+      <a data-nav="thuc-hanh" href="thuc-hanh.html">Thực hành</a>
       <a data-nav="trac-nghiem" href="trac-nghiem.html">Trắc nghiệm</a>
     </div>
   </nav>
@@ -45,10 +46,47 @@ function showDetail(f) {
         ${f.vi_du ? `<h3>Ví dụ chạy được</h3><p><code>${App.esc(f.vi_du)}</code>${f.ket_qua ? ` → <strong>${App.esc(f.ket_qua)}</strong>` : ""}</p>` : ""}
         ${f.loi ? `<h3>Lỗi thường gặp</h3><p>${App.esc(f.loi)}</p>` : ""}
         ${f.bai ? `<p class="muted">Dạy trong: ${App.esc(f.bai)}</p>` : ""}
+        <h3>Ghi chú &amp; ví dụ của bạn cho công thức này</h3>
+        <p><label>Ghi chú<br><input type="text" id="fnote" placeholder="Ví dụ: nhớ F4 để cố định vùng…"></label></p>
+        <p><label>Ví dụ của bạn<br><input type="text" id="fexa" style="font-family:monospace" placeholder="=SUMIF(B:B,&quot;Bắc&quot;,D:D)"></label></p>
+        <p><button id="fsave" class="secondary btn">Lưu ghi chú</button> <span class="muted" id="fsaved"></span></p>
+        <div id="fnotes"></div>
         <p><button id="close">Đóng</button></p>
       </div>
     </div>`;
   const close = () => document.getElementById("modal-root").innerHTML = "";
+  const fkey = "fnote_" + (f.ten || "");
+  const owner = (() => {
+    let id = App.store.get("ownerId", null);
+    if (!id) { id = "u" + Math.random().toString(36).slice(2); App.store.set("ownerId", id); }
+    return id;
+  })();
+  const paintF = list => {
+    document.getElementById("fnotes").innerHTML = list.length
+      ? `<ul>${list.map(n => `<li>${n.t ? `<code>${App.esc(n.t)}</code> — ` : ""}${App.esc(n.text)}</li>`).join("")}</ul>`
+      : `<p class="muted">Chưa có ghi chú nào.</p>`;
+  };
+  let flocal = App.store.get(fkey, []);
+  paintF(flocal);
+  App.apiGet(`notes?owner=${owner}&ref=${encodeURIComponent("fx_" + (f.ten || ""))}`).then(srv => {
+    if (srv) {
+      const seen = new Set(flocal.map(n => n.text));
+      srv.forEach(n => { if (!seen.has(n.text)) flocal.push({ text: n.text, t: n.t }); });
+      App.store.set(fkey, flocal);
+      if (document.getElementById("fnotes")) paintF(flocal);
+    }
+  });
+  document.getElementById("fsave").addEventListener("click", () => {
+    const note = document.getElementById("fnote").value.trim();
+    const exa = document.getElementById("fexa").value.trim();
+    if (!note && !exa) return;
+    if (note) flocal.unshift({ text: note, t: null });
+    if (exa) flocal.unshift({ text: "Ví dụ: " + exa, t: exa });
+    App.store.set(fkey, flocal);
+    paintF(flocal);
+    document.getElementById("fsaved").textContent = "Đã lưu ✓";
+    App.apiPost("notes", { owner, ref: "fx_" + (f.ten || ""), text: note || ("Ví dụ: " + exa), t: exa || null });
+  });
   document.getElementById("close").focus();
   document.getElementById("close").addEventListener("click", close);
   document.getElementById("bd").addEventListener("click", e => { if (e.target.id === "bd") close(); });

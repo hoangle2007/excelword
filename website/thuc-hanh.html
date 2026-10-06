@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Thực hành — Excel &amp; Word Lab</title>
+<link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body data-page="thuc-hanh">
+<a class="skip-link" href="#main">Bỏ qua tới nội dung</a>
+<header class="site-header">
+  <nav class="nav" aria-label="Điều hướng chính">
+    <a class="brand" href="index.html">Excel &amp; Word Lab</a>
+    <div class="nav-links">
+      <a data-nav="home" href="index.html">Trang chủ</a>
+      <a data-nav="excel" href="excel.html">Excel</a>
+      <a data-nav="word" href="word.html">Word</a>
+      <a data-nav="cong-thuc" href="cong-thuc.html">Công thức</a>
+      <a data-nav="thuc-hanh" href="thuc-hanh.html">Thực hành</a>
+      <a data-nav="trac-nghiem" href="trac-nghiem.html">Trắc nghiệm</a>
+    </div>
+  </nav>
+</header>
+<main id="main">
+  <h1>Thực hành</h1>
+  <div class="toolbar" role="group" aria-label="Chế độ thực hành">
+    <button class="chip" id="tab-task" aria-pressed="true">Bài tập theo bài</button>
+    <button class="chip" id="tab-parse" aria-pressed="false">Phân tích công thức</button>
+  </div>
+
+  <section id="pane-task" aria-label="Bài tập">
+    <div class="toolbar">
+      <select id="mon" aria-label="Chọn môn">
+        <option value="excel">Excel</option>
+        <option value="word">Word</option>
+      </select>
+      <select id="bai" aria-label="Chọn bài"></select>
+    </div>
+    <p>
+      <a class="btn secondary" id="dl-file" href="#" download>Tải file bài tập</a>
+      <a class="btn secondary" id="open-app" href="#">Mở trong app</a>
+      <span class="muted" id="task-score"></span>
+    </p>
+    <div id="tasks"></div>
+  </section>
+
+  <section id="pane-parse" hidden aria-label="Phân tích công thức">
+    <div class="card">
+      <h2 style="margin-top:0">Nhận dạng &amp; giải thích công thức</h2>
+      <p class="muted">Dán công thức Excel (ví dụ <code>=SUMIFS(D4:D18,B4:B18,"Bắc")+AVERAGE(C2:C10)</code>). Hệ thống tách hàm, kiểm tra lỗi và giải thích từng phần.</p>
+      <p><label for="fx">Công thức<br><input type="text" id="fx" style="font-family:monospace" placeholder="=VLOOKUP(A2,B:D,3,0)"></label></p>
+      <p><button id="analyze">Phân tích</button></p>
+      <div id="fx-out"></div>
+    </div>
+  </section>
+</main>
+<footer class="site-footer">Excel &amp; Word Lab</footer>
+<script src="assets/js/common.js"></script>
+<script>
+let D = null, FDB = {};
+const $ = id => document.getElementById(id);
+const norm = s => (s || "").toUpperCase().replace(/\s+/g, "");
+
+async function loadLesson() {
+  const mon = $("mon").value, vid = $("bai").value;
+  D = await App.load(`lessons/${mon}_${vid}.json`);
+  const ext = mon === "excel" ? "csv" : "doc";
+  const url = `files/practice_${vid}.${ext}`;
+  $("dl-file").href = url;
+  $("dl-file").textContent = `Tải file bài tập (.${ext})`;
+  const scheme = mon === "excel" ? "ms-excel" : "ms-word";
+  $("open-app").href = `${scheme}:ofe|u|${location.origin}${location.pathname.replace(/[^/]*$/, "")}${url}`;
+  $("open-app").textContent = mon === "excel" ? "Mở trong Excel" : "Mở trong Word";
+  let score = 0, done = 0;
+  $("tasks").innerHTML = (D.practice || []).map((t, i) => `
+    <div class="card task" style="margin-bottom:1rem" data-i="${i}">
+      <p><strong>Bài ${i + 1} (${t.loai === "cong_thuc" ? "công thức" : "thao tác"}).</strong> ${App.esc(t.yeu_cau)}</p>
+      <p><input type="text" data-ans placeholder="Nhập câu trả lời / công thức của bạn…" aria-label="Câu trả lời bài ${i + 1}"></p>
+      <p class="btn-row"><button data-check>Chấm</button><button data-hint class="secondary btn">Gợi ý</button></p>
+      <p class="muted" data-msg></p>
+      ${t.giai_thich ? `<p class="muted">Giải thích: ${App.esc(t.giai_thich)}</p>` : ""}
+    </div>`).join("") || `<div class="empty">Bài này chưa có bài tập.</div>`;
+  document.querySelectorAll(".task").forEach(box => {
+    const t = D.practice[+box.dataset.i];
+    const input = box.querySelector("[data-ans]");
+    const msg = box.querySelector("[data-msg]");
+    box.querySelector("[data-check]").addEventListener("click", () => {
+      const v = input.value.trim();
+      if (!v) { msg.textContent = "Bạn chưa nhập gì."; return; }
+      let ok = false, extra = "";
+      if (t.loai === "cong_thuc" && t.dap_an) {
+        ok = t.dap_an.some(a => norm(a) === norm(v));
+        if (!ok && t.dap_an.some(a => norm(v).includes(norm(a).slice(0, 8)))) extra = " (gần đúng — kiểm tra dấu $ và vùng)";
+      } else if (t.tu_khoa) {
+        const hit = t.tu_khoa.filter(k => norm(v).includes(norm(k)));
+        ok = hit.length >= Math.max(2, Math.ceil(t.tu_khoa.length * 0.6));
+        extra = ` (trúng ${hit.length}/${t.tu_khoa.length} từ khóa)`;
+      }
+      done++;
+      if (ok) { score++; msg.innerHTML = `<strong>Đúng ✓</strong>${extra}`; }
+      else msg.innerHTML = `<strong>Chưa đúng.</strong>${extra} Xem gợi ý hoặc đáp án: <code>${App.esc((t.dap_an || []).join(" | "))}</code>`;
+      input.disabled = true;
+      box.querySelector("[data-check]").disabled = true;
+      $("task-score").textContent = `Đúng ${score}/${done} bài đã làm`;
+    });
+    box.querySelector("[data-hint]").addEventListener("click", () => {
+      msg.textContent = "Gợi ý: " + (t.goi_y || "xem lại các bước trong video");
+    });
+  });
+}
+
+/* ---- Formula parser ---- */
+function tokenize(s) {
+  const toks = [];
+  let i = 0;
+  const push = (t, v) => toks.push({ t, v });
+  while (i < s.length) {
+    const c = s[i];
+    if (/\s/.test(c)) { i++; continue; }
+    if (c === '"') { let j = i + 1; while (j < s.length && s[j] !== '"') j++; push("str", s.slice(i, j + 1)); i = j + 1; continue; }
+    if (/[0-9.]/.test(c)) { const m = s.slice(i).match(/^\d+(\.\d+)?(%?)/); push("num", m[0]); i += m[0].length; continue; }
+    if (/[A-Za-z_À-ỹ$]/.test(c)) {
+      const m = s.slice(i).match(/^[A-Za-z_À-ỹ$][A-Za-z0-9_À-ỹ$.]*/)[0];
+      let j = i + m.length;
+      while (s[j] === "!") { const m2 = s.slice(j + 1).match(/^[A-Za-z_À-ỹ$][A-Za-z0-9_À-ỹ$.]*/); if (!m2) break; j += 1 + m2[0].length; }
+      push("word", s.slice(i, j)); i = j; continue;
+    }
+    if ("+-*/%^&,;:()".includes(c)) { push(c === "(" || c === ")" ? "paren" : "op", c); i++; continue; }
+    if ("=< >".includes(c)) { const m = s.slice(i).match(/^(<=|>=|<>|=|<|>)/); push("op", m[0]); i += m[0].length; continue; }
+    push("unknown", c); i++;
+  }
+  return toks;
+}
+function analyzeFormula(src) {
+  const errs = [], warns = [], funcs = [];
+  src = src.trim();
+  if (!src.startsWith("=")) errs.push("Công thức Excel phải bắt đầu bằng dấu =");
+  const body = src.startsWith("=") ? src.slice(1) : src;
+  const toks = tokenize(body);
+  let depth = 0;
+  toks.forEach(t => { if (t.t === "paren") depth += t.v === "(" ? 1 : -1; if (depth < 0) errs.push("Dư dấu đóng ngoặc )"); });
+  if (depth > 0) errs.push(`Thiếu ${depth} dấu đóng ngoặc )`);
+  const known = new Set(Object.keys(FDB).map(k => k.toUpperCase()));
+  const seen = [];
+  for (let i = 0; i < toks.length; i++) {
+    if (toks[i].t === "word" && toks[i + 1] && toks[i + 1].t === "paren" && toks[i + 1].v === "(") {
+      const name = toks[i].v.toUpperCase();
+      if (/^(\$?[A-Z]{1,3}\$?\d+(:\$?[A-Z]{1,3}\$?\d+)?)$/.test(name)) continue;
+      seen.push(name);
+      if (!known.has(name)) warns.push(`Hàm lạ "${toks[i].v}" — kiểm tra chính tả (có phân biệt hàm tự tạo VBA)`);
+    }
+  }
+  // cây lồng nhau: đếm độ sâu từng hàm
+  const tree = [];
+  let d = 0;
+  for (let i = 0; i < toks.length; i++) {
+    if (toks[i].t === "word" && toks[i + 1] && toks[i + 1].v === "(") {
+      tree.push({ name: toks[i].v, depth: d, info: FDB[toks[i].v.toUpperCase()] });
+      d++;
+    } else if (toks[i].t === "paren") {
+      if (toks[i].v === ")") d = Math.max(0, d - 1);
+    }
+  }
+  return { errs, warns, tree, toks: toks.length };
+}
+function renderAnalysis(src) {
+  const r = analyzeFormula(src);
+  const order = [...r.tree].reverse();
+  $("fx-out").innerHTML = `
+    ${r.errs.length ? `<div class="card" style="border-color:var(--danger);margin-bottom:1rem"><h3>Lỗi cú pháp (${r.errs.length})</h3><ul>${r.errs.map(e => `<li>${App.esc(e)}</li>`).join("")}</ul></div>` : `<p><span class="badge">Cú pháp ngoặc hợp lệ ✓</span></p>`}
+    ${r.warns.length ? `<div class="card" style="margin-bottom:1rem"><h3>Cảnh báo</h3><ul>${r.warns.map(e => `<li>${App.esc(e)}</li>`).join("")}</ul></div>` : ""}
+    <h3>Cây hàm (${r.tree.length} hàm, tính từ trong ra ngoài)</h3>
+    ${order.length ? `<ol>${order.map(n => `<li><code>${App.esc(n.name)}</code>${n.info ? ` — ${App.esc(n.info.giai_thich || "")}<br><span class="muted">Cú pháp: <code>${App.esc(n.info.cu_phap || "")}</code>${n.info.vi_du ? ` · Ví dụ: <code>${App.esc(n.info.vi_du)}</code>` : ""}</span>` : ` <span class="muted">(không có trong kho 391 công thức)</span>`}</li>`).join("")}</ol>`
+      : `<p class="muted">Không phát hiện lời gọi hàm nào (chỉ là phép tính thường).</p>`}
+    <p class="muted">Thứ tự tính: Excel tính hàm trong cùng trước, rồi lan ra ngoài; sau đó theo ưu tiên ngoặc → lũy thừa → nhân/chia → cộng/trừ.</p>`;
+}
+async function fillBai(mon) {
+  const lessons = await App.load(mon === "word" ? "word_lessons.json" : "excel_lessons.json");
+  const num = l => { const m = String(l.stt != null ? l.stt : (l.bai || "")).match(/(\d+)/); return m ? +m[1] : 999; };
+  lessons.sort((a, b) => num(a) - num(b));
+  $("bai").innerHTML = lessons.map(l => `<option value="${App.esc(l.video_id)}">${App.esc(l.bai)}</option>`).join("");
+  const p = new URLSearchParams(location.search);
+  if (p.get("bai")) $("bai").value = p.get("bai");
+}
+(async () => {
+  FDB = {};
+  (await App.load("excel_formulas.json")).forEach(f => { if (f.ten && !FDB[f.ten.toUpperCase()]) FDB[f.ten.toUpperCase()] = f; });
+  $("tab-task").addEventListener("click", () => {
+    $("tab-task").setAttribute("aria-pressed", "true"); $("tab-parse").setAttribute("aria-pressed", "false");
+    $("pane-task").hidden = false; $("pane-parse").hidden = true;
+  });
+  $("tab-parse").addEventListener("click", () => {
+    $("tab-parse").setAttribute("aria-pressed", "true"); $("tab-task").setAttribute("aria-pressed", "false");
+    $("pane-parse").hidden = false; $("pane-task").hidden = true;
+  });
+  const p = new URLSearchParams(location.search);
+  if (p.get("mon")) $("mon").value = p.get("mon");
+  await fillBai($("mon").value);
+  $("mon").addEventListener("change", async () => { await fillBai($("mon").value); loadLesson(); });
+  $("bai").addEventListener("change", loadLesson);
+  $("analyze").addEventListener("click", () => {
+    const v = $("fx").value.trim();
+    if (!v) { $("fx-out").innerHTML = `<p class="muted">Nhập công thức trước.</p>`; return; }
+    renderAnalysis(v);
+  });
+  await loadLesson();
+})();
+</script>
+</body>
+</html>
