@@ -1,6 +1,0 @@
-﻿BÀI TẬP,"Bài 17 – Bảo vệ dữ liệu: kiểm soát nhập liệu (Validation), Protect Workbook/Sheet/Range, khóa và ẩn công thức"
-"Mở file này trong Excel, làm từng yêu cầu rồi đối chiếu đáp án"
-
-Yêu cầu 1 (cong_thuc),"Nhập công thức LEFT lấy ký tự đầu theo ví dụ trong bài (kết quả mẫu: =LEFT(""G123"",1) -> 'G')"
-Đáp án,"=LEFT(""G123"",1) -> 'G'"
-

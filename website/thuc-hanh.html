@@ -49,10 +49,6 @@
     <aside aria-label="Đề bài cần làm">
       <h2>Đề bài</h2>
       <div id="tasks"></div>
-      <p class="btn-row">
-        <a class="btn secondary" id="dl-file" href="#" download>Tải file bài tập</a>
-        <a class="btn secondary" id="open-app" href="#">Mở trong app</a>
-      </p>
     </aside>
     <section aria-label="Khu vực làm bài">
       <div id="sheetsec">
@@ -147,16 +143,6 @@
     </div>
   </section>
 
-  <div class="card" style="margin-top:1.5rem">
-    <h2 style="margin-top:0">Chấm bài trực tiếp trong Excel</h2>
-    <p class="muted">Cài add-in vào Excel để web đọc <strong>ô bạn đang chọn</strong> và chấm đúng/sai ngay trong app.</p>
-    <p class="btn-row"><a class="btn secondary" href="manifest.xml" download>Tải file cài add-in (manifest.xml)</a></p>
-    <ol class="muted">
-      <li>Mở Excel → Insert → Add-ins → Advanced → Upload My Add-in → chọn file manifest vừa tải.</li>
-      <li>Tab <strong>Luyện tập</strong> xuất hiện trên Ribbon → bấm <strong>Chấm bài</strong>.</li>
-      <li>Chọn bài, gõ công thức vào ô tính, bôi đen ô đó rồi bấm <strong>Kiểm tra ô đang chọn</strong>.</li>
-    </ol>
-  </div>
 </main>
 <footer class="site-footer">Excel &amp; Word Lab</footer>
 <script src="assets/vendor/jquery.min.js?v=2"></script>
@@ -358,13 +344,6 @@ async function loadLesson() {
   el("docsec").hidden = !isWord;
   el("pane-parse").hidden = isWord;
   el("score").textContent = "";
-  const ext = isWord ? "doc" : "csv";
-  const url = `files/practice_${vid}.${ext}`;
-  el("dl-file").href = url;
-  el("dl-file").textContent = `Tải file bài tập (.${ext})`;
-  const scheme = isWord ? "ms-word" : "ms-excel";
-  el("open-app").href = `${scheme}:ofe|u|${location.origin}${location.pathname.replace(/[^/]*$/, "")}${url}`;
-  el("open-app").textContent = isWord ? "Mở trong Word" : "Mở trong Excel";
   if (isWord) loadDocLesson();
   else loadSheetLesson();
 }

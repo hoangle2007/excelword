@@ -31,8 +31,6 @@
       <p>
         <button id="mark-done" class="secondary btn">Đánh dấu đã học xong</button>
         <a id="quiz-full" class="btn" href="trac-nghiem.html">Trắc nghiệm full bài</a>
-        <a id="dl-file" class="btn secondary" href="#">Tải file bài tập</a>
-        <a id="open-app" class="btn secondary" href="#">Mở trong app</a>
         <a id="go-practice" class="btn secondary" href="thuc-hanh.html">Thực hành</a>
       </p>
       <h2>Các phân đoạn — bấm để tua tới</h2>
@@ -209,12 +207,6 @@ async function renderMiniQuiz() {
   });
   $("new-quiz").addEventListener("click", renderMiniQuiz);
   renderMiniQuiz();
-  const ext = MON === "excel" ? "csv" : "doc";
-  const furl = `files/practice_${VID}.${ext}`;
-  $("dl-file").href = furl;
-  const scheme = MON === "excel" ? "ms-excel" : "ms-word";
-  $("open-app").href = `${scheme}:ofe|u|${location.origin}${location.pathname.replace(/[^/]*$/, "")}${furl}`;
-  $("open-app").textContent = MON === "excel" ? "Mở trong Excel" : "Mở trong Word";
   $("go-practice").href = `thuc-hanh.html?mon=${MON}&bai=${VID}`;
   $("note-save").addEventListener("click", async () => {
     const v = $("note-text").value.trim();
