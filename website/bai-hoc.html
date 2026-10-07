@@ -32,6 +32,12 @@
         <p class="muted">Video không phát được tại đây? <a id="yt-open" class="btn secondary" href="#" target="_blank" rel="noopener">Mở xem trên YouTube</a></p>
       </div>
       <div class="progress" aria-hidden="true"><div id="watchbar"></div></div>
+      <p class="btn-row">
+        <a id="prev-lesson" class="btn secondary" href="#">← Bài trước</a>
+        <button id="toc-toggle" class="secondary btn" aria-expanded="false">Danh mục bài học ▾</button>
+        <a id="next-lesson" class="btn secondary" href="#">Bài tiếp →</a>
+      </p>
+      <ol id="toc-list" class="chapters" hidden></ol>
       <p>
         <button id="mark-done" class="secondary btn">Đánh dấu đã học xong</button>
         <a id="quiz-full" class="btn" href="trac-nghiem.html">Trắc nghiệm full bài</a>
@@ -234,6 +240,26 @@ function renderMiniQuiz() {
   $("yt-open").href = yurl;
   $("yt-open2").href = yurl;
   mountPlayer();
+  try {
+    const ls = await App.load(MON === "word" ? "word_lessons.json" : "excel_lessons.json");
+    const num = l => { const m = String(l.stt != null ? l.stt : (l.bai || "")).match(/(\d+)/); return m ? +m[1] : 999; };
+    ls.sort((a, b) => num(a) - num(b));
+    const idx = ls.findIndex(l => l.video_id === VID);
+    const link = l => `bai-hoc.html?mon=${MON}&bai=${l.video_id}`;
+    if (idx > 0) { $("prev-lesson").href = link(ls[idx - 1]); }
+    else { $("prev-lesson").style.display = "none"; }
+    if (idx >= 0 && idx < ls.length - 1) { $("next-lesson").href = link(ls[idx + 1]); }
+    else { $("next-lesson").style.display = "none"; }
+    const done = App.doneLessons();
+    $("toc-list").innerHTML = ls.map((l, i) =>
+      `<li${l.video_id === VID ? ' aria-current="true"' : ""}><a class="linklike" style="${l.video_id === VID ? "font-weight:700" : ""}" href="${link(l)}">${App.esc(l.bai)}</a>${done[l.video_id] ? " ✓" : ""}</li>`).join("");
+    $("toc-toggle").addEventListener("click", () => {
+      const open = $("toc-list").hidden;
+      $("toc-list").hidden = !open;
+      $("toc-toggle").setAttribute("aria-expanded", String(open));
+      $("toc-toggle").innerHTML = open ? "Danh mục bài học ▴" : "Danh mục bài học ▾";
+    });
+  } catch (e) {}
   $("chapters").innerHTML = D.chapters.length ? D.chapters.map(c =>
     `<li><button class="linklike" data-seek="${c.t}">${fmt(c.t)} — ${App.esc(c.label)}</button></li>`).join("")
     : `<li class="muted">Video này chưa có phân đoạn.</li>`;
