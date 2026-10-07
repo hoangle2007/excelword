@@ -35,7 +35,9 @@
     </div>
     <div class="exam-submit">
       <button id="grade" class="btn-lg">Nộp bài &amp; Chấm</button><br>
-      <span class="muted" id="score"></span>
+      <span class="muted" id="score"></span><br>
+      <label class="muted" style="font-size:.85rem"><input type="checkbox" id="autograde" checked> Tự động chấm khi sửa ô</label>
+      <button id="reset-sheet" class="secondary btn" style="margin-top:.25rem">Làm lại từ đầu</button>
     </div>
   </div>
   <div class="tbar">
@@ -117,11 +119,31 @@ async function loadLesson() {
     document.getElementById("retry-sheet").addEventListener("click", loadLesson);
     return;
   }
+  const FONTS = ["Times New Roman", "Arial", "Tahoma", "Verdana", "Calibri", "Cambria",
+    "Georgia", "Courier New", "Segoe UI", "Roboto", "Open Sans", "Noto Sans", "Consolas", "Be Vietnam Pro"];
+  const skey = "sheet_" + D.mon + "_" + D.video_id;
+  let initData = [{ name: "Luyện tập", color: "", index: "0", status: "1", order: "0", hide: 0, row: 60, column: 16, celldata, config: {} }];
+  let restored = false;
+  try {
+    const saved = App.store.get(skey, null);
+    if (saved && Array.isArray(saved) && saved[0] && saved[0].celldata) { initData = saved; restored = true; }
+  } catch (e) {}
+  clearTimeout(App._saveT);
   try {
     luckysheet.create({
       container: "luckysheet", lang: "en", title: D.bai,
-      row: 60, column: 16, showinfobar: false,
-      data: [{ name: "Luyện tập", color: "", index: "0", status: "1", order: "0", hide: 0, row: 60, column: 16, celldata, config: {} }]
+      row: 60, column: 16, showinfobar: false, fontarray: FONTS,
+      data: initData,
+      updated: function () {
+        clearTimeout(App._saveT);
+        App._saveT = setTimeout(() => {
+          try { App.store.set(skey, luckysheet.getluckysheetfile()); } catch (e) {}
+          if (document.getElementById("autograde") && document.getElementById("autograde").checked) {
+            clearTimeout(App._gradeT);
+            App._gradeT = setTimeout(grade, 1200);
+          }
+        }, 800);
+      }
     });
   } catch (e) {
     document.getElementById("luckysheet").innerHTML =
@@ -222,6 +244,11 @@ async function currentVid() { return (App._baiPicker && App._baiPicker.get()) ||
   await fillBai(el("mon").value);
   el("mon").addEventListener("change", async () => { await fillBai(el("mon").value); loadLesson(); });
   el("grade").addEventListener("click", grade);
+  el("reset-sheet").addEventListener("click", () => {
+    if (!confirm("Xóa bài làm và tạo sheet mới?")) return;
+    try { App.store.set("sheet_" + el("mon").value + "_" + (App._baiPicker ? App._baiPicker.get() : ""), null); } catch (e) {}
+    loadLesson();
+  });
   await loadLesson();
 })();
 </script>
