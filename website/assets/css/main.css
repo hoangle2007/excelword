@@ -117,14 +117,14 @@ code { background: #edf5fc; padding: 0.1rem 0.4rem; border-radius: 4px; font-siz
 .hero h1 { margin: 0 0 var(--space-2); }
 .hero p { margin: 0 0 var(--space-4); color: var(--muted); max-width: 60ch; }
 /* Buttons: one filled primary, rest quiet */
-button:not(#luckysheet button):not(.lp-btn), .btn {
+button:not(#luckysheet button):not(.lp-btn):not(.wtoolbar button), .btn {
   background: var(--primary); color: #fff; border: none; border-radius: 6px;
   padding: var(--space-2) var(--space-4); font-size: 1rem; cursor: pointer;
   text-decoration: none; display: inline-block; min-height: 44px;
 }
-button:not(#luckysheet button):not(.lp-btn):hover, .btn:hover { background: var(--primary-dark); }
-button:not(#luckysheet button):not(.lp-btn):active, .btn:active { transform: translateY(1px); }
-button:not(#luckysheet button):not(.lp-btn):disabled { background: #9db3ab; cursor: not-allowed; }
+button:not(#luckysheet button):not(.lp-btn):not(.wtoolbar button):hover, .btn:hover { background: var(--primary-dark); }
+button:not(#luckysheet button):not(.lp-btn):not(.wtoolbar button):active, .btn:active { transform: translateY(1px); }
+button:not(#luckysheet button):not(.lp-btn):not(.wtoolbar button):disabled { background: #9db3ab; cursor: not-allowed; }
 button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible {
   outline: 3px solid #90caf9; outline-offset: 1px;
 }
@@ -149,6 +149,31 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
   border-radius: 6px; padding: var(--space-2) var(--space-3); cursor: pointer;
 }
 .lp-cur { min-width: 0; overflow-wrap: anywhere; }
+/* Word toolbar kieu ribbon giong Excel */
+.wtoolbar {
+  display: flex; flex-wrap: wrap; gap: 0; align-items: stretch;
+  background: #f5f7fa; border: 1px solid var(--border); border-radius: 10px;
+  padding: .35rem; margin-bottom: .5rem;
+}
+.wt-group { display: flex; align-items: center; gap: 2px; padding: .15rem .4rem; border-right: 1px solid var(--border); }
+.wt-group:last-child { border-right: none; }
+.wtoolbar button {
+  background: transparent; border: 1px solid transparent; border-radius: 4px;
+  min-width: 30px; height: 30px; min-height: 0; padding: 0 6px;
+  color: var(--text); font-size: .95rem; cursor: pointer;
+}
+.wtoolbar button:hover { background: #e3f2fd; border-color: #aecfe8; }
+.wtoolbar button.on { background: #bbdefb; border-color: var(--primary); }
+.wtoolbar select {
+  width: auto; height: 30px; border: 1px solid var(--border); border-radius: 4px;
+  background: #fff; font-size: .9rem; max-width: 150px;
+}
+.wt-color {
+  display: inline-flex; align-items: center; gap: 2px;
+  border: 1px solid transparent; border-radius: 4px; padding: 0 4px; height: 30px; cursor: pointer;
+}
+.wt-color:hover { background: #e3f2fd; border-color: #aecfe8; }
+.wt-color input[type="color"] { width: 26px; height: 20px; border: none; padding: 0; background: none; cursor: pointer; }
 .exam-grid > * { min-width: 0; }
 #luckysheet { max-width: 100%; }
 .lp-btn {

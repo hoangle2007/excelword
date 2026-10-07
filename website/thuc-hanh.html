@@ -60,7 +60,8 @@
         <p class="muted">Nhập công thức vào ô vàng cột E. Bài làm tự lưu, tick Tự động chấm để khỏi bấm nộp.</p>
       </div>
       <div id="docsec" hidden>
-        <div class="tbar" role="toolbar" aria-label="Thanh định dạng văn bản" id="doctool" style="background:#fff;border:1px solid var(--border);border-radius:10px;padding:.4rem;margin-bottom:.5rem">
+      <div class="wtoolbar" role="toolbar" aria-label="Thanh định dạng văn bản" id="doctool">
+        <div class="wt-group">
           <select id="wfont" aria-label="Chọn font chữ"></select>
           <select id="wsize" aria-label="Cỡ chữ">
             <option value="2">13</option><option value="3" selected>16</option><option value="4">18</option>
@@ -70,20 +71,28 @@
             <option value="p">Thường</option><option value="h1">Tiêu đề 1</option><option value="h2">Tiêu đề 2</option>
             <option value="h3">Tiêu đề 3</option><option value="blockquote">Trích dẫn</option><option value="pre">Mã nguồn</option>
           </select>
+        </div>
+        <div class="wt-group">
           <button data-cmd="bold" title="Đậm (Ctrl+B)"><strong>B</strong></button>
           <button data-cmd="italic" title="Nghiêng (Ctrl+I)"><em>I</em></button>
           <button data-cmd="underline" title="Gạch chân (Ctrl+U)"><u>U</u></button>
-          <button data-cmd="strikeThrough" title="Gạch ngang">S</button>
-          <label title="Màu chữ">A<input type="color" id="wfore" value="#1a2b26"></label>
-          <label title="Tô nền">✎<input type="color" id="whilite" value="#fff7d6"></label>
-          <button data-cmd="justifyLeft" title="Căn trái">⇤</button>
-          <button data-cmd="justifyCenter" title="Căn giữa">⇔</button>
-          <button data-cmd="justifyRight" title="Căn phải">⇥</button>
+          <button data-cmd="strikeThrough" title="Gạch ngang"><s>S</s></button>
+          <button data-cmd="subscript" title="Chỉ số dưới">X₂</button>
+          <button data-cmd="superscript" title="Chỉ số trên">X²</button>
+          <label class="wt-color" title="Màu chữ">A<input type="color" id="wfore" value="#1a2b26"></label>
+          <label class="wt-color" title="Tô nền">✎<input type="color" id="whilite" value="#fff7d6"></label>
+        </div>
+        <div class="wt-group">
+          <button data-cmd="justifyLeft" title="Căn trái">☰ˡ</button>
+          <button data-cmd="justifyCenter" title="Căn giữa">☰ᶜ</button>
+          <button data-cmd="justifyRight" title="Căn phải">☰ʳ</button>
           <button data-cmd="justifyFull" title="Căn đều">☰</button>
-          <button data-cmd="listul" title="Danh sách chấm">• ≡</button>
-          <button data-cmd="listol" title="Danh sách số">1. ≡</button>
-          <button data-cmd="indent" title="Thụt vào">→|</button>
-          <button data-cmd="outdent" title="Thụt ra">|←</button>
+          <button data-cmd="listul" title="Danh sách chấm">• ☰</button>
+          <button data-cmd="listol" title="Danh sách số">1. ☰</button>
+          <button data-cmd="indent" title="Thụt vào">⇥</button>
+          <button data-cmd="outdent" title="Thụt ra">⇤</button>
+        </div>
+        <div class="wt-group">
           <button data-cmd="table2" title="Chèn bảng 2×2">▦₂</button>
           <button data-cmd="table3" title="Chèn bảng 3×3">▦₃</button>
           <button data-cmd="link" title="Chèn liên kết">🔗</button>
@@ -91,6 +100,7 @@
           <button data-cmd="redo" title="Làm lại">↪</button>
           <button data-cmd="clear" title="Xóa định dạng">⌫</button>
         </div>
+      </div>
         <div id="docedit" contenteditable="true" aria-label="Vùng soạn thảo văn bản"
           style="border:1px solid var(--border);border-radius:10px;background:#fff;min-height:420px;padding:1rem"></div>
         <p class="muted"><span id="wcount"></span> · Bôi đen chữ rồi bấm nút định dạng.</p>
@@ -237,10 +247,6 @@ function wcmd(cmd, val) {
   else if (cmd === "listol") document.execCommand("insertOrderedList");
   else document.execCommand(cmd, false, val || null);
   updateCount();
-}
-function updateCount() {
-  const w = (el("docedit").innerText || "").trim().split(/\s+/).filter(Boolean).length;
-  el("wcount").textContent = w + " từ";
 }
 function loadDocLesson() {
   el("docedit").innerHTML = WORD_DOC;
@@ -399,7 +405,12 @@ function renderAnalysis(src) {
   el("whilite").addEventListener("input", () => { el("docedit").focus(); document.execCommand("hiliteColor", false, el("whilite").value); });
   el("docedit").addEventListener("input", () => {
     updateCount();
+    paintWordButtons();
     if (el("autograde").checked) { clearTimeout(App._wT); App._wT = setTimeout(() => gradeWord(false), 1500); }
+  });
+  el("docedit").addEventListener("click", paintWordButtons);
+  document.addEventListener("selectionchange", () => {
+    if (document.activeElement === el("docedit")) paintWordButtons();
   });
   el("analyze").addEventListener("click", () => {
     const v = el("fx").value.trim();
@@ -411,6 +422,14 @@ function renderAnalysis(src) {
 function updateCount() {
   const w = (el("docedit").innerText || "").trim().split(/\s+/).filter(Boolean).length;
   el("wcount").textContent = w + " từ";
+}
+function paintWordButtons() {
+  const map = { bold: "bold", italic: "italic", underline: "underline", strikeThrough: "strikeThrough", subscript: "subscript", superscript: "superscript", justifyLeft: "justifyLeft", justifyCenter: "justifyCenter", justifyRight: "justifyRight", justifyFull: "justifyFull" };
+  document.querySelectorAll("#doctool [data-cmd]").forEach(b => {
+    const cmd = map[b.dataset.cmd];
+    if (!cmd) return;
+    try { b.classList.toggle("on", !!document.queryCommandState(cmd)); } catch (e) {}
+  });
 }
 </script>
 </body>
