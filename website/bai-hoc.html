@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Bài học — Excel &amp; Word Lab</title>
 <link rel="stylesheet" href="assets/css/main.css">
+<style>main{max-width:1280px}</style>
 </head>
 <body data-page="">
 <a class="skip-link" href="#main">Bỏ qua tới nội dung</a>
@@ -27,25 +28,29 @@
   <div class="lesson-layout">
     <section aria-label="Video bài giảng">
       <div class="video-wrap"><div id="player"></div></div>
+      <div id="player-fallback" hidden>
+        <p class="muted">Video không phát được tại đây? <a id="yt-open" class="btn secondary" href="#" target="_blank" rel="noopener">Mở xem trên YouTube</a></p>
+      </div>
       <div class="progress" aria-hidden="true"><div id="watchbar"></div></div>
       <p>
         <button id="mark-done" class="secondary btn">Đánh dấu đã học xong</button>
         <a id="quiz-full" class="btn" href="trac-nghiem.html">Trắc nghiệm full bài</a>
         <a id="go-practice" class="btn secondary" href="thuc-hanh.html">Thực hành</a>
+        <a id="yt-open2" class="btn secondary" href="#" target="_blank" rel="noopener">Xem trên YouTube</a>
       </p>
       <h2>Các phân đoạn — bấm để tua tới</h2>
       <ol id="chapters" class="chapters"></ol>
+    </section>
+    <section aria-label="Nội dung chi tiết">
+      <h2 id="fx-title">Công thức trong bài</h2>
+      <div id="formulas"></div>
       <h2>Ghi chú của bạn dưới video</h2>
       <p class="muted">Ghi chú gắn với thời điểm video, lưu trên trình duyệt và đồng bộ lên tài khoản khi có mạng.</p>
       <p><label for="note-text">Ghi chú<br><input type="text" id="note-text" placeholder="Ví dụ: chỗ này dùng $ để cố định vùng…"></label></p>
       <p class="btn-row"><button id="note-save">Lưu ghi chú tại điểm đang xem</button></p>
       <ul id="notes" class="chapters"></ul>
-    </section>
-    <section aria-label="Nội dung chi tiết">
       <h2>Các bước thao tác trong video</h2>
       <ol id="steps" class="steps"></ol>
-      <h2 id="fx-title">Công thức trong bài</h2>
-      <div id="formulas"></div>
     </section>
   </div>
   <h2>Luyện nhanh 10 câu ngẫu nhiên</h2>
@@ -89,6 +94,8 @@ function onYouTubeIframeAPIReady() {
     height: "100%",
     playerVars: { rel: 0 },
     events: {
+      onReady() { document.getElementById("player-fallback").hidden = true; },
+      onError() { document.getElementById("player-fallback").hidden = false; },
       onStateChange(e) {
         if (e.data === YT.PlayerState.PLAYING) {
           setProg({ started: true });
@@ -212,6 +219,12 @@ function renderMiniQuiz() {
   $("back").textContent = `← Danh sách bài ${MON === "excel" ? "Excel" : "Word"}`;
   $("title").textContent = D.bai;
   $("quiz-full").href = `trac-nghiem.html?mon=${MON}&bai=${VID}`;
+  const yurl = `https://www.youtube.com/watch?v=${VID}`;
+  $("yt-open").href = yurl;
+  $("yt-open2").href = yurl;
+  setTimeout(() => {
+    if (!player || !player.getDuration) document.getElementById("player-fallback").hidden = false;
+  }, 8000);
   $("chapters").innerHTML = D.chapters.length ? D.chapters.map(c =>
     `<li><button class="linklike" data-seek="${c.t}">${fmt(c.t)} — ${App.esc(c.label)}</button></li>`).join("")
     : `<li class="muted">Video này chưa có phân đoạn.</li>`;
