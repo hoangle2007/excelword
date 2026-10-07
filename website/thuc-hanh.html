@@ -96,9 +96,38 @@
           <button data-cmd="table2" title="Chèn bảng 2×2">▦₂</button>
           <button data-cmd="table3" title="Chèn bảng 3×3">▦₃</button>
           <button data-cmd="link" title="Chèn liên kết">🔗</button>
+          <button data-cmd="unlink" title="Bỏ liên kết">🔗✕</button>
+          <button data-cmd="image" title="Chèn ảnh (URL hoặc tải lên)">🖼</button>
+          <input type="file" id="wimgfile" accept="image/*" hidden>
+          <button data-cmd="hr" title="Đường kẻ ngang">―</button>
+          <select id="wspecial" aria-label="Chèn ký tự đặc biệt" title="Ký tự đặc biệt">
+            <option value="">Ω ký tự…</option>
+            <option>©</option><option>®</option><option>™</option><option>±</option>
+            <option>°</option><option>×</option><option>÷</option><option>…</option>
+            <option>–</option><option>—</option><option>“</option><option>”</option>
+            <option>✓</option><option>→</option><option>₫</option><option>€</option>
+          </select>
+        </div>
+        <div class="wt-group">
+          <button data-cmd="grow" title="Tăng cỡ chữ">A+</button>
+          <button data-cmd="shrink" title="Giảm cỡ chữ">A−</button>
+          <button data-cmd="upper" title="CHỮ HOA">AA</button>
+          <button data-cmd="lower" title="chữ thường">aa</button>
+          <select id="wline" aria-label="Giãn dòng" title="Giãn dòng">
+            <option value="">↕ giãn dòng</option>
+            <option value="1">1.0</option><option value="1.15">1.15</option>
+            <option value="1.5">1.5</option><option value="2">2.0</option>
+          </select>
+          <button data-cmd="find" title="Tìm trong văn bản">🔍</button>
+          <button data-cmd="replace" title="Tìm và thay thế">⇄</button>
+        </div>
+        <div class="wt-group">
           <button data-cmd="undo" title="Hoàn tác">↩</button>
           <button data-cmd="redo" title="Làm lại">↪</button>
           <button data-cmd="clear" title="Xóa định dạng">⌫</button>
+          <button data-cmd="clearall" title="Xóa toàn bộ văn bản">🗑</button>
+          <button data-cmd="full" title="Toàn màn hình">⛶</button>
+          <button data-cmd="print" title="In văn bản">🖨</button>
         </div>
       </div>
         <div id="docedit" contenteditable="true" aria-label="Vùng soạn thảo văn bản"
@@ -238,10 +267,53 @@ function wcmd(cmd, val) {
     let h = "<table border='1' style='border-collapse:collapse;width:100%'>";
     for (let r = 0; r < n; r++) { h += "<tr>"; for (let c = 0; c < n; c++) h += "<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>"; h += "</tr>"; }
     document.execCommand("insertHTML", false, h + "</table><p></p>");
-  } else if (cmd === "link") {
-    const u = prompt("Nhập đường dẫn:", "https://");
-    if (u) document.execCommand("createLink", false, u);
-  } else if (cmd === "clear") {
+    } else if (cmd === "link") {
+      const u = prompt("Nhập đường dẫn:", "https://");
+      if (u) document.execCommand("createLink", false, u);
+    } else if (cmd === "unlink") document.execCommand("unlink");
+    else if (cmd === "image") {
+      const u = prompt("Dán URL ảnh (bỏ trống để tải ảnh từ máy):", "https://");
+      if (u && u !== "https://") document.execCommand("insertImage", false, u);
+      else el("wimgfile").click();
+    } else if (cmd === "hr") document.execCommand("insertHorizontalRule");
+    else if (cmd === "grow" || cmd === "shrink") {
+      const cur = parseInt(document.queryCommandValue("fontSize") || "3", 10) || 3;
+      const next = cmd === "grow" ? Math.min(7, cur + 1) : Math.max(1, cur - 1);
+      document.execCommand("fontSize", false, String(next));
+    } else if (cmd === "upper" || cmd === "lower") {
+      const sel = window.getSelection();
+      if (sel.rangeCount && !sel.isCollapsed) {
+        const t = sel.toString();
+        document.execCommand("insertText", false, cmd === "upper" ? t.toUpperCase() : t.toLowerCase());
+      }
+    } else if (cmd === "find") {
+      const q = prompt("Tìm cụm từ:");
+      if (q) { el("docedit").focus(); window.find(q); }
+    } else if (cmd === "replace") {
+      const q = prompt("Tìm cụm từ:");
+      if (!q) return;
+      const r = prompt(`Thay "${q}" thành:`, "");
+      if (r === null) return;
+      const root = el("docedit");
+      let n = 0;
+      const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
+      const nodes = [];
+      while (walker.nextNode()) nodes.push(walker.currentNode);
+      nodes.forEach(nd => {
+        if (nd.nodeValue.includes(q)) { nd.nodeValue = nd.nodeValue.split(q).join(r); n++; }
+      });
+      alert(`Đã thay trong ${n} đoạn văn bản.`);
+    } else if (cmd === "clearall") {
+      if (confirm("Xóa toàn bộ văn bản?")) { el("docedit").innerHTML = "<p></p>"; updateCount(); }
+    } else if (cmd === "full") {
+      const sec = el("docsec");
+      if (document.fullscreenElement) document.exitFullscreen();
+      else if (sec.requestFullscreen) sec.requestFullscreen();
+    } else if (cmd === "print") {
+      const w = window.open("", "_blank");
+      w.document.write(`<html><head><meta charset="utf-8"><title>In văn bản</title></head><body>${el("docedit").innerHTML}</body></html>`);
+      w.document.close(); w.focus(); w.print();
+    } else if (cmd === "clear") {
     document.execCommand("removeFormat");
   } else if (cmd === "listul") document.execCommand("insertUnorderedList");
   else if (cmd === "listol") document.execCommand("insertOrderedList");
@@ -403,6 +475,27 @@ function renderAnalysis(src) {
   el("wblock").addEventListener("change", () => { el("docedit").focus(); document.execCommand("formatBlock", false, el("wblock").value); });
   el("wfore").addEventListener("input", () => { el("docedit").focus(); document.execCommand("foreColor", false, el("wfore").value); });
   el("whilite").addEventListener("input", () => { el("docedit").focus(); document.execCommand("hiliteColor", false, el("whilite").value); });
+  el("wspecial").addEventListener("change", () => {
+    if (el("wspecial").value) { el("docedit").focus(); document.execCommand("insertText", false, el("wspecial").value); el("wspecial").value = ""; }
+  });
+  el("wline").addEventListener("change", () => {
+    if (!el("wline").value) return;
+    el("docedit").focus();
+    document.execCommand("formatBlock", false, "p");
+    const sel = window.getSelection();
+    let node = sel.rangeCount ? sel.anchorNode : null;
+    node = node && node.nodeType === 3 ? node.parentNode : node;
+    const blk = node && node.closest ? node.closest("p,h1,h2,h3,blockquote,pre,li,div") : null;
+    if (blk && el("docedit").contains(blk)) blk.style.lineHeight = el("wline").value;
+  });
+  el("wimgfile").addEventListener("change", () => {
+    const f = el("wimgfile").files[0];
+    if (!f) return;
+    const rd = new FileReader();
+    rd.onload = () => { el("docedit").focus(); document.execCommand("insertImage", false, rd.result); };
+    rd.readAsDataURL(f);
+    el("wimgfile").value = "";
+  });
   el("docedit").addEventListener("input", () => {
     updateCount();
     paintWordButtons();
