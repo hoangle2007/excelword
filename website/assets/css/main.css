@@ -235,6 +235,8 @@ table.data td code, .card code { overflow-wrap: anywhere; }
 .linklike:hover { background: #e3f2fd; }
 .steps { padding-left: 1.3rem; }
 .steps li { margin-bottom: var(--space-2); }
+.fx-group { font-size: .95rem; margin: var(--space-4) 0 var(--space-2); color: var(--primary-dark); }
+.fx-item { background: #fff; border: 1px solid var(--border); border-radius: 6px; padding: var(--space-2) var(--space-3); margin-bottom: var(--space-2); }
 /* Exam layout: tasks left, sheet right, submit top-right */
 .exam-head { display: flex; justify-content: space-between; align-items: flex-start; gap: var(--space-4); flex-wrap: wrap; margin-bottom: var(--space-4); }
 .exam-head h1 { margin: 0 0 var(--space-2); }

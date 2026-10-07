@@ -197,9 +197,31 @@ async function renderMiniQuiz() {
     : `<li class="muted">Xem kỹ năng bên dưới.</li>`;
   const items = D.cong_thuc || D.ky_nang || [];
   if (D.ky_nang) $("fx-title").textContent = "Kỹ năng trong bài";
-  $("formulas").innerHTML = items.length ? `<table class="data"><thead><tr><th>Tên</th><th>Cú pháp / Thao tác</th><th>Ví dụ</th></tr></thead><tbody>${
-    items.map(x => `<tr><td><strong>${App.esc(x.ten)}</strong></td><td><code>${App.esc(x.cu_phap || x.thao_tac || "")}</code><br><span class="muted">${App.esc((x.giai_thich || "").slice(0, 140))}</span></td><td>${App.esc(x.vi_du || "")}</td></tr>`).join("")
-  }</tbody></table>` : `<p class="muted">Bài giới thiệu, không có công thức.</p>`;
+  const CAT = {};
+  [["VLOOKUP|HLOOKUP|XLOOKUP|INDEX|MATCH|OFFSET|CHOOSE|FILTER|SORT|UNIQUE", "Tra cứu"],
+   ["^IF$|IFS|IFERROR|IFNA|AND|OR|XOR|NOT", "Logic"],
+   ["SUM|AVERAGE|COUNT|PRODUCT|MEDIAN|MODE|ROUND|RAND|ABS", "Toán & thống kê"],
+   ["LEFT|RIGHT|MID|LEN|CONCAT|TEXTJOIN|TRIM|UPPER|LOWER|PROPER|SUBSTITUTE|CHAR|VALUE|TEXT|EXACT|REPT|FIND|SEARCH", "Văn bản"],
+   ["DATE|TODAY|NOW|DAY|MONTH|YEAR|WEEKDAY|EOMONTH|EDATE|DATEDIF|NETWORKDAYS|WORKDAY|TIME|YEARFRAC", "Ngày tháng"],
+   ["NPV|XNPV|IRR|XIRR|YIELD|FV|PV|IPMT|PMT|PPMT|PRICE|INTRATE|DB|DDB|SLN", "Tài chính"]
+  ].forEach(([p, n]) => CAT[n] = new RegExp(`^(${p})$`));
+  const GORDER = ["Toán & thống kê", "Logic", "Văn bản", "Tra cứu", "Ngày tháng", "Tài chính", "Kỹ thuật"];
+  const grp = {};
+  items.forEach(x => {
+    const m = ((x.cu_phap || "") + " " + (x.ten || "")).toUpperCase().match(/=([A-Z][A-Z.]*)\(/);
+    const fn = m ? m[1] : (x.ten || "").toUpperCase().trim();
+    let g = "Kỹ thuật";
+    for (const n of GORDER) { if (n !== "Kỹ thuật" && CAT[n].test(fn)) { g = n; break; } }
+    (grp[g] = grp[g] || []).push(x);
+  });
+  $("formulas").innerHTML = items.length ? GORDER.filter(g => grp[g]).map(g => `
+    <h3 class="fx-group">${App.esc(g)} (${grp[g].length})</h3>
+    ${grp[g].map(x => `
+    <div class="fx-item">
+      <strong>${App.esc(x.ten)}</strong> ${x.cu_phap || x.thao_tac ? `<code>${App.esc(x.cu_phap || x.thao_tac || "")}</code>` : ""}
+      ${(x.vi_du || x.giai_thich) ? `<br><span class="muted">${App.esc((x.vi_du ? "VD: " + x.vi_du + " · " : "") + (x.giai_thich || "")).slice(0, 160)}</span>` : ""}
+    </div>`).join("")}`).join("")
+    : `<p class="muted">Bài giới thiệu, không có công thức.</p>`;
   $("mark-done").addEventListener("click", () => {
     const on = App.toggleLesson(VID);
     setProg({ done: on });
