@@ -27,7 +27,7 @@
   <h1 id="title">Đang tải bài học…</h1>
   <div class="lesson-layout">
     <section aria-label="Video bài giảng">
-      <div class="video-wrap"><div id="player"></div></div>
+      <div class="video-wrap"><iframe id="player" title="Video bài học" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
       <div id="player-fallback" hidden>
         <p class="muted">Video không phát được tại đây? <a id="yt-open" class="btn secondary" href="#" target="_blank" rel="noopener">Mở xem trên YouTube</a></p>
       </div>
@@ -87,41 +87,52 @@ function paintState() {
     $("watchbar").style.width = pct + "%";
   } else el.textContent = "Bắt đầu xem bên dưới";
 }
-function onYouTubeIframeAPIReady() {
-  player = new YT.Player("player", {
-    videoId: VID,
-    width: "100%",
-    height: "100%",
-    playerVars: { rel: 0 },
-    events: {
-      onReady() { document.getElementById("player-fallback").hidden = true; },
-      onError() { document.getElementById("player-fallback").hidden = false; },
-      onStateChange(e) {
-        if (e.data === YT.PlayerState.PLAYING) {
-          setProg({ started: true });
-          clearInterval(watchTimer);
-          watchTimer = setInterval(() => {
-            if (!player || !player.getCurrentTime) return;
-            const sec = Math.floor(player.getCurrentTime());
-            const dur = player.getDuration() || D.duration || 0;
-            const patch = { sec, dur };
-            if (dur && sec / dur >= 0.9) { patch.done = true; App.toggleLessonOn(VID); }
-            setProg(patch);
-          }, 5000);
-        } else {
-          clearInterval(watchTimer);
-          if (player && player.getCurrentTime) setProg({ sec: Math.floor(player.getCurrentTime()) });
-          if (e.data === YT.PlayerState.ENDED) { setProg({ done: true }); App.toggleLessonOn(VID); }
-        }
-      }
-    }
-  });
+function embedUrl(sec) {
+  let u = `https://www.youtube-nocookie.com/embed/${VID}?rel=0`;
+  if (sec) u += `&start=${Math.floor(sec)}`;
+  return u;
 }
+function mountPlayer() {
+  const fr = document.getElementById("player");
+  fr.src = embedUrl(0);
+  document.getElementById("player-fallback").hidden = true;
+  try {
+    if (window.YT && YT.Player) {
+      player = new YT.Player(fr, {
+        events: {
+          onStateChange(e) {
+            if (e.data === YT.PlayerState.PLAYING) {
+              setProg({ started: true });
+              clearInterval(watchTimer);
+              watchTimer = setInterval(() => {
+                if (!player || !player.getCurrentTime) return;
+                const sec = Math.floor(player.getCurrentTime());
+                const dur = player.getDuration() || D.duration || 0;
+                const patch = { sec, dur };
+                if (dur && sec / dur >= 0.9) { patch.done = true; App.toggleLessonOn(VID); }
+                setProg(patch);
+              }, 5000);
+            } else {
+              clearInterval(watchTimer);
+              if (player && player.getCurrentTime) setProg({ sec: Math.floor(player.getCurrentTime()) });
+              if (e.data === YT.PlayerState.ENDED) { setProg({ done: true }); App.toggleLessonOn(VID); }
+            }
+          }
+        }
+      });
+    }
+  } catch (e) { player = null; }
+}
+function onYouTubeIframeAPIReady() { if (!player && D) mountPlayer(); }
 App.toggleLessonOn = function (id) {
   const d = App.doneLessons();
   if (!d[id]) { d[id] = Date.now(); App.store.set("doneLessons", d); }
 };
-function seekTo(sec) { if (player && player.seekTo) player.seekTo(sec, true); }
+function seekTo(sec) {
+  if (player && player.seekTo) { try { player.seekTo(sec, true); return; } catch (e) {} }
+  const fr = document.getElementById("player");
+  if (fr) fr.src = embedUrl(sec);
+}
 function ownerId() {
   let id = App.store.get("ownerId", null);
   if (!id) { id = "u" + Math.random().toString(36).slice(2); App.store.set("ownerId", id); }
@@ -222,9 +233,7 @@ function renderMiniQuiz() {
   const yurl = `https://www.youtube.com/watch?v=${VID}`;
   $("yt-open").href = yurl;
   $("yt-open2").href = yurl;
-  setTimeout(() => {
-    if (!player || !player.getDuration) document.getElementById("player-fallback").hidden = false;
-  }, 8000);
+  mountPlayer();
   $("chapters").innerHTML = D.chapters.length ? D.chapters.map(c =>
     `<li><button class="linklike" data-seek="${c.t}">${fmt(c.t)} — ${App.esc(c.label)}</button></li>`).join("")
     : `<li class="muted">Video này chưa có phân đoạn.</li>`;
