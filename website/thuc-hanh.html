@@ -5,6 +5,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Thực hành — Excel &amp; Word Lab</title>
 <link rel="stylesheet" href="assets/css/main.css">
+<link rel="stylesheet" href="assets/vendor/pluginsCss.css?v=2">
+<link rel="stylesheet" href="assets/vendor/plugins.css?v=2">
+<link rel="stylesheet" href="assets/vendor/luckysheet.css?v=2">
+<link rel="stylesheet" href="assets/vendor/iconfont.css?v=2">
+<style>main{max-width:1400px}</style>
 </head>
 <body data-page="thuc-hanh">
 <a class="skip-link" href="#main">Bỏ qua tới nội dung</a>
@@ -17,111 +22,291 @@
       <a data-nav="word" href="word.html">Word</a>
       <a data-nav="cong-thuc" href="cong-thuc.html">Công thức</a>
       <a data-nav="thuc-hanh" href="thuc-hanh.html">Thực hành</a>
-      <a data-nav="bang-tinh" href="bang-tinh.html">Bảng tính</a>
       <a data-nav="trac-nghiem" href="trac-nghiem.html">Trắc nghiệm</a>
     </div>
   </nav>
 </header>
 <main id="main">
-  <h1>Thực hành</h1>
-  <div class="card" style="margin-bottom:1rem">
-    <h2 style="margin-top:0">Chấm bài trực tiếp trong Excel</h2>
-    <p class="muted">Cài add-in vào Excel để web đọc <strong>ô bạn đang chọn</strong> và chấm đúng/sai ngay trong app.</p>
-    <p class="btn-row"><a class="btn secondary" href="manifest.xml" download>Tải file cài add-in (manifest.xml)</a></p>
-    <ol class="muted">
-      <li>Mở Excel (bản desktop hoặc <a href="https://www.office.com" target="_blank" rel="noopener">Excel trên web</a>) → Insert → Add-ins → Advanced → Upload My Add-in → chọn file manifest vừa tải.</li>
-      <li>Tab <strong>Luyện tập</strong> xuất hiện trên Ribbon → bấm <strong>Chấm bài</strong>.</li>
-      <li>Trong khung bên phải: chọn bài, gõ công thức vào ô tính, bôi đen ô đó rồi bấm <strong>Kiểm tra ô đang chọn</strong>.</li>
-    </ol>
-  </div>
-  <div class="tbar" role="group" aria-label="Chế độ thực hành">
-    <button class="chip" id="tab-task" aria-pressed="true">Bài tập theo bài</button>
-    <button class="chip" id="tab-parse" aria-pressed="false">Phân tích công thức</button>
-  </div>
-
-  <section id="pane-task" aria-label="Bài tập">
-    <div class="tbar">
-      <select id="mon" aria-label="Chọn môn">
-        <option value="excel">Excel</option>
-        <option value="word">Word</option>
-      </select>
-      <div id="bai-div" style="flex:3;min-width:240px"></div>
+  <div class="exam-head">
+    <div>
+      <h1>Thực hành</h1>
+      <p class="muted">Chọn môn Excel hoặc Word, chọn bài — bảng tính hoặc khung soạn thảo hiện ra đúng bố cục. Làm xong bấm <strong>Nộp bài &amp; Chấm</strong>.</p>
     </div>
-    <p>
-      <a class="btn secondary" id="dl-file" href="#" download>Tải file bài tập</a>
-      <a class="btn secondary" id="open-app" href="#">Mở trong app</a>
-      <span class="muted" id="task-score"></span>
-    </p>
-    <div id="tasks"></div>
-  </section>
+    <div class="exam-submit">
+      <button id="grade" class="btn-lg">Nộp bài &amp; Chấm</button><br>
+      <span class="muted" id="score"></span><br>
+      <label class="muted" style="font-size:.85rem"><input type="checkbox" id="autograde" checked> Tự động chấm khi sửa</label>
+    </div>
+  </div>
+  <div class="tbar">
+    <select id="mon" aria-label="Chọn môn Excel hay Word">
+      <option value="excel">Excel</option>
+      <option value="word">Word</option>
+    </select>
+    <div id="bai-div" style="flex:3;min-width:240px"></div>
+  </div>
+  <div class="exam-grid">
+    <aside aria-label="Đề bài cần làm">
+      <h2>Đề bài</h2>
+      <div id="tasks"></div>
+      <p class="btn-row">
+        <a class="btn secondary" id="dl-file" href="#" download>Tải file bài tập</a>
+        <a class="btn secondary" id="open-app" href="#">Mở trong app</a>
+      </p>
+    </aside>
+    <section aria-label="Khu vực làm bài">
+      <div id="sheetsec">
+        <div id="luckysheet" style="height:640px;border:1px solid var(--border);border-radius:10px;overflow:hidden"></div>
+        <p class="muted">Nhập công thức vào ô vàng cột E. Bài làm tự lưu, tick Tự động chấm để khỏi bấm nộp.</p>
+      </div>
+      <div id="docsec" hidden>
+        <div class="tbar" role="toolbar" aria-label="Thanh định dạng văn bản" id="doctool" style="background:#fff;border:1px solid var(--border);border-radius:10px;padding:.4rem;margin-bottom:.5rem">
+          <select id="wfont" aria-label="Chọn font chữ"></select>
+          <select id="wsize" aria-label="Cỡ chữ">
+            <option value="2">13</option><option value="3" selected>16</option><option value="4">18</option>
+            <option value="5">24</option><option value="6">32</option><option value="7">48</option>
+          </select>
+          <select id="wblock" aria-label="Kiểu đoạn">
+            <option value="p">Thường</option><option value="h1">Tiêu đề 1</option><option value="h2">Tiêu đề 2</option>
+            <option value="h3">Tiêu đề 3</option><option value="blockquote">Trích dẫn</option><option value="pre">Mã nguồn</option>
+          </select>
+          <button data-cmd="bold" title="Đậm (Ctrl+B)"><strong>B</strong></button>
+          <button data-cmd="italic" title="Nghiêng (Ctrl+I)"><em>I</em></button>
+          <button data-cmd="underline" title="Gạch chân (Ctrl+U)"><u>U</u></button>
+          <button data-cmd="strikeThrough" title="Gạch ngang">S</button>
+          <label title="Màu chữ">A<input type="color" id="wfore" value="#1a2b26"></label>
+          <label title="Tô nền">✎<input type="color" id="whilite" value="#fff7d6"></label>
+          <button data-cmd="justifyLeft" title="Căn trái">⇤</button>
+          <button data-cmd="justifyCenter" title="Căn giữa">⇔</button>
+          <button data-cmd="justifyRight" title="Căn phải">⇥</button>
+          <button data-cmd="justifyFull" title="Căn đều">☰</button>
+          <button data-cmd="listul" title="Danh sách chấm">• ≡</button>
+          <button data-cmd="listol" title="Danh sách số">1. ≡</button>
+          <button data-cmd="indent" title="Thụt vào">→|</button>
+          <button data-cmd="outdent" title="Thụt ra">|←</button>
+          <button data-cmd="table2" title="Chèn bảng 2×2">▦₂</button>
+          <button data-cmd="table3" title="Chèn bảng 3×3">▦₃</button>
+          <button data-cmd="link" title="Chèn liên kết">🔗</button>
+          <button data-cmd="undo" title="Hoàn tác">↩</button>
+          <button data-cmd="redo" title="Làm lại">↪</button>
+          <button data-cmd="clear" title="Xóa định dạng">⌫</button>
+        </div>
+        <div id="docedit" contenteditable="true" aria-label="Vùng soạn thảo văn bản"
+          style="border:1px solid var(--border);border-radius:10px;background:#fff;min-height:420px;padding:1rem"></div>
+        <p class="muted"><span id="wcount"></span> · Bôi đen chữ rồi bấm nút định dạng.</p>
+      </div>
+    </section>
+  </div>
 
-  <section id="pane-parse" hidden aria-label="Phân tích công thức">
+  <section id="pane-parse" aria-label="Phân tích công thức">
     <div class="card">
-      <h2 style="margin-top:0">Nhận dạng &amp; giải thích công thức</h2>
-      <p class="muted">Dán công thức Excel (ví dụ <code>=SUMIFS(D4:D18,B4:B18,"Bắc")+AVERAGE(C2:C10)</code>). Hệ thống tách hàm, kiểm tra lỗi và giải thích từng phần.</p>
+      <h2 style="margin-top:0">Nhận dạng &amp; giải thích công thức (Excel)</h2>
+      <p class="muted">Dán công thức Excel. Hệ thống tách hàm, kiểm tra lỗi và giải thích từng phần.</p>
       <p><label for="fx">Công thức<br><input type="text" id="fx" style="font-family:monospace" placeholder="=VLOOKUP(A2,B:D,3,0)"></label></p>
       <p><button id="analyze">Phân tích</button></p>
       <div id="fx-out"></div>
     </div>
   </section>
+
+  <div class="card" style="margin-top:1.5rem">
+    <h2 style="margin-top:0">Chấm bài trực tiếp trong Excel</h2>
+    <p class="muted">Cài add-in vào Excel để web đọc <strong>ô bạn đang chọn</strong> và chấm đúng/sai ngay trong app.</p>
+    <p class="btn-row"><a class="btn secondary" href="manifest.xml" download>Tải file cài add-in (manifest.xml)</a></p>
+    <ol class="muted">
+      <li>Mở Excel → Insert → Add-ins → Advanced → Upload My Add-in → chọn file manifest vừa tải.</li>
+      <li>Tab <strong>Luyện tập</strong> xuất hiện trên Ribbon → bấm <strong>Chấm bài</strong>.</li>
+      <li>Chọn bài, gõ công thức vào ô tính, bôi đen ô đó rồi bấm <strong>Kiểm tra ô đang chọn</strong>.</li>
+    </ol>
+  </div>
 </main>
 <footer class="site-footer">Excel &amp; Word Lab</footer>
+<script src="assets/vendor/jquery.min.js?v=2"></script>
+<script src="assets/vendor/plugin.js?v=2"></script>
+<script src="assets/vendor/luckysheet.umd.js?v=2"></script>
 <script src="assets/js/common.js"></script>
 <script>
-let D = null, FDB = {};
+let D = null, FDB = {}, targets = [];
 const $ = id => document.getElementById(id);
 const norm = s => (s || "").toUpperCase().replace(/\s+/g, "");
+const FONTS = ["Times New Roman", "Arial", "Tahoma", "Verdana", "Calibri", "Cambria",
+  "Georgia", "Courier New", "Segoe UI", "Roboto", "Open Sans", "Noto Sans", "Consolas", "Be Vietnam Pro"];
+const SAMPLE = [
+  ["Mặt hàng", "Số lượng", "Đơn giá", "", "Trả lời ở cột E"],
+  ["Bút bi", 120, 3500, "", ""], ["Vở kẻ ngang", 85, 12000, "", ""],
+  ["Thước kẻ", 60, 8000, "", ""], ["Compa", 45, 25000, "", ""],
+  ["Tẩy", 200, 4000, "", ""], ["Màu nước", 30, 55000, "", ""],
+  ["Giấy A4", 150, 1200, "", ""], ["Kẹp giấy", 90, 15000, "", ""]
+];
+const WORD_DOC = `<h2>Báo cáo tuần của phòng kinh doanh</h2><p>Trong tuần qua, đội ngũ đã hoàn thành vượt mức các chỉ tiêu được giao. Doanh số tăng trưởng ổn định ở tất cả các khu vực.</p><p>Các nhiệm vụ trọng tâm tuần tới bao gồm chăm sóc khách hàng cũ, mở rộng thị trường mới và hoàn thiện báo cáo tồn kho.</p><p>Đề nghị các thành viên gửi số liệu về cho trưởng nhóm trước 17 giờ thứ Sáu.</p>`;
+const WORD_DRILLS = [
+  { id: "bold", label: "Bôi đậm dòng tiêu đề", hint: "Bôi đen dòng đầu rồi bấm B", check: r => !!r.querySelector("b,strong") },
+  { id: "italic", label: "In nghiêng 1 cụm từ quan trọng", hint: "Bôi đen vài chữ rồi bấm I", check: r => !!r.querySelector("i,em") },
+  { id: "underline", label: "Gạch chân 1 cụm từ", hint: "Bôi đen rồi bấm U", check: r => !!r.querySelector("u") },
+  { id: "center", label: "Căn giữa 1 đoạn văn", hint: "Đặt con trỏ vào đoạn rồi bấm Giữa", check: r => [...r.querySelectorAll("*")].some(e => (e.style.textAlign || "").toLowerCase() === "center") },
+  { id: "heading", label: "Đặt 1 dòng làm Tiêu đề", hint: "Bôi đen dòng rồi chọn Tiêu đề", check: r => !!r.querySelector("h1,h2,h3") },
+  { id: "list", label: "Tạo danh sách đầu dòng", hint: "Bôi đen các dòng rồi bấm Danh sách", check: r => !!r.querySelector("ul,ol") },
+  { id: "table", label: "Chèn 1 bảng", hint: "Đặt con trỏ cuối văn bản rồi bấm Bảng", check: r => !!r.querySelector("table") }
+];
 
+/* ---------- Excel sheet ---------- */
+async function loadSheetLesson() {
+  targets = [];
+  const fx = (D.practice || []).filter(t => t.loai === "cong_thuc" && t.dap_an).slice(0, 8);
+  fx.forEach((t, i) => targets.push({ row: i + 1, col: 4, task: t }));
+  const celldata = [];
+  SAMPLE.forEach((r, ri) => r.forEach((v, ci) => {
+    const cell = { r: ri, c: ci, v: { v } };
+    if (ri === 0) cell.v.bl = 1;
+    if (ci === 4 && ri > 0) { cell.v.bg = "#fff7d6"; cell.v.v = ""; }
+    celldata.push(cell);
+  }));
+  try { if (window.luckysheet) luckysheet.destroy(); } catch (e) {}
+  if (!window.luckysheet || !luckysheet.create) {
+    document.getElementById("luckysheet").innerHTML =
+      `<div class="empty">Không tải được bảng tính. Kiểm tra mạng rồi tải lại trang.</div>`;
+    return;
+  }
+  const skey = "sheet_" + D.mon + "_" + D.video_id;
+  let initData = [{ name: "Luyện tập", color: "", index: "0", status: "1", order: "0", hide: 0, row: 60, column: 16, celldata, config: {} }];
+  try {
+    const saved = App.store.get(skey, null);
+    if (saved && Array.isArray(saved) && saved[0] && saved[0].celldata) initData = saved;
+  } catch (e) {}
+  clearTimeout(App._saveT);
+  try {
+    luckysheet.create({
+      container: "luckysheet", lang: "en", title: D.bai,
+      row: 60, column: 16, showinfobar: false, fontarray: FONTS,
+      data: initData,
+      updated: function () {
+        clearTimeout(App._saveT);
+        App._saveT = setTimeout(() => {
+          try { App.store.set(skey, luckysheet.getluckysheetfile()); } catch (e) {}
+          if ($("autograde").checked) { clearTimeout(App._gradeT); App._gradeT = setTimeout(() => gradeExcel(false), 1200); }
+        }, 800);
+      }
+    });
+  } catch (e) {
+    document.getElementById("luckysheet").innerHTML =
+      `<div class="empty">Bảng tính lỗi khởi tạo (${App.esc(e.message || e)}). Hãy tải lại trang.</div>`;
+    return;
+  }
+  renderExcelTasks();
+}
+function renderExcelTasks(done) {
+  done = done || {};
+  $("tasks").innerHTML = targets.map((tg, i) => {
+    const st = done[i];
+    return `<div class="card" style="margin-bottom:.75rem">
+      <p><strong>E${tg.row + 1}:</strong> ${App.esc(tg.task.yeu_cau)}</p>
+      <p>${st === true ? "<strong>Đúng ✓</strong>" : st === false ? `<strong>Chưa đúng.</strong> Mẫu: <code>${App.esc((tg.task.dap_an || []).join(" | "))}</code>` : `<span class="muted">Gợi ý: <code>${App.esc(tg.task.goi_y || "")}</code></span>`}</p>
+    </div>`;
+  }).join("") || `<div class="empty">Bài này không có bài tập công thức — hãy làm trắc nghiệm.</div>`;
+}
+function gradeExcel(scroll) {
+  let flow = null;
+  try { flow = luckysheet.getSheetData(); } catch (e) { flow = null; }
+  let score = 0;
+  const done = {};
+  targets.forEach((tg, i) => {
+    const c = flow && flow[tg.row] && flow[tg.row][tg.col];
+    const f = c && c.f ? norm("=" + c.f) : "";
+    const ok = !!f && tg.task.dap_an.some(a => norm(a) === f);
+    done[i] = ok;
+    if (ok) score++;
+  });
+  renderExcelTasks(done);
+  $("score").textContent = `Đúng ${score}/${targets.length} ô`;
+  if (scroll !== false) document.querySelector(".exam-grid aside").scrollIntoView({ block: "start" });
+}
+
+/* ---------- Word editor ---------- */
+function wcmd(cmd, val) {
+  $("docedit").focus();
+  if (cmd === "table2" || cmd === "table3") {
+    const n = cmd === "table2" ? 2 : 3;
+    let h = "<table border='1' style='border-collapse:collapse;width:100%'>";
+    for (let r = 0; r < n; r++) { h += "<tr>"; for (let c = 0; c < n; c++) h += "<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>"; h += "</tr>"; }
+    document.execCommand("insertHTML", false, h + "</table><p></p>");
+  } else if (cmd === "link") {
+    const u = prompt("Nhập đường dẫn:", "https://");
+    if (u) document.execCommand("createLink", false, u);
+  } else if (cmd === "clear") {
+    document.execCommand("removeFormat");
+  } else if (cmd === "listul") document.execCommand("insertUnorderedList");
+  else if (cmd === "listol") document.execCommand("insertOrderedList");
+  else document.execCommand(cmd, false, val || null);
+  updateCount();
+}
+function updateCount() {
+  const w = ($("docedit").innerText || "").trim().split(/\s+/).filter(Boolean).length;
+  $("wcount").textContent = w + " từ";
+}
+function loadDocLesson() {
+  $("docedit").innerHTML = WORD_DOC;
+  updateCount();
+  const items = (D.practice || []).filter(t => t.loai !== "cong_thuc").slice(0, 6);
+  $("tasks").innerHTML =
+    `<div class="card" style="margin-bottom:.75rem"><p><strong>Kỹ năng tự luyện theo bài.</strong> <span class="muted">Tích vào ô khi bạn đã tự làm được trong khung soạn thảo.</span></p>
+    ${items.map(t => `<p><label><input type="checkbox" data-manual> ${App.esc(t.yeu_cau.slice(0, 140))}</label></p>`).join("") || `<p class="muted">Bài này không có bài tập thao tác.</p>`}</div>` +
+    WORD_DRILLS.map((d, i) => `
+    <div class="card" style="margin-bottom:.75rem" data-drill="${d.id}">
+      <p><strong>${i + 1}. ${App.esc(d.label)}</strong></p>
+      <p class="muted" data-wmsg>Gợi ý: ${App.esc(d.hint)}</p>
+    </div>`).join("");
+}
+function gradeWord(scroll) {
+  const root = $("docedit");
+  let score = 0;
+  WORD_DRILLS.forEach(d => {
+    let ok = false;
+    try { ok = !!d.check(root); } catch (e) { ok = false; }
+    if (ok) score++;
+    const card = document.querySelector(`[data-drill="${d.id}"]`);
+    if (card) card.querySelector("[data-wmsg]").innerHTML = ok ? "<strong>Đúng ✓</strong>" : "<strong>Chưa thấy.</strong> " + App.esc("Gợi ý: " + d.hint);
+  });
+  const manual = document.querySelectorAll("[data-manual]:checked").length;
+  $("score").textContent = `Định dạng đúng ${score}/${WORD_DRILLS.length} · Tự luyện ${manual} mục`;
+  if (scroll !== false) document.querySelector(".exam-grid aside").scrollIntoView({ block: "start" });
+}
+
+/* ---------- Chung ---------- */
 async function loadLesson() {
   const mon = $("mon").value, vid = (App._baiPicker && App._baiPicker.get()) || "";
   if (!vid) return;
   D = await App.load(`lessons/${mon}_${vid}.json`);
-  const ext = mon === "excel" ? "csv" : "doc";
+  const isWord = mon === "word";
+  $("sheetsec").hidden = isWord;
+  $("docsec").hidden = !isWord;
+  $("pane-parse").hidden = isWord;
+  $("score").textContent = "";
+  const ext = isWord ? "doc" : "csv";
   const url = `files/practice_${vid}.${ext}`;
   $("dl-file").href = url;
   $("dl-file").textContent = `Tải file bài tập (.${ext})`;
-  const scheme = mon === "excel" ? "ms-excel" : "ms-word";
+  const scheme = isWord ? "ms-word" : "ms-excel";
   $("open-app").href = `${scheme}:ofe|u|${location.origin}${location.pathname.replace(/[^/]*$/, "")}${url}`;
-  $("open-app").textContent = mon === "excel" ? "Mở trong Excel" : "Mở trong Word";
-  let score = 0, done = 0;
-  $("tasks").innerHTML = (D.practice || []).map((t, i) => `
-    <div class="card task" style="margin-bottom:1rem" data-i="${i}">
-      <p><strong>Bài ${i + 1} (${t.loai === "cong_thuc" ? "công thức" : "thao tác"}).</strong> ${App.esc(t.yeu_cau)}</p>
-      <p><input type="text" data-ans placeholder="Nhập câu trả lời / công thức của bạn…" aria-label="Câu trả lời bài ${i + 1}"></p>
-      <p class="btn-row"><button data-check>Chấm</button><button data-hint class="secondary btn">Gợi ý</button></p>
-      <p class="muted" data-msg></p>
-      ${t.giai_thich ? `<p class="muted">Giải thích: ${App.esc(t.giai_thich)}</p>` : ""}
-    </div>`).join("") || `<div class="empty">Bài này chưa có bài tập.</div>`;
-  document.querySelectorAll(".task").forEach(box => {
-    const t = D.practice[+box.dataset.i];
-    const input = box.querySelector("[data-ans]");
-    const msg = box.querySelector("[data-msg]");
-    box.querySelector("[data-check]").addEventListener("click", () => {
-      const v = input.value.trim();
-      if (!v) { msg.textContent = "Bạn chưa nhập gì."; return; }
-      let ok = false, extra = "";
-      if (t.loai === "cong_thuc" && t.dap_an) {
-        ok = t.dap_an.some(a => norm(a) === norm(v));
-        if (!ok && t.dap_an.some(a => norm(v).includes(norm(a).slice(0, 8)))) extra = " (gần đúng — kiểm tra dấu $ và vùng)";
-      } else if (t.tu_khoa) {
-        const hit = t.tu_khoa.filter(k => norm(v).includes(norm(k)));
-        ok = hit.length >= Math.max(2, Math.ceil(t.tu_khoa.length * 0.6));
-        extra = ` (trúng ${hit.length}/${t.tu_khoa.length} từ khóa)`;
-      }
-      done++;
-      if (ok) { score++; msg.innerHTML = `<strong>Đúng ✓</strong>${extra}`; }
-      else msg.innerHTML = `<strong>Chưa đúng.</strong>${extra} Xem gợi ý hoặc đáp án: <code>${App.esc((t.dap_an || []).join(" | "))}</code>`;
-      input.disabled = true;
-      box.querySelector("[data-check]").disabled = true;
-      $("task-score").textContent = `Đúng ${score}/${done} bài đã làm`;
-    });
-    box.querySelector("[data-hint]").addEventListener("click", () => {
-      msg.textContent = "Gợi ý: " + (t.goi_y || "xem lại các bước trong video");
-    });
+  $("open-app").textContent = isWord ? "Mở trong Word" : "Mở trong Excel";
+  if (isWord) loadDocLesson();
+  else loadSheetLesson();
+}
+function grade() {
+  if ($("mon").value === "word") gradeWord(true);
+  else gradeExcel(true);
+}
+async function fillBai(mon) {
+  const lessons = await App.load(mon === "word" ? "word_lessons.json" : "excel_lessons.json");
+  const num = l => { const m = String(l.stt != null ? l.stt : (l.bai || "")).match(/(\d+)/); return m ? +m[1] : 999; };
+  lessons.sort((a, b) => num(a) - num(b));
+  App._baiPicker = App.lessonPicker($("bai-div"), {
+    placeholder: "Chọn bài học",
+    options: lessons.map(l => ({ value: l.video_id, label: l.bai, desc: "", meta: `${l.so_cau} câu` })),
+    value: new URLSearchParams(location.search).get("bai") || (lessons[0] ? lessons[0].video_id : ""),
+    onChange: loadLesson
   });
 }
 
-/* ---- Formula parser ---- */
+/* ---------- Phan tich cong thuc ---------- */
 function tokenize(s) {
   const toks = [];
   let i = 0;
@@ -143,37 +328,32 @@ function tokenize(s) {
   }
   return toks;
 }
+let FDB = {};
 function analyzeFormula(src) {
-  const errs = [], warns = [], funcs = [];
+  const errs = [], warns = [];
   src = src.trim();
   if (!src.startsWith("=")) errs.push("Công thức Excel phải bắt đầu bằng dấu =");
-  const body = src.startsWith("=") ? src.slice(1) : src;
-  const toks = tokenize(body);
+  const toks = tokenize(src.startsWith("=") ? src.slice(1) : src);
   let depth = 0;
   toks.forEach(t => { if (t.t === "paren") depth += t.v === "(" ? 1 : -1; if (depth < 0) errs.push("Dư dấu đóng ngoặc )"); });
   if (depth > 0) errs.push(`Thiếu ${depth} dấu đóng ngoặc )`);
   const known = new Set(Object.keys(FDB).map(k => k.toUpperCase()));
-  const seen = [];
   for (let i = 0; i < toks.length; i++) {
     if (toks[i].t === "word" && toks[i + 1] && toks[i + 1].t === "paren" && toks[i + 1].v === "(") {
       const name = toks[i].v.toUpperCase();
       if (/^(\$?[A-Z]{1,3}\$?\d+(:\$?[A-Z]{1,3}\$?\d+)?)$/.test(name)) continue;
-      seen.push(name);
       if (!known.has(name)) warns.push(`Hàm lạ "${toks[i].v}" — kiểm tra chính tả (có phân biệt hàm tự tạo VBA)`);
     }
   }
-  // cây lồng nhau: đếm độ sâu từng hàm
   const tree = [];
   let d = 0;
   for (let i = 0; i < toks.length; i++) {
     if (toks[i].t === "word" && toks[i + 1] && toks[i + 1].v === "(") {
-      tree.push({ name: toks[i].v, depth: d, info: FDB[toks[i].v.toUpperCase()] });
+      tree.push({ name: toks[i].v, info: FDB[toks[i].v.toUpperCase()] });
       d++;
-    } else if (toks[i].t === "paren") {
-      if (toks[i].v === ")") d = Math.max(0, d - 1);
-    }
+    } else if (toks[i].t === "paren" && toks[i].v === ")") d = Math.max(0, d - 1);
   }
-  return { errs, warns, tree, toks: toks.length };
+  return { errs, warns, tree };
 }
 function renderAnalysis(src) {
   const r = analyzeFormula(src);
@@ -186,32 +366,42 @@ function renderAnalysis(src) {
       : `<p class="muted">Không phát hiện lời gọi hàm nào (chỉ là phép tính thường).</p>`}
     <p class="muted">Thứ tự tính: Excel tính hàm trong cùng trước, rồi lan ra ngoài; sau đó theo ưu tiên ngoặc → lũy thừa → nhân/chia → cộng/trừ.</p>`;
 }
-async function fillBai(mon) {
-  const lessons = await App.load(mon === "word" ? "word_lessons.json" : "excel_lessons.json");
-  const num = l => { const m = String(l.stt != null ? l.stt : (l.bai || "")).match(/(\d+)/); return m ? +m[1] : 999; };
-  lessons.sort((a, b) => num(a) - num(b));
-  App._baiPicker = App.lessonPicker(document.getElementById("bai-div"), {
-    placeholder: "Chọn bài học",
-    options: lessons.map(l => ({ value: l.video_id, label: l.bai, desc: "", meta: "" })),
-    value: new URLSearchParams(location.search).get("bai") || (lessons[0] ? lessons[0].video_id : ""),
-    onChange: loadLesson
-  });
-}
+
 (async () => {
   FDB = {};
   (await App.load("excel_formulas.json")).forEach(f => { if (f.ten && !FDB[f.ten.toUpperCase()]) FDB[f.ten.toUpperCase()] = f; });
-  $("tab-task").addEventListener("click", () => {
-    $("tab-task").setAttribute("aria-pressed", "true"); $("tab-parse").setAttribute("aria-pressed", "false");
-    $("pane-task").hidden = false; $("pane-parse").hidden = true;
-  });
-  $("tab-parse").addEventListener("click", () => {
-    $("tab-parse").setAttribute("aria-pressed", "true"); $("tab-task").setAttribute("aria-pressed", "false");
-    $("pane-parse").hidden = false; $("pane-task").hidden = true;
-  });
   const p = new URLSearchParams(location.search);
   if (p.get("mon")) $("mon").value = p.get("mon");
   await fillBai($("mon").value);
   $("mon").addEventListener("change", async () => { await fillBai($("mon").value); loadLesson(); });
+  $("grade").addEventListener("click", grade);
+  document.querySelectorAll("#doctool [data-cmd]").forEach(b => b.addEventListener("click", () => {
+    const cmd = b.dataset.cmd;
+    $("docedit").focus();
+    if (cmd === "table2" || cmd === "table3") {
+      const n = cmd === "table2" ? 2 : 3;
+      let h = "<table border='1' style='border-collapse:collapse;width:100%'>";
+      for (let r = 0; r < n; r++) { h += "<tr>"; for (let c = 0; c < n; c++) h += "<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>"; h += "</tr>"; }
+      document.execCommand("insertHTML", false, h + "</table><p></p>");
+    } else if (cmd === "link") {
+      const u = prompt("Nhập đường dẫn:", "https://");
+      if (u) document.execCommand("createLink", false, u);
+    } else if (cmd === "clear") document.execCommand("removeFormat");
+    else if (cmd === "listul") document.execCommand("insertUnorderedList");
+    else if (cmd === "listol") document.execCommand("insertOrderedList");
+    else document.execCommand(cmd);
+    updateCount();
+  }));
+  $("wfont").innerHTML = FONTS.map(f => `<option>${f}</option>`).join("");
+  $("wfont").addEventListener("change", () => { $("docedit").focus(); document.execCommand("fontName", false, $("wfont").value); });
+  $("wsize").addEventListener("change", () => { $("docedit").focus(); document.execCommand("fontSize", false, $("wsize").value); });
+  $("wblock").addEventListener("change", () => { $("docedit").focus(); document.execCommand("formatBlock", false, $("wblock").value); });
+  $("wfore").addEventListener("input", () => { $("docedit").focus(); document.execCommand("foreColor", false, $("wfore").value); });
+  $("whilite").addEventListener("input", () => { $("docedit").focus(); document.execCommand("hiliteColor", false, $("whilite").value); });
+  $("docedit").addEventListener("input", () => {
+    updateCount();
+    if ($("autograde").checked) { clearTimeout(App._wT); App._wT = setTimeout(() => gradeWord(false), 1500); }
+  });
   $("analyze").addEventListener("click", () => {
     const v = $("fx").value.trim();
     if (!v) { $("fx-out").innerHTML = `<p class="muted">Nhập công thức trước.</p>`; return; }
@@ -219,6 +409,10 @@ async function fillBai(mon) {
   });
   await loadLesson();
 })();
+function updateCount() {
+  const w = ($("docedit").innerText || "").trim().split(/\s+/).filter(Boolean).length;
+  $("wcount").textContent = w + " từ";
+}
 </script>
 </body>
 </html>
