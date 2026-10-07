@@ -52,6 +52,7 @@
   <p><button id="new-quiz">Đổi đề mới</button> <span class="muted" id="mini-score"></span></p>
   <div id="mini-quiz"></div>
 </main>
+<div id="modal-root"></div>
 <footer class="site-footer">Excel &amp; Word Lab</footer>
 <script src="https://www.youtube.com/iframe_api"></script>
 <script src="assets/js/common.js"></script>
@@ -147,7 +148,30 @@ function renderNotes(list) {
     renderNotes(all);
   }));
 }
-async function renderMiniQuiz() {
+async function showFxModal(x) {
+  if (!x) return;
+  const notes = App.store.get("fnote_" + (x.ten || ""), []);
+  document.getElementById("modal-root").innerHTML = `
+    <div class="modal-backdrop" id="bd">
+      <div class="modal" role="dialog" aria-modal="true" aria-label="${App.esc(x.ten)}" style="max-height:85vh;overflow:auto">
+        <h2>${App.esc(x.ten)}</h2>
+        ${(x.cu_phap || x.thao_tac) ? `<p><code>${App.esc(x.cu_phap || x.thao_tac || "")}</code></p>` : ""}
+        ${x.giai_thich ? `<p>${App.esc(x.giai_thich)}</p>` : ""}
+        ${x.vi_du ? `<h3>Ví dụ theo công thức</h3><p><code>${App.esc(x.vi_du)}</code></p>` : ""}
+        ${notes.length ? `<h3>Ghi chú của bạn</h3><ul>${notes.map(n => `<li>${n.t ? `<code>${App.esc(n.t)}</code> — ` : ""}${App.esc(n.text)}</li>`).join("")}</ul>` : ""}
+        <p><a class="btn secondary" href="cong-thuc.html">Ghi chú trong trang Công thức</a>
+        <button id="fxclose">Đóng</button></p>
+      </div>
+    </div>`;
+  const close = () => document.getElementById("modal-root").innerHTML = "";
+  document.getElementById("fxclose").focus();
+  document.getElementById("fxclose").addEventListener("click", close);
+  document.getElementById("bd").addEventListener("click", e => { if (e.target.id === "bd") close(); });
+  document.addEventListener("keydown", function esc(e) {
+    if (e.key === "Escape") { close(); document.removeEventListener("keydown", esc); }
+  });
+}
+function renderMiniQuiz() {
   const pool = [...D.quiz].sort(() => Math.random() - 0.5).slice(0, 10);
   let score = 0;
   $("mini-quiz").innerHTML = pool.map((q, i) => `
@@ -214,14 +238,22 @@ async function renderMiniQuiz() {
     for (const n of GORDER) { if (n !== "Kỹ thuật" && CAT[n].test(fn)) { g = n; break; } }
     (grp[g] = grp[g] || []).push(x);
   });
+  const fall = [];
   $("formulas").innerHTML = items.length ? GORDER.filter(g => grp[g]).map(g => `
     <h3 class="fx-group">${App.esc(g)} (${grp[g].length})</h3>
-    ${grp[g].map(x => `
-    <div class="fx-item">
+    ${grp[g].map(x => {
+      const idx = fall.push(x) - 1;
+      return `
+    <div class="fx-item" data-fx="${idx}" role="button" tabindex="0" title="Bấm để xem chi tiết">
       <strong>${App.esc(x.ten)}</strong> ${x.cu_phap || x.thao_tac ? `<code>${App.esc(x.cu_phap || x.thao_tac || "")}</code>` : ""}
       ${(x.vi_du || x.giai_thich) ? `<br><span class="muted">${App.esc((x.vi_du ? "VD: " + x.vi_du + " · " : "") + (x.giai_thich || "")).slice(0, 160)}</span>` : ""}
-    </div>`).join("")}`).join("")
+    </div>`; }).join("")}`).join("")
     : `<p class="muted">Bài giới thiệu, không có công thức.</p>`;
+  document.querySelectorAll("[data-fx]").forEach(el2 => {
+    const open = () => showFxModal(fall[+el2.dataset.fx]);
+    el2.addEventListener("click", open);
+    el2.addEventListener("keydown", e => { if (e.key === "Enter") open(); });
+  });
   $("mark-done").addEventListener("click", () => {
     const on = App.toggleLesson(VID);
     setProg({ done: on });
