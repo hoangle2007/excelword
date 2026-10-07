@@ -207,7 +207,7 @@ table.data td code, .card code { overflow-wrap: anywhere; }
 .exam-submit { text-align: right; }
 .exam-grid { display: grid; gap: var(--space-5); grid-template-columns: 1fr; }
 @media (min-width: 1100px) {
-  .exam-grid { grid-template-columns: minmax(320px, 430px) 1fr; align-items: start; }
+  .exam-grid { grid-template-columns: minmax(300px, 360px) minmax(0, 1fr); align-items: start; }
   .exam-grid aside { position: sticky; top: 70px; max-height: calc(100vh - 90px); overflow: auto; }
 }
 /* Buttons */
