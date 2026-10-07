@@ -67,12 +67,19 @@ h2 { font-size: 1.25rem; margin: var(--space-5) 0 var(--space-3); }
 }
 .badge.warn { background: #faf0d7; color: #7a5b12; }
 .badge.hard { background: #fbe3e0; color: #8f2b20; }
-.toolbar { display: flex; gap: var(--space-2); flex-wrap: wrap; margin-bottom: var(--space-4); }
-input[type="search"], input[type="text"], select {
+.tbar { display: flex; gap: var(--space-2); flex-wrap: wrap; margin-bottom: var(--space-4); align-items: center; }
+fieldset select, fieldset input[type="text"], #note-text, #fnote, #fexa, #fx, [data-ans], .lp-search {
+  width: 100%;
   padding: var(--space-2) var(--space-3); border: 1px solid var(--border);
   border-radius: 6px; font-size: 1rem; background: #fff; color: var(--text);
 }
-input[type="search"] { flex: 1; min-width: 200px; }
+.tbar input[type="search"] {
+  padding: var(--space-2) var(--space-3); border: 1px solid var(--border);
+  border-radius: 6px; font-size: 1rem; background: #fff; color: var(--text);
+}
+#luckysheet button { min-height: 0; }
+#luckysheet select, #luckysheet input { width: auto; }
+.tbar input[type="search"] { flex: 1; min-width: 200px; width: auto; }
 button, .btn {
   background: var(--primary); color: #fff; border: none; border-radius: 6px;
   padding: var(--space-2) var(--space-4); font-size: 1rem; cursor: pointer;
@@ -156,9 +163,9 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 /* Forms */
 fieldset { border: 1px solid var(--border); border-radius: 6px; margin: 0 0 var(--space-4); padding: var(--space-4); }
 legend { font-weight: 700; padding: 0 var(--space-2); }
-label { display: block; }
+fieldset label, .card label { display: block; }
 select, input[type="search"], input[type="text"] { width: 100%; }
-.toolbar select { width: auto; }
+.tbar select { width: auto; }
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; animation: none !important; }
   button:active, .btn:active { transform: none; }
@@ -171,8 +178,8 @@ select, input[type="search"], input[type="text"] { width: 100%; }
   .nav-links { margin-left: 0; flex-wrap: nowrap; overflow-x: auto; padding-bottom: var(--space-1); -webkit-overflow-scrolling: touch; }
   .nav-links a { white-space: nowrap; }
   .hero { padding: var(--space-4); }
-  .toolbar { flex-direction: column; }
-  .toolbar select, .toolbar input { width: 100%; }
+  .tbar { flex-direction: column; align-items: stretch; }
+  .tbar select, .tbar input { width: 100%; }
   table.data { display: block; width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; }
   .modal { padding: var(--space-4); }
   .btn-row .btn, .btn-row button { flex: 1 1 auto; text-align: center; }
