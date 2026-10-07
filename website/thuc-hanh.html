@@ -126,7 +126,7 @@
 <script src="assets/js/common.js"></script>
 <script>
 let D = null, FDB = {}, targets = [];
-const $ = id => document.getElementById(id);
+const el = id => document.getElementById(id);
 const norm = s => (s || "").toUpperCase().replace(/\s+/g, "");
 const FONTS = ["Times New Roman", "Arial", "Tahoma", "Verdana", "Calibri", "Cambria",
   "Georgia", "Courier New", "Segoe UI", "Roboto", "Open Sans", "Noto Sans", "Consolas", "Be Vietnam Pro"];
@@ -182,7 +182,7 @@ async function loadSheetLesson() {
         clearTimeout(App._saveT);
         App._saveT = setTimeout(() => {
           try { App.store.set(skey, luckysheet.getluckysheetfile()); } catch (e) {}
-          if ($("autograde").checked) { clearTimeout(App._gradeT); App._gradeT = setTimeout(() => gradeExcel(false), 1200); }
+          if (el("autograde").checked) { clearTimeout(App._gradeT); App._gradeT = setTimeout(() => gradeExcel(false), 1200); }
         }, 800);
       }
     });
@@ -195,7 +195,7 @@ async function loadSheetLesson() {
 }
 function renderExcelTasks(done) {
   done = done || {};
-  $("tasks").innerHTML = targets.map((tg, i) => {
+  el("tasks").innerHTML = targets.map((tg, i) => {
     const st = done[i];
     return `<div class="card" style="margin-bottom:.75rem">
       <p><strong>E${tg.row + 1}:</strong> ${App.esc(tg.task.yeu_cau)}</p>
@@ -216,13 +216,13 @@ function gradeExcel(scroll) {
     if (ok) score++;
   });
   renderExcelTasks(done);
-  $("score").textContent = `Đúng ${score}/${targets.length} ô`;
+  el("score").textContent = `Đúng ${score}/${targets.length} ô`;
   if (scroll !== false) document.querySelector(".exam-grid aside").scrollIntoView({ block: "start" });
 }
 
 /* ---------- Word editor ---------- */
 function wcmd(cmd, val) {
-  $("docedit").focus();
+  el("docedit").focus();
   if (cmd === "table2" || cmd === "table3") {
     const n = cmd === "table2" ? 2 : 3;
     let h = "<table border='1' style='border-collapse:collapse;width:100%'>";
@@ -239,14 +239,14 @@ function wcmd(cmd, val) {
   updateCount();
 }
 function updateCount() {
-  const w = ($("docedit").innerText || "").trim().split(/\s+/).filter(Boolean).length;
-  $("wcount").textContent = w + " từ";
+  const w = (el("docedit").innerText || "").trim().split(/\s+/).filter(Boolean).length;
+  el("wcount").textContent = w + " từ";
 }
 function loadDocLesson() {
-  $("docedit").innerHTML = WORD_DOC;
+  el("docedit").innerHTML = WORD_DOC;
   updateCount();
   const items = (D.practice || []).filter(t => t.loai !== "cong_thuc").slice(0, 6);
-  $("tasks").innerHTML =
+  el("tasks").innerHTML =
     `<div class="card" style="margin-bottom:.75rem"><p><strong>Kỹ năng tự luyện theo bài.</strong> <span class="muted">Tích vào ô khi bạn đã tự làm được trong khung soạn thảo.</span></p>
     ${items.map(t => `<p><label><input type="checkbox" data-manual> ${App.esc(t.yeu_cau.slice(0, 140))}</label></p>`).join("") || `<p class="muted">Bài này không có bài tập thao tác.</p>`}</div>` +
     WORD_DRILLS.map((d, i) => `
@@ -256,7 +256,7 @@ function loadDocLesson() {
     </div>`).join("");
 }
 function gradeWord(scroll) {
-  const root = $("docedit");
+  const root = el("docedit");
   let score = 0;
   WORD_DRILLS.forEach(d => {
     let ok = false;
@@ -266,39 +266,39 @@ function gradeWord(scroll) {
     if (card) card.querySelector("[data-wmsg]").innerHTML = ok ? "<strong>Đúng ✓</strong>" : "<strong>Chưa thấy.</strong> " + App.esc("Gợi ý: " + d.hint);
   });
   const manual = document.querySelectorAll("[data-manual]:checked").length;
-  $("score").textContent = `Định dạng đúng ${score}/${WORD_DRILLS.length} · Tự luyện ${manual} mục`;
+  el("score").textContent = `Định dạng đúng ${score}/${WORD_DRILLS.length} · Tự luyện ${manual} mục`;
   if (scroll !== false) document.querySelector(".exam-grid aside").scrollIntoView({ block: "start" });
 }
 
 /* ---------- Chung ---------- */
 async function loadLesson() {
-  const mon = $("mon").value, vid = (App._baiPicker && App._baiPicker.get()) || "";
+  const mon = el("mon").value, vid = (App._baiPicker && App._baiPicker.get()) || "";
   if (!vid) return;
   D = await App.load(`lessons/${mon}_${vid}.json`);
   const isWord = mon === "word";
-  $("sheetsec").hidden = isWord;
-  $("docsec").hidden = !isWord;
-  $("pane-parse").hidden = isWord;
-  $("score").textContent = "";
+  el("sheetsec").hidden = isWord;
+  el("docsec").hidden = !isWord;
+  el("pane-parse").hidden = isWord;
+  el("score").textContent = "";
   const ext = isWord ? "doc" : "csv";
   const url = `files/practice_${vid}.${ext}`;
-  $("dl-file").href = url;
-  $("dl-file").textContent = `Tải file bài tập (.${ext})`;
+  el("dl-file").href = url;
+  el("dl-file").textContent = `Tải file bài tập (.${ext})`;
   const scheme = isWord ? "ms-word" : "ms-excel";
-  $("open-app").href = `${scheme}:ofe|u|${location.origin}${location.pathname.replace(/[^/]*$/, "")}${url}`;
-  $("open-app").textContent = isWord ? "Mở trong Word" : "Mở trong Excel";
+  el("open-app").href = `${scheme}:ofe|u|${location.origin}${location.pathname.replace(/[^/]*$/, "")}${url}`;
+  el("open-app").textContent = isWord ? "Mở trong Word" : "Mở trong Excel";
   if (isWord) loadDocLesson();
   else loadSheetLesson();
 }
 function grade() {
-  if ($("mon").value === "word") gradeWord(true);
+  if (el("mon").value === "word") gradeWord(true);
   else gradeExcel(true);
 }
 async function fillBai(mon) {
   const lessons = await App.load(mon === "word" ? "word_lessons.json" : "excel_lessons.json");
   const num = l => { const m = String(l.stt != null ? l.stt : (l.bai || "")).match(/(\d+)/); return m ? +m[1] : 999; };
   lessons.sort((a, b) => num(a) - num(b));
-  App._baiPicker = App.lessonPicker($("bai-div"), {
+  App._baiPicker = App.lessonPicker(el("bai-div"), {
     placeholder: "Chọn bài học",
     options: lessons.map(l => ({ value: l.video_id, label: l.bai, desc: "", meta: `${l.so_cau} câu` })),
     value: new URLSearchParams(location.search).get("bai") || (lessons[0] ? lessons[0].video_id : ""),
@@ -357,7 +357,7 @@ function analyzeFormula(src) {
 function renderAnalysis(src) {
   const r = analyzeFormula(src);
   const order = [...r.tree].reverse();
-  $("fx-out").innerHTML = `
+  el("fx-out").innerHTML = `
     ${r.errs.length ? `<div class="card" style="border-color:var(--danger);margin-bottom:1rem"><h3>Lỗi cú pháp (${r.errs.length})</h3><ul>${r.errs.map(e => `<li>${App.esc(e)}</li>`).join("")}</ul></div>` : `<p><span class="badge">Cú pháp ngoặc hợp lệ ✓</span></p>`}
     ${r.warns.length ? `<div class="card" style="margin-bottom:1rem"><h3>Cảnh báo</h3><ul>${r.warns.map(e => `<li>${App.esc(e)}</li>`).join("")}</ul></div>` : ""}
     <h3>Cây hàm (${r.tree.length} hàm, tính từ trong ra ngoài)</h3>
@@ -370,13 +370,13 @@ function renderAnalysis(src) {
   FDB = {};
   (await App.load("excel_formulas.json")).forEach(f => { if (f.ten && !FDB[f.ten.toUpperCase()]) FDB[f.ten.toUpperCase()] = f; });
   const p = new URLSearchParams(location.search);
-  if (p.get("mon")) $("mon").value = p.get("mon");
-  await fillBai($("mon").value);
-  $("mon").addEventListener("change", async () => { await fillBai($("mon").value); loadLesson(); });
-  $("grade").addEventListener("click", grade);
+  if (p.get("mon")) el("mon").value = p.get("mon");
+  await fillBai(el("mon").value);
+  el("mon").addEventListener("change", async () => { await fillBai(el("mon").value); loadLesson(); });
+  el("grade").addEventListener("click", grade);
   document.querySelectorAll("#doctool [data-cmd]").forEach(b => b.addEventListener("click", () => {
     const cmd = b.dataset.cmd;
-    $("docedit").focus();
+    el("docedit").focus();
     if (cmd === "table2" || cmd === "table3") {
       const n = cmd === "table2" ? 2 : 3;
       let h = "<table border='1' style='border-collapse:collapse;width:100%'>";
@@ -391,26 +391,26 @@ function renderAnalysis(src) {
     else document.execCommand(cmd);
     updateCount();
   }));
-  $("wfont").innerHTML = FONTS.map(f => `<option>${f}</option>`).join("");
-  $("wfont").addEventListener("change", () => { $("docedit").focus(); document.execCommand("fontName", false, $("wfont").value); });
-  $("wsize").addEventListener("change", () => { $("docedit").focus(); document.execCommand("fontSize", false, $("wsize").value); });
-  $("wblock").addEventListener("change", () => { $("docedit").focus(); document.execCommand("formatBlock", false, $("wblock").value); });
-  $("wfore").addEventListener("input", () => { $("docedit").focus(); document.execCommand("foreColor", false, $("wfore").value); });
-  $("whilite").addEventListener("input", () => { $("docedit").focus(); document.execCommand("hiliteColor", false, $("whilite").value); });
-  $("docedit").addEventListener("input", () => {
+  el("wfont").innerHTML = FONTS.map(f => `<option>${f}</option>`).join("");
+  el("wfont").addEventListener("change", () => { el("docedit").focus(); document.execCommand("fontName", false, el("wfont").value); });
+  el("wsize").addEventListener("change", () => { el("docedit").focus(); document.execCommand("fontSize", false, el("wsize").value); });
+  el("wblock").addEventListener("change", () => { el("docedit").focus(); document.execCommand("formatBlock", false, el("wblock").value); });
+  el("wfore").addEventListener("input", () => { el("docedit").focus(); document.execCommand("foreColor", false, el("wfore").value); });
+  el("whilite").addEventListener("input", () => { el("docedit").focus(); document.execCommand("hiliteColor", false, el("whilite").value); });
+  el("docedit").addEventListener("input", () => {
     updateCount();
-    if ($("autograde").checked) { clearTimeout(App._wT); App._wT = setTimeout(() => gradeWord(false), 1500); }
+    if (el("autograde").checked) { clearTimeout(App._wT); App._wT = setTimeout(() => gradeWord(false), 1500); }
   });
-  $("analyze").addEventListener("click", () => {
-    const v = $("fx").value.trim();
-    if (!v) { $("fx-out").innerHTML = `<p class="muted">Nhập công thức trước.</p>`; return; }
+  el("analyze").addEventListener("click", () => {
+    const v = el("fx").value.trim();
+    if (!v) { el("fx-out").innerHTML = `<p class="muted">Nhập công thức trước.</p>`; return; }
     renderAnalysis(v);
   });
   await loadLesson();
 })();
 function updateCount() {
-  const w = ($("docedit").innerText || "").trim().split(/\s+/).filter(Boolean).length;
-  $("wcount").textContent = w + " từ";
+  const w = (el("docedit").innerText || "").trim().split(/\s+/).filter(Boolean).length;
+  el("wcount").textContent = w + " từ";
 }
 </script>
 </body>

@@ -117,14 +117,14 @@ code { background: #edf5fc; padding: 0.1rem 0.4rem; border-radius: 4px; font-siz
 .hero h1 { margin: 0 0 var(--space-2); }
 .hero p { margin: 0 0 var(--space-4); color: var(--muted); max-width: 60ch; }
 /* Buttons: one filled primary, rest quiet */
-button:not(#luckysheet button), .btn {
+button:not(#luckysheet button):not(.lp-btn), .btn {
   background: var(--primary); color: #fff; border: none; border-radius: 6px;
   padding: var(--space-2) var(--space-4); font-size: 1rem; cursor: pointer;
   text-decoration: none; display: inline-block; min-height: 44px;
 }
-button:not(#luckysheet button):hover, .btn:hover { background: var(--primary-dark); }
-button:not(#luckysheet button):active, .btn:active { transform: translateY(1px); }
-button:not(#luckysheet button):disabled { background: #9db3ab; cursor: not-allowed; }
+button:not(#luckysheet button):not(.lp-btn):hover, .btn:hover { background: var(--primary-dark); }
+button:not(#luckysheet button):not(.lp-btn):active, .btn:active { transform: translateY(1px); }
+button:not(#luckysheet button):not(.lp-btn):disabled { background: #9db3ab; cursor: not-allowed; }
 button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible {
   outline: 3px solid #90caf9; outline-offset: 1px;
 }
@@ -141,7 +141,16 @@ button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible
 .chip:hover { border-color: var(--primary); background: #fff; color: var(--primary-dark); }
 .chip[aria-pressed="true"] { background: var(--primary); border-color: var(--primary); color: #fff; }
 /* Lesson picker (custom searchable dropdown) */
-.lp { position: relative; }
+.lp { position: relative; min-width: 0; }
+.lp-btn {
+  width: 100%; display: flex; justify-content: space-between; align-items: center; gap: var(--space-2);
+  background: #fff; color: var(--text); border: 1px solid var(--border);
+  text-align: left; font-weight: normal; min-height: 44px; font-size: 1rem;
+  border-radius: 6px; padding: var(--space-2) var(--space-3); cursor: pointer;
+}
+.lp-cur { min-width: 0; overflow-wrap: anywhere; }
+.exam-grid > * { min-width: 0; }
+#luckysheet { max-width: 100%; }
 .lp-btn {
   width: 100%; display: flex; justify-content: space-between; align-items: center; gap: var(--space-2);
   background: #fff; color: var(--text); border: 1px solid var(--border);
